@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 1995-08-06
+Version Consolidée au 1995-08-24
 
 # Partie législative
 
@@ -44578,6 +44578,69 @@ de la Martinique, de la Réunion et de Saint-Pierre-et-Miquelon.
 
 # Partie réglementaire - Décrets simples
 
+## Titre préliminaire
+
+###### Article D1
+
+I. - Toute association visée à l'article 2-15 peut demander l'agrément prévu par le deuxième alinéa de cet article dès lors
+qu'elle remplit les conditions suivantes :
+
+1° Un nombre représentatif de membres adhérents qui ont été victimes de l'infraction ;
+
+2° Des garanties suffisantes d'une activité effective en vue de la défense des victimes de l'infraction, notamment par
+l'intervention d'un avocat ;
+
+3° Le caractère désintéressé des activités.
+
+L'agrément est accordé par arrêté du ministre de la justice.
+
+La condition visée au 2° est notamment satisfaite par l'adhésion de l'association au sein d'une fédération lui permettant
+d'assurer une activité effective en vue de la défense des victimes et agréée par arrêté du ministre de la justice.
+
+II. - La demande d'agrément est adressée à la direction des affaires criminelles et des grâces du ministère de la justice. Le
+dossier accompagnant la demande d'agrément doit comprendre un exemplaire des statuts et du récépissé de déclaration, ainsi
+que la justification des conditions prévues aux 1° à 3° ci-dessus.
+
+Lorsque le dossier remis est complet, il en est délivré récépissé. La décision d'agrément ou de refus est notifiée dans un
+délai de deux mois à compter de la date de délivrance du récépissé. Les décisions de refus doivent être motivées.
+
+L'avis prévu par l'article 2-15 est donné par le procureur de la République de la juridiction saisie, ou par le procureur de
+la République de la juridiction dans le ressort de laquelle l'association a son siège.
+
+L'agrément peut être suspendu ou retiré par arrêté du ministre de la justice lorsque l'association ne remplit plus l'une des
+conditions ayant justifié l'agrément. L'association doit être au préalable mise en demeure de présenter ses observations.
+
+III. - Au moment de sa constitution de partie civile, le président de l'association doit faire connaître à la juridiction
+saisie la liste des personnes victimes de l'infraction qui ont adhéré à l'association. Il doit lui communiquer en cours de
+procédure l'identité des victimes dont l'adhésion est intervenue postérieurement à cette constitution de partie civile.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°58-1304 1958-12-23
+
+	**Modifié par**:
+
+	  - Décret n°95-932 du 17 août 1995 - art. 2 () JORF 24 août 1995
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°97-1187 du 19 décembre 1997 - art. 1 (V)
+
+	**Cité par**:
+
+	  - Arrêté du 19 octobre 2009 (V)
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. 2-15 (M)
+
+	**Nouveaux textes**:
+
+	  - CODE DE PROCEDURE PENALE - art. D2 (V)
+
+
 ## Livre Ier : De l'exercice de l'action publique et de l'instruction
 
 ### Titre Ier : Des autorités chargées de l'action publique et de l'instruction
@@ -44586,11 +44649,10 @@ de la Martinique, de la Réunion et de Saint-Pierre-et-Miquelon.
 
 ##### Section 1 : Dispositions générales
 
-###### Article D1
+###### Article D2
 
 Dans le ressort de chaque cour d'appel, les officiers de police judiciaire sont égaux devant la loi en prérogative et en
-responsabilité ; ils sont placés sous la surveillance du procureur général et sous le contrôle de la chambre de
-l'instruction.
+responsabilité ; ils sont placés sous la surveillance du procureur général et sous le contrôle de la chambre d'accusation.
 
 Dans le ressort de chaque tribunal, le tribunal, le procureur de la République et ses substituts ont seuls qualité pour
 diriger l'activité des officiers et agents de police judiciaire, par la voie, s'il y a lieu, de leurs supérieurs
@@ -44609,17 +44671,24 @@ transmission des procès-verbaux aux autorités judiciaires.
 
 	  - Décret n°58-1304 1958-12-23
 
+	**Modifié par**:
+
+	  - Décret n°95-932 du 17 août 1995 - art. 1 () JORF 24 août 1995
+
 	**Cité par**:
 
-	  - Arrêté du 19 octobre 2009 (V)
+	  - Arrêté du 6 juin 2006 - art. 110-2 (V)
+
+	**Anciens textes**:
+
+	  - CODE DE PROCEDURE PENALE - art. D1 (M)
 
 	**Nouveaux textes**:
 
-	  - CODE DE PROCEDURE PENALE - art. D2 (M)
-	  - CODE DE PROCEDURE PENALE - art. D2 (V)
+	  - CODE DE PROCEDURE PENALE - art. D2-1 (V)
 
 
-###### Article D2
+###### Article D2-1
 
 Les officiers de police judiciaire des différents corps ou services entretiennent, à tous les échelons, des relations de
 coopération et d'aide réciproque.
@@ -44641,18 +44710,13 @@ brigade de gendarmerie d'autre part.
 	  - TXT_SOURCE: CODE DE PROCEDURE PENALE - art. 13 (M)
 	  - TXT_SOURCE: Code de procédure pénale 12, 13, 14 et 15
 
-	**Cité par**:
+	**Créé par**:
 
-	  - Arrêté du 6 juin 2006 - art. 110-2 (V)
+	  - Décret n°95-932 du 17 août 1995 - art. 1 () JORF 24 août 1995
 
 	**Anciens textes**:
 
-	  - CODE DE PROCEDURE PENALE - art. D1 (M)
-
-	**Nouveaux textes**:
-
-	  - CODE DE PROCEDURE PENALE - art. D2-1 (M)
-	  - CODE DE PROCEDURE PENALE - art. D2-1 (V)
+	  - CODE DE PROCEDURE PENALE - art. D2 (M)
 
 
 ###### Article D3
