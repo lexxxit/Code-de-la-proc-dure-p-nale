@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 1977-04-01
+Version Consolidée au 1977-11-27
 
 # Partie législative
 
@@ -25807,6 +25807,31 @@ difficultés particulières, il doit adresser dans le moindre délai un rapport 
 	  - TXT_SOURCE: Code de procédure pénale 714 à 728
 
 
+##### Paragraphe 2 : Etablissements pour peines
+
+###### Article D96
+
+[Article abrogé]
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-322 1959-02-23
+
+	**Modifié par**:
+
+	  - Décret n°72-852 1972-09-12 art. 1 JORF 20 septembre 1972 rectificatif JORF 14 octobre 1972
+
+	**Abrogé par**:
+
+	  - Décret n°79-534 1979-07-03 art. 14 JORF 5 juillet 1979
+
+	**Liens**:
+
+	  - TXT_SOURCE: Code de procédure pénale 714 à 728
+
+
 ##### Section 6 : Du juge de l'application des peines et de la commission de l'application des peines
 
 ###### Article D117
@@ -31649,6 +31674,35 @@ déterminées par le directeur régional.
 
 
 ##### Section 2 : De l'action socio-culturelle
+
+###### Article D444
+
+Les détenus peuvent se procurer, par l'intermédiaire de l'administration, et dans les conditions déterminées par une
+instruction de service, les journaux, les périodiques et les livres français et étrangers de leur choix n'ayant pas fait
+l'objet d'une saisie dans les trois derniers mois.
+
+Toutefois, les publications contenant des menaces précises contre la sécurité des personnes ou celles des établissements
+pénitentiaires peuvent être, à la demande des chefs d'établissement, retenues sur décision du garde des sceaux.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-322 1959-02-23
+
+	**Modifié par**:
+
+	  - Décret n°75-402 1975-05-23 art. 1 JORF 27 mai 1975
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°97-1187 du 19 décembre 1997 - art. 1 (V)
+	  - TXT_SOURCE: Code de procédure pénale 714 à 728
+
+	**Cité par**:
+
+	  - Code de procédure pénale - art. D431 (Ab)
+
 
 ###### Article D447
 
