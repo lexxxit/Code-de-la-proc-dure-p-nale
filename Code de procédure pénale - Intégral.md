@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 1979-01-01
+Version Consolidée au 1979-01-18
 
 # Partie législative
 
@@ -34588,6 +34588,65 @@ des autres détenus.
 	**Cité par**:
 
 	  - Code de procédure pénale - art. D487 (V)
+
+
+### Titre XI : Le comité de probation et d'assistance aux libérés
+
+###### Article D572
+
+Le présent code, ainsi que les décrets qui le modifient est applicable aux départements de la Guadeloupe, de la Guyane, de la
+Martinique, de la Réunion et de Saint-Pierre-et-Miquelon.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-322 1959-02-23
+
+	**Modifié par**:
+
+	  - Décret n°79-37 1979-01-10 art. 5 JORF 18 janvier 1979
+	  - Décret n°64-119 1964-02-04 art. 4 JORF 9 février 1964
+
+	**Cité par**:
+
+	  - CODE DE PROCEDURE PENALE - art. D49-1-1 (V)
+	  - Code de procédure pénale - art. A44 (V)
+
+	**Nouveaux textes**:
+
+	  - CODE DE PROCEDURE PENALE - art. D599 (V)
+
+
+## Livre VI : Modalités d'application en ce qui concerne les départements de la Guadeloupe, de la Guyane, de la Martinique et de la Réunion
+
+###### Article D573
+
+Des arrêtés du ministre de la justice déterminent, en tant que de besoin, les adaptations jugées nécessaires à l'application
+des titres II, III, IV et VI du livre V du code de procédure pénale (3° partie : Décrets) dans les départements de la
+Guadeloupe, de la Guyane, de la Martinique, de la Réunion et de Saint-Pierre-et-Miquelon.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-322 1959-02-23
+
+	**Modifié par**:
+
+	  - Décret n°79-37 1979-01-10 art. 5 JORF 18 janvier 1979
+	  - Décret n°64-119 1964-02-04 art. 4 JORF 9 février 1964
+
+	**Nouveaux textes**:
+
+	  - CODE DE PROCEDURE PENALE - art. D600 (V)
+
+	**Cité par**:
+
+	  - Code de procédure pénale - art. D438 (V)
+	  - Code de procédure pénale - art. D457 (T)
+	  - Code de procédure pénale - art. D514-1 (V)
+	  - Code de procédure pénale - art. D572 (V)
 
 
 # Partie Arrêtés
