@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 2004-02-24
+Version Consolidée au 2004-03-02
 
 # Partie législative
 
@@ -40438,6 +40438,28 @@ route" sont remplacés par les mots "aux articles L. 234-1 et suivants du code d
 	  - CODE DE PROCEDURE PENALE - art. 41-2 (M)
 	  - Code de la route L1
 	  - Code de la route - art. L1 (Ab)
+
+
+###### Article 809-2
+
+En Polynésie française, les fonctionnaires et agents mentionnés à l'article 35 de la loi organique n° 2004-192 du 27 février
+2004 portant statut d'autonomie de la Polynésie française sont agents de police judiciaire adjoints dans les conditions
+prévues à l'article 21 du présent code.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 96-268 1996-03-28
+
+	**Cite**:
+
+	  - Loi n°2004-192 2004-02-27 art. 35
+	  - CODE DE PROCEDURE PENALE - art. 21 (M)
+
+	**Créé par**:
+
+	  - Loi n°2004-193 du 27 février 2004 - art. 22 () JORF 2 mars 2004
 
 
 ###### Article 810
