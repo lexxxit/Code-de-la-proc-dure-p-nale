@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 1978-11-23
+Version Consolidée au 1979-01-01
 
 # Partie législative
 
@@ -13906,6 +13906,32 @@ même arrêt ou jugement, sous quelque prétexte et par quelque moyen que ce soi
 	**Codifié par**:
 
 	  - Ordonnance 58-1296 1958-12-23
+
+
+###### Article 619
+
+Lorsque, après cassation d'un premier arrêt ou jugement rendu en dernier ressort, le deuxième arrêt ou jugement rendu dans la
+même affaire, entre les mêmes parties, procédant en la même qualité, est attaqué par les mêmes moyens, l'affaire est portée
+devant l'assemblée plénière dans les formes prévues par les articles L. 131-2 et L. 131-3 du code de l'organisation
+judiciaire.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 58-1296 1958-12-23
+
+	**Modifié par**:
+
+	  - Loi n°79-9 1979-01-03 art. 6, art. 8 JORF 4 janvier 1979 en vigueur le 1er janvier 1979
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°79-9 1979-01-03 art. 8 Loi rétroactive
+
+	**Cite**:
+
+	  - Code de l'organisation judiciaire - art. L131-2 (Ab)
 
 
 #### Chapitre VI : Du pourvoi dans l'intérêt de la loi
