@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 1997-04-25
+Version Consolidée au 1997-05-28
 
 # Partie législative
 
@@ -41857,7 +41857,7 @@ c) Pour l'examen clinique et la prise de sang prévus aux articles R. 20 à R. 2
 
 - auxquels il est procédé les dimanches et jours fériés ... C 1,5 (plus une indemnité de 50 F).
 
-d) Pour chaque examen prévu par l'article L. 627-1 du Code de la santé publique ... C 2
+d) Pour chaque examen prévu par l'article 706-29 du code de procédure pénale ... C 2
 
 2° Pour un transport sur les lieux et description de cadavre ... C 2,5
 
@@ -41888,16 +41888,9 @@ avancée ... Cs 5
 
 	  - Décret n°59-318 1959-02-23
 
-	**Créé par**:
-
-	  - Décret n°59-318 1959-02-23 JORF 25 février 1959 en vigueur le 2 mars 1959 rectificatif JORF 13 juin 1959
-
 	**Modifié par**:
 
-	  - Décret n°60-897 1960-08-24 art. 1 JORF 25 août 1960
-	  - Décret n°67-62 1967-01-14 art. 1 JORF 20 janvier 1967
-	  - Décret n°72-436 1972-05-29 art. 1 JORF 30 mai 1972
-	  - Décret n°79-235 1979-03-19 art. 3 JORF 25 mars 1979
+	  - Décret n°97-525 du 26 mai 1997 - art. 1 () JORF 28 mai 1997
 
 	**Cité par**:
 
@@ -41915,14 +41908,14 @@ avancée ... Cs 5
 	  - Code de procédure pénale - art. R93-3 (V)
 	  - Code des débits de boissons et des mesures contre  - art. R*29 (Ab)
 
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. 706-29 (M)
+	  - Code des débits de boissons R20 à R25
+
 	**Liens**:
 
 	  - TXT_SOURCE: CODE DE PROCEDURE PENALE - art. 800 (M)
-
-	**Cite**:
-
-	  - Code des débits de boissons R20 à R25
-	  - Code de la santé publique - art. L627-1 (M)
 
 
 ##### c) Toxicologie
@@ -41932,7 +41925,9 @@ avancée ... Cs 5
 Les analyses toxicologiques sont ainsi cotées, pour chaque expert, lorsque les dosages de plusieurs éléments ne peuvent être
 groupés en une seule opération :
 
-1° Pour recherche et dosage de l'alcool dans le sang ... B 50
+1° Pour recherche et dosage de l'alcool dans le sang : B 50 ;
+
+Et, en cas de recours à la chromatographie en phase gazeuse : B 120
 
 2° Dosage de l'oxycarbonémie ... B 50
 
@@ -41946,8 +41941,9 @@ groupés en une seule opération :
 
 7° Expertise toxicologique complète ... B 1500
 
-8° Recherche et dosage des amphétamines dans le sang ou les urines ... B 60 9° Recherche et dosage des stupéfiants dans le
-sang ou les urines ... B 150.
+8° Recherche et dosage des amphétamines dans le sang ou les urines ... B 60
+
+9° Recherche et dosage des stupéfiants dans le sang ou les urines ... B 150.
 
 **Liens relatifs à cet article**
 
@@ -41955,15 +41951,9 @@ sang ou les urines ... B 150.
 
 	  - Décret n°59-318 1959-02-23
 
-	**Créé par**:
-
-	  - Décret n°59-318 1959-02-23 JORF 25 février 1959 en vigueur le 2 mars 1959 rectificatif JORF 13 juin 1959
-
 	**Modifié par**:
 
-	  - Décret n°67-62 1967-01-14 art. 1 JORF 20 janvier 1967
-	  - Décret n°72-436 1972-05-29 art. 1 JORF 30 mai 1972
-	  - Décret n°79-235 1979-03-19 art. 4 JORF 25 mars 1979
+	  - Décret n°97-525 du 26 mai 1997 - art. 2 () JORF 28 mai 1997
 
 	**Cité par**:
 
@@ -63858,6 +63848,159 @@ pour le deuxième et 10 % pour le troisième.
 	**Cite**:
 
 	  - CODE DE PROCEDURE PENALE - art. D112 (Ab)
+
+
+#### Chapitre V : De la discipline et de la sécurité des prisons
+
+##### Section 4 : Des réclamations formulées par les détenus
+
+###### Article A40
+
+La liste des autorités administratives et judiciaires avec lesquelles les détenus peuvent correspondre sous pli fermé, en
+application de l'article D. 262, est fixée comme suit :
+
+I. - Les autorités administratives et judiciaires françaises :
+
+Le Président de la République ;
+
+Les membres du Gouvernement (Premier ministre, ministres et secrétaires d'Etat), en particulier le garde des sceaux, ministre
+de la justice ;
+
+Le Médiateur ;
+
+Le directeur du cabinet du ministre de la justice, l'inspecteur général des services judiciaires, le chef de l'inspection des
+services pénitentiaires, les directeurs du ministère de la justice et les magistrats et fonctionnaires de ces directions ;
+
+Les préfets et les sous-préfets ;
+
+Les maires du domicile du détenu et du lieu de détention ;
+
+Le président de la commission de surveillance de l'établissement où est incarcéré le détenu ;
+
+Les présidents des assemblées parlementaires (Sénat, Assemblée nationale) ;
+
+Les députés et sénateurs ;
+
+Les députés français au Parlement européen ;
+
+Le premier président et le procureur général de la Cour de cassation ;
+
+Le président de la Cour de justice de la République ;
+
+Les premiers présidents des cours d'appel et les procureurs généraux près les cours d'appel ;
+
+Les présidents de chambre d'accusation ;
+
+Les présidents des tribunaux de grande instance et les procureurs de la République près les tribunaux de grande instance ;
+
+Les présidents des tribunaux d'instance ;
+
+Les juges d'instruction ;
+
+Les juges des tutelles ;
+
+Les juges des enfants ;
+
+Les juges de l'application des peines ;
+
+Les juges aux affaires familiales ;
+
+Le vice-président du Conseil d'Etat ;
+
+Les présidents des cours administratives d'appel ;
+
+Les présidents des tribunaux administratifs ;
+
+Le président de la commission d'accès aux documents administratifs ;
+
+Les directeurs régionaux des services pénitentiaires ;
+
+Le chef de l'inspection générale des affaires sociales ;
+
+Les médecins inspecteurs des directions départementales des affaires sanitaires et sociales (DDASS) ;
+
+Les médecins inspecteurs des directions régionales des affaires sanitaires et sociales (DRASS) ;
+
+Les directeurs d'établissement de santé.
+
+II. - En ce qui concerne les détenus militaires ou relevant d'une autorité militaire :
+
+Le directeur général de la gendarmerie nationale ;
+
+Les généraux commandant les régions militaires ;
+
+Les commandants de l'unité dont relève le détenu.
+
+III. - Doit être assimilée à ces autorités :
+
+L'épouse du Président de la République.
+
+IV. - Doivent être assimilés aux autorités françaises :
+
+Les députés au Parlement européen ;
+
+Le président de la Commission européenne des droits de l'homme de Strasbourg ;
+
+Le secrétariat de la Commission européenne des droits de l'homme ;
+
+Tous membres de la Commission européenne des droits de l'homme ;
+
+Le président de la Cour européenne des droits de l'homme ;
+
+Le greffe de la Cour européenne des droits de l'homme ;
+
+Tous membres de la Cour européenne des droits de l'homme ;
+
+Le président du Comité européen pour la prévention de la torture et des peines ou traitements inhumains ou dégradants au
+Conseil de l'Europe, Strasbourg ;
+
+Tous membres du Comité européen pour la prévention de la torture et des peines ou traitements inhumains ou dégradants au
+Conseil de l'Europe, Strasbourg ;
+
+Le président du Tribunal communautaire de première instance, Luxembourg ;
+
+Le président de la Cour de justice des Communautés européennes, Luxembourg.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Arrêté 1959-02-27
+
+	**Modifié par**:
+
+	  - Arrêté 1997-05-12 art. 1 JORF 28 mai 1997
+
+	**Cité par**:
+
+	  - Arrêté du 25 avril 2008 - art. 2 (V)
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. D262. (M)
+
+
+###### Article A40-1
+
+Les courriers doivent être adressés, par les détenus, à l'adresse professionnelle ou fonctionnelle des autorités
+administratives et judiciaires.
+
+Les courriers adressés par les autorités administratives et judiciaires françaises ou assimilées doivent clairement indiquer
+la qualité de leur expéditeur.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Arrêté 1959-02-27
+
+	**Créé par**:
+
+	  - Arrêté 1997-05-12 art. 1 JORF 28 mai 1997
+
+	**Cité par**:
+
+	  - Arrêté du 25 avril 2008 - art. 2 (V)
 
 
 #### Chapitre VII : De la gestion des biens et de l'entretien des détenus
