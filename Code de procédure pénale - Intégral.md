@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 1995-05-01
+Version Consolidée au 1995-05-10
 
 # Partie législative
 
@@ -35582,18 +35582,26 @@ Le secrétariat de chaque commission d'examen est assuré par la direction du pe
 	  - Code de procédure pénale 20 (3°)
 
 
-### Titre III : Des juridictions d'instruction
+##### Section 4 : Des services et unités visés à l'article 15-1
 
-#### Chapitre Ier : Du juge d'instruction : juridiction d'instruction du premier degré
-
-##### Section 1 : Dispositions générales
+##### Paragraphe 1er : Des services de la police nationale
 
 ###### Article R15-18
 
-Lorsqu'il ne procède pas lui-même ou ne fait pas procéder par un officier de police judiciaire à l'enquête de personnalité
-prévue par l'alinéa 6 de l'article 81, le juge d'instruction saisi de la procédure ou, sur délégation ou, sur délégation,
-celui dans le ressort duquel réside l'inculpé peut désigner à cette fin toute personne physique ou morale habilitée comme il
-est dit ci-après ou, à titre exceptionnel, un contrôleur judiciaire.
+Les services actifs de la police nationale au sein desquels les officiers et agents de police judiciaire exercent leurs
+fonctions habituelles et dont la compétence s'exerce sur l'ensemble du territoire national sont les suivants :
+
+1° La direction centrale de la police judiciaire ;
+
+2° La direction centrale du contrôle de l'immigration et de la lutte contre l'emploi des clandestins ;
+
+3° La direction de la surveillance du territoire ;
+
+4° La sous-direction chargée des courses et jeux de la direction centrale des renseignements généraux ;
+
+5° L'inspection générale de la police nationale ;
+
+6° Le détachement de la police nationale auprès de la direction nationale des enquêtes douanières.
 
 **Liens relatifs à cet article**
 
@@ -35601,13 +35609,9 @@ est dit ci-après ou, à titre exceptionnel, un contrôleur judiciaire.
 
 	  - Décret n°58-358 1958-04-02
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°83-1164 1983-12-23 art. 1 et art. 4 JORF 28 décembre 1983 en vigueur le 1er janvier 1984
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°83-1164 1983-12-23 art. 4
+	  - Décret n°95-661 du 9 mai 1995 - art. 2 () JORF 10 mai 1995
 
 	**Cité par**:
 
@@ -35623,28 +35627,28 @@ est dit ci-après ou, à titre exceptionnel, un contrôleur judiciaire.
 
 ###### Article R15-19
 
-La personne physique ou morale, selon qu'elle désire être habilitée à procéder à des enquêtes de personnalité dans le ressort
-du tribunal de grande instance ou dans celui de la cour d'appel, en fait la demande au moyen des juges d'instruction ou au
-président de la chambre de l'instruction. 
+Les catégories de services actifs de la police nationale au sein desquels les officiers et agents de police judiciaire
+exercent leurs fonctions habituelles et dont la compétence s'exerce sur le ressort d'une ou plusieurs cours d'appel ou
+parties de celles-ci sont les suivantes :
 
-La demande présentée par une association comporte notamment : 
+1° Les services régionaux de police judiciaire et la direction régionale de police judiciaire de Paris ainsi que leurs
+détachements, antennes et services départementaux ;
 
-1° La copie du Journal officiel portant publication de la déclaration de l'association ou, en ce qui concerne les
-départements du Bas-Rhin, du Haut-Rhin ou de la Moselle, une copie de l'extrait du registre des associations du tribunal
-d'instance : 
+2° Les directions interrégionales et la direction interdépartementale du contrôle de l'immigration et de la lutte contre
+l'emploi des clandestins ainsi que les unités de police des chemins de fer, les brigades mobiles de recherches et les
+brigades de police aéronautique qui leur sont rattachées, dans la zone de défense où elles ont leur siège ;
 
-2° Un exemplaire des statuts et, s'il y a lieu, du règlement intérieur ; 
+3° Les unités autoroutières des compagnies républicaines de sécurité pour les voies de circulation auxquelles elles sont
+affectées et, pour les infractions visées à l'article L. 23-1 du code de la route, les sections motocyclistes dans les
+départements du ressort de leur groupement d'affectation ;
 
-3° La liste des établissements de l'association avec indication de leur siège ; 
+4° La direction des renseignements généraux de la préfecture de police ;
 
-4° Un exposé indiquant les conditions de fonctionnement de l'association et, le cas échéant, l'organisation et les conditions
-de fonctionnement des comités locaux, ainsi que leurs rapports avec l'association ; 
+5° L'inspection générale des services de la préfecture de police, dans les départements de Paris, des Hauts-de-Seine, du Val-
+de-Marne et de la Seine-Saint-Denis ;
 
-5° La mention des nom, prénoms, date et lieu de naissance, nationalité, profession et domicile des membres du conseil
-d'administration et du bureau de l'association ainsi que, le cas échéant, ceux de ses représentants locaux ; 
-
-6° Les pièces financières qui doivent comprendre les comptes du dernier exercice, le budget de l'exercice courant et un bilan
-ou un état de l'actif mobilier et immobilier et du passif.
+6° La direction des services techniques de la préfecture de police dans les départements de Paris, des Hauts-de-Seine, du
+Val-de-Marne et de la Seine-Saint-Denis.
 
 **Liens relatifs à cet article**
 
@@ -35652,13 +35656,9 @@ ou un état de l'actif mobilier et immobilier et du passif.
 
 	  - Décret n°58-358 1958-04-02
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°83-1164 1983-12-23 art. 1 et art. 4 JORF 28 décembre 1983 en vigueur le 1er janvier 1984
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°83-1164 1983-12-23 art. 4
+	  - Décret n°95-661 du 9 mai 1995 - art. 2 () JORF 10 mai 1995
 
 	**Cité par**:
 
@@ -35680,8 +35680,18 @@ ou un état de l'actif mobilier et immobilier et du passif.
 
 ###### Article R15-20
 
-Après avoir procédé à toute les diligences qu'il juge utiles, le doyen des juges d'instruction ou le président de la chambre
-de l'instruction communique la demande au président du tribunal ou au premier président.
+Les catégories de services actifs de la police nationale au sein desquels les officiers et agents de police judiciaire
+exercent leurs fonctions habituelles et dont la compétence s'exerce dans le ressort d'un ou de plusieurs tribunaux de grande
+instance d'une même cour d'appel sont les suivantes :
+
+1° Les sûretés départementales de sécurité publique, pour l'ensemble des circonscriptions de sécurité publique du département
+où elles ont leur siège ;
+
+2° Les services de police urbaine des circonscriptions de sécurité publique, pour l'ensemble des circonscriptions de sécurité
+publique du ressort du tribunal de grande instance où ils ont leur siège ;
+
+3° Les directions départementales du contrôle de l'immigration et de la lutte contre l'emploi des clandestins, dans le
+département où elles ont leur siège.
 
 **Liens relatifs à cet article**
 
@@ -35689,13 +35699,9 @@ de l'instruction communique la demande au président du tribunal ou au premier p
 
 	  - Décret n°58-358 1958-04-02
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°83-1164 1983-12-23 art. 1 et art. 4 JORF 28 décembre 1983 en vigueur le 1er janvier 1984
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°83-1164 1983-12-23 art. 4
+	  - Décret n°95-661 du 9 mai 1995 - art. 2 () JORF 10 mai 1995
 
 	**Cité par**:
 
@@ -35707,6 +35713,494 @@ de l'instruction communique la demande au président du tribunal ou au premier p
 
 
 ###### Article R15-21
+
+La création ou la suppression des services visés aux articles précédents est décidée par décret lorsque leur compétence
+territoriale excède les limites d'un département. Elle est décidée par arrêté du ministre de l'intérieur lorsque leur
+compétence territoriale n'excède pas ces limites.
+
+Leur compétence territoriale est modifiée selon les mêmes formes.
+
+Toutefois, la création des services visés à l'article R. 15-20 (1°) est décidée par décret lorsque ceux-ci sont situés dans
+un département comportant plusieurs tribunaux de grande instance.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°58-358 1958-04-02
+
+	**Modifié par**:
+
+	  - Décret n°95-661 du 9 mai 1995 - art. 2 () JORF 10 mai 1995
+
+	**Cité par**:
+
+	  - Décret n°2012-328  du 6 mars 2012 (V)
+	  - CODE DE PROCEDURE PENALE - art. R16 (M)
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. R15-20 (M)
+
+
+##### Paragraphe 2 : Des unités de la gendarmerie nationale
+
+###### Article R15-22
+
+Les unités de la gendarmerie nationale au sein desquelles les officiers et agents de police judiciaire exercent leurs
+fonctions habituelles et dont la compétence s'exerce sur l'ensemble du territoire national sont les suivantes :
+
+1° L'inspection technique de la gendarmerie nationale ;
+
+2° La section judiciaire de la gendarmerie de l'air ;
+
+3° La brigade de recherches du groupement de gendarmerie maritime de l'Atlantique, implantée à Brest ;
+
+4° La brigade de recherches du groupement de la gendarmerie des transports aériens de Paris-Orly.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°58-358 1958-04-02
+
+	**Modifié par**:
+
+	  - Décret n°95-661 du 9 mai 1995 - art. 2 () JORF 10 mai 1995
+
+	**Cité par**:
+
+	  - CODE DE PROCEDURE PENALE - art. R16 (M)
+	  - Code de procédure pénale - art. D8-1 (V)
+
+
+###### Article R15-23
+
+Les catégories d'unités de la gendarmerie nationale au sein desquelles les officiers et agents de police judiciaire exercent
+leurs fonctions habituelles et dont la compétence s'exerce dans le ressort d'une ou de plusieurs cours d'appel ou parties de
+celles-ci sont les suivantes :
+
+1° Les sections de recherches de la gendarmerie départementale ;
+
+2° Les brigades, pelotons et brigades rapides d'intervention de gendarmerie d'autoroute, pour les voies de circulation
+auxquelles ils sont affectés ;
+
+3° Les sections ou détachements aériens de la gendarmerie départementale ;
+
+4° Les brigades, les brigades de recherches et les brigades motorisées de la gendarmerie des transports aériens ;
+
+5° Les brigades et les brigades motorisées de la gendarmerie de l'air, dans la région aérienne où elles sont implantées ;
+
+6° Les brigades de recherches, les brigades de surveillance du littoral, les unités navigantes de la gendarmerie maritime ;
+
+7° Les sections ou brigades de la gendarmerie de l'armement placées auprès d'établissements relevant de la délégation
+générale pour l'armement implantés dans le ressort des cours d'appel de Paris ou de Versailles ;
+
+8° Les pelotons de gendarmerie de montagne ou de haute montagne ;
+
+9° Les brigades fluviales et nautiques de la gendarmerie départementale.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°58-358 1958-04-02
+
+	**Modifié par**:
+
+	  - Décret n°95-661 du 9 mai 1995 - art. 2 () JORF 10 mai 1995
+
+	**Cité par**:
+
+	  - Décret n°2009-127 du 4 février 2009 (Ab)
+	  - Décret n°2016-568 du 10 mai 2016 - art. 1 (V)
+	  - Code de procédure pénale - art. R15-24 (V)
+
+
+###### Article R15-24
+
+Les catégories d'unités de la gendarmerie nationale au sein desquelles les officiers et agents de police judiciaire exercent
+leurs fonctions habituelles et dont la compétence s'exerce dans le ressort d'un ou de plusieurs tribunaux de grande instance
+d'une même cour d'appel sont les suivantes :
+
+1° Les brigades de recherches de la gendarmerie départementale implantées au chef-lieu du département, pour le département où
+elles sont situées ;
+
+2° Les brigades départementales de renseignements judiciaires de la gendarmerie départementale, pour le département où elles
+sont situées ;
+
+3° Les pelotons et brigades motorisés de la gendarmerie départementale et les brigades motorisées de la gendarmerie mobile,
+pour le département où ils sont situés :
+
+4° Les pelotons de surveillance et d'intervention de la gendarmerie départementale, pour le département où ils sont situés ;
+
+5° Les brigades ou postes de la gendarmerie maritime placés auprès des services des affaires maritimes, pour les
+arrondissements maritimes où ils sont situés ;
+
+6° Les sections ou brigades de la gendarmerie de l'armement non visées au 7° de l'article R. 15-23 pour les établissements
+relevant de la délégation générale pour l'armement auxquels ils sont rattachés.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°58-358 1958-04-02
+
+	**Modifié par**:
+
+	  - Décret n°95-661 du 9 mai 1995 - art. 2 () JORF 10 mai 1995
+
+	**Cité par**:
+
+	  - Code de procédure pénale - art. R15-23 (V)
+	  - Code de procédure pénale - art. R15-32 (V)
+	  - Code de procédure pénale - art. R15-33 (V)
+
+
+###### Article R15-25
+
+Les catégories d'unités de la gendarmerie nationale au sein desquelles les officiers et agents de police judiciaire exercent
+leurs fonctions habituelles et dont la compétence s'exerce dans le ressort d'un tribunal de grande instance ou partie de
+celui-ci sont les suivantes :
+
+1° Les brigades de recherches et les équipes de recherches de la gendarmerie départementale non visées aux articles
+précédents, pour le ressort du tribunal de grande instance dans lequel l'unité a son siège ;
+
+2° Les brigades territoriales de la gendarmerie départementale, pour la circonscription de la compagnie de rattachement ou,
+lorsque cette circonscription s'étend sur tout ou partie du ressort de deux tribunaux de grande instance, pour la partie de
+la circonscription de la compagnie située dans le ressort du tribunal de grande instance dans lequel la brigade a son siège ;
+
+3° Les pelotons de la gendarmerie maritime.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°58-358 1958-04-02
+
+	**Modifié par**:
+
+	  - Décret n°95-661 du 9 mai 1995 - art. 2 () JORF 10 mai 1995
+
+	**Abrogé par**:
+
+	  - Décret n°2004-530 du 10 juin 2004 - art. 11 () JORF 13 juin 2004
+
+	**Cité par**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R*814-5 (Ab)
+	  - CODE DE PROCEDURE PENALE - art. R15-33 (V)
+
+
+###### Article R15-26
+
+La création ou la suppression des unités visées aux articles précédents est décidée par décret lorsque leur compétence
+territoriale excède les limites d'un département. Elle est décidée par arrêté du ministre de la défense lorsque leur
+compétence territoriale n'excède pas ces limites.
+
+Leur compétence territoriale est modifiée selon les mêmes formes.
+
+Toutefois, la création des unités de la gendarmerie maritime, de la gendarmerie de l'air, de la gendarmerie des transports
+aériens et de la gendarmerie de l'armement et des unités aériennes, autoroutières, fluviales, nautiques ou de montagne de la
+gendarmerie départementale est décidée par arrêté du ministre de la défense.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°58-358 1958-04-02
+
+	**Créé par**:
+
+	  - Décret n°95-661 du 9 mai 1995 - art. 2 () JORF 10 mai 1995
+
+	**Cité par**:
+
+	  - Décret n°2011-947 du 10 août 2011 (V)
+	  - Décret n°2011-948 du 10 août 2011 (V)
+	  - Décret n°2011-982 du 23 août 2011 (V)
+	  - Décret n°2011-2063 du 30 décembre 2011 (V)
+	  - Décret n°2012-370 du 16 mars 2012 (Ab)
+	  - Décret n°2012-583 du 26 avril 2012 (V)
+	  - Décret du 11 juin 2012 (V)
+	  - Décret n°2012-1230 du 5 novembre 2012 (Ab)
+	  - Décret n°2012-1231 du 5 novembre 2012 (Ab)
+	  - Décret n°2013-762 du 21 août 2013 (Ab)
+	  - Décret n°2013-763 du 21 août 2013 (Ab)
+	  - Décret n°2013-1242 du 27 décembre 2013 (Ab)
+	  - Décret n°2014-292 du 4 mars 2014 (V)
+	  - Décret n°2015-430 du 15 avril 2015 (V)
+	  - Décret n°2015-627 du 5 juin 2015 (Ab)
+	  - Décret n°2016-568 du 10 mai 2016 (V)
+	  - Décret n°2016-2015 du 21 mars 2016 (V)
+
+
+##### Paragraphe 3 : Dispositions communes
+
+###### Article R15-27
+
+La compétence territoriale des directeurs et chefs de services, des commandants d'unités et de leurs adjoints au sein
+desquels sont regroupés des services ou unités visés aux articles R. 15-18 à R. 15-20 et R. 15-22 à R. 15-25 couvre
+l'ensemble du ressort territorial de ces services ou unités.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°58-358 1958-04-02
+
+	**Créé par**:
+
+	  - Décret n°95-661 du 9 mai 1995 - art. 2 () JORF 10 mai 1995
+
+	**Cite**:
+
+	  - Code de procédure pénale R15-18 à R15-20, R15-22 à R15-25
+
+
+##### Section 5 : Des officiers et agents de police judiciaire exerçant leur mission dans des véhicules affectés au transport collectif de voyageurs
+
+###### Article R15-28
+
+Les officiers ou agents de police judiciaire appartenant aux services ou unités désignés aux articles R. 15-29 à R. 15-33
+sont compétents, dans les limites définies par ces articles, pour exercer leur mission dans les véhicules affectés au
+transport collectif de voyageurs, dès lors que ces véhicules, ou le réseau sur lequel ils circulent, traversent tout ou
+partie de leur circonscription d'affectation.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°58-358 1958-04-02
+
+	**Créé par**:
+
+	  - Décret n°95-661 du 9 mai 1995 - art. 2 () JORF 10 mai 1995
+
+	**Cité par**:
+
+	  - CODE DE PROCEDURE PENALE - art. R261 (V)
+
+	**Cite**:
+
+	  - Code de procédure pénale - art. R15-29 (V)
+
+
+##### Paragraphe 1er : Des officiers et agents de police judiciaire de la police nationale
+
+###### Article R15-29
+
+Les officiers et agents de police judiciaire appartenant aux directions interrégionales, interdépartementale ou
+départementales du contrôle de l'immigration et de la lutte contre l'emploi des clandestins sont compétents pour opérer sur
+l'ensemble du domaine ferroviaire du ressort de la direction interrégionale à laquelle ils appartiennent et des directions
+interrégionales ou interdépartementale limitrophes.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°58-358 1958-04-02
+
+	**Créé par**:
+
+	  - Décret n°95-661 du 9 mai 1995 - art. 2 () JORF 10 mai 1995
+
+	**Cité par**:
+
+	  - Code de procédure pénale - art. R15-28 (V)
+	  - Code de procédure pénale - art. R251 (VT)
+
+
+###### Article R15-30
+
+Les officiers et agents de police judiciaire appartenant aux sûretés départementales de sécurité publique ou aux services de
+police urbaine des circonscriptions de sécurité publique sont compétents pour opérer sur l'ensemble des lignes, stations,
+gares, arrêts et couloirs affectés aux transports collectifs de voyageurs dans leur département d'affectation et dans les
+départements limitrophes.
+
+Toutefois, les officiers et agents de police judiciaire appartenant au service parisien de sécurité du métropolitain de la
+direction de la sécurité publique de la préfecture de police sont compétents pour opérer sur l'ensemble des lignes, stations,
+gares, arrêts et couloirs du métropolitain et du réseau express régional.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°58-358 1958-04-02
+
+	**Créé par**:
+
+	  - Décret n°95-661 du 9 mai 1995 - art. 2 () JORF 10 mai 1995
+
+	**Cité par**:
+
+	  - Code de procédure pénale - art. A35 (V)
+
+
+###### Article R15-31
+
+Les officiers et agents de police judiciaire affectés à la direction régionale de la police judiciaire de la préfecture de
+police et au service régional de la police judiciaire de Versailles sont compétents pour opérer sur l'ensemble des lignes,
+stations, gares, arrêts et couloirs des transports en commun de la région Ile-de-France.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°58-358 1958-04-02
+
+	**Créé par**:
+
+	  - Décret n°95-661 du 9 mai 1995 - art. 2 () JORF 10 mai 1995
+
+
+##### Paragraphe 2 : Des officiers et agents de police judiciaire de la gendarmerie nationale
+
+###### Article R15-32
+
+Les officiers et agents de police judiciaire appartenant aux brigades de recherches de la gendarmerie départementale visées à
+l'article R. 15-24 (1°), sont compétents pour opérer sur l'ensemble des lignes, stations, gares, arrêts et couloirs affectés
+aux transports collectifs de voyageurs dans le ressort de leur cour d'appel de rattachement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°58-358 1958-04-02
+
+	**Créé par**:
+
+	  - Décret n°95-661 du 9 mai 1995 - art. 2 () JORF 10 mai 1995
+
+	**Cite**:
+
+	  - Code de procédure pénale - art. R15-24 (V)
+
+
+###### Article R15-33
+
+Les officiers et agents de police judiciaire appartenant aux brigades ou équipes de recherches et aux brigades territoriales
+de la gendarmerie départementale visées à l'article R. 15-25 (1° et 2°), sont compétents pour opérer sur l'ensemble des
+lignes, stations, gares, arrêts et couloirs affectés aux transports collectifs de voyageurs dans leur département
+d'affectation et dans les départements limitrophes.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°58-358 1958-04-02
+
+	**Créé par**:
+
+	  - Décret n°95-661 du 9 mai 1995 - art. 2 () JORF 10 mai 1995
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. R15-25 (M)
+
+
+### Titre III : Des juridictions d'instruction
+
+#### Chapitre Ier : Du juge d'instruction : juridiction d'instruction du premier degré
+
+##### Section 1 : Dispositions générales
+
+###### Article R15-34
+
+Lorsqu'il ne procède pas lui-même ou ne fait pas procéder par un officier de police judiciaire à l'enquête de personnalité
+prévue par l'alinéa 6 de l'article 81, le juge d'instruction saisi de la procédure ou, sur délégation, celui dans le ressort
+duquel réside l'inculpé peut désigner à cette fin toute personne physique ou morale habilitée comme il est dit ci-après ou, à
+titre exceptionnel, un contrôleur judiciaire.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°58-358 1958-04-02
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°83-1164 1983-12-23 art. 4
+
+	**Créé par**:
+
+	  - Décret n°95-661 du 9 mai 1995 - art. 1 () JORF 10 mai 1995
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. 81 (M)
+
+
+###### Article R15-35
+
+La personne physique ou morale, selon qu'elle désire être habilitée à procéder à des enquêtes de personnalité dans le ressort
+du tribunal de grande instance ou dans celui de la cour d'appel, en fait la demande au moyen des juges d'instruction ou au
+président de la chambre d'accusation.
+
+La demande présentée par une association comporte notamment :
+
+1° La copie du Journal officiel portant publication de la déclaration de l'association ou, en ce qui concerne les
+départements du Bas-Rhin, du Haut-Rhin ou de la Moselle, une copie de l'extrait du registre des associations du tribunal
+d'instance ;
+
+2° Un exemplaire des statuts et, s'il y a lieu, du règlement intérieur ;
+
+3° La liste des établissements de l'association avec indication de leur siège ;
+
+4° Un exposé indiquant les conditions de fonctionnement de l'association et, le cas échéant, l'organisation et les conditions
+de fonctionnement des comités locaux, ainsi que leurs rapports avec l'association ;
+
+5° La mention des nom, prénoms, date et lieu de naissance, nationalité, profession et domicile des membres du conseil
+d'administration et du bureau de l'association ainsi que, le cas échéant, ceux de ses représentants locaux ;
+
+6° Les pièces financières qui doivent comprendre les comptes du dernier exercice, le budget de l'exercice courant et un bilan
+ou un état de l'actif mobilier et immobilier et du passif.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°58-358 1958-04-02
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°83-1164 1983-12-23 art. 4
+
+	**Créé par**:
+
+	  - Décret n°95-661 du 9 mai 1995 - art. 1 () JORF 10 mai 1995
+
+	**Cité par**:
+
+	  - CODE DE PROCEDURE PENALE - art. R15-39 (V)
+	  - Code de procédure pénale - art. R262 (V)
+
+
+###### Article R15-36
+
+Après avoir procédé à toute les diligences qu'il juge utiles, le doyen des juges d'instruction ou le président de la chambre
+d'accusation communique la demande au président du tribunal ou au premier président.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°58-358 1958-04-02
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°83-1164 1983-12-23 art. 4
+
+	**Créé par**:
+
+	  - Décret n°95-661 du 9 mai 1995 - art. 1 () JORF 10 mai 1995
+
+	**Cité par**:
+
+	  - Code de procédure pénale - art. R366 (Ab)
+
+
+###### Article R15-37
 
 L'assemblée générale des magistrats du siège et du parquet du tribunal ou de la cour d'appel, sur le rapport du magistrat
 saisi de la demande, statue sur l'habilitation à la majorité de ses membres présents.
@@ -35720,25 +36214,25 @@ constitution est obligatoire, exerce les attributions mentionnées à l'alinéa 
 
 	  - Décret n°58-358 1958-04-02
 
-	**Créé par**:
-
-	  - Décret n°83-1164 1983-12-23 art. 1 et art. 4 JORF 28 décembre 1983 en vigueur le 1er janvier 1984
-
 	**Liens**:
 
 	  - SPEC_APPLI: Décret n°83-1164 1983-12-23 art. 4
 
+	**Créé par**:
+
+	  - Décret n°95-661 du 9 mai 1995 - art. 1 () JORF 10 mai 1995
+
 	**Cité par**:
 
-	  - Décret n°2012-328  du 6 mars 2012 (V)
-	  - CODE DE PROCEDURE PENALE - art. R16 (M)
+	  - CODE DE PROCEDURE PENALE - art. R121-3 (V)
+	  - Code de procédure pénale - art. R263 (V)
 
 
-###### Article R15-22
+###### Article R15-38
 
 En cas d'urgence, une habilitation provisoire, valable jusqu'à la décision de la prochaine assemblée générale ou commission
 restreinte, peut être prise par le doyen des juges d'instruction, sur proposition ou après avis conforme du procureur de la
-République, ou par le président de la chambre de l'instruction, sur proposition ou après avis conforme du procureur général.
+République, ou par le président de la chambre d'accusation, sur proposition ou après avis conforme du procureur général.
 
 **Liens relatifs à cet article**
 
@@ -35746,21 +36240,16 @@ République, ou par le président de la chambre de l'instruction, sur propositio
 
 	  - Décret n°58-358 1958-04-02
 
-	**Créé par**:
-
-	  - Décret n°83-1164 1983-12-23 art. 1 et art. 4 JORF 28 décembre 1983 en vigueur le 1er janvier 1984
-
 	**Liens**:
 
 	  - SPEC_APPLI: Décret n°83-1164 1983-12-23 art. 4
 
-	**Cité par**:
+	**Créé par**:
 
-	  - CODE DE PROCEDURE PENALE - art. R16 (M)
-	  - Code de procédure pénale - art. D8-1 (V)
+	  - Décret n°95-661 du 9 mai 1995 - art. 1 () JORF 10 mai 1995
 
 
-###### Article R15-23
+###### Article R15-39
 
 Ne peut être habilitée une personne qui a fait l'objet d'une condamnation, incapacité ou déchéance mentionnée au bulletin n°
 2 du casier judiciaire.
@@ -35771,32 +36260,26 @@ Ne peut être habilitée une personne qui a fait l'objet d'une condamnation, inc
 
 	  - Décret n°58-358 1958-04-02
 
-	**Créé par**:
-
-	  - Décret n°83-1164 1983-12-23 art. 1 et art. 4 JORF 28 décembre 1983 en vigueur le 1er janvier 1984
-
 	**Liens**:
 
 	  - SPEC_APPLI: Décret n°83-1164 1983-12-23 art. 4
 
-	**Cité par**:
+	**Créé par**:
 
-	  - Décret n°2009-127 du 4 février 2009 (Ab)
-	  - Décret n°2016-568 du 10 mai 2016 - art. 1 (V)
-	  - Code de procédure pénale - art. R15-24 (V)
+	  - Décret n°95-661 du 9 mai 1995 - art. 1 () JORF 10 mai 1995
 
 
-###### Article R15-24
+###### Article R15-40
 
-L'habilitation peut être retirée selon la procédure prévue par les articles R. 15-20 et R. 15-21. 
+L'habilitation peut être retirée selon la procédure prévue par les articles R. 15-36 et R. 15-37.
 
 Le procureur de la République ou le procureur général peut, aux fins de retrait d'habilitation, saisir, selon le cas,
 l'assemblée générale des magistrats du siège et du parquet du tribunal, celle de la cour d'appel ou la commission restreinte
-compétente. 
+compétente.
 
 En cas d'urgence, le doyen des juges d'instruction, sur proposition ou avis conforme du procureur de la République, ou le
-président de la chambre de l'instruction, sur proposition ou avis conforme du procureur général, peut retirer provisoirement
-l'habilitation jusqu'à la décision de la prochaine assemblée générale ou commissaire restreinte.
+président de la chambre d'accusation, sur proposition ou avis conforme du procureur général, peut retirer provisoirement
+l'habilitation jusqu'à la décision de la prochaine assemblée générale ou commission restreinte.
 
 **Liens relatifs à cet article**
 
@@ -35804,28 +36287,22 @@ l'habilitation jusqu'à la décision de la prochaine assemblée générale ou co
 
 	  - Décret n°58-358 1958-04-02
 
-	**Créé par**:
-
-	  - Décret n°83-1164 1983-12-23 art. 1 et art. 4 JORF 28 décembre 1983 en vigueur le 1er janvier 1984
-
 	**Liens**:
 
 	  - SPEC_APPLI: Décret n°83-1164 1983-12-23 art. 4
 
-	**Cité par**:
+	**Créé par**:
 
-	  - Code de procédure pénale - art. R15-23 (V)
-	  - Code de procédure pénale - art. R15-32 (V)
-	  - Code de procédure pénale - art. R15-33 (V)
+	  - Décret n°95-661 du 9 mai 1995 - art. 1 () JORF 10 mai 1995
 
 	**Cite**:
 
-	  - Code de procédure pénale R15-20 et R15-21
+	  - Code de procédure pénale R15-36 et R15-37
 
 
 ##### Section 2 : De la consignation de partie civile
 
-###### Article R15-25
+###### Article R15-41
 
 La partie civile est tenue, en application des articles 88 et 88-1, de consigner au greffe sauf dispense, dans le délai
 imparti par le juge d'instruction, sous peine d'irrecevabilité, une somme en vue de garantir le paiement de l'amende civile
@@ -35845,18 +36322,12 @@ En cas de condamnation à une amende civile, la somme consignée est employée a
 
 	**Créé par**:
 
-	  - Décret n°93-867 du 28 juin 1993 - art. 21 () JORF 29 juin 1993
+	  - Décret n°95-661 du 9 mai 1995 - art. 1 () JORF 10 mai 1995
 
 	**Cité par**:
 
-	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R*814-5 (Ab)
-	  - CODE DE PROCEDURE PENALE - art. R15-33 (V)
-
-	**Cite**:
-
-	  - CODE DE PROCEDURE PENALE - art. 88 (M)
-	  - CODE DE PROCEDURE PENALE - art. 88-1 (M)
-	  - CODE DE PROCEDURE PENALE - art. 91 (M)
+	  - Décret n°2005-1669 du 27 décembre 2005 - art. 2 (V)
+	  - Code de l'organisation judiciaire - art. R123-24 (V)
 
 
 ##### Section 7 : Du contrôle judiciaire et de la détention provisoire
@@ -35867,24 +36338,19 @@ En cas de condamnation à une amende civile, la somme consignée est employée a
 
 ###### Article R16
 
-Le juge d'instruction saisi de la procédure ou, sur délégation, celui dans le ressort duquel l'inculpé, désigne, pour
+Le juge d'instruction saisi de la procédure ou, sur délégation, celui dans le ressort duquel réside l'inculpé, désigne, pour
 contribuer à l'application du contrôle judiciaire, soit une personne physique ou morale habilitée à cette fin, soit un
 service de police ou de gendarmerie ou tout service judiciaire ou administratif compétent, soit, à titre exceptionnel, un
 enquêteur de personnalité.
 
 Les contrôleurs judiciaires sont habilités sous les conditions et selon les règles de compétence et de procédure définies par
-les articles R. 15-19 à R. 15-24.
+les articles R. 15-35 à R. 15-40.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°58-358 1958-04-02
-
-	**Modifié par**:
-
-	  - Décret n°83-1164 1983-12-23 art. 2 et art. 4 JORF 28 décembre 1983 en vigueur le 1er janvier 1984
-	  - Décret n°70-1223 1970-12-23 art. 1 JORF 25 décembre 1970
 
 	**Liens**:
 
@@ -35894,13 +36360,13 @@ les articles R. 15-19 à R. 15-24.
 
 	  - Décret n°88-949 du 6 octobre 1988 - art. 5 (V)
 
+	**Modifié par**:
+
+	  - Décret n°95-661 du 9 mai 1995 - art. 1 () JORF 10 mai 1995
+
 	**Cite**:
 
-	  - CODE DE PROCEDURE PENALE - art. R15-19 (M)
-	  - CODE DE PROCEDURE PENALE - art. R15-20 (M)
-	  - CODE DE PROCEDURE PENALE - art. R15-21 (M)
-	  - CODE DE PROCEDURE PENALE - art. R15-22 (M)
-	  - Code de procédure pénale R15-19, R15-20, R15-21, R15-22, R15-23 et R15-24
+	  - Code de procédure pénale R15-35 à R15-40
 
 
 ###### Article R16-1
@@ -40045,10 +40511,7 @@ public.
 17° Des frais d'interprète exposés dans le cadre du contentieux judiciaire relatif au maintien des étrangers dans des locaux
 ne relevant pas de l'administration pénitentiaire.
 
-18° Des frais de l'appel aux créanciers prévu à l'article 11 de la loi n° 89-1010 du 31 décembre 1989 relative à la
-prévention et au règlement des difficultés liées au surendettement des particuliers et
-
-des familles.
+18° Des frais des mesures d'instruction prévues à l'article L. 332-2 du code de la consommation.
 
 19° Les frais d'impression, d'insertion et de publication des arrêts, jugements et ordonnances de justice selon les
 dispositions des articles R. 210 et suivants.
@@ -40089,8 +40552,7 @@ dispositions des articles R. 210 et suivants.
 
 	  - Loi n°67-563 du 13 juillet 1967 - art. 94 (Ab)
 	  - Loi n°85-98 1985-01-25 art. 215
-	  - Loi n°89-1010 1989-12-31 art. 11
-	  - Code civil - art. 287-1 (M)
+	  - Code de la consommation - art. L332-2 (M)
 	  - CODE DE PROCEDURE PENALE - art. 16-2 (V)
 	  - CODE DE PROCEDURE PENALE - art. R210 (M)
 	  - CODE DE PROCEDURE PENALE - art. R92 (M)
@@ -40098,7 +40560,7 @@ dispositions des articles R. 210 et suivants.
 
 	**Modifié par**:
 
-	  - Décret n°93-867 du 28 juin 1993 - art. 4 () JORF 29 juin 1993
+	  - Décret n°95-660 du 9 mai 1995 - art. 33 () JORF 10 mai 1995
 
 	**Liens**:
 
