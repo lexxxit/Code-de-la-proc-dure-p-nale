@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 1988-03-01
+Version Consolidée au 1988-07-21
 
 # Partie législative
 
@@ -27748,6 +27748,33 @@ incapacités de quelque nature qu'elles soient résultant de cette condamnation.
 
 	  - Code pénal 55-1 al. 2
 	  - CODE DE PROCEDURE PENALE - art. 703 (M)
+
+
+###### Article 775-2
+
+Les condamnés à une peine ne pouvant donner lieu à réhabilitation de plein droit bénéficient, sur simple requête, de
+l'exclusion de la mention de leur condamnation au bulletin n° 2, selon les règles de compétence fixées par l'article
+précédent, à l'expiration d'un délai de vingt années à compter de leur libération définitive ou de leur libération
+conditionnelle non suivie de révocation, s'ils n'ont pas, depuis cette libération, été condamnés à une peine criminelle ou
+correctionnelle.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 58-1296 1958-12-23
+
+	**Créé par**:
+
+	  - Loi n°88-828 1988-07-20 art. 34 JORF 21 juillet 1988
+
+	**Cité par**:
+
+	  - Code civil - art. 21-27 (V)
+
+	**Cite**:
+
+	  - Code de procédure pénale L775-1
 
 
 ###### Article 776
