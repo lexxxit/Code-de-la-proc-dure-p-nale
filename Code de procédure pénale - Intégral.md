@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 2004-01-17
+Version Consolidée au 2004-02-05
 
 # Partie législative
 
@@ -43763,8 +43763,8 @@ avocats généraux près la Cour de cassation, président ;
 
 3° Des magistrats du ministère public, dont quatre au plus peuvent être des magistrats honoraires, et des officiers
 supérieurs de la gendarmerie dont quatre au plus peuvent être en retraite, en nombre égal. Ce nombre, qui est au moins de
-huit et au plus de quinze, est déterminé par arrêté conjoint du garde des sceaux, ministre de la justice, et du ministre
-chargé des armées en fonction du nombre de candidats à l'examen technique prévu à l'article R. 5.
+huit et au plus de quinze, est déterminé par arrêté conjoint du garde des sceaux, ministre de la justice, et du ministre de
+la défense en fonction du nombre de candidats à l'examen technique prévu à l'article R. 5.
 
 Le secrétariat de la commission est assuré par la gendarmerie nationale.
 
@@ -43774,10 +43774,6 @@ Le secrétariat de la commission est assuré par la gendarmerie nationale.
 
 	  - Décret n°58-358 1958-04-02
 
-	**Modifié par**:
-
-	  - Décret n°94-983 du 15 novembre 1994 - art. 1 () JORF 16 novembre 1994
-
 	**Cité par**:
 
 	  - Arrêté du 15 novembre 1994 - art. 1 (V)
@@ -43786,6 +43782,10 @@ Le secrétariat de la commission est assuré par la gendarmerie nationale.
 	  - Code de procédure pénale - art. R6 (VD)
 	  - Code de procédure pénale - art. R7 (VD)
 	  - Code de procédure pénale - art. R8 (VD)
+
+	**Modifié par**:
+
+	  - Décret n°2004-106 du 29 janvier 2004 - art. 10 (V) JORF 5 février 2004
 
 	**Cite**:
 
