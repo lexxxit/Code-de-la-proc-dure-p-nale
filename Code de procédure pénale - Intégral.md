@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 1967-01-20
+Version Consolidée au 1967-07-13
 
 # Partie législative
 
@@ -3771,6 +3771,40 @@ La cour d'assises comprend : la cour proprement dite et le jury.
 	  - CODE DE PROCEDURE PENALE - art. 910 (V)
 	  - Code de procédure pénale - art. 698-6 (V)
 	  - Code de procédure pénale - art. 877 (V)
+
+
+###### Article 242
+
+La cour d'assises est, à l'audience, assistée d'un greffier.
+
+A Paris et dans les départements où siège une cour d'appel, les fonctions du greffe sont exercées par le greffier en chef ou
+un greffier de la cour d'appel.
+
+Dans les autres départements, elles le sont par le greffier en chef ou un greffier du tribunal de grande instance.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: Ordonnance 58-1273 1958-12-22 art. 18
+	  - SPEC_APPLI: Ordonnance n°58-1296 du 23 décembre 1958 - art. 10, v. init.
+
+	**Codifié par**:
+
+	  - Ordonnance 58-1296 1958-12-23
+
+	**Modifié par**:
+
+	  - Loi n°67-557 1967-07-12 art. 19 JORF 13 juillet 1967
+
+	**Cité par**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L881-3 (Ab)
+	  - Code de procédure pénale - art. 234-1 (V)
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L881-3 (Ab)
 
 
 ##### Section 1 : De la cour
