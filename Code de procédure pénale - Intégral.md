@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 2004-02-05
+Version Consolidée au 2004-02-12
 
 # Partie législative
 
@@ -9031,8 +9031,8 @@ d'instruction, compte tenu notamment des ressources et des charges de la personn
 électifs et des responsabilités syndicales, lorsque l'infraction a été commise dans l'exercice ou à l'occasion de l'exercice
 de ces activités et lorsqu'il est à redouter qu'une nouvelle infraction soit commise. Lorsque l'activité concernée est celle
 d'un avocat, le conseil de l'ordre, saisi par le juge d'instruction, a seul le pouvoir de prononcer cette mesure à charge
-d'appel, dans les conditions prévues aux articles 23 et 24 de la loi n° 71-1130 du 31 décembre 1971 portant réforme de
-certaines professions judiciaires et juridiques ; le conseil de l'ordre statue dans les quinze jours ;
+d'appel, dans les conditions prévues à l'article 24 de la loi n° 71-1130 du 31 décembre 1971 portant réforme de certaines
+professions judiciaires et juridiques ; le conseil de l'ordre statue dans les quinze jours ;
 
 13° Ne pas émettre de chèques autres que ceux qui permettent exclusivement le retrait de fonds par le tireur auprès du tiré
 ou ceux qui sont certifiés et, le cas échéant, remettre au greffe les formules de chèques dont l'usage est ainsi prohibé ;
@@ -9054,6 +9054,11 @@ régime du placement sous surveillance électronique, à l'aide du procédé pr�
 Les modalités d'application du présent article, en ce qui concerne notamment l'habilitation des personnes contribuant au
 contrôle judiciaire et au placement sous surveillance électronique sont déterminées en tant que de besoin par un décret en
 Conseil d'Etat.
+
+**Nota:**
+
+NOTA : Loi 2004-130 du 11 février 2004 art. 78 : Les dispositions des titres III, V et VI s'appliquent aux procédures
+engagées postérieurement à leur entrée en vigueur.
 
 **Liens relatifs à cet article**
 
@@ -9105,7 +9110,6 @@ Conseil d'Etat.
 
 	**Cite**:
 
-	  - Loi n°71-1130 du 31 décembre 1971 - art. 23 (M)
 	  - Loi n°71-1130 du 31 décembre 1971 - art. 24 (M)
 	  - CODE DE PROCEDURE PENALE - art. 723-12 (M)
 	  - CODE DE PROCEDURE PENALE - art. 723-8 (M)
@@ -9113,7 +9117,7 @@ Conseil d'Etat.
 
 	**Modifié par**:
 
-	  - Loi n°2002-1138 du 9 septembre 2002 - art. 49 (V) JORF 10 septembre 2002
+	  - Loi n°2004-130 du 11 février 2004 - art. 32 () JORF 12 février 2004
 
 
 ###### Article 139
@@ -10882,10 +10886,9 @@ ordonnant l'expertise.
 
 ###### Article 157
 
-Les experts sont choisis parmi les personnes physiques ou morales qui figurent soit sur une liste nationale établie par le
-bureau de la Cour de cassation, soit sur une des listes dressées par les cours d'appel, le procureur général entendu.
-
-Les modalités d'inscription et de radiation sur ces listes sont fixées par un décret en Conseil d'Etat.
+Les experts sont choisis parmi les personnes physiques ou morales qui figurent sur la liste nationale dressée par la Cour de
+cassation ou sur une des listes dressées par les cours d'appel dans les conditions prévues par la loi n° 71-498 du 29 juin
+1971 relative aux experts judiciaires.
 
 A titre exceptionnel, les juridictions peuvent, par décision motivée, choisir des experts ne figurant sur aucune de ces
 listes.
@@ -10896,11 +10899,9 @@ listes.
 
 	  - Loi n°57-1426 1957-12-31
 
-	**Modifié par**:
+	**Cite**:
 
-	  - Ordonnance n°58-1296 du 23 décembre 1958 - art. 1 () JORF 24 décembre 1958
-	  - Ordonnance 60-529 1960-06-04 art. 2 JORF 8 juin 1960
-	  - Loi n°75-701 1975-08-06 art. 24 JORF 7 août 1975 en vigueur le 1er janvier 1976
+	  - Loi n°71-498 1971-06-29
 
 	**Cité par**:
 
@@ -10941,9 +10942,9 @@ listes.
 	  - Code pénal - art. R131-52 (V)
 	  - Décret n°1919-01-22 du 22 janvier 1919 - art. 26 (Ab)
 
-	**Liens**:
+	**Modifié par**:
 
-	  - SPEC_APPLI: Loi n°75-701 du 6 août 1975 - art. 29, v. init.
+	  - Loi n°2004-130 du 11 février 2004 - art. 54 () JORF 12 février 2004
 
 
 ###### Article 157-1
@@ -11005,14 +11006,11 @@ Si les circonstances le justifient, il désigne plusieurs experts.
 
 ###### Article 160
 
-Lors de leur inscription sur l'une des listes prévues à l'article 157, les experts prêtent, devant la cour d'appel du ressort
-de leur domicile, serment d'apporter leur concours à la justice en leur honneur et en leur conscience. Ces experts n'ont pas
-à renouveler leur serment chaque fois qu'ils sont commis.
-
-Les experts ne figurant sur aucune de ces listes prêtent, chaque fois qu'ils sont commis, le serment prévu à l'alinéa
-précédent devant le juge d'instruction ou le magistrat désigné par la juridiction. Le procès-verbal de prestation de serment
-est signé par le magistrat compétent, l'expert et le greffier. En cas d'empêchement dont les motifs doivent être précisés, le
-serment peut être reçu par écrit et la lettre de serment est annexée au dossier de la procédure.
+Les experts ne figurant sur aucune des listes mentionnées à l'article 157 prêtent, chaque fois qu'ils sont commis, le serment
+prévu par la loi n° 71-498 du 29 juin 1971 relative aux experts judiciaires devant le juge d'instruction ou le magistrat
+désigné par la juridiction. Le procès-verbal de prestation de serment est signé par le magistrat compétent, l'expert et le
+greffier. En cas d'empêchement dont les motifs doivent être précisés, le serment peut être reçu par écrit et la lettre de
+serment est annexée au dossier de la procédure.
 
 **Liens relatifs à cet article**
 
@@ -11020,14 +11018,14 @@ serment peut être reçu par écrit et la lettre de serment est annexée au doss
 
 	  - Loi n°57-1426 1957-12-31
 
+	**Cite**:
+
+	  - Loi n°71-498 1971-06-29
+	  - CODE DE PROCEDURE PENALE - art. 157 (M)
+
 	**Modifié par**:
 
-	  - Ordonnance n°58-1296 du 23 décembre 1958 - art. 1 () JORF 24 décembre 1958
-	  - Loi n°72-1226 1972-12-29 art. 11 JORF 30 décembre 1972 en vigueur le 1er janvier 1973
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°72-1226 1972-12-29 art. 66
+	  - Loi n°2004-130 du 11 février 2004 - art. 55 () JORF 12 février 2004
 
 	**Cité par**:
 
@@ -11036,10 +11034,6 @@ serment peut être reçu par écrit et la lettre de serment est annexée au doss
 	  - Ordonnance n°2006-639 du 1 juin 2006 - art. 9 (V)
 	  - CODE DE PROCEDURE PENALE - art. 162 (V)
 	  - Code de procédure pénale - art. 230-1 (V)
-
-	**Cite**:
-
-	  - CODE DE PROCEDURE PENALE - art. 157 (M)
 
 
 ###### Article 161
@@ -11082,19 +11076,19 @@ Le juge d'instruction, au cours de ses opérations, peut toujours, s'il l'estime
 Si les experts demandent à être éclairés sur une question échappant à leur spécialité, le juge peut les autoriser à
 s'adjoindre des personnes nommément désignées, spécialement qualifiées par leur compétence.
 
-Les personnes ainsi désignées prêtent serment dans les conditions prévues au deuxième alinéa de l'article 160.
+Les personnes ainsi désignées prêtent serment dans les conditions prévues à l'article 160.
 
 Leur rapport sera annexé intégralement au rapport mentionné à l'article 166.
 
 **Liens relatifs à cet article**
 
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°57-1426 1957-12-31
-
 	**Codifié par**:
 
 	  - Loi n°57-1426 1957-12-31
+
+	**Modifié par**:
+
+	  - Loi n°2004-130 du 11 février 2004 - art. 56 () JORF 12 février 2004
 
 	**Cité par**:
 
