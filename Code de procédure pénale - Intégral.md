@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 2001-06-17
+Version Consolidée au 2001-07-11
 
 # Partie législative
 
@@ -18810,7 +18810,9 @@ et munitions ;
 433-5 et 521-1 du code pénal et L. 628 du code de la santé publique ;
 
 6° Les délits prévus par le code rural en matière de chasse, de pêche et de protection de la faune et de la flore et les
-délits prévus par le décret-loi du 9 janvier 1852 en matière de pêche maritime.
+délits prévus par le décret-loi du 9 janvier 1852 en matière de pêche maritime ;
+
+7° Les délits prévus par le code forestier et par le code de l'urbanisme pour la protection des bois et forêts.
 
 Toutefois, le tribunal statue obligatoirement dans les conditions prévues par le premier alinéa de l'article 398 lorsque le
 prévenu est en état de détention provisoire lors de sa comparution à l'audience ou lorsqu'il est poursuivi selon la procédure
@@ -18823,13 +18825,13 @@ jugement des délits prévus au présent article lorsque ces délits sont connex
 
 	  - Ordonnance 58-1296 1958-12-23
 
-	**Modifié par**:
-
-	  - Loi n°96-647 du 22 juillet 1996 - art. 18 () JORF 23 juillet 1996
-
 	**Liens**:
 
 	  - SPEC_APPLI: Loi n°96-647 du 22 juillet 1996 - art. 27 (M)
+
+	**Modifié par**:
+
+	  - Loi n°2001-602 du 9 juillet 2001 - art. 66 (V)
 
 	**Cité par**:
 
@@ -74887,7 +74889,11 @@ Les médecins inspecteurs des directions départementales des affaires sanitaire
 
 Les médecins inspecteurs des directions régionales des affaires sanitaires et sociales (DRASS) ;
 
-Les directeurs d'établissement de santé.
+Les directeurs d'établissement de santé ;
+
+Le président de la Commission nationale de l'informatique et des libertés ;
+
+Le Défenseur des enfants.
 
 II. - En ce qui concerne les détenus militaires ou relevant d'une autorité militaire :
 
@@ -74937,7 +74943,7 @@ Tous membres du Comité des droits de l'homme, Genève.
 
 	**Modifié par**:
 
-	  - Arrêté 2000-03-15 art. 1 JORF 18 août 2000
+	  - Arrêté 2001-06-29 art. 1 JORF 11 juillet 2001
 
 	**Cité par**:
 
