@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 2000-07-11
+Version Consolidée au 2000-07-27
 
 # Partie législative
 
@@ -70079,30 +70079,6 @@ d'épargne doivent être effectués est fixée à 1 500 F.
 	**Cite**:
 
 	  - CODE DE PROCEDURE PENALE - art. D324. (M)
-
-
-###### Article A41-2
-
-Le plafond des subsides pouvant être reçus chaque mois par les condamnés en application de l'article D 422 est fixé à 1 200
-F.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Arrêté 1959-02-27
-
-	**Modifié par**:
-
-	  - Arrêté 1989-11-29 art. 1 JORF 9 décembre 1989
-
-	**Abrogé par**:
-
-	  - Arrêté 2000-07-13 art. 1 JORF 27 juillet 2000
-
-	**Cite**:
-
-	  - CODE DE PROCEDURE PENALE - art. D422 (M)
 
 
 ###### Article A42
