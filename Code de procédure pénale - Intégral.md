@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 1990-07-13
+Version Consolidée au 1990-07-14
 
 # Partie législative
 
@@ -23706,8 +23706,9 @@ avis du procureur général. S'il ordonne le renvoi, il est fait application, le
 Les tribunaux désignés ainsi qu'il est dit à l'article précédent sont compétents pour connaître des infractions ci-après
 énumérées et de celles qui leur sont connexes dans les affaires qui sont ou apparaîtraient d'une grande complexité :
 
-1° Infractions en matière économique y compris les infractions aux dispositions de la section II du chapitre II du titre II
-du livre troisième du Code pénal ;
+1° Infractions en matière économique, y compris les infractions aux dispositions de la section II du chapitre II du titre II
+du livre III du code pénal et les infractions prévues par le troisième alinéa de l'article L. 627 du code de la santé
+publique et l'article 415 du code des douanes.
 
 2° Infractions en matière de fraudes et de publicité mensongère ;
 
@@ -23742,7 +23743,13 @@ du livre troisième du Code pénal ;
 
 	**Modifié par**:
 
-	  - Loi n°75-701 1975-03-06 art. 17 JORF 7 août 1975
+	  - Loi n°90-614 du 12 juillet 1990 - art. 21 () JORF 14 juillet 1990
+
+	**Cite**:
+
+	  - Code de procédure pénale L704
+	  - Code des douanes - art. 415 (T)
+	  - Code de la santé publique - art. L627 (M)
 
 
 ###### Article 706-2
