@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 1996-04-05
+Version Consolidée au 1996-04-12
 
 # Partie législative
 
@@ -45139,6 +45139,235 @@ agents de police judiciaire, en application de l'article 19.
 	**Liens**:
 
 	  - TXT_SOURCE: Code de procédure pénale 20 et 21
+
+
+#### Chapitre II : De la médiation pénale
+
+###### Article D15-1
+
+Lorsque le procureur de la République décide de recourir à une médiation dans les conditions de l'article 41, il peut
+désigner à cette fin toute personne physique ou morale habilitée ainsi qu'il est dit ci-après.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°58-1304 1958-12-23
+
+	**Modifié par**:
+
+	  - Décret n°96-305 du 10 avril 1996 - art. 1 () JORF 12 avril 1996
+
+	**Cité par**:
+
+	  - Décret n°2001-71 du 29 janvier 2001 - art. 8 (V)
+
+	**Abrogé par**:
+
+	  - Décret n°2001-475 du 30 mai 2001 - art. 2 () JORF 3 juin 2001
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. 41 (M)
+
+
+###### Article D15-2
+
+La personne physique ou morale selon qu'elle désire être habilitée comme médiateur dans le ressort du tribunal de grande
+instance ou dans celui de la cour d'appel en fait la demande au procureur de la République ou au procureur général.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°58-1304 1958-12-23
+
+	**Modifié par**:
+
+	  - Décret n°96-305 du 10 avril 1996 - art. 1 () JORF 12 avril 1996
+
+	**Abrogé par**:
+
+	  - Décret n°2001-475 du 30 mai 2001 - art. 2 () JORF 3 juin 2001
+
+	**Cité par**:
+
+	  - Code de procédure pénale - art. D48-5-1 (V)
+
+
+###### Article D15-3
+
+La demande présentée par une association comporte notamment :
+
+1° La copie du Journal officiel portant publication de la déclaration de l'association ou, en ce qui concerne les
+départements du Bas-Rhin, du Haut-Rhin ou de la Moselle, une copie de l'extrait du registre des associations du tribunal
+d'instance ;
+
+2° Un exemplaire des statuts et, s'il y a lieu, du règlement intérieur ;
+
+3° La liste des établissements de l'association avec indication de leur siège ;
+
+4° Un exposé indiquant les conditions de fonctionnement de l'association et, le cas échéant, l'organisation et les conditions
+de fonctionnement des comités locaux ainsi que leurs rapports avec l'association ;
+
+5° La mention des nom, prénoms, date et lieu de naissance, nationalité, profession et domicile des membres du conseil
+d'administration et du bureau de l'association ainsi que, le cas échéant, ceux de ses représentants locaux ;
+
+6° Les pièces financières qui doivent comprendre les comptes du dernier exercice, le budget de l'exercice courant et un bilan
+ou état de l'actif mobilier et immobilier et du passif.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°58-1304 1958-12-23
+
+	**Modifié par**:
+
+	  - Décret n°96-305 du 10 avril 1996 - art. 1 () JORF 12 avril 1996
+
+	**Abrogé par**:
+
+	  - Décret n°2001-475 du 30 mai 2001 - art. 2 () JORF 3 juin 2001
+
+	**Cité par**:
+
+	  - Décret n°2007-699 du 3 mai 2007 - art. 15 (V)
+
+
+###### Article D15-4
+
+Le médiateur doit satisfaire aux conditions suivantes :
+
+1° Ne pas exercer d'activités judiciaires à titre professionnel ;
+
+2° Ne pas avoir fait l'objet d'une condamnation, incapacité ou déchéance mentionnée sur le bulletin n° 2 du casier
+judiciaire ;
+
+3° Présenter des garanties de compétence, d'indépendance et d'impartialité.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°58-1304 1958-12-23
+
+	**Modifié par**:
+
+	  - Décret n°96-305 du 10 avril 1996 - art. 1 () JORF 12 avril 1996
+
+	**Abrogé par**:
+
+	  - Décret n°2001-475 du 30 mai 2001 - art. 2 () JORF 3 juin 2001
+
+	**Cité par**:
+
+	  - Code de procédure pénale - art. D2 (V)
+
+
+###### Article D15-5
+
+Le médiateur est tenu à l'obligation du secret.
+
+Les informations qu'il recueille dans l'exercice de sa mission ne peuvent être divulguées.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°58-1304 1958-12-23
+
+	**Modifié par**:
+
+	  - Décret n°96-305 du 10 avril 1996 - art. 1 () JORF 12 avril 1996
+
+	**Abrogé par**:
+
+	  - Décret n°2001-475 du 30 mai 2001 - art. 2 () JORF 3 juin 2001
+
+
+###### Article D15-6
+
+Après avoir procédé à toutes les diligences qu'il juge utiles, le procureur de la République ou le procureur général soumet
+la demande d'habilitation à l'assemblée générale des magistrats du siège et du parquet du tribunal ou de la cour d'appel, qui
+statue à la majorité de ses membres présents.
+
+La commission restreinte de l'assemblée générale des magistrats du siège et du parquet, dans les juridictions où sa
+constitution est obligatoire, exerce les attributions mentionnées à l'alinéa précédent.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°58-1304 1958-12-23
+
+	**Modifié par**:
+
+	  - Décret n°96-305 du 10 avril 1996 - art. 1 () JORF 12 avril 1996
+
+	**Abrogé par**:
+
+	  - Décret n°2001-475 du 30 mai 2001 - art. 2 () JORF 3 juin 2001
+
+	**Cité par**:
+
+	  - Décret n°2007-699 du 3 mai 2007 - art. 14 (V)
+	  - CODE DE PROCEDURE PENALE - art. A36-11 (V)
+	  - CODE DE PROCEDURE PENALE - art. D15-8 (Ab)
+
+
+###### Article D15-7
+
+En cas d'urgence, une habilitation provisoire, valable jusqu'à la décision de la prochaine assemblée générale, peut être
+prise par le procureur de la République ou le procureur général.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°58-1304 1958-12-23
+
+	**Modifié par**:
+
+	  - Décret n°96-305 du 10 avril 1996 - art. 1 () JORF 12 avril 1996
+
+	**Abrogé par**:
+
+	  - Décret n°2001-475 du 30 mai 2001 - art. 2 () JORF 3 juin 2001
+
+	**Cité par**:
+
+	  - Code de procédure pénale - art. D40-3 (V)
+
+
+###### Article D15-8
+
+Une habilitation peut être retirée selon la procédure prévue par l'article D. 15-6.
+
+Le procureur de la République ou le procureur général peut, aux fins de retrait de l'habilitation, saisir, selon le cas,
+l'assemblée générale des magistrats du siège et du parquet du tribunal, celle de la cour d'appel ou la commission restreinte
+compétente.
+
+En cas d'urgence, le procureur de la République ou le procureur général peut retirer provisoirement l'habilitation jusqu'à la
+décision de la prochaine assemblée générale ou commission.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°58-1304 1958-12-23
+
+	**Modifié par**:
+
+	  - Décret n°96-305 du 10 avril 1996 - art. 1 () JORF 12 avril 1996
+
+	**Abrogé par**:
+
+	  - Décret n°2001-475 du 30 mai 2001 - art. 2 () JORF 3 juin 2001
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. D15-6 (Ab)
 
 
 ### Titre III : Des juridictions d'instruction
