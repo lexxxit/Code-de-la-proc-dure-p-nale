@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 1971-01-01
+Version Consolidée au 1971-04-16
 
 # Partie législative
 
@@ -25276,6 +25276,56 @@ qualité d'officier de police judiciaire, et, éventuellement, toutes propositio
 ## Livre V : Des procédures d'exécution
 
 ### Titre II : De la détention
+
+#### Chapitre II : De l'exécution des peines privatives de liberté.
+
+##### Section 5
+
+###### Article A39-1
+
+La somme journalière prévue au second alinéa de l'article D. 111, au-dessous de laquelle les détenus perçoivent la totalité
+du produit de leur travail, est fixé à 4 F.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Arrêté 1959-02-27
+
+	**Créé par**:
+
+	  - Arrêté 1971-04-15 art. 1 JORF 16 avril 1971
+
+	**Cite**:
+
+	  - Code de procédure pénale D111 al. 2
+
+
+###### Article A39-2
+
+Le pourcentage du nombre de condamnés qui peuvent bénéficier des dixièmes supplémentaires prévus au premier alinéa de
+l'article D. 112 ne peut excéder 60 % de l'effectif des détenus incarcérés dans la même prison pour le premier dixième, 30 %
+pour le deuxième et 10 % pour le troisième.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Arrêté 1959-02-27
+
+	**Créé par**:
+
+	  - Arrêté 1971-04-15 art. 1 JORF 16 avril 1971
+
+	**Cité par**:
+
+	  - Décret n°2016-1996 du 30 décembre 2016 - art. 2
+	  - Décret n°2016-1996 du 30 décembre 2016 - art. 4 (V)
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. D112 (Ab)
+
 
 #### Chapitre IV : De l'administration des établissements pénitentiaires
 
