@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 2004-03-13
+Version Consolidée au 2004-03-20
 
 # Partie législative
 
@@ -50973,8 +50973,7 @@ accord aux propositions du procureur de la République et de son droit de demand
 de faire connaître sa réponse.
 
 Le procès-verbal précise que la personne a été informée que la proposition de composition pénale va être adressée pour
-validation au président du tribunal de grande instance ou au juge d'instance, et qu'elle peut demander à être entendue par ce
-magistrat. Il indique si la personne demande ou ne demande pas cette audition.
+validation au président du tribunal de grande instance ou au juge d'instance.
 
 Le procès-verbal précise également que la personne sera informée de la décision du président du tribunal de grande instance
 ou du juge d'instance, et qu'en cas de validation les délais d'exécution des mesures commenceront à courir à la date de
@@ -50989,9 +50988,9 @@ copie du procès-verbal est remise à l'auteur des faits.
 
 	  - Décret n°58-358 1958-04-02
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2001-71 du 29 janvier 2001 - art. 2 () JORF 30 janvier 2001
+	  - Décret n°2004-243 du 17 mars 2004 - art. 6 () JORF 20 mars 2004
 
 	**Cite**:
 
@@ -51011,8 +51010,9 @@ La remise du permis de conduire ou de chasser prévue par le 3° de l'article 41
 pas conduire ou chasser pendant la période de remise de son permis.
 
 Lorsqu'est proposée la remise du permis de conduire, cet engagement peut être limité à la conduite en dehors de l'activité
-professionnelle, ou à la conduite de certains véhicules. Dans ce cas, la proposition comporte les précisions prévues à
-l'article R. 131-1 ou R. 131-3 du code pénal.
+professionnelle, sauf si cette limitation est expressément exclue par la loi ou le règlement qui réprime l'infraction, ou à
+la conduite de certains véhicules. Dans ce cas, la proposition comporte les précisions prévues à l'article R. 131-1 ou R.
+131-3 du code pénal.
 
 **Liens relatifs à cet article**
 
@@ -51020,9 +51020,9 @@ l'article R. 131-1 ou R. 131-3 du code pénal.
 
 	  - Décret n°58-358 1958-04-02
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2001-71 du 29 janvier 2001 - art. 2 () JORF 30 janvier 2001
+	  - Décret n°2004-243 du 17 mars 2004 - art. 6 () JORF 20 mars 2004
 
 	**Cite**:
 
@@ -52247,6 +52247,30 @@ personne mise en examen.
 	  - Code de procédure pénale 138 al. 2 13°
 
 
+###### Article R18-2
+
+Le placement sous surveillance électronique des personnes placées sous contrôle judiciaire s'effectue dans les conditions
+fixées aux articles R. 57-10 à R. 57-35.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°58-358 1958-04-02
+
+	**Créé par**:
+
+	  - Décret n°2004-243 du 17 mars 2004 - art. 2 () JORF 20 mars 2004
+
+	**Abrogé par**:
+
+	  - Décret n°2010-1634 du 23 décembre 2010 - art. 2
+
+	**Cite**:
+
+	  - Code de procédure pénale
+
+
 ##### Paragraphe 3 : Du cautionnement
 
 ###### Article R19
@@ -52447,33 +52471,7 @@ de l'exécution du jugement ou de l'arrêt.
 	  - Code de procédure pénale 142-2 al. 2, 142-3 al. 2 et 372
 
 
-##### Sous-section 2 : De la détention provisoire et du placement sous surveillance électronique
-
-###### Article R25-1
-
-Le placement sous surveillance électronique par le juge des libertés et de la détention des personnes placées en détention
-provisoire s'effectue dans les conditions fixées aux articles R. 57-10 et suivants.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°58-358 1958-04-02
-
-	**Créé par**:
-
-	  - Décret n°2002-479 du 3 avril 2002 - art. 1 () JORF 10 avril 2002
-
-	**Abrogé par**:
-
-	  - Décret n°2004-243 2004-03-17 art. 2 2° JORF 20 mars 2004
-
-	**Cite**:
-
-	  - CODE DE PROCEDURE PENALE - art. R57-10 (M)
-
-
-##### Sous-section 3 : De la réparation à raison d'une détention provisoire
+##### Sous-section 2 : De la réparation à raison d'une détention provisoire
 
 ##### Paragraphe 1er : De la réparation demandée devant le premier président de la cour d'appel
 
@@ -52505,18 +52503,7 @@ réparation ainsi que des dispositions de l'article 149-1, 149-2 et 149-3 (premi
 
 	**Modifié par**:
 
-	  - Décret n°2001-709 du 31 juillet 2001 - art. 4 () JORF 3 août 2001
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°2001-709 du 31 juillet 2001 - art. 6 (V)
-
-	**Cite**:
-
-	  - CODE DE PROCEDURE PENALE - art. 149-1 (M)
-	  - CODE DE PROCEDURE PENALE - art. 149-2 (M)
-	  - CODE DE PROCEDURE PENALE - art. 149-3 (M)
-	  - CODE DE PROCEDURE PENALE - art. R27 (M)
+	  - Décret n°2004-243 2004-03-17 art. 2 3° JORF 20 mars 2004
 
 	**Cité par**:
 
@@ -52541,21 +52528,17 @@ dans les mêmes formes au seul avocat ou avoué.
 
 	**Modifié par**:
 
-	  - Décret n°2001-709 du 31 juillet 2001 - art. 4 () JORF 3 août 2001
+	  - Décret n°2004-243 2004-03-17 art. 2 3° JORF 20 mars 2004
 
-	**Liens**:
+	**Codifié par**:
 
-	  - SPEC_APPLI: Décret n°2001-709 du 31 juillet 2001 - art. 6 (V)
+	  - Décret n°58-358 1958-04-22
 
 	**Cité par**:
 
 	  - CODE DE PROCEDURE PENALE - art. R29 (M)
 	  - Code de procédure pénale - art. R26 (V)
 	  - Code de procédure pénale - art. R40-5 (V)
-
-	**Codifié par**:
-
-	  - Décret n°58-358 1958-04-22
 
 
 ###### Article R28
@@ -52570,6 +52553,10 @@ judiciaire du Trésor.
 
 **Liens relatifs à cet article**
 
+	**Modifié par**:
+
+	  - Décret n°2004-243 2004-03-17 art. 2 3° JORF 20 mars 2004
+
 	**Cité par**:
 
 	  - Code de procédure pénale - art. R31 (V)
@@ -52577,14 +52564,6 @@ judiciaire du Trésor.
 	**Codifié par**:
 
 	  - Décret n°58-358 1958-04-22
-
-	**Modifié par**:
-
-	  - Décret n°2001-709 du 31 juillet 2001 - art. 4 () JORF 3 août 2001
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°2001-709 du 31 juillet 2001 - art. 6 (V)
 
 
 ###### Article R29
@@ -52594,21 +52573,17 @@ communication du dossier au greffe de la cour d'appel.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Décret n°58-358 1958-04-22
-
 	**Modifié par**:
 
-	  - Décret n°2001-709 du 31 juillet 2001 - art. 4 () JORF 3 août 2001
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°2001-709 du 31 juillet 2001 - art. 6 (V)
+	  - Décret n°2004-243 2004-03-17 art. 2 3° JORF 20 mars 2004
 
 	**Cité par**:
 
 	  - CODE DE PROCEDURE PENALE - art. R30 (M)
+
+	**Codifié par**:
+
+	  - Décret n°58-358 1958-04-22
 
 
 ###### Article R30
@@ -52618,17 +52593,13 @@ est délivré sans frais, sur sa demande, copie des pièces.
 
 **Liens relatifs à cet article**
 
+	**Modifié par**:
+
+	  - Décret n°2004-243 2004-03-17 art. 2 3° JORF 20 mars 2004
+
 	**Codifié par**:
 
 	  - Décret n°58-358 1958-04-22
-
-	**Modifié par**:
-
-	  - Décret n°2001-709 du 31 juillet 2001 - art. 4 () JORF 3 août 2001
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°2001-709 du 31 juillet 2001 - art. 6 (V)
 
 
 ###### Article R31
@@ -52641,17 +52612,9 @@ quinze jours à compter de leur dépôt, les conclusions de l'agent judiciaire d
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Décret n°58-358 1958-04-22
-
 	**Modifié par**:
 
-	  - Décret n°2001-709 du 31 juillet 2001 - art. 4 () JORF 3 août 2001
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°2001-709 du 31 juillet 2001 - art. 6 (V)
+	  - Décret n°2004-243 2004-03-17 art. 2 3° JORF 20 mars 2004
 
 	**Cite**:
 
@@ -52661,6 +52624,10 @@ quinze jours à compter de leur dépôt, les conclusions de l'agent judiciaire d
 
 	  - Code de procédure pénale - art. R32 (V)
 	  - Code de procédure pénale - art. R36 (V)
+
+	**Codifié par**:
+
+	  - Décret n°58-358 1958-04-22
 
 
 ###### Article R32
@@ -52676,6 +52643,10 @@ conclusions à l'agent judiciaire du Trésor.
 
 **Liens relatifs à cet article**
 
+	**Modifié par**:
+
+	  - Décret n°2004-243 2004-03-17 art. 2 3° JORF 20 mars 2004
+
 	**Cite**:
 
 	  - CODE DE PROCEDURE PENALE - art. R31 (M)
@@ -52687,14 +52658,6 @@ conclusions à l'agent judiciaire du Trésor.
 	**Codifié par**:
 
 	  - Décret n°58-358 1958-04-22
-
-	**Modifié par**:
-
-	  - Décret n°2001-709 du 31 juillet 2001 - art. 4 () JORF 3 août 2001
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°2001-709 du 31 juillet 2001 - art. 6 (V)
 
 
 ###### Article R33
@@ -52710,11 +52673,7 @@ Les conclusions produites ultérieurement par les parties sont communiquées ent
 
 	**Modifié par**:
 
-	  - Décret n°2001-709 du 31 juillet 2001 - art. 4 () JORF 3 août 2001
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°2001-709 du 31 juillet 2001 - art. 6 (V)
+	  - Décret n°2004-243 2004-03-17 art. 2 3° JORF 20 mars 2004
 
 	**Cite**:
 
@@ -52738,17 +52697,13 @@ judiciaire du Trésor et du procureur général ou ceux-ci dûment convoqués.
 
 **Liens relatifs à cet article**
 
+	**Modifié par**:
+
+	  - Décret n°2004-243 2004-03-17 art. 2 3° JORF 20 mars 2004
+
 	**Codifié par**:
 
 	  - Décret n°58-358 1958-04-22
-
-	**Modifié par**:
-
-	  - Décret n°2001-709 du 31 juillet 2001 - art. 4 () JORF 3 août 2001
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°2001-709 du 31 juillet 2001 - art. 6 (V)
 
 
 ###### Article R35
@@ -52764,11 +52719,7 @@ ceux-ci aient lieu en audience publique.
 
 	**Modifié par**:
 
-	  - Décret n°2001-709 du 31 juillet 2001 - art. 4 () JORF 3 août 2001
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°2001-709 du 31 juillet 2001 - art. 6 (V)
+	  - Décret n°2004-243 2004-03-17 art. 2 3° JORF 20 mars 2004
 
 	**Cité par**:
 
@@ -52791,17 +52742,9 @@ Il est alors fait application des dispositions de l'article R. 35.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Décret n°58-358 1958-04-22
-
 	**Modifié par**:
 
-	  - Décret n°2001-709 du 31 juillet 2001 - art. 4 () JORF 3 août 2001
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°2001-709 du 31 juillet 2001 - art. 6 (V)
+	  - Décret n°2004-243 2004-03-17 art. 2 3° JORF 20 mars 2004
 
 	**Cite**:
 
@@ -52812,6 +52755,10 @@ Il est alors fait application des dispositions de l'article R. 35.
 	**Cité par**:
 
 	  - CODE DE PROCEDURE PENALE - art. R40-17 (V)
+
+	**Codifié par**:
+
+	  - Décret n°58-358 1958-04-22
 
 
 ###### Article R37
@@ -52825,17 +52772,13 @@ Les parties peuvent alors répliquer, le demandeur ou son avocat ayant la parole
 
 **Liens relatifs à cet article**
 
+	**Modifié par**:
+
+	  - Décret n°2004-243 2004-03-17 art. 2 3° JORF 20 mars 2004
+
 	**Codifié par**:
 
 	  - Décret n°58-358 1958-04-22
-
-	**Modifié par**:
-
-	  - Décret n°2001-709 du 31 juillet 2001 - art. 4 () JORF 3 août 2001
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°2001-709 du 31 juillet 2001 - art. 6 (V)
 
 
 ###### Article R38
@@ -52853,17 +52796,13 @@ provisoire.
 
 **Liens relatifs à cet article**
 
+	**Modifié par**:
+
+	  - Décret n°2004-243 2004-03-17 art. 2 3° JORF 20 mars 2004
+
 	**Codifié par**:
 
 	  - Décret n°58-358 1958-04-22
-
-	**Modifié par**:
-
-	  - Décret n°2001-709 du 31 juillet 2001 - art. 4 () JORF 3 août 2001
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°2001-709 du 31 juillet 2001 - art. 6 (V)
 
 
 ###### Article R39
@@ -52873,21 +52812,17 @@ Cette décision n'est susceptible d'aucun recours.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Décret n°58-358 1958-04-22
-
 	**Modifié par**:
 
-	  - Décret n°2001-709 du 31 juillet 2001 - art. 4 () JORF 3 août 2001
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°2001-709 du 31 juillet 2001 - art. 6 (V)
+	  - Décret n°2004-243 2004-03-17 art. 2 3° JORF 20 mars 2004
 
 	**Cité par**:
 
 	  - CODE DE PROCEDURE PENALE - art. R40-17 (V)
+
+	**Codifié par**:
+
+	  - Décret n°58-358 1958-04-22
 
 
 ###### Article R40
@@ -52897,17 +52832,13 @@ provisoire.
 
 **Liens relatifs à cet article**
 
+	**Modifié par**:
+
+	  - Décret n°2004-243 2004-03-17 art. 2 3° JORF 20 mars 2004
+
 	**Codifié par**:
 
 	  - Décret n°58-358 1958-04-22
-
-	**Modifié par**:
-
-	  - Décret n°2001-709 du 31 juillet 2001 - art. 4 () JORF 3 août 2001
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°2001-709 du 31 juillet 2001 - art. 6 (V)
 
 
 ###### Article R40-1
@@ -52917,21 +52848,13 @@ effectué par les comptables directs du Trésor.
 
 **Liens relatifs à cet article**
 
+	**Modifié par**:
+
+	  - Décret n°2004-243 2004-03-17 art. 2 3° JORF 20 mars 2004
+
 	**Codifié par**:
 
 	  - Décret n°58-358 1958-04-22
-
-	**Modifié par**:
-
-	  - Décret n°2001-709 du 31 juillet 2001 - art. 4 () JORF 3 août 2001
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°2001-709 du 31 juillet 2001 - art. 6 (V)
-
-	**Cite**:
-
-	  - CODE DE PROCEDURE PENALE - art. R233 (M)
 
 
 ###### Article R40-2
@@ -52943,17 +52866,13 @@ La décision du premier président comporte exécution forcée pour le paiement 
 
 **Liens relatifs à cet article**
 
+	**Modifié par**:
+
+	  - Décret n°2004-243 2004-03-17 art. 2 3° JORF 20 mars 2004
+
 	**Codifié par**:
 
 	  - Décret n°58-358 1958-04-22
-
-	**Modifié par**:
-
-	  - Décret n°2001-709 du 31 juillet 2001 - art. 4 () JORF 3 août 2001
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°2001-709 du 31 juillet 2001 - art. 6 (V)
 
 
 ###### Article R40-3
@@ -52963,21 +52882,13 @@ renvoyé, avec une copie de la décision, à la juridiction qui a rendu la déci
 
 **Liens relatifs à cet article**
 
-	**Cite**:
+	**Modifié par**:
 
-	  - CODE DE PROCEDURE PENALE - art. 149-3 (M)
+	  - Décret n°2004-243 2004-03-17 art. 2 3° JORF 20 mars 2004
 
 	**Codifié par**:
 
 	  - Décret n°58-358 1958-04-22
-
-	**Modifié par**:
-
-	  - Décret n°2001-709 du 31 juillet 2001 - art. 4 () JORF 3 août 2001
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°2001-709 du 31 juillet 2001 - art. 6 (V)
 
 
 ##### Paragraphe 2 : Du recours devant la Commission nationale de réparation des détentions
@@ -53004,11 +52915,7 @@ et qui adresse un exemplaire aux personnes énumérées aux 1° à 3° autres qu
 
 	**Modifié par**:
 
-	  - Décret n°2001-709 du 31 juillet 2001 - art. 4 () JORF 3 août 2001
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°2001-709 du 31 juillet 2001 - art. 6 (V)
+	  - Décret n°2004-243 2004-03-17 art. 2 3° JORF 20 mars 2004
 
 	**Cité par**:
 
@@ -53032,6 +52939,10 @@ Les dispositions du second alinéa de l'article R. 27 sont applicables.
 
 **Liens relatifs à cet article**
 
+	**Modifié par**:
+
+	  - Décret n°2004-243 2004-03-17 art. 2 3° JORF 20 mars 2004
+
 	**Cite**:
 
 	  - CODE DE PROCEDURE PENALE - art. R27 (M)
@@ -53039,14 +52950,6 @@ Les dispositions du second alinéa de l'article R. 27 sont applicables.
 	**Codifié par**:
 
 	  - Décret n°58-358 1958-04-22
-
-	**Modifié par**:
-
-	  - Décret n°2001-709 du 31 juillet 2001 - art. 4 () JORF 3 août 2001
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°2001-709 du 31 juillet 2001 - art. 6 (V)
 
 
 ###### Article R40-6
@@ -53058,17 +52961,13 @@ Les fonctions de secrétaire et de greffier de la commission sont remplies par u
 
 **Liens relatifs à cet article**
 
+	**Modifié par**:
+
+	  - Décret n°2004-243 2004-03-17 art. 2 3° JORF 20 mars 2004
+
 	**Codifié par**:
 
 	  - Décret n°58-358 1958-04-22
-
-	**Modifié par**:
-
-	  - Décret n°2001-709 du 31 juillet 2001 - art. 4 () JORF 3 août 2001
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°2001-709 du 31 juillet 2001 - art. 6 (V)
 
 
 ###### Article R40-7
@@ -53079,22 +52978,18 @@ peuvent prendre communication du dossier au secrétariat de la commission.
 
 **Liens relatifs à cet article**
 
+	**Modifié par**:
+
+	  - Décret n°2004-243 2004-03-17 art. 2 3° JORF 20 mars 2004
+
 	**Codifié par**:
 
 	  - Décret n°58-358 1958-04-22
 
-	**Modifié par**:
-
-	  - Décret n°2001-709 du 31 juillet 2001 - art. 4 () JORF 3 août 2001
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°2001-709 du 31 juillet 2001 - art. 6 (V)
-
 
 ##### B : De la procédure suivie devant la Commission nationale de réparation des détentions
 
-##### a : Des communications et notifications applicables lorsque l'auteur du recours est le demandeur ou l'agent judiciaire du Trésor.
+##### a : Des communications et notifications applicables lorsque l'auteur du recours est le demandeur ou l'agent judiciaire du Trésor
 
 ###### Article R40-8
 
@@ -53104,21 +52999,13 @@ avec demande d'avis de réception, de lui adresser ses conclusions dans le déla
 
 **Liens relatifs à cet article**
 
+	**Modifié par**:
+
+	  - Décret n°2004-243 2004-03-17 art. 2 3° JORF 20 mars 2004
+
 	**Codifié par**:
 
 	  - Décret n°58-358 1958-04-22
-
-	**Modifié par**:
-
-	  - Décret n°2001-709 du 31 juillet 2001 - art. 4 () JORF 3 août 2001
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°2001-709 du 31 juillet 2001 - art. 6 (V)
-
-	**Cite**:
-
-	  - CODE DE PROCEDURE PENALE - art. R40-4 (M)
 
 
 ###### Article R40-9
@@ -53135,17 +53022,9 @@ commission transmet le dossier au procureur général près la Cour de cassation
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Décret n°58-358 1958-04-22
-
 	**Modifié par**:
 
-	  - Décret n°2001-709 du 31 juillet 2001 - art. 4 () JORF 3 août 2001
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°2001-709 du 31 juillet 2001 - art. 6 (V)
+	  - Décret n°2004-243 2004-03-17 art. 2 3° JORF 20 mars 2004
 
 	**Cité par**:
 
@@ -53155,6 +53034,10 @@ commission transmet le dossier au procureur général près la Cour de cassation
 	**Cite**:
 
 	  - CODE DE PROCEDURE PENALE - art. R40-4 (M)
+
+	**Codifié par**:
+
+	  - Décret n°58-358 1958-04-22
 
 
 ###### Article R40-10
@@ -53169,7 +53052,7 @@ Le procureur général dépose ses conclusions dans les deux mois.
 
 	**Modifié par**:
 
-	  - Décret n°2001-709 du 31 juillet 2001 - art. 4
+	  - Décret n°2004-243 du 17 mars 2004 (V)
 
 
 ###### Article R40-11
@@ -53184,11 +53067,7 @@ Il communique à cette personne les conclusions du procureur général près la 
 
 	**Modifié par**:
 
-	  - Décret n°2001-709 du 31 juillet 2001 - art. 4 () JORF 3 août 2001
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°2001-709 du 31 juillet 2001 - art. 6 (V)
+	  - Décret n°2004-243 2004-03-17 art. 2 3° JORF 20 mars 2004
 
 	**Cité par**:
 
@@ -53216,11 +53095,7 @@ Les dispositions du second alinéa de l'article R. 33 sont applicables.
 
 	**Modifié par**:
 
-	  - Décret n°2001-709 du 31 juillet 2001 - art. 4 () JORF 3 août 2001
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°2001-709 du 31 juillet 2001 - art. 6 (V)
+	  - Décret n°2004-243 2004-03-17 art. 2 3° JORF 20 mars 2004
 
 	**Cite**:
 
@@ -53254,17 +53129,9 @@ Les dispositions du second alinéa de l'article R. 33 sont applicables.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Décret n°58-358 1958-04-22
-
 	**Modifié par**:
 
-	  - Décret n°2001-709 du 31 juillet 2001 - art. 4 () JORF 3 août 2001
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°2001-709 du 31 juillet 2001 - art. 6 (V)
+	  - Décret n°2004-243 2004-03-17 art. 2 3° JORF 20 mars 2004
 
 	**Cite**:
 
@@ -53274,8 +53141,12 @@ Les dispositions du second alinéa de l'article R. 33 sont applicables.
 
 	  - CODE DE PROCEDURE PENALE - art. R40-14 (V)
 
+	**Codifié par**:
 
-##### c : Des autres actes de procédure.
+	  - Décret n°58-358 1958-04-22
+
+
+##### c : Des autres actes de procédure
 
 ###### Article R40-14
 
@@ -53284,21 +53155,17 @@ Dans le mois qui suit l'expiration du délai de quinze jours prévu à l'article
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Décret n°58-358 1958-04-22
-
 	**Modifié par**:
 
-	  - Décret n°2001-709 du 31 juillet 2001 - art. 4 () JORF 3 août 2001
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°2001-709 du 31 juillet 2001 - art. 6 (V)
+	  - Décret n°2004-243 2004-03-17 art. 2 3° JORF 20 mars 2004
 
 	**Cite**:
 
 	  - CODE DE PROCEDURE PENALE - art. R40-13 (M)
+
+	**Codifié par**:
+
+	  - Décret n°58-358 1958-04-22
 
 
 ###### Article R40-15
@@ -53310,17 +53177,13 @@ dûment convoqués.
 
 **Liens relatifs à cet article**
 
+	**Modifié par**:
+
+	  - Décret n°2004-243 2004-03-17 art. 2 3° JORF 20 mars 2004
+
 	**Codifié par**:
 
 	  - Décret n°58-358 1958-04-22
-
-	**Modifié par**:
-
-	  - Décret n°2001-709 du 31 juillet 2001 - art. 4 () JORF 3 août 2001
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°2001-709 du 31 juillet 2001 - art. 6 (V)
 
 
 ###### Article R40-16
@@ -53334,21 +53197,17 @@ ceux-ci aient lieu en audience publique.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Décret n°58-358 1958-04-22
-
 	**Modifié par**:
 
-	  - Décret n°2001-709 du 31 juillet 2001 - art. 4 () JORF 3 août 2001
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°2001-709 du 31 juillet 2001 - art. 6 (V)
+	  - Décret n°2004-243 2004-03-17 art. 2 3° JORF 20 mars 2004
 
 	**Cité par**:
 
 	  - CODE DE PROCEDURE PENALE - art. R40-17 (V)
+
+	**Codifié par**:
+
+	  - Décret n°58-358 1958-04-22
 
 
 ###### Article R40-17
@@ -53365,11 +53224,7 @@ Il est alors fait application des dispositions de l'article R. 40-16.
 
 	**Modifié par**:
 
-	  - Décret n°2001-709 du 31 juillet 2001 - art. 4 () JORF 3 août 2001
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°2001-709 du 31 juillet 2001 - art. 6 (V)
+	  - Décret n°2004-243 2004-03-17 art. 2 3° JORF 20 mars 2004
 
 	**Cite**:
 
@@ -53399,21 +53254,17 @@ ayant la parole en dernier.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Décret n°58-358 1958-04-22
-
 	**Modifié par**:
 
-	  - Décret n°2001-709 du 31 juillet 2001 - art. 4 () JORF 3 août 2001
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°2001-709 du 31 juillet 2001 - art. 6 (V)
+	  - Décret n°2004-243 2004-03-17 art. 2 3° JORF 20 mars 2004
 
 	**Cite**:
 
 	  - CODE DE PROCEDURE PENALE - art. R40-4 (M)
+
+	**Codifié par**:
+
+	  - Décret n°58-358 1958-04-22
 
 
 ###### Article R40-19
@@ -53430,17 +53281,13 @@ provisoire.
 
 **Liens relatifs à cet article**
 
+	**Modifié par**:
+
+	  - Décret n°2004-243 2004-03-17 art. 2 3° JORF 20 mars 2004
+
 	**Codifié par**:
 
 	  - Décret n°58-358 1958-04-22
-
-	**Modifié par**:
-
-	  - Décret n°2001-709 du 31 juillet 2001 - art. 4 () JORF 3 août 2001
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°2001-709 du 31 juillet 2001 - art. 6 (V)
 
 
 ###### Article R40-20
@@ -53451,21 +53298,17 @@ par le comptable direct du Trésor de Paris.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Décret n°58-358 1958-04-22
-
 	**Modifié par**:
 
-	  - Décret n°2001-709 du 31 juillet 2001 - art. 4 () JORF 3 août 2001
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°2001-709 du 31 juillet 2001 - art. 6 (V)
+	  - Décret n°2004-243 2004-03-17 art. 2 3° JORF 20 mars 2004
 
 	**Cite**:
 
 	  - CODE DE PROCEDURE PENALE - art. R233 (M)
+
+	**Codifié par**:
+
+	  - Décret n°58-358 1958-04-22
 
 
 ###### Article R40-21
@@ -53480,17 +53323,13 @@ cour d'appel.
 
 **Liens relatifs à cet article**
 
+	**Modifié par**:
+
+	  - Décret n°2004-243 2004-03-17 art. 2 3° JORF 20 mars 2004
+
 	**Codifié par**:
 
 	  - Décret n°58-358 1958-04-22
-
-	**Modifié par**:
-
-	  - Décret n°2001-709 du 31 juillet 2001 - art. 4 () JORF 3 août 2001
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°2001-709 du 31 juillet 2001 - art. 6 (V)
 
 
 ###### Article R40-22
@@ -53502,17 +53341,13 @@ Une copie de la décision est également adressée au procureur général près 
 
 **Liens relatifs à cet article**
 
+	**Modifié par**:
+
+	  - Décret n°2004-243 2004-03-17 art. 2 3° JORF 20 mars 2004
+
 	**Codifié par**:
 
 	  - Décret n°58-358 1958-04-22
-
-	**Modifié par**:
-
-	  - Décret n°2001-709 du 31 juillet 2001 - art. 4 () JORF 3 août 2001
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°2001-709 du 31 juillet 2001 - art. 6 (V)
 
 
 ## Livre II : Des juridictions de jugement
@@ -53627,13 +53462,13 @@ Draguignan (à titre temporaire)
 
 La liste des jurés suppléants prévue par l'article 264 comprend :
 
-1° Sept cents jurés pour la cour d'assises de Paris ;
+1° Sept cents jurés pour les cours d'assises de Paris et de la Seine-Saint-Denis ;
 
 2° Six cents jurés pour la cour d'assises du Val-de-Marne ;
 
 3° Quatre cent cinquante jurés pour les cours d'assises des Bouches-du-Rhône, de la Gironde, du Nord et des Yvelines ;
 
-4° Trois cent cinquante jurés pour la cour d'assises de la Seine-Saint-Denis ;
+4° (alinéa supprimé)
 
 5° Deux cent cinquante jurés pour les cours d'assises des Alpes-Maritimes, de la Corse-du-Sud, de la Haute-Corse, de
 l'Essonne, des Hauts-de-Seine, d'Ille-et-Vilaine, de la Loire-Atlantique, du Pas-de-Calais, du Rhône, de la Seine-Maritime,
@@ -53660,7 +53495,11 @@ du Haut-Rhin, de la Sarthe, de la Savoie, de la Somme, de Vaucluse, des Vosges e
 
 	**Modifié par**:
 
-	  - Décret n°2002-195 du 11 février 2002 - art. 2 () JORF 16 février 2002
+	  - Décret n°2004-243 du 17 mars 2004 - art. 7 () JORF 20 mars 2004
+
+	**Abrogé par**:
+
+	  - Décret n°2004-1021 du 27 septembre 2004 - art. 14 () JORF 29 septembre 2004
 
 	**Cite**:
 
@@ -53679,11 +53518,9 @@ En application des dispositions du deuxième alinéa de l'article 260, le nombre
 
 Cours d'assises
 
-DÉPARTEMENTS
+- DÉPARTEMENTS
 
-NOMBRE DE JURÉS
-
-figurant sur la liste annuelle
+- NOMBRE DE JURÉS figurant sur la liste annuelle
 
 Alpes-Maritimes
 
@@ -53749,6 +53586,10 @@ Savoie
 
 390 
 
+Seine-Saint-Denis
+
+2 000
+
 Val-de-Marne
 
 1 700 
@@ -53771,9 +53612,13 @@ l'article 260 dépasse celui fixé ci-dessus.
 
 	  - Décret n°59-318 1959-02-23
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2002-195 du 11 février 2002 - art. 1 () JORF 16 février 2002
+	  - Décret n°2004-243 du 17 mars 2004 - art. 7 () JORF 20 mars 2004
+
+	**Abrogé par**:
+
+	  - Décret n°2004-1021 du 27 septembre 2004 - art. 14 () JORF 29 septembre 2004
 
 	**Cite**:
 
@@ -57085,7 +56930,7 @@ police judiciaire qui procède à l'audition de la personne, par l'intermédiair
 ###### Article R53-40
 
 La juridiction de proximité est compétente pour juger les contraventions de police suivantes, lorsqu'elles sont commises par
-des personnes physiques :
+des personnes physiques sous les réserves indiquées au dernier alinéa du présent article,
 
 1° Contraventions réprimées par les articles suivants du code pénal :
 
@@ -57164,6 +57009,10 @@ et l'exploitation des voies ferrées d'intérêt général et local et relatives
 8° Contraventions réprimées par l'article 8 du décret n° 99-1164 du 29 décembre 1999 pris pour l'application du chapitre III
 du titre II du livre II du code rural et relatives à la détention de chiens dangereux.
 
+Toutefois, la juridiction de proximité n'est pas compétente en cas de poursuite concomitante de l'une des contraventions
+susvisées avec des contraventions relevées à l'encontre d'une personne morale ou avec d'autres contraventions connexes ne
+relevant pas de la compétence de la juridiction de proximité.
+
 **Liens relatifs à cet article**
 
 	**Cite**:
@@ -57179,9 +57028,9 @@ du titre II du livre II du code rural et relatives à la détention de chiens da
 
 	  - Décret n°59-318 1959-02-23
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2003-542 du 23 juin 2003 - art. 27 () JORF 25 juin 2003 en vigueur le 15 septembre 2003
+	  - Décret n°2004-243 du 17 mars 2004 - art. 8 () JORF 20 mars 2004
 
 	**Cité par**:
 
@@ -57450,19 +57299,20 @@ détenus écroués à la suite d'une demande d'extradition émanant d'un gouvern
 
 ###### Article R57-10
 
-Le placement sous surveillance électronique par le juge des libertés et de la détention des personnes placées en détention
-provisoire ou par le juge de l'application des peines des personnes condamnées à une peine privative de liberté, prévu
-respectivement par les articles 144-2 et 723-7, s'effectue dans les conditions fixées par les dispositions du présent titre.
+Le placement sous surveillance électronique par le juge d'instruction ou le juge des libertés et de la détention des
+personnes placées sous contrôle judiciaire ou par le juge de l'application des peines des personnes condamnées à une peine
+privative de liberté, prévu respectivement par les articles 138 et 723-7, s'effectue dans les conditions fixées par les
+dispositions du présent titre.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2002-479 du 3 avril 2002 - art. 2 () JORF 10 avril 2002
+	  - Décret n°2004-243 du 17 mars 2004 - art. 3 () JORF 20 mars 2004
 
 	**Cite**:
 
-	  - CODE DE PROCEDURE PENALE - art. 144-2 (Ab)
+	  - CODE DE PROCEDURE PENALE - art. 138 (M)
 	  - CODE DE PROCEDURE PENALE - art. 723-7 (M)
 
 	**Cité par**:
@@ -57474,7 +57324,7 @@ respectivement par les articles 144-2 et 723-7, s'effectue dans les conditions f
 	  - Décret n°59-318 1959-02-03
 
 
-#### Chapitre unique : Dispositions générales
+#### Chapitre Ier : Dispositions générales
 
 ##### Section 1 : Dispositions concernant le procédé prévu par l'article 723-8
 
@@ -57484,17 +57334,16 @@ Pour la mise en oeuvre du procédé permettant le placement sous surveillance é
 personne assignée porte un bracelet comportant un émetteur.
 
 Cet émetteur transmet des signaux à un récepteur placé au lieu d'assignation dont le boîtier envoie par l'intermédiaire d'une
-ligne téléphonique, à un centre de surveillance, relevant d'un ou plusieurs établissements pénitentiaires, des messages
-relatifs au fonctionnement du dispositif et à la présence de l'intéressé dans le lieu où il est assigné.
+ligne téléphonique, à un centre de surveillance relatifs au fonctionnement du dispositif et à la présence de l'intéressé dans
+le lieu où il est assigné.
 
 Le bracelet porté par la personne assignée est conçu de façon à ne pouvoir être enlevé par cette dernière sans que soit émis
 un signal d'alarme.
 
+Ces dispositifs peuvent être complétés par d'autres procédés de surveillance électronique permettant une authentification
+vocale ou digitale à des fins de vérification à distance de la présence de l'intéressé.
+
 **Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°2002-479 du 3 avril 2002 - art. 2 () JORF 10 avril 2002
 
 	**Cité par**:
 
@@ -57507,6 +57356,11 @@ un signal d'alarme.
 	  - Code de procédure pénale - art. D32-12 (V)
 	  - Code de procédure pénale - art. D32-4 (V)
 	  - Code de procédure pénale - art. D32-6 (V)
+
+	**Modifié par**:
+
+	  - Décret n°2004-243 2004-03-17 art. 3 II, III JORF 20 mars 2004
+	  - Décret n°2004-243 du 17 mars 2004 - art. 3 () JORF 20 mars 2004
 
 	**Cite**:
 
@@ -57523,9 +57377,9 @@ Le procédé décrit à l'article R. 57-11 est homologué par arrêté du garde 
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2002-479 du 3 avril 2002 - art. 2 () JORF 10 avril 2002
+	  - Décret n°2004-243 du 17 mars 2004 - art. 3 () JORF 20 mars 2004
 
 	**Cite**:
 
@@ -57542,24 +57396,25 @@ Le procédé décrit à l'article R. 57-11 est homologué par arrêté du garde 
 ###### Article R57-13
 
 Lorsqu'il est saisi d'une demande de placement sous surveillance électronique ou lorsqu'il envisage de prononcer d'office une
-telle mesure, le juge des libertés et de la détention ou le juge de l'application des peines peut charger le service
-pénitentiaire d'insertion et de probation de s'assurer de la disponibilité du dispositif technique décrit à l'article R.
-57-11 et de vérifier la situation familiale, matérielle et sociale de la personne condamnée ou prévenue, notamment aux fins
-de déterminer les horaires et les lieux d'assignation.
+telle mesure, le juge d'instruction, le juge des libertés et de la détention ou le juge de l'application des peines peut
+charger le service pénitentiaire d'insertion et de probation de s'assurer de la disponibilité du dispositif technique décrit
+à l'article R. 57-11 et de vérifier la situation familiale, matérielle et sociale de la personne condamnée ou prévenue,
+notamment aux fins de déterminer les horaires et les lieux d'assignation.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2002-479 du 3 avril 2002 - art. 2 () JORF 10 avril 2002
-
-	**Cite**:
-
-	  - CODE DE PROCEDURE PENALE - art. R57-11 (M)
+	  - Décret n°2004-243 2004-03-17 art. 3 II, IV JORF 20 mars 2004
+	  - Décret n°2004-243 du 17 mars 2004 - art. 3 () JORF 20 mars 2004
 
 	**Codifié par**:
 
 	  - Décret n°59-318 1959-02-03
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. R57-11 (M)
 
 
 ###### Article R57-14
@@ -57574,9 +57429,9 @@ de probation, sauf si cet accord figure déjà au dossier de la procédure.
 
 	  - Décret n°59-318 1959-02-03
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2002-479 du 3 avril 2002 - art. 2 () JORF 10 avril 2002
+	  - Décret n°2004-243 du 17 mars 2004 - art. 3 () JORF 20 mars 2004
 
 	**Cité par**:
 
@@ -57599,9 +57454,9 @@ décrit à l'article R. 57-11 ne présente pas d'inconvénient pour sa santé.
 
 	  - Décret n°59-318 1959-02-03
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2002-479 du 3 avril 2002 - art. 2 () JORF 10 avril 2002
+	  - Décret n°2004-243 du 17 mars 2004 - art. 3 () JORF 20 mars 2004
 
 	**Cité par**:
 
@@ -57629,9 +57484,9 @@ Il donne connaissance à la personne condamnée à une peine privative de libert
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2002-479 du 3 avril 2002 - art. 2 () JORF 10 avril 2002
+	  - Décret n°2004-243 du 17 mars 2004 - art. 3 () JORF 20 mars 2004
 
 	**Cite**:
 
@@ -57657,17 +57512,17 @@ obligations particulières auxquelles elle est soumise.
 
 **Liens relatifs à cet article**
 
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. 723-11 (M)
+
 	**Codifié par**:
 
 	  - Décret n°59-318 1959-02-03
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2002-479 du 3 avril 2002 - art. 2 () JORF 10 avril 2002
-
-	**Cite**:
-
-	  - CODE DE PROCEDURE PENALE - art. 723-11 (M)
+	  - Décret n°2004-243 du 17 mars 2004 - art. 3 () JORF 20 mars 2004
 
 
 ###### Article R57-18
@@ -57677,37 +57532,40 @@ sans délai et par tout moyen.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°59-318 1959-02-03
-
-	**Créé par**:
-
-	  - Décret n°2002-479 du 3 avril 2002 - art. 2 () JORF 10 avril 2002
+	  - Décret n°2004-243 du 17 mars 2004 - art. 3 () JORF 20 mars 2004
 
 	**Cite**:
 
 	  - CODE DE PROCEDURE PENALE - art. 723-13 (M)
+
+	**Codifié par**:
+
+	  - Décret n°59-318 1959-02-03
 
 
 ##### Section 4 : Mise en oeuvre du placement sous surveillance électronique
 
 ###### Article R57-19
 
-Le personnel de l'administration pénitentiaire assure la pose et la dépose du bracelet prévu à l'article R. 57-11.
+Le personnel de l'administration pénitentiaire assure la pose et la dépose du bracelet prévu à l'article R. 57-11. Il peut
+être assisté des personnes habilitées dans les conditions fixées aux articles R. 57-23 à R. 57-30.
 
 Lorsque la décision de placement sous surveillance électronique est exécutoire, la mise en place du dispositif technique doit
 intervenir au plus tard, sous réserve de la disponibilité de ce dispositif, dans les cinq jours qui suivent la décision.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2002-479 du 3 avril 2002 - art. 2 () JORF 10 avril 2002
+	  - Décret n°2004-243 2004-03-17 art. 3 II, V JORF 20 mars 2004
+	  - Décret n°2004-243 du 17 mars 2004 - art. 3 () JORF 20 mars 2004
 
 	**Cite**:
 
 	  - CODE DE PROCEDURE PENALE - art. R57-11 (M)
+	  - Code de procédure pénale R57-11, R57-23 à R57-30
 
 	**Cité par**:
 
@@ -57720,14 +57578,15 @@ intervenir au plus tard, sous réserve de la disponibilité de ce dispositif, da
 
 ###### Article R57-20
 
-La personne placée sous surveillance électronique est inscrite au registre d'écrou de l'un des établissements pénitentiaires
-dépendant du centre de surveillance.
+La personne condamnée à une peine privative de liberté placée sous surveillance électronique est inscrite au registre d'écrou
+de l'un des établissements pénitentiaires dépendant du centre de surveillance.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2002-479 du 3 avril 2002 - art. 2 () JORF 10 avril 2002
+	  - Décret n°2004-243 2004-03-17 art. 3 II, VI JORF 20 mars 2004
+	  - Décret n°2004-243 du 17 mars 2004 - art. 3 () JORF 20 mars 2004
 
 	**Cité par**:
 
@@ -57742,14 +57601,15 @@ dépendant du centre de surveillance.
 ###### Article R57-21
 
 Le service pénitentiaire d'insertion et de probation de l'établissement mentionné à l'article R. 57-20 assure, le cas
-échéant, le contrôle et le suivi des mesures prévues aux articles 132-43 à 132-46 du code pénal et ordonnées par le juge des
-libertés ou de la détention ou le juge de l'application des peines.
+échéant, le contrôle et le suivi des mesures prévues aux articles 132-43 à 132-46 du code pénal et ordonnées par le juge de
+l'application des peines.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2002-479 du 3 avril 2002 - art. 2 () JORF 10 avril 2002
+	  - Décret n°2004-243 2004-03-17 art. 3 II, VII JORF 20 mars 2004
+	  - Décret n°2004-243 du 17 mars 2004 - art. 3 () JORF 20 mars 2004
 
 	**Cite**:
 
@@ -57777,9 +57637,9 @@ d'insertion et de probation.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2002-479 du 3 avril 2002 - art. 2 () JORF 10 avril 2002
+	  - Décret n°2004-243 du 17 mars 2004 - art. 3 () JORF 20 mars 2004
 
 	**Cite**:
 
@@ -57793,6 +57653,358 @@ d'insertion et de probation.
 	**Codifié par**:
 
 	  - Décret n°59-318 1959-02-03
+
+
+##### Section 5 : Habilitation des personnes auxquelles peut être confiée la mise en oeuvre du dispositif technique permettant le contrôle à distance des personnes assujetties
+
+##### Sous-section 1 : Les personnes habilitées
+
+###### Article R57-23
+
+L'habilitation des personnes auxquelles peut être confiée par contrat la mise en oeuvre du dispositif technique permettant le
+contrôle à distance prévu par l'article 723-8 est accordée par arrêté du garde des sceaux, ministre de la justice.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2004-243 du 17 mars 2004 - art. 4 () JORF 20 mars 2004
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. 723-8 (M)
+
+	**Cité par**:
+
+	  - CODE DE PROCEDURE PENALE - art. R57-24 (V)
+	  - CODE DE PROCEDURE PENALE - art. R57-28 (V)
+
+	**Codifié par**:
+
+	  - Décret n°59-318 1959-02-03
+
+
+###### Article R57-24
+
+L'habilitation est accordée pour une durée de cinq ans renouvelable en fonction des compétences techniques, des garanties
+financières et des références qu'offrent ces personnes appréciées au regard de la nature, de l'étendue et du coût des
+prestations faisant l'objet du contrat prévu à l'article R. 57-23.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2004-243 du 17 mars 2004 - art. 4 () JORF 20 mars 2004
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. R57-23 (V)
+
+	**Cité par**:
+
+	  - CODE DE PROCEDURE PENALE - art. R57-27 (V)
+
+	**Codifié par**:
+
+	  - Décret n°59-318 1959-02-03
+
+
+###### Article R57-25
+
+Pour être habilitées les personnes physiques doivent :
+
+1° Posséder la nationalité française ou celle de l'un des Etats membres de la Communauté européenne ;
+
+2° Ne pas avoir fait l'objet d'une mesure de révocation de la fonction publique, civile ou militaire ni d'une condamnation,
+incapacité ou déchéance justifiant l'inscription au bulletin n° 2 du casier judiciaire.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2004-243 du 17 mars 2004 - art. 4 () JORF 20 mars 2004
+
+	**Cité par**:
+
+	  - CODE DE PROCEDURE PENALE - art. R57-26 (V)
+	  - CODE DE PROCEDURE PENALE - art. R57-27 (V)
+
+	**Codifié par**:
+
+	  - Décret n°59-318 1959-02-03
+
+
+###### Article R57-26
+
+L'habilitation ne peut être accordée à une personne morale :
+
+1° Dont le bulletin n° 2 du casier judiciaire comporte une condamnation, une incapacité ou une déchéance ;
+
+2° Dont la situation d'un ou plusieurs de ses dirigeants de droit ou de fait n'est pas conforme au 2° de l'article R. 57-25 ;
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2004-243 du 17 mars 2004 - art. 4 () JORF 20 mars 2004
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. R57-25 (V)
+
+	**Cité par**:
+
+	  - CODE DE PROCEDURE PENALE - art. R57-27 (V)
+
+	**Codifié par**:
+
+	  - Décret n°59-318 1959-02-03
+
+
+###### Article R57-27
+
+L'habilitation peut être retirée par le garde des sceaux, ministre de la justice, selon les modalités prévues à l'article R.
+57-30, en cas de modification substantielle de la situation des personnes au regard des dispositions des articles R. 57-24,
+R. 57-25 ou R. 57-26.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-318 1959-02-03
+
+	**Créé par**:
+
+	  - Décret n°2004-243 du 17 mars 2004 - art. 4 () JORF 20 mars 2004
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. R57-24 (V)
+	  - CODE DE PROCEDURE PENALE - art. R57-25 (V)
+	  - CODE DE PROCEDURE PENALE - art. R57-26 (V)
+	  - CODE DE PROCEDURE PENALE - art. R57-30 (V)
+
+
+##### Sous-section 2 : Les agents des personnes habilitées
+
+###### Article R57-28
+
+Chaque employé d'une personne mentionnée à la sous-section 1 appelé à accomplir des tâches pour l'exécution du contrat visé à
+l'article R. 57-23, fait l'objet d'une habilitation individuelle préalable accordée par le garde des sceaux, ministre de la
+justice.
+
+Cette habilitation est accordée pour une durée de cinq ans renouvelable.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2004-243 du 17 mars 2004 - art. 4 () JORF 20 mars 2004
+
+	**Cité par**:
+
+	  - Décret n°2014-1279 du 23 octobre 2014 - art. (VD)
+	  - CODE DE PROCEDURE PENALE - art. R57-29 (V)
+	  - CODE DE PROCEDURE PENALE - art. R57-30 (V)
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. R57-23 (V)
+
+	**Codifié par**:
+
+	  - Décret n°59-318 1959-02-03
+
+
+###### Article R57-29
+
+Pour être habilitées les personnes mentionnées à l'article R. 57-28 doivent :
+
+1° Posséder la nationalité française ou celle de l'un des Etats membres de la Communauté européenne ;
+
+2° Ne pas avoir fait l'objet d'une mesure de révocation de la fonction publique, civile ou militaire ni d'une condamnation,
+incapacité ou déchéance justifiant l'inscription au bulletin n° 2 du casier judiciaire ;
+
+3° Etre titulaires des diplômes ou qualifications correspondant à la nature des fonctions qu'elles sont appelées à exercer ;
+
+4° Avoir donné leur accord écrit au projet de contrat de travail proposé par leur employeur ou à un avenant au contrat
+existant. Ce document rappelle l'obligation de respecter strictement le secret professionnel prévu par les articles 226-13 et
+226-14 du code pénal. Il mentionne l'obligation d'adopter, dans l'exercice de leurs fonctions, un comportement conforme à
+l'honneur, à la probité et aux bonnes moeurs.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-318 1959-02-03
+
+	**Créé par**:
+
+	  - Décret n°2004-243 du 17 mars 2004 - art. 4 () JORF 20 mars 2004
+
+	**Cite**:
+
+	  - Code pénal - art. 226-13 (M)
+	  - Code pénal - art. 226-14 (M)
+	  - CODE DE PROCEDURE PENALE - art. R57-28 (V)
+
+	**Cité par**:
+
+	  - CODE DE PROCEDURE PENALE - art. R57-30 (V)
+
+
+###### Article R57-30
+
+L'habilitation mentionnée à l'article R. 57-28 peut être retirée par le garde des sceaux, ministre de la justice, après avoir
+recueilli les observations de la personne habilitée, lorsque l'une des conditions prévues aux 1° et 2° de l'article R. 57-29
+cesse d'être remplie ou en cas d'agissements contraires à l'honneur, à la probité ou aux bonnes moeurs.
+
+En cas d'urgence et pour motif grave, l'habilitation peut être suspendue par le garde des sceaux, ministre de la justice, qui
+décide, dans le mois suivant la suspension, du maintien ou du retrait de l'habilitation, dans les conditions définies à
+l'alinéa précédent.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2004-243 du 17 mars 2004 - art. 4 () JORF 20 mars 2004
+
+	**Cité par**:
+
+	  - CODE DE PROCEDURE PENALE - art. R57-27 (V)
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. R57-28 (V)
+	  - CODE DE PROCEDURE PENALE - art. R57-29 (V)
+
+	**Codifié par**:
+
+	  - Décret n°59-318 1959-02-03
+
+
+#### Chapitre II : Dispositions relatives aux personnes placées sous contrôle judiciaire
+
+###### Article R57-31
+
+La personne mise en examen qui a été placée sous contrôle judiciaire emportant l'obligation de ne pas s'absenter de son
+domicile ou de sa résidence peut, à tout stade de la procédure, être placée pour l'exécution de cette obligation sous le
+régime du placement sous surveillance électronique par le juge d'instruction ou le juge des libertés et de la détention.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-318 1959-02-03
+
+	**Créé par**:
+
+	  - Décret n°2004-243 du 17 mars 2004 - art. 4 () JORF 20 mars 2004
+
+	**Abrogé par**:
+
+	  - Décret n°2010-1634 du 23 décembre 2010 - art. 2
+
+
+###### Article R57-32
+
+Lorsqu'il envisage de prononcer une telle mesure, le juge d'instruction ou le juge des libertés et de la détention, après
+avoir procédé le cas échéant aux formalités préalables prévues par les articles R. 57-13 à R. 57-15, recueille l'accord de la
+personne mise en examen en présence de son avocat, soit à l'issue de l'interrogatoire de première comparution ou à l'issue du
+débat contradictoire sur la détention provisoire, soit dans le cadre d'un interrogatoire réalisé conformément aux
+dispositions de l'article 121, l'avocat étant dans ce cas convoqué dans les délais prévus à l'article 114.
+
+Le juge d'instruction ou le juge des libertés et de la détention informe la personne mise en examen que dans le cas où elle
+ne respecterait pas les obligations du placement sous surveillance électronique, elle pourra être placée en détention
+provisoire.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code de procédure pénale
+	  - Code de procédure pénale - art. 114
+	  - Code de procédure pénale - art. 121
+
+	**Codifié par**:
+
+	  - Décret n°59-318 1959-02-03
+
+	**Créé par**:
+
+	  - Décret n°2004-243 du 17 mars 2004 - art. 4 () JORF 20 mars 2004
+
+	**Abrogé par**:
+
+	  - Décret n°2010-1634 du 23 décembre 2010 - art. 2
+
+
+###### Article R57-33
+
+Le placement sous surveillance électronique est prononcé par ordonnance motivée du juge d'instruction. Celle-ci précise la
+durée du placement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-318 1959-02-03
+
+	**Créé par**:
+
+	  - Décret n°2004-243 du 17 mars 2004 - art. 4 () JORF 20 mars 2004
+
+	**Abrogé par**:
+
+	  - Décret n°2010-1634 du 23 décembre 2010 - art. 2
+
+
+###### Article R57-34
+
+Les articles R. 57-20 et R. 57-21 ne sont pas applicables à la personne mise en examen placée sous surveillance électronique.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2004-243 du 17 mars 2004 - art. 4 () JORF 20 mars 2004
+
+	**Abrogé par**:
+
+	  - Décret n°2010-1634 du 23 décembre 2010 - art. 2
+
+	**Cite**:
+
+	  - Code de procédure pénale - art. R57-20
+	  - Code de procédure pénale - art. R57-21
+
+	**Codifié par**:
+
+	  - Décret n°59-318 1959-02-03
+
+
+###### Article R57-35
+
+La personne mise en examen placée sous surveillance électronique est inscrite dans un registre nominatif spécial tenu par
+l'administration pénitentiaire.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-318 1959-02-03
+
+	**Créé par**:
+
+	  - Décret n°2004-243 du 17 mars 2004 - art. 4 () JORF 20 mars 2004
+
+	**Cité par**:
+
+	  - Décret n°2010-355 du 1er avril 2010 - art. 3 (V)
+
+	**Abrogé par**:
+
+	  - Décret n°2010-1634 du 23 décembre 2010 - art. 2
 
 
 ### Titre IV : Du sursis
