@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 1988-01-01
+Version Consolidée au 1988-03-01
 
 # Partie législative
 
@@ -2181,6 +2181,43 @@ d'instruction.
 	**Liens**:
 
 	  - SPEC_APPLI: Loi n°57-1426 1957-12-31 art. 18
+
+
+###### Article 50
+
+Le juge d'instruction, choisi parmi les juges du tribunal, est nommé dans les formes prévues pour la nomination des
+magistrats du siège.
+
+En cas de nécessité, un autre juge peut être temporairement chargé, dans les mêmes formes, des fonctions de juge
+d'instruction concurremment avec le magistrat désigné ainsi qu'il est dit au premier alinéa.
+
+Si le premier président délègue un juge au tribunal, il peut aussi, dans les mêmes conditions, charger temporairement celui-
+ci de l'instruction par voie d'ordonnance.
+
+Si le juge d'instruction est absent, malade ou autrement empêché, le tribunal de grande instance désigne l'un des juges de ce
+tribunal pour le remplacer.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°57-1426 1957-12-31
+
+	**Liens**:
+
+	  - SPEC_APPLI: Ordonnance 58-1273 1958-12-22 art. 18
+	  - SPEC_APPLI: Ordonnance n°58-1296 du 23 décembre 1958 - art. 10, v. init.
+
+	**Modifié par**:
+
+	  - Ordonnance n°58-1296 du 23 décembre 1958 - art. 1 () JORF 24 décembre 1958 en vigueur le 2 mars 1959
+	  - Loi n°87-1062 du 30 décembre 1987 - art. 24 () JORF 31 décembre 1987 en vigueur le 1er mars 1988
+
+	**Cité par**:
+
+	  - Loi n°2016-1547 du 18 novembre 2016 - art. 25 (V)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R*761-24 (Ab)
+	  - Code de l'organisation judiciaire - art. R212-36 (V)
 
 
 ###### Article 51
@@ -5293,26 +5330,28 @@ suffisantes.
 
 ###### Article 183
 
-Les ordonnances de règlement sont portées à la connaissance de l'inculpé et les ordonnances de renvoi ou de transmission des
-pièces au procureur général à la connaissance de la partie civile ; la notification est effectuée dans les délais les plus
-brefs soit verbalement, avec émargement au dossier de la procédure, soit par lettre recommandée.
+Les décisions et ordonnances de règlement sont portées à la connaissance de l'inculpé et les décisions et ordonnances de
+renvoi ou de transmission des pièces au procureur général à la connaissance de la partie civile ; la notification est
+effectuée dans les délais les plus brefs soit verbalement, avec émargement au dossier de la procédure, soit par lettre
+recommandée.
 
-Sous réserve de l'application du premier alinéa de l'article 145, les décisions qui sont susceptibles de faire l'objet de
-voies de recours de la part de l'inculpé, de la partie civile ou d'un tiers conformément aux articles 99, 186 et 186-1 leur
-sont notifiées dans les délais les plus brefs soit verbalement, avec émargement au dossier de la procédure, soit par lettre
-recommandée. Si l'inculpé est détenu, elles peuvent également être portées à sa connaissance par les soins du chef de
-l'établissement pénitentiaire qui adresse, sans délai, au juge d'instruction l'original ou la copie du récépissé signé par
-l'inculpé. Dans tous les cas, une copie de l'acte est remise à l'intéressé.
+Sous réserve de l'application du premier alinéa de l'article 145, les décisions et ordonnances qui sont susceptibles de faire
+l'objet de voies de recours de la part de l'inculpé, de la partie civile ou d'un tiers conformément aux articles 99, 186 et
+186-1 leur sont notifiées dans les délais les plus brefs soit verbalement, avec émargement au dossier de la procédure, soit
+par lettre recommandée. Si l'inculpé est détenu, elles peuvent, également être portées à sa connaissance par les soins du
+chef de l'établissement pénitentiaire qui adresse, sans délai, au juge d'instruction l'original ou la copie du récépissé
+signé par l'inculpé. Dans tous les cas, une copie de l'acte est remise à l'intéressé.
 
 Toute notification d'acte à l'inculpé ou à la partie civile par lettre recommandée expédiée à la dernière adresse déclarée
 par l'intéressé est réputée faite à sa personne.
 
-Les ordonnances mentionnées aux premier et deuxième alinéas du présent article qui doivent être portées à la connaissance de
-l'inculpé ou de la partie civile sont simultanément, et selon les mêmes modalités, portées à la connaissance de leurs
-conseils.
+Les décisions et ordonnances mentionnées aux premier et deuxième alinéas du présent article qui doivent être portées à la
+connaissance de l'inculpé ou de la partie civile sont simultanément, et selon les mêmes modalités, portées à la connaissance
+de leurs conseils.
 
-Les avis destinés au procureur de la République lui sont adressés par tout moyen. Lorsque le juge d'instruction rend une
-ordonnance non conforme aux réquisitions du procureur de la République, avis en est donné à celui-ci par le greffier.
+Les avis destinés au procureur de la République lui sont adressés par tous moyen. Lorsque la juridiction d'instruction rend
+une décision ou ordonnance non conforme aux réquisitions du procureur de la République, avis en est donné à celui-ci par le
+greffier.
 
 Dans tous les cas, mention est portée au dossier par le greffier de la nature et de la date de la diligence faite en
 application du présent article ainsi que des formes utilisées.
@@ -5323,17 +5362,13 @@ application du présent article ainsi que des formes utilisées.
 
 	  - Loi n°57-1426 1957-12-31
 
-	**Modifié par**:
-
-	  - Ordonnance 60-529 1960-06-04 art. 2 JORF 8 juin 1960
-	  - Loi n°70-643 du 17 juillet 1970 - art. 4 () JORF 19 juillet 1970
-	  - Loi n°72-1226 1972-12-29 art. 31 JORF 30 décembre 1972
-	  - Loi n°84-576 du 9 juillet 1984 - art. 13 () JORF 10 juillet 1984
-	  - Loi n°85-1407 1985-12-30 art. 30 et 94 JORF 31 décembre 1985 en vigueur le 1er février 1986
-
 	**Liens**:
 
-	  - SPEC_APPLI: Loi n°85-1407 1985-12-30 art. 94
+	  - SPEC_APPLI: Loi n°85-1407 1985-12-30 art. 87 et art. 94
+
+	**Modifié par**:
+
+	  - Loi n°85-1407 1985-12-30 art. 87-I-2 JORF 31 décembre 1985 en vigueur le 1er mars 1988
 
 	**Cite**:
 
@@ -5345,6 +5380,39 @@ application du présent article ainsi que des formes utilisées.
 
 	  - Code de procédure pénale - art. 215 (V)
 	  - Code de procédure pénale - art. 385 (V)
+
+
+##### Section 12 : De l'appel des ordonnances du juge d'instruction
+
+###### Article 185
+
+Le procureur de la République a le droit d'interjeter appel devant la chambre d'accusation de toute ordonnance du juge
+d'instruction.
+
+Cet appel formé par déclaration au greffe du tribunal, doit être interjeté dans les cinq jours qui suivent la notification de
+la décision.
+
+Le droit d'appel appartient également dans tous les cas au procureur général. Il doit signifier son appel aux parties dans
+les dix jours qui suivent l'ordonnance du juge d'instruction.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Ordonnance n°45-174 du 2 février 1945 - art. 8-2 (VD)
+	  - Code de procédure pénale - art. 148-1-1 (VT)
+	  - Code de procédure pénale - art. D32-16 (V)
+	  - Code de procédure pénale - art. D32-19 (V)
+
+	**Codifié par**:
+
+	  - Loi n°57-1426 1957-12-31
+
+	**Modifié par**:
+
+	  - Ordonnance 60-529 1960-06-04 art. 8 JORF 8 juin 1960
+	  - Loi n°85-1407 1985-12-30 art. 31 et art. 94 JORF 31 décembre 1985 en vigueur le 1er mars 1988
+	  - Loi n°87-1062 du 30 décembre 1987 - art. 9 () JORF 31 décembre 1987 en vigueur le 1er septembre 1989
 
 
 ##### Section 13 : De la reprise de l'information sur charges nouvelles
