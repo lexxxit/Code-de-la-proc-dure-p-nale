@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 2005-01-01
+Version Consolidée au 2005-01-27
 
 # Partie législative
 
@@ -26386,6 +26386,39 @@ Les articles 388-1, 388-2, 388-3 et 390 à 392-1 sont applicables devant le trib
 	  - Code de procédure pénale 388-1 à 388-3, 390 à 392-1
 
 
+#### Chapitre IV : De l'instruction définitive devant le tribunal de police et la juridiction de proximité
+
+###### Article 535
+
+Les dispositions des articles 400 à 405,406 à 408, sont applicables à la procédure devant le tribunal de police et devant la
+juridiction de proximité. 
+
+Toutefois, les sanctions prévues par l'article 404, alinéa 2, ne peuvent être prononcées que par le tribunal correctionnel,
+saisi par le ministère public, au vu du procès-verbal dressé par le juge du tribunal de police ou par le juge de proximité
+relatant l'incident.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 58-1296 1958-12-23
+
+	**Modifié par**:
+
+	  - Loi n°2005-47 2005-01-26 art. 9 XXI, XXII JORF 27 janvier 2005 en vigueur le 1er avril 2005
+	  - Loi n°2005-47 du 26 janvier 2005 - art. 9 () JORF 27 janvier 2005 en vigueur le 1er avril 2005
+
+	**Cite**:
+
+	  - Code de procédure pénale - art. 400 (V)
+	  - Code de procédure pénale - art. 404 (V)
+	  - Code de procédure pénale - art. 406 (V)
+
+	**Cité par**:
+
+	  - Code de procédure pénale - art. D594 (V)
+
+
 #### Chapitre IV : De l'instruction définitive devant le tribunal de police
 
 ###### Article 534
@@ -26403,39 +26436,6 @@ estimer les dommages, dresser ou faire dresser des procès-verbaux, faire ou ord
 	**Codifié par**:
 
 	  - Ordonnance 58-1296 1958-12-23
-
-
-###### Article 535
-
-Les dispositions des articles 400 à 405, 406 à 408, sont applicables à la procédure devant le tribunal de police.
-
-Toutefois, les sanctions prévues par l'article 404, alinéa 2, ne peuvent être prononcées que par le tribunal correctionnel,
-saisi par le ministère public, au vu du procès verbal dressé par le juge du tribunal de police relatant l'incident.
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - SPEC_APPLI: Ordonnance 58-1273 1958-12-22 art. 18
-	  - SPEC_APPLI: Ordonnance n°58-1296 du 23 décembre 1958 - art. 10, v. init.
-
-	**Codifié par**:
-
-	  - Ordonnance 58-1296 1958-12-23
-
-	**Cite**:
-
-	  - CODE DE PROCEDURE PENALE - art. 400 (M)
-	  - CODE DE PROCEDURE PENALE - art. 401 (M)
-	  - CODE DE PROCEDURE PENALE - art. 402 (V)
-	  - CODE DE PROCEDURE PENALE - art. 403 (Ab)
-	  - CODE DE PROCEDURE PENALE - art. 404 (M)
-	  - CODE DE PROCEDURE PENALE - art. 405 (V)
-	  - Code de procédure pénale 400, 401, 402, 403, 404, 405, 406 à 408
-
-	**Cité par**:
-
-	  - Code de procédure pénale - art. D594 (V)
 
 
 ###### Article 536
