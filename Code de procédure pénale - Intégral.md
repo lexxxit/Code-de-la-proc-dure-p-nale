@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 1964-05-16
+Version Consolidée au 1964-07-23
 
 # Partie législative
 
@@ -17327,6 +17327,22 @@ l'application des peines.
 	  - CODE DE PROCEDURE PENALE - art. D375 (M)
 
 
+###### Article D86
+
+Des coïnculpés ne doivent pas être réunis dans une même cellule, alors même que le magistrat saisi du dossier de
+l'information n'aurait pas ordonné leur séparation.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-322 1959-02-23
+
+	**Liens**:
+
+	  - TXT_SOURCE: Code de procédure pénale 714 à 728
+
+
 ##### B : Etablissements en commun
 
 ###### Article D88
@@ -17451,6 +17467,35 @@ Il doit être produit à toute réquisition de l'autorité publique.
 
 
 ##### Paragraphe 2 : Placement à l'extérieur sous surveillance du personnel pénitentiaire
+
+###### Article D128
+
+Sous réserve de ce que la durée de la peine restant à subir n'excède pas cinq années, les détenus n'ayant pas été condamnés
+antérieurement à une peine privative de liberté supérieure à six mois peuvent être employés à des travaux à l'extérieur d'un
+établissement pénitentiaire.
+
+Peuvent également être employés à ces travaux les condamnés, quels que soient leurs antécédents et leur date de libération,
+qui remplissent les conditions de délai requises pour être proposés au bénéfice de la libération conditionnelle ou pour être
+admis au régime de semi-liberté.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-322 1959-02-23
+
+	**Modifié par**:
+
+	  - Décret n°60-898 1960-08-24 art. 1 JORF 25 août 1960
+
+	**Cité par**:
+
+	  - CODE DE PROCEDURE PENALE - art. D129 (Ab)
+
+	**Liens**:
+
+	  - TXT_SOURCE: Code de procédure pénale 714 à 728
+
 
 ###### Article D129
 
@@ -18409,6 +18454,26 @@ l'administration pénitentiaire.
 
 
 ##### Paragraphe 2 : Dispositions générales
+
+###### Article D216
+
+Le personnel des services extérieurs de l'administration pénitentiaire est tenu de parfaire ses connaissances
+professionnelles dans les conditions qui sont fixées par l'administration centrale.
+
+Il a obligation de participer aux cours et stages de formation ou de perfectionnement assurés à l'école de formation du
+personnel de l'administration pénitentiaire ou organisés par le centre national d'études et de recherches pénitentiaires ou
+par tout autre organisme.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-322 1959-02-23
+
+	**Liens**:
+
+	  - TXT_SOURCE: Code de procédure pénale 714 à 728
+
 
 ###### Article D218
 
@@ -20098,6 +20163,26 @@ compte des frais exposés par l'administration pour la manutention et la prépar
 	  - SPEC_APPLI: Décret n°59-322 1959-02-23 art. 6
 
 
+###### Article D345
+
+Les vivres vendus en cantine comprennent seulement les denrées d'usage courant qui peuvent être consommées sans faire l'objet
+d'aucune préparation, à moins que le règlement intérieur de l'établissement ait prévu l'installation de cuisine spéciale.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-322 du 23 février 1959
+
+	**Abrogé par**:
+
+	  - Décret n°2013-368 du 30 avril 2013 - art. 2
+
+	**Liens**:
+
+	  - TXT_SOURCE: Code de procédure pénale 714 à 728
+
+
 ###### Article D346
 
 Quelle que soit leur situation pénale, les détenus peuvent, à moins d'en être privés par mesure disciplinaire ou par
@@ -20857,6 +20942,31 @@ Il en est rendu compte aux autorités à prévenir en cas d'incident dans les co
 
 
 ##### Paragraphe 4 : Soins divers
+
+###### Article D392
+
+Dans chaque établissement un chirurgien-dentiste est habilité par le ministre de la justice, sur proposition du directeur
+régional et après avis du préfet, à donner ses soins aux détenus.
+
+Il est tenu de faire au moins deux visites par mois à la prison et de s'y rendre sur appel du chef de l'établissement en cas
+d'urgence.
+
+Il doit pratiquer l'examen dentaire systématique des détenus dans les conditions déterminées par une instruction de service.
+
+Le règlement des frais et honoraires pour les soins et prothèses dentaires qui ne seraient pas indispensables au maintien ou
+au rétablissement de la santé incombe aux détenus bénéficiaires dans les conditions déterminées par ladite instruction de
+service.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-322 1959-02-23
+
+	**Liens**:
+
+	  - TXT_SOURCE: Code de procédure pénale 714 à 728
+
 
 ###### Article D393
 
