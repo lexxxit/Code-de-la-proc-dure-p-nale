@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 1972-10-14
+Version Consolidée au 1972-12-30
 
 # Partie législative
 
@@ -1082,6 +1082,34 @@ cas échéant, requérir l'ouverture d'une information.
 
 ##### Section 4 : Du ministère public près le tribunal de police
 
+###### Article 46
+
+En cas d'empêchement du commissaire de police, le procureur général désigne, pour une année entière, un ou plusieurs
+remplaçants qu'il choisit parmi les commissaires et les inspecteurs divisionnaires ou principaux de la police nationale en
+résidence dans le ressort du tribunal de grande instance.
+
+A titre exceptionnel et en cas de nécessité absolue pour la tenue de l'audience, le juge du tribunal d'instance peut appeler,
+pour exercer les fonctions du ministère public, le maire du lieu où siège le tribunal de police ou un de ses adjoints.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°57-1426 1957-12-31
+
+	**Modifié par**:
+
+	  - Ordonnance n°58-1296 du 23 décembre 1958 - art. 1 () JORF 24 décembre 1958 en vigueur le 2 mars 1959
+	  - Ordonnance 60-529 1960-06-04 art. 2 JORF 8 juin 1960
+	  - Loi n°72-1226 1972-12-29 art. 20 JORF 30 décembre 1972
+
+	**Cité par**:
+
+	  - Loi n°83-520 du 27 juin 1983 - art. 11 (V)
+	  - Code de procédure pénale - art. 811 (V)
+	  - Code de procédure pénale - art. R200 (Ab)
+
+
 ###### Article 47
 
 S'il y a plusieurs commissaires de police au lieu où siège le tribunal, le procureur général désigne celui qui remplit les
@@ -1096,6 +1124,31 @@ fonctions du ministère public.
 	**Liens**:
 
 	  - SPEC_APPLI: Loi n°57-1426 1957-12-31 art. 18
+
+
+###### Article 48
+
+S'il n'y a pas de commissaire de police au lieu où siège le tribunal, le procureur général désigne, pour exercer les
+fonctions du ministère public, un commissaire ou un inspecteur divisionnaire ou principal de la police nationale en résidence
+dans le ressort du tribunal de grande instance.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°57-1426 1957-12-31
+
+	**Modifié par**:
+
+	  - Ordonnance n°58-1296 du 23 décembre 1958 - art. 1 () JORF 24 décembre 1958 en vigueur le 9 mars 1959
+	  - Ordonnance 60-529 1960-06-04 art. 2 JORF 8 juin 1960
+	  - Loi n°72-1226 1972-12-29 art. 21 JORF 30 décembre 1972
+
+	**Cité par**:
+
+	  - Loi n°83-520 du 27 juin 1983 - art. 11 (V)
+	  - Code de procédure pénale - art. 811 (V)
+	  - Code de procédure pénale - art. R200 (Ab)
 
 
 #### Chapitre III : Du juge d'instruction
@@ -1726,6 +1779,76 @@ appréhender l'auteur et le conduire devant l'officier de police judiciaire le p
 	**Cite**:
 
 	  - CODE DE PROCEDURE PENALE - art. 83 (M)
+
+
+###### Article 74
+
+En cas de découverte d'un cadavre, qu'il s'agisse ou non d'une mort violente, mais si la cause en est inconnue ou suspecte,
+l'officier de police judiciaire qui en est avisé informe immédiatement le procureur de la République, se transporte sans
+délai sur les lieux et procède aux premières constatations.
+
+Le procureur de la République se rend sur place s'il le juge nécessaire et se fait assister de personnes capables d'apprécier
+la nature des circonstances du décès. Il peut, toutefois, déléguer aux mêmes fins, un officier de police judiciaire de son
+choix.
+
+Sauf si elles sont inscrites sur une des listes prévues à l'article 157, les personnes ainsi appelées prêtent, par écrit,
+serment d'apporter leur concours à la justice en leur honneur et en leur conscience.
+
+Le procureur de la République peut aussi requérir information pour recherche des causes de la mort.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°57-1426 1957-12-31
+
+	**Modifié par**:
+
+	  - Loi n°72-1226 1972-12-29 art. 10 JORF 30 décembre 1972
+
+	**Cité par**:
+
+	  - Décret n°87-249 du 8 avril 1987 - art. 3 (V)
+	  - Arrêté du 27 février 1998 - art. Annexe (Ab)
+	  - Loi n°2003-239 du 18 mars 2003 - art. 21-1 (Ab)
+	  - Décret n°2007-1451 du 9 octobre 2007 - art. 3 (V)
+	  - Décret n°2009-786 du 23 juin 2009 - art. 2 (V)
+	  - Décret n°2012-687 du 7 mai 2012 - art. 1 (V)
+	  - Décret n°2013-1054 du 22 novembre 2013 - art. (V)
+	  - Décret n°2013-1054 du 22 novembre 2013 - art. 1 (V)
+	  - Décret n°2014-187 du 20 février 2014 - art. 1 (V)
+	  - Décret n°2014-187 du 20 février 2014 - art. 3 (V)
+	  - Décret n°2014-187 du 20 février 2014 - art. 4 (V)
+	  - Arrêté du 29 octobre 2015 - art. (V)
+	  - CODE DE PROCEDURE PENALE - art. 169-1 (V)
+	  - CODE DE PROCEDURE PENALE - art. R200 (M)
+	  - CODE DES COMMUNES. - art. R361-38 (Ab)
+	  - Code de justice militaire - art. 86 (Ab)
+	  - Code de justice militaire. - art. L211-7 (V)
+	  - Code de procédure pénale - art. 230-12 (V)
+	  - Code de procédure pénale - art. 230-13 (V)
+	  - Code de procédure pénale - art. 230-20 (V)
+	  - Code de procédure pénale - art. 230-28 (V)
+	  - Code de procédure pénale - art. 230-32 (V)
+	  - Code de procédure pénale - art. 230-33 (V)
+	  - Code de procédure pénale - art. 230-6 (V)
+	  - Code de procédure pénale - art. 230-7 (V)
+	  - Code de procédure pénale - art. 706-54 (V)
+	  - Code de procédure pénale - art. 80-4 (V)
+	  - Code de procédure pénale - art. D282 (V)
+	  - Code de procédure pénale - art. R40-25 (V)
+	  - Code de procédure pénale - art. R53-10 (V)
+	  - Code de procédure pénale - art. R92 (V)
+	  - Code général des collectivités territoriales - art. R2223-77 (V)
+	  - Décret n°41-5050 du 31 décembre 1941 - art. 5-1 (Ab)
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. 157 (M)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°72-1226 art.
 
 
 #### Chapitre II : De l'enquête préliminaire
