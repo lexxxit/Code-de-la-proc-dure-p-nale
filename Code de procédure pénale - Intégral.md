@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 1975-08-09
+Version Consolidée au 1975-10-14
 
 # Partie législative
 
@@ -17322,6 +17322,62 @@ Les fonctions de secrétaire et de greffier de la commission sont remplies par u
 
 
 ## Livre II : Des juridictions de jugement
+
+### Titre Ier : De la cour d'assises
+
+#### Chapitre II : De la tenue des assises
+
+###### Article R41
+
+Le siège des cours d'assises énumérées ci-dessous est exceptionnellement fixé dans une ville autre que le chef-lieu de la
+cour d'appel s'il en existe une ou dans le cas contraire autre que le chef-lieu du département.
+
+COUR D'ASSISES :
+
+Département : Charente-Maritime.
+
+Siège : Saintes.
+
+Département : Manche.
+
+Siège : Coutances.
+
+Département : Pas-de-Calais.
+
+Siège : Saint-Omer.
+
+Département : Saône-et-Loire.
+
+Siège : Chalon-sur-Saône.
+
+Département : VAR.
+
+Siège : Draguignan (à titre temporaire).
+
+Département : Vaucluse.
+
+Siège : Carpentras (à titre temporaire).
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-318 1959-02-23
+
+	**Créé par**:
+
+	  - Décret n°59-318 1959-02-23 JORF 25 février 1959 en vigueur le 2 mars 1959 rectificatif JORF 13 juin 1959
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°59-318 1959-02-23 art. 5
+	  - TXT_SOURCE: CODE DE PROCEDURE PENALE - art. 234 (V)
+
+	**Modifié par**:
+
+	  - Décret n°68-329 1968-04-05 art. 1 JORF 13 avril 1968
+	  - Décret n°75-929 1975-10-07 art. 1 et art. 2 JORF 14 octobre 1975
+
 
 ### Titre III : Du jugement des contraventions
 
