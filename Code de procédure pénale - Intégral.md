@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 1975-12-29
+Version Consolidée au 1976-01-01
 
 # Partie législative
 
@@ -404,6 +404,105 @@ réquisitions.
 
 
 ##### Section 2 : Des officiers de police judiciaire
+
+###### Article 16-1
+
+Dans le mois qui suit la notification de la décision de suspension ou de retrait d'habilitation, l'officier de police
+judiciaire peut demander au procureur général de rapporter cette décision. Le procureur général doit statuer dans un délai
+d'un mois. A défaut, son silence vaut rejet de la demande.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°57-1426 1957-12-31
+
+	**Créé par**:
+
+	  - Loi n°75-701 1975-08-06 art. 21 JORF 7 août 1975 en vigueur le 1er janvier 1976
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°75-701 1975-08-06 art. 29 Décret fixant la date d'entrée en vigueur - absence
+
+	**Cité par**:
+
+	  - CODE DE PROCEDURE PENALE - art. 16-2 (V)
+	  - Code de procédure pénale - art. D44 (V)
+
+
+###### Article 16-2
+
+Dans le délai d'un mois à partir du rejet explicite ou implicite de la demande prévue à l'article précédent, l'officier de
+police judiciaire peut former un recours devant une commission composée de trois magistrats du siège de la Cour de cassation
+ayant le grade de président de chambre ou de conseiller. Ces magistrats sont désignés annuellement, en même temps que trois
+suppléants, par le bureau de la Cour de cassation.
+
+Les fonctions du ministère public sont remplies par le parquet général près la Cour de cassation.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°57-1426 1957-12-31
+
+	**Créé par**:
+
+	  - Loi n°75-701 1975-08-06 art. 21 JORF 7 août 1975 en vigueur le 1er janvier 1976
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°75-701 1975-08-06 art. 29 Décret fixant la date d'entrée en vigueur - absence
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L142-1 (Ab)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L142-2 (Ab)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R142-1 (V)
+
+	**Cité par**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L142-2 (Ab)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R142-1 (Ab)
+	  - Code de procédure pénale - art. 28-1 (V)
+	  - Code de procédure pénale - art. 28-2 (V)
+	  - Code de procédure pénale - art. R15-7 (V)
+	  - Code de procédure pénale - art. R15-8 (V)
+	  - Code de procédure pénale - art. R241 (V)
+	  - Code de procédure pénale - art. R93 (V)
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. 16-1 (V)
+
+
+###### Article 16-3
+
+La commission statue par une décision non motivée. Les débats ont lieu et la décision est rendue en chambre du conseil. Le
+débat est oral ; le requérant peut être entendu personnellement sur sa demande ou celle de son conseil ; il peut être assisté
+de son conseil.
+
+La procédure devant la commission est fixée par un décret en Conseil d'Etat.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°57-1426 1957-12-31
+
+	**Créé par**:
+
+	  - Loi n°75-701 1975-08-06 art. 21 JORF 7 août 1975 en vigueur le 1er janvier 1976
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°75-701 1975-08-06 art. 29 Décret fixant la date d'entrée en vigueur - absence
+
+	**Cité par**:
+
+	  - Code de procédure pénale - art. 28-1 (V)
+	  - Code de procédure pénale - art. D44 (V)
+
 
 ###### Article 17
 
@@ -1744,6 +1843,99 @@ accompagnée d'un défenseur, elle ne peut être interrogée qu'en présence de 
 	  - Code de procédure pénale - art. 77-4 (V)
 
 
+###### Article 71
+
+**Nota:**
+
+Nota : Articles 71-à 71-3 abrogés, loi 81-82 du 3 février 1981 art. 47.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Ordonnance n°45-1484 du 30 juin 1945 - art. 20 (Ab)
+	  - Ordonnance n°58-1331 du 23 décembre 1958 - art. 11 (V)
+
+	**Codifié par**:
+
+	  - Loi n°57-1426 1957-12-31
+
+	**Modifié par**:
+
+	  - Loi n°75-701 1975-08-06 art. 7 JORF 7 août 1975 en vigueur le 1er janvier 1976
+
+	**Abrogé par**:
+
+	  - Loi n°81-82 du 2 février 1981 - art. 47 () JORF 3 février 1981
+
+
+###### Article 71-1
+
+**Nota:**
+
+Nota : Articles 71 à 71-3 abrogés, loi 81-82 du 2 février 1981 art. 47.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°57-1426 1957-12-31
+
+	**Créé par**:
+
+	  - Loi n°75-701 1975-08-06 art. 7 JORF 7 août 1975 en vigueur le 1er janvier 1976
+
+	**Abrogé par**:
+
+	  - Loi n°81-82 du 2 février 1981 - art. 47 () JORF 3 février 1981
+
+	**Cité par**:
+
+	  - Loi n°81-82 du 2 février 1981 - art. 52 (V)
+
+
+###### Article 71-2
+
+**Nota:**
+
+Nota : Articles 71 à 71-3 abrogés, loi 81-82 du 2 février 1981 art. 47.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°57-1426 1957-12-31
+
+	**Créé par**:
+
+	  - Loi n°75-701 1975-08-06 art. 7 JORF 7 août 1975 en vigueur le 1er janvier 1976
+
+	**Abrogé par**:
+
+	  - Loi n°81-82 du 2 février 1981 - art. 47 () JORF 3 février 1981
+
+
+###### Article 71-3
+
+**Nota:**
+
+Nota : Articles 71 à 71-3 abrogés, loi 81-82 du 2 février 1981 art. 47.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°57-1426 1957-12-31
+
+	**Créé par**:
+
+	  - Loi n°75-701 1975-08-06 art. 7 JORF 7 août 1975 en vigueur le 1er janvier 1976
+
+	**Abrogé par**:
+
+	  - Loi n°81-82 du 2 février 1981 - art. 47 () JORF 3 février 1981
+
+
 ###### Article 73
 
 Dans les cas de crime flagrant ou de délit flagrant puni d'une peine d'emprisonnement, toute personne a qualité pour en
@@ -2557,6 +2749,27 @@ a délivré le mandat.
 	  - Code de procédure pénale - art. 70 (V)
 
 
+###### Article 135-1
+
+**Nota:**
+
+Nota : Article abrogé loi 84-576 du 9 juillet 1984 art. 7.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°57-1426 1957-12-31
+
+	**Créé par**:
+
+	  - Loi n°75-701 1975-08-06 art. 5 JORF 7 août 1975 en vigueur le 1er janvier 1976
+
+	**Abrogé par**:
+
+	  - Loi n°84-576 du 9 juillet 1984 - art. 7 () JORF 10 juillet 1984 en vigueur le 1er janvier 1985
+
+
 ###### Article 136
 
 L'inobservation des formalités prescrites pour les mandats de comparution, d'amener, de dépôt et d'arrêt est sanctionnée par
@@ -2719,6 +2932,92 @@ payée comme frais de justice criminelle.
 
 
 ##### Section 9 : De l'expertise
+
+###### Article 157
+
+Les experts sont choisis parmi les personnes physiques ou morales qui figurent soit sur une liste nationale établie par le
+bureau de la Cour de cassation, soit sur une des listes dressées par les cours d'appel, le procureur général entendu.
+
+Les modalités d'inscription et de radiation sur ces listes sont fixées par un décret en Conseil d'Etat.
+
+A titre exceptionnel, les juridictions peuvent, par décision motivée, choisir des experts ne figurant sur aucune de ces
+listes.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°57-1426 1957-12-31
+
+	**Modifié par**:
+
+	  - Ordonnance n°58-1296 du 23 décembre 1958 - art. 1 () JORF 24 décembre 1958
+	  - Ordonnance 60-529 1960-06-04 art. 2 JORF 8 juin 1960
+	  - Loi n°75-701 1975-08-06 art. 24 JORF 7 août 1975 en vigueur le 1er janvier 1976
+
+	**Cité par**:
+
+	  - Loi n°71-498 du 29 juin 1971 - art. 3 (M)
+	  - Décret n°74-1184 du 31 décembre 1974 - art. 39 (Ab)
+	  - Décret n°97-109 du 6 février 1997 - art. 10 (V)
+	  - Décret n°97-109 du 6 février 1997 - art. 13 (V)
+	  - Décret n°97-109 du 6 février 1997 - art. 4 (V)
+	  - Arrêté du 5 septembre 2001 - art. 14 (Ab)
+	  - Ordonnance n°2006-639 du 1 juin 2006 - art. 11 (V)
+	  - Ordonnance n°2006-639 du 1 juin 2006 - art. 7 (V)
+	  - Ordonnance n°2006-639 du 1 juin 2006 - art. 9 (V)
+	  - Décret n°2016-796 du 14 juin 2016 - art. 15
+	  - Décret n°2016-1152 du 24 août 2016 - art. 1
+	  - Arrêté du 13 décembre 2016 - art. 12 (V)
+	  - CODE DE PROCEDURE PENALE - art. 160 (V)
+	  - CODE DE PROCEDURE PENALE - art. 161 (V)
+	  - CODE DE PROCEDURE PENALE - art. D24 (V)
+	  - Code de la consommation - art. L215-12 (VT)
+	  - Code de la consommation - art. L215-17 (VT)
+	  - Code de la consommation - art. L512-42 (VD)
+	  - Code de la consommation - art. L512-49 (Ab)
+	  - Code de la route. - art. R235-9 (V)
+	  - Code de la santé publique - art. R3354-20 (V)
+	  - Code de procédure pénale - art. 161-1 (V)
+	  - Code de procédure pénale - art. 230-1 (V)
+	  - Code de procédure pénale - art. 60 (V)
+	  - Code de procédure pénale - art. 60-3 (V)
+	  - Code de procédure pénale - art. 706-102-1 (V)
+	  - Code de procédure pénale - art. 706-102-2 (V)
+	  - Code de procédure pénale - art. 74 (V)
+	  - Code des débits de boissons et des mesures contre  - art. R*32 (Ab)
+	  - Code du travail - art. L325-2-1 (AbD)
+	  - Code du travail - art. L8271-3 (V)
+	  - Code pénal - art. 222-14-1 (V)
+	  - Code pénal - art. R131-35 (T)
+	  - Code pénal - art. R131-45 (T)
+	  - Code pénal - art. R131-52 (V)
+	  - Décret n°1919-01-22 du 22 janvier 1919 - art. 26 (Ab)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°75-701 du 6 août 1975 - art. 29, v. init.
+
+
+###### Article 157-1
+
+Si l'expert désigné est une personne morale, son représentant légal soumet à l'agrément de la juridiction le nom de la ou des
+personnes physiques qui, au sein de celle-ci et en son nom, effectueront l'expertise.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°57-1426 1957-12-31
+
+	**Créé par**:
+
+	  - Loi n°75-701 1975-08-06 art. 24 JORF 7 août 1975 en vigueur le 1er janvier 1976
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°75-701 du 6 août 1975 - art. 29, v. init.
+
 
 ###### Article 158
 
@@ -3400,6 +3699,35 @@ Il dresse un procès-verbal de ses opérations.
 
 	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L881-1 (Ab)
 	  - CODE DE PROCEDURE PENALE - art. R200 (M)
+
+
+###### Article 93
+
+Si les nécessités de l'information l'exigent, le juge d'instruction peut, après en avoir donné avis au procureur de la
+République de son tribunal, se transporter avec son greffier dans toute l'étendue du territoire national, à effet d'y
+procéder à tous actes d'instruction, à charge à lui d'aviser, au préalable, le procureur de la République du tribunal dans le
+ressort duquel il se transporte. Il mentionne sur son procès-verbal les motifs de son transport.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°57-1426 1957-12-31
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°75-701 1975-08-06 art. 29 Décret fixant la date d'entrée en vigueur - absence
+
+	**Modifié par**:
+
+	  - loi 75-701 1975-08-06 art. 14 JORF 7 août 1975 en vigueur le 1er janvier 1976
+	  - loi 68-542 1968-06-12 art. 1 JORF 13 juin 1968
+
+	**Cité par**:
+
+	  - CODE DE PROCEDURE PENALE - art. 682 (Ab)
+	  - CODE DE PROCEDURE PENALE - art. R200 (M)
+	  - Code de procédure pénale - art. 137-1 (VD)
 
 
 ###### Article 94
@@ -4449,6 +4777,41 @@ qu'il ne puisse être examiné qu'avec l'arrêt sur le fond.
 	  - CODE DE PROCEDURE PENALE - art. 170 (M)
 	  - CODE DE PROCEDURE PENALE - art. 173 (M)
 	  - Code de procédure pénale 170, 172 al. 1 et 3, 173
+
+
+##### Section 2 : Pouvoirs propres du président de la chambre d'accusation
+
+###### Article 219
+
+Le président de la chambre d'accusation, et dans les cours où il existe plusieurs chambres d'accusation l'un des présidents
+spécialement désigné par l'assemblée générale, exerce les pouvoirs propres définis aux articles suivants.
+
+En cas d'empêchement de ce président, ses pouvoirs propres sont attribués, par délibération de l'assemblée générale de la
+cour d'appel, à un magistrat du siège appartenant à ladite cour.
+
+Le président peut déléguer tout ou partie de ses pouvoirs à un magistrat du siège de la chambre d'accusation et, dans les
+cours où il existe plusieurs chambres d'accusation, à un magistrat du siège d'une autre chambre d'accusation après accord du
+président de cette chambre. Il peut également déléguer tout ou partie de ses pouvoirs à un premier vice-président du tribunal
+de grande instance désigné par le président de ce tribunal.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°57-1426 1957-12-31
+
+	**Modifié par**:
+
+	  - Loi n°75-701 1975-08-06 art. 25 JORF 7 août 1975 en vigueur le 1er janvier 1976
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°75-701 1975-08-06 art. 29 Décret fixant la date d'entrée en vigueur - absence
+
+	**Cité par**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R*761-23 (Ab)
+	  - Code de procédure pénale - art. D43-3 (V)
 
 
 ##### Section 2 : Des pouvoirs propres du président de la chambre d'accusation
@@ -7082,6 +7445,60 @@ Les réponses de la cour d'assises aux questions posées sont irrévocables.
 
 ##### Section 2 : De la décision sur l'action publique
 
+###### Article 366
+
+La cour d'assises rentre ensuite dans la salle d'audience.
+
+Le président fait comparaître l'accusé, donne lecture des réponses faites aux questions, et prononce l'arrêt portant
+condamnation, absolution ou acquittement. 
+
+Les textes de loi dont il est fait application sont lus à l'audience par le président ; il est fait mention de cette lecture
+dans l'arrêt. 
+
+Au cas de condamnation ou d'absolution, l'arrêt condamne l'accusé aux dépens envers l'Etat et se prononce sur la contrainte
+judiciaire. 
+
+Sauf disposition législative contraire, et sous réserve de l'application du deuxième alinéa de l'article 55 du code pénal, la
+masse des frais et dépens est divisée en autant de parts égales qu'il y a d'accusés condamnés pour le même crime et chacun
+n'est redevable que de sa part. Toutefois, les frais et dépens qui n'ont été exposés qu'en raison des besoins ou des demandes
+d'un seul accusé peuvent être mis à sa charge par la cour.
+
+Dand le cas où la condamnation n'intervient pas pour toutes les infractions qui ont fait l'objet de la poursuite, ou
+n'intervient qu'à raison d'infractions qui ont fait l'objet d'une disqualification soit au cours de l'instruction, soit au
+moment du prononcé de l'arrêt, comme aussi dans le cas de mise hors de cause de certains des accusés, la cour doit, par une
+disposition motivée, décharger le condamné de la part des frais de justice qui ne résulte pas directement de l'infraction
+ayant entraîné la condamnation au fond. La cour fixe elle-même le montant des frais dont doit être déchargé le condamné, ces
+frais étant laissés, selon les circonstances, à la charge du Trésor ou de la partie civile.
+
+A défaut de décision de la cour sur l'application de l'alinéa précédent, il est statué sur ce point par la chambre
+d'accusation.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 58-1296 1958-12-23
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°75-624 1975-07-11 art. 68 Décret fixant la date d'entrée en vigueur - Absence
+
+	**Modifié par**:
+
+	  - Loi n°75-624 du 11 juillet 1975 - art. 21 () JORF 13 juillet 1975 en vigueur le 1er janvier 1976
+
+	**Cité par**:
+
+	  - Loi n°75-624 du 11 juillet 1975 - art. 68 (V)
+	  - CODE DE PROCEDURE PENALE - art. 706-130 (V)
+	  - CODE DE PROCEDURE PENALE - art. R245 (Ab)
+	  - Code de justice militaire - art. 252 (Ab)
+
+	**Cite**:
+
+	  - Code pénal 55
+
+
 ###### Article 367
 
 Si l'accusé est absous ou acquitté, il est mis immédiatement en liberté s'il n'est retenu pour autre cause.
@@ -7335,6 +7752,62 @@ greffe de ladite cour.
 
 ##### Paragraphe 1er : Dispositions générales
 
+###### Article 382
+
+Est compétent le tribunal correctionnel du lieu de l'infraction, celui de la résidence du prévenu ou celui du lieu
+d'arrestation de ce dernier, même lorsque cette arrestation a été opérée pour une autre cause.
+
+Le tribunal dans le ressort duquel une personne est détenue, n'est compétent que dans les conditions prévues au titre VI du
+livre IV.
+
+La compétence du tribunal correctionnel s'étend aux délits et contraventions qui forment avec l'infraction déférée au
+tribunal un ensemble indivisible ; elle peut aussi s'étendre aux délits et contraventions connexes, au sens de l'article 203.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Loi du 17 décembre 1926 - art. 3 (VD)
+	  - Loi du 17 décembre 1926 - art. 4 (VD)
+	  - CODE DE PROCEDURE PENALE - art. 704 (M)
+	  - CODE DE PROCEDURE PENALE - art. 706-16 (M)
+	  - Code de l'environnement - art. L218-29 (M)
+	  - Code de l'environnement - art. L713-8 (V)
+	  - Code de la sécurité intérieure - art. L616-5 (V)
+	  - Code de procédure pénale - art. 43 (M)
+	  - Code de procédure pénale - art. 663 (MMN)
+	  - Code de procédure pénale - art. 697-3 (V)
+	  - Code de procédure pénale - art. 704-1 (VD)
+	  - Code de procédure pénale - art. 705 (MMN)
+	  - Code de procédure pénale - art. 706-1 (VT)
+	  - Code de procédure pénale - art. 706-109 (MMN)
+	  - Code de procédure pénale - art. 706-168 (VD)
+	  - Code de procédure pénale - art. 706-17 (VT)
+	  - Code de procédure pénale - art. 706-178 (V)
+	  - Code de procédure pénale - art. 706-2 (V)
+	  - Code de procédure pénale - art. 706-72-1 (V)
+	  - Code de procédure pénale - art. 706-76 (MMN)
+	  - Code monétaire et financier - art. L163-2 (V)
+	  - Code monétaire et financier - art. L163-7 (V)
+	  - Décret-loi du 30 octobre 1935 - art. 75 (Ab)
+
+	**Codifié par**:
+
+	  - Ordonnance 58-1296 1958-12-23
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°75-701 1975-08-06 décret fixant la date d'entrée en vigueur - absence
+
+	**Modifié par**:
+
+	  - loi 75-701 1975-08-06 art. 15 JORF 7 août 1975 en vigueur le 1er janvier 1976
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. 203 (M)
+
+
 ###### Article 383
 
 La compétence à l'égard d'un prévenu s'étend à tous coauteurs et complices.
@@ -7536,6 +8009,57 @@ domicile dans le ressort du tribunal saisi, à moins qu'elle n'y soit domicilié
 
 
 ##### Section 2 : De la composition du tribunal et de la tenue des audiences
+
+###### Article 398
+
+Le tribunal correctionnel est composé d'un président et de deux juges.
+
+Lorsqu'un procès paraît de nature à entraîner de longs débats, le président du tribunal de grande instance peut décider qu'un
+ou plusieurs magistrats du siège supplémentaires assisteront aux débats. Dans le cas où un ou plusieurs magistrats du siège
+composant le tribunal correctionnel seraient empêchés de suivre les débats jusqu'au prononcé du jugement, ils sont remplacés
+par le ou les magistrats du siège supplémentaires, dans l'ordre de leur nomination au tribunal de grande instance, en
+commençant par le plus ancien du rang le plus élevé.
+
+Toutefois, pour le jugement des délits énumérés à l'article 398-1, il peut être composé d'un seul de ces magistrats exerçant
+les pouvoirs conférés au président lorsqu'il en est ainsi décidé par le président du tribunal de grande instance. Le
+président du tribunal de grande instance ou le magistrat délégué par lui à cet effet peut toutefois décider, soit de sa
+propre initiative, soit à la demande du magistrat saisi, qu'une affaire déterminée sera jugée par le tribunal statuant dans
+les conditions prévues à l'alinéa 1er.
+
+La désignation des magistrats du tribunal correctionnel appelés à statuer dans les conditions prévues à l'alinéa 3 est faite
+par le président du tribunal de grande instance selon les modalités fixées pour la répartition des juges entre les diverses
+chambres de ce tribunal ; s'il y a lieu, le président du tribunal correctionnel répartit les affaires entre ces magistrats.
+
+Les décisions prévues au présent article sont des mesures d'administration non susceptibles de recours.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Ordonnance n°45-174 du 2 février 1945 - art. 24-1 (VD)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L212-5 (V)
+	  - CODE DE PROCEDURE PENALE - art. 694 (V)
+	  - CODE DE PROCEDURE PENALE - art. 924 (V)
+	  - Code de procédure pénale - art. 398-1 (M)
+	  - Code de procédure pénale - art. 398-2 (V)
+	  - Code de procédure pénale - art. 464 (V)
+	  - Code de procédure pénale - art. 469 (VT)
+	  - Code de procédure pénale - art. 804 (VT)
+	  - Code de procédure pénale - art. 837 (V)
+	  - Code de procédure pénale - art. 877 (MMN)
+
+	**Codifié par**:
+
+	  - Ordonnance 58-1296 1958-12-23
+
+	**Modifié par**:
+
+	  - Loi n°75-701 1975-08-06 art. 6 JORF 7 août 1975 en vigueur le 1er janvier 1976
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°75-701 Date d'entrée en vigueur fixée par décret - absence
+
 
 ###### Article 398-1
 
@@ -8171,6 +8695,27 @@ Elle est immédiatement transmise par le greffier au ministère public qui cite 
 	**Codifié par**:
 
 	  - Ordonnance 58-1296 1958-12-23
+
+
+###### Article 421
+
+A l'audience, la déclaration de partie civile doit, à peine d'irrecevabilité, être faite avant les réquisitions du ministère
+public sur le fond ou, si le tribunal a ordonné l'ajournement du prononcé de la peine, avant les réquisitions du ministère
+public sur la peine.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 58-1296 1958-12-23
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°75-624 1975-07-11 Décret fixant la date d'entrée en vigueur - absence
+
+	**Modifié par**:
+
+	  - Loi n°75-624 du 11 juillet 1975 - art. 25 () JORF 13 juillet 1975 en vigueur le 1er janvier 1976
 
 
 ###### Article 423
@@ -9179,6 +9724,109 @@ Il peut, le ministère public entendu, décerner, par la même décision, mandat
 	  - Code de procédure pénale - art. 705-5 (V)
 
 
+###### Article 469-1
+
+Nonobstant les dispositions de l'alinéa premier de l'article 464, le tribunal peut, après avoir déclaré le prévenu coupable,
+soit le dispenser de peine, soit ajourner le prononcé de celle-ci. Il statue s'il y a lieu sur l'action civile.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 58-1296 1958-12-23
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°75-624 1975-07-11 date d'entrée en vigueur fixée par décret - absence
+
+	**Créé par**:
+
+	  - Loi n°75-624 du 11 juillet 1975 - art. 24 () JORF 13 juillet 1975 en vigueur le 1er janvier 1976
+
+	**Cité par**:
+
+	  - Loi n°81-736 du 4 août 1981 - art. 8 (V)
+	  - Loi n°95-884 du 3 août 1995 - art. 9 (V)
+	  - Code du travail - art. L152-1-1 (T)
+	  - Code du travail - art. L152-1-2 (M)
+	  - Code du travail applicable à Mayotte. - art. L151-2 (V)
+
+	**Cite**:
+
+	  - Code de procédure pénale 464 al. 1
+
+
+###### Article 469-2
+
+Le tribunal peut dispenser de peine lorsqu'il apparaît que le reclassement du prévenu est acquis, que le dommage causé est
+réparé et que le trouble résultant de l'infraction a cessé. La dispense de peine exclut l'application des dispositions
+prévoyant des interdictions, déchéances ou incapacités de quelque nature qu'elles soient qui résulteraient d'une
+condamnation.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 58-1296 1958-12-23
+
+	**Créé par**:
+
+	  - Loi n°75-624 du 11 juillet 1975 - art. 24 () JORF 13 juillet 1975 en vigueur le 1er janvier 1976
+
+	**Cité par**:
+
+	  - Loi n°81-736 du 4 août 1981 - art. 8 (V)
+	  - Loi n°95-884 du 3 août 1995 - art. 9 (V)
+	  - CODE DE PROCEDURE PENALE - art. 469-4 (Ab)
+
+	**Abrogé par**:
+
+	  - Loi n°92-1336 du 16 décembre 1992 - art. 36 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
+
+	**Modifié par**:
+
+	  - Loi n°93-2 du 4 janvier 1993 - art. 143 (V) JORF 5 janvier 1993 en vigueur le 1er mars 1993
+
+
+###### Article 469-3
+
+Le tribunal peut ajourner le prononcé de la peine lorsqu'il apparaît que le reclassement du prévenu est en voie d'être
+acquis, que le dommage causé est en voie d'être réparé, compte tenu des ressources du prévenu, et que le trouble résultant de
+l'infraction va cesser. 
+
+Dans ce cas, il fixe dans son jugement le jour où il sera statué sur la peine. L'ajournement ne peut être ordonné qu'en
+présence du prévenu.
+
+A l'audience de renvoi, le tribunal peut, soit dispenser le prévenu de peine, soit prononcer la sanction prévue par la loi,
+soit ajourner une nouvelle fois le prononcé de la peine dans les conditions prévues à l'alinéa précédent.
+
+La décision sur la peine intervient au plus tard un an après la première décision d'ajournement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 58-1296 1958-12-23
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°75-624 1975-07-11 date d'entrée en vigueur fixée par décret - absence
+
+	**Créé par**:
+
+	  - Loi n°75-624 du 11 juillet 1975 - art. 24 () JORF 13 juillet 1975 en vigueur le 1er janvier 1976
+
+	**Abrogé par**:
+
+	  - Loi n°92-1336 du 16 décembre 1992 - art. 36 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
+
+	**Cité par**:
+
+	  - Code du travail - art. L152-1-1 (T)
+	  - Code du travail - art. L152-1-2 (M)
+	  - Code du travail applicable à Mayotte. - art. L151-2 (V)
+
+
 ###### Article 470
 
 Si le tribunal estime que le fait poursuivi ne constitue aucune infraction à la loi pénale ou que le fait n'est pas établi,
@@ -9225,6 +9873,48 @@ abus de constitution de partie civile.
 	**Cite**:
 
 	  - CODE DE PROCEDURE PENALE - art. 470 (V)
+
+
+###### Article 473
+
+Tout jugement de condamnation rendu contre le prévenu et éventuellement contre la partie civilement responsable les condamne
+aux frais et dépens envers l'Etat. Il se prononce à l'égard du prévenu sur la durée de la contrainte judiciaire. 
+
+Sauf disposition législative contraire, et sous réserve de l'application du deuxième alinéa de l'article 55 du code pénal, la
+masse des frais et dépens est divisée en autant de parts égales qu'il y a de prévenus condamnés pour le même délit et chacun
+n'est redevable que de sa part. Toutefois, les frais et dépens qui n'ont été exposés qu'en raison des besoins ou des demandes
+d'un seul prévenu peuvent être mis à sa charge par le tribunal. 
+
+Il en est de même au cas de transaction ayant éteint l'action publique, conformément à l'article 6, et au cas d'absolution,
+sauf si le tribunal, par décision spéciale et motivée, décharge le prévenu et la personne civilement responsable de tout ou
+partie des frais. 
+
+La partie civile dont l'action a été déclarée recevable n'est pas tenue des frais dès lors que l'individu contre lequel elle
+s'est constituée a été reconnu coupable d'une infraction.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 58-1296 1958-12-23
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°75-624 1975-07-11 décret fixant la date d'entrée en vigueur - absence
+
+	**Modifié par**:
+
+	  - Loi n°75-624 du 11 juillet 1975 - art. 22 () JORF 13 juillet 1975 en vigueur le 1er janvier 1976
+
+	**Cité par**:
+
+	  - Loi n°75-624 du 11 juillet 1975 - art. 68 (V)
+	  - CODE DE PROCEDURE PENALE - art. 477 (Ab)
+
+	**Cite**:
+
+	  - Code pénal 55
+	  - CODE DE PROCEDURE PENALE - art. 6 (M)
 
 
 ###### Article 474
@@ -10671,6 +11361,34 @@ Il statue s'il y a lieu sur l'action civile conformément aux dispositions de l'
 	  - Code de procédure pénale 464 al. 2 et 3
 
 
+###### Article 539-1
+
+Nonobstant les dispositions de l'alinéa premier de l'article 539, les articles 469-1 à 469-3 peuvent être appliqués par le
+tribunal de police.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 58-1296 1958-12-23
+
+	**Créé par**:
+
+	  - Loi n°75-624 du 11 juillet 1975 - art. 27 () JORF 13 juillet 1975 en vigueur le 1er janvier 1976
+
+	**Abrogé par**:
+
+	  - Loi n°92-1336 du 16 décembre 1992 - art. 47 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
+
+	**Cite**:
+
+	  - Code de procédure pénale 539 al. 1, 469-1 à 469-3
+
+	**Liens**:
+
+	  - SPEC_APPLI: loi 75-824 1975-07-11 Décret fixant la date d'entrée en vigueur - absence
+
+
 ###### Article 540
 
 Si le tribunal de police estime que le fait constitue un crime ou un délit, il se déclare incompétent. Il renvoie le
@@ -11341,6 +12059,33 @@ Le recours est porté devant la chambre criminelle de la Cour de cassation.
 
 	  - Code de justice militaire - art. 263 (M)
 	  - Code de justice militaire. - art. L231-2 (VD)
+
+
+###### Article 567-1
+
+Si le président de la chambre criminelle constate qu'il a été formé un pourvoi contre une décision qui n'est pas susceptible
+de voie de recours en application des articles 186, alinéa 8, 706 et 706-2, il rend une ordonnance de non-admission du
+pourvoi. Sa décision n'est pas susceptible de recours.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 58-1296 1958-12-23
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°75-701 1975-08-06 Décret fixant la date d'entrée en vigueur - absence
+
+	**Créé par**:
+
+	  - Loi n°75-701 1975-08-06 art. 18 JORF 7 août 1975 en vigueur le 1er janvier 1976
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. 706 (Ab)
+	  - CODE DE PROCEDURE PENALE - art. 706-2 (Ab)
+	  - Code de procédure pénale 186 al. 8, 706, 706-2
 
 
 ###### Article 568
@@ -14161,6 +14906,73 @@ règles de compétence du droit commun.
 
 ### Titre X : Des infractions commises à l'étranger
 
+###### Article 689
+
+Tout citoyen français qui en dehors du territoire de la République s'est rendu coupable d'un fait qualifié crime puni par la
+loi française peut être poursuivi et jugé par les juridictions françaises.
+
+Tout citoyen français qui en dehors du territoire de la République s'est rendu coupable d'un fait qualifié délit par la loi
+française peut être poursuivi et jugé par les juridictions françaises si le fait est puni par la législation du pays où il a
+été commis.
+
+Les dispositions des alinéas 1er et 2 sont applicables à l'auteur du fait qui n'a acquis la qualité de citoyen français que
+postérieurement au fait qui lui est imputé.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 58-1296 1958-12-23
+
+	**Cité par**:
+
+	  - Loi n°67-1206 du 29 décembre 1967 - art. 7 (V)
+	  - CODE PENAL - art. 133 (Ab)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°75-624 1975-07-11 Décret fixant la date d'entrée en vigueur - absence
+
+	**Modifié par**:
+
+	  - Loi n°75-624 du 11 juillet 1975 - art. 11 () JORF 13 juillet 1975 en vigueur le 1er janvier 1976
+
+
+###### Article 689-1
+
+Tout étranger qui, hors du territoire de la République, s'est rendu coupable d'un crime, soit comme auteur, soit comme
+complice, peut être poursuivi et jugé d'après les dispositions des lois françaises, lorsque la victime de ce crime est de
+nationalité française.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 58-1296 1958-12-23
+
+	**Créé par**:
+
+	  - Loi n°75-624 du 11 juillet 1975 - art. 12 () JORF 13 juillet 1975 en vigueur le 1er janvier 1976
+
+	**Cité par**:
+
+	  - CODE DE PROCEDURE PENALE - art. 689-3 (M)
+	  - CODE DE PROCEDURE PENALE - art. 689-5 (M)
+	  - CODE DE PROCEDURE PENALE - art. 689-7 (M)
+	  - CODE PENAL - art. 133 (Ab)
+	  - Code de procédure pénale - art. 689-12 (V)
+	  - Code de procédure pénale - art. 689-13 (V)
+	  - Code de procédure pénale - art. 689-2 (V)
+	  - Code de procédure pénale - art. 689-4 (V)
+	  - Code de procédure pénale - art. 689-6 (V)
+	  - Code de procédure pénale - art. 689-8 (V)
+	  - Code de procédure pénale - art. 689-9 (V)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°75-624 1975-07-21 Décret fixant la date d'entrée en vigueur - absence
+
+
 ###### Article 690
 
 Quiconque s'est, sur le territoire de la République, rendu complice d'un crime ou d'un délit commis à l'étranger peut être
@@ -14264,6 +15076,44 @@ constitutifs a été accompli en France.
 	  - CODE PENAL - art. 133 (Ab)
 
 
+###### Article 694
+
+Tout étranger qui, hors du territoire de la République, s'est rendu coupable, soit comme auteur, soit comme complice, d'un
+crime ou d'un délit attentatoire à la sûreté de l'Etat ou de contrefaçon du sceau de l'Etat, de monnaies nationales ayant
+cours ou de crime contre des agents ou des locaux diplomatiques ou consulaires français est jugé d'après les dispositions des
+lois françaises s'il est arrêté en France ou si le Gouvernement obtient son extradition. Les poursuites peuvent être engagées
+à ces fins.
+
+Lorsqu'un citoyen français s'est rendu coupable, hors du territoire de la République, soit comme auteur, soit comme complice,
+d'une infraction visée ci-dessus, cette infraction est punissable comme l'infraction commise sur ce territoire.
+
+Quiconque s'est rendu coupable comme complice, sur le territoire de la République, d'une infraction visée à l'alinéa 1er
+commise à l'étranger est punissable comme le complice visé à l'alinéa 1er.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 58-1296 1958-12-23
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°75-624 1975-07-11 Décret fixant la date d'entrée en vigueur - absence
+
+	**Modifié par**:
+
+	  - Loi n°75-624 du 11 juillet 1975 - art. 13 () JORF 13 juillet 1975 en vigueur le 1er janvier 1976
+
+	**Abrogé par**:
+
+	  - Loi n°92-1336 du 16 décembre 1992 - art. 64 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
+
+	**Cité par**:
+
+	  - CODE PENAL - art. 133 (Ab)
+	  - Code de procédure pénale - art. 28-1 (V)
+
+
 ###### Article 695
 
 Tout Français qui s'est rendu coupable de délits et contraventions en matière forestière, rurale, de pêche, de douanes, de
@@ -14290,6 +15140,174 @@ La réciprocité sera légalement constatée par des conventions internationales
 	**Cité par**:
 
 	  - CODE PENAL - art. 133 (Ab)
+
+
+### Titre XII : Des demandes présentées en vue d'être relevé des interdictions, déchéances, incapacités ou mesures de publication
+
+###### Article 703
+
+Toute demande présentée par un condamné en vue d'être relevé d'une interdiction, d'une déchéance, d'une incapacité ou d'une
+mesure de publication, formée en application des dispositions de l'article 55-1 (alinéa 2) du code pénal précise la date de
+la condamnation ainsi que les lieux où a résidé le requérant depuis sa condamnation ou sa libération.
+
+Elle est adressée, selon le cas, au procureur de la République ou au procureur général qui s'entoure de tous les
+renseignements utiles, prend, s'il y a lieu, l'avis du juge de l'application des peines et saisit la juridiction compétente.
+
+La juridiction saisie statue en chambre du conseil sur les conclusions du ministère public, le requérant ou son conseil
+entendus ou dûment convoqués. S'il paraît nécessaire d'entendre un condamné qui se trouve détenu, il peut être procédé
+conformément aux dispositions de l'article 712 du présent code.
+
+La décision est signifiée à la requête du ministère public lorsqu'elle est rendue hors de la présence du requérant ou de son
+conseil. Elle peut être, selon le cas, frappée d'appel ou déférée à la Cour de cassation.
+
+En cas de rejet de la demande, le requérant est tenu au paiement des frais. La juridiction peut toutefois, par décision
+spéciale et motivée, l'en décharger en tout ou en partie.
+
+Mention de la décision par laquelle un condamné est relevé totalement ou partiellement d'une interdiction, déchéance,
+incapacité ou d'une mesure de publication est faite en marge du jugement ou de l'arrêt de condamnation et au casier
+judiciaire.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 58-1296 1958-12-23
+
+	**Modifié par**:
+
+	  - Loi n°72-1226 1972-12-29 art. 47 JORF 30 décembre 1972
+	  - Loi n°75-624 du 11 juillet 1975 - art. 42 () JORF 13 juillet 1975 en vigueur le 1er janvier 1976
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°75-624 1975-07-11 décret fixant la date d'entrée en vigueur - absence
+
+	**Cité par**:
+
+	  - Loi n°93-2 du 4 janvier 1993 - art. 143 (V)
+	  - Ordonnance n°2005-1477 du 1 décembre 2005 - art. 14 (V)
+	  - ORDONNANCE n°2015-899 du 23 juillet 2015 - art. 45 (V)
+	  - Ordonnance n°2016-65 du 29 janvier 2016 - art. 39 (VD)
+	  - CODE DE PROCEDURE PENALE - art. 775-1 (V)
+	  - CODE DE PROCEDURE PENALE - art. D117-4 (V)
+	  - CODE PENAL - art. 44-2 (Ab)
+	  - Code de justice militaire - art. 382 (Ab)
+	  - Code de l'action sociale et des familles - art. L133-6 (V)
+	  - Code de procédure pénale - art. 735 (V)
+	  - Code de procédure pénale - art. 763-6 (V)
+	  - Code de procédure pénale - art. 770-1 (VD)
+
+	**Cite**:
+
+	  - Code pénal 55-1 al. 2
+	  - CODE DE PROCEDURE PENALE - art. 712 (M)
+
+
+### Titre XIII : De la procédure applicable aux infractions en matière économique et financière
+
+###### Article 704
+
+Sans préjudice des dispositions des articles 43, 52 et 382, dans le ressort de chaque cour d'appel un ou plusieurs tribunaux
+de grande instance sont compétents dans les conditions prévues par les articles 706 et 706-1 pour l'instruction et, s'il
+s'agit de délits, le jugement des infractions rentrant dans les catégories mentionnées à l'article 705.
+
+L'affectation des magistrats à des formations de jugement spécialisées en matière économique et financière est faite après
+avis de l'assemblée générale des tribunaux prévus à l'alinéa précédent.
+
+Un décret fixe la liste et le ressort de ces tribunaux.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 58-1296 1958-12-23
+
+	**Modifié par**:
+
+	  - Loi n°75-701 1975-08-06 art. 17 JORF 7 août 1975 en vigueur le 1er janvier 1976
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°75-701 1975-08-06 décret fixant la date d'entrée en vigueur - absence
+
+	**Cité par**:
+
+	  - Décret n°94-259 du 25 mars 1994 - art. 1 (Ab)
+	  - Décret n°94-259 du 25 mars 1994 - art. Annexe (Ab)
+	  - Ordonnance n°2004-823 du 19 août 2004 - art. 1 (M)
+	  - Loi n°2013-1117 du 6 décembre 2013 - art. 70 (VD)
+	  - Décret n°2014-69 du 29 janvier 2014 (V)
+	  - Loi n°2016-1547 du 18 novembre 2016 - art. 25 (V)
+	  - Décret n°2017-1016 du 10 mai 2017 (V)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L622-1 (Ab)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L650-1 (Ab)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L650-2 (Ab)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L650-3 (Ab)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L650-4 (Ab)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L650-5 (Ab)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R*761-24 (Ab)
+	  - CODE DE PROCEDURE PENALE - art. 706 (M)
+	  - CODE DE PROCEDURE PENALE - art. 706-2 (M)
+	  - CODE DE PROCEDURE PENALE - art. D15-4-5 (VD)
+	  - Code de procédure pénale - art. 48-1 (V)
+	  - Code de procédure pénale - art. 705 (M)
+	  - Code de procédure pénale - art. 705-1 (VT)
+	  - Code de procédure pénale - art. 706-1-1 (T)
+	  - Code de procédure pénale - art. 706-168 (VD)
+	  - Code de procédure pénale - art. 706-17 (MMN)
+	  - Code de procédure pénale - art. D47-2 (V)
+	  - Code de procédure pénale - art. D47-3 (V)
+	  - Code de procédure pénale - art. D47-4 (V)
+	  - Code de procédure pénale - art. R15-33-66-8 (V)
+	  - Code de procédure pénale - art. R50 quinquies (V)
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. 382 (M)
+	  - CODE DE PROCEDURE PENALE - art. 43 (M)
+	  - CODE DE PROCEDURE PENALE - art. 52 (M)
+	  - CODE DE PROCEDURE PENALE - art. 706-1 (Ab)
+
+
+###### Article 706
+
+Le procureur de la République, lorsqu'il requiert l'ouverture d'une information sur des faits pouvant constituer l'une des
+infractions rentrant dans les catégories mentionnées à l'article 705, peut demander au président de la chambre d'accusation
+que soit chargé de l'affaire le juge d'instruction de la juridiction compétente en application de l'article 704.
+
+Le président de la chambre d'accusation statue par ordonnance motivée dans les trois jours de la réception du dossier, après
+avis du procureur général. S'il ordonne le renvoi, il est fait application, le cas échéant, des dispositions de l'article 83.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 58-1296 1958-12-23
+
+	**Modifié par**:
+
+	  - Loi n°75-701 1975-08-06 art. 17 JORF 7 août 1975 en vigueur le 1er janvier 1976
+
+	**Abrogé par**:
+
+	  - Loi n°94-89 du 1 février 1994 - art. 5 () JORF 2 février 1994 en vigueur le 1er mars 1994
+
+	**Cité par**:
+
+	  - CODE DE PROCEDURE PENALE - art. 567-1 (M)
+	  - CODE DE PROCEDURE PENALE - art. 704 (M)
+	  - CODE DE PROCEDURE PENALE - art. 706-1 (Ab)
+	  - CODE DE PROCEDURE PENALE - art. 706-79 (M)
+	  - Code de procédure pénale - art. 28-1 (V)
+	  - Code de procédure pénale - art. 706-181 (V)
+	  - Code de procédure pénale - art. 706-2 (VT)
+	  - Code de procédure pénale - art. R50 bis (V)
+	  - Code de procédure pénale - art. R50 ter (V)
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. 705 (M)
+	  - CODE DE PROCEDURE PENALE - art. 83 (M)
 
 
 ### Titre XIII : De la poursuite, de l'instruction et du jugement des infractions en matière économique et financière
@@ -14338,6 +15356,62 @@ du livre troisième du Code pénal ;
 	  - Loi n°75-701 1975-03-06 art. 17 JORF 7 août 1975
 
 
+###### Article 706-2
+
+Les ordonnances prévues par les articles 706 et 706-1 ne sont pas susceptibles de voies de recours, à l'exception du pourvoi
+en cassation qui n'est pas suspensif.
+
+La juridiction saisie en application des mêmes articles reste compétente quelles que soient les incriminations retenues lors
+du règlement ou du jugement de l'affaire sous réserve de l'application des dispositions des articles 181 ou 469. Si les faits
+constituent une contravention, le juge d'instruction prononce le renvoi de l'affaire devant le tribunal de police compétent
+en application de l'article 522.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 58-1296 1958-12-23
+
+	**Créé par**:
+
+	  - Loi n°75-701 1975-08-06 art. 17 JORF 7 août 1975 en vigueur le 1er janvier 1976
+
+	**Abrogé par**:
+
+	  - Loi n°94-89 du 1 février 1994 - art. 5 () JORF 2 février 1994 en vigueur le 1er mars 1994
+
+	**Cité par**:
+
+	  - Loi n°2002-303 du 4 mars 2002 - art. 127 (V)
+	  - Décret n°2002-599 du 22 avril 2002 - art. 1 (Ab)
+	  - Décret n°2002-599 du 22 avril 2002 - art. Annexe (Ab)
+	  - Loi n°2016-731 du 3 juin 2016 - art. 102
+	  - Loi n°2016-1547 du 18 novembre 2016 - art. 25 (V)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L650-1 (Ab)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L650-2 (Ab)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L650-3 (Ab)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L650-4 (Ab)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L650-5 (Ab)
+	  - CODE DE PROCEDURE PENALE - art. 28-1 (M)
+	  - CODE DE PROCEDURE PENALE - art. 567-1 (M)
+	  - CODE DE PROCEDURE PENALE - art. 862-1 (V)
+	  - CODE DE PROCEDURE PENALE - art. D15-4-5 (VD)
+	  - Code de procédure pénale - art. 48-1 (V)
+	  - Code de procédure pénale - art. 706-2-1 (V)
+	  - Code de procédure pénale - art. D47-5 (V)
+	  - Code de procédure pénale - art. D47-6 (V)
+	  - Code de procédure pénale - art. R15-33-66-8 (V)
+	  - Code du sport. - art. L232-14-4 (V)
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. 181 (M)
+	  - CODE DE PROCEDURE PENALE - art. 469 (M)
+	  - CODE DE PROCEDURE PENALE - art. 522 (M)
+	  - CODE DE PROCEDURE PENALE - art. 706 (Ab)
+	  - CODE DE PROCEDURE PENALE - art. 706-1 (Ab)
+
+
 ## Livre V : Des procédures d'exécution
 
 ### Titre Ier : De l'exécution des sentences pénales
@@ -14383,6 +15457,52 @@ par le percepteur.
 
 	  - CODE DE PROCEDURE PENALE - art. 707-1 (M)
 	  - CODE DE PROCEDURE PENALE - art. 707-1 (V)
+
+
+###### Article 708
+
+L'exécution à la requête du ministère public a lieu lorsque la décision est devenue définitive.
+
+Toutefois, le délai d'appel accordé au procureur général par les articles 505 et 548 ne fait point obstacle à l'exécution de
+la peine.
+
+L'exécution d'une peine correctionnelle ou de police non privative de liberté peut être suspendue ou fractionnée pour motifs
+graves d'ordre médical, familial, professionnel ou social. La décision est prise soit par le ministère public, soit, sur la
+proposition du ministère public, par le tribunal correctionnel ou de police statuant en chambre du conseil, selon que
+l'exécution de la peine doit être suspendue pendant moins ou plus de trois mois.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: Ordonnance 58-1273 1958-12-22 art. 18
+	  - SPEC_APPLI: Ordonnance n°58-1296 du 23 décembre 1958 - art. 10, v. init.
+	  - SPEC_APPLI: Loi n°75-624 1975-07-11 décret fixant la date d'entrée en vigueur - absence
+	  - TXT_SOURCE: CODE DE PROCEDURE PENALE - art. D48 (V)
+	  - TXT_SOURCE: CODE DE PROCEDURE PENALE - art. D49-1 (V)
+
+	**Codifié par**:
+
+	  - Ordonnance 58-1296 1958-12-23
+
+	**Cité par**:
+
+	  - Décret n°64-1333 du 22 décembre 1964 - art. 2 (V)
+	  - CODE DE PROCEDURE PENALE - art. 506 (V)
+	  - Code de procédure pénale - art. D115 (V)
+	  - Code de procédure pénale - art. D115-2 (V)
+	  - Code de procédure pénale - art. D50 (V)
+	  - Code du travail - art. R8211-2 (V)
+	  - Code pénal - art. 132-41 (V)
+
+	**Modifié par**:
+
+	  - Loi n°75-624 du 11 juillet 1975 - art. 36 () JORF 13 juillet 1975 en vigueur le 1er janvier 1976
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. 505 (V)
+	  - CODE DE PROCEDURE PENALE - art. 548 (V)
 
 
 ###### Article 709-1
@@ -14785,6 +15905,37 @@ Les règles relatives à la répartition des produits du travail des détenus so
 	**Nouveaux textes**:
 
 	  - CODE DE PROCEDURE PENALE - art. 717-3 (V)
+
+
+###### Article 720-1
+
+L'exécution d'une peine d'emprisonnement correctionnelle ou de police peut être suspendue provisoirement ou fractionnée pour
+motif grave d'ordre médical, familial, professionnel ou social. La décision est prise après avis de l'avocat de l'inculpé et
+du ministère public par le juge de l'application des peines dans le ressort duquel il est détenu. Toutefois la décision est
+prise sur la proposition du juge de l'application des peines par le tribunal correctionnel ou de police statuant en chambre
+du conseil lorsque l'exécution de la peine doit être interrompue pendant plus de trois mois.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 58-1296 1958-12-23
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°75-624 1975-07-11 décret fixant la date d'entrée en vigueur - absence
+
+	**Créé par**:
+
+	  - Loi n°75-624 du 11 juillet 1975 - art. 37 () JORF 13 juillet 1975 en vigueur le 1er janvier 1976
+
+	**Cité par**:
+
+	  - CODE DE PROCEDURE PENALE - art. 733-1 (M)
+	  - CODE PENAL - art. 245 (Ab)
+	  - Code de procédure pénale - art. 720 (Ab)
+	  - Code de procédure pénale - art. D149-3 (V)
+	  - Code de procédure pénale - art. D340 (Ab)
 
 
 ###### Article 723-2
@@ -15224,7 +16375,70 @@ l'article 735, la condamnation aura été réputée non avenue.
 	  - CODE DE PROCEDURE PENALE - art. 735 (M)
 
 
+###### Article 737
+
+Le président de la cour ou du tribunal doit, après avoir prononcé la condamnation assortie du sursis simple, avertir  le
+condamné que, s'il commet une nouvelle infraction, il pourra faire l'objet d'une condamnation qui sera susceptible
+d'entraîner l'exécution de la première peine sans confusion avec la seconde et qu'il encourra les peines de la récidive dans
+les termes des articles 57 et 58 du Code pénal.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 58-1296 1958-12-23
+
+	**Modifié par**:
+
+	  - Loi n°70-643 du 17 juillet 1970 - art. 43 () JORF 19 juillet 1970
+	  - Loi n°75-624 du 11 juillet 1975 - art. 30 () JORF 13 juillet 1975 en vigueur le 1er janvier 1976
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°75-624 1975-07-11 décret fixant la date d'entrée en vigueur - absence
+
+	**Abrogé par**:
+
+	  - Loi n°92-1336 du 16 décembre 1992 - art. 99 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
+
+	**Cite**:
+
+	  - Code pénal 57, 58
+
+
 #### Chapitre II : Du sursis avec mise à l'épreuve
+
+###### Article 738
+
+Le sursis avec mise à l'épreuve est applicable aux condamnations à l'emprisonnement prononcées pour crime ou délit de droit
+commun. La condamnation peut être déclarée exécutoire par provision.
+
+Le tribunal fixe le délai d'épreuve qui ne peut être inférieur à trois années ni supérieur à cinq années.
+
+Il peut décider que le sursis ne s'appliquera à l'exécution de l'emprisonnement que pour une part dont il détermine la durée.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 58-1296 1958-12-23
+
+	**Cité par**:
+
+	  - Loi n°69-700 du 30 juin 1969 - art. 9 (V)
+	  - Loi n°81-736 du 4 août 1981 - art. 6 (V)
+	  - Loi n°88-828 du 20 juillet 1988 - art. 7 (V)
+	  - Loi n°95-884 du 3 août 1995 - art. 7 (V)
+
+	**Modifié par**:
+
+	  - Loi n°70-643 du 17 juillet 1970 - art. 29 () JORF 19 juillet 1970
+	  - Loi n°75-624 du 11 juillet 1975 - art. 31 () JORF 13 juillet 1975 en vigueur le 1er janvier 1976
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°75-624 1975-07-11 décret fixant la date d'entrée en vigueur - absence
+
 
 ###### Article 739
 
@@ -15660,6 +16874,52 @@ l'expiration du délai d'épreuve.
 	  - Code de procédure pénale 739 à 744-1
 
 
+###### Article 745
+
+Si le condamné n'a pas commis, au cours du délai d'épreuve, une nouvelle infraction ou un manquement aux mesures de
+surveillance ou d'assistance, ou aux obligations particulières imposées en application de l'article 739, suivis soit d'une
+décision de condamnation ordonnant la révocation du sursis, soit d'une décision ordonnant l'exécution de la totalité de la
+peine, la condamnation assortie du sursis avec mise à l'épreuve est considérée comme non avenue.
+
+Lorsque le bénéfice du sursis avec mise à l'épreuve n'a été accordé que pour une partie de la peine, la condamnation est
+considérée comme non avenue dans tous ses éléments si la révocation du sursis n'a pas été encourue dans le délai prévu à
+l'alinéa qui précède.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 58-1296 1958-12-23
+
+	**Modifié par**:
+
+	  - Loi n°70-643 du 17 juillet 1970 - art. 29 () JORF 19 juillet 1970
+	  - Loi n°75-624 du 11 juillet 1975 - art. 34 () JORF 13 juillet 1975 en vigueur le 1er janvier 1976
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°75-624 1975-07-11 décret fixant la date d'entrée en vigueur - absence
+
+	**Abrogé par**:
+
+	  - Loi n°92-1336 du 16 décembre 1992 - art. 106 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
+
+	**Cité par**:
+
+	  - Décret n°2011-1986 du 28 décembre 2011 (V)
+	  - CODE DE PROCEDURE PENALE - art. 745-1 (Ab)
+	  - CODE DE PROCEDURE PENALE - art. 746 (M)
+	  - Code de procédure pénale - art. D49-64 (V)
+	  - Code de procédure pénale - art. D49-66 (V)
+	  - Code de procédure pénale - art. D49-67 (V)
+	  - Code de procédure pénale - art. D49-72 (V)
+	  - Code de procédure pénale - art. D546 (V)
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. 739 (M)
+
+
 ###### Article 745-1
 
 Si le sursis avec mise à l'épreuve a été accordé après une première condamnation déjà prononcée sous le même bénéfice, cette
@@ -15709,6 +16969,39 @@ articles 743 et 745, la condamnation aura été déclarée ou réputée non aven
 
 	  - CODE DE PROCEDURE PENALE - art. 743 (M)
 	  - CODE DE PROCEDURE PENALE - art. 745 (Ab)
+
+
+###### Article 747
+
+Le président de la cour ou du tribunal doit, après avoir prononcé la condamnation assortie du sursis avec mise à l'épreuve,
+avertir le condamné que, s'il commet une nouvelle infraction, il pourra faire l'objet d'une condamnation qui sera susceptible
+d'entraîner l'exécution des peines antérieures, sans confusion entre elles ou avec la dernière peine prononcée et qu'il
+encourra les peines de la récidive dans les termes des articles 57 et 58 du code pénal. Le président doit également informer
+le condamné des sanctions dont celui-ci serait passible s'il venait à se soustraire aux mesures ordonnées, et de la
+possibilité qu'il aurait, à l'inverse, de voir déclarer sa condamnation non avenue en observant une parfaite conduite.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 58-1296 1958-12-23
+
+	**Modifié par**:
+
+	  - Loi n°70-643 du 17 juillet 1970 - art. 29 () JORF 19 juillet 1970
+	  - Loi n°75-624 du 11 juillet 1975 - art. 35 () JORF 13 juillet 1975 en vigueur le 1er janvier 1976
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°75-624 1975-07-11 décret fixant la dâte d'entrée en vigueur - absence
+
+	**Cité par**:
+
+	  - Décret n°2004-1364 du 13 décembre 2004 - art. 32 (V)
+
+	**Cite**:
+
+	  - Code pénal 57, 58
 
 
 ### Titre V : De la reconnaissance de l'identité des individus condamnés
@@ -16118,6 +17411,35 @@ des articles 769 et 770.
 	  - Code de procédure pénale - art. 769 (V)
 
 
+###### Article 774
+
+Le relevé intégral des fiches du casier judiciaire applicables à la même personne est porté sur un bulletin appelé bulletin
+n° 1.
+
+Le bulletin n° 1 n'est délivré qu'aux autorités judiciaires.
+
+Lorsqu'il n'existe pas de fiche au casier judiciaire, le bulletin n° 1 porte la mention "néant".
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 58-1296 1958-12-23
+
+	**Modifié par**:
+
+	  - Loi n°70-643 du 17 juillet 1970 - art. 31 () JORF 19 juillet 1970
+	  - Loi n°75-624 du 11 juillet 1975 - art. 49 () JORF 13 juillet 1975 en vigueur le 1er janvier 1976
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°75-624 1975-07-11 décret fixant la date d'entrée en vigueur - absence
+
+	**Cité par**:
+
+	  - Code de procédure pénale - art. D545 (V)
+
+
 ###### Article 775-1
 
 Le tribunal qui prononce une condamnation peut exclure expressément sa mention au bulletin n. 2 soit dans le jugement de
@@ -16158,6 +17480,80 @@ incapacités de quelque nature qu'elles soient résultant de cette condamnation.
 
 	  - Code pénal 55-1 al. 2
 	  - CODE DE PROCEDURE PENALE - art. 703 (M)
+
+
+###### Article 777
+
+Le bulletin n° 3 est le relevé des condamnations suivantes prononcées pour crime ou délit, lorsqu'elles ne sont pas exclues
+du bulletin n° 2 :
+
+1° Condamnations à des peines privatives de liberté d'une durée supérieure à deux ans qui ne sont assorties d'aucun sursis ou
+qui doivent être exécutées en totalité par l'effet de révocation du sursis ;
+
+2° Condamnations à des peines privatives de liberté de la nature de celles visées au 1° ci-dessus et d'une durée inférieure
+ou égale à deux ans, si la juridiction en a ordonné la mention au bulletin n° 3 ;
+
+3° Condamnations à des interdictions, déchéances ou incapacités prononcées sans sursis, en application des articles 43-1 à
+43-5 du Code pénal, pendant la durée des interdictions, déchéances ou incapacités.
+
+Le bulletin n° 3 peut être réclamé par la personne qu'il concerne, il ne doit, en aucun cas, être délivré à un tiers.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 58-1296 1958-12-23
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°75-624 1975-07-11 décret fixant la date d'entrée en vigueur - absence
+
+	**Modifié par**:
+
+	  - Loi n°75-624 du 11 juillet 1975 - art. 52 () JORF 13 juillet 1975 en vigueur le 1er janvier 1976
+	  - Loi n°70-663 1970-07-17 art. 31 JORF 19 juillet 1970
+
+	**Cite**:
+
+	  - Code pénal 43-1 à 43-5
+
+	**Cité par**:
+
+	  - CODE DE PROCEDURE PENALE - art. R69 (M)
+	  - Code de la propriété intellectuelle - art. L335-7 (VD)
+	  - Code de procédure pénale - art. R84 (V)
+
+
+###### Article 777-1
+
+La mention d'une condamnation au bulletin n° 3 peut être exclue dans les conditions fixées par l'alinéa 1er de l'article
+775-1.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 58-1296 1958-12-23
+
+	**Créé par**:
+
+	  - Loi n°72-1226 1972-12-29 art. 51 JORF 30 décembre 1972
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°75-624 1975-07-11 décret fixant la date d'entrée en vigueur - absence
+
+	**Modifié par**:
+
+	  - Loi n°75-624 du 11 juillet 1975 - art. 53 () JORF 13 juillet 1975 en vigueur le 1er janvier 1976
+
+	**Cité par**:
+
+	  - Code de procédure pénale - art. R69 (V)
+
+	**Cite**:
+
+	  - Code de procédure pénale 775-1 al. 1
 
 
 ###### Article 778
@@ -16286,6 +17682,63 @@ La réhabilitation est soit acquise de plein droit, soit accordée par arrêt de
 	  - Ordonnance 58-1296 1958-12-23
 
 
+###### Article 785
+
+La réhabilitation ne peut être demandée en justice, du vivant du condamné, que par celui-ci, ou, s'il est interdit, par son
+représentant légal ; en cas de décès et si les conditions légales sont remplies, la demande peut être suivie par son conjoint
+ou par ses ascendants ou descendants et même formée par eux, mais dans le délai d'une année seulement à dater du décès.
+
+La demande doit porter sur l'ensemble des condamnations prononcées qui n'ont pas été effacées par une réhabilitation
+antérieure.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 58-1296 1958-12-23
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°75-624 1975-07-11 décret fixant la date d'entrée en vigueur - absence
+
+	**Modifié par**:
+
+	  - Loi n°75-624 du 11 juillet 1975 - art. 55 () JORF 13 juillet 1975 en vigueur le 1er janvier 1976
+
+
+###### Article 786
+
+La demande en réhabilitation ne peut être formée qu'après un délai de cinq ans pour les condamnés à une peine criminelle, de
+trois ans pour condamnés à une peine correctionnelle et d'un an pour les condamnés à une peine contraventionnelle.
+
+Ce délai part, pour les condamnés à une amende, du jour où la condamnation est devenue irrévocable et, pour les condamnés à
+une peine privative de liberté, du jour de leur libération définitive ou, conformément aux dispositions de l'article 733,
+quatrième alinéa, du jour de leur libération conditionnelle lorsque celle-ci n'a pas été suivie de révocation et, pour les
+condamnés soumis à la tutelle pénale, du jour où celle-ci a pris fin.
+
+A l'égard des condamnés à une sanction pénale autre que l'emprisonnement ou l'amende, prononcée à titre principal, ce délai
+part de l'expiration de la sanction subie.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 58-1296 1958-12-23
+
+	**Modifié par**:
+
+	  - Loi n°70-643 du 17 juillet 1970 - art. 14 () JORF 19 juillet 1970
+	  - Loi n°75-624 du 11 juillet 1975 - art. 56 () JORF 13 juillet 1975 en vigueur le 1er janvier 1976
+
+	**Cite**:
+
+	  - Code de procédure pénale 733 al. 4
+
+	**Cité par**:
+
+	  - Loi n°1864-03-19 du 19 mars 1864 - art. 2 (V)
+
+
 ###### Article 787
 
 Les condamnés qui sont en état de récidive légale, ceux qui, après avoir obtenu la réhabilitation, ont encouru une nouvelle
@@ -16315,6 +17768,50 @@ prescription, aucune condamnation pour faits qualifiés crimes ou délits et qu'
 	  - Ordonnance 58-1296 1958-12-23
 
 
+###### Article 788
+
+Le condamné doit, sauf le cas de prescription, justifier du paiement des frais de justice, de l'amende et des dommages-
+intérêts ou de la remise qui lui en est faite. 
+
+A défaut de cette justification, il doit établir qu'il a subi le temps de contrainte judiciaire déterminé par la loi ou que
+le Trésor a renoncé à ce moyen d'exécution. 
+
+S'il est condamné pour banqueroute frauduleuse, il doit justifier du paiement du passif de la faillite en capital,
+
+intérêts et frais ou de la remise qui lui en est faite. 
+
+Néanmoins, si le condamné justifie qu'il est hors d'état de se libérer des frais de justice, il peut être réhabilité même
+dans le cas où ces frais n'auraient pas été payés ou ne l'auraient été qu'en partie. 
+
+En cas de condamnation solidaire, la cour fixe la part des dommages-intérêts ou du passif qui doit être payée par le
+demandeur. 
+
+Si la partie lésée ne peut être retrouvée, ou si elle refuse de recevoir la somme due, celle-ci est versée à la Caisse des
+dépôts et consignations comme en matière d'offres de paiement et de consignation. Si la partie ne se présente pas dans un
+délai de cinq ans pour se faire attribuer la somme consignée,
+
+cette somme est restituée au déposant sur sa simple demande.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 58-1296 1958-12-23
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°75-624 1975-07-11 décret fixant la date d'entrée en vigueur - absence
+
+	**Modifié par**:
+
+	  - Loi n°75-624 du 11 juillet 1975 - art. 57 () JORF 13 juillet 1975 en vigueur le 1er janvier 1976
+
+	**Cité par**:
+
+	  - CODE DE PROCEDURE PENALE - art. 798-1 (T)
+	  - Code de procédure pénale - art. 799 (V)
+
+
 ###### Article 789
 
 Si depuis l'infraction le condamné a rendu des services éminents au pays, la demande de réhabilitation n'est soumise à aucune
@@ -16335,6 +17832,32 @@ les dommages-intérêts n'ont pas été payés.
 	**Cité par**:
 
 	  - Code de procédure pénale - art. 796 (V)
+
+
+###### Article 790
+
+Le condamné adresse la demande en réhabilitation au procureur de la République de sa résidence actuelle ou, s'il demeure à
+l'étranger, au procureur de la République de sa dernière résidence en France ou, à défaut, à celui du lieu de condamnation.
+
+Cette demande précise :
+
+1° La date de la condamnation ;
+
+2° Les lieux où le condamné a résidé depuis sa libération.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 58-1296 1958-12-23
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°75-624 1975-07-11 décret fixant la date d'entrée en vigueur - absence
+
+	**Modifié par**:
+
+	  - Loi n°75-624 du 11 juillet 1975 - art. 58 () JORF 13 juillet 1975 en vigueur le 1er janvier 1976
 
 
 ###### Article 791
@@ -16476,6 +17999,36 @@ renouvelée dès l'expiration de ces délais.
 
 	  - CODE DE PROCEDURE PENALE - art. 798-1 (T)
 	  - Code de procédure pénale - art. 799 (V)
+
+
+###### Article 798
+
+Mention de l'arrêt prononçant la réhabilitation est faite en marge des jugements de condamnation et au casier judiciaire.
+
+Dans ce cas, les bulletins n° 2 et n° 3 du casier judiciaire ne doivent pas mentionner la condamnation.
+
+Le réhabilité peut se faire délivrer sans frais une expédition de l'arrêt de réhabilitation et un extrait de casier
+judiciaire.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 58-1296 1958-12-23
+
+	**Modifié par**:
+
+	  - Loi n°70-643 du 17 juillet 1970 - art. 32 () JORF 19 juillet 1970
+	  - Loi n°75-624 du 11 juillet 1975 - art. 59 () JORF 13 juillet 1975 en vigueur le 1er janvier 1976
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°75-624 1975-07-11 décret fixant la date d'entrée en vigueur - absence
+
+	**Cité par**:
+
+	  - Code de procédure pénale - art. 769 (VD)
+	  - Code de procédure pénale - art. R70 (V)
 
 
 ###### Article 799
@@ -16631,6 +18184,59 @@ frais de justice en matière criminelle, correctionnelle et de police.
 	  - Loi n°94-89 du 1 février 1994 - art. 23 (V)
 	  - Décret n°2004-1136 du 21 octobre 2004 - art. 4 (V)
 	  - Code de la route. - art. L325-1-2 (V)
+
+
+#### Dispositions générales
+
+###### Article 801
+
+Tout délai prévu par le présent code pour l'accomplissement d'un acte ou d'une formalité expire le dernier jour à vingt-
+quatre heures. Le délai qui expirerait normalement un samedi ou un dimanche ou un jour férié ou chômé est prorogé jusqu'au
+premier jour ouvrable suivant.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 58-1296 1958-12-23
+
+	**Modifié par**:
+
+	  - Loi n°75-701 1975-08-06 art. 19 JORF 7 août 1975 en vigueur le 1er janvier 1976
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°75-701 1975-08-06 décret fixant la date d'entrée en vigueur - absence
+
+	**Cité par**:
+
+	  - Code de procédure pénale - art. D250-3 (Ab)
+
+
+###### Article 802
+
+En cas de violation des formes prescrites par la loi à peine de nullité ou d'inobservation des formalités substantielles, à
+l'exception toutefois de celles prévues à l'article 105, toute juridiction, y compris la Cour de cassation, qui est saisie
+d'une demande d'annulation ou qui relève d'office une telle irrégularité ne peut prononcer la nullité [*condition*] que
+lorsque celle-ci a eu pour effet de porter atteinte aux intérêts de la partie qu'elle concerne.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 58-1296 1958-12-23
+
+	**Modifié par**:
+
+	  - Loi n°75-701 1975-08-06 art. 19 JORF 7 août 1975 en vigueur le 1er janvier 1976
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°75-701 1975-08-06 décret fixant la date d'entrée en vigueur - absence
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. 105 (M)
 
 
 # Partie réglementaire - Décrets en Conseil d'Etat
