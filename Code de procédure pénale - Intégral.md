@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 1974-05-28
+Version Consolidée au 1974-07-07
 
 # Partie législative
 
@@ -2077,6 +2077,37 @@ peuvent en outre comparaître volontairement.
 
 	  - Loi n°2003-239 du 18 mars 2003 - art. 21-1 (Ab)
 	  - Code de procédure pénale - art. 230-13 (V)
+
+
+###### Article 102
+
+Ils sont entendus séparément, et hors la présence de l'inculpé, par le juge d'instruction assisté de son greffier : il est
+dressé procès-verbal de leurs déclarations.
+
+Le juge d'instruction peut faire appel à un interprète majeur, à l'exclusion de son greffier et des témoins. L'interprète,
+s'il n'est pas assermenté, prête serment d'apporter son concours à la justice en son honneur et en sa conscience.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°57-1426 1957-12-31
+
+	**Modifié par**:
+
+	  - Ordonnance n°58-1296 du 23 décembre 1958 - art. 1 () JORF 24 décembre 1958
+	  - loi 72-1226 1972-12-29 art. 16 JORF 30 décembre 1972
+	  - Loi n°74-631 du 5 juillet 1974 - art. 13 () JORF 7 juillet 1974
+
+	**Cité par**:
+
+	  - Loi n°83-520 du 27 juin 1983 - art. 13 (V)
+	  - CODE DE PROCEDURE PENALE - art. R241 (M)
+	  - Code de procédure pénale - art. 121 (V)
+	  - Code de procédure pénale - art. 817 (V)
+	  - Code de procédure pénale - art. D594 (V)
+	  - Code de procédure pénale - art. R53-39 (V)
+	  - Décret du 20 mai 1903 - art. 133 (Ab)
 
 
 ###### Article 103
@@ -15352,6 +15383,38 @@ doit statuer d'office par une décision motivée sur le maintien ou la levée de
 	**Cité par**:
 
 	  - CODE DE PROCEDURE PENALE - art. 744-3 (Ab)
+
+
+###### Article 744-2
+
+Lorsque le condamné est placé sous le régime de la mise à l'épreuve par une décision d'une juridiction spéciale aux mineurs,
+le juge des enfants et le tribunal pour enfants dans le ressort desquels le mineur a sa résidence habituelle exercent les
+attributions dévolues au juge de l'application des peines et au tribunal correctionnel par les articles 739 à 744-1, jusqu'à
+l'expiration du délai d'épreuve.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 58-1296 1958-12-23
+
+	**Créé par**:
+
+	  - Loi n°70-643 du 17 juillet 1970 - art. 29 () JORF 19 juillet 1970
+
+	**Modifié par**:
+
+	  - Loi n°74-631 1974-07-05 art. 13-III JORF 7 juillet 1974
+
+	**Cité par**:
+
+	  - Loi n°2002-1138 du 9 septembre 2002 - art. 21 (V)
+	  - CODE DE PROCEDURE PENALE - art. D514 (M)
+	  - CODE DE PROCEDURE PENALE - art. R60 (V)
+
+	**Cite**:
+
+	  - Code de procédure pénale 739 à 744-1
 
 
 ###### Article 745-1
