@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 1978-10-17
+Version Consolidée au 1978-11-23
 
 # Partie législative
 
@@ -4310,6 +4310,28 @@ d'accusation connaît des demandes de mise en liberté.
 	  - Code de procédure pénale - art. 627-9 (V)
 	  - Code de procédure pénale - art. 706-33 (V)
 	  - Code de procédure pénale - art. 706-36 (V)
+
+
+###### Article 148-5
+
+En toute matière et en tout état de la procédure, la juridiction d'instruction ou de jugement peut, à titre exceptionnel,
+accorder une autorisation de sortie sous escorte à l'inculpé, au prévenu ou à l'accusé.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°57-1426 1957-12-31
+
+	**Créé par**:
+
+	  - Loi n°78-1097 1978-11-22 art. 6 JORF 23 novembre 1978
+
+	**Cité par**:
+
+	  - Arrêté du 11 mars 2016 - art. 2 (V)
+	  - Code de procédure pénale - art. D147 (V)
+	  - Code de procédure pénale - art. D426 (Ab)
 
 
 ##### Sous-section 3 : De l'indemnisation à raison d'une détention provisoire
@@ -16825,6 +16847,143 @@ Dans ce cas, le tribunal doit statuer dans les cinq jours sur le maintien ou le 
 	  - CODE DE PROCEDURE PENALE - art. 723-1 (M)
 
 
+###### Article 723-3
+
+La permission de sortir autorise un condamné à s'absenter d'un établissement pénitentiaire pendant une période de temps
+déterminée qui s'impute sur la durée de la peine en cours d'exécution.
+
+Elle a pour objet de préparer la réinsertion professionnelle ou sociale du condamné, de maintenir ses liens familiaux ou de
+lui permettre d'accomplir une obligation exigeant sa présence.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 58-1296 1958-12-23
+
+	**Créé par**:
+
+	  - loi 78-1097 1978-11-22 art. 4 JORF 23 novembre 1978
+
+	**Cité par**:
+
+	  - CODE DE PROCEDURE PENALE - art. 733-1 (M)
+	  - CODE DE PROCEDURE PENALE - art. D570 (V)
+	  - Code de procédure pénale - art. D118 (V)
+	  - Code de procédure pénale - art. D123 (V)
+	  - Code de procédure pénale - art. D124 (V)
+	  - Code de procédure pénale - art. D125 (V)
+	  - Code de procédure pénale - art. D365 (V)
+	  - Code de procédure pénale - art. D425 (Ab)
+	  - Code de procédure pénale - art. D508 (V)
+
+
+###### Article 723-4
+
+[Article abrogé].
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 58-1296 1958-12-23
+
+	**Créé par**:
+
+	  - loi 78-1097 1978-11-22 art. 4 JORF 23 novembre 1978
+
+	**Modifié par**:
+
+	  - Loi n°81-82 du 2 février 1981 - art. 37 () JORF 3 février 1981
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°83-466 1983-06-10 art. 43
+
+	**Abrogé par**:
+
+	  - Loi n°83-466 du 10 juin 1983 - art. 6 () JORF 11 juin 1983 en vigueur le 27 juin 1983
+
+	**Cité par**:
+
+	  - Code de la route. - art. R234-5 (V)
+	  - Code de procédure pénale - art. 720 (Ab)
+
+
+###### Article 723-5
+
+Sans préjudice de l'application de l'article 245 du code pénal, en cas de condamnation pour un crime ou un délit volontaire
+commis à l'occasion d'une permission de sortir, la juridiction peut décider que le condamné perdra le bénéfice des réductions
+de peine qui lui ont été accordées antérieurement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 58-1296 1958-12-23
+
+	**Créé par**:
+
+	  - loi 78-1097 1978-11-22 art. 4 JORF 23 novembre 1978
+
+	**Cite**:
+
+	  - Code pénal 245
+
+
+###### Article 723-6
+
+Tout condamné peut, dans les conditions de l'article 722, obtenir, à titre exceptionnel, une autorisation de sortie sous
+escorte.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code de procédure pénale art. 722
+
+	**Codifié par**:
+
+	  - Ordonnance 58-1296 1958-12-23
+
+	**Créé par**:
+
+	  - loi 78-1097 1978-11-22 art. 5 JORF 23 novembre 1978
+
+	**Cité par**:
+
+	  - Arrêté du 11 mars 2016 - art. 2 (V)
+	  - CODE DE PROCEDURE PENALE - art. 733-1 (M)
+	  - CODE DE PROCEDURE PENALE - art. D116 (M)
+	  - Code de procédure pénale - art. D147 (V)
+	  - Code de procédure pénale - art. D426 (Ab)
+
+
+##### Section 3 : De la période de sûreté
+
+###### Article 720-3
+
+L'article 720-2 n'est pas applicable aux mineurs.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 58-1296 1958-12-23
+
+	**Créé par**:
+
+	  - loi 78-1097 1978-11-22 art. 1 JORF 23 novembre 1978
+
+	**Abrogé par**:
+
+	  - Loi n°92-1336 du 16 décembre 1992 - art. 84 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. 720-2 (M)
+
+
 #### Chapitre III : Des dispositions communes aux différents établissements pénitentiaires
 
 ###### Article 724
@@ -16965,6 +17124,45 @@ leur reclassement social.
 
 
 ### Titre III : De la libération conditionnelle
+
+###### Article 729-2
+
+Dans les formes et conditions prévues par les articles 721, 721-1, et 729-1, mais dans la limite de quarante-cinq jours par
+année d'incarcération, des réductions du temps d'épreuve nécessaire à l'octroi de la libération conditionnelle peuvent être
+accordées aux condamnés à la réclusion criminelle à perpétuité. Elles ne sont, le cas échéant, imputables que sur la partie
+de la peine excédant la période de sûreté prévue à l'article 720-2.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 58-1296 1958-12-23
+
+	**Créé par**:
+
+	  - Loi n°78-1097 1978-11-22 art. 7 JORF 23 novembre 1978
+
+	**Abrogé par**:
+
+	  - Loi n°86-1021 du 9 septembre 1986 - art. 3 () JORF 10 septembre 1986 en vigueur le 1er octobre 1986
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°86-1021 du 9 septembre 1986 - art. 5 (V)
+
+	**Cité par**:
+
+	  - Loi n°2011-672 du 16 juin 2011 - art. 109 (V)
+	  - Loi n°2016-274 du 7 mars 2016 - art. 58 (V)
+	  - Code de procédure pénale - art. D531 (V)
+	  - Code de procédure pénale - art. D541 (V)
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. 720-2 (M)
+	  - CODE DE PROCEDURE PENALE - art. 721 (M)
+	  - CODE DE PROCEDURE PENALE - art. 721-1 (M)
+
 
 ###### Article 730
 
