@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 2003-03-22
+Version Consolidée au 2003-04-01
 
 # Partie législative
 
@@ -48810,9 +48810,8 @@ compter de la date d'envoi de la lettre recommandée prévue à l'article R. 42,
 Les contraventions des quatre premières classes pour lesquelles l'action publique est éteinte par le paiement d'une amende
 forfaitaire sont les suivantes :
 
-1° Contraventions réprimées par le code de la route punies uniquement d'une peine d'amende, à l'exclusion de toute peine
-complémentaire, qu'elles entraînent ou non un retrait des points affectés au permis de conduire sous réserve des dispositions
-de l'article R. 49-8-5 relatives à l'amende forfaitaire minorée ;
+1° Contraventions réprimées par le code de la route qu'elles entraînent ou non un retrait des points affectés au permis de
+conduire sous réserve des dispositions de l'article R. 49-8-5 relatives à l'amende forfaitaire minorée ;
 
 2° Contraventions en matière de transport et de circulation réprimées par :
 
@@ -48938,9 +48937,9 @@ la vaccination, la stérilisation, l'assurance et les conditions de circulation 
 	  - Code des postes et des communications électroni... - art. R10-11 (V)
 	  - Code des postes et des communications électronique - art. R11 (T)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2002-801 du 3 mai 2002 - art. 4 () JORF 5 mai 2002
+	  - Décret n°2003-293 du 31 mars 2003 - art. 1 () JORF 1er avril 2003
 
 	**Liens**:
 
