@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 1986-02-02
+Version Consolidée au 1986-03-16
 
 # Partie législative
 
@@ -30373,6 +30373,98 @@ R. 50-15 et R. 50-17.
 
 ## Livre V : Des procédures d'exécution.
 
+### Titre Ier : De l'application des peines.
+
+###### Article R50-29
+
+Le premier président désigne, après avis de l'Assemblée générale des magistrats du siège, un ou plusieurs conseillers chargés
+de suivre l'application des peines et de coordonner l'action des juges de l'application des peines dans le ressort de la cour
+d'appel.
+
+Il est mis fin à leurs fonctions et pourvu à leur remplacement dans les mêmes formes.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-318 1959-02-03
+
+	**Créé par**:
+
+	  - Décret n°86-461 1986-03-14 art. 1 JORF 16 mars 1986
+
+	**Abrogé par**:
+
+	  - Décret n°99-818 du 16 septembre 1999 - art. 1 () JORF 19 septembre 1999
+
+
+###### Article R50-30
+
+Chaque année, le juge de l'application des peines adresse au ministre de la justice un rapport sur l'application des peines
+dans son ressort. Ce rapport est également transmis au conseiller chargé de l'application des peines et au procureur général.
+En outre, le juge de l'application des peines le présente oralement à l'assemblée générale des magistrats du siège et du
+parquet.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°86-461 1986-03-14 art. 1 JORF 16 mars 1986
+
+	**Abrogé par**:
+
+	  - Décret n°99-818 du 16 septembre 1999 - art. 1 () JORF 19 septembre 1999
+
+	**Cité par**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R*312-8 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°59-318 1959-02-03
+
+
+###### Article R50-31
+
+Le juge de l'application des peines est assisté par le comité de probation et d'assistance aux libérés.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-318 1959-02-03
+
+	**Créé par**:
+
+	  - Décret n°86-461 1986-03-14 art. 1 JORF 16 mars 1986
+
+	**Abrogé par**:
+
+	  - Décret n°99-818 du 16 septembre 1999 - art. 1 () JORF 19 septembre 1999
+
+
+###### Article R50-32
+
+En cas de nouvelle poursuite exercée contre un condamné placé sous son contrôle, le juge de l'application des peines en est
+avisé par le procureur de la République. Il communique à ce magistrat les renseignements qui lui paraissent utiles sur le
+comportement du condamné ; il lui donne notamment son avis sur l'opportunité de toute décision de modification ou de
+révocation de la mesure dont bénéficie le condamné, qui serait de la compétence de la juridiction de jugement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-318 1959-02-03
+
+	**Créé par**:
+
+	  - Décret n°86-461 1986-03-14 art. 1 JORF 16 mars 1986
+
+	**Abrogé par**:
+
+	  - Décret n°99-818 du 16 septembre 1999 - art. 1 () JORF 19 septembre 1999
+
+
 ### Titre IV : Du sursis
 
 #### Chapitre II : Du sursis avec mise à l'épreuve.
@@ -30524,9 +30616,14 @@ convictions religieuses ou politiques.
 
 ##### Section 2 : Des autorités chargées de contrôler le régime de la mise à l'épreuve
 
-###### Article R55
+###### Article R54
 
-[Article abrogé].
+Le juge de l'application des peines convoque le condamné pour lui rappeler les mesures de surveillance auxquelles il est
+soumis ainsi que, le cas échéant, les obligations particulières imposées par la décision de condamnation. Il lui notifie les
+obligations particulières qu'il ordonne. Il porte à sa connaissance les conditions dans lesquelles ces mesures et ces
+obligations seront appliquées et contrôlées.
+
+L'accomplissement de ces formalités est constaté par procès-verbal dont copie est remise à l'intéressé, après émargement.
 
 **Liens relatifs à cet article**
 
@@ -30538,9 +30635,83 @@ convictions religieuses ou politiques.
 
 	  - Décret n°59-318 1959-02-23 JORF 25 février 1959 en vigueur le 2 mars 1959 rectificatif JORF 13 juin 1959
 
+	**Modifié par**:
+
+	  - Décret n°86-461 1986-03-14 art. 2 JORF 16 mars 1986
+
+	**Liens**:
+
+	  - TXT_SOURCE: CODE DE PROCEDURE PENALE - art. 739 (M)
+
+
+##### Section 3 : Des mesures de surveillance et d'assistance
+
+###### Article R56
+
+Les mesures de surveillance imposées au condamné placé sous le régime de la mise à l'épreuve sont les suivantes :
+
+1° Répondre aux convocations du juge de l'application des peines ou de l'agent de probation compétent ;
+
+2° Recevoir les visites de l'agent de probation et lui communiquer les renseignements ou documents de nature à permettre le
+contrôle de ses moyens d'existence et de l'exécution de ses obligations ;
+
+3° Prévenir l'agent de probation de ses changements d'emploi ;
+
+4° Prévenir l'agent de probation des changements de résidence ou de tout déplacement dont la durée excéderait quinze jours,
+et de son retour ;
+
+5° Obtenir l'autorisation du juge de l'application des peines pour tout changement d'emploi ou de résidence, lorsqu'il est de
+nature à mettre obstacle à l'exécution de ses obligations ;
+
+6° Obtenir l'autorisation préalable du juge de l'application des peines pour tout déplacement à l'étranger.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-318 1959-02-23
+
+	**Créé par**:
+
+	  - Décret n°59-318 1959-02-23 JORF 25 février 1959 en vigueur le 2 mars 1959 rectificatif JORF 13 juin 1959
+
+	**Modifié par**:
+
+	  - Décret n°86-461 1986-03-14 art. 3 JORF 16 mars 1986
+
 	**Abrogé par**:
 
-	  - Décret n°86-461 1986-03-14 art. 14 JORF 16 mars 1986
+	  - Décret n°93-726 1993-03-29 art. 9 JORF 30 mars 1993 en vigueur le 1er mars 1994
+
+	**Liens**:
+
+	  - TXT_SOURCE: CODE DE PROCEDURE PENALE - art. 739 (M)
+
+
+###### Article R57
+
+Les mesures d'aide ont pour objet de favoriser la réinsertion sociale du condamné.
+
+Ces mesures, qui s'exercent sous forme d'une aide à caractère social et, s'il y a lieu, d'une aide matérielle, sont mises en
+oeuvre par le comité de probation avec la participation, le cas échéant, de tous organismes publics ou privés.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-318 1959-02-23
+
+	**Créé par**:
+
+	  - Décret n°59-318 1959-02-23 JORF 25 février 1959 en vigueur le 2 mars 1959 rectificatif JORF 13 juin 1959
+
+	**Modifié par**:
+
+	  - Décret n°86-461 1986-03-14 art. 4 JORF 16 mars 1986
+
+	**Abrogé par**:
+
+	  - Décret n°93-726 1993-03-29 art. 9 JORF 30 mars 1993 en vigueur le 1er mars 1994
 
 	**Liens**:
 
@@ -30548,14 +30719,49 @@ convictions religieuses ou politiques.
 
 	**Cité par**:
 
-	  - Code de procédure pénale - art. D45-11 (VD)
+	  - CODE DE PROCEDURE PENALE - art. R61-20 (Ab)
 
 
 ##### Section 4 : Des obligations imposées spécialement par l'arrêt ou le jugement
 
-###### Article R59
+###### Article R58
 
-[Article abrogé].
+L'arrêt ou le jugement plaçant le condamné sous le régime de la mise à l'épreuve peut lui imposer spécialement l'observation
+de l'une ou plusieurs des obligations suivantes :
+
+1° Etablir sa résidence en un lieu déterminé ;
+
+2° S'abstenir de paraître en tous lieux spécialement désignés ;
+
+3° Exercer une activité professionnelle ou suivre un enseignement ou une formation professionnelle ;
+
+4° Se soumettre à des mesures d'examen, de contrôle, de traitement ou de soins médicaux, même sous le régime de
+l'hospitalisation ;
+
+5° Justifier qu'il contribue aux charges familiales ou acquitte régulièrement les aliments qu'il a été condamné à payer
+conformément aux décisions judiciaires et aux conventions judiciairement homologuées portant obligation de verser des
+prestations, subsides ou contributions aux charges du mariage ;
+
+6° Justifier qu'il acquitte, en fonction de ses facultés contributives, les sommes dues à la victime ou à ses représentants
+légaux ou ayants droit ;
+
+7° Justifier qu'il acquitte, en fonction de ses facultés contributives, les sommes dues au Trésor public à la suite de la
+condamnation ;
+
+8° Ne pas conduire certains véhicules déterminés par les catégories de permis mentionnées au Code de la route et remettre
+tous permis concerné au greffe du tribunal ;
+
+9° Ne pas fréquenter les casinos, maisons de jeu et champs de courses, et ne pas engager de paris, notamment dans les
+organismes de paris mutuel ;
+
+10° Ne pas fréquenter les débits de boissons et s'abstenir de tout excès de boissons alcoolisées ;
+
+11° Ne pas fréquenter certains condamnés, notamment les auteurs ou complices de l'infraction ;
+
+12° S'abstenir d'entrer en relation avec certaines personnes, notamment la victime de l'infraction, de les recevoir ou de les
+héberger à son domicile ;
+
+13° Ne pas détenir ou porter une arme.
 
 **Liens relatifs à cet article**
 
@@ -30567,19 +30773,21 @@ convictions religieuses ou politiques.
 
 	  - Décret n°59-318 1959-02-23 JORF 25 février 1959 en vigueur le 2 mars 1959 rectificatif JORF 13 juin 1959
 
+	**Modifié par**:
+
+	  - Décret n°86-461 1986-03-14 art. 5 JORF 16 mars 1986
+
 	**Abrogé par**:
 
-	  - Décret n°86-461 1986-03-14 art. 14 JORF 16 mars 1986
-
-	**Cité par**:
-
-	  - Arrêté du 14 mai 2007 - art. 22 (VD)
-	  - Arrêté du 23 décembre 1959 - art. 23 (Ab)
-	  - Code de la sécurité intérieure - art. R321-28 (VD)
+	  - Décret n°93-726 1993-03-29 art. 9 JORF 30 mars 1993 en vigueur le 1er mars 1994
 
 	**Liens**:
 
 	  - TXT_SOURCE: CODE DE PROCEDURE PENALE - art. 739 (M)
+
+	**Cité par**:
+
+	  - CODE DE PROCEDURE PENALE - art. R61-20 (Ab)
 
 
 ##### Section 5 : Dispositions diverses
@@ -30976,6 +31184,53 @@ peines.
 
 ##### Section 1 : De la décision du juge de l'application des peines fixant les modalités d'exécution du travail d'intérêt général
 
+###### Article R61-12
+
+Le juge de l'application des peines fixe les modalités d'exécution du travail d'intérêt général.
+
+Sa décision précise [*mentions*] :
+
+1° L'organisme au profit duquel le travail sera accompli ;
+
+2° Le travail ou les travaux que le condamné accomplira ;
+
+3° Les horaires de travail.
+
+**Nota:**
+
+
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-318 1959-02-23
+
+	**Créé par**:
+
+	  - Décret n°83-1163 1983-12-23 art. 1 et art. 2 JORF 27 décembre 1983 en vigueur le 1er janvier 1984
+
+	**Modifié par**:
+
+	  - Décret n°86-461 1986-03-14 art. 6 JORF 16 mars 1986
+
+	**Abrogé par**:
+
+	  - Décret n°93-726 1993-03-29 art. 9 JORF 30 mars 1993 en vigueur le 1er mars 1994
+
+	**Cité par**:
+
+	  - Décret n°2012-268 du 24 février 2012 - art. 1 (V)
+	  - Décret n°2012-268 du 24 février 2012 - art. 5 (V)
+	  - Décret n°2012-268 du 24 février 2012 - art. 8 (V)
+	  - Décret n°2016-261 du 3 mars 2016 - art. 2
+	  - Code de procédure pénale - art. D32-15 (V)
+	  - Code de procédure pénale - art. R61-13 (V)
+	  - Code de procédure pénale - art. R61-17 (V)
+	  - Code de procédure pénale - art. R61-19 (M)
+	  - Code de procédure pénale - art. R61-28 (V)
+
+
 ###### Article R61-13
 
 La décision prise en application de l'article R. 61-12 peut être modifiée à tout moment.
@@ -31267,6 +31522,73 @@ l'agent de probation ainsi qu'au cOndamné un document attestant que ce travail 
 	**Abrogé par**:
 
 	  - Décret n°93-726 1993-03-29 art. 9 JORF 30 mars 1993 en vigueur le 1er mars 1994
+
+
+##### Section 3 : Des obligations particulières imposées au condamné à une peine d'emprisonnement avec sursis assorti de l'obligation d'accomplir un travail d'intérêt général.
+
+###### Article R61-20
+
+Le condamné à une peine d'emprisonnement avec sursis assorti de l'obligation d'accomplir un travail d'intérêt général doit se
+soumettre à celles des obligations définies par l'article R. 58 qui lui sont spécialement imposées.
+
+Il peut bénéficier des mesures d'assistance prévues par l'article R. 57.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-318 1959-02-23
+
+	**Créé par**:
+
+	  - Décret n°83-1163 1983-12-23 art. 1 et art. 2 JORF 27 décembre 1983 en vigueur le 1er janvier 1984
+
+	**Modifié par**:
+
+	  - Décret n°86-461 1986-03-14 art. 7 JORF 16 mars 1986
+
+	**Abrogé par**:
+
+	  - Décret n°93-726 1993-03-29 art. 9 JORF 30 mars 1993 en vigueur le 1er mars 1994
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. R57 (Ab)
+	  - CODE DE PROCEDURE PENALE - art. R58 (Ab)
+
+
+##### Section 4 : Du contrôle de l'exécution du travail d'intérêt général
+
+###### Article R61-21
+
+Le juge de l'application des peines s'assure de l'exécution du travail d'intérêt général soit par lui-même, soit par
+l'intermédiaire d'un agent de probation.
+
+Si le travail à exécuter est inscrit sur la liste d'un autre ressort, il délègue son pouvoir de contrôle au juge de
+l'application des peines territorialement compétent.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-318 1959-02-23
+
+	**Créé par**:
+
+	  - Décret n°83-1163 1983-12-23 art. 1 et art. 2 JORF 27 décembre 1983 en vigueur le 1er janvier 1984
+
+	**Modifié par**:
+
+	  - Décret n°86-461 1986-03-14 art. 8 JORF 16 mars 1986
+
+	**Abrogé par**:
+
+	  - Décret n°93-726 1993-03-29 art. 9 JORF 30 mars 1993 en vigueur le 1er mars 1994
+
+	**Cité par**:
+
+	  - CODE DE PROCEDURE PENALE - art. R53-8-70 (V)
+	  - Code de procédure pénale - art. D32-15 (V)
 
 
 #### Chapitre III : Dispositions applicables aux condamnations prononcées par les juridictions pour mineurs.
@@ -40933,6 +41255,56 @@ proche. Dans la négative, leur surveillance nocturne est assurée dans les loca
 	  - Code de procédure pénale - art. D131 (V)
 
 
+###### Article D131
+
+Par dérogation aux dispositions de l'article D130, peuvent être autorisés soit à travailler à l'extérieur, soit à y suivre un
+enseignement, une formation professionnelle ou un traitement médical sans être soumis à la surveillance continue du personnel
+pénitentiaire :
+
+1° Les condamnés dont la peine restant à subir n'excède pas un an ;
+
+2° Les condamnés admis au bénéfice de la libération conditionnelle, sous la condition d'avoir été soumis à titre probatoire
+au régime du placement à l'extérieur ;
+
+3° Les condamnés qui remplissent les conditions de délai requises pour être proposés au bénéfice de la libération
+conditionnelle et dont la peine restant à subir n'excède pas trois ans.
+
+La décision de l'admission au bénéfice de ce régime est prise, après avis de la commission de l'application des peines, par
+le juge de l'application des peines qui en détermine les modalités.
+
+L'employeur ou le directeur de l'établissement de formation ou de soins doit assurer l'encadrement du détenu et informer sans
+délai le représentant qualifié de l'administration pénitentiaire de tout incident concernant le détenu, notamment de toute
+absence quelle qu'en soit la durée.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-322 1959-02-23
+
+	**Modifié par**:
+
+	  - Décret n°85-836 1985-08-06 art. 1 JORF 8 août 1985
+	  - Décret n°86-462 1986-03-14 art. 2 JORF 16 mars 1986
+
+	**Cité par**:
+
+	  - CODE DE PROCEDURE PENALE - art. D129 (Ab)
+	  - CODE DE PROCEDURE PENALE - art. D132 (Ab)
+	  - CODE DE PROCEDURE PENALE - art. D270. (M)
+	  - Code de la sécurité sociale. - art. D412-60 (V)
+	  - Code de la sécurité sociale. - art. D412-61 (V)
+	  - Code de la sécurité sociale. - art. D433-1 (V)
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. D130 (M)
+
+	**Liens**:
+
+	  - TXT_SOURCE: Code de procédure pénale 714 à 728
+
+
 ###### Article D132
 
 Le chef d'établissement pénitentiaire doit s'assurer de la stricte exécution des consignes données au personnel de
@@ -41042,6 +41414,63 @@ profession.
 
 
 ##### Paragraphe 3 : Régime de semi-liberté
+
+###### Article D138
+
+L'octroi ou le maintien de la semi-liberté peut être subordonné à l'une ou plusieurs des conditions énumérées à l'article
+D536.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-322 1959-02-23
+
+	**Modifié par**:
+
+	  - Décret n°86-462 1986-03-14 art. 12-1° JORF 16 mars 1986
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. D536 (M)
+
+	**Liens**:
+
+	  - TXT_SOURCE: Code de procédure pénale 714 à 728
+
+
+###### Article D139
+
+Les condamnés admis au régime de semi-liberté s'engagent à respecter les règles générales et spéciales dont ils reçoivent
+communication.
+
+Les règles générales, qui sont déterminées par le ministre de la justice, concernent les conditions de bonne tenue et
+d'assiduité au travail, la participation effective à l'activité, et le suivi du traitement médical.
+
+Les règles spéciales, qui sont arrêtées par le juge de l'application des peines, ont trait aux jours et heures de sortie et
+de retour, aux conditions particulières propres à la nature de l'activité ou du traitement et à la personnalité du condamné
+ainsi que, s'il y a lieu, aux modalités de versement de son salaire.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-322 1959-02-23
+
+	**Modifié par**:
+
+	  - Décret n°72-852 1972-09-12 art. 1 JORF 20 septembre 1972 rectificatif JORF 14 octobre 1972
+	  - Décret n°80-227 1980-03-20 art. 2 JORF 1er avril 1980
+	  - Décret n°86-462 1986-03-14 art. 3 JORF 16 mars 1986
+
+	**Liens**:
+
+	  - TXT_SOURCE: Code de procédure pénale 714 à 728
+
+	**Abrogé par**:
+
+	  - Décret n°98-1099 du 8 décembre 1998 - art. 197 (V) JORF 9 décembre 1998
+
 
 ###### Article D141
 
@@ -41635,6 +42064,44 @@ médico-sociaux.
 	  - CODE DE PROCEDURE PENALE - art. D32-1 (M)
 
 
+###### Article D106
+
+Les rémunérations pour tout travail effectué par un détenu sont versées, sous réserve des dispositions du troisième alinéa de
+l'article D103, à l'administration qui opère le reversement des cotisations sociales aux organismes de recouvrement et
+procède ensuite à l'inscription et à la répartition de la rémunération nette sur le compte nominatif des détenus,
+conformément aux dispositions des articles D111 et suivants.
+
+Ces rémunérations sont soumises à cotisations patronales et ouvrières selon les modalités fixées, pour les assurances
+maladie, maternité et vieillesse, par les articles R381-97 à R381-109 du Code de la sécurité sociale. En outre, pour celles
+qui sont versées par les entreprises concessionnaires, un prélèvement spécial est effectué au bénéfice du fonds national des
+allocations familiales dans les conditions prévues par le décret n° 77-946 du 2 août 1977.
+
+Les tarifs de rémunération sont portés à la connaissance des détenus.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-322 1959-02-23
+
+	**Modifié par**:
+
+	  - Décret n°72-852 1972-09-12 art. 1 JORF 20 septembre 1972 rectificatif JORF 14 octobre 1972
+	  - Décret n°85-836 1985-08-06 art. 1 JORF 8 août 1985
+	  - Décret n°86-462 1986-03-14 art. 1 JORF 16 mars 1986
+
+	**Cite**:
+
+	  - Décret n°77-946 1977-08-02
+	  - CODE DE PROCEDURE PENALE - art. D111 (M)
+	  - Code de procédure pénale D103 al. 3, D111
+	  - Code de la sécurité sociale R381-97 à R381-109
+
+	**Liens**:
+
+	  - TXT_SOURCE: Code de procédure pénale 714 à 728
+
+
 ###### Article D107
 
 Indépendamment de la garde des détenus, les surveillants assurent le respect des règles de discipline et de sécurité sur les
@@ -42039,6 +42506,98 @@ la levée d'écrou d'un détenu hospitalisé au moment de sa libération.
 
 
 ##### Paragraphe 2 : Autres registres et écritures du greffe.
+
+###### Article D152
+
+Indépendamment du registre d'écrou, des registres ou livres prévus par la réglementation comptable, le chef de
+l'établissement doit tenir ou faire tenir des registres et les fichiers dont la nomenclature suit, sans préjudice de ceux
+dont la tenue est ou viendrait à être prescrite par décision ministérielle ou dont l'utilité apparaîtrait dans la pratique : 
+
+- répertoire alphabétique des détenus écroués ; 
+
+- registre des demandes de mise en liberté et de saisine de la chambre d'accusation ; 
+
+- registre des déclarations d'opposition ; 
+
+- registre des déclarations d'appel et de pourvoi ; 
+
+- registre des libérations par mois ; 
+
+- fichier des libérations conditionnelles ; 
+
+- fichier des interdits de séjour ; 
+
+- registre du contrôle numérique ; 
+
+- registre des lettres adressées par les détenus aux autorités ; 
+
+- registre des sanctions disciplinaires ; 
+
+- registre des mesures d'individualisation de la peine ; 
+
+- registre des mesures d'isolement ; 
+
+- registre des inspections et carnet d'ordres de service ; 
+
+- registre des entrées et sorties ; 
+
+- registre des mesures visées à l'article 723 ; 
+
+- fichier des réductions de peine.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-322 1959-02-23
+
+	**Modifié par**:
+
+	  - Décret n°73-281 1973-03-07 art. 1 JORF 16 mars 1973 rectificatif JORF 7 avril 1973
+	  - Décret n°83-48 1983-01-26 art. 1 JORF 28 janvier 1983
+	  - Décret n°86-462 1986-03-14 art. 4 et art. 12 2° JORF 16 mars 1986
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. 723 (M)
+
+	**Liens**:
+
+	  - TXT_SOURCE: Code de procédure pénale 714 à 728
+
+
+###### Article D153.
+
+Pour l'application des articles 148-7, 148-8, 490-1, 503, 547 et 577 le chef de l'établissement, ou sous son autorité, le
+fonctionnaire chargé du greffe, tient dans chaque établissement un registre des déclarations d'appel ou de pourvoi, un
+registre des déclarations d'opposition et un registre des demandes de mise en liberté ou de saisine de la chambre
+d'accusation dans lesquels sont conservées les déclarations et demandes qu'il est appelé à recevoir et à transmettre. 
+
+Ces registres sont composés de la copie des exemplaires numérotés desdites déclarations.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-322 1959-02-23
+
+	**Modifié par**:
+
+	  - Décret n°72-852 1972-09-12 art. 1 JORF 20 septembre 1972 rectificatif JORF 14 octobre 1972
+	  - Décret n°86-462 1986-03-14 art. 5 JORF 16 mars 1986
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. 148-7 (M)
+	  - CODE DE PROCEDURE PENALE - art. 148-8 (M)
+	  - CODE DE PROCEDURE PENALE - art. 490-1 (V)
+	  - CODE DE PROCEDURE PENALE - art. 503 (V)
+	  - Code de procédure pénale 148-7, 148-8, 490-1, 503, 547 et 577
+
+	**Liens**:
+
+	  - TXT_SOURCE: Code de procédure pénale 714 à 728
+
 
 ###### Article D154
 
@@ -43384,6 +43943,33 @@ par tout autre organisme.
 	  - TXT_SOURCE: Code de procédure pénale 714 à 728
 
 
+###### Article D216-1
+
+Le chef d'établissement organise régulièrement des réunions de synthèse afin de coordonner l'action des différents personnels
+et de faciliter l'échange d'informations sur les modalités d'application des régimes de détention.
+
+A l'occasion de ces réunions, il recueille l'avis des personnels sur les projets de règlement intérieur ou de modification de
+ce document.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-322 1959-02-23
+
+	**Créé par**:
+
+	  - Décret n°75-402 1975-05-23 art. 1 JORF 27 mai 1975
+
+	**Modifié par**:
+
+	  - Décret n°86-462 1986-03-14 art. 6 JORF 16 mars 1986
+
+	**Liens**:
+
+	  - TXT_SOURCE: Code de procédure pénale 714 à 728
+
+
 ###### Article D217
 
 A l'exception des agents exerçant les fonctions de chef d'établissement ou de ceux qui exercent une fonction définie par
@@ -44579,6 +45165,31 @@ présenter une telle mesure pour sa réinsertion.
 
 
 ##### Section 3 : Du règlement intérieur de chaque prison
+
+###### Article D255
+
+Dans chaque prison un règlement intérieur détermine le contenu du régime propre à l'établissement.
+
+Le règlement intérieur établi par le chef d'établissement, ainsi que toute modification apportée à ce document, sont transmis
+pour approbation au directeur régional, après avoir été soumis pour avis au juge de l'application des peines.
+
+Le règlement intérieur, ainsi que les modifications qui lui sont apportées, sont communiqués à la commission de surveillance.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-322 1959-02-23
+
+	**Modifié par**:
+
+	  - Décret n°72-852 1972-09-12 art. 1 JORF 20 septembre 1972 rectificatif JORF 14 octobre 1972
+	  - Décret n°86-462 1986-03-14 art. 7 JORF 16 mars 1986
+
+	**Liens**:
+
+	  - TXT_SOURCE: Code de procédure pénale 714 à 728
+
 
 ###### Article D256
 
@@ -49417,6 +50028,30 @@ port de l'uniforme.
 
 ##### Section 5 : Des renseignements concernant les détenus et de leurs relations avec le monde extérieur
 
+###### Article D427
+
+Au cas où un détenu vient à décéder, à être frappé d'une maladie mettant ses jours en danger, ou victime d'un accident grave,
+ou à être placé dans un établissement psychiatrique, sa proche famille doit en être immédiatement informée.
+
+A cet effet, chaque prisonnier est invité, lors de son écrou, à indiquer la ou les personnes qui seraient à prévenir.
+
+L'aumonier, le travailleur social et le visiteur de prison qui suivent ce détenu sont également avisés, s'il y a lieu.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-322 1959-02-23
+
+	**Modifié par**:
+
+	  - Décret n°86-462 1986-03-14 art. 12-3° JORF 16 mars 1986
+
+	**Liens**:
+
+	  - TXT_SOURCE: Code de procédure pénale 714 à 728
+
+
 ###### Article D428
 
 Les renseignements relatifs au lieu d'incarcération, à l'état de santé, à la situation pénale ou à la date de libération d'un
@@ -51987,6 +52622,31 @@ du lieu où le condamné souhaite établir sa résidence.
 	  - Code de procédure pénale D535 3° et 4°
 
 
+###### Article D527
+
+Pour faciliter le contrôle de la situation des condamnés au regard de la libération conditionnelle, un fichier est tenu dans
+tous les établissements pénitentiaires qui fait apparaître la date de leur libération et la date de l'expiration du délai
+d'épreuve.
+
+Ce fichier est présenté aux autorités judiciaires et administratives inspectant ces établissements, et spécialement au juge
+de l'application des peines.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-322 1959-02-23
+
+	**Modifié par**:
+
+	  - Décret n°73-281 1973-03-07 art. 1 JORF 16 mars 1973 rectificatif JORF 7 avril 1973
+	  - Décret n°86-462 1986-03-14 art. 8 JORF 16 mars 1986
+
+	**Liens**:
+
+	  - TXT_SOURCE: Code de procédure pénale 729 à 733-1
+
+
 ###### Article D527-1
 
 Dès lors qu'il remplit les conditions prévues par l'article 729, tout condamné peut, même s'il n'est pas sous écrou, être
@@ -52148,6 +52808,72 @@ par les oeuvres privées habilitées à cet effet.
 	  - TXT_SOURCE: Code de procédure pénale 729 à 733-1
 
 
+###### Article D533
+
+Les mesures de contrôle auxquelles le condamné doit se soumettre sont les suivantes :
+
+1° Résider au lieu fixé par la décision de libération ;
+
+2° Répondre aux convocations du juge de l'application des peines ou de l'agent de probation compétent ;
+
+3° Recevoir les visites de l'agent de probation et lui communiquer les renseignements ou documents de nature à permettre le
+contrôle de ses moyens d'existence et de l'exécution de ses obligations ;
+
+4° Prévenir l'agent de probation de ses changements d'emploi et, lorsqu'ils sont de nature à mettre obstacle à l'exécution de
+ses obligations, obtenir une autorisation préalable du juge de l'application des peines.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-322 1959-02-23
+
+	**Modifié par**:
+
+	  - Décret n°73-281 1973-03-07 art. 1 JORF 16 mars 1973 rectificatif JORF le 7 avril 1973
+	  - Décret n°85-836 1985-08-06 art. 1 JORF 8 août 1985
+	  - Décret n°86-462 1986-03-14 art. 9 JORF 16 mars 1986
+
+	**Liens**:
+
+	  - TXT_SOURCE: Code de procédure pénale 729 à 733-1
+
+
+###### Article D534
+
+Le juge de l'application des peines peut autoriser le libéré conditionnel à changer de résidence, après avoir consulté le
+juge de l'application des peines du ressort dans lequel le condamné envisage de s'établir et, dans l'hypothèse prévue au
+troisième alinéa de l'article 730, le commissaire de la République, si la résidence choisie est située dans un autre
+département.
+
+Le libéré doit obtenir l'autorisation du juge de l'application des peines préalablement à tout déplacement dont la durée
+excéderait quinze jours, ainsi que pour tout déplacement à l'étranger.
+
+L'établissement à l'étranger, s'il n'est pas prévu dans la décision de libération conditionnelle, ne peut être autorisé que
+par une modification de ladite décision dans les conditions fixées au 4ème alinéa de l'article 732.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-322 1959-02-23
+
+	**Modifié par**:
+
+	  - Décret n°72-852 1972-09-12 art. 1 JORF 20 septembre 1972 rectificatif JORF 14 octobre 1972
+	  - Décret n°73-281 1973-03-07 art. 1 JORF 16 mars 1973 rectificatif JORF 7 avril 1983
+	  - Décret n°85-836 1985-08-06 art. 1 JORF 8 août 1985
+	  - Décret n°86-462 1986-03-14 art. 12 5° JORF 16 mars 1986
+
+	**Liens**:
+
+	  - TXT_SOURCE: Code de procédure pénale 729 à 733-1
+
+	**Cite**:
+
+	  - Code de procédure pénale 730 al. 3 et 732 al. 4
+
+
 ##### Section 2 : Des conditions particulières
 
 ###### Article D535
@@ -52191,11 +52917,42 @@ territoire national et n'y plus paraître.
 	  - TXT_SOURCE: Code de procédure pénale 729 à 733-1
 
 
-#### Chapitre IV : Des comités chargés de la mise en oeuvre des mesures concernant les libérés conditionnels
+###### Article D536
 
-###### Article D538
+La décision peut, par ailleurs, subordonner l'octroi et le maintien de la liberté conditionnelle à l'observation par le
+condamné de l'une ou de plusieurs des conditions suivantes :
 
-[Article abrogé].
+1° S'abstenir de paraître en tous lieux spécialement désignés ;
+
+2° Suivre un enseignement ou une formation professionnelle ;
+
+3° Se soumettre à des mesures d'examen, de contrôle, de traitement ou de soins médicaux, même sous le régime de
+l'hospitalisation ;
+
+4° Justifier qu'il contribue aux charges familiales ou acquitte régulièrement les aliments qu'il a été condamné à payer
+conformément aux décisions judiciaires et aux conventions judiciairement homologuées portant obligation de verser des
+prestations, subsides ou contributions aux charges du mariage ;
+
+5° Payer les sommes dues à la victime de l'infraction, ses représentants légaux ou ses ayants droit ou justifier qu'il les
+acquitte en fonction de ses facultés contributives ;
+
+6° Payer les sommes dues au Trésor public à la suite de la condamnation ou justifier qu'il les acquitte en fonction de ses
+facultés contributives ;
+
+7° Ne pas conduire certains véhicules déterminés par les catégories de permis mentionnées au Code de la route et remettre
+tout permis concerné au greffe du tribunal ;
+
+8° Ne pas fréquenter les casinos, maisons de jeux et champs de courses, et ne pas engager de paris, notamment dans les
+organismes de pari mutuel ;
+
+9° Ne pas fréquenter les débits de boissons et s'abstenir de tout excès de boissons alcoolisées ;
+
+10° Ne pas fréquenter certains condamnés, notamment les auteurs ou complices de l'infraction ;
+
+11° S'abstenir d'entrer en relation avec certaines personnes, notamment la victime de l'infraction, de les recevoir ou de les
+héberger à son domicile ;
+
+12° Ne pas détenir ou porter une arme.
 
 **Liens relatifs à cet article**
 
@@ -52205,34 +52962,16 @@ territoire national et n'y plus paraître.
 
 	**Modifié par**:
 
-	  - Décret n°73-281 1973-03-07 art. 1 JORF 16 mars 1973 rectificatif JORF 7 avril 1973
+	  - Décret n°72-852 1972-09-12 JORF 20 septembre 1972 rectificatif JORF 14 octobre 1972
+	  - Décret n°73-281 1973-07-07 art. 1 JORF 16 mars 1973 rectificatif JORF 7 avril 1973
+	  - Décret n°85-836 1985-08-06 art. 1 JORF 8 août 1985
+	  - Décret n°86-462 1986-03-14 art. 10 JORF 16 mars 1986
 
-	**Abrogé par**:
+	**Cité par**:
 
-	  - Décret n°86-462 1986-03-14 art. 13 JORF 16 mars 1986
-
-	**Liens**:
-
-	  - TXT_SOURCE: Code de procédure pénale 729 à 733-1
-
-
-###### Article D539
-
-[Article abrogé].
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°59-322 1959-02-23
-
-	**Modifié par**:
-
-	  - Décret n°73-281 1973-03-07 art. 1 JORF 16 mars 1973 rectificatif JORF 7 avril 1973
-
-	**Abrogé par**:
-
-	  - Décret n°86-462 1986-03-14 art. 13 JORF 16 mars 1986
+	  - CODE DE PROCEDURE PENALE - art. D136 (M)
+	  - CODE DE PROCEDURE PENALE - art. D138 (M)
+	  - CODE DE PROCEDURE PENALE - art. D142 (M)
 
 	**Liens**:
 
@@ -52396,451 +53135,6 @@ l'application des peines et le chef de l'établissement pénitentiaire.
 
 ##### Section 2 : Des autorités chargées de contrôler le régime de la mise à l'épreuve
 
-###### Article D545
-
-[Article abrogé].
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°59-322 1959-02-23
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°59-322 1959-02-23 art. 6
-	  - TXT_SOURCE: Code de procédure pénale 734 à 747
-
-	**Abrogé par**:
-
-	  - Décret n°86-462 1986-03-14 art. 13 JORF 16 mars 1986
-
-
-###### Article D546
-
-[Article abrogé].
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°59-322 1959-02-23
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°59-322 1959-02-23 art. 6
-	  - TXT_SOURCE: Code de procédure pénale 734 à 747
-
-	**Abrogé par**:
-
-	  - Décret n°86-462 1986-03-14 art. 13 JORF 16 mars 1986
-
-
-###### Article D547
-
-[Article abrogé].
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°59-322 1959-02-23
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°59-322 1959-02-23 art. 6
-	  - TXT_SOURCE: Code de procédure pénale 734 à 747
-
-	**Abrogé par**:
-
-	  - Décret n°86-462 1986-03-14 art. 13 JORF 16 mars 1986
-
-	**Cité par**:
-
-	  - Code de la sécurité sociale. - art. D412-79 (M)
-
-
-###### Article D548
-
-[Article abrogé].
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°59-322 1959-02-23
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°59-322 1959-02-23 art. 6
-	  - TXT_SOURCE: Code de procédure pénale 734 à 747
-
-	**Abrogé par**:
-
-	  - Décret n°86-462 1986-03-14 art. 13 JORF 16 mars 1986
-
-	**Cité par**:
-
-	  - Code de la sécurité sociale. - art. D412-79 (M)
-
-
-###### Article D549
-
-[Article abrogé].
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°59-322 1959-02-23
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°59-322 1959-02-23 art. 6
-	  - TXT_SOURCE: Code de procédure pénale 734 à 747
-
-	**Abrogé par**:
-
-	  - Décret n°86-462 1986-03-14 art. 13 JORF 16 mars 1986
-
-	**Cité par**:
-
-	  - Code de la sécurité sociale. - art. D412-79 (M)
-
-
-###### Article D550
-
-[Article abrogé].
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°59-322 1959-02-23
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°59-322 1959-02-23 art. 6
-	  - TXT_SOURCE: Code de procédure pénale 734 à 747
-
-	**Abrogé par**:
-
-	  - Décret n°86-462 1986-03-14 art. 13 JORF 16 mars 1986
-
-	**Cité par**:
-
-	  - Code de la sécurité sociale. - art. D412-79 (M)
-
-
-###### Article D551
-
-[Article abrogé].
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°59-322 1959-02-23
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°59-322 1959-02-23 art. 6
-	  - TXT_SOURCE: Code de procédure pénale 734 à 747
-
-	**Abrogé par**:
-
-	  - Décret n°86-462 1986-03-14 art. 13 JORF 16 mars 1986
-
-	**Cité par**:
-
-	  - CODE DE PROCEDURE PENALE - art. A45 (M)
-	  - Code de la sécurité sociale. - art. D412-79 (M)
-
-
-###### Article D552
-
-[Article abrogé].
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°59-322 1959-02-23
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°59-322 1959-02-23 art. 6
-	  - TXT_SOURCE: Code de procédure pénale 734 à 747
-
-	**Abrogé par**:
-
-	  - Décret n°86-462 1986-03-14 art. 13 JORF 16 mars 1986
-
-
-###### Article D553
-
-[Article abrogé].
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°59-322 1959-02-23
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°59-322 1959-02-23 art. 6
-	  - TXT_SOURCE: Code de procédure pénale 734 à 747
-
-	**Abrogé par**:
-
-	  - Décret n°86-462 1986-03-14 art. 13 JORF 16 mars 1986
-
-
-###### Article D554
-
-[Article abrogé].
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°59-322 1959-02-23
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°59-322 1959-02-23 art. 6
-	  - TXT_SOURCE: Code de procédure pénale 734 à 747
-
-	**Abrogé par**:
-
-	  - Décret n°86-462 1986-03-14 art. 13 JORF 16 mars 1986
-
-
-###### Article D555
-
-[Article abrogé].
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°59-322 1959-02-23
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°59-322 1959-02-23 art. 6
-	  - TXT_SOURCE: Code de procédure pénale 734 à 747
-
-	**Abrogé par**:
-
-	  - Décret n°86-462 1986-03-14 art. 13 JORF 16 mars 1986
-
-
-###### Article D556
-
-[Article abrogé].
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°59-322 1959-02-23
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°59-322 1959-02-23 art. 6
-	  - TXT_SOURCE: Code de procédure pénale 734 à 747
-
-	**Abrogé par**:
-
-	  - Décret n°86-462 1986-03-14 art. 13 JORF 16 mars 1986
-
-
-###### Article D557
-
-[Article abrogé].
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°59-322 1959-02-23
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°59-322 1959-02-23 art. 6
-	  - TXT_SOURCE: Code de procédure pénale 734 à 747
-
-	**Abrogé par**:
-
-	  - Décret n°86-462 1986-03-14 art. 13 JORF 16 mars 1986
-
-
-###### Article D558
-
-[Article abrogé].
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°59-322 1959-02-23
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°59-322 1959-02-23 art. 6
-	  - TXT_SOURCE: Code de procédure pénale 734 à 747
-
-	**Abrogé par**:
-
-	  - Décret n°86-462 1986-03-14 art. 13 JORF 16 mars 1986
-
-
-###### Article D559
-
-[Article abrogé].
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°59-322 1959-02-23
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°59-322 1959-02-23 art. 6
-	  - TXT_SOURCE: Code de procédure pénale 734 à 747
-
-	**Abrogé par**:
-
-	  - Décret n°86-462 1986-03-14 art. 13 JORF 16 mars 1986
-
-
-###### Article D560
-
-[Article abrogé].
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°59-322 1959-02-23
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°59-322 1959-02-23 art. 6
-	  - TXT_SOURCE: Code de procédure pénale 734 à 747
-
-	**Abrogé par**:
-
-	  - Décret n°86-462 1986-03-14 art. 13 JORF 16 mars 1986
-
-
-###### Article D561
-
-[Article abrogé].
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°59-322 1959-02-23
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°59-322 1959-02-23 art. 6
-	  - TXT_SOURCE: Code de procédure pénale 734 à 747
-
-	**Abrogé par**:
-
-	  - Décret n°86-462 1986-03-14 art. 13 JORF 16 mars 1986
-
-
-###### Article D562
-
-[Article abrogé].
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°59-322 1959-02-23
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°59-322 1959-02-23 art. 6
-	  - TXT_SOURCE: Code de procédure pénale 734 à 747
-
-	**Abrogé par**:
-
-	  - Décret n°86-462 1986-03-14 art. 13 JORF 16 mars 1986
-
-	**Cité par**:
-
-	  - CODE DE PROCEDURE PENALE - art. A45 (M)
-
-
-###### Article D563
-
-[Article abrogé].
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°59-322 1959-02-23
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°59-322 1959-02-23 art. 6
-	  - TXT_SOURCE: Code de procédure pénale 734 à 747
-
-	**Abrogé par**:
-
-	  - Décret n°86-462 1986-03-14 art. 13 JORF 16 mars 1986
-
-
-###### Article D564
-
-[Article abrogé].
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°59-322 1959-02-23
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°59-322 1959-02-23 art. 6
-	  - TXT_SOURCE: Code de procédure pénale 734 à 747
-
-	**Abrogé par**:
-
-	  - Décret n°86-462 1986-03-14 art. 13 JORF 16 mars 1986
-
-
-###### Article D565
-
-[Article abrogé].
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°59-322 1959-02-23
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°59-322 1959-02-23 art. 6
-	  - TXT_SOURCE: Code de procédure pénale 734 à 747
-
-	**Abrogé par**:
-
-	  - Décret n°86-462 1986-03-14 art. 13 JORF 16 mars 1986
-
-
 ###### Article D566
 
 [Article abrogé].
@@ -52864,50 +53158,6 @@ l'application des peines et le chef de l'établissement pénitentiaire.
 
 	  - CODE DE PROCEDURE PENALE - art. D598 (Ab)
 	  - CODE DE PROCEDURE PENALE - art. D598 (M)
-
-
-###### Article D567
-
-[Article abrogé].
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°59-322 1959-02-23
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°59-322 1959-02-23 art. 6
-	  - TXT_SOURCE: Code de procédure pénale 734 à 747
-
-	**Abrogé par**:
-
-	  - Décret n°86-462 1986-03-14 art. 13 JORF 16 mars 1986
-
-	**Cité par**:
-
-	  - CODE DE PROCEDURE PENALE - art. A48 (Ab)
-
-
-###### Article D568
-
-[Article abrogé].
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°59-322 1959-02-23
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°59-322 1959-02-23 art. 6
-	  - TXT_SOURCE: Code de procédure pénale 734 à 747
-
-	**Abrogé par**:
-
-	  - Décret n°86-462 1986-03-14 art. 13 JORF 16 mars 1986
 
 
 ### Titre VI : De la contrainte par corps
