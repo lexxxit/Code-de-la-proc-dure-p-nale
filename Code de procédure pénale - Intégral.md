@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 2001-12-12
+Version Consolidée au 2001-12-16
 
 # Partie législative
 
