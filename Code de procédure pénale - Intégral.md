@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 1967-10-17
+Version Consolidée au 1968-01-01
 
 # Partie législative
 
@@ -10201,6 +10201,27 @@ Le rapporteur opine toujours le premier et le président le dernier.
 	  - Ordonnance 58-1296 1958-12-23
 
 
+###### Article 603-1
+
+Les arrêts de la Cour de cassation rendus en matière pénale mentionnent les noms du président, du rapporteur, des autres
+magistrats qui les ont rendus, de l'avocat général ainsi que des avocats qui ont postulé dans l'instance et, en outre, les
+nom, prénoms, profession, domicile des parties et les moyens produits.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 58-1296 1958-12-23
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°67-523 1967-07-03 art. 164
+
+	**Créé par**:
+
+	  - Loi n°67-523 du 3 juillet 1967 - art. 21 () JORF 4 juillet 1967 en vigueur le 1er janvier 1968
+
+
 ###### Article 604
 
 La Cour de cassation, en toute affaire criminelle, correctionnelle ou de police, peut statuer sur le pourvoi, aussitôt après
@@ -11241,6 +11262,116 @@ caractère de la pièce prétendue entachée de faux.
 	  - Code des douanes de Mayotte - art. 210 (V)
 
 
+###### Article 647
+
+La demande en inscription de faux contre une pièce produite devant la Cour de cassation est adressée au premier président.
+Elle est déposée au greffe. Elle est signée par le demandeur ou par un avocat au Conseil d'Etat et à la Cour de cassation ou
+par un fondé de pouvoir spécial. Dans ce dernier cas, le pouvoir est annexé à l'acte dressé par le greffier. Si la personne
+qui dépose la demande ne peut signer, le greffier en fait mention.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°65-523 1967-07-03 art. 164
+
+	**Codifié par**:
+
+	  - Ordonnance 58-1296 1958-12-23
+
+	**Modifié par**:
+
+	  - Loi n°67-523 1967-07-03 art. 20-I JORF 4 juillet 1967 en vigueur le 1er janvier 1968
+
+
+###### Article 647-1
+
+Le premier président statue dans le mois du dépôt de la requête au greffe, après avis du procureur général.
+
+Il rend une ordonnance de rejet ou une ordonnance portant permission de s'inscrire en faux.
+
+En cas de rejet et sauf s'il en est expressément dispensé, le demandeur est condamné au paiement d'une amende dont le taux
+est fixé par décret.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 58-1296 1958-12-23
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°67-523 1967-07-03 art. 164
+
+	**Créé par**:
+
+	  - Loi n°67-523 1967-07-03 art. 20-II JORF 4 juillet 1967 en vigueur le 1er janvier 1968
+
+
+###### Article 647-2
+
+L'ordonnance portant permission de s'inscrire en faux est signifiée au défendeur dans le délai de quinze jours, avec
+sommation de déclarer s'il entend se servir de la pièce arguée de faux.
+
+A cette sommation doit être jointe une copie de la requête et de l'ordonnance portant permission de s'inscrire en faux.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°65-523 1967-07-03 art. 164
+
+	**Codifié par**:
+
+	  - Ordonnance 58-1296 1958-12-23
+
+	**Créé par**:
+
+	  - Loi n°67-523 1967-07-03 art. 20-II JORF 4 juillet 1967 en vigueur le 1er janvier 1968
+
+
+###### Article 647-3
+
+Le défendeur doit répondre, dans un délai de quinze jours, s'il entend ou n'entend pas se servir de la pièce arguée de faux.
+
+Cette déclaration est signifiée au demandeur.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 58-1296 1958-12-23
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°67-523 1967-07-03 art. 164
+
+	**Créé par**:
+
+	  - Loi n°67-523 1967-07-03 art. 20-II JORF 4 juillet 1967 en vigueur le 1er janvier 1968
+
+
+###### Article 647-4
+
+Dans le cas où le défendeur entend se servir de la pièce arguée de faux, le premier président doit renvoyer les parties à se
+pourvoir devant telle juridiction qu'il désignera pour y être procédé, suivant la loi, au jugement de l'inscription de faux
+incident.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 58-1296 1958-12-23
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°67-523 1967-07-03 art. 164
+
+	**Créé par**:
+
+	  - Loi n°67-523 1967-07-03 art. 20-II JORF 4 juillet 1967 en vigueur le 1er janvier 1968
+
+
 ### Titre III : De la manière de procéder en cas de disparition des pièces d'une procédure
 
 ###### Article 648
@@ -11799,6 +11930,51 @@ la cour d'appel dont la décision, rendue après avis du procureur général, n'
 	**Cite**:
 
 	  - Code de procédure pénale - art. 668 (V)
+
+
+###### Article 674-1
+
+La demande en récusation d'un magistrat de la Cour de cassation, saisie en matière pénale, doit être motivée ; elle est
+déposée au greffe. Le ministère d'un avocat n'est pas obligatoire.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 58-1296 1958-12-23
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°67-523 1967-07-03 art. 164
+
+	**Créé par**:
+
+	  - Loi n°67-523 du 3 juillet 1967 - art. 22 () JORF 4 juillet 1967 en vigueur le 1er janvier 1968
+
+
+###### Article 674-2
+
+La chambre compétente statue dans le mois du dépôt de la requête au greffe, après observations du magistrat récusé.
+
+Pour le surplus, les dispositions du livre II, titre XX, du code de procédure civile seront observées.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 58-1296 1958-12-23
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°67-523 1967-07-03 art. 164
+
+	**Créé par**:
+
+	  - Loi n°67-523 du 3 juillet 1967 - art. 22 () JORF 4 juillet 1967 en vigueur le 1er janvier 1968
+
+	**Cité par**:
+
+	  - Loi n°83-520 du 27 juin 1983 - art. 53 (V)
 
 
 ### Titre VIII : Du jugement des infractions commises à l'audience des cours et tribunaux
