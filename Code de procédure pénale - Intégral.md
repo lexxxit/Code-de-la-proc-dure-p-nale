@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 1998-08-22
+Version Consolidée au 1998-10-01
 
 # Partie législative
 
@@ -36276,6 +36276,33 @@ agréées par le président du tribunal supérieur d'appel. Ces personnes sont d
 	**Modifié par**:
 
 	  - Ordonnance n°98-729 du 20 août 1998 - art. 2 () JORF 22 août 1998
+
+
+###### Article 879-1
+
+Pour l'application des dispositions des articles 20 et 21, les agents de police de la collectivité territoriale de Mayotte
+mis à la disposition de l'Etat sont assimilés, selon les dispositions et dans les conditions prévues par ces articles, aux
+agents de la police nationale.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 96-268 1996-03-28
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. 20 (M)
+	  - CODE DE PROCEDURE PENALE - art. 21 (M)
+
+	**Cité par**:
+
+	  - Code de la route. - art. L142-4-1 (V)
+	  - Code de la route. - art. L142-5 (Ab)
+
+	**Créé par**:
+
+	  - Décret n°98-728 1998-08-20 art. 3 JORF 22 août 1998 en vigueur le 1er octobre 1998
 
 
 #### Chapitre II : Des enquêtes
