@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 1994-03-01
+Version Consolidée au 1994-08-05
 
 # Partie législative
 
@@ -423,6 +423,32 @@ volontaires à la vie d'un animal prévus par le code pénal.
 	**Modifié par**:
 
 	  - Loi n°94-89 du 1 février 1994 - art. 16 () JORF 2 février 1994 en vigueur le 2 février 1994
+
+
+###### Article 2-14
+
+Toute association régulièrement déclarée se proposant par ses statuts la défense de la langue française et agréée dans les
+conditions fixées par décret en Conseil d'Etat peut exercer les droits reconnus à la partie civile en ce qui concerne les
+infractions aux dispositions des textes pris pour l'application des articles 2, 3, 4, 6, 7 et 10 de la loi n° 94-665 du 4
+août 1994 relative à l'emploi de la langue française.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°57-1426 1957-12-31
+
+	**Créé par**:
+
+	  - Loi n°94-665 du 4 août 1994 - art. 19 () JORF 5 août 1994
+
+	**Cite**:
+
+	  - Loi n°94-665 du 4 août 1994 - art. 2 (V)
+
+	**Cité par**:
+
+	  - Décret n°95-240 du 3 mars 1995 - art. 9 (V)
 
 
 ###### Article 3
@@ -1759,62 +1785,6 @@ procès-verbal.
 	  - Code rural - art. L237-13 (Ab)
 	  - Code rural ancien - art. 387 (Ab)
 	  - Code rural ancien - art. 456 (Ab)
-
-
-##### Section 5 : Des pouvoirs des préfets en matière de police judiciaire
-
-###### Article 30
-
-En matière de crimes et délits contre la sûreté de l'Etat et seulement s'il y a urgence, les préfets des départements et le
-préfet de police peuvent faire personnellement tous actes nécessaires à l'effet de constater les crimes et délits ci-dessus
-spécifiés ou requérir par écrit à cet effet les officiers de police judiciaire compétents.
-
-S'il est fait usage de ce droit en temps de paix, le préfet est tenu d'en aviser aussitôt le ministère public près la
-juridiction compétente et, dans les quarante-huit heures qui suivront l'ouverture des opérations, de transférer l'affaire à
-cette autorité en lui transmettant les pièces et en lui faisant conduire toutes les personnes appréhendées, le tout à peine
-de nullité de la procédure.
-
-Les dispositions qui précèdent ne font pas obstacle à ce que les personnes soient ensuite gardées à vue dans le cadre d'une
-enquête judiciaire. La personne appréhendée ne pourra toutefois être retenue plus de dix jours à compter de son arrestation.
-
-Tout officier de police judiciaire ayant reçu une réquisition du préfet agissant en vertu des dispositions ci-dessus, tout
-fonctionnaire à qui notification de saisie est faite en vertu des mêmes dispositions sont tenus d'en donner avis sans délai
-au ministère public près la juridiction compétente.
-
-S'il est fait usage du droit prévu à l'alinéa premier du présent article en temps de guerre, le préfet est tenu d'en aviser
-aussitôt les autorités des forces armées investies des pouvoirs judiciaires ou à défaut, et vu l'urgence, le procureur de la
-République.
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°71-706 1971-07-20 art. 4
-
-	**Codifié par**:
-
-	  - Loi n°57-1426 1957-12-31
-
-	**Modifié par**:
-
-	  - Ordonnance 60-121 1960-02-13 art. 1 JORF 14 février 1960
-	  - Ordonnance 60-529 1960-06-04 art. 8 JORF 8 juin 1960
-	  - Loi n°63-22 1963-01-15 art. 1 JORF 16 janvier 1963
-	  - Décret n°71-606 1971-07-20 art. 3 JORF 22 juillet 1971 en vigueur le 1er octobre 1971
-
-	**Cité par**:
-
-	  - Décret n°83-321 du 20 avril 1983 - art. 3 (Ab)
-	  - Loi n°93-2 du 4 janvier 1993 - art. 148 (V)
-	  - CODE DE PROCEDURE PENALE - art. 695-8 (V)
-	  - CODE DE PROCEDURE PENALE - art. D10 (M)
-	  - CODE DE PROCEDURE PENALE - art. R1 (M)
-	  - CODE DE PROCEDURE PENALE - art. R2 (T)
-	  - Code de procédure pénale - art. 39-1 (V)
-	  - Décret du 20 mai 1903 - art. 115 (Ab)
-	  - Décret du 20 mai 1903 - art. 129 (Ab)
-	  - Décret du 20 mai 1903 - art. 138 (Ab)
-	  - Décret du 20 mai 1903 - art. 170 (Ab)
 
 
 #### Chapitre II : Du ministère public
@@ -24679,94 +24649,6 @@ de cassation statuant sur la requête du ministère public ou à la demande des 
 	  - CODE PENAL - art. 133 (Ab)
 
 
-### Titre X : Des infractions commises à l'étranger
-
-###### Article 694
-
-Tout étranger qui, hors du territoire de la République, s'est rendu coupable, soit comme auteur, soit comme complice, d'un
-crime ou d'un délit attentatoire à la sûreté de l'Etat ou de contrefaçon du sceau de l'Etat, de monnaies nationales ayant
-cours ou de crime contre des agents ou des locaux diplomatiques ou consulaires français est jugé d'après les dispositions des
-lois françaises s'il est arrêté en France ou si le Gouvernement obtient son extradition. Les poursuites peuvent être engagées
-à ces fins.
-
-Lorsqu'un citoyen français s'est rendu coupable, hors du territoire de la République, soit comme auteur, soit comme complice,
-d'une infraction visée ci-dessus, cette infraction est punissable comme l'infraction commise sur ce territoire.
-
-Quiconque s'est rendu coupable comme complice, sur le territoire de la République, d'une infraction visée à l'alinéa 1er
-commise à l'étranger est punissable comme le complice visé à l'alinéa 1er.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance 58-1296 1958-12-23
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°75-624 1975-07-11 Décret fixant la date d'entrée en vigueur - absence
-
-	**Modifié par**:
-
-	  - Loi n°75-624 du 11 juillet 1975 - art. 13 () JORF 13 juillet 1975 en vigueur le 1er janvier 1976
-
-	**Abrogé par**:
-
-	  - Loi n°92-1336 du 16 décembre 1992 - art. 64 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
-
-	**Cité par**:
-
-	  - CODE PENAL - art. 133 (Ab)
-	  - Code de procédure pénale - art. 28-1 (V)
-
-
-###### Article 696
-
-Dans les cas prévus au présent titre et dans les cas de crime, délit ou contravention qui sont de la compétence des
-juridictions françaises en application d'une convention internationale, le tribunal compétent est celui du lieu où réside le
-prévenu ou celui de sa dernière résidence connue, celui du lieu où il est trouvé ou celui de la résidence de la victime de
-l'infraction. A défaut de tout autre tribunal, le tribunal compétent est celui de Paris.
-
-La Cour de cassation peut, sur la demande du ministère public ou des parties, renvoyer la connaissance de l'affaire devant
-une cour ou un tribunal plus voisin du lieu du crime ou du délit.
-
-Dans le cas de crimes ou de délits mentionnés aux articles 697-1 et 702 qui sont de la compétence des juridictions établies
-sur le territoire de la République, la juridiction territorialement compétente est celle prévue par l'article 697-3. A défaut
-de toute autre juridiction, la juridiction compétente est celle prévue par cet article siégeant dans le ressort de la cour
-d'appel de Paris.
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Ordonnance n°45-174 du 2 février 1945 - art. 7 (M)
-	  - Loi n°2013-711 du 5 août 2013 - art. 27 (V)
-	  - CODE PENAL - art. 133 (Ab)
-
-	**Codifié par**:
-
-	  - Ordonnance 58-1296 1958-12-23
-
-	**Modifié par**:
-
-	  - Loi n°75-624 du 11 juillet 1975 - art. 14 () JORF 13 juillet 1975
-	  - Loi n°82-621 du 21 juillet 1982 - art. 2 () JORF 22 juillet 1982 en vigueur le 1er janvier 1983
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°82-621 1982-07-21 art. 14
-	  - SPEC_APPLI: Décret n°82-1146 1982-12-29
-
-	**Abrogé par**:
-
-	  - Loi n°92-1336 du 16 décembre 1992 - art. 64 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
-
-	**Cite**:
-
-	  - CODE DE PROCEDURE PENALE - art. 697-1 (M)
-	  - CODE DE PROCEDURE PENALE - art. 697-3 (M)
-	  - CODE DE PROCEDURE PENALE - art. 702 (M)
-
-
 ### Titre XI : Des crimes et des délits en matière militaire et des crimes et délits contre les intérêts fondamentaux de la nation
 
 #### Chapitre Ier : De la poursuite, de l'instruction et du jugement des crimes et délits en matière militaire en temps de paix
@@ -36038,258 +35920,6 @@ Le délégué à la liberté surveillée désigné par ce magistrat exerce alors
 	  - Code de procédure pénale - art. R289 (V)
 
 
-#### Chapitre II : De sursis avec mise à l'épreuve
-
-##### Section 5 : Dispositions diverses
-
-###### Article R61
-
-Pendant le temps de sa présence sous les drapeaux, le condamné placé sous le régime de la mise à l'épreuve est soustrait aux
-mesures de surveillance et d'assistance, et le cas échéant, aux obligations imposées spécialement par l'arrêt ou le jugement.
-
-Dès son retour à la vie civile, il doit se présenter au juge de l'application des peines de sa résidence, si le délai de mise
-à l'épreuve n'est pas expiré.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°59-318 1959-02-23
-
-	**Créé par**:
-
-	  - Décret n°59-318 1959-02-23 JORF 25 février 1959 en vigueur le 2 mars 1959 rectificatif JORF 13 juin 1959
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°59-318 1959-02-23 art. 5
-	  - TXT_SOURCE: CODE DE PROCEDURE PENALE - art. 739 (M)
-
-	**Abrogé par**:
-
-	  - Décret n°93-726 1993-03-29 art. 9 JORF 30 mars 1993 en vigueur le 1er mars 1994
-
-	**Cité par**:
-
-	  - CODE DE PROCEDURE PENALE - art. R61-4 (V)
-
-
-### Titre V : Le travail d'intérêt général
-
-#### Chapitre Ier : Modalités d'habilitation des associations et d'établissement de la liste des travaux d'intérêt général
-
-##### Section 1 : Des modalités d'habilitation des associations
-
-###### Article R61-1
-
-Les associations qui désirent obtenir l'habilitation prévue par l'article 43-3-5 du Code pénal et l'article 747-7 du Code de
-procédure pénale en font la demande au juge de l'application des peines du ressort dans lequel elles envisagent de mettre en
-oeuvre des travaux d'intérêt général.
-
-La demande comporte :
-
-1° La copie du Journal officiel portant publication de la déclaration de l'association ou, pour les associations déclarées
-dans les départements du Bas-Rhin, du Haut-Rhin et de la Moselle, une copie du registre des associations du tribunal
-d'instance ;
-
-2° Un exemplaire des statuts et, s'il y a lieu, du règlement intérieur de l'association ;
-
-3° La liste des établissements de l'association avec indication de leur siège ;
-
-4° Un exposé indiquant les conditions de fonctionnement de l'association et, le cas échéant, l'organisation et les conditions
-de fonctionnement des comités locaux, ainsi que leurs rapports avec l'association ; 
-
-5° La mention des nom, prénoms, date et lieu de naissance, nationalité, profession et domicile des membres du conseil
-d'administration et du bureau de l'association ainsi que, le cas échéant, ceux de leurs représentants locaux ;
-
-6° Les pièces financières qui doivent comprendre les comptes du dernier exercice, le budget de l'exercice courant et un bilan
-ou un état de l'actif mobilier et immobilier et du passif.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°59-318 1959-02-23
-
-	**Créé par**:
-
-	  - Décret n°83-1163 1983-12-23 art. 1 et art. 2 JORF 27 décembre 1983 en vigueur le 1er janvier 1984
-
-	**Abrogé par**:
-
-	  - Décret n°93-726 1993-03-29 art. 9 JORF 30 mars 1993 en vigueur le 1er mars 1994
-
-	**Cite**:
-
-	  - Code pénal 43-3-5
-	  - CODE DE PROCEDURE PENALE - art. 747-7 (Ab)
-
-	**Cité par**:
-
-	  - CODE DE PROCEDURE PENALE - art. R61-4 (M)
-
-
-###### Article R61-2
-
-Le juge de l'application des peines procède à toutes diligences qu'il juge utiles. Il consulte le conseil départemental de
-prévention de la délinquance prévu par le décret n° 83-459 du 8 juin 1983 qui a trois mois pour donner son avis. Il
-communique ensuite la demande d'habilitation au président du tribunal.
-
-L'assemblée générale des magistrats du siège et du parquet du tribunal statue sur la demande d'habilitation [*compétence*],
-après rapport du juge de l'application des peines et à la majorité des membres présents.
-
-La commission restreinte de l'assemblée générale des magistrats du siège et du parquet, dans les tribunaux où sa constitution
-est obligatoire, exerce les attributions mentionnées à l'alinéa précédent.
-
-L'habilitation accordée est valable pour une durée de trois ans.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°59-318 1959-02-23
-
-	**Cite**:
-
-	  - Décret n°83-459 1983-06-08
-
-	**Créé par**:
-
-	  - Décret n°83-1163 1983-12-23 art. 1 et art. 2 JORF 27 décembre 1983 en vigueur le 1er janvier 1984
-
-	**Abrogé par**:
-
-	  - Décret n°93-726 1993-03-29 art. 9 JORF 30 mars 1993 en vigueur le 1er mars 1994
-
-	**Cité par**:
-
-	  - CODE DE PROCEDURE PENALE - art. R61-5 (M)
-
-
-###### Article R61-3
-
-En cas d'urgence ou à titre probatoire, le juge de l'application des peines peut, sur proposition ou après avis conforme du
-procureur de la République, habiliter provisoirement l'association.
-
-L'habilitation provisoire accordée en raison de l'urgence est valable jusqu'à la décision de la prochaine assemblée générale
-ou commission restreinte. Celle accordée à titre probatoire est valable pour une durée non renouvelable qui est fixée par le
-juge de l'application des peines dans la limite d'un an.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°59-318 1959-02-23
-
-	**Créé par**:
-
-	  - Décret n°83-1163 1983-12-23 art. 1 et art. 2 JORF 27 décembre 1983 en vigueur le 1er janvier 1984
-
-	**Abrogé par**:
-
-	  - Décret n°93-726 1993-03-29 art. 9 JORF 30 mars 1993 en vigueur le 1er mars 1994
-
-	**Cité par**:
-
-	  - Code de procédure pénale - art. R61-4 (V)
-
-
-###### Article R61-4
-
-L'association habilitée porte à la connaissance du juge de l'application des peines toute modification de l'un des éléments
-mentionnés à l'article R. 61-1. Elle est tenue de faire parvenir chaque année le budget et ses comptes.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°59-318 1959-02-23
-
-	**Créé par**:
-
-	  - Décret n°83-1163 1983-12-23 art. 1 et art. 2 JORF 27 décembre 1983 en vigueur le 1er janvier 1984
-
-	**Abrogé par**:
-
-	  - Décret n°93-726 1993-03-29 art. 9 JORF 30 mars 1993 en vigueur le 1er mars 1994
-
-	**Cite**:
-
-	  - CODE DE PROCEDURE PENALE - art. R61-1 (M)
-
-
-###### Article R61-5
-
-L'habilitation peut être retirée selon la procédure prévue par l'article R. 61-2.
-
-Le procureur de la République peut saisir l'assemblée générale des magistrats du siège et du parquet du tribunal ou la
-commission restreinte aux fins de retrait de l'habilitation.
-
-En cas d'urgence, le juge de l'application des peines peut, sur proposition ou après avis conforme du procureur de la
-République, retirer provisoirement l'habilitation jusqu'à la décision de la prochaine assemblée générale ou commission
-restreinte.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°59-318 1959-02-23
-
-	**Créé par**:
-
-	  - Décret n°83-1163 1983-12-23 art. 1 et art. 2 JORF 27 décembre 1983 en vigueur le 1er janvier 1984
-
-	**Abrogé par**:
-
-	  - Décret n°93-726 1993-03-29 art. 9 JORF 30 mars 1993 en vigueur le 1er mars 1994
-
-	**Cite**:
-
-	  - CODE DE PROCEDURE PENALE - art. R61-2 (M)
-
-	**Cité par**:
-
-	  - Code de la santé publique - art. R355-55 (Ab)
-	  - Code de la santé publique - art. R3711-24 (V)
-
-
-##### Section 2 : De l'établissement de la liste des travaux d'intérêt général
-
-###### Article R61-6
-
-Les collectivités publiques, les établissements publics et les associations qui désirent faire inscrire des travaux d'intérêt
-général sur la liste prévue par les articles 43-3-5 du Code pénal et 747-7 du Code de procédure pénale en font la demande au
-juge de l'application des peines du ressort dans lequel ils envisagent de faire exécuter ces travaux.
-
-Pour les collectivités publiques et les établissements publics, la demande mentionne les nom, prénoms, date et lieu de
-naissance ainsi que les fonctions des représentants qualifiés.
-
-Pour les associations qui ne sont pas encore habilitées, la demande prévue par l'alinéa 1er du présent article est jointe à
-la demande d'habilitation. Pour les associations déjà habilitées, elle comporte mention de la date de cette habilitation.
-
-A la demande est annexée une note indiquant la nature et les modalités d'exécution des travaux proposés, les nom et qualité
-des personnes chargées de l'encadrement technique ainsi que le nombre de postes de travail susceptibles d'être offerts.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°59-318 1959-02-23
-
-	**Créé par**:
-
-	  - Décret n°83-1163 1983-12-23 art. 1 et art. 2 JORF 27 décembre 1983 en vigueur le 1er janvier 1984
-
-	**Abrogé par**:
-
-	  - Décret n°93-726 1993-03-29 art. 9 JORF 30 mars 1993 en vigueur le 1er mars 1994
-
-	**Cite**:
-
-	  - Code pénal 43-3-5
-	  - CODE DE PROCEDURE PENALE - art. 747-7 (Ab)
-
-
 ### Titre VIII : Du casier judiciaire
 
 #### Chapitre Ier : De l'organisation des services du casier judiciaire
@@ -45715,51 +45345,6 @@ ainsi que, s'il y a lieu, aux modalités de versement de son salaire.
 	**Abrogé par**:
 
 	  - Décret n°98-1099 du 8 décembre 1998 - art. 197 (V) JORF 9 décembre 1998
-
-
-##### Paragraphe 3 : Placement à l'extérieur sans surveillance du personnel pénitentiaire
-
-###### Article D136
-
-[Article abrogé]
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°59-322 1959-02-23
-
-	**Modifié par**:
-
-	  - Décret n°60-898 1960-08-24 art. 1 JORF 25 août 1960
-	  - Décret n°72-852 1972-09-12 art. 1 JORF 20 septembre 1972 rectificatif JORF 14 octobre 1972
-
-	**Abrogé par**:
-
-	  - Décret n°86-462 1986-03-14 art. 13 JORF 16 mars 1986
-
-	**Cité par**:
-
-	  - CODE DE PROCEDURE PENALE - art. D120 (Ab)
-	  - CODE DE PROCEDURE PENALE - art. D143-1 (M)
-	  - CODE DE PROCEDURE PENALE - art. D454 (V)
-	  - CODE DE PROCEDURE PENALE - art. D70 (M)
-	  - Code de procédure pénale - art. D121-1 (V)
-	  - Code de procédure pénale - art. D122 (V)
-	  - Code de procédure pénale - art. D128 (V)
-	  - Code de procédure pénale - art. D143 (VD)
-	  - Code de procédure pénale - art. D143-3 (V)
-	  - Code de procédure pénale - art. D143-4 (V)
-	  - Code de procédure pénale - art. D270 (V)
-	  - Code de procédure pénale - art. D340 (Ab)
-	  - Code de procédure pénale - art. D436-2 (Ab)
-	  - Code de procédure pénale - art. D438-1 (Ab)
-	  - Code de procédure pénale - art. D458 (T)
-	  - Code de procédure pénale - art. D72-1 (V)
-
-	**Liens**:
-
-	  - TXT_SOURCE: Code de procédure pénale 714 à 728
 
 
 ##### Paragraphe 4 : Régime de semi-liberté
