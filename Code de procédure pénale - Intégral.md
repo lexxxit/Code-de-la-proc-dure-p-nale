@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 1979-02-08
+Version Consolidée au 1979-03-25
 
 # Partie législative
 
@@ -22454,6 +22454,73 @@ Si le travail doit être refait, toute rémunération peut être refusée.
 	  - Code de procédure pénale - art. R340 (V)
 
 
+###### Article R110
+
+Lorsque les experts se déplacent, il leur est alloué, sur justification, une indemnité de transport qui est calculée ainsi
+qu'il suit :
+
+1° Si le voyage est fait par chemin de fer, l'indemnité est égale au prix d'un billet de première classe, tant à l'aller
+qu'au retour ;
+
+2° Si le voyage est fait par un autre service de transport en commun, l'indemnité est égale au prix d'un voyage, d'après le
+tarif de ce service, tant à l'aller qu'au retour ;
+
+3° Si le voyage n'est pas fait par l'un des moyens visés ci-dessus, l'indemnité est fixée selon les taux prévus pour les
+déplacements des personnels civils de l'Etat utilisant leur voiture personnelle ;
+
+4° Si le voyage est fait par mer, il est accordé, sur le vu du duplicata du billet de voyage délivré par la compagnie de
+navigation, le remboursement du prix de passage en 1ère classe ordinaire, tant à l'aller qu'au retour ;
+
+5° Si le voyage est fait par air, il est accordé, sur le vu du billet de voyage délivré par la compagnie aérienne, le
+remboursement du prix de passage sur la base du tarif de la classe la plus économique.
+
+Les experts titulaires de permis de circulation ou jouissant, à titre personnel ou en raison de leur emploi, de réductions de
+tarifs n'ont pas droit au remboursement des frais de transport pour la partie correspondant à l'exonération dont ils
+bénéficient.
+
+Les demandes de remboursement de frais de transport doivent être obligatoirement accompagnées d'une déclaration des
+intéressés certifiant qu'ils ne bénéficient pas, à quelque titre que ce soit, d'avantages de tarifs ou, dans le cas
+contraire, qu'ils ne bénéficient pas d'autres avantages que ceux dont il est fait état dans la demande.
+
+Si le déplacement d'un expert chargé de plusieurs missions est opéré au cours de la même journée sur le territoire de
+plusieurs communes situées dans la même direction, le mémoire doit être établi d'après la distance de sa résidence à la
+commune la plus éloignée.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-318 1959-02-23
+
+	**Créé par**:
+
+	  - Décret n°59-318 1959-02-23 JORF 25 février 1959 en vigueur le 2 mars 1959 rectificatif JORF 13 juin 1959
+
+	**Modifié par**:
+
+	  - Décret n°61-448 1961-05-08 art. 1 JORF 9 mai 1961
+	  - Décret n°67-62 1967-01-14 art. 1 JORF 20 janvier 1967
+	  - Décret n°72-436 1972-05-29 art. 1 JORF 30 mai 1972
+	  - Décret n°79-235 1979-03-19 art. 1 JORF 25 mars 1979
+
+	**Liens**:
+
+	  - TXT_SOURCE: CODE DE PROCEDURE PENALE - art. 800 (M)
+
+	**Cité par**:
+
+	  - CODE DE PROCEDURE PENALE - art. R122 (V)
+	  - CODE DE PROCEDURE PENALE - art. R323 (M)
+	  - Code de la route. - art. R235-12 (VD)
+	  - Code de la route. - art. R245-2 (VD)
+	  - Code de la santé publique - art. R3354-17 (VD)
+	  - Code de procédure pénale - art. R317 (Ab)
+	  - Code de procédure pénale - art. R329 (V)
+	  - Code de procédure pénale - art. R405 (Ab)
+	  - Code de procédure pénale - art. R414 (V)
+	  - Code des débits de boissons et des mesures contre  - art. R*29 (Ab)
+
+
 ###### Article R111
 
 Il est alloué aux experts qui se déplacent une indemnité journalière de séjour calculée suivant la réglementation relative
@@ -22606,6 +22673,262 @@ Toutefois, le montant total des acomptes ne pourra pas dépasser le tiers du mon
 	**Modifié par**:
 
 	  - Décret n°74-88 1974-05-24 art. 1 JORF 28 mai 1974
+
+
+##### B : Dispositions spéciales
+
+##### b) Médecine légale
+
+###### Article R116-1
+
+Les tarifs d'honoraires correspondant aux actes d'expertise prévus par les articles R. 117 à R. 120 sont déterminés par
+référence aux tarifs conventionnels d'honoraires fixés en application des articles L. 262 et L. 267 du Code de la sécurité
+sociale et sont calculés, pour chacun de ces actes, d'après leur nature et leur valeur relative telles qu'elles résultent des
+cotations par lettres clés et coefficients mentionnées dans les articles suivants.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-318 1959-02-23
+
+	**Créé par**:
+
+	  - Décret n°79-235 1979-03-19 art. 2 JORF 25 mars 1979
+
+	**Cité par**:
+
+	  - Arrêté du 2 septembre 2008 - art. 4 (V)
+	  - CODE DE PROCEDURE PENALE - art. A43-6 (M)
+	  - Code de procédure pénale - art. R320 (M)
+	  - Code de procédure pénale - art. R406 (V)
+
+	**Liens**:
+
+	  - TXT_SOURCE: CODE DE PROCEDURE PENALE - art. 800 (M)
+
+	**Cite**:
+
+	  - Code de procédure pénale R117 à R120
+	  - Code de la sécurité sociale L262 et L267
+
+
+###### Article R117
+
+Chaque médecin régulièrement requis ou commis reçoit à titre d'honoraires une somme calculée en fonction des cotations
+suivantes [*lettres clés et coefficients*] :
+
+1° a) Pour une visite judiciaire comportant un ou plusieurs examens et le dépôt d'un rapport ... C 2,5
+
+b) Pour une visite judiciaire comportant un ou plusieurs examens d'une victime, la fixation des taux d'incapacité et le dépôt
+d'un rapport ... C 3,5
+
+c) Pour l'examen clinique et la prise de sang prévus aux articles R. 20 à R. 25 du Code des débits de boissons :
+
+- auxquels il est procédé entre 7 heures et 22 heures ... C 1,5
+
+- auxquels il est procédé entre 22 heures et 7 heures ... C 1,5 (plus une indemnité de 70 F).
+
+- auxquels il est procédé les dimanches et jours fériés ... C 1,5 (plus une indemnité de 50 F).
+
+d) Pour chaque examen prévu par l'article L. 627-1 du Code de la santé publique ... C 2
+
+2° Pour un transport sur les lieux et description de cadavre ... C 2,5
+
+Lorsque ces opérations sont effectuées par l'expert qui procède ultérieurement à l'autopsie ... C 1,5
+
+3° Pour autopsie avant inhumation ... Cs 6
+
+4° Pour autopsie après exhumation ou autopsie de cadavre en état de décomposition avancée ... Cs 10
+
+5° Pour autopsie de cadavre de nouveau-né avant inhumation ... Cs 3
+
+6° Pour autopsie de cadavre de nouveau-né après exhumation ou autopsie de cadavre de nouveau-né en état de décomposition
+avancée ... Cs 5
+
+7° Pour une expertise psychologique comportant un ou plusieurs examens :
+
+- pratiquée par un médecin ... K 36
+
+- pratiquée par un psychologue agréé ... 50 % du tarif ci-dessus
+
+8° Pour une expertise médico-psychologique comportant un ou plusieurs examens ... CNPSY 5
+
+9° Pour une expertise psychiatrique comportant un ou plusieurs examens ... CNPSY 5.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-318 1959-02-23
+
+	**Créé par**:
+
+	  - Décret n°59-318 1959-02-23 JORF 25 février 1959 en vigueur le 2 mars 1959 rectificatif JORF 13 juin 1959
+
+	**Modifié par**:
+
+	  - Décret n°60-897 1960-08-24 art. 1 JORF 25 août 1960
+	  - Décret n°67-62 1967-01-14 art. 1 JORF 20 janvier 1967
+	  - Décret n°72-436 1972-05-29 art. 1 JORF 30 mai 1972
+	  - Décret n°79-235 1979-03-19 art. 3 JORF 25 mars 1979
+
+	**Cité par**:
+
+	  - Décret n°2004-530 du 10 juin 2004 - art. 16 (V)
+	  - CODE DE PROCEDURE PENALE - art. D47-24 (VD)
+	  - CODE DE PROCEDURE PENALE - art. R321 (Ab)
+	  - Code de la route. - art. R235-12 (M)
+	  - Code de la route. - art. R245-2 (M)
+	  - Code de la santé publique - art. R3354-17 (VD)
+	  - Code de procédure pénale - art. A43-6 (V)
+	  - Code de procédure pénale - art. R116-1 (Ab)
+	  - Code de procédure pénale - art. R251 (VT)
+	  - Code de procédure pénale - art. R320 (V)
+	  - Code de procédure pénale - art. R93-2 (V)
+	  - Code de procédure pénale - art. R93-3 (V)
+	  - Code des débits de boissons et des mesures contre  - art. R*29 (Ab)
+
+	**Liens**:
+
+	  - TXT_SOURCE: CODE DE PROCEDURE PENALE - art. 800 (M)
+
+	**Cite**:
+
+	  - Code des débits de boissons R20 à R25
+	  - Code de la santé publique - art. L627-1 (M)
+
+
+##### c) Toxicologie
+
+###### Article R118
+
+Les analyses toxicologiques sont ainsi cotées, pour chaque expert, lorsque les dosages de plusieurs éléments ne peuvent être
+groupés en une seule opération :
+
+1° Pour recherche et dosage de l'alcool dans le sang ... B 50
+
+2° Dosage de l'oxycarbonémie ... B 50
+
+3° Dosage de l'oxyde de carbone dans l'atmosphère ... B 50
+
+4° Dosage de la benzolémie ... B 70
+
+5° Recherche et dosage du trichloréthylène et de l'acide trichloracétique ... B 70
+
+6° Recherche et dosage d'un élément toxique dans les viscères ... B 220
+
+7° Expertise toxicologique complète ... B 1500
+
+8° Recherche et dosage des amphétamines dans le sang ou les urines ... B 60 9° Recherche et dosage des stupéfiants dans le
+sang ou les urines ... B 150.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-318 1959-02-23
+
+	**Créé par**:
+
+	  - Décret n°59-318 1959-02-23 JORF 25 février 1959 en vigueur le 2 mars 1959 rectificatif JORF 13 juin 1959
+
+	**Modifié par**:
+
+	  - Décret n°67-62 1967-01-14 art. 1 JORF 20 janvier 1967
+	  - Décret n°72-436 1972-05-29 art. 1 JORF 30 mai 1972
+	  - Décret n°79-235 1979-03-19 art. 4 JORF 25 mars 1979
+
+	**Cité par**:
+
+	  - Décret n°2016-1152 du 24 août 2016 - art. 1
+	  - Code de la route. - art. R235-12 (VD)
+	  - Code de la route. - art. R245-2 (VD)
+	  - Code de la santé publique - art. R3354-17 (VD)
+	  - Code de procédure pénale - art. A38-6 (V)
+	  - Code des débits de boissons et des mesures contre  - art. R*29 (Ab)
+
+	**Liens**:
+
+	  - TXT_SOURCE: CODE DE PROCEDURE PENALE - art. 800 (M)
+
+
+##### d) Biologie
+
+###### Article R119
+
+Il est alloué à chaque expert régulièrement requis ou commis :
+
+Pour caractériser des produits biologiques, dans les cas simples, une somme calculée en fonction de la cotation : B 50.
+
+**Nota:**
+
+Conformément aux dispositions du I de l'article 9 du décret n° 2017-248 du 27 février 2017, ces dispositions sont abrogées à
+une date fixée par l'arrêté auquel renvoient les dispositions de l'article R. 118 du code de procédure pénale, et au plus
+tard le 30 septembre 2017.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-318 1959-02-23
+
+	**Créé par**:
+
+	  - Décret n°59-318 1959-02-23 JORF 25 février 1959 en vigueur le 2 mars 1959 rectificatif JORF 13 juin 1959
+
+	**Modifié par**:
+
+	  - Décret n°67-62 1967-01-14 art. 1 JORF 20 janvier 1967
+	  - Décret n°79-235 1979-03-19 art. 5 JORF 25 mars 1979
+
+	**Abrogé par**:
+
+	  - Décret n°2017-248 du 27 février 2017 - art. 2
+
+	**Liens**:
+
+	  - TXT_SOURCE: CODE DE PROCEDURE PENALE - art. 800 (M)
+
+
+##### e) Radiodiagnostic
+
+###### Article R120
+
+Il est alloué à chaque médecin expert ou radiologiste qualifié, régulièrement requis ou commis :
+
+1° Lorsqu'il s'agit d'examen radiographique ou radioscopique d'une personne vivante, des honoraires calculés en fonction des
+cotations fixées dans la troisième partie de la nomenclature générale des actes professionnels des médecins ... Z
+
+2° Lorsqu'il s'agit de la localisation de corps étrangers dans un cadavre, des honoraires calculés en fonction de la
+cotation ... Z 20
+
+3° Lorsqu'il s'agit de la localisation de corps étrangers dans un cadre putréfié, des honoraires calculés en fonction de la
+cotation ... Z 35.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-318 1959-02-23
+
+	**Créé par**:
+
+	  - Décret n°59-318 1959-02-23 JORF 25 février 1959 en vigueur le 2 mars 1959 rectificatif JORF 13 juin 1959
+
+	**Modifié par**:
+
+	  - Décret n°67-62 1967-01-14 art. 1 JORF 20 janvier 1967
+	  - Décret n°72-436 1972-05-29 art. 1 JORF 30 mai 1972
+	  - Décret n°79-235 1979-03-19 art. 6 JORF 25 mars 1979
+
+	**Liens**:
+
+	  - TXT_SOURCE: CODE DE PROCEDURE PENALE - art. 800 (M)
+
+	**Cité par**:
+
+	  - Code de procédure pénale - art. A43-6 (V)
 
 
 ##### Paragraphe 2 : Des personnes chargées des enquêtes sociales et de personnalité ou contribuant au contrôle judiciaire
