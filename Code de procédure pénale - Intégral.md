@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 2001-07-11
+Version Consolidée au 2001-07-13
 
 # Partie législative
 
@@ -37166,1075 +37166,6 @@ d'une télécopie avec récépissé.
 
 ### Titre Ier : Dispositions applicables en Nouvelle-Calédonie et dans les territoires de la Polynésie française et des îles Wallis-et-Futuna.
 
-#### Chapitre IV : Des enquêtes
-
-###### Article 812
-
-Pour l'application des articles 63, 77 et 154, lorsque les conditions de transport ne permettent pas de conduire devant le
-magistrat compétent la personne retenue, l'officier de police judiciaire peut prescrire à cette personne de se présenter à
-lui périodiquement, à charge d'en informer immédiatement le magistrat compétent. Ce dernier décide de la mainlevée de la
-mesure ou de son maintien pour une durée qu'il fixe et qui ne peut se prolonger au-delà du jour de la première liaison
-aérienne ou maritime.
-
-Le fait de se soustraire à l'obligation définie au précédent alinéa est puni d'un an de prison et 100 000 F d'amende.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance 96-268 1996-03-28
-
-	**Modifié par**:
-
-	  - Loi n°99-1121 1999-12-28 art. 2 JORF 29 décembre 1999
-
-	**Cite**:
-
-	  - CODE DE PROCEDURE PENALE - art. 154 (M)
-	  - CODE DE PROCEDURE PENALE - art. 63 (M)
-	  - CODE DE PROCEDURE PENALE - art. 77 (M)
-
-
-###### Article 813
-
-Dans le territoire de la Polynésie française, en l'absence d'un médecin dans l'île où se déroule la garde à vue, l'examen
-prévu par l'article 63-3 est effectué par un infirmier diplômé ou, à défaut, par un membre du corps des auxiliaires de santé
-publique.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance 96-268 1996-03-28
-
-	**Modifié par**:
-
-	  - Loi n°99-1121 1999-12-28 art. 2 JORF 29 décembre 1999
-
-	**Cite**:
-
-	  - CODE DE PROCEDURE PENALE - art. 63-3 (M)
-
-	**Cité par**:
-
-	  - CODE DE PROCEDURE PENALE - art. 865 (V)
-
-
-###### Article 814
-
-En Nouvelle-Calédonie, lorsque la garde à vue se déroule en dehors des communes de Nouméa, Mont-Doré, Dumbea et Paita et que
-le déplacement d'un avocat paraît matériellement impossible, l'entretien prévu au premier alinéa de l'article 63-4 peut avoir
-lieu avec une personne choisie par la personne gardée à vue, qui n'est pas mise en cause pour les mêmes faits ou pour des
-faits connexes et qui n'a fait l'objet d'aucune condamnation, incapacité ou déchéance mentionnée au bulletin n° 2 du casier
-judiciaire. Les dispositions des deuxième et quatrième alinéas de l'article 63-4 sont applicables à la personne choisie, qui
-en est informée par l'officier de police judiciaire.
-
-Le fait pour une personne, qui a été appelée à intervenir dans les conditions prévues à l'alinéa précédent, de faire état
-auprès de quiconque de cet entretien dans le but d'entraver le cours de la justice est puni d'un an d'emprisonnement et 100
-000 F d'amende.
-
-Les dispositions des alinéas précédents s'appliquent dans le territoire de la Polynésie française, lorsque la garde à vue se
-déroule dans une île où il n'y a pas d'avocat et que le déplacement d'un avocat paraît matériellement impossible.
-
-Dans les territoires des îles Wallis-et-Futuna, il peut être fait appel pour l'entretien prévu au premier alinéa de l'article
-63-4 à une personne agréée par le président du tribunal de première instance. Lorsque cette personne n'est pas désignée par
-la personne gardée à vue, elle l'est d'office par le président de cette juridiction. Les dispositions des deuxième au
-quatrième alinéas de l'article 63-4 et celles du deuxième alinéa du présent article sont applicables à la personne choisie,
-qui en est informée par l'officier de police judiciaire.
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Ordonnance n°92-1147 du 12 octobre 1992 - art. 23-2 (V)
-	  - Code de procédure pénale - art. 842 (V)
-
-	**Codifié par**:
-
-	  - Ordonnance 96-268 1996-03-28
-
-	**Modifié par**:
-
-	  - Loi n°99-1121 1999-12-28 art. 2 JORF 29 décembre 1999
-
-	**Cite**:
-
-	  - CODE DE PROCEDURE PENALE - art. 63-4 (M)
-
-
-#### Chapitre VI : De la cour d'assises
-
-###### Article 825
-
-Par dérogation à l'article 236, la tenue des assises a lieu chaque fois qu'il est nécessaire.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance 96-268 1996-03-28
-
-	**Modifié par**:
-
-	  - Loi n°99-1121 1999-12-28 art. 2 JORF 29 décembre 1999
-
-	**Cite**:
-
-	  - CODE DE PROCEDURE PENALE - art. 236 (M)
-
-
-###### Article 826
-
-Pour l'application de l'article 244, et sous réserve de l'application des dispositions de l'article 247, la cour d'assises
-peut également être présidée par le président du tribunal de première instance ou par le magistrat du siège le plus ancien
-dans le grade le plus élevé de ce tribunal.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance 96-268 1996-03-28
-
-	**Modifié par**:
-
-	  - Loi n°99-1121 1999-12-28 art. 2 JORF 29 décembre 1999
-
-	**Cite**:
-
-	  - CODE DE PROCEDURE PENALE - art. 244 (V)
-	  - CODE DE PROCEDURE PENALE - art. 247 (V)
-
-
-###### Article 827
-
-Pour l'application des articles 245 et 250, il est procédé annuellement à la désignation du président de la cour d'assises et
-des assesseurs.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance 96-268 1996-03-28
-
-	**Modifié par**:
-
-	  - Loi n°99-1121 1999-12-28 art. 2 JORF 29 décembre 1999
-
-	**Cite**:
-
-	  - CODE DE PROCEDURE PENALE - art. 245 (V)
-	  - CODE DE PROCEDURE PENALE - art. 250 (V)
-
-
-###### Article 828
-
-Le 8° de l'article 256 est rédigé comme suit :
-
-" 8° Les majeurs sous sauvegarde de justice, les majeurs en tutelle, les majeurs en curatelle et ceux qui sont placés dans un
-établissement accueillant les malades atteints de troubles mentaux en vertu des dispositions applicables localement. "
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance 96-268 1996-03-28
-
-	**Modifié par**:
-
-	  - Loi n°99-1121 1999-12-28 art. 2 JORF 29 décembre 1999
-
-	**Cite**:
-
-	  - CODE DE PROCEDURE PENALE - art. 256 (M)
-
-
-###### Article 829
-
-Sans préjudice de l'application de l'article 257, les fonctions de juré sont également incompatibles avec les fonctions
-suivantes : assesseurs du tribunal du travail ; assesseurs du tribunal mixte de commerce ; assesseurs du tribunal de première
-instance de Wallis-et-Futuna ; membres du gouvernement de la Polynésie française ; membres des assemblées territoriales ;
-membres du conseil du territoire des îles Wallis-et-Futuna ; membres des assemblées provinciales de la Nouvelle-Calédonie ;
-représentants de l'Etat dans les territoires ; secrétaires généraux des territoires ; chefs de circonscription ou de
-subdivision administratives.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance 96-268 1996-03-28
-
-	**Modifié par**:
-
-	  - Loi n°99-1121 1999-12-28 art. 2 JORF 29 décembre 1999
-
-	**Cite**:
-
-	  - CODE DE PROCEDURE PENALE - art. 257 (M)
-
-
-###### Article 830
-
-Le nombre minimum de jurés prévus par le premier alinéa de l'article 260 est fixé à 80 pour le territoire des îles Wallis-et-
-Futuna.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance 96-268 1996-03-28
-
-	**Modifié par**:
-
-	  - Loi n°99-1121 1999-12-28 art. 2 JORF 29 décembre 1999
-
-	**Cite**:
-
-	  - CODE DE PROCEDURE PENALE - art. 260 (M)
-
-
-###### Article 831
-
-Dans le territoire des îles Wallis-et-Futuna, la liste préparatoire de la liste annuelle, prévue par les articles 261 et
-261-1, est dressée par circonscription territoriale et les attributions du maire sont exercées par le chef de circonscription
-administrative.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance 96-268 1996-03-28
-
-	**Modifié par**:
-
-	  - Loi n°99-1121 1999-12-28 art. 2 JORF 29 décembre 1999
-
-	**Cite**:
-
-	  - CODE DE PROCEDURE PENALE - art. 261 (V)
-	  - CODE DE PROCEDURE PENALE - art. 261-1 (V)
-
-
-###### Article 832
-
-I. - Pour l'application en Nouvelle-Calédonie et dans le territoire de la Polynésie française du deuxième alinéa de l'article
-262 fixant la composition de la commission prévue à cet article, les conseillers généraux sont remplacés par cinq membres
-désignés chaque année en son sein par le Congrès ou l'assemblée de la Polynésie française.
-
-II. - Dans le territoire des îles Wallis-et-Futuna, la commission prévue à l'article 262 comprend :
-
-- le président du tribunal de première instance, président ;
-
-- le procureur de la République ou son délégué ;
-
-- un citoyen désigné dans les conditions définies à l'article L. 933-2 du code de l'organisation judiciaire ;
-
-- deux membres de l'assemblée territoriale désignés chaque année par celle-ci.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance 96-268 1996-03-28
-
-	**Modifié par**:
-
-	  - Loi n°99-1121 1999-12-28 art. 2 JORF 29 décembre 1999
-
-	**Cite**:
-
-	  - CODE DE PROCEDURE PENALE - art. 262 (V)
-	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L933-2 (M)
-
-
-###### Article 833
-
-La liste spéciale de jurés suppléants, prévue à l'article 264, comprend trente noms dans le territoire des îles Wallis-et-
-Futuna.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance 96-268 1996-03-28
-
-	**Modifié par**:
-
-	  - Loi n°99-1121 1999-12-28 art. 2 JORF 29 décembre 1999
-
-	**Cite**:
-
-	  - CODE DE PROCEDURE PENALE - art. 264 (M)
-
-
-###### Article 834
-
-Pour l'application de l'article 269, l'accusé peut être transféré dans un établissement pénitentiaire autre qu'une maison
-d'arrêt.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance 96-268 1996-03-28
-
-	**Modifié par**:
-
-	  - Loi n°99-1121 1999-12-28 art. 2 JORF 29 décembre 1999
-
-	**Cite**:
-
-	  - CODE DE PROCEDURE PENALE - art. 269 (M)
-
-
-### Titre III : Dispositions particulières à la collectivité territoriale de Saint-Pierre-et-Miquelon
-
-###### Article 902-1
-
-Pour l'application du présent code dans la collectivité territoriale de Saint-Pierre-et-Miquelon, il est tenu compte des
-adaptations prévues par le présent titre.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance 96-268 1996-03-28
-
-	**Créé par**:
-
-	  - Loi n°99-1121 1999-12-28 art. 10 JORF 29 décembre 1999
-
-
-#### Chapitre Ier : Dispositions générales
-
-###### Article 903
-
-Le tribunal supérieur d'appel exerce les compétences attribuées par le présent code à la cour d'appel et à la chambre de
-l'instruction.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance 96-268 1996-03-28
-
-	**Modifié par**:
-
-	  - Loi n°2000-516 du 15 juin 2000 - art. 83 () JORF 16 juin 2000 en vigueur le 1er janvier 2001
-
-
-###### Article 904
-
-Les compétences attribuées par le présent code au tribunal de grande instance, à la cour d'assises, au premier président de
-la cour d'appel et au juge du tribunal d'instance sont exercées respectivement par le tribunal de première instance, le
-tribunal criminel, le président du tribunal supérieur d'appel et par un juge du tribunal de première instance. Les
-compétences attribuées au procureur de la République et au procureur général près la cour d'appel sont exercées par le
-procureur de la République près le tribunal supérieur d'appel.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance 96-268 1996-03-28
-
-	**Modifié par**:
-
-	  - Loi n°99-1121 1999-12-28 art. 2 JORF 29 décembre 1999
-
-	**Cité par**:
-
-	  - Loi n°2004-204 du 9 mars 2004 - art. 220 (V)
-
-
-###### Article 905
-
-Les attributions dévolues par le présent code aux avocats et aux conseils des parties peuvent être exercées par des personnes
-agréées dans la collectivité territoriale par le président du tribunal supérieur d'appel. Ces personnes sont dispensées de
-justifier d'un mandat.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance 96-268 1996-03-28
-
-	**Modifié par**:
-
-	  - Loi n°99-1121 1999-12-28 art. 2 JORF 29 décembre 1999
-
-	**Cité par**:
-
-	  - Loi n°2004-204 du 9 mars 2004 - art. 220 (V)
-	  - Décret n°2005-163 du 23 février 2005 - art. 2 (V)
-	  - Décret n°2006-385 du 30 mars 2006 - art. 23 (V)
-	  - CODE DE PROCEDURE PENALE - art. 917 (V)
-
-
-#### Chapitre II : De l'exercice de l'action publique
-
-###### Article 906
-
-Par dérogation à l'article 193, le tribunal supérieur d'appel, en tant que chambre de l'instruction, ne se réunit que sur
-convocation de son président ou à la demande du procureur de la République, toutes les fois qu'il est nécessaire.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance 96-268 1996-03-28
-
-	**Modifié par**:
-
-	  - Loi n°2000-516 du 15 juin 2000 - art. 83 () JORF 16 juin 2000 en vigueur le 1er janvier 2001
-
-	**Cite**:
-
-	  - CODE DE PROCEDURE PENALE - art. 193 (M)
-
-
-###### Article 907
-
-Les articles L. 952-11 et L. 952-12 du code de l'organisation judiciaire relatifs au remplacement du président du tribunal
-supérieur d'appel et des assesseurs et aux modalités particulières d'exercice des fonctions juridictionnelles sont
-applicables à la chambre de l'instruction et à son président.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance 96-268 1996-03-28
-
-	**Modifié par**:
-
-	  - Loi n°2000-516 du 15 juin 2000 - art. 83 () JORF 16 juin 2000 en vigueur le 1er janvier 2001
-
-	**Cite**:
-
-	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L952-11 (M)
-	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L952-12 (Ab)
-
-
-#### Chapitre III : Des juridictions de jugement
-
-##### Section 1 : Du jugement des crimes
-
-###### Article 908
-
-Les articles 233, 245, 261 et 261-1 du présent code ne sont pas applicables.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance 96-268 1996-03-28
-
-	**Modifié par**:
-
-	  - Loi n°99-1121 1999-12-28 art. 2 JORF 29 décembre 1999
-
-	**Cite**:
-
-	  - CODE DE PROCEDURE PENALE - art. 233 (V)
-	  - CODE DE PROCEDURE PENALE - art. 245 (V)
-	  - CODE DE PROCEDURE PENALE - art. 261 (V)
-	  - CODE DE PROCEDURE PENALE - art. 261-1 (V)
-
-
-###### Article 909
-
-Pour l'application de l'article 236, le président du tribunal supérieur d'appel convoque, en cas de besoin, le tribunal
-criminel par ordonnance prise après avis du procureur de la République.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance 96-268 1996-03-28
-
-	**Modifié par**:
-
-	  - Loi n°99-1121 1999-12-28 art. 2 JORF 29 décembre 1999
-
-	**Cite**:
-
-	  - CODE DE PROCEDURE PENALE - art. 236 (M)
-
-
-###### Article 910
-
-Pour l'application de l'article 240, le tribunal criminel est composé du tribunal proprement dit et du jury.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance 96-268 1996-03-28
-
-	**Modifié par**:
-
-	  - Loi n°99-1121 1999-12-28 art. 2 JORF 29 décembre 1999
-
-	**Cite**:
-
-	  - CODE DE PROCEDURE PENALE - art. 240 (V)
-
-
-###### Article 911
-
-Pour l'application de l'article 243, le tribunal proprement dit comprend le président et les assesseurs.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance 96-268 1996-03-28
-
-	**Modifié par**:
-
-	  - Loi n°99-1121 1999-12-28 art. 2 JORF 29 décembre 1999
-
-	**Cite**:
-
-	  - CODE DE PROCEDURE PENALE - art. 243 (V)
-
-
-###### Article 912
-
-Pour l'application de l'article 244, le tribunal criminel est présidé par le président du tribunal supérieur d'appel.
-
-En cas de vacance de poste, d'absence, d'empêchement ou d'incompatibilité légale, les fonctions de président du tribunal
-supérieur d'appel sont exercées par un magistrat du siège désigné par le premier président de la cour d'appel de Paris sur
-une liste arrêtée par lui pour chaque année civile.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance 96-268 1996-03-28
-
-	**Modifié par**:
-
-	  - Loi n°99-1121 1999-12-28 art. 2 JORF 29 décembre 1999
-
-	**Cite**:
-
-	  - CODE DE PROCEDURE PENALE - art. 244 (V)
-
-
-###### Article 913
-
-Pour l'application de l'article 249, les conditions que doivent remplir les assesseurs au tribunal criminel sont celles
-énoncées à l'article L. 951-2 du code de l'organisation judiciaire.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance 96-268 1996-03-28
-
-	**Modifié par**:
-
-	  - Loi n°99-1121 1999-12-28 art. 2 JORF 29 décembre 1999
-
-	**Cite**:
-
-	  - CODE DE PROCEDURE PENALE - art. 249 (V)
-	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L951-2 (Ab)
-
-
-###### Article 914
-
-Pour l'application de l'article 250, les assesseurs sont désignés par ordonnance du président du tribunal supérieur d'appel,
-après avis du procureur de la République.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance 96-268 1996-03-28
-
-	**Modifié par**:
-
-	  - Loi n°99-1121 1999-12-28 art. 2 JORF 29 décembre 1999
-
-	**Cite**:
-
-	  - CODE DE PROCEDURE PENALE - art. 250 (V)
-
-
-###### Article 915
-
-Pour l'application de l'article 251, en cas d'empêchement survenu avant ou au cours de la session, les assesseurs sont
-remplacés par ordonnance du président du tribunal supérieur d'appel.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance 96-268 1996-03-28
-
-	**Modifié par**:
-
-	  - Loi n°99-1121 1999-12-28 art. 2 JORF 29 décembre 1999
-
-	**Cite**:
-
-	  - CODE DE PROCEDURE PENALE - art. 251 (V)
-
-
-###### Article 916
-
-Pour l'application de l'alinéa 1er de l'article 260, le nombre des jurés ne peut être inférieur à trente-quatre.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance 96-268 1996-03-28
-
-	**Modifié par**:
-
-	  - Loi n°99-1121 1999-12-28 art. 2 JORF 29 décembre 1999
-
-	**Cite**:
-
-	  - CODE DE PROCEDURE PENALE - art. 260 (M)
-
-
-###### Article 917
-
-Pour l'application de l'article 262, la commission comprend :
-
-- le président du tribunal supérieur d'appel, président ;
-
-- le président du tribunal de première instance ;
-
-- le procureur de la République ou son suppléant ;
-
-- une personne agréée dans les conditions définies à l'article 905 et désignée par le président du tribunal supérieur
-d'appel ;
-
-- trois conseillers généraux désignés chaque année par le conseil général ;
-
-- trois conseillers municipaux désignés chaque année par les conseils municipaux, à raison de deux pour la commune de Saint-
-Pierre et un pour la commune de Miquelon-Langlade.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance 96-268 1996-03-28
-
-	**Modifié par**:
-
-	  - Loi n°99-1121 1999-12-28 art. 2 JORF 29 décembre 1999
-
-	**Cite**:
-
-	  - CODE DE PROCEDURE PENALE - art. 262 (V)
-	  - CODE DE PROCEDURE PENALE - art. 905 (M)
-
-
-###### Article 918
-
-Pour l'application de l'article 264, une liste spéciale de dix jurés suppléants est formée chaque année, en dehors de la
-liste annuelle du jury et dans les mêmes conditions que celle-ci.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance 96-268 1996-03-28
-
-	**Modifié par**:
-
-	  - Loi n°99-1121 1999-12-28 art. 2 JORF 29 décembre 1999
-
-	**Cite**:
-
-	  - CODE DE PROCEDURE PENALE - art. 264 (M)
-
-
-###### Article 919
-
-Pour l'application de l'article 266, seize jurés, dont les noms sont tirés sur la liste annuelle, forment la liste de la
-session. En outre, les noms de trois jurés suppléants sont tirés sur la liste spéciale.
-
-Si par suite des décès, des incapacités ou des incompatibilités légales survenues depuis l'établissement des listes, le
-nombre des citoyens parmi lesquels les jurés de la session doivent être tirés au sort est inférieur à trente, la commission
-chargée de dresser la liste annuelle des jurés est réunie de nouveau pour compléter la liste principale et former une
-nouvelle liste spéciale de dix citoyens.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance 96-268 1996-03-28
-
-	**Modifié par**:
-
-	  - Loi n°99-1121 1999-12-28 art. 2 JORF 29 décembre 1999
-
-	**Cite**:
-
-	  - CODE DE PROCEDURE PENALE - art. 266 (M)
-
-
-###### Article 920
-
-Pour l'application du premier alinéa de l'article 289-1, si, à la suite des absences ou des radiations, il reste moins de
-quatorze jurés sur la liste, ce nombre est complété par les jurés suppléants, suivant l'ordre de leur inscription ; en cas
-d'insuffisance, par des jurés tirés au sort, en audience publique, parmi les jurés inscrits sur la liste spéciale.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance 96-268 1996-03-28
-
-	**Modifié par**:
-
-	  - Loi n°99-1121 1999-12-28 art. 2 JORF 29 décembre 1999
-
-	**Cite**:
-
-	  - CODE DE PROCEDURE PENALE - art. 289-1 (M)
-
-
-###### Article 921
-
-Pour l'application des articles 296 et 297, le jury de jugement est formé de quatre jurés lorsque le tribunal criminel statue
-en premier ressort et de six jurés lorsqu'il statue en appel.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance 96-268 1996-03-28
-
-	**Modifié par**:
-
-	  - Loi n°2000-516 du 15 juin 2000 - art. 136 () JORF 16 juin 2000 en vigueur le 1er janvier 2001
-
-	**Cite**:
-
-	  - CODE DE PROCEDURE PENALE - art. 296 (M)
-	  - CODE DE PROCEDURE PENALE - art. 297 (M)
-
-
-###### Article 922
-
-Pour l'application de l'article 298, l'accusé et le ministère public ne peuvent récuser chacun plus de quatre jurés.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance 96-268 1996-03-28
-
-	**Modifié par**:
-
-	  - Loi n°99-1121 1999-12-28 art. 2 JORF 29 décembre 1999
-
-	**Cite**:
-
-	  - CODE DE PROCEDURE PENALE - art. 298 (M)
-
-
-###### Article 923
-
-Les majorités de huit ou dix voix prévues par les articles 359 et 362, deuxième alinéa, sont remplacées par des majorités de
-quatre ou cinq voix.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance 96-268 1996-03-28
-
-	**Modifié par**:
-
-	  - Loi n°2000-516 du 15 juin 2000 - art. 136 () JORF 16 juin 2000 en vigueur le 1er janvier 2001
-
-	**Cite**:
-
-	  - CODE DE PROCEDURE PENALE - art. 359 (M)
-	  - CODE DE PROCEDURE PENALE - art. 362 (M)
-
-
-##### Section 2 : Du jugement des délits
-
-###### Article 924
-
-Pour l'application de l'article 398, le tribunal correctionnel est toujours composé du président ou d'un juge du tribunal de
-première instance.
-
-Les articles L. 952-6 et L. 952-7 du code de l'organisation judiciaire relatifs au remplacement de ces magistrats et aux
-modalités particulières d'exercice des fonctions juridictionnelles sont applicables au tribunal correctionnel.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance 96-268 1996-03-28
-
-	**Modifié par**:
-
-	  - Loi n°99-1121 1999-12-28 art. 2 JORF 29 décembre 1999
-
-	**Cite**:
-
-	  - CODE DE PROCEDURE PENALE - art. 398 (M)
-	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L952-6 (Ab)
-	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L952-7 (V)
-
-
-###### Article 925
-
-Les articles 398-1 et 398-2 du présent code ne sont pas applicables.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance 96-268 1996-03-28
-
-	**Modifié par**:
-
-	  - Loi n°99-1121 1999-12-28 art. 2 JORF 29 décembre 1999
-
-	**Cite**:
-
-	  - CODE DE PROCEDURE PENALE - art. 398-1 (M)
-	  - CODE DE PROCEDURE PENALE - art. 398-2 (M)
-
-
-###### Article 926
-
-Pour l'application du premier alinéa de l'article 399, le président du tribunal supérieur d'appel, après avis du président du
-tribunal de première instance et du procureur de la République, fixe par ordonnance, pendant la première quinzaine du mois de
-décembre, le nombre des audiences correctionnelles pour l'année judiciaire suivante.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance 96-268 1996-03-28
-
-	**Modifié par**:
-
-	  - Loi n°99-1121 1999-12-28 art. 2 et 10 JORF 29 décembre 1999
-
-	**Cite**:
-
-	  - CODE DE PROCEDURE PENALE - art. 399 (M)
-
-
-###### Article 927
-
-Pour l'application des articles 491 et 492, les délais d'opposition sont de dix jours si le prévenu réside dans la
-collectivité territoriale et d'un mois s'il réside en dehors de celle-ci.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance 96-268 1996-03-28
-
-	**Modifié par**:
-
-	  - Loi n°99-1121 1999-12-28 art. 2 JORF 29 décembre 1999
-
-	**Cite**:
-
-	  - CODE DE PROCEDURE PENALE - art. 491 (V)
-	  - CODE DE PROCEDURE PENALE - art. 492 (M)
-
-
-###### Article 928
-
-Pour l'application de l'article 510, la chambre des appels correctionnels est composée du président du tribunal supérieur
-d'appel ainsi que de deux assesseurs figurant sur la liste prévue à l'article L. 951-3 du code de l'organisation judiciaire.
-
-Les articles L. 952-10 et L. 952-11 du code de l'organisation judiciaire relatifs au remplacement du président du tribunal
-supérieur d'appel et des assesseurs et aux modalités particulières d'exercice des fonctions juridictionnelles sont
-applicables à la chambre des appels correctionnels.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance 96-268 1996-03-28
-
-	**Modifié par**:
-
-	  - Loi n°99-1121 1999-12-28 art. 2 JORF 29 décembre 1999
-
-	**Cite**:
-
-	  - CODE DE PROCEDURE PENALE - art. 510 (V)
-	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L951-3 (V)
-	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L952-10 (Ab)
-	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L952-11 (M)
-
-
-###### Article 928-1
-
-Pour l'application du premier alinéa de l'article 511, le président du tribunal supérieur d'appel, après avis du procureur de
-la République, fixe par ordonnance, pendant la première quinzaine du mois de décembre, le nombre des audiences
-correctionnelles pour l'année judiciaire suivante.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance 96-268 1996-03-28
-
-	**Créé par**:
-
-	  - Loi n°99-1121 1999-12-28 art. 10 JORF 29 décembre 1999
-
-	**Cite**:
-
-	  - CODE DE PROCEDURE PENALE - art. 511 (M)
-
-
-###### Article 929
-
-Pour l'application de l'article 513, l'appel est jugé sur le rapport oral du président.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance 96-268 1996-03-28
-
-	**Modifié par**:
-
-	  - Loi n°99-1121 1999-12-28 art. 2 JORF 29 décembre 1999
-
-	**Cite**:
-
-	  - CODE DE PROCEDURE PENALE - art. 513 (M)
-
-
-##### Section 3 : Du jugement des contraventions
-
-###### Article 930
-
-Pour l'application de l'article 523, le procureur de la République occupe le siège du ministère public devant le tribunal de
-police.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance 96-268 1996-03-28
-
-	**Modifié par**:
-
-	  - Loi n°99-1121 1999-12-28 art. 2 JORF 29 décembre 1999
-
-	**Cite**:
-
-	  - CODE DE PROCEDURE PENALE - art. 523 (M)
-
-
-###### Article 931
-
-Les articles L. 952-6 et L. 952-7 du code de l'organisation judiciaire relatifs au remplacement des magistrats du tribunal de
-première instance et aux modalités particulières d'exercice des fonctions juridictionnelles sont applicables au tribunal de
-police.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance 96-268 1996-03-28
-
-	**Modifié par**:
-
-	  - Loi n°99-1121 1999-12-28 art. 2 JORF 29 décembre 1999
-
-	**Cite**:
-
-	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L952-6 (Ab)
-	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L952-7 (V)
-
-
-##### Section 4 : Des citations et significations
-
-###### Article 932
-
-Le délai prévu au premier alinéa de l'article 552 s'applique lorsque la partie citée réside dans la collectivité
-territoriale. Le délai est augmenté d'un mois si la partie citée réside en tout autre lieu du territoire de la République.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance 96-268 1996-03-28
-
-	**Modifié par**:
-
-	  - Loi n°99-1121 1999-12-28 art. 2 JORF 29 décembre 1999
-
-	**Cite**:
-
-	  - CODE DE PROCEDURE PENALE - art. 552 (M)
-
-
-##### Section 5 : Des recours en indemnité
-
-###### Article 933
-
-Par dérogation aux dispositions des deuxième et troisième alinéas de l'article 706-4, le président du tribunal de première
-instance exerce les attributions dévolues à la commission d'indemnisation.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance 96-268 1996-03-28
-
-	**Modifié par**:
-
-	  - Loi n°99-1121 1999-12-28 art. 2 JORF 29 décembre 1999
-
-	**Cite**:
-
-	  - CODE DE PROCEDURE PENALE - art. 706-4 (M)
-
-
-##### Section 6 : De l'exécution des sentences pénales
-
-###### Article 934
-
-Par dérogation aux dispositions des deuxième et troisième alinéas de l'article 709-1, le président du tribunal de première
-instance exerce les fonctions de juge de l'application des peines.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance 96-268 1996-03-28
-
-	**Modifié par**:
-
-	  - Loi n°99-1121 1999-12-28 art. 2 JORF 29 décembre 1999
-
-	**Cité par**:
-
-	  - Décret n°2006-385 du 30 mars 2006 - art. 23 (V)
-
-	**Cite**:
-
-	  - CODE DE PROCEDURE PENALE - art. 709-1 (M)
-
-
-## Livre VI : Dispositions relatives aux territoires d'outre-mer, à la Nouvelle-Calédonie et aux collectivités territoriales de Mayotte et Saint-Pierre-et-Miquelon
-
-### Titre Ier : Dispositions applicables en Nouvelle-Calédonie et dans les territoires de la Polynésie française et des îles Wallis-et-Futuna
-
 #### Chapitre Ier : Dispositions générales
 
 ###### Article 804
@@ -38251,7 +37182,7 @@ prévues au présent titre.
 
 	**Modifié par**:
 
-	  - Loi n°99-1121 1999-12-28 art. 2 JORF 29 décembre 1999
+	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 	**Cite**:
 
@@ -38275,7 +37206,7 @@ les références à des dispositions applicables localement ayant le même objet
 
 	**Modifié par**:
 
-	  - Loi n°99-1121 1999-12-28 art. 2 JORF 29 décembre 1999
+	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 	**Cité par**:
 
@@ -38286,7 +37217,7 @@ les références à des dispositions applicables localement ayant le même objet
 ###### Article 806
 
 Dans les territoires d'outre-mer et en Nouvelle-Calédonie, les sanctions pécuniaires encourues en vertu du présent code sont
-prononcées en monnaie locale, compte tenu de la contre-valeur du franc métropolitain dans cette monnaie.
+prononcées en monnaie locale, compte tenu de la contre-valeur de l'euro dans cette monnaie.
 
 **Liens relatifs à cet article**
 
@@ -38294,13 +37225,13 @@ prononcées en monnaie locale, compte tenu de la contre-valeur du franc métropo
 
 	  - Ordonnance 96-268 1996-03-28
 
-	**Modifié par**:
-
-	  - Loi n°99-1121 1999-12-28 art. 2 JORF 29 décembre 1999
-
 	**Cité par**:
 
 	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 16 (V)
+
+	**Modifié par**:
+
+	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 
 #### Chapitre II : De l'action publique et de l'action civile
@@ -38323,7 +37254,7 @@ matière de droit du travail. "
 
 	**Modifié par**:
 
-	  - Loi n°99-1121 1999-12-28 art. 2 JORF 29 décembre 1999
+	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 	**Cite**:
 
@@ -38349,7 +37280,7 @@ l'accessibilité des locaux d'habitation, des lieux de travail ou des établisse
 
 	**Modifié par**:
 
-	  - Loi n°99-1121 1999-12-28 art. 2 JORF 29 décembre 1999
+	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 	**Cite**:
 
@@ -38378,7 +37309,7 @@ prêtent serment devant le tribunal de première instance.
 
 	**Modifié par**:
 
-	  - Loi n°99-1121 1999-12-28 art. 2 JORF 29 décembre 1999
+	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 	**Cité par**:
 
@@ -38391,11 +37322,15 @@ prêtent serment devant le tribunal de première instance.
 
 ###### Article 809-1
 
-Pour l'application de l'article 41-2, les références aux articles 28 et 32 (2°) du décret-loi du 18 avril 1939 fixant le
-régime des matériels de guerre, armes et munitions et à l'article L. 1er du code de la route sont remplacées par les
-références aux dispositions applicables localement qui répriment la détention ou le port d'arme et aux dispositions
-applicables localement en matière de circulation routière qui répriment la conduite sous l'empire d'un état alcoolique ou en
-état d'ivresse manifeste.
+Pour l'application de l'article 41-2, les références aux articles L. 2339-5 et L. 2339-9 du code de la défense et à l'article
+L. 1er du code de la route (1) sont remplacées par les références aux dispositions applicables localement qui répriment la
+détention ou le port d'arme et aux dispositions applicables localement en matière de circulation routière qui répriment la
+conduite sous l'empire d'un état alcoolique ou en état d'ivresse manifeste.
+
+**Nota:**
+
+(1) Aux termes de l'ordonnance n° 2000-930 du 22 septembre 2000, article 2, les mots " à l'article L. 1er du code de la
+route" sont remplacés par les mots "aux articles L. 234-1 et suivants du code de la route".
 
 **Liens relatifs à cet article**
 
@@ -38405,13 +37340,13 @@ applicables localement en matière de circulation routière qui répriment la co
 
 	**Modifié par**:
 
-	  - Loi n°99-1121 1999-12-28 art. 2 JORF 29 décembre 1999
+	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 	**Cite**:
 
 	  - CODE DE PROCEDURE PENALE - art. 41-2 (M)
 	  - Code de la route L1
-	  - Décret-loi 1939-04-18 art. 28, art. 32
+	  - Code de la route - art. L1 (Ab)
 
 
 ###### Article 810
@@ -38428,12 +37363,12 @@ des gardes particuliers assermentés.
 
 	**Modifié par**:
 
-	  - Loi n°99-1121 1999-12-28 art. 2 JORF 29 décembre 1999
+	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 	**Cite**:
 
-	  - CODE DE PROCEDURE PENALE - art. 45 (M)
-	  - CODE DE PROCEDURE PENALE - art. 809 (M)
+	  - Code de procédure pénale - art. 45 (VT)
+	  - Code de procédure pénale - art. 809 (V)
 
 	**Cité par**:
 
@@ -38443,7 +37378,7 @@ des gardes particuliers assermentés.
 ###### Article 811
 
 Pour l'application du premier alinéa de l'article 46 et de l'article 48, les fonctions du ministère public peuvent également
-être exercées par un officier de police judiciaire appartenant à la gendarmerie.
+être exercées par un officier de police judiciaire appartenant à la gendarmerie. 
 
 Pour l'application du deuxième alinéa de l'article 46, les fonctions du ministère public peuvent être également exercées par
 le chef de la circonscription ou de la subdivision administrative où siège le tribunal de police.
@@ -38456,16 +37391,112 @@ le chef de la circonscription ou de la subdivision administrative où siège le 
 
 	**Modifié par**:
 
-	  - Loi n°99-1121 1999-12-28 art. 2 JORF 29 décembre 1999
-
-	**Cite**:
-
-	  - CODE DE PROCEDURE PENALE - art. 46 (M)
-	  - CODE DE PROCEDURE PENALE - art. 48 (M)
+	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 	**Cité par**:
 
 	  - CODE DE PROCEDURE PENALE - art. 848 (M)
+
+	**Cite**:
+
+	  - Code de procédure pénale - art. 46 (VT)
+	  - Code de procédure pénale - art. 48 (VT)
+
+
+#### Chapitre IV : Des enquêtes
+
+###### Article 812
+
+Pour l'application des articles 63, 77 et 154, lorsque les conditions de transport ne permettent pas de conduire devant le
+magistrat compétent la personne retenue, l'officier de police judiciaire peut prescrire à cette personne de se présenter à
+lui périodiquement, à charge d'en informer immédiatement le magistrat compétent. Ce dernier décide de la mainlevée de la
+mesure ou de son maintien pour une durée qu'il fixe et qui ne peut se prolonger au-delà du jour de la première liaison
+aérienne ou maritime.
+
+Le fait de se soustraire à l'obligation définie au précédent alinéa est puni d'un an de prison et 15 000 euros d'amende.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 96-268 1996-03-28
+
+	**Modifié par**:
+
+	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. 154 (M)
+	  - CODE DE PROCEDURE PENALE - art. 63 (M)
+	  - CODE DE PROCEDURE PENALE - art. 77 (M)
+
+
+###### Article 813
+
+Dans le territoire de la Polynésie française, en l'absence d'un médecin dans l'île où se déroule la garde à vue, l'examen
+prévu par l'article 63-3 est effectué par un infirmier diplômé ou, à défaut, par un membre du corps des auxiliaires de santé
+publique.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 96-268 1996-03-28
+
+	**Modifié par**:
+
+	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+	**Cité par**:
+
+	  - CODE DE PROCEDURE PENALE - art. 865 (V)
+
+	**Cite**:
+
+	  - Code de procédure pénale - art. 63-3 (V)
+
+
+###### Article 814
+
+En Nouvelle-Calédonie, lorsque la garde à vue se déroule en dehors des communes de Nouméa, Mont-Doré, Dumbea et Paita et que
+le déplacement d'un avocat paraît matériellement impossible, l'entretien prévu au premier alinéa de l'article 63-4 peut avoir
+lieu avec une personne choisie par la personne gardée à vue, qui n'est pas mise en cause pour les mêmes faits ou pour des
+faits connexes et qui n'a fait l'objet d'aucune condamnation, incapacité ou déchéance mentionnée au bulletin n° 2 du casier
+judiciaire. Les dispositions des deuxième et quatrième alinéas de l'article 63-4 sont applicables à la personne choisie, qui
+en est informée par l'officier de police judiciaire.
+
+Le fait pour une personne, qui a été appelée à intervenir dans les conditions prévues à l'alinéa précédent, de faire état
+auprès de quiconque de cet entretien dans le but d'entraver le cours de la justice est puni d'un an d'emprisonnement et 15
+000 euros d'amende.
+
+Les dispositions des alinéas précédents s'appliquent dans le territoire de la Polynésie française, lorsque la garde à vue se
+déroule dans une île où il n'y a pas d'avocat et que le déplacement d'un avocat paraît matériellement impossible.
+
+Dans les territoires des îles Wallis-et-Futuna, il peut être fait appel pour l'entretien prévu au premier alinéa de l'article
+63-4 à une personne agréée par le président du tribunal de première instance. Lorsque cette personne n'est pas désignée par
+la personne gardée à vue, elle l'est d'office par le président de cette juridiction. Les dispositions des deuxième au
+quatrième alinéas de l'article 63-4 et celles du deuxième alinéa du présent article sont applicables à la personne choisie,
+qui en est informée par l'officier de police judiciaire.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Ordonnance n°92-1147 du 12 octobre 1992 - art. 23-2 (V)
+	  - Code de procédure pénale - art. 842 (V)
+
+	**Codifié par**:
+
+	  - Ordonnance 96-268 1996-03-28
+
+	**Modifié par**:
+
+	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. 63-4 (M)
 
 
 #### Chapitre V : Des juridictions d'instruction
@@ -38483,7 +37514,7 @@ applicable localement.
 
 	**Modifié par**:
 
-	  - Loi n°99-1121 1999-12-28 art. 2 JORF 29 décembre 1999
+	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 	**Cite**:
 
@@ -38503,11 +37534,11 @@ territoires d'outre-mer et la Nouvelle-Calédonie, d'une adresse située dans le
 
 	**Modifié par**:
 
-	  - Loi n°99-1121 1999-12-28 art. 2 JORF 29 décembre 1999
+	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 	**Cite**:
 
-	  - CODE DE PROCEDURE PENALE - art. 89 (V)
+	  - Code de procédure pénale - art. 89 (V)
 
 
 ###### Article 817
@@ -38523,11 +37554,11 @@ en usage dans le territoire. Il est, dans ce cas, dispensé du serment.
 
 	**Modifié par**:
 
-	  - Loi n°99-1121 1999-12-28 art. 2 JORF 29 décembre 1999
+	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 	**Cite**:
 
-	  - CODE DE PROCEDURE PENALE - art. 102 (M)
+	  - Code de procédure pénale - art. 102 (V)
 
 
 ###### Article 818
@@ -38543,11 +37574,11 @@ l'article 116 s'entend d'une adresse située dans le territoire où se déroule 
 
 	**Modifié par**:
 
-	  - Loi n°99-1121 1999-12-28 art. 2 JORF 29 décembre 1999
+	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 	**Cite**:
 
-	  - CODE DE PROCEDURE PENALE - art. 116 (M)
+	  - Code de procédure pénale - art. 116 (VT)
 
 
 ###### Article 819
@@ -38563,11 +37594,11 @@ juge d'instruction saisi.
 
 	**Modifié par**:
 
-	  - Loi n°99-1121 1999-12-28 art. 2 JORF 29 décembre 1999
+	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 	**Cite**:
 
-	  - CODE DE PROCEDURE PENALE - art. 116-1 (Ab)
+	  - Code de procédure pénale - art. 116-1 (V)
 
 
 ###### Article 820
@@ -38585,7 +37616,7 @@ a lieu, sur la durée de la peine.
 
 	**Modifié par**:
 
-	  - Loi n°99-1121 1999-12-28 art. 2 JORF 29 décembre 1999
+	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 	**Cite**:
 
@@ -38606,7 +37637,7 @@ territoire d'outre-mer ou de la Nouvelle-Calédonie.
 
 	**Modifié par**:
 
-	  - Loi n°99-1121 1999-12-28 art. 2 JORF 29 décembre 1999
+	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 	**Cite**:
 
@@ -38625,7 +37656,7 @@ Pour l'application des articles 128 et 132, la personne peut être retenue dans 
 
 	**Modifié par**:
 
-	  - Loi n°99-1121 1999-12-28 art. 2 JORF 29 décembre 1999
+	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 	**Cite**:
 
@@ -38637,7 +37668,7 @@ Pour l'application des articles 128 et 132, la personne peut être retenue dans 
 
 Pour l'application des dispositions de l'article 145 dans le territoire des îles Wallis-et-Futuna, le juge d'instruction peut
 ordonner l'incarcération provisoire de la personne mise en examen. Celle-ci doit comparaître devant le juge des libertés et
-de la détention dans les meilleurs délais et, au plus tard, le septième jour ouvrable suivant.
+de la détention dans les meilleurs délais et, au plus tard, le septième jour ouvrable suivant. 
 
 Le délai prévu au deuxième alinéa de l'article 187-1 est également porté à sept jours ouvrables.
 
@@ -38649,21 +37680,21 @@ Le délai prévu au deuxième alinéa de l'article 187-1 est également porté �
 
 	**Modifié par**:
 
-	  - Loi n°2000-1354 du 30 décembre 2000 - art. 32 () JORF 31 décembre 2000 en vigueur le 1er janvier 2001
+	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 	**Cite**:
 
-	  - CODE DE PROCEDURE PENALE - art. 145 (MMN)
-	  - CODE DE PROCEDURE PENALE - art. 187-1 (M)
+	  - Code de procédure pénale - art. 145 (VT)
+	  - Code de procédure pénale - art. 187-1 (V)
 
 
 ###### Article 824
 
 Pour l'application de l'article 191, la chambre de l'instruction de la cour d'appel de Nouméa et celle de la cour d'appel de
 Papeete sont composées d'un président de chambre ou d'un conseiller et de deux magistrats du siège du ressort de la cour
-d'appel.
+d'appel. 
 
-Ces magistrats sont désignés chaque année par le premier président de la cour d'appel.
+Ces magistrats sont désignés chaque année par le premier président de la cour d'appel. 
 
 En cas d'empêchement d'un membre de la chambre de l'instruction, celui-ci est remplacé par un magistrat du siège désigné par
 le premier président.
@@ -38676,11 +37707,242 @@ le premier président.
 
 	**Modifié par**:
 
-	  - Loi n°2000-516 du 15 juin 2000 - art. 83 () JORF 16 juin 2000 en vigueur le 1er janvier 2001
+	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 	**Cite**:
 
-	  - CODE DE PROCEDURE PENALE - art. 191 (M)
+	  - Code de procédure pénale - art. 191 (V)
+
+
+#### Chapitre VI : De la cour d'assises
+
+###### Article 825
+
+Par dérogation à l'article 236, la tenue des assises a lieu chaque fois qu'il est nécessaire.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°96-268 du 28 mars 1996
+
+	**Modifié par**:
+
+	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+	**Abrogé par**:
+
+	  - Loi n°2011-939 du 10 août 2011 - art. 13
+
+	**Cite**:
+
+	  - Code de procédure pénale - art. 236
+
+
+###### Article 826
+
+Pour l'application de l'article 244, et sous réserve de l'application des dispositions de l'article 247, la cour d'assises
+peut également être présidée par le président du tribunal de première instance ou par le magistrat du siège le plus ancien
+dans le grade le plus élevé de ce tribunal.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 96-268 1996-03-28
+
+	**Modifié par**:
+
+	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+	**Cite**:
+
+	  - Code de procédure pénale - art. 244 (V)
+	  - Code de procédure pénale - art. 247 (V)
+
+
+###### Article 827
+
+Pour l'application des articles 245 et 250, il est procédé annuellement à la désignation du président de la cour d'assises et
+des assesseurs.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°96-268 du 28 mars 1996
+
+	**Modifié par**:
+
+	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+	**Abrogé par**:
+
+	  - Loi n°2011-939 du 10 août 2011 - art. 13
+
+	**Cite**:
+
+	  - Code de procédure pénale - art. 245
+	  - Code de procédure pénale - art. 250
+
+
+###### Article 828
+
+Le 8° de l'article 256 est rédigé comme suit :
+
+" 8° Les majeurs sous sauvegarde de justice, les majeurs en tutelle, les majeurs en curatelle et ceux qui sont placés dans un
+établissement accueillant les malades atteints de troubles mentaux en vertu des dispositions applicables localement. "
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 96-268 1996-03-28
+
+	**Modifié par**:
+
+	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. 256 (M)
+
+
+###### Article 829
+
+Sans préjudice de l'application de l'article 257, les fonctions de juré sont également incompatibles avec les fonctions
+suivantes : assesseurs du tribunal du travail ; assesseurs du tribunal mixte de commerce ; assesseurs du tribunal de première
+instance de Wallis-et-Futuna ; membres du gouvernement de la Polynésie française ; membres des assemblées territoriales ;
+membres du conseil du territoire des îles Wallis-et-Futuna ; membres des assemblées provinciales de la Nouvelle-Calédonie ;
+représentants de l'Etat dans les territoires ; secrétaires généraux des territoires ; chefs de circonscription ou de
+subdivision administratives.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 96-268 1996-03-28
+
+	**Modifié par**:
+
+	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+	**Cite**:
+
+	  - Code de procédure pénale - art. 257 (V)
+
+
+###### Article 830
+
+Le nombre minimum de jurés prévus par le premier alinéa de l'article 260 est fixé à 80 pour le territoire des îles Wallis-et-
+Futuna.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 96-268 1996-03-28
+
+	**Modifié par**:
+
+	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+	**Cite**:
+
+	  - Code de procédure pénale - art. 260 (V)
+
+
+###### Article 831
+
+Dans le territoire des îles Wallis-et-Futuna, la liste préparatoire de la liste annuelle, prévue par les articles 261 et
+261-1, est dressée par circonscription territoriale et les attributions du maire sont exercées par le chef de circonscription
+administrative.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 96-268 1996-03-28
+
+	**Modifié par**:
+
+	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+	**Cite**:
+
+	  - Code de procédure pénale - art. 261 (V)
+
+
+###### Article 832
+
+I. - Pour l'application en Nouvelle-Calédonie et dans le territoire de la Polynésie française du deuxième alinéa de l'article
+262 fixant la composition de la commission prévue à cet article, les conseillers généraux sont remplacés par cinq membres
+désignés chaque année en son sein par le Congrès ou l'assemblée de la Polynésie française.
+
+II. - Dans le territoire des îles Wallis-et-Futuna, la commission prévue à l'article 262 comprend :
+
+- le président du tribunal de première instance, président ;
+
+- le procureur de la République ou son délégué ;
+
+- un citoyen désigné dans les conditions définies à l'article L. 933-2 du code de l'organisation judiciaire ;
+
+- deux membres de l'assemblée territoriale désignés chaque année par celle-ci.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 96-268 1996-03-28
+
+	**Modifié par**:
+
+	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. 262 (V)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L933-2 (M)
+
+
+###### Article 833
+
+La liste spéciale de jurés suppléants, prévue à l'article 264, comprend trente noms dans le territoire des îles Wallis-et-
+Futuna.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 96-268 1996-03-28
+
+	**Modifié par**:
+
+	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+	**Cite**:
+
+	  - Code de procédure pénale - art. 264 (V)
+
+
+###### Article 834
+
+Pour l'application de l'article 269, l'accusé peut être transféré dans un établissement pénitentiaire autre qu'une maison
+d'arrêt.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 96-268 1996-03-28
+
+	**Modifié par**:
+
+	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+	**Cite**:
+
+	  - Code de procédure pénale - art. 269 (V)
 
 
 #### Chapitre VII : Du jugement des délits
@@ -38698,11 +37960,11 @@ vigueur localement.
 
 	**Modifié par**:
 
-	  - Loi n°99-1121 1999-12-28 art. 2 JORF 29 décembre 1999
+	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 	**Cite**:
 
-	  - CODE DE PROCEDURE PENALE - art. 392-1 (M)
+	  - Code de procédure pénale - art. 392-1 (V)
 
 
 ###### Article 836
@@ -38721,7 +37983,7 @@ magistrat du siège et de deux assesseurs, dans les conditions prévues au code 
 
 	**Modifié par**:
 
-	  - Loi n°99-1121 1999-12-28 art. 2 JORF 29 décembre 1999
+	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 
 ###### Article 837
@@ -38817,7 +38079,7 @@ jugement des délits prévus au présent article lorsque ces délits sont connex
 
 	**Modifié par**:
 
-	  - Loi n°99-1121 1999-12-28 art. 2 JORF 29 décembre 1999
+	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 
 ###### Article 838
@@ -38832,17 +38094,17 @@ Dans le territoire des îles Wallis-et-Futuna, l'avis prévu par l'article 399 e
 
 	**Modifié par**:
 
-	  - Loi n°99-1121 1999-12-28 art. 2 JORF 29 décembre 1999
+	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 	**Cite**:
 
-	  - CODE DE PROCEDURE PENALE - art. 399 (M)
+	  - Code de procédure pénale - art. 399 (V)
 
 
 ###### Article 839
 
 Pour l'application de l'article 407, le greffier peut être désigné comme interprète pour l'une des langues en usage dans le
-territoire. Il est, dans ce cas, dispensé du serment.
+territoire. Il est, dans ce cas, dispensé du serment. 
 
 S'il existe un interprète officiel permanent, celui-ci ne prête serment qu'à l'occasion de son entrée en fonctions.
 
@@ -38854,11 +38116,11 @@ S'il existe un interprète officiel permanent, celui-ci ne prête serment qu'à 
 
 	**Modifié par**:
 
-	  - Loi n°99-1121 1999-12-28 art. 2 JORF 29 décembre 1999
+	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 	**Cite**:
 
-	  - CODE DE PROCEDURE PENALE - art. 407 (M)
+	  - Code de procédure pénale - art. 407 (V)
 
 
 ###### Article 840
@@ -38878,7 +38140,11 @@ fait à partir ou à destination d'un territoire d'outre-mer ou de la Nouvelle-C
 
 	**Modifié par**:
 
-	  - Loi n°99-1121 1999-12-28 art. 2 JORF 29 décembre 1999
+	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+	**Abrogé par**:
+
+	  - Loi n°2004-204 du 9 mars 2004 - art. 133 () JORF 10 mars 2004 en vigueur le 1er octobre 2004
 
 	**Cite**:
 
@@ -38899,7 +38165,11 @@ cinq ans.
 
 	**Modifié par**:
 
-	  - Loi n°99-1121 1999-12-28 art. 2 JORF 29 décembre 1999
+	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+	**Abrogé par**:
+
+	  - Loi n°2004-204 du 9 mars 2004 - art. 133 () JORF 10 mars 2004 en vigueur le 1er octobre 2004
 
 	**Cite**:
 
@@ -38915,7 +38185,7 @@ cinq ans.
 Pour l'application de l'article 416 dans le territoire de la Polynésie française et en Nouvelle-Calédonie, lorsque le
 déplacement d'un avocat paraît matériellement impossible, le prévenu peut prendre pour conseil une personne qui n'a fait
 l'objet d'aucune condamnation, incapacité ou déchéance mentionnée au bulletin n° 2 du casier judiciaire. Ne peut être choisie
-comme conseil une personne qui fait l'objet de poursuites pour les mêmes faits ou pour des faits connexes.
+comme conseil une personne qui fait l'objet de poursuites pour les mêmes faits ou pour des faits connexes. 
 
 Dans le territoire des îles Wallis-et-Futuna, le prévenu peut prendre pour conseil une personne agréée dans les conditions
 prévues au dernier alinéa de l'article 814.
@@ -38928,12 +38198,12 @@ prévues au dernier alinéa de l'article 814.
 
 	**Modifié par**:
 
-	  - Loi n°99-1121 1999-12-28 art. 2 JORF 29 décembre 1999
+	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 	**Cite**:
 
-	  - CODE DE PROCEDURE PENALE - art. 416 (M)
-	  - CODE DE PROCEDURE PENALE - art. 814 (M)
+	  - Code de procédure pénale - art. 416 (V)
+	  - Code de procédure pénale - art. 814 (V)
 
 
 ###### Article 843
@@ -38949,19 +38219,19 @@ commun des tribunaux d'instance de la métropole en matière civile.
 
 	**Modifié par**:
 
-	  - Loi n°99-1121 1999-12-28 art. 2 JORF 29 décembre 1999
+	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 	**Cite**:
 
-	  - CODE DE PROCEDURE PENALE - art. 420-1 (M)
+	  - Code de procédure pénale - art. 420-1 (V)
 
 
 ###### Article 844
 
 Le deuxième alinéa de l'article 470-1 est ainsi rédigé :
 
-"Toutefois, lorsqu'il apparaît que des tiers responsables doivent être mis en cause, le tribunal renvoie l'affaire, par une
-décision non susceptible de recours, devant la juridiction civile compétente".
+" Toutefois, lorsqu'il apparaît que des tiers responsables doivent être mis en cause, le tribunal renvoie l'affaire, par une
+décision non susceptible de recours, devant la juridiction civile compétente. "
 
 **Liens relatifs à cet article**
 
@@ -38971,11 +38241,7 @@ décision non susceptible de recours, devant la juridiction civile compétente".
 
 	**Modifié par**:
 
-	  - Loi n°99-1121 1999-12-28 art. 2 JORF 29 décembre 1999
-
-	**Cite**:
-
-	  - CODE DE PROCEDURE PENALE - art. 470-1 (M)
+	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 
 ###### Article 845
@@ -38991,12 +38257,12 @@ dans l'île où siège le tribunal et d'un mois s'il réside hors de cette île.
 
 	**Modifié par**:
 
-	  - Loi n°99-1121 1999-12-28 art. 2 JORF 29 décembre 1999
+	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 	**Cite**:
 
-	  - CODE DE PROCEDURE PENALE - art. 491 (V)
-	  - CODE DE PROCEDURE PENALE - art. 492 (M)
+	  - Code de procédure pénale - art. 491 (V)
+	  - Code de procédure pénale - art. 492 (V)
 
 	**Cité par**:
 
@@ -39016,16 +38282,16 @@ juridiction qui a rendu la décision attaquée a son siège.
 
 	**Modifié par**:
 
-	  - Loi n°99-1121 1999-12-28 art. 2 JORF 29 décembre 1999
-
-	**Cite**:
-
-	  - CODE DE PROCEDURE PENALE - art. 500 (V)
+	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 	**Cité par**:
 
 	  - CODE DE PROCEDURE PENALE - art. 853 (M)
 	  - Code de procédure pénale - art. 847 (V)
+
+	**Cite**:
+
+	  - Code de procédure pénale - art. 500 (V)
 
 
 ###### Article 847
@@ -39033,7 +38299,7 @@ juridiction qui a rendu la décision attaquée a son siège.
 Si l'appelant réside hors de l'île où la juridiction qui a rendu la décision attaquée a son siège, la déclaration d'appel
 prévue à l'article 502 peut être adressée au greffier de la juridiction par lettre signée de l'appelant. Dès réception de
 cette lettre, le greffier dresse l'acte d'appel et y annexe la lettre de l'appelant. Dans le délai prévu par les articles
-498, 500 et 846, l'appelant est tenu de confirmer son appel à la mairie ou à la gendarmerie la plus proche de sa résidence.
+498,500 et 846, l'appelant est tenu de confirmer son appel à la mairie ou à la gendarmerie la plus proche de sa résidence.
 
 **Liens relatifs à cet article**
 
@@ -39043,15 +38309,14 @@ cette lettre, le greffier dresse l'acte d'appel et y annexe la lettre de l'appel
 
 	**Modifié par**:
 
-	  - Loi n°99-1121 1999-12-28 art. 2 JORF 29 décembre 1999
+	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 	**Cite**:
 
-	  - CODE DE PROCEDURE PENALE - art. 498 (M)
-	  - CODE DE PROCEDURE PENALE - art. 500 (V)
-	  - CODE DE PROCEDURE PENALE - art. 502 (V)
-	  - CODE DE PROCEDURE PENALE - art. 846 (M)
-	  - Code de procédure pénale 502, annexe, 498, 500, 846
+	  - Code de procédure pénale - art. 498 (V)
+	  - Code de procédure pénale - art. 500 (V)
+	  - Code de procédure pénale - art. 502 (V)
+	  - Code de procédure pénale - art. 846 (V)
 
 
 #### Chapitre VIII : Du jugement des contraventions
@@ -39059,11 +38324,11 @@ cette lettre, le greffier dresse l'acte d'appel et y annexe la lettre de l'appel
 ###### Article 848
 
 A Nouméa, Mata-Utu et Papeete, le tribunal de police est constitué par un juge du tribunal de première instance, un officier
-du ministère public ainsi qu'il est dit aux articles 45 à 48, 810 et 811, et un greffier.
+du ministère public ainsi qu'il est dit aux articles 45 à 48,810 et 811, et un greffier. 
 
 Dans les sections du tribunal de première instance et lors des audiences foraines, le tribunal est constitué par le juge
-chargé du service de la section ou le juge forain, un officier du ministère public ainsi qu'il est dit aux articles 45 à 48,
-810 et 811, et un greffier.
+chargé du service de la section ou le juge forain, un officier du ministère public ainsi qu'il est dit aux articles 45 à
+48,810 et 811, et un greffier.
 
 **Liens relatifs à cet article**
 
@@ -39073,13 +38338,12 @@ chargé du service de la section ou le juge forain, un officier du ministère pu
 
 	**Modifié par**:
 
-	  - Loi n°99-1121 1999-12-28 art. 2 JORF 29 décembre 1999
+	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 	**Cite**:
 
-	  - CODE DE PROCEDURE PENALE - art. 810 (M)
-	  - CODE DE PROCEDURE PENALE - art. 811 (M)
-	  - Code de procédure pénale 45 à 48, 810, 811
+	  - Code de procédure pénale - art. 45 (VT)
+	  - Code de procédure pénale - art. 810 (V)
 
 
 ###### Article 849
@@ -39095,11 +38359,11 @@ porté à deux mois si le prévenu réside hors de l'île où la juridiction qui
 
 	**Modifié par**:
 
-	  - Loi n°99-1121 1999-12-28 art. 2 JORF 29 décembre 1999
+	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 	**Cite**:
 
-	  - CODE DE PROCEDURE PENALE - art. 527 (M)
+	  - Code de procédure pénale - art. 527 (V)
 
 	**Cité par**:
 
@@ -39124,7 +38388,7 @@ l'application des règles de la récidive. "
 
 	**Modifié par**:
 
-	  - Loi n°99-1121 1999-12-28 art. 2 JORF 29 décembre 1999
+	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 	**Cite**:
 
@@ -39144,14 +38408,13 @@ tribunal de police.
 
 	**Modifié par**:
 
-	  - Loi n°99-1121 1999-12-28 art. 2 JORF 29 décembre 1999
+	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 	**Cite**:
 
-	  - CODE DE PROCEDURE PENALE - art. 544 (M)
-	  - CODE DE PROCEDURE PENALE - art. 545 (V)
-	  - CODE DE PROCEDURE PENALE - art. 841 (M)
-	  - CODE DE PROCEDURE PENALE - art. 845 (M)
+	  - Code de procédure pénale - art. 544 (VT)
+	  - Code de procédure pénale - art. 841 (Ab)
+	  - Code de procédure pénale - art. 845 (V)
 
 
 ###### Article 852
@@ -39167,11 +38430,11 @@ compétentes en matière d'eaux et forêts.
 
 	**Modifié par**:
 
-	  - Loi n°99-1121 1999-12-28 art. 2 JORF 29 décembre 1999
+	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 	**Cite**:
 
-	  - CODE DE PROCEDURE PENALE - art. 546 (M)
+	  - Code de procédure pénale - art. 546 (VD)
 
 
 ###### Article 853
@@ -39187,13 +38450,12 @@ les jugements de police.
 
 	**Modifié par**:
 
-	  - Loi n°99-1121 1999-12-28 art. 2 JORF 29 décembre 1999
+	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 	**Cite**:
 
-	  - CODE DE PROCEDURE PENALE - art. 547 (M)
-	  - CODE DE PROCEDURE PENALE - art. 549 (M)
-	  - CODE DE PROCEDURE PENALE - art. 846 (M)
+	  - Code de procédure pénale - art. 547 (V)
+	  - Code de procédure pénale - art. 549 (VT)
 
 
 #### Chapitre IX : Des citations et significations
@@ -39212,11 +38474,11 @@ mois si la partie citée réside dans une autre île de ce territoire ou en tout
 
 	**Modifié par**:
 
-	  - Loi n°99-1121 1999-12-28 art. 2 JORF 29 décembre 1999
+	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 	**Cite**:
 
-	  - CODE DE PROCEDURE PENALE - art. 552 (M)
+	  - Code de procédure pénale - art. 552 (V)
 
 
 #### Chapitre X : Du pourvoi en cassation
@@ -39234,16 +38496,16 @@ l'île où la juridiction qui a rendu la décision attaquée a son siège.
 
 	**Modifié par**:
 
-	  - Loi n°99-1121 1999-12-28 art. 2 JORF 29 décembre 1999
-
-	**Cite**:
-
-	  - CODE DE PROCEDURE PENALE - art. 568 (M)
+	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 	**Cité par**:
 
 	  - CODE DE PROCEDURE PENALE - art. 859 (V)
 	  - Code de procédure pénale - art. 856 (V)
+
+	**Cite**:
+
+	  - Code de procédure pénale - art. 568 (V)
 
 
 ###### Article 856
@@ -39262,25 +38524,24 @@ demandeur en cassation est tenu de confirmer son pourvoi à la mairie ou à la g
 
 	**Modifié par**:
 
-	  - Loi n°99-1121 1999-12-28 art. 2 JORF 29 décembre 1999
-
-	**Cite**:
-
-	  - CODE DE PROCEDURE PENALE - art. 568 (M)
-	  - CODE DE PROCEDURE PENALE - art. 576 (V)
-	  - CODE DE PROCEDURE PENALE - art. 855 (M)
-	  - Code de procédure pénale 576, annexe, 568, 855
+	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 	**Cité par**:
 
 	  - CODE DE PROCEDURE PENALE - art. 859 (V)
 	  - Code de procédure pénale - art. 857 (V)
 
+	**Cite**:
+
+	  - Code de procédure pénale - art. 568 (V)
+	  - Code de procédure pénale - art. 576 (V)
+	  - Code de procédure pénale - art. 855 (V)
+
 
 ###### Article 857
 
 Le délai d'opposition à l'arrêt rendu par la Cour de cassation prévu à l'article 579 est porté à un mois si la partie qui
-forme opposition réside hors de l'île où la juridiction qui a rendu la décision attaquée a son siège.
+forme opposition réside hors de l'île où la juridiction qui a rendu la décision attaquée a son siège. 
 
 Dans ce dernier cas, l'opposition peut être également faite dans les formes prévues à l'article 856.
 
@@ -39292,12 +38553,12 @@ Dans ce dernier cas, l'opposition peut être également faite dans les formes pr
 
 	**Modifié par**:
 
-	  - Loi n°99-1121 1999-12-28 art. 2 JORF 29 décembre 1999
+	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 	**Cite**:
 
-	  - CODE DE PROCEDURE PENALE - art. 579 (M)
-	  - CODE DE PROCEDURE PENALE - art. 856 (M)
+	  - Code de procédure pénale - art. 579 (V)
+	  - Code de procédure pénale - art. 856 (V)
 
 
 ###### Article 858
@@ -39313,11 +38574,11 @@ a rendu la décision attaquée a son siège.
 
 	**Modifié par**:
 
-	  - Loi n°99-1121 1999-12-28 art. 2 JORF 29 décembre 1999
+	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 	**Cite**:
 
-	  - CODE DE PROCEDURE PENALE - art. 584 (V)
+	  - Code de procédure pénale - art. 584 (V)
 
 
 ###### Article 859
@@ -39333,16 +38594,36 @@ articles 855 et 856.
 
 	**Modifié par**:
 
-	  - Loi n°99-1121 1999-12-28 art. 2 JORF 29 décembre 1999
+	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 	**Cite**:
 
-	  - CODE DE PROCEDURE PENALE - art. 589 (M)
 	  - CODE DE PROCEDURE PENALE - art. 855 (M)
 	  - CODE DE PROCEDURE PENALE - art. 856 (M)
+	  - Code de procédure pénale - art. 589 (V)
 
 
 #### Chapitre XI : De quelques procédures particulières
+
+###### Article 859-1
+
+Le délai prévu au premier alinéa de l'article 627-6 est porté à quinze jours lorsque le transfèrement se fait à partir de la
+Nouvelle-Calédonie, de la Polynésie française ou des îles Wallis-et-Futuna.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 96-268 1996-03-28
+
+	**Modifié par**:
+
+	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. 627-6 (V)
+
 
 ###### Article 860
 
@@ -39358,7 +38639,7 @@ diligence du chef de circonscription administrative.
 
 	**Modifié par**:
 
-	  - Loi n°99-1121 1999-12-28 art. 2 JORF 29 décembre 1999
+	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 	**Cite**:
 
@@ -39378,7 +38659,7 @@ Le délai prévu au troisième alinéa de l'article 662 est de deux mois.
 
 	**Modifié par**:
 
-	  - Loi n°99-1121 1999-12-28 art. 2 JORF 29 décembre 1999
+	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 	**Cite**:
 
@@ -39398,7 +38679,7 @@ Dans le territoire des îles Wallis-et-Futuna, le président du tribunal de prem
 
 	**Modifié par**:
 
-	  - Loi n°99-1121 1999-12-28 art. 2 JORF 29 décembre 1999
+	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 	**Cite**:
 
@@ -39440,12 +38721,12 @@ Les sommes allouées sont versées par le fonds de garantie des victimes des act
 
 	**Modifié par**:
 
-	  - Loi n°99-1121 1999-12-28 art. 2 JORF 29 décembre 1999
+	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 
 ###### Article 864
 
-Le premier alinéa de l'article 706-14 est ainsi rédigé :
+Le premier alinéa de l'article 706-14 est ainsi rédigé : 
 
 " Toute personne qui, victime d'un vol, d'une escroquerie ou d'un abus de confiance, ne peut obtenir à un titre quelconque
 une réparation ou une indemnisation effective et suffisante de son préjudice, et se trouve de ce fait dans une situation
@@ -39462,9 +38743,10 @@ affectée le cas échéant de correctif pour charges de famille, prévu par l'ar
 
 	**Cite**:
 
-	  - Ordonnance 92-1147 1992-10-12 art. 3
-	  - CODE DE PROCEDURE PENALE - art. 706-14 (M)
-	  - Code de procédure pénale 706-14, 706-3 à 706-12
+	  - Ordonnance n°92-1147 du 12 octobre 1992  - art. 3 (V)
+	  - Code de procédure pénale - art. 706-12 (V)
+	  - Code de procédure pénale - art. 706-14 (V)
+	  - Code de procédure pénale - art. 706-3 (V)
 
 	**Codifié par**:
 
@@ -39472,7 +38754,7 @@ affectée le cas échéant de correctif pour charges de famille, prévu par l'ar
 
 	**Modifié par**:
 
-	  - Loi n°99-1121 1999-12-28 art. 2 JORF 29 décembre 1999
+	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 
 ###### Article 865
@@ -39488,7 +38770,7 @@ les conditions définies à l'article 813.
 
 	**Modifié par**:
 
-	  - Loi n°99-1121 1999-12-28 art. 2 JORF 29 décembre 1999
+	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 	**Cite**:
 
@@ -39515,7 +38797,7 @@ de procédure civile, des mesures conservatoires sur les biens de la personne mi
 
 	**Modifié par**:
 
-	  - Loi n°99-1121 1999-12-28 art. 2 JORF 29 décembre 1999
+	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 	**Cite**:
 
@@ -39539,7 +38821,7 @@ vertu de la réglementation applicable dans le territoire.
 
 	**Modifié par**:
 
-	  - Loi n°99-1121 1999-12-28 art. 2 JORF 29 décembre 1999
+	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 	**Cite**:
 
@@ -39558,7 +38840,7 @@ Les personnes visées à l'article 714 peuvent être détenues dans un local aut
 
 	**Modifié par**:
 
-	  - Loi n°99-1121 1999-12-28 art. 2 JORF 29 décembre 1999
+	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 	**Cite**:
 
@@ -39576,9 +38858,9 @@ instance de Wallis-et-Futuna exerce les fonctions de juge de l'application des p
 
 	  - Ordonnance 96-268 1996-03-28
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2000-1354 du 30 décembre 2000 - art. 32 () JORF 31 décembre 2000
+	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 	**Cité par**:
 
@@ -39602,7 +38884,11 @@ dans le territoire.
 
 	**Modifié par**:
 
-	  - Loi n°99-1121 1999-12-28 art. 2 JORF 29 décembre 1999
+	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+	**Abrogé par**:
+
+	  - Loi n°2004-204 du 9 mars 2004 - art. 162 () JORF 10 mars 2004 en vigueur le 1er janvier 2005
 
 	**Cite**:
 
@@ -39613,7 +38899,7 @@ dans le territoire.
 
 L'article 752 est ainsi rédigé :
 
-" Art. 752. - La contrainte judiciaire ne peut être exécutée contre les condamnés qui justifient de leur insolvabilité en
+" Art. 752. - La contrainte par corps ne peut être exécutée contre les condamnés qui justifient de leur insolvabilité en
 produisant :
 
 1° Un certificat du percepteur ou de l'agent qui exerce les fonctions dévolues au percepteur de leur domicile constatant
@@ -39631,7 +38917,11 @@ La preuve que le condamné est en réalité solvable peut être rapportée par t
 
 	**Modifié par**:
 
-	  - Loi n°99-1121 1999-12-28 art. 2 JORF 29 décembre 1999
+	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+	**Abrogé par**:
+
+	  - Loi n°2004-204 du 9 mars 2004 - art. 162 () JORF 10 mars 2004 en vigueur le 1er janvier 2005
 
 	**Cite**:
 
@@ -39642,7 +38932,7 @@ La preuve que le condamné est en réalité solvable peut être rapportée par t
 
 L'article 758 est ainsi rédigé :
 
-" Art. 758. - La contrainte judiciaire est subie dans un établissement pénitentiaire. "
+" Art. 758. - La contrainte par corps est subie dans un établissement pénitentiaire. "
 
 **Liens relatifs à cet article**
 
@@ -39652,7 +38942,11 @@ L'article 758 est ainsi rédigé :
 
 	**Modifié par**:
 
-	  - Loi n°99-1121 1999-12-28 art. 2 JORF 29 décembre 1999
+	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+	**Abrogé par**:
+
+	  - Loi n°2004-204 du 9 mars 2004 - art. 199 () JORF 10 mars 2004
 
 	**Cite**:
 
@@ -39672,7 +38966,7 @@ dévolues à celui-ci par la réglementation applicable au territoire.
 
 	**Modifié par**:
 
-	  - Loi n°99-1121 1999-12-28 art. 2 JORF 29 décembre 1999
+	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 	**Cite**:
 
@@ -39695,7 +38989,7 @@ crime ou ses héritiers directs. "
 
 	**Modifié par**:
 
-	  - Loi n°99-1121 1999-12-28 art. 2 JORF 29 décembre 1999
+	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 	**Cite**:
 
@@ -39706,9 +39000,9 @@ crime ou ses héritiers directs. "
 
 Le premier alinéa de l'article 763-7 est ainsi rédigé :
 
-"Lorsqu'une personne condamnée à un suivi socio-judiciaire comprenant une injonction de soins doit subir une peine privative
+" Lorsqu'une personne condamnée à un suivi socio-judiciaire comprenant une injonction de soins doit subir une peine privative
 de liberté, elle exécute cette peine dans un établissement pénitentiaire permettant de lui assurer un suivi médical et
-psychologique adapté."
+psychologique adapté. "
 
 **Liens relatifs à cet article**
 
@@ -39718,7 +39012,7 @@ psychologique adapté."
 
 	**Modifié par**:
 
-	  - Loi n°99-1121 1999-12-28 art. 2 JORF 29 décembre 1999
+	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 	**Cite**:
 
@@ -39742,7 +39036,7 @@ vérification de leur identité aux registres de l'état civil, des fiches const
 
 	**Modifié par**:
 
-	  - Loi n°99-1121 1999-12-28 art. 2 JORF 29 décembre 1999
+	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 	**Cite**:
 
@@ -39770,7 +39064,7 @@ constatant les condamnations et déclarations mentionnées aux 1° à 4° dudit 
 
 	**Modifié par**:
 
-	  - Loi n°99-1121 1999-12-28 art. 2 JORF 29 décembre 1999
+	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 	**Cite**:
 
@@ -39792,22 +39086,21 @@ L'article 773 est ainsi rédigé :
 
 	**Modifié par**:
 
-	  - Loi n°99-1121 1999-12-28 art. 2 JORF 29 décembre 1999
+	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 	**Cite**:
 
 	  - CODE DE PROCEDURE PENALE - art. 773 (V)
 
 
-### Titre II : Dispositions applicables dans la collectivité territoriale de Mayotte
+### Titre II : Dispositions applicables à Mayotte
 
 #### Chapitre Ier : Dispositions générales
 
 ###### Article 877
 
 A l'exception des articles 191, 232, 235, 240, 243 à 267, 288 à 303, 305, 398 à 398-2, 399, 510, 717 à 719, le présent code
-(Dispositions législatives) est applicable dans la collectivité territoriale de Mayotte sous réserve des adaptations prévues
-au présent titre.
+(Dispositions législatives) est applicable à Mayotte sous réserve des adaptations prévues au présent titre.
 
 **Liens relatifs à cet article**
 
@@ -39817,7 +39110,7 @@ au présent titre.
 
 	**Modifié par**:
 
-	  - Loi n°99-1121 1999-12-28 art. 2 et 8 JORF 29 décembre 1999
+	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 	**Cite**:
 
@@ -39833,7 +39126,7 @@ au présent titre.
 
 ###### Article 878
 
-Pour l'application du présent code dans la collectivité territoriale de Mayotte :
+Pour l'application du présent code à Mayotte :
 
 Les termes : "cour d'appel" ou : "chambre des appels correctionnels" ou : "chambre de l'instruction" sont remplacés par les
 termes : "tribunal supérieur d'appel" ;
@@ -39843,7 +39136,7 @@ termes : "tribunal de première instance" ;
 
 Les termes : "cour d'assises" ou : "la cour et le jury" sont remplacés par les termes : "cour criminelle" ;
 
-Le terme : "département" est remplacé par les termes :  "collectivité territoriale" ;
+Le terme : "département" est remplacé par les termes : "collectivité territoriale" ;
 
 Le terme : "préfet" est remplacé par les termes : "représentant du Gouvernement" et les termes : "arrêté préfectoral" par les
 termes : "arrêté du représentant du Gouvernement".
@@ -39863,7 +39156,8 @@ sont exercées par un magistrat du siège du tribunal de première instance.
 
 	**Modifié par**:
 
-	  - Loi n°99-1121 1999-12-28 art. 2 JORF 29 décembre 1999
+	  - Loi n°2000-516 du 15 juin 2000 - art. 83 () JORF 16 juin 2000
+	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 	**Cité par**:
 
@@ -39893,18 +39187,17 @@ agréées par le président du tribunal supérieur d'appel. Ces personnes sont d
 
 	**Modifié par**:
 
-	  - Loi n°99-1121 1999-12-28 art. 2 JORF 29 décembre 1999
+	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 
 ###### Article 879-1
 
-Pour l'application des articles 16 à 19, les officiers de police de la collectivité territoriale de Mayotte mis à la
-disposition de l'Etat sont assimilés, selon les dispositions et dans les conditions prévues par ces articles, aux
-fonctionnaires titulaires du corps de commandement et d'encadrement de la police nationale.
+Pour l'application des articles 16 à 19, les officiers de police de Mayotte mis à la disposition de l'Etat sont assimilés,
+selon les dispositions et dans les conditions prévues par ces articles, aux fonctionnaires titulaires du corps de
+commandement et d'encadrement de la police nationale.
 
-Pour l'application des articles 20 et 21, les agents de police de la collectivité territoriale de Mayotte mis à la
-disposition de l'Etat sont assimilés, selon les dispositions et dans les conditions prévues par ces articles, aux agents de
-la police nationale.
+Pour l'application des articles 20 et 21, les agents de police de Mayotte mis à la disposition de l'Etat sont assimilés,
+selon les dispositions et dans les conditions prévues par ces articles, aux agents de la police nationale.
 
 **Liens relatifs à cet article**
 
@@ -39914,7 +39207,7 @@ la police nationale.
 
 	**Modifié par**:
 
-	  - Loi n°99-1121 1999-12-28 art. 2 et 3 JORF 29 décembre 1999
+	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 	**Cite**:
 
@@ -39926,36 +39219,6 @@ la police nationale.
 
 	  - Code de la route. - art. L142-4-1 (V)
 	  - Code de la route. - art. L142-5 (Ab)
-
-
-#### Chapitre II : Des enquêtes
-
-###### Article 880
-
-Lorsque le déplacement d'un avocat ou d'une personne agréée en application de l'article 879 paraît matériellement impossible,
-l'entretien prévu au premier alinéa de l'article 63-4 peut avoir lieu avec une personne choisie par la personne gardée à vue,
-qui n'est pas mise en cause pour les mêmes faits ou pour des faits connexes et qui n'a fait l'objet d'aucune condamnation,
-incapacité ou déchéance mentionnée au bulletin n° 2 du casier judiciaire. Les dispositions des deuxième au quatrième alinéas
-de l'article 63-4 sont applicables à la personne choisie, qui en est informée par l'officier de police judiciaire.
-
-Le fait pour une personne qui a été appelée à intervenir dans les conditions prévues à l'alinéa précédent, de faire état
-auprès de quiconque de cet entretien dans le but d'entraver le cours de la justice est puni d'un an d'emprisonnement et de
-100 000 F d'amende.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance 96-268 1996-03-28
-
-	**Modifié par**:
-
-	  - Loi n°99-1121 1999-12-28 art. 2 JORF 29 décembre 1999
-
-	**Cite**:
-
-	  - CODE DE PROCEDURE PENALE - art. 63-4 (M)
-	  - CODE DE PROCEDURE PENALE - art. 879 (M)
 
 
 #### Chapitre III : Des juridictions d'instruction
@@ -39973,7 +39236,7 @@ adresse située dans la collectivité territoriale.
 
 	**Modifié par**:
 
-	  - Loi n°99-1121 1999-12-28 art. 2 JORF 29 décembre 1999
+	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 	**Cite**:
 
@@ -39993,7 +39256,7 @@ l'article 116 s'entend d'une adresse située dans la collectivité territoriale.
 
 	**Modifié par**:
 
-	  - Loi n°99-1121 1999-12-28 art. 2 JORF 29 décembre 1999
+	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 	**Cite**:
 
@@ -40013,7 +39276,7 @@ collectivité territoriale.
 
 	**Modifié par**:
 
-	  - Loi n°99-1121 1999-12-28 art. 2 JORF 29 décembre 1999
+	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 	**Cite**:
 
@@ -40033,7 +39296,7 @@ convocation de son président ou à la demande du procureur de la République à
 
 	**Modifié par**:
 
-	  - Loi n°2000-516 du 15 juin 2000 - art. 83 () JORF 16 juin 2000 en vigueur le 1er janvier 2001
+	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 	**Cite**:
 
@@ -40064,7 +39327,7 @@ que pour sa désignation initiale.
 
 	**Modifié par**:
 
-	  - Loi n°2000-516 du 15 juin 2000 - art. 136 () JORF 16 juin 2000 en vigueur le 1er janvier 2001
+	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 
 ###### Article 886
@@ -40080,11 +39343,15 @@ prêtent le serment prévu au deuxième alinéa du même article.
 
 	**Modifié par**:
 
-	  - Loi n°99-1121 1999-12-28 art. 2 JORF 29 décembre 1999
+	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2011-337 du 29 mars 2011 - art. 4
 
 	**Cite**:
 
-	  - CODE DE PROCEDURE PENALE - art. 304 (M)
+	  - Code de procédure pénale - art. 304
 
 
 ###### Article 887
@@ -40095,18 +39362,22 @@ Le président de la cour criminelle exerce les attributions dévolues à la cour
 
 	**Codifié par**:
 
-	  - Ordonnance 96-268 1996-03-28
+	  - Ordonnance n°96-268 du 28 mars 1996
 
 	**Modifié par**:
 
-	  - Loi n°99-1121 1999-12-28 art. 2 JORF 29 décembre 1999
+	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2011-337 du 29 mars 2011 - art. 4
 
 	**Cite**:
 
-	  - CODE DE PROCEDURE PENALE - art. 316 (M)
-	  - CODE DE PROCEDURE PENALE - art. 343 (M)
-	  - CODE DE PROCEDURE PENALE - art. 344 (M)
-	  - Code de procédure pénale 316, 343, 344, 371 à 375-2
+	  - Code de procédure pénale
+	  - Code de procédure pénale - art. 316
+	  - Code de procédure pénale - art. 343
+	  - Code de procédure pénale - art. 344
 
 
 ###### Article 888
@@ -40122,7 +39393,7 @@ quatre ou cinq voix.
 
 	**Modifié par**:
 
-	  - Loi n°2000-516 du 15 juin 2000 - art. 136 () JORF 16 juin 2000 en vigueur le 1er janvier 2001
+	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 	**Cite**:
 
@@ -40140,11 +39411,15 @@ Le tribunal correctionnel est composé d'un magistrat du siège du tribunal de p
 
 	**Codifié par**:
 
-	  - Ordonnance 96-268 1996-03-28
+	  - Ordonnance n°96-268 du 28 mars 1996
 
 	**Modifié par**:
 
-	  - Loi n°99-1121 1999-12-28 art. 2 JORF 29 décembre 1999
+	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2011-337 du 29 mars 2011 - art. 4
 
 
 ###### Article 890
@@ -40161,7 +39436,11 @@ instance et du procureur de la République. Cette décision peut être modifiée
 
 	**Modifié par**:
 
-	  - Loi n°99-1121 1999-12-28 art. 2 et 11 JORF 29 décembre 1999
+	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2011-337 du 29 mars 2011 - art. 4
 
 
 ###### Article 891
@@ -40177,7 +39456,11 @@ quinze jours si ce transfèrement est fait à partir ou à destination de la col
 
 	**Modifié par**:
 
-	  - Loi n°99-1121 1999-12-28 art. 2 JORF 29 décembre 1999
+	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+	**Abrogé par**:
+
+	  - Loi n°2004-204 du 9 mars 2004 - art. 133 () JORF 10 mars 2004 en vigueur le 1er octobre 2004
 
 	**Cite**:
 
@@ -40197,7 +39480,7 @@ dans la collectivité territoriale, et d'un mois s'il réside en dehors de celle
 
 	**Modifié par**:
 
-	  - Loi n°99-1121 1999-12-28 art. 2 JORF 29 décembre 1999
+	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 	**Cite**:
 
@@ -40222,7 +39505,7 @@ territoriale.
 
 	**Modifié par**:
 
-	  - Loi n°99-1121 1999-12-28 art. 2 JORF 29 décembre 1999
+	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 	**Cite**:
 
@@ -40244,11 +39527,15 @@ en cours d'année.
 
 	**Codifié par**:
 
-	  - Ordonnance 96-268 1996-03-28
+	  - Ordonnance n°96-268 du 28 mars 1996
 
 	**Modifié par**:
 
-	  - Loi n°99-1121 1999-12-28 art. 2 JORF 29 décembre 1999
+	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2011-337 du 29 mars 2011 - art. 4
 
 
 #### Chapitre VI : Du jugement des contraventions
@@ -40266,7 +39553,7 @@ prévenu ne réside pas dans la collectivité territoriale.
 
 	**Modifié par**:
 
-	  - Loi n°99-1121 1999-12-28 art. 2 JORF 29 décembre 1999
+	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 	**Cite**:
 
@@ -40285,7 +39572,7 @@ Les articles 892 et 893 sont applicables devant le tribunal de police.
 
 	**Modifié par**:
 
-	  - Loi n°99-1121 1999-12-28 art. 2 JORF 29 décembre 1999
+	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 	**Cite**:
 
@@ -40308,7 +39595,7 @@ territoriale. Ce délai est augmenté d'un mois si la partie citée réside en t
 
 	**Modifié par**:
 
-	  - Loi n°99-1121 1999-12-28 art. 2 JORF 29 décembre 1999
+	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 	**Cite**:
 
@@ -40330,11 +39617,15 @@ commission mentionnée à l'article 706-4.
 
 	**Modifié par**:
 
-	  - Loi n°99-1121 1999-12-28 art. 2 JORF 29 décembre 1999
+	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+	**Abrogé par**:
+
+	  - Loi n°2009-594 du 27 mai 2009 - art. 66 (V)
 
 	**Cite**:
 
-	  - CODE DE PROCEDURE PENALE - art. 706-4 (M)
+	  - Code de procédure pénale - art. 706-4
 
 
 ###### Article 899
@@ -40372,27 +39663,32 @@ Les sommes allouées sont versées par le fonds de garantie des victimes des act
 
 	**Modifié par**:
 
-	  - Loi n°99-1121 1999-12-28 art. 2 JORF 29 décembre 1999
+	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 
 ###### Article 900
 
-Le premier alinéa de l'article 706-14 est ainsi rédigé :
+Le premier alinéa de l'article 706-14 est ainsi rédigé : 
 
-Toute personne qui, victime d'un vol, d'une escroquerie ou d'un abus de confiance ne peut obtenir à un titre quelconque une
+" Toute personne qui, victime d'un vol, d'une escroquerie ou d'un abus de confiance ne peut obtenir à un titre quelconque une
 réparation ou une indemnisation effective et suffisante de son préjudice, et se trouve de ce fait dans une situation
 matérielle grave, peut obtenir une indemnité dans les conditions prévues par les articles 706-3 (troisième et dernier alinéa)
 à 706-12, lorsque ses ressources sont inférieures au plafond pour bénéficier de l'aide juridictionnelle partielle, affectées
 le cas échéant de correctif pour charges de famille, prévu par l'article 3 de l'ordonnance n° 92-1143 du 12 octobre 1992
-relative à l'aide juridictionnelle en matière pénale dans la collectivité territoriale de Mayotte.
+relative à l'aide juridictionnelle en matière pénale à Mayotte. "
+
+**Nota:**
+
+(1) Au lieu de "troisième" il convient de lire "3°".
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - Ordonnance 92-1143 1992-10-12 art. 3
-	  - CODE DE PROCEDURE PENALE - art. 706-14 (M)
-	  - Code de procédure pénale 706-14, 706-3 à 706-12
+	  - Ordonnance n°92-1143 du 12 octobre 1992  - art. 3 (V)
+	  - Code de procédure pénale - art. 706-12 (V)
+	  - Code de procédure pénale - art. 706-14 (V)
+	  - Code de procédure pénale - art. 706-3 (V)
 
 	**Codifié par**:
 
@@ -40400,7 +39696,7 @@ relative à l'aide juridictionnelle en matière pénale dans la collectivité te
 
 	**Modifié par**:
 
-	  - Loi n°99-1121 1999-12-28 art. 2 JORF 29 décembre 1999
+	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 
 #### Chapitre IX : Des procédures d'exécution
@@ -40419,7 +39715,7 @@ L'article 758 est ainsi rédigé :
 
 	**Modifié par**:
 
-	  - Loi n°99-1121 1999-12-28 art. 2 JORF 29 décembre 1999
+	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 	**Cite**:
 
@@ -40437,9 +39733,9 @@ instance exerce les fonctions de juge de l'application des peines.
 
 	  - Ordonnance 96-268 1996-03-28
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2000-1354 du 30 décembre 2000 - art. 32 () JORF 31 décembre 2000
+	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 	**Cite**:
 
@@ -40450,9 +39746,9 @@ instance exerce les fonctions de juge de l'application des peines.
 
 Le premier alinéa de l'article 763-7 est ainsi rédigé :
 
-"Lorsqu'une personne condamnée à un suivi socio-judiciaire comprenant une injonction de soins doit subir une peine privative
+" Lorsqu'une personne condamnée à un suivi socio-judiciaire comprenant une injonction de soins doit subir une peine privative
 de liberté, elle exécute cette peine dans un établissement pénitentiaire permettant de lui assurer un suivi médical et
-psychologique adapté."
+psychologique adapté. "
 
 **Liens relatifs à cet article**
 
@@ -40462,11 +39758,790 @@ psychologique adapté."
 
 	**Modifié par**:
 
-	  - Loi n°99-1121 1999-12-28 art. 2 JORF 29 décembre 1999
+	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 	**Cite**:
 
 	  - CODE DE PROCEDURE PENALE - art. 763-7 (M)
+
+
+### Titre III : Dispositions particulières à la collectivité territoriale de Saint-Pierre-et-Miquelon
+
+###### Article 902-1
+
+Pour l'application du présent code dans la collectivité territoriale de Saint-Pierre-et-Miquelon, il est tenu compte des
+adaptations prévues par le présent titre.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 96-268 1996-03-28
+
+	**Créé par**:
+
+	  - Loi n°99-1121 1999-12-28 art. 10 JORF 29 décembre 1999
+
+
+#### Chapitre Ier : Dispositions générales
+
+###### Article 903
+
+Le tribunal supérieur d'appel exerce les compétences attribuées par le présent code à la cour d'appel et à la chambre de
+l'instruction.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 96-268 1996-03-28
+
+	**Modifié par**:
+
+	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+
+###### Article 904
+
+Les compétences attribuées par le présent code au tribunal de grande instance, à la cour d'assises, au premier président de
+la cour d'appel et au juge du tribunal d'instance sont exercées respectivement par le tribunal de première instance, le
+tribunal criminel, le président du tribunal supérieur d'appel et par un juge du tribunal de première instance. Les
+compétences attribuées au procureur de la République et au procureur général près la cour d'appel sont exercées par le
+procureur de la République près le tribunal supérieur d'appel.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 96-268 1996-03-28
+
+	**Modifié par**:
+
+	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+	**Cité par**:
+
+	  - Loi n°2004-204 du 9 mars 2004 - art. 220 (V)
+
+
+###### Article 905
+
+Les attributions dévolues par le présent code aux avocats et aux conseils des parties peuvent être exercées par des personnes
+agréées dans la collectivité territoriale par le président du tribunal supérieur d'appel. Ces personnes sont dispensées de
+justifier d'un mandat.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 96-268 1996-03-28
+
+	**Modifié par**:
+
+	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+	**Cité par**:
+
+	  - Loi n°2004-204 du 9 mars 2004 - art. 220 (V)
+	  - Décret n°2005-163 du 23 février 2005 - art. 2 (V)
+	  - Décret n°2006-385 du 30 mars 2006 - art. 23 (V)
+	  - CODE DE PROCEDURE PENALE - art. 917 (V)
+
+
+#### Chapitre II : De l'exercice de l'action publique
+
+###### Article 906
+
+Par dérogation à l'article 193, le tribunal supérieur d'appel, en tant que chambre de l'instruction, ne se réunit que sur
+convocation de son président ou à la demande du procureur de la République, toutes les fois qu'il est nécessaire.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 96-268 1996-03-28
+
+	**Modifié par**:
+
+	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. 193 (M)
+
+
+###### Article 907
+
+Les articles L. 952-11 et L. 952-12 du code de l'organisation judiciaire relatifs au remplacement du président du tribunal
+supérieur d'appel et des assesseurs et aux modalités particulières d'exercice des fonctions juridictionnelles sont
+applicables à la chambre de l'instruction et à son président.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 96-268 1996-03-28
+
+	**Modifié par**:
+
+	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+	**Cite**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L952-11 (M)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L952-12 (Ab)
+
+
+#### Chapitre III : Des juridictions de jugement
+
+##### Section 1 : Du jugement des crimes
+
+###### Article 908
+
+Les articles 233, 245, 261 et 261-1 du présent code ne sont pas applicables.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 96-268 1996-03-28
+
+	**Modifié par**:
+
+	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. 233 (V)
+	  - CODE DE PROCEDURE PENALE - art. 245 (V)
+	  - CODE DE PROCEDURE PENALE - art. 261 (V)
+	  - CODE DE PROCEDURE PENALE - art. 261-1 (V)
+
+
+###### Article 909
+
+Pour l'application de l'article 236, le président du tribunal supérieur d'appel convoque, en cas de besoin, le tribunal
+criminel par ordonnance prise après avis du procureur de la République.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 96-268 1996-03-28
+
+	**Modifié par**:
+
+	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. 236 (M)
+
+
+###### Article 910
+
+Pour l'application de l'article 240, le tribunal criminel est composé du tribunal proprement dit et du jury.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 96-268 1996-03-28
+
+	**Modifié par**:
+
+	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. 240 (V)
+
+
+###### Article 911
+
+Pour l'application de l'article 243, le tribunal proprement dit comprend le président et les assesseurs.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 96-268 1996-03-28
+
+	**Modifié par**:
+
+	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. 243 (V)
+
+
+###### Article 912
+
+Pour l'application de l'article 244, le tribunal criminel est présidé par le président du tribunal supérieur d'appel.
+
+En cas de vacance de poste, d'absence, d'empêchement ou d'incompatibilité légale, les fonctions de président du tribunal
+supérieur d'appel sont exercées par un magistrat du siège désigné par le premier président de la cour d'appel de Paris sur
+une liste arrêtée par lui pour chaque année civile.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 96-268 1996-03-28
+
+	**Modifié par**:
+
+	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. 244 (V)
+
+
+###### Article 913
+
+Pour l'application de l'article 249, les conditions que doivent remplir les assesseurs au tribunal criminel sont celles
+énoncées à l'article L. 951-2 du code de l'organisation judiciaire.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 96-268 1996-03-28
+
+	**Modifié par**:
+
+	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. 249 (V)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L951-2 (Ab)
+
+
+###### Article 914
+
+Pour l'application de l'article 250, les assesseurs sont désignés par ordonnance du président du tribunal supérieur d'appel,
+après avis du procureur de la République.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 96-268 1996-03-28
+
+	**Modifié par**:
+
+	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. 250 (V)
+
+
+###### Article 915
+
+Pour l'application de l'article 251, en cas d'empêchement survenu avant ou au cours de la session, les assesseurs sont
+remplacés par ordonnance du président du tribunal supérieur d'appel.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 96-268 1996-03-28
+
+	**Modifié par**:
+
+	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. 251 (V)
+
+
+###### Article 916
+
+Pour l'application de l'alinéa 1er de l'article 260, le nombre des jurés ne peut être inférieur à trente-quatre.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 96-268 1996-03-28
+
+	**Modifié par**:
+
+	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. 260 (M)
+
+
+###### Article 917
+
+Pour l'application de l'article 262, la commission comprend :
+
+- le président du tribunal supérieur d'appel, président ;
+
+- le président du tribunal de première instance ;
+
+- le procureur de la République ou son suppléant ;
+
+- une personne agréée dans les conditions définies à l'article 905 et désignée par le président du tribunal supérieur
+d'appel ;
+
+- trois conseillers généraux désignés chaque année par le conseil général ;
+
+- trois conseillers municipaux désignés chaque année par les conseils municipaux, à raison de deux pour la commune de Saint-
+Pierre et un pour la commune de Miquelon-Langlade.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 96-268 1996-03-28
+
+	**Modifié par**:
+
+	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. 262 (V)
+	  - CODE DE PROCEDURE PENALE - art. 905 (M)
+
+
+###### Article 918
+
+Pour l'application de l'article 264, une liste spéciale de dix jurés suppléants est formée chaque année, en dehors de la
+liste annuelle du jury et dans les mêmes conditions que celle-ci.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 96-268 1996-03-28
+
+	**Modifié par**:
+
+	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. 264 (M)
+
+
+###### Article 919
+
+Pour l'application de l'article 266, seize jurés, dont les noms sont tirés sur la liste annuelle, forment la liste de la
+session. En outre, les noms de trois jurés suppléants sont tirés sur la liste spéciale.
+
+Si par suite des décès, des incapacités ou des incompatibilités légales survenues depuis l'établissement des listes, le
+nombre des citoyens parmi lesquels les jurés de la session doivent être tirés au sort est inférieur à trente, la commission
+chargée de dresser la liste annuelle des jurés est réunie de nouveau pour compléter la liste principale et former une
+nouvelle liste spéciale de dix citoyens.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 96-268 1996-03-28
+
+	**Modifié par**:
+
+	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. 266 (M)
+
+
+###### Article 920
+
+Pour l'application du premier alinéa de l'article 289-1, si, à la suite des absences ou des radiations, il reste moins de
+quatorze jurés sur la liste, ce nombre est complété par les jurés suppléants, suivant l'ordre de leur inscription ; en cas
+d'insuffisance, par des jurés tirés au sort, en audience publique, parmi les jurés inscrits sur la liste spéciale.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 96-268 1996-03-28
+
+	**Modifié par**:
+
+	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. 289-1 (M)
+
+
+###### Article 921
+
+Pour l'application des articles 296 et 297, le jury de jugement est formé de quatre jurés lorsque le tribunal criminel statue
+en premier ressort et de six jurés lorsqu'il statue en appel.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 96-268 1996-03-28
+
+	**Modifié par**:
+
+	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. 296 (M)
+	  - CODE DE PROCEDURE PENALE - art. 297 (M)
+
+
+###### Article 922
+
+Pour l'application de l'article 298, l'accusé et le ministère public ne peuvent récuser chacun plus de quatre jurés.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 96-268 1996-03-28
+
+	**Modifié par**:
+
+	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. 298 (M)
+
+
+###### Article 923
+
+Les majorités de huit ou dix voix prévues par les articles 359 et 362, deuxième alinéa, sont remplacées par des majorités de
+quatre ou cinq voix.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 96-268 1996-03-28
+
+	**Modifié par**:
+
+	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. 359 (M)
+	  - CODE DE PROCEDURE PENALE - art. 362 (M)
+
+
+##### Section 2 : Du jugement des délits
+
+###### Article 924
+
+Pour l'application de l'article 398, le tribunal correctionnel est toujours composé du président ou d'un juge du tribunal de
+première instance.
+
+Les articles L. 952-6 et L. 952-7 du code de l'organisation judiciaire relatifs au remplacement de ces magistrats et aux
+modalités particulières d'exercice des fonctions juridictionnelles sont applicables au tribunal correctionnel.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 96-268 1996-03-28
+
+	**Modifié par**:
+
+	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. 398 (M)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L952-6 (Ab)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L952-7 (V)
+
+
+###### Article 925
+
+Les articles 398-1 et 398-2 du présent code ne sont pas applicables.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 96-268 1996-03-28
+
+	**Modifié par**:
+
+	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. 398-1 (M)
+	  - CODE DE PROCEDURE PENALE - art. 398-2 (M)
+
+
+###### Article 926
+
+Pour l'application du premier alinéa de l'article 399, le président du tribunal supérieur d'appel, après avis du président du
+tribunal de première instance et du procureur de la République, fixe par ordonnance, pendant la première quinzaine du mois de
+décembre, le nombre des audiences correctionnelles pour l'année judiciaire suivante.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 96-268 1996-03-28
+
+	**Modifié par**:
+
+	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. 399 (M)
+
+
+###### Article 927
+
+Pour l'application des articles 491 et 492, les délais d'opposition sont de dix jours si le prévenu réside dans la
+collectivité territoriale et d'un mois s'il réside en dehors de celle-ci.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 96-268 1996-03-28
+
+	**Modifié par**:
+
+	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. 491 (V)
+	  - CODE DE PROCEDURE PENALE - art. 492 (M)
+
+
+###### Article 928
+
+Pour l'application de l'article 510, la chambre des appels correctionnels est composée du président du tribunal supérieur
+d'appel ainsi que de deux assesseurs figurant sur la liste prévue à l'article L. 951-3 du code de l'organisation judiciaire.
+
+Les articles L. 952-10 et L. 952-11 du code de l'organisation judiciaire relatifs au remplacement du président du tribunal
+supérieur d'appel et des assesseurs et aux modalités particulières d'exercice des fonctions juridictionnelles sont
+applicables à la chambre des appels correctionnels.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 96-268 1996-03-28
+
+	**Modifié par**:
+
+	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. 510 (V)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L951-3 (V)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L952-10 (Ab)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L952-11 (M)
+
+
+###### Article 928-1
+
+Pour l'application du premier alinéa de l'article 511, le président du tribunal supérieur d'appel, après avis du procureur de
+la République, fixe par ordonnance, pendant la première quinzaine du mois de décembre, le nombre des audiences
+correctionnelles pour l'année judiciaire suivante.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 96-268 1996-03-28
+
+	**Modifié par**:
+
+	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. 511 (M)
+
+
+###### Article 929
+
+Pour l'application de l'article 513, l'appel est jugé sur le rapport oral du président.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 96-268 1996-03-28
+
+	**Modifié par**:
+
+	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. 513 (M)
+
+
+##### Section 3 : Du jugement des contraventions
+
+###### Article 930
+
+Pour l'application de l'article 523, le procureur de la République occupe le siège du ministère public devant le tribunal de
+police.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 96-268 1996-03-28
+
+	**Modifié par**:
+
+	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. 523 (M)
+
+
+###### Article 931
+
+Les articles L. 952-6 et L. 952-7 du code de l'organisation judiciaire relatifs au remplacement des magistrats du tribunal de
+première instance et aux modalités particulières d'exercice des fonctions juridictionnelles sont applicables au tribunal de
+police.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 96-268 1996-03-28
+
+	**Modifié par**:
+
+	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+	**Cite**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L952-6 (Ab)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L952-7 (V)
+
+
+##### Section 4 : Des citations et significations
+
+###### Article 932
+
+Le délai prévu au premier alinéa de l'article 552 s'applique lorsque la partie citée réside dans la collectivité
+territoriale. Le délai est augmenté d'un mois si la partie citée réside en tout autre lieu du territoire de la République.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 96-268 1996-03-28
+
+	**Modifié par**:
+
+	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. 552 (M)
+
+
+##### Section 5 : Des recours en indemnité
+
+###### Article 933
+
+Par dérogation aux dispositions des deuxième et troisième alinéas de l'article 706-4, le président du tribunal de première
+instance exerce les attributions dévolues à la commission d'indemnisation.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 96-268 1996-03-28
+
+	**Modifié par**:
+
+	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. 706-4 (M)
+
+
+##### Section 6 : De l'exécution des sentences pénales
+
+###### Article 934
+
+Par dérogation aux dispositions des deuxième et troisième alinéas de l'article 709-1, le président du tribunal de première
+instance exerce les fonctions de juge de l'application des peines.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 96-268 1996-03-28
+
+	**Modifié par**:
+
+	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+	**Cité par**:
+
+	  - Décret n°2006-385 du 30 mars 2006 - art. 23 (V)
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. 709-1 (M)
+
+
+## Livre VI : Dispositions relatives aux territoires d'outre-mer, à la Nouvelle-Calédonie et aux collectivités territoriales de Mayotte et Saint-Pierre-et-Miquelon
+
+### Titre II : Dispositions applicables à Mayotte
+
+#### Chapitre II : Des enquêtes
+
+###### Article 880
+
+Lorsque le déplacement d'un avocat ou d'une personne agréée en application de l'article 879 paraît matériellement impossible,
+l'entretien prévu au premier alinéa de l'article 63-4 peut avoir lieu avec une personne choisie par la personne gardée à vue,
+qui n'est pas mise en cause pour les mêmes faits ou pour des faits connexes et qui n'a fait l'objet d'aucune condamnation,
+incapacité ou déchéance mentionnée au bulletin n° 2 du casier judiciaire. Les dispositions des deuxième au quatrième alinéas
+de l'article 63-4 sont applicables à la personne choisie, qui en est informée par l'officier de police judiciaire.
+
+Le fait pour une personne qui a été appelée à intervenir dans les conditions prévues à l'alinéa précédent, de faire état
+auprès de quiconque de cet entretien dans le but d'entraver le cours de la justice est puni d'un an d'emprisonnement et de
+100 000 F d'amende.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 96-268 1996-03-28
+
+	**Modifié par**:
+
+	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. 63-4 (M)
+	  - CODE DE PROCEDURE PENALE - art. 879 (M)
 
 
 # Partie réglementaire - Décrets en Conseil d'Etat
