@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 1980-08-08
+Version Consolidée au 1980-12-20
 
 # Partie législative
 
@@ -36845,6 +36845,28 @@ pour le deuxième et 10 % pour le troisième.
 ##### Section 1 : De la gestion des biens des détenus
 
 ##### Paragraphe 1er : Pécule.
+
+###### Article A41
+
+Le montant de la participation des détenus aux frais de leur entretien sur le produit de leur travail, prévu à l'article D.
+112 du code de procédure pénale est porté à 300 F par mois, soit 10 F par jour.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Arrêté 1959-02-27
+
+	**Modifié par**:
+
+	  - Arrêté 1971-04-15 art. 2 JORF 16 avril 1971
+	  - Arrêté 1975-03-21 art. 1 JORF 26 mars 1975
+	  - Arrêté 1979-07-09 art. 1 JORF 21 juillet 1979
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. D112 (Ab)
+
 
 ###### Article A41-1
 
