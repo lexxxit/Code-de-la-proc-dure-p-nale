@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 1999-01-07
+Version Consolidée au 1999-02-07
 
 # Partie législative
 
@@ -40431,6 +40431,153 @@ Dans le cas prévu par l'alinéa 2 de l'article 470-1, il est procédé comme il
 
 
 ## Livre IV : De quelques procédures particulières
+
+### Titre XIII : De la poursuite, de l'instruction et du jugement des infractions en matière économique et financière
+
+###### Article R50 bis
+
+Les assistants spécialisés prévus à l'article 706 sont nommés pour une durée de trois ans renouvelable. 
+
+Les fonctions d'assistant spécialisé sont exclusives de toute autre activité professionnelle rémunérée, à l'exception de
+l'enseignement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-318 1959-02-23
+
+	**Créé par**:
+
+	  - Décret n°99-75 du 5 février 1999 - art. 1 () JORF 7 février 1999
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°99-75 du 5 février 1999 - art. 2 (M)
+
+	**Cite**:
+
+	  - Code de procédure pénale - art. 706 (V)
+
+	**Cité par**:
+
+	  - Code de procédure pénale - art. R49-20-1 (V)
+
+
+###### Article R50 quater
+
+L'arrêté de mise à disposition ou de détachement des fonctionnaires, ou le contrat des agents contractuels, précise la cour
+d'appel dans le ressort de laquelle l'assistant spécialisé exerce ses fonctions à titre principal.
+
+Il peut prévoir que l'assistant spécialisé exercera également ses fonctions à titre accessoire dans le ressort d'autres cours
+d'appel.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-318 1959-02-23
+
+	**Créé par**:
+
+	  - Décret n°99-75 du 5 février 1999 - art. 1 () JORF 7 février 1999
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°99-75 du 5 février 1999 - art. 2 (M)
+
+	**Cité par**:
+
+	  - CODE DE PROCEDURE PENALE - art. R50 quinquies (V)
+	  - Code de procédure pénale - art. R50 sexies (V)
+
+
+###### Article R50 quinquies
+
+Sous réserve des règles relatives à la mise à disposition et au détachement des fonctionnaires, l'assistant spécialisé relève
+de l'autorité des chefs de la cour d'appel visée à l'alinéa premier de l'article précédent.
+
+Il est placé par ceux-ci, le cas échéant, pour une période qu'ils déterminent, auprès des chefs d'un tribunal de grande
+instance visé à l'article 704, qui fixent les conditions d'exercice de ses fonctions.
+
+Dans l'exercice desdites fonctions, l'assistant spécialisé ne peut recevoir ni solliciter d'autres instructions que celles du
+ou des magistrats sous la direction desquels il est placé.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-318 1959-02-23
+
+	**Créé par**:
+
+	  - Décret n°99-75 du 5 février 1999 - art. 1 () JORF 7 février 1999
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°99-75 du 5 février 1999 - art. 2 (M)
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. 704 (M)
+	  - CODE DE PROCEDURE PENALE - art. R50 quater (V)
+
+
+###### Article R50 sexies
+
+Préalablement à l'exercice de son activité, l'assistant spécialisé prête serment en ces termes devant la cour d'appel visée à
+l'alinéa premier de l'article R. 50 quater : " Je jure de conserver le secret des informations sur les affaires judiciaires
+ainsi que sur les actes du parquet et des juridictions d'instruction et de jugement, dont j'aurai eu connaissance à
+l'occasion de mes travaux au sein des juridictions ". 
+
+Il ne peut en aucun cas être relevé de ce serment.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-318 1959-02-23
+
+	**Créé par**:
+
+	  - Décret n°99-75 du 5 février 1999 - art. 1 () JORF 7 février 1999
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°99-75 du 5 février 1999 - art. 2 (M)
+
+	**Cite**:
+
+	  - Code de procédure pénale - art. R50 quater (V)
+
+
+###### Article R50 ter
+
+Les personnes non fonctionnaires remplissant les conditions prévues au premier alinéa de l'article 706 sont recrutées en
+qualité d'agent contractuel. Le décret n° 86-83 du 17 janvier 1986 relatif aux dispositions générales applicables aux agents
+non titulaires de l'Etat leur est applicable. 
+
+Leur contrat comporte une période d'essai de trois mois.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-318 1959-02-23
+
+	**Cite**:
+
+	  - Décret n°86-83 du 17 janvier 1986 (V)
+	  - Code de procédure pénale - art. 706 (V)
+
+	**Créé par**:
+
+	  - Décret n°99-75 du 5 février 1999 - art. 1 () JORF 7 février 1999
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°99-75 du 5 février 1999 - art. 2 (M)
+
 
 ### Titre XIV : Du recours en indemnité ouvert à certaines victimes de dommages résultant d'une infraction
 
