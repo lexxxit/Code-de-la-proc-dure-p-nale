@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 1984-02-02
+Version Consolidée au 1984-03-02
 
 # Partie législative
 
@@ -27748,6 +27748,34 @@ Sur instructions de l'autorité judiciaire requérante, le bulletin n° 1 est d�
 	  - SPEC_APPLI: Décret n°81-1003 1981-11-06 art. 25
 	  - TXT_SOURCE: CODE DE PROCEDURE PENALE - art. 779 (M)
 	  - TXT_SOURCE: Code de procédure pénale 776 (3°), 779
+
+
+###### Article R78
+
+S'il existe une ou plusieurs fiches du casier judiciaire, la teneur ainsi que celle des mentions prévues à l'article 769, en
+est reproduite sur le bulletin n° 1. 
+
+Sinon, le bulletin n° 1 est revêtu de la mention : " néant ".
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-318 1959-02-23
+
+	**Créé par**:
+
+	  - Décret n°59-318 1959-02-23 JORF 25 février 1959 en vigueur le 2 mars 1959 rectificatif JORF 13 juin 1959
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°59-318 1959-02-23 art. 5
+	  - TXT_SOURCE: CODE DE PROCEDURE PENALE - art. 779 (M)
+	  - TXT_SOURCE: Code de procédure pénale 776 (3°), 779
+
+	**Cite**:
+
+	  - Code de procédure pénale - art. 769 (V)
 
 
 ###### Article R78-1
