@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 1979-03-25
+Version Consolidée au 1979-04-15
 
 # Partie législative
 
@@ -35495,6 +35495,675 @@ qualité d'officier de police judiciaire, et, éventuellement, toutes propositio
 	**Cité par**:
 
 	  - Code de procédure pénale - art. A10 (M)
+
+
+##### Paragraphe 2 : Désignation des officiers de police judiciaire de la police nationale
+
+###### Article A13
+
+Pour l'application de l'article R. 10 du Code de procédure pénale, et aux fins de constater l'aptitude à la fonction
+d'officier de police judiciaire des élèves inspecteurs de la police nationale, il est inclus dans l'examen de fin de
+scolarité de l'école supérieure des inspecteurs de police le groupe d'épreuves suivant :
+
+1° Une épreuve écrite, de caractère pratique, en droit pénal général et droit pénal spécial ;
+
+2° Une épreuve écrite, de caractère pratique, en procédure pénale et police judiciaire ;
+
+3° Une épreuve orale en droit administratif, libertés publiques et procédure pénale.
+
+Chacune de ces épreuves, notée de 0 à 20, est affectée du coefficient 8. Toute note égale ou inférieure à 5 sur 20 est
+éliminatoire. Nul ne peut être considéré comme ayant satisfait à ce groupe d'épreuves s'il n'y a obtenu au moins 240 points.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Arrêté 1958-12-23
+
+	**Modifié par**:
+
+	  - Arrêté 1960-08-24 art. 1 JORF 25 août 1960
+	  - Arrêté 1968-05-27 art. 1 JORF 9 juin 1968
+	  - Arrêté 1979-04-02 art. 1 JORF 15 avril 1979
+
+	**Liens**:
+
+	  - SPEC_APPLI: Arrêté 1979-04-02 art. 2 et art. 3 dispositions transitoires
+
+	**Cité par**:
+
+	  - CODE DE PROCEDURE PENALE - art. A20 (Ab)
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. R10 (M)
+
+
+###### Article A14
+
+Le programme des épreuves de l'examen est ainsi fixé :
+
+Procédure pénale
+
+Action publique - Action civile.
+
+Structures et organes de la poursuite et de l'instruction :
+
+Ministère public - Juge d'instruction ;
+
+Situation des A.P.J. et O.P.J. - Contrôle de leur activité ;
+
+Pouvoirs de police judiciaire du préfet.
+
+La garde à vue - Les interpellations.
+
+L'enquête de flagrance.
+
+L'enquête préliminaire.
+
+L'instruction préparatoire.
+
+Les commissions rogatoires.
+
+Les mandats de justice - La détention provisoire et le contrôle judiciaire.
+
+Les moyens de preuve : saisies - Perquisitions.
+
+Procédure pénale des mineurs.
+
+Droit pénal général
+
+Principes généraux - L'infraction et ses éléments constitutifs.
+
+Classification des infractions.
+
+La tentative et le commencement d'exécution.
+
+La responsabilité :
+
+Les faits justificatifs, la légitime défense, les excuses atténuantes et absolutoires ;
+
+Les circonstances atténuantes ou aggravantes ;
+
+La non-imputabilité ;
+
+La complicité, le concours d'infraction.
+
+La récidive, le casier judiciaire.
+
+Le sursis, la libération conditionnelle.
+
+La classification et l'exécution des peines.
+
+Les peines complémentaires : l'interdiction de séjour.
+
+Les mesures de sûreté ; la suspension du permis de conduire.
+
+Droit pénal spécial
+
+Définition - Contenu.
+
+Généralités sur le vol, l'escroquerie, l'abus de confiance.
+
+Le vol, le vol qualifié.
+
+Les filouteries.
+
+Le chantage, l'extorsion de fonds, les menaces.
+
+L'escroquerie.
+
+L'abus de confiance.
+
+Le recel.
+
+L'homicide, les coups et blessures volontaires.
+
+L'homicide, les coups et blessures involontaires.
+
+Les destructions, dégradations, dommages.
+
+La loi anti-casseurs.
+
+L'arrestation et la séquestration arbitraires.
+
+Les chèques.
+
+L'attentat aux moeurs.
+
+La prostitution, le proxénétisme.
+
+Les crimes et délits envers les enfants.
+
+L'abandon de famille.
+
+Les crimes et délits commis par et contre les fonctionnaires.
+
+Les associations de malfaiteurs.
+
+Libertés publiques - Droit administratif
+
+Libertés publiques
+
+L'Etat et l'individu, les déclarations des droits.
+
+La liberté de la personne physique, l'inviolabilité du domicile et des correspondances, la liberté propre aux groupements
+d'individus, la liberté de pensée, la liberté économique, l'ordre public et la liberté.
+
+Les atteintes à la liberté individuelle.
+
+L'égalité de tous devant la loi.
+
+La fraternité : le respect dû à la personne humaine, quelle que soit son origine, sa race ou sa religion.
+
+Droit administratif
+
+Principes généraux : la loi, le règlement, but et fonctionnement de l'administration. - La séparation des pouvoirs.
+
+L'administration centrale, le département, la commune, les régimes spéciaux.
+
+L'organisation judiciaire : les juridictions de l'ordre judiciaire et de l'ordre administratif, le tribunal des conflits,
+juridictions de droit commun et juridictions d'exception.
+
+Organisation, rôle, fonctionnement de la police administrative et de la police judiciaire : la police nationale, la
+gendarmerie.
+
+Le préfet de police, les préfets de zone, les préfets et sous-préfets, les maires.
+
+La nationalité française : notions sur le régime des étrangers en France.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Arrêté 1958-12-23
+
+	**Modifié par**:
+
+	  - Arrêté 1964-02-27 art. 1 JORF 19 mars 1964
+	  - Arrêté 1968-05-27 art. 1 JORF 9 juin 1968
+	  - Arrêté 1979-04-02 art. 1 JORF 15 avril 1979
+
+	**Liens**:
+
+	  - SPEC_APPLI: Arrêté 1979-04-02 art. 2 et art. 3 dispositions transitoires
+
+
+###### Article A15
+
+Les sujets des épreuves écrites sont choisis par le président du jury prévu par l'article R. 11 du Code de procédure pénale,
+sur proposition du directeur du personnel et des écoles de la police.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Arrêté 1958-12-23
+
+	**Modifié par**:
+
+	  - Arrêté 1968-05-27 art. 1 JORF 9 juin 1968
+	  - Arrêté 1979-04-02 art. 1 JORF 15 avril 1979
+
+	**Liens**:
+
+	  - SPEC_APPLI: Arrêté 1979-04-02 art. 2 et art. 3 dispositions transitoires
+	  - SPEC_APPLI: Arrêté 1995-10-16 art. 3
+
+	**Cité par**:
+
+	  - Arrêté du 16 octobre 1995 - art. 4 (V)
+	  - CODE DE PROCEDURE PENALE - art. A24 (Ab)
+	  - Code de procédure pénale - art. A21 (V)
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. R11 (V)
+
+
+###### Article A16
+
+Le secrétariat du jury et l'organisation matérielle des épreuves qui se déroulent à l'école supérieure des inspecteurs de
+police sont assurés par la direction du personnel et des écoles de la police.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Arrêté 1958-12-23
+
+	**Modifié par**:
+
+	  - Arrêté 1979-04-02 art. 1 JORF 15 avril 1979
+
+	**Liens**:
+
+	  - SPEC_APPLI: Arrêté 1979-04-02 art. 2 et art. 3 dispositions transitoires
+
+
+###### Article A17
+
+Il est interdit aux candidats, sous peine d'exclusion, d'avoir par devers eux des documents imprimés ou manuscrits ;
+toutefois, ils peuvent consulter les codes ou recueils de textes législatifs ou réglementaires ne comportant pas
+d'annotation, dont la liste est fixée par le garde des sceaux, ministre de la justice.
+
+Toute fraude ou tentative de fraude dans l'une quelconque des épreuves écrites entraîne l'exclusion immédiate de l'examen,
+prononcée sans délai et sans appel.
+
+L'enveloppe renfermant chaque sujet d'épreuve écrite est décachetée en présence des candidats à l'ouverture de la séance
+affectée à l'épreuve.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Arrêté 1958-12-23
+
+	**Modifié par**:
+
+	  - Arrêté 1979-04-02 art. 1 JORF 15 avril 1979
+
+	**Liens**:
+
+	  - SPEC_APPLI: Arrêté 1979-04-02 art. 2 et art. 3 dispositions transitoires
+
+	**Cité par**:
+
+	  - CODE DE PROCEDURE PENALE - art. A24 (Ab)
+
+
+###### Article A18
+
+Dès la fin des épreuves écrites, le président réunit le jury pour l'établissement des normes de correction et pour la
+répartition des copies entre les correcteurs. Il fixe la date à laquelle les copies corrigées doivent être remises au
+secrétariat de la commission.
+
+L'anonymat des copies est assuré par un coin gommé.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Arrêté 1958-12-23
+
+	**Modifié par**:
+
+	  - Arrêté 1964-02-27 art. 1 JORF 19 mars 1964
+	  - Arrêté 1968-05-27 art. 1 JORF 9 juin 1968
+	  - Arrêté 1979-04-02 art. 1 JORF 15 avril 1979
+
+	**Liens**:
+
+	  - SPEC_APPLI: Arrêté 1979-04-02 art. 2 et art. 3 dispositions transitoires
+
+	**Cité par**:
+
+	  - CODE DE PROCEDURE PENALE - art. A24 (Ab)
+
+
+###### Article A19
+
+Les modalités pratiques de déroulement de l'épreuve orale sont fixées, sur proposition du secrétariat de la commission, par
+le président. Les membres du jury peuvent être répartis en plusieurs sous-commissions.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Arrêté 1958-12-23
+
+	**Modifié par**:
+
+	  - Arrêté 1968-05-27 art. 1 JORF 9 juin 1968
+	  - Arrêté 1979-04-02 art. 1 JORF 15 avril 1979
+
+	**Liens**:
+
+	  - SPEC_APPLI: Arrêté 1979-04-02 art. 2 et art. 3 dispositions transitoires
+
+	**Cité par**:
+
+	  - Arrêté du 16 octobre 1995 - art. 3 (V)
+	  - CODE DE PROCEDURE PENALE - art. A24 (Ab)
+
+
+###### Article A20
+
+Le secrétariat de la commission :
+
+1° Soumet au président les copies pour lesquelles est proposée une note égale ou inférieure à 5 sur 20. Ces copies font
+l'objet d'une seconde correction par un membre désigné par le président et appartenant à une autre formation (magistrature,
+police nationale) que celle dont fait partie le premier correcteur. Le résultat de ces doubles corrections est soumis à la
+commission qui en délibère spécialement et fixe la note définitive ;
+
+2° Opère un relevé des notes attribuées pour chaque épreuve par les examinateurs ; 
+
+3° Dresse la liste des candidats ayant obtenu le nombre de points exigé pour le groupe d'épreuves.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Arrêté 1958-12-23
+
+	**Modifié par**:
+
+	  - Arrêté 1968-05-27 art. 1 JORF 9 juin 1968
+	  - Arrêté 1979-04-02 art. 1 JORF 15 avril 1979
+
+	**Liens**:
+
+	  - SPEC_APPLI: Arrêté 1979-04-02 art. 2 et art. 3 dispositions transitoires
+	  - SPEC_APPLI: Arrêté 1995-10-16 art. 3
+
+	**Cité par**:
+
+	  - Arrêté du 16 octobre 1995 - art. 4 (V)
+
+
+###### Article A21
+
+A l'issue des épreuves, le jury établit la liste des candidats reconnus aptes à la qualité d'officier de police judiciaire.
+Cette liste mentionne les notes attribuées aux candidats dans chacune des épreuves et le total des points obtenus. Elle est
+remise au secrétariat du jury en vue de la prise en compte des points dans le classement des élèves à l'examen de fin de
+scolarité de l'école.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Arrêté 1958-12-23
+
+	**Modifié par**:
+
+	  - Arrêté 1979-04-02 art. 1 JORF 15 avril 1979
+
+	**Liens**:
+
+	  - SPEC_APPLI: Arrêté 1979-04-02 art. 2 et art. 3 dispositions transitoires
+
+	**Cité par**:
+
+	  - CODE DE PROCEDURE PENALE - art. A27 (Ab)
+
+
+###### Article A22
+
+Pour l'application de l'article R. 10 du Code de procédure pénale et aux fins de constater l'aptitude à la fonction
+d'officier de police judiciaire en ce qui concerne les infractions prévues à l'article L. 23-1 du Code de la route des
+fonctionnaires du corps des commandants et officiers de paix de la police nationale, l'examen technique comporte les épreuves
+suivantes :
+
+1° Une épreuve écrite, de caractère pratique, en droit pénal général et droit pénal spécial ;
+
+2° Une épreuve écrite, de caractère pratique, en procédure pénale et police judiciaire ;
+
+3° Une épreuve orale en droit administratif, libertés publiques et procédure pénale.
+
+Chacune de ces épreuves est notée de 0 à 20. Toute note égale ou inférieure à 5 sur 20 est éliminatoire. Nul ne peut être
+déclaré admis à cet examen s'il n'a obtenu au moins 30 points.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Arrêté 1958-12-23
+
+	**Modifié par**:
+
+	  - Arrêté 1979-04-02 art. 1 JORF 15 avril 1979
+
+	**Liens**:
+
+	  - SPEC_APPLI: Arrêté 1979-04-02 art. 2 et art. 3 dispositions transitoires
+	  - SPEC_APPLI: Arrêté 1995-10-16 art. 3
+
+	**Abrogé par**:
+
+	  - Arrêté 1995-10-16 art. 2 JORF 27 octobre 1995
+
+	**Cité par**:
+
+	  - Arrêté du 16 octobre 1995 - art. 4 (V)
+	  - Arrêté du 11 juin 1999 - art. 2 (V)
+	  - CODE DE PROCEDURE PENALE - art. A23 (V)
+	  - CODE DE PROCEDURE PENALE - art. A27 (Ab)
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. R10 (M)
+	  - Code de la route L23-1
+
+
+###### Article A23
+
+Le programme des épreuves de l'examen est ainsi fixé :
+
+I - Procédure pénale
+
+Action publique - Action civile.
+
+Le ministère public, le procureur général, le procureur de la République.
+
+Le juge d'instruction.
+
+Police administrative et police judiciaire.
+
+La police judiciaire - Officiers de police judiciaire, agents de police judiciaire et agents de police judiciaire adjoints ;
+fonctionnaires et agents chargés de certaines fonctions de police judiciaire ; contrôle de l'activité de la police
+judiciaire.
+
+La procédure en crimes et délits flagrants.
+
+L'enquête préliminaire.
+
+La force probante des actes de police judiciaire.
+
+Les actes de police judiciaires et l'article L. 23-1 du Code de la route.
+
+L'instruction du premier et du second degré.
+
+Les commissions rogatoires - Les mandats de justice.
+
+Les pouvoirs des préfets en matière de police judiciaire.
+
+Règles particulières de procédure applicable aux mineurs.
+
+L'organisation judiciaire répressive : cours d'assises, tribunal correctionnel, tribunal de police, Cour de sûreté de l'Etat.
+
+II - Droit pénal
+
+L'infraction en général : éléments constitutifs ; classification :
+
+crimes, délits, contraventions, intérêts de la distinction.
+
+La tentative punissable - Le commencement d'exécution - Le désistement volontaire.
+
+La responsabilité pénale - Non-culpabilité - Faits justificatifs - Excuses absolutoires et atténuantes - Circonstances
+aggravantes et circonstances atténuantes.
+
+La complicité - Le concours d'infractions.
+
+La récidive - Le casier judiciaire.
+
+Le sursis, la libération conditionnelle.
+
+Les peines et leur exécution - L'extinction des peines, les réhabilitations - Les établissements pénitentiaires.
+
+Les infractions prévues par les articles 319, 320 et R. 40-4° du Code pénal.
+
+Les infractions à la police de la circulation routière.
+
+III - Libertés publiques - Droit administratif
+
+1° L'Etat et l'individu - Les déclarations des droits.
+
+La liberté de la personne physique - L'inviolabilité du domicile et des correspondances - La liberté propre aux groupements
+d'individus - La liberté de pensée - La liberté économique - L'ordre public et la liberté.
+
+Les atteintes à la liberté individuelle.
+
+L'égalité de tous devant la loi.
+
+La fraternité - Le respect dû à la personne humaine quelle que soit son origine, sa race ou sa religion.
+
+2° Principes généraux de droit administratif - La loi - Le règlement - But de fonctionnement de l'administration - La
+séparation des pouvoirs.
+
+L'administration centrale - Le département - La commune - Les régimes spéciaux.
+
+L'organisation judiciaire, juridictions de l'ordre judiciaire et de l'ordre administratif, le tribunal des conflits.
+
+Organisation, rôle, fonctionnement de la police administrative et de la police judiciaire - La police nationale - La
+gendarmerie.
+
+Le préfet de police - Les préfets de zone - Les préfets et sous-préfets - Les maires.
+
+La nationalité française - Notions sur le régime des étrangers en France.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Arrêté 1958-12-23
+
+	**Modifié par**:
+
+	  - Arrêté 1979-04-02 art. 1 JORF 15 avril 1979
+
+	**Liens**:
+
+	  - SPEC_APPLI: Arrêté 1979-04-02 art. 2 et art. 3 dispositions transitoires
+
+	**Cite**:
+
+	  - Code pénal 319, 320, R40-4°
+	  - Code de la route L23-1
+
+
+###### Article A24
+
+La date de l'examen et les sujets des épreuves écrites sont fixés par le président du jury prévu par l'article R. 11 du Code
+de procédure pénale, sur proposition du directeur et des écoles de la police.
+
+Les épreuves écrites de l'examen se déroulent dans les centres fixés par le directeur du personnel et des écoles de la
+police. Leur organisation matérielle est assurée, le cas échéant, par les secrétariats généraux pour l'administration de la
+police.
+
+Les dispositions des articles A. 15 et A. 17 à A. 20 ci-dessus sont applicables à l'examen prévu à l'article A. 22.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Arrêté 1958-12-23
+
+	**Modifié par**:
+
+	  - Arrêté 1968-05-27 art. 1 JORF 9 juin 1968
+	  - Arrêté 1979-04-02 art. 1 JORF 15 avril 1979
+
+	**Liens**:
+
+	  - SPEC_APPLI: Arrêté 1979-04-02 art. 2 et art. 3 dispositions transitoires
+
+	**Abrogé par**:
+
+	  - Arrêté 1995-10-16 art. 2 JORF 27 octobre 1995
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. A15 (M)
+	  - CODE DE PROCEDURE PENALE - art. A17 (M)
+	  - CODE DE PROCEDURE PENALE - art. A18 (M)
+	  - CODE DE PROCEDURE PENALE - art. A19 (M)
+	  - CODE DE PROCEDURE PENALE - art. R11 (V)
+	  - Code de procédure pénale R11, A15, A17, A18, A19, A20 et A22
+
+
+###### Article A25
+
+Nul ne peut se présenter plus de trois fois à cet examen.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Arrêté 1958-12-23
+
+	**Modifié par**:
+
+	  - Arrêté 1960-08-24 art. 1 JORF 25 août 1960
+	  - Arrêté 1979-04-02 art. 1 JORF 15 avril 1979
+
+	**Liens**:
+
+	  - SPEC_APPLI: Arrêté 1979-04-02 art. 2 et art. 3 dispositions transitoires
+	  - SPEC_APPLI: Arrêté 1995-10-16 art. 3
+
+	**Abrogé par**:
+
+	  - Arrêté 1995-10-16 art. 2 JORF 27 octobre 1995
+
+
+###### Article A26
+
+A l'issue des épreuves, le jury établit la liste des candidats pour lesquels il émet un avis favorable à l'attribution de la
+qualité d'officier de police judiciaire. Cette liste mentionne les notes attribuées aux candidats dans chacune des épreuves
+et le total des points obtenus. Elle est adressée au ministre de l'intérieur, accompagnée éventuellement de toutes
+propositions ou suggestions jugées utiles.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Arrêté 1958-12-23
+
+	**Créé par**:
+
+	  - Arrêté 1979-04-02 art. 1 JORF 15 avril 1979
+
+	**Liens**:
+
+	  - SPEC_APPLI: Arrêté 1979-04-02 art. 2 et art. 3 dispositions transitoires
+	  - SPEC_APPLI: Arrêté 1995-10-16 art. 3
+
+	**Abrogé par**:
+
+	  - Arrêté 1995-10-16 art. 2 JORF 27 octobre 1995
+
+
+###### Article A27
+
+Une session de l'examen prévu à l'article A. 22 ci-dessus est organisée chaque année dans le cadre de l'examen de fin de
+scolarité de l'école supérieure des officiers de paix aux fins de constater l'aptitude à la qualité d'officier de police
+judiciaire des élèves officiers de paix.
+
+Les dispositions de l'article A. 21 sont applicables à cette session.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Arrêté 1958-12-23
+
+	**Créé par**:
+
+	  - Arrêté 1979-04-02 art. 1 JORF 15 avril 1979
+
+	**Liens**:
+
+	  - SPEC_APPLI: Arrêté 1979-04-02 art. 2 et art. 3 dispositions transitoires
+	  - SPEC_APPLI: Arrêté 1995-10-16 art. 3
+
+	**Abrogé par**:
+
+	  - Arrêté 1995-10-16 art. 2 JORF 27 octobre 1995
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. A21 (M)
+	  - CODE DE PROCEDURE PENALE - art. A22 (Ab)
 
 
 ## Livre V : Des procédures d'exécution
