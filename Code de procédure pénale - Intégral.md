@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 1966-09-07
+Version Consolidée au 1966-09-29
 
 # Partie législative
 
@@ -13228,6 +13228,362 @@ frais de justice en matière criminelle, correctionnelle et de police.
 # Partie réglementaire - Décrets en Conseil d'Etat
 
 ## Livre Ier : De l'exercice de l'action publique et de l'instruction
+
+### Titre Ier : Des autorités chargées de l'action publique et de l'instruction
+
+#### Chapitre Ier : De la police judiciaire
+
+##### Section 1 : Dispositions générales
+
+###### Article R1
+
+Les officiers de police judiciaire, à l'occasion d'une enquête ou de l'exécution d'une commission rogatoire, ne peuvent, sous
+réserve des dispositions de l'article 30, solliciter ou recevoir des ordres ou instructions que de l'autorité judiciaire dont
+ils dépendent.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°58-358 1958-04-02
+
+	**Modifié par**:
+
+	  - Décret n°66-716 1966-09-28 art. 1 JORF 29 septembre 1966
+
+	**Liens**:
+
+	  - TXT_SOURCE: CODE DE PROCEDURE PENALE - art. 16 (M)
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. 30 (M)
+
+	**Nouveaux textes**:
+
+	  - CODE DE PROCEDURE PENALE - art. R1-1 (V)
+	  - CODE DE PROCEDURE PENALE - art. R2 (V)
+	  - CODE DE PROCEDURE PENALE - art. R2-1 (V)
+
+
+###### Article R2
+
+Les officiers de police judiciaire doivent rendre compte de leurs diverses opérations à l'autorité judiciaire dont ils
+dépendent sans attendre la fin de leur mission.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°58-358 1958-04-02
+
+	**Modifié par**:
+
+	  - Décret n°66-716 1966-09-28 art. 1 JORF 29 septembre 1966
+
+	**Transféré par**:
+
+	  - Décret n°2005-84 du 3 février 2005 - art. 2 () JORF 5 février 2005
+
+	**Cité par**:
+
+	  - Arrêté du 16 février 2012 - art. 1 (VT)
+	  - Code de procédure pénale - art. R2-1 (VD)
+
+	**Liens**:
+
+	  - TXT_SOURCE: CODE DE PROCEDURE PENALE - art. 16 (M)
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. 30 (M)
+
+	**Anciens textes**:
+
+	  - CODE DE PROCEDURE PENALE - art. R1 (T)
+
+	**Nouveaux textes**:
+
+	  - CODE DE PROCEDURE PENALE - art. R2-1 (V)
+
+
+##### Section 2 : Des officiers de police judiciaire
+
+##### Paragraphe 1er : Désignation des officiers de police judiciaire
+
+##### A - Désignation des gendarmes officiers de police judiciaire
+
+###### Article R4
+
+Les membres de la commission sont nommés par arrêté conjoint du garde des sceaux, ministre de la Justice et du ministre des
+Armées.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°58-358 1958-04-02
+
+	**Modifié par**:
+
+	  - Décret n°66-716 1966-09-28 art. 1 JORF 29 septembre 1966
+
+	**Cité par**:
+
+	  - Code de procédure pénale - art. A8 (V)
+
+
+###### Article R5
+
+La qualité d'officier de police judiciaire peut être attribuée à la suite d'un examen technique aux gendarmes comptant au
+moins cinq ans de service dans la gendarmerie.
+
+Les candidats doivent totaliser au moins trois ans de service dans la gendarmerie au 1er janvier de l'année de l'examen pour
+être autorisés à subir les épreuves.
+
+Les conditions d'établissement des listes des candidats admis à se présenter, les modalités d'organisation de l'examen
+technique et le programme des épreuves sont fixés par arrêté conjoint du garde des sceaux, ministre de la Justice, et du
+ministre des Armées.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°58-358 1958-04-02
+
+	**Modifié par**:
+
+	  - Décret n°66-716 1966-09-28 art. 1 JORF 29 septembre 1966
+
+	**Cité par**:
+
+	  - Code de procédure pénale - art. A13 (V)
+	  - Code de procédure pénale - art. R3 (V)
+	  - Code de procédure pénale - art. R7 (V)
+	  - Décret du 20 mai 1903 - art. 113 (Ab)
+
+
+###### Article R6
+
+Le jury de l'examen technique est constitué par la commission composée conformément à l'article R. 3.
+
+Le jury établit la liste des candidats ayant satisfait à l'examen technique.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°58-358 1958-04-02
+
+	**Modifié par**:
+
+	  - Décret n°66-716 1966-09-28 art. 1 JORF 29 septembre 1966
+
+	**Cité par**:
+
+	  - CODE DE PROCEDURE PENALE - art. R7 (V)
+
+	**Cite**:
+
+	  - Code de procédure pénale - art. R3 (V)
+
+
+###### Article R7
+
+L'attribution de la qualité d'officier de police judiciaire aux candidats reçus à l'examen technique est prononcée, suivant
+les besoins du service, sur avis conforme de la commission, par arrêté conjoint du garde des sceaux, ministre de la Justice,
+et du ministre des Armées.
+
+Par dérogation aux dispositions des articles R. 5 et R. 6 et de l'alinéa qui précède, sur avis conforme de la commission, la
+qualité d'officier de police judiciaire peut être attribuée sans examen technique, par arrêté conjoint du garde des sceaux,
+ministre de la Justice, et du ministre des Armées, au gendarme blessé dans le service à l'occasion d'une opération de police
+au cours de laquelle il a fait preuve de qualités particulières de courage.
+
+En aucun cas, l'attribution de la qualité d'officier de police judiciaire ne peut prendre effet avant que les bénéficiaires
+aient accompli cinq ans en activité de service dans la gendarmerie.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°58-358 1958-04-02
+
+	**Modifié par**:
+
+	  - Décret n°66-716 1966-09-28 art. 1 JORF 29 septembre 1966
+
+	**Cite**:
+
+	  - Code de procédure pénale R5 et R6
+
+
+##### Paragraphe 2 : Habilitation des militaires de la gendarmerie et des fonctionnaires de la police nationale, ayant la qualité d'officier de police judiciaire, à exercer effectivement les attributions attachées à cette qualité
+
+##### A : Habilitation des officiers de police judiciaire de la gendarmerie
+
+###### Article R13
+
+Les militaires de la gendarmerie visés à l'article 16 (2°) ne peuvent être habilités à exercer effectivement les attributions
+attachées à leur qualité d'officier de police judiciaire que lorsqu'ils doivent assurer, à un poste actif de commandement ou
+d'exécution, le service spécial à leur arme, dans le cadre d'une circonscription territoriale.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°58-358 1958-04-02
+
+	**Modifié par**:
+
+	  - Décret n°66-716 1966-09-28 art. 1 JORF 29 septembre 1966
+
+	**Cité par**:
+
+	  - CODE DE PROCEDURE PENALE - art. R14 (M)
+	  - CODE DE PROCEDURE PENALE - art. R15 (V)
+
+	**Cite**:
+
+	  - Code de procédure pénale 16 (2°)
+
+
+###### Article R14
+
+Pour chaque militaire de la gendarmerie remplissant la condition prévue à l'article qui précède et affecté à un emploi
+comportant effectivement l'exercice des attributions attachées à sa qualité d'officier de police judiciaire, une demande
+d'habilitation est adressée au procureur général près la cour d'appel dans le ressort de laquelle se trouve le siège des
+fonctions de l'officier de police judiciaire intéressé, par le commandant de groupement lorsque ce militaire lui est
+subordonné, et par le commandant régional de la gendarmerie dans les autres cas.
+
+La demande doit préciser la nature des fonctions confiées à cet officier de police judiciaire et les limites territoriales
+dans lesquelles il sera appelé à les exercer habituellement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°58-358 1958-04-02
+
+	**Modifié par**:
+
+	  - Décret n°66-716 1966-09-28 art. 1 JORF 29 septembre 1966
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. R13 (M)
+
+	**Cité par**:
+
+	  - Code de procédure pénale - art. R15-3 (V)
+
+
+###### Article R15
+
+Lorsque les limites territoriales dans lesquelles l'officier de police judiciaire est appelé à exercer ses fonctions
+habituelles excèdent celles de la cour d'appel dans le ressort de laquelle est situé le siège desdites fonctions, le
+procureur général saisi de la demande d'habilitation statue sur cette demande après avoir pris l'avis du procureur général
+près chaque cour d'appel dans le ressort de laquelle l'officier de police judiciaire est appelé à exercer ses fonctions
+habituelles.
+
+Lorsque l'officier de police judiciaire est appelé à exercer lesdites fonctions sur tout le territoire de la République, la
+demande d'habilitation est adressée au procureur général près la cour d'appel de Paris, qui statue sans être tenu de procéder
+à la consultation prévue à l'alinéa qui précède.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°58-358 1958-04-02
+
+	**Modifié par**:
+
+	  - Décret n°66-716 1966-09-28 art. 1 JORF 29 septembre 1966
+
+
+##### B : Habilitation des officiers de police judiciaire de la police nationale
+
+###### Article R15-3
+
+Les fonctionnaires de la police nationale nationale visés à l'article 16 (3°) ne peuvent être habilités à exercer
+effectivement les attributions attachées à leur qualité d'officier de police judiciaire que lorsqu'ils sont affectés à un
+emploi comportant l'exercice desdites attributions.
+
+Pour chaque fonctionnaire affecté à un tel emploi, une demande d'habilitation est adressée par le chef du service auquel
+appartient ce fonctionnaire, au procureur général près la cour d'appel dans le ressort de laquelle se trouve le siège des
+fonctions de l'officier de police judiciaire intéressé.
+
+La demande doit préciser la nature des fonctions confiées à cet officier de police judiciaire et les limites territoriales
+dans lesquelles il sera appelé à les exercer habituellement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°58-358 1958-04-02
+
+	**Créé par**:
+
+	  - Décret n°66-716 1966-09-28 art. 1 JORF 29 septembre 1966
+
+	**Cite**:
+
+	  - Code de procédure pénale 16 (3°)
+
+
+###### Article R15-4
+
+Lorsque les limites territoriales dans lesquelles l'officier de police judiciaire est appelé à exercer les fonctions
+habituelles excèdent celles de la cour d'appel dans le ressort de laquelle est situé le siège desdites fonctions, le
+procureur général saisi de la demande d'habilitation statue sur cette demande après avoir pris l'avis du procureur général
+près chaque cour d'appel dans le ressort de laquelle l'officier de police judiciaire est appelé à exercer ses fonctions
+habituelles.
+
+Lorsque l'officier de police judiciaire est appelé à exercer lesdites fonctions sur tout le territoire de la République, la
+demande d'habilitation est adressée au procureur général près la cour d'appel de Paris, qui statue sans être tenu de procéder
+à la consultation prévue à l'alinéa qui précède.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°58-358 1958-04-02
+
+	**Créé par**:
+
+	  - Décret n°66-716 1966-09-28 art. 1 JORF 29 septembre 1966
+
+
+###### Article R15-5
+
+Le procureur général accorde ou refuse par arrêté l'habilitation à exercer effectivement les attributions attachées à la
+qualité d'officier de police judiciaire.
+
+L'arrêté d'habilitation indique les fonctions en vue desquelles cette habilitation est accordée et précise qu'elle vaut
+seulement pour le temps pendant lequel l'officier de police exercera lesdites fonctions.
+
+Lorsqu'il envisage de refuser l'habilitation, le procureur général en informe l'intéressé, en lui précisant qu'il peut, dans
+un délai de quinze jours, prendre connaissance de son dossier et être entendu, le cas échéant, avec l'assistance d'un conseil
+de son choix.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°58-358 1958-04-02
+
+	**Créé par**:
+
+	  - Décret n°66-716 1966-09-28 art. 1 JORF 29 septembre 1966
+
+	**Cité par**:
+
+	  - CODE DE PROCEDURE PENALE - art. D44 (V)
+	  - Code de procédure pénale - art. R256 (V)
+
+	**Modifié par**:
+
+	  - Décret n°75-1138 1975-12-31 art. 2 JORF 3 janvier 1976
+
 
 ### Titre III : Des juridictions d'instruction
 
