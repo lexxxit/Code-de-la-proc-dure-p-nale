@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 2000-02-01
+Version Consolidée au 2000-03-15
 
 # Partie législative
 
@@ -68516,70 +68516,38 @@ consultés sur le site internet d'admifrance [http://www.admifrance.gouv.fr/].
 
 #### Chapitre II : De l'exécution des peines privatives de liberté.
 
-##### Section 1 : Des divers établissements pénitentiaires établis pour peines
+##### Section 1 : Des divers établissements affectés à l'exécution des peines
 
 ###### Article A39
 
-La liste des établissements pénitentiaires classés dans la catégorie des centres de détention prévus aux articles D. 70 et D.
-70-2 est fixée conformément au tableau ci-dessous. Ce tableau contient la distinction entre les centres de détention fermés,
-les centres de détention à régime ouvert et les centres de détention pour jeunes condamnés.
-
-1° Centres de détention fermés :
-
-Centre de détention de Caen ;
-
-Centre de détention d'Eysses ;
-
-Centre de détention de Mauzac ;
-
-Centre de détention de Melun (à l'exception du quartier affecté à des condamnés bénéficiaires du régime spécial prévu aux
-articles D. 490 à D. 496) ;
-
-Centre de détention de Mulhouse ;
-
-Centre de détention de Muret ;
-
-Centre de détention de Riom ;
-
-Centre de détention de Toul ;
-
-Centre de formation professionnelle d'Ecrouves ;
-
-Centre sanitaire de Liancourt ;
-
-Centre pénitentiaire de Rennes (à l'exception du quartier affecté aux condamnés relevant du régime des maisons centrales) ;
-
-Centre pénitentiaire de Clairvaux (intitulé modifié par l'arrêté du 14 janvier 1980 publié au Journal officiel du 26 janvier
-1980) (à l'exception des quartiers affectés aux condamnés relevant du régime des maisons centrales) ;
-
-Il est aménagé un quartier Centre de détention aux prisons de Fresnes.
-
-2° Centres de détention à régime ouvert :
-
-Centre agricole de Casabianda ;
-
-Centre du fort de La Prée.
-
-3° Centres de détention pour jeunes condamnés :
-
-Centre de détention de Loos ;
-
-Centre ouvert d'Oermingen.
-
-**Nota:**
-
-(Nota : l'article 1er de l'arrêté du 17 avril 1986 publié au Journal officiel du 26 avril 1986 dispose :
-
-"La liste des établissements pénitentiaires classés dans la catégorie des centres de détention et centres de détention
-régionaux prévus aux articles D. 70, D. 70-2 et D. 73 et figurant à l'article A39 du code de procédure pénale est modifiée
+La liste des établissements pénitentiaires classés dans la catégorie des maisons centrales prévue à l'article D. 71 est fixée
 comme suit :
 
-"Il est ouvert un centre de détention régional sur le domaine pénitentiaire de Bedenac.
+Maison centrale d'Arles (Bouches-du-Rhône) ;
 
-Il est aménagé un centre de détention dans les locaux des établissements pénitentiaires de Metz-Barrès et de Château-Thierry.
+Quartier maison centrale du centre pénitentiaire de Château-Thierry (Aisne) ;
 
-Après fermeture de l'établissement pénitentiaire, le centre de détention de Fontevraud est radié de la liste des centres de
-détention").
+Quartier maison centrale du centre pénitentiaire de Clairvaux (Aube) ;
+
+Quartier maison centrale du centre pénitentiaire de Ducos (Martinique) ;
+
+Maison centrale d'Ensisheim (Haut-Rhin) ;
+
+Quartier maison centrale du centre pénitentiaire de Lannemezan (Hautes-Pyrénées) ;
+
+Quartier maison centrale du centre pénitentiaire de Moulins-Yzeure (Allier) ;
+
+Maison centrale de Poissy (Yvelines) ;
+
+Quartier maison centrale du centre pénitentiaire du Port (Réunion) ;
+
+Quartier maison centrale du centre pénitentiaire de Remire-Montjoly (Guyane) ;
+
+Maison centrale de Riom (Puy-de-Dôme) ;
+
+Maison centrale de Saint-Martin-de-Ré (Charente-Maritime) ;
+
+Maison centrale de Saint-Maur (Indre).
 
 **Liens relatifs à cet article**
 
@@ -68589,8 +68557,7 @@ détention").
 
 	**Modifié par**:
 
-	  - Arrêté 1960-08-24 art. 1 JORF 25 août 1960
-	  - Arrêté 1973-03-07 art. 1 JORF 21 mars 1973
+	  - Arrêté 2000-01-31 art. 1 JORF 15 mars 2000
 
 	**Cité par**:
 
@@ -68598,17 +68565,51 @@ détention").
 
 	**Cite**:
 
-	  - CODE DE PROCEDURE PENALE - art. D70 (M)
-	  - CODE DE PROCEDURE PENALE - art. D70-2 (Ab)
-	  - Code de procédure pénale D70, D70-2, D490 à D496
+	  - CODE DE PROCEDURE PENALE - art. D71 (M)
 
-
-##### Section 5
 
 ###### Article A39-1
 
-La somme journalière prévue au second alinéa de l'article D. 111, au-dessous de laquelle les détenus perçoivent la totalité
-du produit de leur travail, est fixé à 4 F.
+La liste des établissements pénitentiaires classés dans la catégorie des centres de détention à vocation nationale prévue à
+l'article D. 71 est fixée comme suit :
+
+Quartier centre de détention national du centre pénitentiaire de Baie-Mahaut (Guadeloupe) ;
+
+Centre de détention national de Bapaume (quartier hommes, quartier femmes) (Pas-de-Calais) ;
+
+Quartier centre de détention national du centre pénitentiaire de Caen (Calvados) ;
+
+Centre de détention national de Casabianda (Haute-Corse) ;
+
+Quartier centre de détention national du centre pénitentiaire de Ducos (Martinique) ;
+
+Centre de détention national d'Ecrouves (Meurthe-et-Moselle) ;
+
+Centre de détention national d'Eysses (Lot-et-Garonne) ;
+
+Quartier centre de détention national du centre pénitentiaire de Joux-la-Ville (femmes) (Yonne) ;
+
+Centre de détention national de Liancourt (Oise) ;
+
+Centre de détention national de Mauzac (Dordogne) ;
+
+Centre de détention national de Melun (Seine-et-Marne) ;
+
+Centre de détention national de Montmédy (Meuse) ;
+
+Centre de détention national de Muret (Haute-Garonne) ;
+
+Quartier centre de détention national du centre pénitentiaire de Nantes (Loire-Atlantique) ;
+
+Quartier centre de détention national du centre pénitentiaire du Port (Réunion) ;
+
+Quartier centre de détention national du centre pénitentiaire de Remire-Montjoly (Guyane) ;
+
+Quartier centre de détention national du centre pénitentiaire de Rennes (femmes) (Ille-et-Vilaine) ;
+
+Centre de détention national de Toul (Meurthe-et-Moselle) ;
+
+Centre de détention national de Val-de-Reuil (Eure).
 
 **Liens relatifs à cet article**
 
@@ -68616,20 +68617,86 @@ du produit de leur travail, est fixé à 4 F.
 
 	  - Arrêté 1959-02-27
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Arrêté 1971-04-15 art. 1 JORF 16 avril 1971
+	  - Arrêté 2000-01-31 art. 1 JORF 15 mars 2000
 
 	**Cite**:
 
-	  - Code de procédure pénale D111 al. 2
+	  - CODE DE PROCEDURE PENALE - art. D71 (M)
 
 
 ###### Article A39-2
 
-Le pourcentage du nombre de condamnés qui peuvent bénéficier des dixièmes supplémentaires prévus au premier alinéa de
-l'article D. 112 ne peut excéder 60 % de l'effectif des détenus incarcérés dans la même prison pour le premier dixième, 30 %
-pour le deuxième et 10 % pour le troisième.
+La liste des établissements pénitentiaires classés dans la catégorie des centres de détention à vocation régionale prévue à
+l'article D. 72 est fixée comme suit :
+
+Quartier centre de détention régional du centre pénitentiaire d'Aiton (Savoie) ;
+
+Centre de détention régional d'Argentan (Orne) ;
+
+Quartier centre de détention régional du centre pénitentiaire de Baie-Mahaut (Guadeloupe) ;
+
+Centre de détention régional de Bédenac (Charente-Maritime) ;
+
+Centre de détention régional de Châteaudun (Eure-et-Loir) ;
+
+Quartier centre de détention régional du centre pénitentiaire de Châteauroux (Indre) ;
+
+Quartier centre de détention régional du centre pénitentiaire de Château-Thierry (Aisne) ;
+
+Quartier centre de détention régional du centre pénitentiaire de Clairvaux (Aube) ;
+
+Quartier centre de détention régional du centre pénitentiaire de Draguignan (Var) ;
+
+Quartier centre de détention régional du centre pénitentiaire de Ducos (Martinique) ;
+
+Quartier centre de détention régional du centre pénitentiaire de Joux-la-Ville (Yonne) ;
+
+Quartier centre de détention régional du centre pénitentiaire de Lannemezan (Hautes-Pyrénées) ;
+
+Quartier centre de détention régional du centre pénitentiaire de Laon (Aisne) ;
+
+Quartier centre de détention régional du centre pénitentiaire de Longuenesse (Pas-de-Calais) ;
+
+Centre de détention régional de Loos (Nord) ;
+
+Quartier centre de détention régional du centre pénitentiaire de Lorient-Ploëmeur (Morbihan) ;
+
+Quartier centre de détention régional du centre pénitentiaire de Marseille (femmes) (Bouches-du-Rhône) ;
+
+Quartier centre de détention régional du centre pénitentiaire de Maubeuge (Nord) ;
+
+Quartier centre de détention régional du centre pénitentiaire de Nantes (Loire-Atlantique) ;
+
+Centre de détention régional de Neuvic (Dordogne) ;
+
+Centre de détention régional d'Oermingen (Bas-Rhin) ;
+
+Quartier centre de détention régional du centre pénitentiaire de Perpignan (Pyrénées-Orientales) ;
+
+Quartier centre de détention régional du centre pénitentiaire du Port (Réunion) ;
+
+Quartier centre de détention régional du centre pénitentiaire de Remire-Montjoly (Guyane) ;
+
+Centre de détention régional de Saint-Mihiel (Meuse) ;
+
+Quartier centre de détention régional du centre pénitentiaire de Saint-Pierre (collectivité territoriale de Saint-Pierre-et-
+Miquelon) ;
+
+Quartier centre de détention régional du centre pénitentiaire de Saint-Quentin-Fallavier (Isère) ;
+
+Centre de détention régional de Saint-Sulpice-la-Pointe (Tarn) ;
+
+Centre de détention régional de Salon-de-Provence (Bouches-du-Rhône) ;
+
+Centre de détention régional de Tarascon (Bouches-du-Rhône) ;
+
+Centre de détention régional d'Uzerche (Corrèze) ;
+
+Quartier centre de détention régional du centre pénitentiaire de Varennes-le-Grand (Saône-et-Loire) ;
+
+Centre de détention régional de Villenauxe-la-Grande (Aube).
 
 **Liens relatifs à cet article**
 
@@ -68637,9 +68704,9 @@ pour le deuxième et 10 % pour le troisième.
 
 	  - Arrêté 1959-02-27
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Arrêté 1971-04-15 art. 1 JORF 16 avril 1971
+	  - Arrêté 2000-01-31 art. 1 JORF 15 mars 2000
 
 	**Cité par**:
 
@@ -68648,7 +68715,7 @@ pour le deuxième et 10 % pour le troisième.
 
 	**Cite**:
 
-	  - CODE DE PROCEDURE PENALE - art. D112 (Ab)
+	  - CODE DE PROCEDURE PENALE - art. D72 (M)
 
 
 #### Chapitre V : De la discipline et de la sécurité des prisons
