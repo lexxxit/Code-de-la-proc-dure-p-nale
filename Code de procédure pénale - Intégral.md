@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 1965-02-09
+Version Consolidée au 1965-02-24
 
 # Partie législative
 
@@ -22078,6 +22078,33 @@ placement.
 
 
 ### Titre III : De la libération conditionnelle
+
+#### Chapitre Ier : Du comité consultatif de libération conditionnelle
+
+###### Article D525
+
+Les délibérations du comité sont secrètes. Ses membres ainsi que les personnes qui, à un titre quelconque, participent ou
+assistent à des travaux sont tenus au secret professionnel.
+
+Toutes communications du comité avec les bureaux ou avec les services extérieurs de l'administration pénitentiaire, comme
+avec tous services ou toutes personnes étrangers à cette administration, ont exclusivement lieu par l'intermédiaire du
+directeur des affaires criminelles et des grâces, éventuellement avec le concours du directeur de l'administration
+pénitentiaire, sous l'autorité et d'après les instructions du ministre.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-322 1959-02-23
+
+	**Liens**:
+
+	  - TXT_SOURCE: Code de procédure pénale 729 à 733-1
+
+	**Modifié par**:
+
+	  - Décret n°65-129 1965-02-19 art. 5 JORF 24 février 1965
+
 
 #### Chapitre III : Des mesures et des obligations auxquelles peuvent être soumis les libérés conditionnels
 
