@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 1995-02-03
+Version Consolidée au 1995-02-05
 
 # Partie législative
 
@@ -594,8 +594,7 @@ S'il en a été effectué dans cet intervalle, elle ne se prescrit qu'après dix
 est ainsi même à l'égard des personnes qui ne seraient pas impliquées dans cet acte d'instruction ou de poursuite.
 
 Lorsque la victime est mineure et que le crime a été commis par un ascendant légitime, naturel ou adoptif ou par une personne
-ayant autorité sur elle, le délai de prescription est réouvert ou court à nouveau à son profit, pour la même durée à partir
-de sa majorité.
+ayant autorité sur elle, le délai de prescription ne commence à courir qu'à partir de sa majorité.
 
 **Liens relatifs à cet article**
 
@@ -605,7 +604,7 @@ de sa majorité.
 
 	**Modifié par**:
 
-	  - Loi n°92-1336 du 16 décembre 1992 - art. 7 () JORF 23 décembre 1992 en vigueur le 1er mars 1994
+	  - Loi n°95-116 du 4 février 1995 - art. 121 () JORF 5 février 1995
 
 	**Cité par**:
 
@@ -625,6 +624,9 @@ de sa majorité.
 En matière de délit, la prescription de l'action publique est de trois années révolues ; elle s'accomplit selon les
 distinctions spécifiées à l'article précédent.
 
+Lorsque la victime est mineure et que le délit a été commis par un ascendant légitime, naturel ou adoptif ou par une personne
+ayant autorité sur elle, le délai de prescription ne commence à courir qu'à partir de sa majorité.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
@@ -634,6 +636,10 @@ distinctions spécifiées à l'article précédent.
 	**Liens**:
 
 	  - SPEC_APPLI: Loi n°57-1426 1957-12-31 art. 18
+
+	**Modifié par**:
+
+	  - Loi n°95-116 du 4 février 1995 - art. 121 () JORF 5 février 1995
 
 	**Cité par**:
 
