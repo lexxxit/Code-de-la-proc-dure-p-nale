@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 1995-02-09
+Version Consolidée au 1995-03-06
 
 # Partie législative
 
@@ -15840,11 +15840,8 @@ composant le tribunal correctionnel seraient empêchés de suivre les débats ju
 par le ou les magistrats du siège supplémentaires, dans l'ordre de leur nomination au tribunal de grande instance, en
 commençant par le plus ancien du rang le plus élevé.
 
-Toutefois, pour le jugement des délits énumérés à l'article 398-1, il peut être composé d'un seul de ces magistrats exerçant
-les pouvoirs conférés au président lorsqu'il en est ainsi décidé par le président du tribunal de grande instance. Le
-président du tribunal de grande instance ou le magistrat délégué par lui à cet effet peut toutefois décider, soit de sa
-propre initiative, soit à la demande du magistrat saisi, qu'une affaire déterminée sera jugée par le tribunal statuant dans
-les conditions prévues à l'alinéa 1er.
+Toutefois, pour le jugement des délits énumérés à l'article 398-1, il est composé d'un seul de ces magistrats exerçant les
+pouvoirs conférés au président.
 
 La désignation des magistrats du tribunal correctionnel appelés à statuer dans les conditions prévues à l'alinéa 3 est faite
 par le président du tribunal de grande instance selon les modalités fixées pour la répartition des juges entre les diverses
@@ -15874,7 +15871,7 @@ Les décisions prévues au présent article sont des mesures d'administration no
 
 	**Modifié par**:
 
-	  - Loi n°93-1013 1993-08-24 art. 18 JORF 25 août 1993 en vigueur le 2 septembre 1993
+	  - Loi n°95-125 du 8 février 1995 - art. 36 () JORF 9 février 1995 en vigueur le 6 mars 1995
 
 	**Liens**:
 
@@ -15883,20 +15880,30 @@ Les décisions prévues au présent article sont des mesures d'administration no
 
 ###### Article 398-1
 
-Peuvent être jugés dans les conditions prévues à l'alinéa 3 de l'article 398 :
+Sont jugés dans les conditions prévues au troisième alinéa de l'article 398 :
 
-1° Les délits en matière de chèques;
+1° Les délits prévus par les articles 66 et 69 du décret-loi du 30 octobre 1935 unifiant le droit en matière de chèques et
+relatif aux cartes de paiement ;
 
-2° Les délits prévus par le code de la route, par l'article 221-6 du code pénal, lorsque la mort a été causée à l'occasion de
-la conduite d'un véhicule, et par les articles 222-19, 222-20 et 434-10 du même code.
+2° Les délits prévus par le code de la route ainsi que, lorsqu'ils sont commis à l'occasion de la conduite d'un véhicule, par
+les articles 222-19, 222-20, 223-1 et 434-10 du code pénal ;
 
 3° Les délits en matière de coordination des transports ;
 
-4° Les délits prévus par le Code rural en matière de chasse et de pêche.
+4° Les délits prévus par le 2° de l'article 32 du décret-loi du 18 avril 1939 fixant le régime des matériels de guerre, armes
+et munitions ;
 
-Toutefois, le tribunal, sauf s'il est saisi selon la procédure fixée par les articles 393 à 397, statue obligatoirement dans
-les conditions prévues à l'article 398 (alinéa 1er) lorsque le prévenu est en état de détention provisoire lors de sa
-comparution à l'audience.
+5° Les délits prévus par les articles 222-11, 222-12 (1° à 10°), 222-13 (1° à 10°), 222-16, 222-17, 222-18, 222-32, 227-3 à
+227-11, 311-3, 311-4 (1° à 8°), 313-5, 314-5, 314-6, 321-1, 322-1 à 322-4, 322-12, 322-13, 322-14, 433-5 et 521-1 du code
+pénal et L. 628 du code de la santé publique ;
+
+6° Les délits prévus par le code rural en matière de chasse, de pêche et de protection de la faune et de la flore et les
+délits prévus par le décret-loi du 9 janvier 1852 en matière de pêche maritime.
+
+Toutefois, le tribunal statue obligatoirement dans les conditions prévues par le premier alinéa de l'article 398 lorsque le
+prévenu est en état de détention provisoire lors de sa comparution à l'audience ou lorsqu'il est poursuivi selon la procédure
+de comparution immédiate. Il statue également dans les conditions prévues par le premier alinéa de l'article 398 pour le
+jugement des délits prévus au présent article lorsque ces délits sont connexes à d'autres délits non prévus par cet article.
 
 **Liens relatifs à cet article**
 
@@ -15906,7 +15913,7 @@ comparution à l'audience.
 
 	**Modifié par**:
 
-	  - Loi n°92-1336 du 16 décembre 1992 - art. 32 () JORF 23 décembre 1992 en vigueur le 1er mars 1994
+	  - Loi n°95-125 du 8 février 1995 - art. 37 () JORF 9 février 1995 en vigueur le 6 mars 1995
 
 	**Cité par**:
 
@@ -15922,17 +15929,44 @@ comparution à l'audience.
 
 	**Cite**:
 
-	  - Code pénal - art. 221-6 (M)
+	  - Code pénal - art. 222-11 (M)
+	  - Code pénal - art. 222-12 (M)
+	  - Code pénal - art. 222-13 (M)
+	  - Code pénal - art. 222-16 (M)
+	  - Code pénal - art. 222-17 (M)
+	  - Code pénal - art. 222-18 (M)
 	  - Code pénal - art. 222-19 (M)
 	  - Code pénal - art. 222-20 (M)
+	  - Code pénal - art. 222-32 (M)
+	  - Code pénal - art. 223-1 (M)
+	  - Code pénal - art. 311-3 (M)
+	  - Code pénal - art. 311-4 (M)
+	  - Code pénal - art. 313-5 (M)
+	  - Code pénal - art. 314-5 (M)
+	  - Code pénal - art. 314-6 (M)
+	  - Code pénal - art. 321-1 (M)
+	  - Code pénal - art. 322-12 (M)
+	  - Code pénal - art. 322-13 (MMN)
+	  - Code pénal - art. 322-14 (M)
+	  - Code pénal - art. 433-5 (M)
 	  - Code pénal - art. 434-10 (M)
-	  - Code de procédure pénale 398, 393 à 397
+	  - Code pénal - art. 521-1 (M)
+	  - Code pénal 222-19, 222-20, 223-1, 434-10, 222-11, 222-12, 222-13, 222-16, 222-17, 222-18, 222-32, 227-3 à 227-11, 311-3, 311-4, 313-5, 314-5, 314-6, 321-1, 322-1 à 322-4, 322-12, 322-13, 322-14, 433-5, 521-1
+	  - Décret-loi 1852-01-09
+	  - Décret-loi 1935-10-30 art. 66, art. 69
+	  - Décret-loi 1939-04-18 art. 32
 
 
 ###### Article 398-2
 
-Les fonctions du ministère public près le tribunal correctionnel sont exercées par le procureur de la République ou l'un de
-ses substituts ; celles du greffe par un greffier du tribunal de grande instance.
+Lorsque le tribunal correctionnel, dans sa composition prévue par le troisième alinéa de l'article 398, constate que la
+qualification retenue dans l'acte qui le saisit ne relève pas des dispositions de l'article 398-1, il renvoie l'affaire
+devant le tribunal correctionnel siégeant dans les conditions prévues par le premier alinéa de l'article 398.
+
+Lorsque le tribunal correctionnel, dans sa composition prévue par le premier alinéa de l'article 398, constate que la
+qualification retenue dans l'acte qui le saisit relève des dispositions de l'article 398-1, et sous réserve des dispositions
+du dernier alinéa de cet article, l'affaire peut soit être renvoyée devant le tribunal correctionnel siégeant dans les
+conditions prévues par le troisième alinéa de l'article 398, soit être jugée par le seul président.
 
 **Liens relatifs à cet article**
 
@@ -15940,13 +15974,9 @@ ses substituts ; celles du greffe par un greffier du tribunal de grande instance
 
 	  - Ordonnance 58-1296 1958-12-23
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°72-1226 1972-12-29 art. 2 JORF 30 décembre 1972 en vigueur le 1er janvier 1973
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°72-1226 1972-12-29 art. 66
+	  - Loi n°95-125 du 8 février 1995 - art. 38 () JORF 9 février 1995 en vigueur le 6 mars 1995
 
 	**Cité par**:
 
@@ -15956,6 +15986,31 @@ ses substituts ; celles du greffe par un greffier du tribunal de grande instance
 	**Nouveaux textes**:
 
 	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L881-4 (Ab)
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. 398 (M)
+	  - CODE DE PROCEDURE PENALE - art. 398-1 (M)
+
+
+###### Article 398-3
+
+Les fonctions du ministère près le tribunal correctionnel sont exercées par le procureur de la République ou l'un de ses
+substituts ; celles du greffe par un greffier du tribunal de grande instance.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 58-1296 1958-12-23
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°72-1226 1972-12-29 art. 66
+
+	**Créé par**:
+
+	  - Loi n°95-125 du 8 février 1995 - art. 38 () JORF 9 février 1995 en vigueur le 6 mars 1995
 
 
 ###### Article 399
@@ -16138,9 +16193,9 @@ débats, à la disposition du tribunal. Il est alors reconduit à l'audience, o�
 
 ###### Article 406
 
-Le président constate l'identité du prévenu et donne connaissance de l'acte qui a saisi le tribunal. Il constate aussi s'il y
-a lieu la présence ou l'absence de la personne civilement responsable, de la partie civile, des témoins, des experts et des
-interprètes.
+Le président ou l'un des assesseurs, par lui désigné, constate l'identité du prévenu et donne connaissance de l'acte qui a
+saisi le tribunal. Il constate aussi s'il y a lieu la présence ou l'absence de la personne civilement responsable, de la
+partie civile, des témoins, des experts et des interprètes.
 
 **Liens relatifs à cet article**
 
@@ -16155,7 +16210,7 @@ interprètes.
 
 	**Modifié par**:
 
-	  - Loi n°93-1013 1993-08-24 art. 28 JORF 25 août 1993 en vigueur le 2 septembre 1993
+	  - Loi n°95-125 du 8 février 1995 - art. 39 () JORF 9 février 1995 en vigueur le 6 mars 1995
 
 	**Cité par**:
 
@@ -17725,6 +17780,10 @@ intérêts alloués.
 Il a aussi la faculté, s'il ne peut se prononcer en l'état sur la demande en dommages-intérêts, d'accorder à la partie civile
 une provision, exécutoire nonobstant opposition ou appel.
 
+Les dispositions du présent article sont applicables lorsque le tribunal correctionnel, dans sa composition prévue par le
+premier alinéa de l'article 398, estime, au résultat des débats, que le fait qui lui était déféré constitue un délit visé par
+l'article 398-1.
+
 **Liens relatifs à cet article**
 
 	**Liens**:
@@ -17735,6 +17794,15 @@ une provision, exécutoire nonobstant opposition ou appel.
 	**Codifié par**:
 
 	  - Ordonnance 58-1296 1958-12-23
+
+	**Modifié par**:
+
+	  - Loi n°95-125 du 8 février 1995 - art. 38 () JORF 9 février 1995 en vigueur le 6 mars 1995
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. 398 (M)
+	  - CODE DE PROCEDURE PENALE - art. 398-1 (M)
 
 	**Cité par**:
 
@@ -17894,6 +17962,11 @@ tribunal renvoie le ministère public à se pourvoir ainsi qu'il avisera.
 
 Il peut, le ministère public entendu, décerner, par la même décision, mandat de dépôt ou d'arrêt contre le prévenu.
 
+Les dispositions des deux alinéas précédents sont également applicables si le tribunal correctionnel, dans sa composition
+prévue par le troisième alinéa de l'article 398, estime, au résultat des débats, que le fait qui lui était déféré sous la
+qualification de l'un des délits visés à l'article 398-1 est de nature à entraîner une peine prévue pour un délit non visé
+par cet article.
+
 **Liens relatifs à cet article**
 
 	**Liens**:
@@ -17904,6 +17977,15 @@ Il peut, le ministère public entendu, décerner, par la même décision, mandat
 	**Codifié par**:
 
 	  - Ordonnance 58-1296 1958-12-23
+
+	**Modifié par**:
+
+	  - Loi n°95-125 du 8 février 1995 - art. 38 () JORF 9 février 1995 en vigueur le 6 mars 1995
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. 398 (M)
+	  - CODE DE PROCEDURE PENALE - art. 398-1 (M)
 
 	**Cité par**:
 
