@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 1973-04-07
+Version Consolidée au 1974-02-06
 
 # Partie législative
 
@@ -17930,9 +17930,16 @@ inscription ni, le cas échéant, lors d'une nouvelle inscription après radiati
 	  - Code de justice militaire. - art. D269-8 (V)
 
 
-###### Article R108
+###### Article R107
 
-[Article abrogé].
+Lorsque le montant prévu de ses frais et honoraires dépasse 1.000 F, l'expert désigné doit, avant de commencer ses travaux,
+en informer la juridiction qui l'a commis.
+
+Au-dessus de ce montant et sauf cas d'urgence, la demande de l'expert est communiquée au ministère public qui peut, dans le
+délai de trois jours, présenter ses observations. S'il n'en est pas tenu compte, le ministère public peut saisir, par
+l'intermédiaire du procureur général, le président de la chambre d'accusation ou le président de la chambre de contrôle de
+l'instruction de la Cour de sûreté de l'Etat. La décision de ce magistrat doit intervenir dans les huit jours [*délai*] et
+elle ne peut faire l'objet de recours.
 
 **Liens relatifs à cet article**
 
@@ -17944,13 +17951,17 @@ inscription ni, le cas échéant, lors d'une nouvelle inscription après radiati
 
 	  - Décret n°59-318 1959-02-23 JORF 25 février 1959 en vigueur le 2 mars 1959 rectificatif JORF 13 juin 1959
 
-	**Abrogé par**:
+	**Modifié par**:
 
 	  - Décret n°74-88 1974-02-04 art. 1 JORF 6 février 1974
 
 	**Liens**:
 
 	  - TXT_SOURCE: CODE DE PROCEDURE PENALE - art. 800 (M)
+
+	**Cité par**:
+
+	  - Code de justice militaire. - art. D269-8 (V)
 
 
 ###### Article R109
@@ -18112,6 +18123,44 @@ conviction et de tous autres débours reconnus indispensables.
 ##### Paragraphe 1er : Des témoins
 
 ##### A : Règles générales
+
+###### Article R123
+
+Il peut être accordé aux témoins, s'ils le requièrent :
+
+1. Une indemnité de comparution ;
+
+2. Des frais de voyage ;
+
+3. Une indemnité journalière de séjour.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-318 1959-02-23
+
+	**Créé par**:
+
+	  - Décret n°59-318 1959-02-23 JORF 25 février 1959 en vigueur le 2 mars 1959 rectificatif JORF 13 juin 1959
+
+	**Modifié par**:
+
+	  - Décret n°74-88 1974-02-04 art. 1 JORF 6 février 1974
+
+	**Liens**:
+
+	  - TXT_SOURCE: CODE DE PROCEDURE PENALE - art. 800 (M)
+
+	**Cité par**:
+
+	  - Code de justice militaire. - art. D269-4 (V)
+	  - Code de justice militaire. - art. D269-9 (V)
+	  - Code de procédure pénale - art. R128 (V)
+	  - Code de procédure pénale - art. R92 (V)
+	  - Code des pensions militaires d'invalidité et de... - art. D711-7 (V)
+	  - Code des pensions militaires d'invalidité et de... - art. D711-8 (V)
+
 
 ###### Article R124
 
@@ -18475,6 +18524,41 @@ des mineurs de seize ans ou des témoins malades ou infirmes dans les conditions
 
 ##### Paragraphe 2 : Des membres du jury criminel
 
+###### Article R139
+
+Il est accordé aux membres du jury criminel, s'ils le requièrent et quand il y a lieu :
+
+1° Une indemnité de session ;
+
+2° Des frais de voyage ;
+
+3° Une indemnité journalière de séjour.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-318 1959-02-23
+
+	**Créé par**:
+
+	  - Décret n°59-318 1959-02-23 JORF 25 février 1959 en vigueur le 2 mars 1959 rectificatif JORF 13 juin 1959
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°59-318 1959-02-23 art. 5
+	  - TXT_SOURCE: CODE DE PROCEDURE PENALE - art. 800 (M)
+
+	**Modifié par**:
+
+	  - Décret n°74-88 1974-02-04 art. 1 JORF 6 février 1974
+
+	**Cité par**:
+
+	  - CODE DE PROCEDURE PENALE - art. R412 (V)
+	  - Code de justice militaire. - art. D269-10 (Ab)
+
+
 ###### Article R140
 
 Il est accordé aux jurés, pendant la durée de la session, une indemnité journalière déterminée par la formule suivante :
@@ -18587,6 +18671,41 @@ Les jurés complémentaires n'ont droit à l'indemnité de session que s'ils ont
 	**Liens**:
 
 	  - TXT_SOURCE: CODE DE PROCEDURE PENALE - art. 800 (M)
+
+
+###### Article R145
+
+Le président de la Cour d'assises délivre, jour par jour, aux membres du jury criminel qui en font la demande, les
+ordonnances de taxe correspondant aux indemnités journalières auxquelles ils ont droit.
+
+Mention de ces ordonnances de taxe partielle est faite sur la copie de la notification délivrée aux jurés en exécution de
+l'article 267 pour être ensuite déduite de l'ordonnance de taxe définitive.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-318 1959-02-23
+
+	**Créé par**:
+
+	  - Décret n°59-318 1959-02-23 JORF 25 février 1959 en vigueur le 2 mars 1959 rectificatif JORF 13 juin 1959
+
+	**Modifié par**:
+
+	  - Décret n°74-88 1974-02-04 art. 1 JORF 6 février 1974
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. 267 (M)
+
+	**Liens**:
+
+	  - TXT_SOURCE: CODE DE PROCEDURE PENALE - art. 800 (M)
+
+	**Cité par**:
+
+	  - CODE DE PROCEDURE PENALE - art. R412 (V)
 
 
 ##### Section 4 : Des frais de garde des scellés, de mise en fourrière et de l'immobilisation décidée en application de l'article 43-3-3° bis du code pénal
@@ -18914,6 +19033,43 @@ ministère public, soit par les défenseurs des prévenus ou accusés, mais seul
 	  - TXT_SOURCE: CODE DE PROCEDURE PENALE - art. 800 (M)
 
 
+##### c) Expéditions délivrées par les surveillants chefs des maisons d'arrêt.
+
+###### Article R166
+
+Il est alloué un droit fixe de 0,50 F au surveillant chef de la maison d'arrêt pour l'expédition de l'acte d'écrou qui doit
+être jointe au dossier, soit dans le cas prévu à l'article 583, soit pour assurer l'exécution des dispositions de la loi du
+17 juillet 1970 relative à la tutelle pénale.
+
+**Nota:**
+
+NOTA : La loi 81-82 du 2 février 1981 art. 70 a supprimé la tutelle pénale.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-318 1959-02-23
+
+	**Créé par**:
+
+	  - Décret n°59-318 1959-02-23 JORF 25 février 1959 en vigueur le 2 mars 1959 rectificatif JORF 13 juin 1959
+
+	**Modifié par**:
+
+	  - Décret n°67-62 1967-01-14 art. 1 JORF 20 janvier 1967
+	  - Décret n°74-88 1974-02-04 art. 1 JORF 6 février 1974
+
+	**Abrogé par**:
+
+	  - Décret n°99-203 du 18 mars 1999 - art. 12 () JORF 20 mars 1999
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. 583 (M)
+	  - Loi n°1970-07-17
+
+
 ##### C : Droits forfaitaires
 
 ###### Article R168
@@ -19137,25 +19293,6 @@ Les copies de tous actes, jugements et pièces à signifier sont toujours faites
 	  - Décret n°67-902 du 12 octobre 1967 - art. 34 (Ab)
 
 
-###### Article R186
-
-[*Article abrogé*].
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°59-318 1959-02-23
-
-	**Créé par**:
-
-	  - Décret n°59-318 1959-02-23 JORF 25 février 1959 en vigueur le 2 mars 1959 rectificatif JORF 13 juin 1959
-
-	**Abrogé par**:
-
-	  - Décret n°74-88 1974-02-04 art. 1 JORF 6 février 1974
-
-
 ###### Article R187
 
 Sauf disposition spéciale des lois et règlements il n'est alloué aucune taxe aux agents de la force publique à raison des
@@ -19255,6 +19392,196 @@ ordonnances de prise de corps, arrêts ou jugements de condamnations.
 	  - Code de procédure pénale - art. R190 (V)
 
 
+###### Article R190
+
+Il est alloué aux personnes mentionnées à l'article R188, pour l'exécution des mandats d'amener ou des mesures de contrainte
+exercées contre les témoins défaillants en vertu des articles 109, 110 et 153, une prime de 5 F.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-318 1959-02-23
+
+	**Créé par**:
+
+	  - Décret n°59-318 1959-02-23 JORF 25 février 1959 en vigueur le 2 mars 1959 rectificatif JORF 13 juin 1959
+
+	**Modifié par**:
+
+	  - Décret n°67-62 1967-01-14 art. 1 JORF 20 janvier 1967
+	  - Décret n°74-88 1974-02-04 art. 1 JORF 6 février 1974
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. 109 (M)
+	  - CODE DE PROCEDURE PENALE - art. 110 (M)
+	  - Code de procédure pénale 109, 110, 153 et R188
+
+	**Cité par**:
+
+	  - Code de procédure pénale - art. R189 (V)
+
+
+###### Article R191
+
+Il est alloué aux personnes mentionnées à l'article R. 188, pour capture ou saisie de la personne, en exécution :
+
+1° D'un jugement de police ou d'un jugement ou arrêt correctionnel prononçant une peine d'emprisonnement n'excédant pas dix
+jours : 5 F.
+
+2° D'un mandat d'arrêt ou d'un jugement ou arrêt en matière correctionnelle emportant peine d'emprisonnement de plus de dix
+jours : 7 F.
+
+3° D'une ordonnance de prise de corps ou d'un arrêt de condamnation à une peine de réclusion criminelle à temps n'excédant
+pas dix ans : 10 F.
+
+4° D'un arrêt de condamnation à une peine de réclusion criminelle à temps excédant dix ans ou à une peine plus forte : 20 F.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-318 1959-02-23
+
+	**Créé par**:
+
+	  - Décret n°59-318 1959-02-23 JORF 25 février 1959 en vigueur le 2 mars 1959 rectificatif JORF 13 juin 1959
+
+	**Cité par**:
+
+	  - Décret n°64-1333 du 22 décembre 1964 - art. 8 (V)
+
+	**Modifié par**:
+
+	  - Décret n°67-62 1967-01-14 art. 1 JORF 20 janvier 1967
+	  - Décret n°74-88 1974-02-04 art. 1 JORF 6 février 1974
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. R188 (V)
+
+
+##### Paragraphe 4 : Exécution des arrêts de contumace
+
+###### Article R192
+
+Pour les affiches de l'ordonnance qui, aux termes des articles 627 et 628, doit être rendue et publiée contre les contumax, y
+compris le procès-verbal de la publication, il est alloué aux huissiers de justice une indemnité de 7,50 F.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-318 1959-02-23
+
+	**Créé par**:
+
+	  - Décret n°59-318 1959-02-23 JORF 25 février 1959 en vigueur le 2 mars 1959 rectificatif JORF 13 juin 1959
+
+	**Modifié par**:
+
+	  - Décret n°67-62 1967-01-14 art. 1 JORF 20 janvier 1967
+	  - Décret n°74-88 1974-02-04 art. 1 JORF 6 février 1974
+
+	**Cite**:
+
+	  - Code de procédure pénale 627 et 628
+
+
+###### Article R193
+
+Il est alloué aux huissiers de justice pour l'apposition de chacun des trois extraits de l'arrêt de condamnation par
+contumace qui doit être affiché, conformément à l'article 634, et pour la rédaction du procès-verbal constatant
+l'accomplissement de cette formalité, un droit de 3,75 F.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-318 1959-02-23
+
+	**Créé par**:
+
+	  - Décret n°59-318 1959-02-23 JORF 25 février 1959 en vigueur le 2 mars 1959 rectificatif JORF 13 juin 1959
+
+	**Modifié par**:
+
+	  - Décret n°67-62 1967-01-14 art. 1 JORF 20 janvier 1967
+	  - Décret n°74-88 1974-02-04 art. 1 JORF 6 février 1974
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. 634 (M)
+
+
+##### Paragraphe 5 : Frais de voyage et de séjour
+
+###### Article R194
+
+Il est alloué aux huissiers de justice, qui se transportent hors de la commune de leur résidence, l'indemnité prévue à
+l'article R110. 
+
+Les huissiers de justice titulaires de permis de circulation ou jouissant à titre personnel ou en raison de leur emploi, de
+réductions de tarifs, n'ont pas droit au remboursement des frais de transport pour la partie correspondant à l'exonération
+dont ils bénéficient. Les demandes de remboursement de frais de transport doivent être obligatoirement accompagnées d'une
+déclaration des intéressés certifiant qu'ils ne bénéficient pas, à quelque titre que ce soit, d'avantages de tarifs, ou dans
+le cas contraire, qu'ils ne bénéficient pas d'autres avantages que ceux dont il est fait état dans la demande. 
+
+Il n'est dû aucun transport dans les limites des villes ou chefs-lieux de commune, telles qu'elles sont actuellement fixées.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-318 1959-02-23
+
+	**Créé par**:
+
+	  - Décret n°59-318 1959-02-23 JORF 25 février 1959 en vigueur le 2 mars 1959 rectificatif JORF 13 juin 1959
+
+	**Modifié par**:
+
+	  - Décret n°61-448 1961-05-08 art. 1 JORF 9 mai 1961
+	  - Décret n°67-62 1967-01-14 art. 1 JORF 20 janvier 1967
+	  - Décret n°74-88 1974-02-04 art. 1 JORF 6 février 1974
+
+	**Cite**:
+
+	  - Code de procédure pénale - art. 110 (V)
+
+	**Cité par**:
+
+	  - Code de procédure pénale - art. R344 (V)
+	  - Code de procédure pénale - art. R420 (V)
+
+
+###### Article R195
+
+Il est alloué, à compter du second jour, une indemnité de 30 F par jour aux huissiers de justice retenus en dehors de leur
+résidence soit par l'accomplissement de leurs fonctions, soit en raison de la durée du déplacement, soit par un cas de force
+majeure dûment constatée.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-318 1959-02-23
+
+	**Créé par**:
+
+	  - Décret n°59-318 1959-02-23 JORF 25 février 1959 en vigueur le 2 mars 1959 rectificatif JORF 13 juin 1959
+
+	**Modifié par**:
+
+	  - Décret n°67-62 1967-01-14 art. 1 JORF 20 janvier 1967
+	  - Décret n°74-88 1974-02-04 art. 1 JORF 6 février 1974
+
+	**Cité par**:
+
+	  - Code de procédure pénale - art. R345 (V)
+
+
 ##### Paragraphe 6 : Dispositions générales
 
 ###### Article R196
@@ -19332,6 +19659,40 @@ peines qu'il aura encourues.
 	**Liens**:
 
 	  - SPEC_APPLI: Décret n°59-318 1959-02-23 art. 5
+
+
+###### Article R199
+
+Les huissiers de justice ne peuvent, pour quelque cause et sous quelque prétexte que ce soit, exiger d'autres ou de plus
+forts droits que ceux qui leur sont alloués par le présent titre.
+
+Par dérogation à la règle établie à l'alinéa précédent, sont fixés conformément aux tarifs en matière civile, sauf pour les
+parties civiles visées à l'article R247, les frais des actes délivrés à la requête des parties civiles après l'extinction de
+l'action publique et en vue de faire statuer uniquement sur les intérêts civils.
+
+Ces frais sont à la charge des intéressés et ne sont pas imputables sur les crédits de la justice criminelle.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-318 1959-02-23
+
+	**Créé par**:
+
+	  - Décret n°59-318 1959-02-23 JORF 25 février 1959 en vigueur le 2 mars 1959 rectificatif JORF 13 juin 1959
+
+	**Modifié par**:
+
+	  - Décret n°74-88 1974-02-04 art. 1 JORF 6 février 1974
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. R247 (Ab)
+
+	**Cité par**:
+
+	  - Code de procédure pénale - art. R346 (V)
 
 
 ##### Section 7 : Indemnités de transport et de séjour accordées aux magistrats et aux greffiers
@@ -19788,6 +20149,248 @@ Les frais de justice criminelle, correctionnelle et de police, sont payés sur l
 	  - Code forestier de Mayotte - art. R153-3 (Ab)
 
 
+###### Article R223
+
+Sous peine de rejet, les états ou mémoires sont dressés conformément aux modèles arrêtés par le ministre de la Justice.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-318 1959-02-23
+
+	**Créé par**:
+
+	  - Décret n°59-318 1959-02-23 JORF 25 février 1959 en vigueur le 2 mars 1959 rectificatif JORF 13 juin 1959
+
+	**Modifié par**:
+
+	  - Décret n°74-88 1974-02-04 art. 1 JORF 6 février 1974
+
+	**Cité par**:
+
+	  - Décret n°2014-461 du 7 mai 2014 - art. 5 (V)
+
+
+###### Article R224
+
+Les parties prenantes dressent leurs états ou mémoires de frais de justice en un exemplaire sur papier non timbré.
+
+Tout état ou mémoire fait au nom de deux ou plusieurs parties prenantes doit être signé par chacune d'elles ; le paiement ne
+peut être fait que sur leur acquit individuel ou sur celui de la personne qu'elles ont autorisée, spécialement et par écrit,
+à toucher le montant de l'état ou mémoire. Cette autorisation est mise au bas de l'état et ne donne lieu à la perception
+d'aucun droit.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-318 1959-02-23
+
+	**Créé par**:
+
+	  - Décret n°59-318 1959-02-23 JORF 25 février 1959 en vigueur le 2 mars 1959 rectificatif JORF 13 juin 1959
+
+	**Modifié par**:
+
+	  - Décret n°74-88 1974-02-04 art. 1 JORF 6 février 1974
+
+	**Abrogé par**:
+
+	  - Décret n°88-600 du 6 mai 1988 - art. 14 () JORF 8 mai 1988 en vigueur le 1er octobre 1988
+
+
+###### Article R225
+
+La partie prenante dépose ou adresse son état ou mémoire au parquet près la juridiction compétente.
+
+Lorsque le mémoire porte sur des frais devant une juridiction de l'ordre judiciaire autre que le tribunal de grande instance,
+le parquet compétent est celui du ressort dans lequel la juridiction a son siège.
+
+Le magistrat du ministère public transmet l'état ou mémoire, assorti de ses réquisitions, au magistrat taxateur.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-318 1959-02-23
+
+	**Créé par**:
+
+	  - Décret n°59-318 1959-02-23 JORF 25 février 1959 en vigueur le 2 mars 1959 rectificatif JORF 13 juin 1959
+
+	**Modifié par**:
+
+	  - Décret n°67-62 1967-01-14 art. 1 JORF 20 janvier 1967
+	  - Décret n°74-88 1974-02-04 art. 1 JORF 6 février 1974
+
+	**Cité par**:
+
+	  - Décret n°2014-461 du 7 mai 2014 - art. 6 (V)
+	  - Arrêté du 25 novembre 2016 - art. 1
+	  - Code de procédure pénale - art. A43-17 (V)
+	  - Code de procédure pénale - art. R214 (V)
+	  - Code de procédure pénale - art. R224-1 (V)
+	  - Code de procédure pénale - art. R224-2 (V)
+
+
+###### Article R227
+
+Lorsque les réquisitions du ministère public tendent à ce que la demande de la partie prenante soit accueillie sans
+modification, l'ordonnance de taxe n'est susceptible d'aucun recours si le montant de la somme allouée est conforme à ladite
+demande.
+
+Sous réserve des dispositions de l'article R. 232, alinéa 1er, le mémoire taxé est adressé avec la mention " taxe définitive
+" à la partie prenante par le secrétaire-greffier.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-318 1959-02-23
+
+	**Cité par**:
+
+	  - CODE DE PROCEDURE PENALE - art. R229-1 (Ab)
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. R232 (M)
+
+
+###### Article R228
+
+Lorsque la taxe diffère soit de la demande de la partie prenante, soit des réquisitions du ministère public, un exemplaire de
+l'ordonnance de taxe est notifié par le secrétaire-greffier au parquet et notifié en la forme administrative ou par lettre
+recommandée à la partie prenante. 
+
+Le ministère public et la partie prenante disposent d'un délai de dix jours à compter de cette notification pour former un
+recours contre l'ordonnance de taxe. 
+
+Ces recours sont formés par déclaration au greffe du magistrat taxateur ou par lettre recommandée adressée à ce greffe. 
+
+La partie prenante est informée du recours du procureur de la République en la forme administrative ou par lettre
+recommandée. 
+
+Les recours sont portés devant la chambre de l'instruction quelle que soit la juridiction à laquelle appartient le magistrat
+taxateur ou, si les frais ont été exposés devant la Cour de sûreté de l'Etat, devant la chambre de contrôle de
+l'instruction. 
+
+Le pourvoi en cassation est ouvert dans tous les cas sous réserve des dispositions du premier alinéa de l'article 46 de la
+loi n° 63-23 du 15 janvier 1963.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-318 1959-02-23
+
+	**Créé par**:
+
+	  - Décret n°59-318 1959-02-23 JORF 25 février 1959 en vigueur le 2 mars 1959 rectificatif JORF 13 juin 1959
+
+	**Cite**:
+
+	  - Loi n°63-23 1963-01-15 art. 46
+
+	**Modifié par**:
+
+	  - Décret n°74-88 1974-02-04 art. 1 JORF 6 février 1974
+
+	**Cité par**:
+
+	  - Code de procédure pénale - art. R214 (V)
+
+
+###### Article R229
+
+Les dispositions des articles R222 à R228 ne sont pas applicables à la taxe :
+
+1° Des indemnités des témoins, des jurés et des interprètes ;
+
+2° Des dépenses de toute nature inférieures à un maximum fixé par les instructions du ministre de la Justice.
+
+Dans ces cas, la taxe du magistrat compétent est apposée sans réquisitoire du parquet sur les réquisitions, convocations ou
+copies de citation, états ou mémoires des parties prenantes.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-318 1959-02-23
+
+	**Créé par**:
+
+	  - Décret n°59-318 1959-02-23 JORF 25 février 1959 en vigueur le 2 mars 1959 rectificatif JORF 13 juin 1959
+
+	**Modifié par**:
+
+	  - Décret n°74-88 1974-02-04 art. 1 JORF 6 février 1974
+
+	**Cité par**:
+
+	  - Code de procédure pénale - art. R214 (V)
+	  - Code de procédure pénale - art. R355 (VT)
+	  - Code de procédure pénale - art. R425 (V)
+
+	**Cite**:
+
+	  - Code de procédure pénale R222 à R228
+
+
+###### Article R229-1
+
+Dans les cas prévus à l'article R. 229, lorsque la taxe diffère de la demande de la partie prenante, cette dernière peut,
+dans les dix jours de la perception de la somme qui lui a été allouée adresser une simple réclamation au magistrat du
+ministère public qui saisit de ses réquisitions le magistrat taxateur.
+
+Il est procédé conformément aux dispositions des articles R. 227 et R. 228.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-318 1959-02-23
+
+	**Créé par**:
+
+	  - Décret n°74-88 1974-02-04 art. 1 JORF 6 février 1974
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. R227 (M)
+	  - Code de procédure pénale R227, R228 et R229
+
+	**Abrogé par**:
+
+	  - Loi n°88-600 1988-05-06 art. 14 JORF 8 mai 1988 en vigueur le 1er octobre 1988
+
+
+###### Article R231
+
+Les contestations relatives à la liquidation des dépens en matière d'ordonnance pénale sont portées devant le juge qui a
+prononcé la condamnation, dans les conditions prévues aux articles 710 et suivants du Code de procédure pénale.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-318 1959-02-23
+
+	**Créé par**:
+
+	  - Décret n°59-318 1959-02-23 JORF 25 février 1959 en vigueur le 2 mars 1959 rectificatif JORF 13 juin 1959
+
+	**Modifié par**:
+
+	  - Décret n°72-630 1972-07-04 art. 7 JORF 9 juillet 1972
+	  - Décret n°74-88 1974-02-04 art. 1 JORF 6 février 1974
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. 710 (M)
+
+
 ##### Paragraphe 2 : Paiement.
 
 ###### Article R234
@@ -19815,6 +20418,37 @@ Les frais de justice criminelle, correctionnelle et de police, sont payés sur l
 
 
 ##### Section 2 : De la consignation par la partie civile pour frais de procédure
+
+###### Article R236
+
+En matière criminelle, correctionnelle ou de police, et sans préjudice en ce qui concerne l'instruction des dispositions de
+l'article 88, la partie qui n'a pas obtenu l'aide judiciaire est tenue, sous peine de non-recevabilité, de déposer au greffe
+la somme présumée nécessaire pour les frais de la procédure toutes les fois que, devant une juridiction d'instruction ou de
+jugement, son action n'est pas jointe à l'action préalable du ministère public.
+
+En cas de citation directe devant le tribunal ou en cas d'appel, la juridiction saisie fixe le montant de la consignation à
+la première audience où l'affaire est portée.
+
+Un supplément de consignation peut être exigé au cours des poursuites, soit pendant l'instruction, soit devant la juridiction
+de jugement, dès que le reliquat paraît insuffisant pour assurer le paiement de tous les frais, y compris l'enregistrement du
+jugement.
+
+Il ne peut être exigé aucune rétribution pour la garde de ce dépôt, à peine de concussion.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-318 1959-02-23
+
+	**Créé par**:
+
+	  - Décret n°59-318 1959-02-23 JORF 25 février 1959 en vigueur le 2 mars 1959 rectificatif JORF 13 juin 1959
+
+	**Modifié par**:
+
+	  - Décret n°74-88 1974-02-04 art. 1 JORF 6 février 1974
+
 
 ###### Article R237
 
@@ -19859,6 +20493,153 @@ Les frais de justice criminelle, correctionnelle et de police, sont payés sur l
 
 
 ##### Section 3 : De la liquidation et du recouvrement des frais
+
+##### Paragraphe 1er : Liquidation des frais
+
+###### Article R242
+
+Il est dressé pour chaque affaire criminelle ou de police, un état de liquidation des frais autres que ceux qui sont à la
+charge de l'Etat sans recours envers les condamnés.
+
+Au cours de l'instruction, cet état est dressé par le greffier d'instruction au fur et à mesure des frais comme il est dit à
+l'article 81, alinéa 2.
+
+Cette liquidation doit être insérée soit dans l'ordonnance, soit dans l'arrêt, le jugement ou l'ordonnance pénale qui
+prononce la condamnation aux frais.
+
+Lorsque cette insertion ne peut être faite, le juge décerne exécutoire contre qui de droit, au bas de l'état même de
+liquidation.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-318 1959-02-23
+
+	**Créé par**:
+
+	  - Décret n°59-318 1959-02-23 JORF 25 février 1959 en vigueur le 2 mars 1959 rectificatif JORF 13 juin 1959
+
+	**Modifié par**:
+
+	  - Décret n°72-630 1972-07-04 art. 8 JORF 9 juillet 1972
+	  - Décret n°74-88 1974-02-04 art. 1 JORF 6 février 1974
+
+	**Cite**:
+
+	  - Code de procédure pénale 81 al. 2
+
+
+###### Article R243
+
+Pour faciliter la liquidation, les officiers de police judiciaire et les juges d'instruction, aussitôt qu'ils ont terminé
+leurs fonctions relativement à chaque affaire, doivent joindre aux pièces un relevé des frais auxquels ont donné lieu les
+actes dont ils ont été chargés.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-318 1959-02-23
+
+	**Créé par**:
+
+	  - Décret n°59-318 1959-02-23 JORF 25 février 1959 en vigueur le 2 mars 1959 rectificatif JORF 13 juin 1959
+
+	**Modifié par**:
+
+	  - Décret n°74-88 1974-02-04 art. 1 JORF 6 février 1974
+
+	**Abrogé par**:
+
+	  - Décret n°93-867 du 28 juin 1993 - art. 20 (V) JORF 29 juin 1993
+
+
+###### Article R244
+
+Le greffier doit remettre au trésorier-payeur général, dès que la condamnation est devenue définitive, un extrait de
+l'ordonnance, jugement ou arrêt, pour ce qui concerne la liquidation et la condamnation au remboursement des frais ou une
+copie de l'état de liquidation rendu exécutoire.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-318 1959-02-23
+
+	**Créé par**:
+
+	  - Décret n°59-318 1959-02-23 JORF 25 février 1959 en vigueur le 2 mars 1959 rectificatif JORF 13 juin 1959
+
+	**Modifié par**:
+
+	  - Décret n°74-88 1974-02-04 art. 1 JORF 6 février 1974
+
+
+##### Paragraphe 2 : Personnes contre lesquelles le recouvrement des frais peut être poursuivi
+
+###### Article R246
+
+En matière criminelle, correctionnelle et de police, et sans préjudice des dispositions de l'article 177, alinéa 4, la partie
+civile qui n'a pas succombé n'est jamais tenue des frais, sauf de ceux occasionnés par elle et qui ont été déclarés
+frustratoires.
+
+Le montant de la consignation par elle effectuée lui est restitué dans les conditions prévues aux articles R239 et R240.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-318 1959-02-23
+
+	**Créé par**:
+
+	  - Décret n°59-318 1959-02-23 JORF 25 février 1959 en vigueur le 2 mars 1959 rectificatif JORF 13 juin 1959
+
+	**Modifié par**:
+
+	  - Décret n°74-88 1974-02-04 art. 1 JORF 6 février 1974
+
+	**Abrogé par**:
+
+	  - Décret n°93-867 du 28 juin 1993 - art. 20 (V) JORF 29 juin 1993
+
+	**Cite**:
+
+	  - Code de procédure pénale 177 al. 4, R239 et R240
+
+
+###### Article R247
+
+Sont assimilés aux parties civiles, sauf en ce qui concerne la consignation préalable :
+
+1° Toute administration publique, relativement aux procès suivis, soit à sa requête, soit d'office et dans son intérêt ;
+
+2° Les départements, les communes et les établissements publics dans les procès instruits à leur requête ou d'office pour les
+délits commis contre leurs domaines publics ou privés.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-318 1959-02-23
+
+	**Créé par**:
+
+	  - Décret n°59-318 1959-02-23 JORF 25 février 1959 en vigueur le 2 mars 1959 rectificatif JORF 13 juin 1959
+
+	**Modifié par**:
+
+	  - Décret n°74-88 1974-02-04 art. 1 JORF 6 février 1974
+
+	**Abrogé par**:
+
+	  - Décret n°93-867 du 28 juin 1993 - art. 20 (V) JORF 29 juin 1993
+
+	**Cité par**:
+
+	  - CODE DE PROCEDURE PENALE - art. R199 (M)
+
 
 ##### Paragraphe 3 : Régularisation des dépenses - Recouvrement
 
