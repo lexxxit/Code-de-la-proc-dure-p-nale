@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 2000-06-16
+Version Consolidée au 2000-07-01
 
 # Partie législative
 
@@ -26227,6 +26227,50 @@ commise à l'encontre des services d'un aérodrome affecté à l'aviation civile
 	  - Protocole 1988-02-24, fait à Montréal
 
 
+###### Article 689-8
+
+Pour l'application du protocole à la convention relative à la protection des intérêts financiers des Communautés européennes
+fait à Dublin le 27 septembre 1996 et de la convention relative à la lutte contre la corruption impliquant des fonctionnaires
+des Communautés européennes ou des fonctionnaires des Etats membres de l'Union européenne faite à Bruxelles le 26 mai 1997,
+peut être poursuivi et jugé dans les conditions prévues à l'article 689-1 :
+
+1° Tout fonctionnaire communautaire au service d'une institution des Communautés européennes ou d'un organisme créé
+conformément aux traités instituant les Communautés européennes et ayant son siège en France, coupable du délit prévu à
+l'article 435-1 du code pénal ou d'une infraction portant atteinte aux intérêts financiers des Communautés européennes au
+sens de la convention relative à la protection des intérêts financiers des Communautés européennes faite à Bruxelles le 26
+juillet 1995 ;
+
+2° Tout Français ou toute personne appartenant à la fonction publique française coupable d'un des délits prévus aux articles
+435-1 et 435-2 du code pénal ou d'une infraction portant atteinte aux intérêts financiers des Communautés européennes au sens
+de la convention relative à la protection des intérêts financiers des Communautés européennes faite à Bruxelles le 26 juillet
+1995 ;
+
+3° Toute personne coupable du délit prévu à l'article 435-2 du code pénal ou d'une infraction portant atteinte aux intérêts
+financiers des Communautés européennes au sens de la convention relative à la protection des intérêts financiers des
+Communautés européennes faite à Bruxelles le 26 juillet 1995, lorsque ces infractions sont commises à l'encontre d'un
+ressortissant français.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 58-1296 1958-12-23
+
+	**Créé par**:
+
+	  - Loi n°2000-595 du 30 juin 2000 - art. 4 () JORF 1er juillet 2000
+
+	**Cité par**:
+
+	  - Loi n°2000-595 du 30 juin 2000 - art. 3 (Ab)
+
+	**Cite**:
+
+	  - Code pénal - art. 435-1 (M)
+	  - Code pénal - art. 435-2 (M)
+	  - CODE DE PROCEDURE PENALE - art. 689-1 (M)
+
+
 ###### Article 689-9
 
 Pour l'application de la convention internationale pour la répression des attentats terroristes, ouverte à la signature à New
@@ -26280,7 +26324,7 @@ jugée définitivement à l'étranger pour les mêmes faits et, en cas de condam
 La juridiction compétente est celle du lieu où réside le prévenu, celle de sa dernière résidence connue, celle du lieu où il
 est trouvé, celle de la résidence de la victime ou, si l'infraction a été commise à bord ou à l'encontre d'un aéronef, celle
 du lieu d'atterrissage de celui-ci. Ces dispositions ne sont pas exclusives de l'application éventuelle des règles
-particulières de compétence prévues par les articles 697-3, 705 et 706-17.
+particulières de compétence prévues par les articles 697-3, 705, 706-1 et 706-17.
 
 Lorsque les dispositions de l'alinéa précédent ne peuvent recevoir application, la juridiction compétente est celle de Paris,
 à moins que la connaissance de l'affaire ne soit renvoyée à une juridiction plus voisine du lieu de l'infraction par la Cour
@@ -26294,12 +26338,17 @@ de cassation statuant sur la requête du ministère public ou à la demande des 
 
 	**Modifié par**:
 
-	  - Loi n°99-515 du 23 juin 1999 - art. 30 () JORF 24 juin 1999
+	  - Loi n°2000-595 du 30 juin 2000 - art. 5 () JORF 1er juillet 2000
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°2000-595 du 30 juin 2000 - art. 8 (M)
 
 	**Cite**:
 
 	  - CODE DE PROCEDURE PENALE - art. 697-3 (M)
 	  - CODE DE PROCEDURE PENALE - art. 705 (M)
+	  - CODE DE PROCEDURE PENALE - art. 706-1 (Ab)
 	  - CODE DE PROCEDURE PENALE - art. 706-17 (M)
 
 	**Cité par**:
@@ -27116,7 +27165,7 @@ prévues par le présent titre pour la poursuite, l'instruction et, s'il s'agit 
 suivantes dans les affaires qui sont ou apparaîtraient d'une grande complexité :
 
 1° Délits prévus par les articles 222-38, 313-1, 313-2, 313-4, 313-6, 314-1, 314-2, 324-1, 324-2, 432-10 à 432-15, 433-1,
-433-2 et 434-9 du code pénal ;
+433-2, 434-9, 435-1 et 435-2 du code pénal ;
 
 2° Délits prévus par la loi n° 66-537 du 24 juillet 1966 sur les sociétés commerciales ;
 
@@ -27181,16 +27230,14 @@ jugement spécialisées en matière économique et financière après avis de l'
 	  - Code pénal - art. 433-1 (M)
 	  - Code pénal - art. 433-2 (M)
 	  - Code pénal - art. 434-9 (M)
-	  - Code pénal 222-38, 313-1, 313-2, 313-4, 313-6, 314-1, 314-2, 432-10 à 432-15, 433-1, 433-2, 434-9, 324-1, 324-2
+	  - Code pénal - art. 435-1 (M)
+	  - Code pénal - art. 435-2 (M)
+	  - Code pénal 222-38, 313-1, 313-2, 313-4, 313-6, 314-1, 314-2, 432-10 à 432-15, 433-1, 433-2, 434-9, 324-1, 324-2, 435-1, 435-2
 	  - Loi n°1885-03-28
 
 	**Codifié par**:
 
 	  - Ordonnance 58-1296 1958-12-23
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°75-701 1975-08-06 décret fixant la date d'entrée en vigueur - absence
 
 	**Cité par**:
 
@@ -27226,7 +27273,11 @@ jugement spécialisées en matière économique et financière après avis de l'
 
 	**Modifié par**:
 
-	  - Loi n°96-392 du 13 mai 1996 - art. 3 () JORF 14 mai 1996
+	  - Loi n°2000-595 du 30 juin 2000 - art. 6 () JORF 1er juillet 2000
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°2000-595 du 30 juin 2000 - art. 8 (M)
 
 
 ###### Article 706
@@ -27275,6 +27326,44 @@ assistants spécialisés sont nommés et les modalités selon lesquelles ils pr�
 	  - Code de procédure pénale - art. 706-2 (VT)
 	  - Code de procédure pénale - art. R50 bis (V)
 	  - Code de procédure pénale - art. R50 ter (V)
+
+
+###### Article 706-1
+
+Pour la poursuite, l'instruction et le jugement des actes incriminés par les articles 435-3 et 435-4 du code pénal, le
+procureur de la République de Paris, le juge d'instruction et le tribunal correctionnel de Paris exercent une compétence
+concurrente à celle qui résulte de l'application des articles 43, 52, 282, du second alinéa de l'article 663 et de l'article
+706-42.
+
+Lorsqu'ils sont compétents pour la poursuite et l'instruction des infractions prévues aux articles 435-3 et 435-4 du code
+pénal, le procureur de la République et le juge d'instruction de Paris excercent leurs attributions sur toute l'étendue du
+territoire national.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 58-1296 1958-12-23
+
+	**Modifié par**:
+
+	  - Loi n°2000-595 du 30 juin 2000 - art. 5 () JORF 1er juillet 2000
+
+	**Cite**:
+
+	  - Code pénal - art. 435-3 (M)
+	  - Code pénal - art. 435-4 (M)
+	  - CODE DE PROCEDURE PENALE - art. 282 (M)
+	  - CODE DE PROCEDURE PENALE - art. 43 (M)
+	  - CODE DE PROCEDURE PENALE - art. 5 (V)
+	  - CODE DE PROCEDURE PENALE - art. 663 (M)
+	  - CODE DE PROCEDURE PENALE - art. 706-42 (V)
+
+	**Cité par**:
+
+	  - CODE DE PROCEDURE PENALE - art. 704 (M)
+	  - CODE DE PROCEDURE PENALE - art. 706-2 (Ab)
+	  - Code de procédure pénale - art. 693 (V)
 
 
 ### Titre XIII : De la poursuite, de l'instruction et du jugement des infractions en matière économique et financière
