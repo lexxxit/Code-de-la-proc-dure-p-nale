@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 1993-08-07
+Version Consolidée au 1993-08-11
 
 # Partie législative
 
@@ -3761,7 +3761,7 @@ Les procès-verbaux sont dressés dans les conditions prévues par l'article 62.
 	  - CODE DE PROCEDURE PENALE - art. 62 (M)
 
 
-#### Chapitre III : Des contrôles d'identité
+#### Chapitre III : Des contrôles et vérifications d'identité
 
 ###### Article 78-1
 
@@ -3792,13 +3792,9 @@ conditions et par les autorités de police visées aux articles suivants.
 
 	  - SPEC_APPLI: Loi n°83-466 1983-06-10 art. 43
 
-	**Créé par**:
-
-	  - Loi n°83-466 du 10 juin 1983 - art. 21 () JORF 11 juin 1983 en vigueur le 27 juin 1983
-
 	**Modifié par**:
 
-	  - Loi n°86-1004 1986-09-03 art. 1 JORF 4 septembre 1986
+	  - Loi n°93-992 du 10 août 1993 - art. 2 () JORF 11 août 1993
 
 	**Cite**:
 
@@ -3820,8 +3816,23 @@ identité toute personne à l'égard de laquelle existe un indice faisant présu
 
 - ou qu'elle fait l'objet de recherches ordonnées par une autorité judiciaire.
 
-L'identité de toute personne peut également être contrôlée, selon les mêmes modalités, pour prévenir une atteinte à l'ordre
-public, notamment une atteinte à la sécurité des personnes et des biens.
+Sur réquisitions écrites du procureur de la République aux fins de recherche et de poursuite d'infractions qu'il précise,
+l'identité de toute personne peut être également contrôlée, selon les mêmes modalités, dans les lieux et pour une période de
+temps déterminés par ce magistrat. Le fait que le contrôle d'identité révèle des infractions autres que celles visées dans
+les réquisitions du procureur de la République ne constitue pas une cause de nullité des procédures incidentes.
+
+L'identité de toute personne, quel que soit son comportement, peut également être contrôlée, selon les modalités prévues au
+premier alinéa, pour prévenir une atteinte à l'ordre public, notamment à la sécurité des personnes ou des biens.
+
+Dans une zone comprise entre la frontière terrestre de la France avec les Etats parties à la convention signée à Schengen le
+19 juin 1990 et une ligne tracée à 20 kilomètres en deçà, [Dispositions déclarées non conformes à la Constitution par
+décision du Conseil constitutionnel n° 93-323 DC du 5 août 1993] ainsi que dans les zones accessibles au public des ports,
+aéroports et gares ferroviaires ou routières ouverts au trafic international et désignés par arrêté [Dispositions déclarées
+non conformes à la Constitution par décision du Conseil constitutionnel n° 93-323 DC du 5 août 1993] l'identité de toute
+personne peut également être contrôlée, selon les modalités prévues au premier alinéa, en vue de vérifier le respect des
+obligations de détention, de port et de présentation des titres et documents prévues par la loi. Le fait que le contrôle
+d'identité révèle une infraction autre que celle de non-respect des obligations susvisées ne constitue pas une cause de
+nullité des procédures incidentes.
 
 La personne de nationalité étrangère dont l'identité est contrôlée en application des dispositions du présent article doit
 être en mesure de présenter les pièces ou documents sous le couvert desquels elle est autorisée à séjourner en France.
@@ -3871,15 +3882,11 @@ La personne de nationalité étrangère dont l'identité est contrôlée en appl
 
 	**Liens**:
 
-	  - SPEC_APPLI: Loi n°83-466 1983-06-10 art. 43
-
-	**Créé par**:
-
-	  - Loi n°83-466 du 10 juin 1983 - art. 21 () JORF 11 juin 1983 en vigueur le 27 juin 1983
+	  - SPEC_APPLI: Loi n°93-992 1993-08-10 art. 3 et 4
 
 	**Modifié par**:
 
-	  - Loi n°86-1004 1986-09-03 art. 2 JORF 4 septembre 1986
+	  - Loi n°93-992 du 10 août 1993 - art. 1 () JORF 11 août 1993
 
 	**Cite**:
 
@@ -3968,7 +3975,7 @@ mesure dont elle fait l'objet.
 
 	**Modifié par**:
 
-	  - Loi n°93-2 du 4 janvier 1993 - art. 162 () JORF 5 janvier 1993 en vigueur le 1er mars 1993
+	  - Loi n°93-992 du 10 août 1993 - art. 2 () JORF 11 août 1993
 
 	**Cite**:
 
@@ -3989,9 +3996,13 @@ La durée de la rétention prévue par l'article précédent s'impute, s'il y a 
 
 	  - SPEC_APPLI: Loi n°83-466 1983-6-10 art. 43
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°83-466 du 10 juin 1983 - art. 21 () JORF 11 juin 1983 en vigueur le 27 juin 1983
+	  - Loi n°93-992 du 10 août 1993 - art. 2 () JORF 11 août 1993
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. 78-3 (M)
 
 	**Cité par**:
 
@@ -4014,13 +4025,9 @@ d'instruction, conformément aux dispositions de l'article 78-3.
 
 	  - SPEC_APPLI: Loi n°83-466 1983-06-10 art. 43
 
-	**Créé par**:
-
-	  - Loi n°83-466 du 10 juin 1983 - art. 21 () JORF 11 juin 1983 en vigueur le 27 juin 1983
-
 	**Modifié par**:
 
-	  - Loi n°86-1004 1986-09-03 art. 5 JORF 4 septembre 1986
+	  - Loi n°93-992 du 10 août 1993 - art. 2 () JORF 11 août 1993
 
 	**Cite**:
 
