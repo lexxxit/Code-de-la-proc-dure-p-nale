@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 1978-04-01
+Version Consolidée au 1978-07-29
 
 # Partie législative
 
@@ -401,6 +401,39 @@ réquisitions.
 	  - Code de la route - art. L37 (Ab)
 	  - Code de la route. - art. L330-2 (VT)
 	  - Code de la route. - art. L330-3 (V)
+
+
+###### Article 15
+
+La police judiciaire comprend :
+
+1° Les officiers de police judiciaire ;
+
+2° Les agents de police judiciaire et les agents de police judiciaire adjoints ;
+
+3° Les fonctionnaires et agents auxquels sont attribuées par la loi certaines fonctions de police judiciaire.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°57-1426 1957-12-31
+
+	**Modifié par**:
+
+	  - Loi n°78-788 1978-07-28 art. 1 JORF 29 juillet 1978
+
+	**Cité par**:
+
+	  - Arrêté du 23 août 1995 - art. 2 (V)
+	  - Décret n°96-48 du 22 janvier 1996 - art. 2 (V)
+	  - CODE DES COMMUNES. - art. L132-3 (Ab)
+	  - Code de l'environnement - art. L322-10-1 (V)
+	  - Code de la sécurité intérieure - art. L522-3 (VD)
+	  - Code de la sécurité intérieure - art. L546-6 (VD)
+	  - Code de procédure pénale - art. 29-1 (V)
+	  - Code des communes de la Nouvelle-Calédonie - art. L132-3 (VT)
+	  - Code général des collectivités territoriales - art. L2213-19 (VT)
 
 
 ##### Section 2 : Des officiers de police judiciaire
@@ -4940,6 +4973,185 @@ détention provisoire.
 	  - Code de procédure pénale - art. D43-2 (V)
 
 
+##### Section 3 : Du contrôle de l'activité des officiers et agents de police judiciaire
+
+###### Article 224
+
+La chambre d'accusation exerce un contrôle sur l'activité des fonctionnaires civils et des militaires, officiers et agents de
+police judiciaire, pris en cette qualité.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°57-1426 1957-12-31
+
+	**Modifié par**:
+
+	  - Loi n°78-788 1978-07-28 art. 6 et 7 JORF 29 juillet 1978
+
+	**Cité par**:
+
+	  - Loi n°83-520 du 27 juin 1983 - art. 18 (V)
+	  - Code de la route - art. L23-1 (M)
+	  - Code de la route. - art. L130-3 (V)
+	  - Code de procédure pénale - art. 13 (V)
+	  - Code de procédure pénale - art. 229-1 (V)
+	  - Code de procédure pénale - art. 28-1 (V)
+	  - Code de procédure pénale - art. 28-2 (V)
+	  - Code de procédure pénale - art. D44 (V)
+	  - Code de procédure pénale - art. R15-33-14 (V)
+	  - Code de procédure pénale - art. R15-33-29-13 (V)
+
+	**Liens**:
+
+	  - TXT_SOURCE: CODE DE PROCEDURE PENALE - art. D44 (V)
+	  - TXT_SOURCE: CODE DE PROCEDURE PENALE - art. D45 (M)
+	  - TXT_SOURCE: CODE DE PROCEDURE PENALE - art. D46 (M)
+
+
+###### Article 226
+
+La chambre d'accusation, une fois saisie, fait procéder à une enquête ; elle entend le procureur général et l'officier ou
+agent de police judiciaire en cause.
+
+Ce dernier doit avoir été préalablement mis à même de prendre connaissance de son dossier de police judiciaire tenu au
+parquet général de la cour d'appel.
+
+Il peut se faire assister par un avocat.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°57-1426 1957-12-31
+
+	**Modifié par**:
+
+	  - Loi n°78-788 1978-07-28 art. 6 et 8 JORF 29 juillet 1978
+
+	**Liens**:
+
+	  - TXT_SOURCE: CODE DE PROCEDURE PENALE - art. D44 (V)
+	  - TXT_SOURCE: CODE DE PROCEDURE PENALE - art. D45 (M)
+	  - TXT_SOURCE: CODE DE PROCEDURE PENALE - art. D46 (M)
+
+	**Cité par**:
+
+	  - Code de la route - art. L23-1 (M)
+
+
+###### Article 227
+
+La chambre d'accusation peut, sans préjudice des sanctions disciplinaires qui pourraient être infligées à l'officier ou agent
+de police judiciaire par ses supérieurs hiérarchiques, lui adresser des observations ou décider qu'il ne pourra,
+temporairement ou définitivement, exercer, soit dans le ressort de la cour d'appel, soit sur tout l'ensemble du territoire,
+ses fonctions d'officier de police judiciaire et de délégué du juge d'instruction ou ses fonctions d'agent de police
+judiciaire.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°57-1426 1957-12-31
+
+	**Modifié par**:
+
+	  - Ordonnance n°58-1296 du 23 décembre 1958 - art. 1 () JORF 24 décembre 1958
+	  - Loi n°78-788 1978-07-28 art. 6 et 9 JORF 29 juillet 1978
+
+	**Cité par**:
+
+	  - Décret n°2007-831 du 11 mai 2007 - art. 6 (V)
+	  - Code de la route - art. L23-1 (M)
+	  - Code de la santé publique - art. R1337-14 (V)
+	  - Décret du 20 mai 1903 - art. 117 (Ab)
+
+	**Liens**:
+
+	  - TXT_SOURCE: CODE DE PROCEDURE PENALE - art. D44 (V)
+	  - TXT_SOURCE: CODE DE PROCEDURE PENALE - art. D45 (M)
+	  - TXT_SOURCE: CODE DE PROCEDURE PENALE - art. D46 (M)
+
+
+###### Article 228
+
+Si la chambre d'accusation estime que l'officier ou agent de police judiciaire a commis une infraction à la loi pénale, elle
+ordonne en outre la transmission du dossier au procureur général à toutes fins qu'il appartiendra.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°57-1426 1957-12-31
+
+	**Modifié par**:
+
+	  - Loi n°78-788 1978-07-28 art. 6 et 9 JORF 29 juillet 1978
+
+	**Liens**:
+
+	  - TXT_SOURCE: CODE DE PROCEDURE PENALE - art. D44 (V)
+	  - TXT_SOURCE: CODE DE PROCEDURE PENALE - art. D45 (M)
+	  - TXT_SOURCE: CODE DE PROCEDURE PENALE - art. D46 (M)
+
+	**Cité par**:
+
+	  - Code de la route - art. L23-1 (M)
+	  - Décret du 20 mai 1903 - art. 117 (Ab)
+
+
+###### Article 229
+
+Les décisions prises par la chambre d'accusation contre les officiers ou agents de police judiciaire sont notifiées, à la
+diligence du procureur général, aux autorités dont ils dépendent.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°57-1426 1957-12-31
+
+	**Modifié par**:
+
+	  - Loi n°78-788 1978-07-28 art. 6 et 9 JORF 29 juillet 1978
+
+	**Liens**:
+
+	  - TXT_SOURCE: CODE DE PROCEDURE PENALE - art. D44 (V)
+	  - TXT_SOURCE: CODE DE PROCEDURE PENALE - art. D45 (M)
+	  - TXT_SOURCE: CODE DE PROCEDURE PENALE - art. D46 (M)
+
+	**Cité par**:
+
+	  - Code de la route - art. L23-1 (M)
+
+
+###### Article 230
+
+Les dispositions de la présente section sont applicables aux chefs de district et aux agents techniques des eaux et forêts.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°57-1426 1957-12-31
+
+	**Modifié par**:
+
+	  - Loi n°78-788 1978-07-28 art. 6 JORF 29 juillet 1978
+
+	**Cité par**:
+
+	  - Loi n°83-520 du 27 juin 1983 - art. 18 (V)
+
+	**Liens**:
+
+	  - TXT_SOURCE: CODE DE PROCEDURE PENALE - art. D44 (V)
+	  - TXT_SOURCE: CODE DE PROCEDURE PENALE - art. D45 (M)
+	  - TXT_SOURCE: CODE DE PROCEDURE PENALE - art. D46 (M)
+
+
 ## Livre II : Des juridictions de jugement
 
 ### Titre Ier : De la cour d'assises
@@ -5508,6 +5720,54 @@ d'incapacité ou d'incompatibilité énumérés par les deux articles suivants.
 	  - Code de procédure pénale - art. 885 (VD)
 
 
+###### Article 256
+
+Sont incapables d'être jurés :
+
+1° Les individus ayant été condamnés à une peine criminelle ou à un mois au moins d'emprisonnement pour crime ou délit ;
+
+2° Pendant cinq ans seulement, à compter du jugement définitif, ceux condamnés pour délit quelconque à un emprisonnement de
+moins d'un mois ou une amende au moins égale à 500 F ;
+
+3° Ceux qui sont en état d'accusation ou de contumace et ceux qui sont sous mandat de dépôt ou d'arrêt ;
+
+4° Les fonctionnaires et agents de l'Etat, des départements et des communes, révoqués de leurs fonctions ;
+
+5° Les officiers ministériels destitués et les membres des ordres professionnels, frappés d'une interdiction définitive
+d'exercer par une décision juridictionnelle ;
+
+6° Les personnes qui ont été déclarées en état de faillite et n'ont pas été réhabilitées ;
+
+7° Celles auxquelles les fonctions de juré sont interdites en vertu de l'article 288, alinéa 5, du présent code ou de
+l'article 42 du Code pénal ;
+
+8° Les majeurs sous sauvegarde de justice, les majeurs en tutelle, les majeurs en curatelle et ceux qui sont placés dans un
+établissement d'aliénés en vertu des articles L. 326-1 à L. 355 du Code de la santé publique.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 58-1296 1958-12-23
+
+	**Modifié par**:
+
+	  - Loi n°78-788 1978-07-28 art. 13 JORF 29 juillet 1978
+
+	**Cité par**:
+
+	  - Loi n°83-520 du 27 juin 1983 - art. 23 (V)
+	  - CODE DE PROCEDURE PENALE - art. 255 (V)
+	  - CODE DE PROCEDURE PENALE - art. 266 (V)
+	  - CODE DE PROCEDURE PENALE - art. 828 (V)
+
+	**Cite**:
+
+	  - Code pénal 42
+	  - Code de procédure pénale 288 al. 5
+	  - Code de la santé publique L326-1 à L355
+
+
 ##### Paragraphe 2 : De la formation du jury
 
 ###### Article 259
@@ -5530,6 +5790,158 @@ Il est établi, annuellement, dans le ressort de chaque cour d'assises une liste
 	  - Ordonnance n°58-1296 du 23 décembre 1958 - art. 5 (V)
 	  - Loi n°83-520 du 27 juin 1983 - art. 80 (V)
 	  - Code de procédure pénale - art. 877 (VT)
+
+
+###### Article 262
+
+La liste annuelle est dressée au siège de chaque cour d'assises par une commission présidée, au siège de la cour d'appel, par
+le premier président ou son délégué et, dans les tribunaux de grande instance, sièges de la cour d'assises, par le président
+du tribunal ou son délégué.
+
+Cette commission comprend, outre son président :
+
+Trois magistrats du siège désignés chaque année par l'assemblée générale de la juridiction siège de la cour d'assises ;
+
+Selon le cas, soit le procureur général ou son délégué, soit le procureur de la République ou son délégué ;
+
+Le bâtonnier de l'Ordre des avocats de la juridiction, siège de la cour d'assises ou son représentant ;
+
+Cinq conseillers généraux désignés chaque année par le conseil général et, à Paris, cinq conseillers désignés par le Conseil
+de Paris.
+
+**Nota:**
+
+
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 58-1296 1958-12-23
+
+	**Modifié par**:
+
+	  - Loi n°72-625 1972-07-05 art. 3 JORF 9 juillet 1972
+	  - Loi n°78-788 1978-07-28 art. 18 JORF 29 juillet 1978
+
+	**Cité par**:
+
+	  - Loi n°83-520 du 27 juin 1983 - art. 27 (V)
+	  - Loi n°83-520 du 27 juin 1983 - art. 80 (V)
+	  - Décret n°2011-1271 du 12 octobre 2011 - art. 3 (V)
+	  - Arrêté du 13 juin 2012 - art. 2 (V)
+	  - CODE DE PROCEDURE PENALE - art. 832 (V)
+	  - CODE DE PROCEDURE PENALE - art. 917 (V)
+	  - Code de procédure pénale - art. 10-4 (V)
+	  - Code de procédure pénale - art. 10-5 (V)
+	  - Code de procédure pénale - art. 234-1 (V)
+	  - Code de procédure pénale - art. 258 (V)
+	  - Code de procédure pénale - art. 258-1 (V)
+	  - Code de procédure pénale - art. 261-1 (V)
+	  - Code de procédure pénale - art. R2 (VD)
+	  - Code de procédure pénale - art. R2-3 (VD)
+	  - Code de procédure pénale - art. R2-6 (V)
+	  - Code de procédure pénale - art. R2-7 (VD)
+
+
+###### Article 265
+
+La liste annuelle et la liste spéciale sont transmises par le président de la commission au préfet qui les fait parvenir au
+maire de chaque commune. Le maire est tenu d'informer, dès qu'il en a connaissance, le premier président de la cour d'appel
+ou le président du tribunal de grande instance, siège de la cour d'assises, des décès, des incapacités ou des
+incompatibilités légales qui frapperaient les personnes dont les noms sont portés sur ces listes.
+
+Le premier président de la cour d'appel ou le président du tribunal de grande instance, siège de la cour d'assises, ou leur
+délégué est habilité à retirer les noms de ces personnes de la liste annuelle et de la liste spéciale.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 58-1296 1958-12-23
+
+	**Modifié par**:
+
+	  - Loi n°78-788 1978-07-28 art. 18 JORF 29 juillet 1978
+
+	**Cité par**:
+
+	  - Code de procédure pénale - art. 234-1 (V)
+
+
+###### Article 266
+
+Trente jours au moins avant l'ouverture des assises, le premier président de la cour d'appel, ou son délégué, ou le président
+du tribunal de grande instance, siège de la cour d'assises, ou son délégué, tire au sort, en audience publique, sur la liste
+annuelle, les noms de trente-cinq jurés qui forment la liste de session. Il tire, en outre, les noms de dix jurés suppléants
+sur la liste spéciale.
+
+Si, parmi les noms tirés au sort, figurent ceux d'une ou de plusieurs personnes décédées ou qui se révéleraient ne pas
+remplir les conditions d'aptitude légale résultant des articles 255, 256 et 257 ou avoir exercé les fonctions de juré dans le
+département depuis moins de cinq ans, ces noms sont immédiatement remplacés sur la liste de session et la liste des dix jurés
+suppléants par les noms d'un ou de plusieurs autres jurés désignés par le sort ; ils sont retirés de la liste annuelle ou de
+la liste spéciale par le premier président de la cour d'appel ou par le président du tribunal de grande instance, siège de la
+cour d'assises, ou leur délégué.
+
+Sont également remplacés sur la liste de session et sur la liste des dix jurés suppléants, dans le cas où ils sont tirés au
+sort, les noms des personnes qui, dans l'année, ont satisfait aux réquisitions prescrites par les alinéas 2 et 3 de l'article
+267.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 58-1296 1958-12-23
+
+	**Modifié par**:
+
+	  - Loi n°78-788 1978-07-28 art. 18 JORF 29 juillet 1978
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. 255 (V)
+	  - CODE DE PROCEDURE PENALE - art. 256 (M)
+	  - CODE DE PROCEDURE PENALE - art. 257 (M)
+	  - CODE DE PROCEDURE PENALE - art. 267 (M)
+
+	**Cité par**:
+
+	  - CODE DE PROCEDURE PENALE - art. 288 (V)
+	  - CODE DE PROCEDURE PENALE - art. 292 (V)
+	  - CODE DE PROCEDURE PENALE - art. 919 (V)
+	  - Code de justice militaire - art. 205 (Ab)
+	  - Code de justice militaire. - art. L221-4 (VT)
+	  - Code de procédure pénale - art. 282 (V)
+
+
+###### Article 267
+
+Le préfet notifie à chacun des jurés l'extrait de la liste de session ou de la liste des dix jurés suppléants le concernant
+quinze jours au moins avant le jour de l'ouverture de la session.
+
+Ce jour est mentionné dans la notification, laquelle indique également la durée prévisible de la session et contient
+sommation de se trouver aux jour et heure indiqués sous les peines portées au présent code.
+
+A défaut de notification à personne, elle est faite à domicile ainsi qu'au maire, qui est alors tenu d'en donner connaissance
+au juré désigné.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 58-1296 1958-12-23
+
+	**Modifié par**:
+
+	  - Loi n°78-788 1978-07-28 art. 28 JORF 29 juillet 1978
+
+	**Cité par**:
+
+	  - Arrêté du 19 février 1986 - art. Annexe (V)
+	  - CODE DE PROCEDURE PENALE - art. R145 (V)
+	  - Code de justice militaire - art. 205 (Ab)
+	  - Code de justice militaire. - art. L221-4 (VT)
+	  - Code de procédure pénale - art. 266 (V)
 
 
 #### Chapitre IV : De la procédure préparatoire aux sessions d'assises
@@ -5675,6 +6087,29 @@ Cette désignation est non avenue si, par la suite, l'accusé choisit un conseil
 	**Cité par**:
 
 	  - Code de procédure pénale - art. 317 (V)
+
+
+###### Article 275
+
+Le conseil ne peut être choisi ou désigné que parmi les avocats inscrits à un barreau.
+
+Toutefois, à titre exceptionnel, le président peut autoriser l'accusé à prendre pour conseil un de ses parents ou amis.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 58-1296 1958-12-23
+
+	**Modifié par**:
+
+	  - Loi n°78-788 1978-07-28 art. 19 JORF 29 juillet 1978
+
+	**Cité par**:
+
+	  - Loi n°83-520 du 27 juin 1983 - art. 30 (V)
+	  - Code de procédure pénale - art. R267 (V)
+	  - Code de procédure pénale - art. R373 (V)
 
 
 ###### Article 276
@@ -5962,6 +6397,75 @@ l'expiration de ses fonctions, sans une excuse jugée valable par la cour.
 	  - CODE DE PROCEDURE PENALE - art. 266 (M)
 
 
+###### Article 289
+
+Si parmi les jurés présents, il en est qui ne remplissent pas les conditions d'aptitude légales exigées par les articles 255,
+256 et 257, la cour ordonne que leurs noms soient rayés de la liste et adressés au premier président de la cour d'appel ou au
+président du tribunal de grande instance, siège de la cour d'assises, aux fins de radiation de la liste annuelle. 
+
+Il en est de même en ce qui concerne les noms des jurés décédés. 
+
+Sont également rayés de la liste de session, les noms des jurés qui se révéleraient être conjoints, parents ou alliés
+jusqu'au degré d'oncle ou de neveu inclusivement d'un membre de la cour ou de l'un des jurés présents inscrits avant lui sur
+ladite liste.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 58-1296 1958-12-23
+
+	**Modifié par**:
+
+	  - Loi n°78-788 1978-07-28 art. 20 JORF 29 juillet 1978
+
+	**Cité par**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L621-1 (Ab)
+	  - CODE DE PROCEDURE PENALE - art. 289-1 (V)
+	  - CODE DE PROCEDURE PENALE - art. 291 (M)
+	  - Code de procédure pénale - art. 234-1 (V)
+
+	**Cite**:
+
+	  - Code de procédure pénale - art. 255 (V)
+
+
+###### Article 289-1
+
+Si, en raison des absences ou à la suite des radiations par la cour, il reste moins de vingt-trois jurés sur la liste de
+session, ce nombre est complété par les jurés suppléants, suivant l'ordre de leur inscription ; en cas d'insuffisance, par
+des jurés tirés au sort, en audience publique, parmi les jurés inscrits sur la liste spéciale, subsidiairement parmi les
+jurés de la ville inscrits sur la liste annuelle.
+
+Dans le cas où les assises se tiennent dans un autre lieu que celui où elles doivent se tenir habituellement, le nombre des
+jurés titulaires est complété par un tirage au sort fait, en audience publique, parmi les jurés de la ville inscrits sur la
+liste annuelle.
+
+Les noms des jurés suppléants, de ceux qui sont inscrits sur la liste spéciale ainsi que les noms des jurés de la ville où se
+tiennent les assises, qui sont inscrits sur la liste annuelle, sont rayés des listes dans les conditions prévues à l'article
+précédent.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 58-1296 1958-12-23
+
+	**Créé par**:
+
+	  - Loi n°78-788 1978-07-28 art. 21 JORF 29 juillet 1978
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. 289 (V)
+
+	**Cité par**:
+
+	  - CODE DE PROCEDURE PENALE - art. 920 (V)
+	  - Code de procédure pénale - art. 291 (V)
+
+
 ###### Article 290
 
 L'ensemble des décisions de la cour fait l'objet d'un arrêt motivé, le ministère public entendu.
@@ -5978,6 +6482,52 @@ Cet arrêt ne peut être attaqué par la voie du recours en cassation qu'en mêm
 	**Codifié par**:
 
 	  - Ordonnance 58-1296 1958-12-23
+
+
+###### Article 291
+
+Avant le jugement de chaque affaire, la cour procède, s'il y a lieu, aux opérations prévues par les articles 288, 289 et
+289-1. La cour ordonne, en outre, que soient provisoirement retirés de la liste, éventuellement modifiée, les noms des
+conjoints, parents et alliés jusqu'au degré d'oncle ou de neveu inclusivement de l'accusé ou de son conseil, ainsi que les
+noms de ceux qui, dans l'affaire, sont témoins, interprètes, dénonciateurs, experts, plaignants ou parties civiles ou ont
+accompli un acte de police judiciaire ou d'instruction.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 58-1296 1958-12-23
+
+	**Modifié par**:
+
+	  - Loi n°78-788 1978-07-28 art. 22 JORF 29 juillet 1978
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. 288 (M)
+	  - CODE DE PROCEDURE PENALE - art. 289 (V)
+	  - CODE DE PROCEDURE PENALE - art. 289-1 (M)
+
+
+###### Article 292
+
+Tout arrêt modifiant la composition de la liste de session établie conformément à l'article 266 est porté, par les soins du
+greffier, sans formalité, à la connaissance de l'accusé. Celui-ci ou son conseil peut demander qu'un délai, qui ne pourra
+excéder une heure, soit observé avant l'ouverture des débats.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 58-1296 1958-12-23
+
+	**Modifié par**:
+
+	  - Loi n°78-788 1978-07-28 art. 22 JORF 29 juillet 1978
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. 266 (M)
 
 
 ##### Section 2 : De la formation du jury de jugement
@@ -6020,6 +6570,27 @@ Le président demande à l'accusé ses nom, prénoms, date et lieu de naissance,
 	**Codifié par**:
 
 	  - Ordonnance 58-1296 1958-12-23
+
+
+###### Article 295
+
+Le greffier fait l'appel des jurés non excusés.
+
+Une carte portant leur nom est déposée dans une urne.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 58-1296 1958-12-23
+
+	**Modifié par**:
+
+	  - Loi n°78-788 1978-07-28 art. 23 JORF 29 juillet 1978
+
+	**Cité par**:
+
+	  - Code de procédure pénale - art. 698-6 (V)
 
 
 ###### Article 298
@@ -11392,6 +11963,37 @@ articles 458 à 461 concernant la discussion par les parties ; par l'article 462
 	  - CODE DE PROCEDURE PENALE - art. 462 (V)
 	  - CODE DE PROCEDURE PENALE - art. 537 (M)
 	  - Code de procédure pénale 418 à 426, 427 à 457, 458 à 461, 462, 537
+
+
+###### Article 537
+
+Les contraventions sont prouvées soit par procès-verbaux ou rapports, soit par témoins à défaut de rapports et procès-
+verbaux, ou à leur appui.
+
+Sauf dans les cas où la loi en dispose autrement, les procès-verbaux ou rapports établis par les officiers et agents de
+police judiciaire et les agents de police judiciaire adjoints, ou les fonctionnaires ou agents chargés de certaines fonctions
+de police judiciaire auxquels la loi a attribué le pouvoir de constater les contraventions, font foi jusqu'à preuve
+contraire.
+
+La preuve contraire ne peut être rapportée que par écrit ou par témoins.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 58-1296 1958-12-23
+
+	**Modifié par**:
+
+	  - loi 78-788 1978-07-28 art. 10 JORF 29 juillet 1978
+
+	**Cité par**:
+
+	  - Loi - art. 37 (V)
+	  - CODE DE PROCEDURE PENALE - art. 536 (V)
+	  - Code forestier - art. L342-6 (Ab)
+	  - Code forestier de Mayotte - art. L342-6 (VT)
+	  - Livre des procédures fiscales - art. L61 B (V)
 
 
 ###### Article 538
