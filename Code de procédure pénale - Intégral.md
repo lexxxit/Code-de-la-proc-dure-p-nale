@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 2002-08-09
+Version Consolidée au 2002-09-10
 
 # Partie législative
 
@@ -508,9 +508,10 @@ août 1994 relative à l'emploi de la langue française.
 ###### Article 2-15
 
 Toute association régulièrement déclarée ayant pour objet statutaire la défense des victimes d'un accident survenu dans les
-transports collectifs ou dans un lieu ou local ouvert au public et regroupant plusieurs de ces victimes peut, si elle a été
-agréée à cette fin, exercer les droits reconnus à la partie civile en ce qui concerne cet accident lorsque l'action publique
-a été mise en mouvement par le ministère public ou la partie lésée.
+transports collectifs ou dans un lieu ou local ouvert au public ou dans une propriété privée à usage d'habitation ou à usage
+professionnel et regroupant plusieurs de ces victimes peut, si elle a été agréée à cette fin, exercer les droits reconnus à
+la partie civile en ce qui concerne cet accident lorsque l'action publique a été mise en mouvement par le ministère public ou
+la partie lésée.
 
 Les conditions dans lesquelles les associations visées au premier alinéa peuvent être agréées, après avis du ministère
 public, compte tenu de leur représentativité, sont fixées par décret.
@@ -521,9 +522,9 @@ public, compte tenu de leur représentativité, sont fixées par décret.
 
 	  - Loi n°57-1426 1957-12-31
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°95-125 du 8 février 1995 - art. 51 () JORF 9 février 1995
+	  - Loi n°2002-1138 du 9 septembre 2002 - art. 33 () JORF 10 septembre 2002
 
 	**Cité par**:
 
@@ -2607,6 +2608,47 @@ ce magistrat tous les renseignements, procès-verbaux et actes qui y sont relati
 	  - Code pénal 222-23 à 222-32, 227-22 à 227-27
 
 
+###### Article 40-1
+
+Lorsque la victime souhaite se constituer partie civile et demande la désignation d'un avocat après avoir été informée de ce
+droit en application du 3° des articles 53-1 et 75, le procureur de la République, avisé par l'officier ou l'agent de police
+judiciaire, s'il décide de mettre l'action publique en mouvement, en informe sans délai le bâtonnier de l'ordre des avocats.
+
+Dans le cas contraire, il indique à la victime, en l'avisant du classement de sa plainte, qu'elle peut directement adresser
+sa demande de désignation auprès du bâtonnier si elle maintient son intention d'obtenir la réparation de son préjudice.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°57-1426 1957-12-31
+
+	**Cité par**:
+
+	  - Décret n°91-1266 du 19 décembre 1991 - art. 81 (V)
+	  - Décret n°2016-1876 du 27 décembre 2016 - art. 12
+	  - Code de l'action sociale et des familles - art. L226-4 (V)
+	  - Code de procédure pénale - art. 393 (V)
+	  - Code de procédure pénale - art. 40 (V)
+
+	**Créé par**:
+
+	  - Loi n°2002-1138 du 9 septembre 2002 - art. 64 () JORF 10 septembre 2002
+
+	**Transféré par**:
+
+	  - Loi n°2004-204 du 9 mars 2004 - art. 67 () JORF 10 mars 2004
+
+	**Nouveaux textes**:
+
+	  - CODE DE PROCEDURE PENALE - art. 40-4 (V)
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. 53-1 (M)
+	  - CODE DE PROCEDURE PENALE - art. 75 (M)
+
+
 ###### Article 41
 
 Le procureur de la République procède ou fait procéder à tous les actes nécessaires à la recherche et à la poursuite des
@@ -2728,10 +2770,10 @@ La procédure prévue au présent article suspend la prescription de l'action pu
 Le procureur de la République, tant que l'action publique n'a pas été mise en mouvement, peut proposer, directement ou par
 l'intermédiaire d'une personne habilitée, une composition pénale à une personne majeure qui reconnaît avoir commis un ou
 plusieurs délits prévus par les articles 222-11, 222-13 (1° à 11°), 222-16, 222-17, 222-18 (premier alinéa), 227-3 à 227-7,
-227-9 à 227-11, 311-3, 313-5, 314-5, 314-6, 322-1, 322-2, 322-12 à 322-14, 433-5 à 433-7 et 521-1 du code pénal, par les
-articles 28 et 32 du décret-loi du 18 avril 1939 fixant le régime des matériels de guerre, armes et munitions, par l'article
-L. 1er du code de la route et par l'article L. 628 du code de la santé publique, qui consiste en une ou plusieurs des mesures
-suivantes :
+227-9 à 227-11, 311-3, 313-5, 314-5, 314-6, 321-1, 322-1, 322-2, 322-12 à 322-14, 433-5 à 433-7 et 521-1 du code pénal, par
+les articles 28 et 32 du décret-loi du 18 avril 1939 fixant le régime des matériels de guerre, armes et munitions, par
+l'article L. 1er du code de la route et par l'article L. 3421-1 du code de la santé publique, qui consiste en une ou
+plusieurs des mesures suivantes :
 
 1° Verser une amende de composition au Trésor public. Le montant de cette amende de composition, qui ne peut excéder ni 3750
 euros ni la moitié du maximum de l'amende encourue, est fixé en fonction de la gravité des faits ainsi que des ressources et
@@ -2741,11 +2783,14 @@ l'intérieur d'une période qui ne peut être supérieure à un an ;
 2° Se dessaisir au profit de l'Etat de la chose qui a servi ou était destinée à commettre l'infraction ou qui en est le
 produit ;
 
-3° Remettre au greffe du tribunal de grande instance son permis de conduire ou son permis de chasser, pour une période
-maximale de quatre mois ;
+3° Remettre au greffe du tribunal de grande instance son permis de conduire, pour une période maximale de six mois, ou son
+permis de chasser, pour une période maximale de quatre mois ;
 
 4° Effectuer au profit de la collectivité un travail non rémunéré pour une durée maximale de soixante heures, dans un délai
-qui ne peut être supérieur à six mois.
+qui ne peut être supérieur à six mois ;
+
+5° Suivre un stage ou une formation dans un service ou organisme sanitaire, social ou professionnel pour une durée qui ne
+peut excéder trois mois dans un délai qui ne peut être supérieur à dix-huit mois.
 
 Lorsque la victime est identifiée, et sauf si l'auteur des faits justifie de la réparation du préjudice commis, le procureur
 de la République doit également proposer à ce dernier de réparer les dommages causés par l'infraction dans un délai qui ne
@@ -2753,8 +2798,7 @@ peut être supérieur à six mois. Il informe la victime de cette proposition.
 
 La proposition de composition pénale émanant du procureur de la République peut être portée à la connaissance de l'auteur des
 faits par l'intermédiaire d'un officier de police judiciaire. Elle fait alors l'objet d'une décision écrite et signée de ce
-magistrat, qui précise la nature et le quantum des mesures proposées et qui est jointe à la procédure. A peine de nullité,
-cette proposition ne peut intervenir pendant la durée de la garde à vue de l'auteur des faits.
+magistrat, qui précise la nature et le quantum des mesures proposées et qui est jointe à la procédure.
 
 La composition pénale peut être proposée dans une maison de justice et du droit.
 
@@ -2765,10 +2809,9 @@ ce procès-verbal lui est transmise.
 Lorsque l'auteur des faits donne son accord aux mesures proposées, le procureur de la République saisit par requête le
 président du tribunal aux fins de validation de la composition. Le procureur de la République informe de cette saisine
 l'auteur des faits et, le cas échéant, la victime. Le président du tribunal peut procéder à l'audition de l'auteur des faits
-et de la victime, assistés, le cas échéant, de leur avocat. Les auditions sont de droit si les intéressés le demandent. Si ce
-magistrat rend une ordonnance validant la composition, les mesures décidées sont mises à exécution. Dans le cas contraire, la
-proposition devient caduque. La décision du président du tribunal, qui est notifiée à l'auteur des faits et, le cas échéant,
-à la victime, n'est pas susceptible de recours.
+et de la victime, assistés, le cas échéant, de leur avocat. Si ce magistrat rend une ordonnance validant la composition, les
+mesures décidées sont mises à exécution. Dans le cas contraire, la proposition devient caduque. La décision du président du
+tribunal, qui est notifiée à l'auteur des faits et, le cas échéant, à la victime, n'est pas susceptible de recours.
 
 Si la personne n'accepte pas la composition ou si, après avoir donné son accord, elle n'exécute pas intégralement les mesures
 décidées ou, si la demande de validation prévue par l'alinéa précédent est rejetée, le procureur de la République apprécie la
@@ -2782,7 +2825,13 @@ L'exécution de la composition pénale éteint l'action publique. Elle ne fait c
 de délivrer citation directe devant le tribunal correctionnel dans les conditions prévues au présent code. Le tribunal ne
 statue alors que sur les seuls intérêts civils, au vu du dossier de la procédure qui est versé au débat.
 
+Les compositions pénales exécutées sont inscrites au bulletin n° 1 du casier judiciaire.
+
 Les modalités d'application du présent article sont fixées par décret en Conseil d'Etat.
+
+**Nota:**
+
+NOTA : L'article L. 234-11 du code de la route a été abrogé par l'article 3 II de la loi 2003-495 du 12 juin 2003.
 
 **Liens relatifs à cet article**
 
@@ -2837,14 +2886,11 @@ Les modalités d'application du présent article sont fixées par décret en Con
 
 	**Modifié par**:
 
-	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°2001-1062 du 15 novembre 2001 - art. 71 (M)
+	  - Loi n°2002-1138 du 9 septembre 2002 - art. 36 () JORF 10 septembre 2002
 
 	**Cite**:
 
+	  - Loi n°2003-495 2003-06-12 art. 3
 	  - Code pénal - art. 222-11 (M)
 	  - Code pénal - art. 222-13 (M)
 	  - Code pénal - art. 222-16 (M)
@@ -2854,18 +2900,21 @@ Les modalités d'application du présent article sont fixées par décret en Con
 	  - Code pénal - art. 313-5 (M)
 	  - Code pénal - art. 314-5 (M)
 	  - Code pénal - art. 314-6 (M)
+	  - Code pénal - art. 321-1 (M)
 	  - Code pénal - art. 322-1 (M)
 	  - Code pénal - art. 322-2 (M)
 	  - Code pénal - art. 521-1 (M)
-	  - Code pénal 222-11, 222-13, 222-16, 222-17, 222-18, 227-3 à 227-7, 227-9 à 227-11, 311-3, 313-5, 314-5, 314-6, 322-1, 322-2, 322-12 à 322-14, 433-5 à 433-7, 521-1
-	  - Code de la santé publique - art. L628 (Ab)
-	  - Code de la route L1
+	  - Code pénal 222-11, 222-13, 222-16, 222-17, 222-18, 227-3 à 227-7, 227-9 à 227-11, 311-3, 313-5, 314-5, 314-6, 321-1, 322-1, 322-2, 322-12 à 322-14, 433-5 à 433-7, 521-1
+	  - Code de la santé publique - art. L3421-1 (M)
+	  - Code de la route L1, L234-11
+	  - Code de la route. - art. L234-11 (Ab)
 	  - Décret-loi 1939-04-18 art. 28, art. 32
 
 
 ###### Article 41-3
 
-La procédure de composition pénale est également applicable en cas de violences ou de dégradations contraventionnelles.
+La procédure de composition pénale est également applicable en cas de violences ou de dégradations contraventionnelles ainsi
+que pour les contraventions dont la liste est fixée par décret en Conseil d'Etat.
 
 Le montant maximum de l'amende de composition ne peut alors excéder 750 euros ni la moitié du maximum de l'amende encourue,
 la durée de la remise du permis de conduire ou du permis de chasser ne peut dépasser deux mois et la durée du travail non
@@ -2893,7 +2942,7 @@ La requête en validation est portée devant le juge d'instance.
 
 	**Modifié par**:
 
-	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+	  - Loi n°2002-1138 du 9 septembre 2002 - art. 36 () JORF 10 septembre 2002
 
 
 ###### Article 41-4
@@ -3306,9 +3355,23 @@ plus de huit jours.
 
 ###### Article 53-1
 
-Les officiers et les agents de police judiciaire informent les victimes de leur droit d'obtenir réparation du préjudice subi
-et d'être aidées par un service relevant d'une ou plusieurs collectivités publiques ou une association conventionnée d'aide
-aux victimes.
+Les officiers et les agents de police judiciaire informent par tout moyen les victimes de leur droit : 
+
+1° D'obtenir réparation du préjudice subi ; 
+
+2° De se constituer partie civile si l'action publique est mise en mouvement par le parquet ou en citant directement l'auteur
+des faits devant la juridiction compétente ou en portant plainte devant le juge d'instruction ; 
+
+3° D'être, si elles souhaitent se constituer partie civile, assistées d'un avocat qu'elles pourront choisir ou qui, à leur
+demande, sera désigné par le bâtonnier de l'ordre des avocats près la juridiction compétente, les frais étant à la charge des
+victimes sauf si elles remplissent les conditions d'accès à l'aide juridictionnelle ou si elles bénéficient d'une assurance
+de protection juridique ; 
+
+4° D'être aidées par un service relevant d'une ou de plusieurs collectivités publiques ou par une association conventionnée
+d'aide aux victimes ; 
+
+5° De saisir, le cas échéant, la commission d'indemnisation des victimes d'infraction, lorsqu'il s'agit d'une infraction
+mentionnée aux articles 706-3 et 706-14.
 
 **Liens relatifs à cet article**
 
@@ -3316,14 +3379,19 @@ aux victimes.
 
 	  - Loi n°57-1426 1957-12-31
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2000-516 du 15 juin 2000 - art. 104 () JORF 16 juin 2000 en vigueur le 1er janvier 2001
+	  - Loi n°2002-1138 du 9 septembre 2002 - art. 63 () JORF 10 septembre 2002
 
 	**Cité par**:
 
 	  - CODE DE PROCEDURE PENALE - art. 40-1 (T)
 	  - Code de procédure pénale - art. 40-4 (V)
+
+	**Cite**:
+
+	  - Code de procédure pénale - art. 706-14 (V)
+	  - Code de procédure pénale - art. 706-3 (V)
 
 
 ###### Article 54
@@ -4546,17 +4614,78 @@ Le procureur de la République peut aussi requérir information pour recherche d
 	  - SPEC_APPLI: Loi n°72-1226 art.
 
 
+###### Article 74-1
+
+Lorsque la disparition d'un mineur ou d'un majeur protégé vient d'intervenir ou d'être constatée, les officiers de police
+judiciaire, assistés le cas échéant des agents de police judiciaire, peuvent, sur instructions du procureur de la République,
+procéder aux actes prévus par les articles 56 à 62, aux fins de découvrir la personne disparue. A l'issue d'un délai de huit
+jours à compter des instructions de ce magistrat, ces investigations peuvent se poursuivre dans les formes de l'enquête
+préliminaire. 
+
+Le procureur de la République peut également requérir l'ouverture d'une information pour recherche des causes de la
+disparition. 
+
+Les dispositions du présent article sont également applicables en cas de disparition d'un majeur présentant un caractère
+inquiétant ou suspect eu égard aux circonstances, à l'âge de l'intéressé ou à son état de santé.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°57-1426 1957-12-31
+
+	**Cité par**:
+
+	  - Décret n°87-249 du 8 avril 1987 - art. 3 (M)
+	  - Loi n°95-73 du 21 janvier 1995 - art. 26 (V)
+	  - Loi n°2003-239 du 18 mars 2003 - art. 21-1 (Ab)
+	  - Décret n°2013-1054 du 22 novembre 2013 - art. 1 (V)
+	  - Décret n°2014-187 du 20 février 2014 - art. 1 (V)
+	  - Décret n°2014-187 du 20 février 2014 - art. 3 (V)
+	  - Décret n°2014-187 du 20 février 2014 - art. 4 (V)
+	  - Code de procédure pénale - art. 230-12 (V)
+	  - Code de procédure pénale - art. 230-13 (V)
+	  - Code de procédure pénale - art. 230-44 (V)
+	  - Code de procédure pénale - art. 230-6 (V)
+	  - Code de procédure pénale - art. 230-7 (V)
+	  - Code de procédure pénale - art. 706-54 (V)
+	  - Code pénal - art. 434-4-1 (V)
+
+	**Créé par**:
+
+	  - Loi n°2002-1138 du 9 septembre 2002 - art. 66 () JORF 10 septembre 2002
+
+	**Cite**:
+
+	  - Code de procédure pénale - art. 56 (V)
+
+
 #### Chapitre II : De l'enquête préliminaire
 
 ###### Article 75
 
 Les officiers de police judiciaire et, sous le contrôle de ceux-ci, les agents de police judiciaire désignés à l'article 20
-procèdent à des enquêtes préliminaires soit sur les instructions du procureur de la République, soit d'office.
+procèdent à des enquêtes préliminaires soit sur les instructions du procureur de la République, soit d'office. 
 
-Ces opérations relèvent de la surveillance du procureur général.
+Ces opérations relèvent de la surveillance du procureur général. 
 
-Ils informent les victimes de leur droit d'obtenir réparation du préjudice subi et d'être aidées par un service relevant
-d'une ou plusieurs collectivités publiques ou une association conventionnée d'aide aux victimes.
+Les officiers et les agents de police judiciaire informent par tout moyen les victimes de leur droit : 
+
+1° D'obtenir réparation du préjudice subi ; 
+
+2° De se constituer partie civile si l'action publique est mise en mouvement par le parquet ou en citant directement l'auteur
+des faits devant la juridiction compétente ou en portant plainte devant le juge d'instruction ; 
+
+3° D'être, si elles souhaitent se constituer partie civile, assistées d'un avocat qu'elles pourront choisir ou qui, à leur
+demande, sera désigné par le bâtonnier de l'ordre des avocats près la juridiction compétente, les frais étant à la charge des
+victimes sauf si elles remplissent les conditions d'accès à l'aide juridictionnelle ou si elles bénéficient d'une assurance
+de protection juridique ; 
+
+4° D'être aidées par un service relevant d'une ou de plusieurs collectivités publiques ou par une association conventionnée
+d'aide aux victimes ; 
+
+5° De saisir, le cas échéant, la commission d'indemnisation des victimes d'infraction, lorsqu'il s'agit d'une infraction
+mentionnée aux articles 706-3 et 706-14.
 
 **Liens relatifs à cet article**
 
@@ -4580,11 +4709,12 @@ d'une ou plusieurs collectivités publiques ou une association conventionnée d'
 
 	**Modifié par**:
 
-	  - Loi n°2000-516 du 15 juin 2000 - art. 104 () JORF 16 juin 2000 en vigueur le 1er janvier 2001
+	  - Loi n°2002-1138 du 9 septembre 2002 - art. 63 () JORF 10 septembre 2002
 
 	**Cite**:
 
-	  - CODE DE PROCEDURE PENALE - art. 20 (M)
+	  - Code de procédure pénale - art. 20 (V)
+	  - Code de procédure pénale - art. 706-3 (V)
 
 
 ###### Article 75-1
@@ -4817,26 +4947,6 @@ six mois à compter de la fin de la garde à vue, n'a pas fait l'objet de poursu
 République dans le ressort duquel la garde à vue s'est déroulée sur la suite donnée ou susceptible d'être donnée à la
 procédure. Cette demande est adressée par lettre recommandée avec demande d'avis de réception.
 
-Dans le mois suivant la réception de la demande, le procureur de la République compétent doit soit engager des poursuites
-contre l'intéressé, soit engager l'une des mesures prévues aux articles 41-1 à 41-3, soit lui notifier le classement sans
-suite de la procédure à son égard, soit, s'il estime que l'enquête doit se poursuivre, saisir le juge des libertés et de la
-détention. A défaut de saisine de ce magistrat, il ne peut être procédé contre l'intéressé, à peine de nullité, à aucun acte
-d'enquête postérieurement au délai d'un mois à compter de la réception de la demande.
-
-Lorsque le juge des libertés et de la détention est saisi en application des dispositions du précédent alinéa, il entend, au
-cours d'un débat contradictoire, les observations du procureur de la République et de la personne intéressée, assistée le cas
-échéant par son avocat. A l'issue de ce débat, le juge des libertés et de la détention décide si l'enquête peut être
-poursuivie. En cas de réponse négative, le procureur de la République doit, dans les deux mois, soit engager des poursuites
-contre l'intéressé, soit lui notifier le classement sans suite de la procédure à son égard, soit engager l'une des mesures
-prévues aux articles 41-1 à 41-4. Si le juge des libertés et de la détention autorise la continuation de l'enquête, il fixe
-un délai qui ne peut être supérieur à six mois, à l'issue duquel la personne intéressée peut, le cas échéant, faire à nouveau
-application des dispositions du présent article.
-
-Si la personne intéressée en fait la demande, le débat contradictoire prévu à l'alinéa précédent se déroule en audience
-publique, sauf si la publicité est de nature à entraver les investigations nécessitées par l'enquête, à nuire à la dignité de
-la personne ou aux intérêts d'un tiers. Le juge des libertés et de détention statue sur cette demande par une décision
-motivée qui n'est pas susceptible de recours.
-
 **Liens relatifs à cet article**
 
 	**Codifié par**:
@@ -4845,7 +4955,7 @@ motivée qui n'est pas susceptible de recours.
 
 	**Modifié par**:
 
-	  - Loi n°2000-1354 du 30 décembre 2000 - art. 23 () JORF 31 décembre 2000 en vigueur le 1er janvier 2001
+	  - Loi n°2002-1138 du 9 septembre 2002 - art. 34 () JORF 10 septembre 2002
 
 	**Cité par**:
 
@@ -4855,17 +4965,12 @@ motivée qui n'est pas susceptible de recours.
 	  - Code de procédure pénale - art. 77-3 (M)
 	  - Code de procédure pénale - art. R15-33-60-2 (V)
 
-	**Cite**:
-
-	  - Code de procédure pénale 41-1 à 41-3
-
 
 ###### Article 77-3
 
 Lorsque l'enquête n'a pas été menée sous la direction du procureur de la République du tribunal de grande instance dans le
-ressort duquel la garde à vue a été réalisée, celui-ci adresse sans délai la demande mentionnée au premier alinéa de
-l'article 77-2 au procureur de la République qui dirige l'enquête. Le délai fixé au deuxième alinéa du même article court à
-compter de la réception de la demande par le procureur de la République du lieu de la garde à vue.
+ressort duquel la garde à vue a été réalisée, celui-ci adresse sans délai la demande mentionnée à l'article 77-2 au procureur
+de la République qui dirige l'enquête.
 
 **Liens relatifs à cet article**
 
@@ -4873,13 +4978,13 @@ compter de la réception de la demande par le procureur de la République du lie
 
 	  - Loi n°57-1426 1957-12-31
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2000-516 du 15 juin 2000 - art. 73 () JORF 16 juin 2000 en vigueur le 1er janvier 2001
+	  - Loi n°2002-1138 du 9 septembre 2002 - art. 34 () JORF 10 septembre 2002
 
 	**Cite**:
 
-	  - CODE DE PROCEDURE PENALE - art. 77-2 (MMN)
+	  - Code de procédure pénale - art. 77-2 (V)
 
 
 ###### Article 78
@@ -5469,12 +5574,12 @@ procédure de témoin assisté.
 ###### Article 80-2
 
 Le juge d'instruction peut informer une personne par lettre recommandée qu'elle est convoquée, dans un délai qui ne peut être
-inférieur à dix jours ni supérieur à un mois, pour qu'il soit procédé à sa première comparution dans les conditions prévues
+inférieur à dix jours ni supérieur à deux mois, pour qu'il soit procédé à sa première comparution dans les conditions prévues
 par l'article 116. Cette lettre indique la date et l'heure de la convocation. Elle donne connaissance à la personne de chacun
 des faits dont ce magistrat est saisi et pour lesquels la mise en examen est envisagée, tout en précisant leur qualification
 juridique. Elle fait connaître à la personne qu'elle a le droit de choisir un avocat ou de demander qu'il lui en soit désigné
 un d'office, ce choix ou cette demande devant être adressé au greffe du juge d'instruction. Elle précise que la mise en
-examen ne pourra intervenir qu'à l'issue de la première comparution de la personne devant le juge d'instruction.
+examen ne pourra intervenir qu'à l'issue de la première comparution de la personne devant le juge d'instruction. 
 
 Le juge d'instruction peut également faire notifier cette convocation par un officier de police judiciaire. Cette
 notification comprend les mentions prévues à l'alinéa précédent ; elle est constatée par un procès-verbal signé par la
@@ -5491,11 +5596,11 @@ dans les conditions prévues par cet article.
 
 	**Modifié par**:
 
-	  - Loi n°2000-516 du 15 juin 2000 - art. 20 (V) JORF 16 juin 2000 en vigueur le 1er janvier 2001
+	  - Loi n°2002-1138 du 9 septembre 2002 - art. 39 () JORF 10 septembre 2002
 
 	**Cite**:
 
-	  - CODE DE PROCEDURE PENALE - art. 114 (M)
+	  - Code de procédure pénale - art. 114 (V)
 
 	**Cité par**:
 
@@ -5526,6 +5631,50 @@ donné à ses représentants légaux.
 	**Modifié par**:
 
 	  - Loi n°2000-516 du 15 juin 2000 - art. 109 () JORF 16 juin 2000 en vigueur le 1er janvier 2001
+
+
+###### Article 80-4
+
+Pendant le déroulement de l'information pour recherche des causes de la mort ou des causes d'une disparition mentionnée aux
+articles 74 et 74-1, le juge d'instruction procède conformément aux dispositions du chapitre Ier du titre III du livre Ier.
+Les interceptions des correspondances émises par la voie des télécommunications sont effectuées sous son autorité et son
+contrôle dans les conditions prévues au deuxième alinéa de l'article 100 et aux articles 100-1 à 100-7. Les interceptions ne
+peuvent excéder une durée de deux mois renouvelable. 
+
+Les membres de la famille ou les proches de la personne décédée ou disparue peuvent se constituer partie civile à titre
+incident. Toutefois, en cas de découverte de la personne disparue, l'adresse de cette dernière et les pièces permettant
+d'avoir directement ou indirectement connaissance de cette adresse ne peuvent être communiquées à la partie civile qu'avec
+l'accord de l'intéressé s'il s'agit d'un majeur et qu'avec l'accord du juge d'instruction s'il s'agit d'un mineur ou d'un
+majeur protégé.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°57-1426 1957-12-31
+
+	**Cité par**:
+
+	  - Décret n°87-249 du 8 avril 1987 - art. 3 (V)
+	  - Loi n°2003-239 du 18 mars 2003 - art. 21-1 (Ab)
+	  - Décret n°2007-1145 du 30 juillet 2007 - art. 2 (VT)
+	  - Décret n°2009-786 du 23 juin 2009 - art. 2 (V)
+	  - Code de procédure pénale - art. 230-32 (V)
+	  - Code de procédure pénale - art. 230-33 (V)
+	  - Code de procédure pénale - art. 230-44 (V)
+	  - Code de procédure pénale - art. 230-45 (V)
+	  - Code de procédure pénale - art. 706-54 (V)
+	  - Code de procédure pénale - art. R40-43 (V)
+	  - Code de procédure pénale - art. R53-10 (V)
+
+	**Créé par**:
+
+	  - Loi n°2002-1138 du 9 septembre 2002 - art. 66 () JORF 10 septembre 2002
+
+	**Cite**:
+
+	  - Code de procédure pénale - art. 100-1 (V)
+	  - Code de procédure pénale - art. 74 (V)
 
 
 ###### Article 81
@@ -5996,6 +6145,9 @@ affectant l'action publique elle-même, les faits ne peuvent légalement comport
 démontrés, ils ne peuvent admettre aucune qualification pénale. Dans le cas où le juge d'instruction passe outre, il doit
 statuer par une ordonnance motivée.
 
+Lorsque le juge d'instruction rend une ordonnance de refus d'informer, il peut faire application des dispositions des
+articles 177-2 et 177-3.
+
 **Liens relatifs à cet article**
 
 	**Cité par**:
@@ -6013,7 +6165,12 @@ statuer par une ordonnance motivée.
 
 	**Modifié par**:
 
-	  - Loi n°93-1013 1993-08-24 art. 9 JORF 25 août 1993 en vigueur le 2 septembre 1993
+	  - Loi n°2002-1138 du 9 septembre 2002 - art. 39 () JORF 10 septembre 2002
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. 177-2 (M)
+	  - CODE DE PROCEDURE PENALE - art. 177-3 (V)
 
 
 ###### Article 87
@@ -8439,13 +8596,10 @@ dossier de la procédure.
 
 ###### Article 137-4
 
-Le juge d'instruction n'est pas tenu de statuer par ordonnance dans les cas suivants :
-
-1° Lorsque, saisi de réquisitions du procureur de la République tendant au placement en détention provisoire ou demandant la
-prolongation de celle-ci, il ne transmet pas le dossier de la procédure au juge des libertés et de la détention ;
-
-2° Lorsqu'il ne suit pas les réquisitions du procureur de la République tendant au prononcé d'une mesure de contrôle
-judiciaire.
+Lorsque, saisi de réquisitions du procureur de la République tendant au placement en détention provisoire, le juge
+d'instruction estime que cette détention n'est pas justifiée et qu'il décide de ne pas transmettre le dossier de la procédure
+au juge des libertés et de la détention, il est tenu de statuer sans délai par ordonnance motivée, qui est immédiatement
+portée à la connaissance du procureur de la République.
 
 **Liens relatifs à cet article**
 
@@ -8453,40 +8607,15 @@ judiciaire.
 
 	  - Loi n°57-1426 1957-12-31
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2000-516 du 15 juin 2000 - art. 48 () JORF 16 juin 2000 en vigueur le 1er janvier 2001
+	  - Loi n°2002-1138 du 9 septembre 2002 - art. 37 (V) JORF 10 septembre 2002
 
 	**Cité par**:
 
 	  - Code de procédure pénale - art. 137-1 (VD)
 	  - Code de procédure pénale - art. 82 (V)
 	  - Code de procédure pénale - art. D32-1 (T)
-
-
-###### Article 137-5
-
-Lorsqu'il n'a pas été fait droit à ses réquisitions tendant au placement en détention provisoire ou sous contrôle judiciaire
-de la personne mise en examen, ou à la prolongation de la détention provisoire, le procureur de la République peut saisir
-directement la chambre de l'instruction dans les dix jours de l'avis de notification qui lui est donné par le greffier.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°57-1426 1957-12-31
-
-	**Créé par**:
-
-	  - Loi n°2000-516 du 15 juin 2000 - art. 48 () JORF 16 juin 2000 en vigueur le 1er janvier 2001
-
-	**Abrogé par**:
-
-	  - Loi n°2002-1138 du 9 septembre 2002 - art. 37 (V) JORF 10 septembre 2002
-
-	**Cité par**:
-
-	  - CODE DE PROCEDURE PENALE - art. 207 (M)
 
 
 ##### Sous-section 1 : Du contrôle judiciaire
@@ -8552,8 +8681,13 @@ ou réelles ;
 conformément aux décisions judiciaires et aux conventions judiciairement homologuées portant obligation de verser des
 prestations, subsides ou contributions aux charges du mariage.
 
+L'obligation prévue au 2° peut être exécutée, avec l'accord de l'intéressé recueilli en présence de son avocat, sous le
+régime du placement sous surveillance électronique, à l'aide du procédé prévu par l'article 723-8. Les articles 723-9 et
+723-12 sont applicables, le juge d'instruction exerçant les compétences attribuées au juge de l'application des peines.
+
 Les modalités d'application du présent article, en ce qui concerne notamment l'habilitation des personnes contribuant au
-contrôle judiciaire, sont déterminées en tant que de besoin par un décret en Conseil d'Etat.
+contrôle judiciaire et au placement sous surveillance électronique sont déterminées en tant que de besoin par un décret en
+Conseil d'Etat.
 
 **Liens relatifs à cet article**
 
@@ -8607,11 +8741,13 @@ contrôle judiciaire, sont déterminées en tant que de besoin par un décret en
 
 	  - Loi n°71-1130 du 31 décembre 1971 - art. 23 (M)
 	  - Loi n°71-1130 du 31 décembre 1971 - art. 24 (M)
+	  - CODE DE PROCEDURE PENALE - art. 723-12 (M)
+	  - CODE DE PROCEDURE PENALE - art. 723-8 (M)
+	  - CODE DE PROCEDURE PENALE - art. 723-9 (M)
 
 	**Modifié par**:
 
-	  - Loi n°2000-516 2000-06-15 art. 50, 51 et 132 JORF 16 juin 2000 en vigueur le 1er janvier 2001
-	  - Loi n°2000-516 du 15 juin 2000 - art. 50 () JORF 16 juin 2000 en vigueur le 1er janvier 2001
+	  - Loi n°2002-1138 du 9 septembre 2002 - art. 49 (V) JORF 10 septembre 2002
 
 
 ###### Article 139
@@ -8973,15 +9109,6 @@ cas ci-après énumérés :
 
 2° La personne mise en examen encourt une peine correctionnelle d'une durée égale ou supérieure à trois ans d'emprisonnement.
 
-Toutefois, la détention provisoire ne peut être ordonnée ou prolongée que si la peine encourue est supérieure ou égale à cinq
-ans d'emprisonnement, s'il est reproché à la personne mise en examen un délit prévu par le livre III du code pénal et que
-cette personne n'a pas déjà été condamnée à une peine privative de liberté sans sursis supérieure à un an. La détention
-provisoire peut également être ordonnée ou prolongée à l'égard d'une personne mise en examen pour un délit prévu par le livre
-III du code pénal et puni d'une peine égale ou supérieure à trois ans d'emprisonnement si, dans les six mois qui précèdent,
-cette personne a déjà fait l'objet pour un délit puni d'une peine supérieure ou égale à deux ans d'emprisonnement et dans une
-procédure dont la copie est jointe au dossier de l'information, soit d'une des mesures prévues aux articles 41-1 ou 41-2,
-soit d'une poursuite pénale qui n'a pas été clôturée par une décision de non-lieu, de relaxe ou d'acquittement.
-
 La détention provisoire peut également être ordonnée dans les conditions prévues à l'article 141-2 lorsque la personne mise
 en examen se soustrait volontairement aux obligations du contrôle judiciaire.
 
@@ -8993,14 +9120,12 @@ en examen se soustrait volontairement aux obligations du contrôle judiciaire.
 
 	**Modifié par**:
 
-	  - Loi n°2002-307 du 4 mars 2002 - art. 5 () JORF 5 mars 2002
+	  - Loi n°2002-1138 du 9 septembre 2002 - art. 37 (V) JORF 10 septembre 2002
 
 	**Cite**:
 
 	  - CODE DE PROCEDURE PENALE - art. 137 (M)
 	  - CODE DE PROCEDURE PENALE - art. 141-2 (M)
-	  - CODE DE PROCEDURE PENALE - art. 41-1 (M)
-	  - CODE DE PROCEDURE PENALE - art. 41-2 (M)
 
 	**Cité par**:
 
@@ -9021,9 +9146,7 @@ une concertation frauduleuse entre personnes mises en examen et complices ;
 l'infraction ou de prévenir son renouvellement ;
 
 3° De mettre fin à un trouble exceptionnel et persistant à l'ordre public provoqué par la gravité de l'infraction, les
-circonstances de sa commission ou l'importance du préjudice qu'elle a causé. Toutefois, ce motif ne peut justifier la
-prolongation de la détention provisoire, sauf en matière criminelle ou lorsque la peine correctionnelle encourue est
-supérieure ou égale à dix ans d'emprisonnement.
+circonstances de sa commission ou l'importance du préjudice qu'elle a causé.
 
 **Liens relatifs à cet article**
 
@@ -9062,7 +9185,7 @@ supérieure ou égale à dix ans d'emprisonnement.
 
 	**Modifié par**:
 
-	  - Loi n°2000-516 du 15 juin 2000 - art. 57 () JORF 16 juin 2000 en vigueur le 1er janvier 2001
+	  - Loi n°2002-1138 du 9 septembre 2002 - art. 37 (V) JORF 10 septembre 2002
 
 
 ###### Article 144-1
@@ -9094,38 +9217,6 @@ de la personne placée en détention provisoire, selon les modalités prévues p
 
 	  - Code de procédure pénale - art. 144 (V)
 	  - Code de procédure pénale - art. 147 (VT)
-
-
-###### Article 144-2
-
-Lorsqu'elle est prononcée, la détention provisoire peut être effectuée, sur décision du juge des libertés et de la détention
-d'office ou sur demande de l'intéressé ou du juge d'instruction, avec l'accord de l'intéressé, selon les modalités prévues
-aux articles 723-7 et suivants. Le juge des libertés et de la détention prend en considération la situation familiale de
-l'intéressé, notamment lorsque celui-ci exerce l'autorité parentale à l'égard d'un enfant ayant sa résidence habituelle chez
-lui et dont l'âge est inférieur à dix ans. Pour l'exécution de cette mesure, le juge des libertés et de la détention exerce
-les compétences attribuées au juge de l'application des peines.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°57-1426 1957-12-31
-
-	**Créé par**:
-
-	  - Loi n°2000-516 du 15 juin 2000 - art. 62 () JORF 16 juin 2000 en vigueur le 1er janvier 2001
-
-	**Abrogé par**:
-
-	  - Loi n°2002-1138 du 9 septembre 2002 - art. 49 (V) JORF 10 septembre 2002
-
-	**Cite**:
-
-	  - CODE DE PROCEDURE PENALE - art. 723-7 (M)
-
-	**Cité par**:
-
-	  - CODE DE PROCEDURE PENALE - art. R57-10 (M)
 
 
 ###### Article 145
@@ -9231,6 +9322,13 @@ commis hors du territoire national ou lorsque la personne est poursuivie pour tr
 de malfaiteurs, proxénétisme, extorsion de fonds ou pour une infraction commise en bande organisée et qu'elle encourt une
 peine égale à dix ans d'emprisonnement.
 
+A titre exceptionnel, lorsque les investigations du juge d'instruction doivent être poursuivies et que la mise en liberté de
+la personne mise en examen causerait pour la sécurité des personnes et des biens un risque d'une particulière gravité, la
+chambre de l'instruction peut prolonger pour une durée de quatre mois la durée de deux ans prévue au présent article. La
+chambre de l'instruction, devant laquelle la comparution personnelle du mis en examen est de droit, est saisie par ordonnance
+motivée du juge des libertés et de la détention selon les modalités prévues par le dernier alinéa de l'article 137-1, et elle
+statue conformément aux dispositions des articles 144, 144-1, 145-3, 194, 197, 198, 199, 200, 206 et 207.
+
 **Liens relatifs à cet article**
 
 	**Cité par**:
@@ -9258,13 +9356,23 @@ peine égale à dix ans d'emprisonnement.
 
 	**Modifié par**:
 
-	  - Loi n°2000-516 du 15 juin 2000 - art. 58 () JORF 16 juin 2000 en vigueur le 1er janvier 2001
+	  - Loi n°2002-1138 du 9 septembre 2002 - art. 37 (V) JORF 10 septembre 2002
 
 	**Cite**:
 
 	  - CODE DE PROCEDURE PENALE - art. 114 (M)
+	  - CODE DE PROCEDURE PENALE - art. 137-1 (Ab)
 	  - CODE DE PROCEDURE PENALE - art. 137-3 (V)
+	  - CODE DE PROCEDURE PENALE - art. 144 (M)
+	  - CODE DE PROCEDURE PENALE - art. 144-1 (MMN)
 	  - CODE DE PROCEDURE PENALE - art. 145-3 (M)
+	  - CODE DE PROCEDURE PENALE - art. 194 (M)
+	  - CODE DE PROCEDURE PENALE - art. 197 (M)
+	  - CODE DE PROCEDURE PENALE - art. 198 (M)
+	  - CODE DE PROCEDURE PENALE - art. 199 (M)
+	  - CODE DE PROCEDURE PENALE - art. 200 (M)
+	  - CODE DE PROCEDURE PENALE - art. 206 (M)
+	  - CODE DE PROCEDURE PENALE - art. 207 (M)
 
 
 ###### Article 145-2
@@ -9282,6 +9390,14 @@ portés respectivement à trois et quatre ans lorsque l'un des faits constitutif
 territoire national. Le délai est également de quatre ans lorsque la personne est poursuivie pour plusieurs crimes mentionnés
 aux livres II et IV du code pénal, ou pour trafic de stupéfiants, terrorisme, proxénétisme, extorsion de fonds ou pour un
 crime commis en bande organisée.
+
+A titre exceptionnel, lorsque les investigations du juge d'instruction doivent être poursuivies et que la mise en liberté de
+la personne mise en examen causerait pour la sécurité des personnes et des biens un risque d'une particulière gravité, la
+chambre de l'instruction peut prolonger pour une durée de quatre mois les durées prévues au présent article. La chambre de
+l'instruction, devant laquelle la comparution personnelle du mis en examen est de droit, est saisie par ordonnance motivée du
+juge des libertés et de la détention selon les modalités prévues par le dernier alinéa de l'article 137-1, et elle statue
+conformément aux dispositions des articles 144, 144-1, 145-3, 194, 197, 198, 199, 200, 206 et 207. Cette décision peut être
+renouvelée une fois sous les mêmes conditions et selon les mêmes modalités.
 
 Les dispositions du présent article sont applicables jusqu'à l'ordonnance de règlement.
 
@@ -9301,13 +9417,23 @@ Les dispositions du présent article sont applicables jusqu'à l'ordonnance de r
 
 	**Modifié par**:
 
-	  - Loi n°2000-516 du 15 juin 2000 - art. 59 () JORF 16 juin 2000 en vigueur le 1er janvier 2001
+	  - Loi n°2002-1138 du 9 septembre 2002 - art. 37 (V) JORF 10 septembre 2002
 
 	**Cite**:
 
 	  - CODE DE PROCEDURE PENALE - art. 114 (M)
+	  - CODE DE PROCEDURE PENALE - art. 137-1 (Ab)
 	  - CODE DE PROCEDURE PENALE - art. 137-3 (V)
+	  - CODE DE PROCEDURE PENALE - art. 144 (M)
+	  - CODE DE PROCEDURE PENALE - art. 144-1 (MMN)
 	  - CODE DE PROCEDURE PENALE - art. 145-3 (M)
+	  - CODE DE PROCEDURE PENALE - art. 194 (M)
+	  - CODE DE PROCEDURE PENALE - art. 197 (M)
+	  - CODE DE PROCEDURE PENALE - art. 198 (M)
+	  - CODE DE PROCEDURE PENALE - art. 199 (M)
+	  - CODE DE PROCEDURE PENALE - art. 200 (M)
+	  - CODE DE PROCEDURE PENALE - art. 206 (M)
+	  - CODE DE PROCEDURE PENALE - art. 207 (M)
 
 
 ###### Article 145-3
@@ -9563,12 +9689,17 @@ partielle du contrôle judiciaire ou sur une demande de mise en liberté se pron
 prévenu ou de son avocat ; le prévenu non détenu et son avocat sont convoqués, par lettre recommandée, quarante-huit heures
 au moins avant la date de l'audience.
 
-La juridiction saisie, selon qu'elle est du premier ou du second degré, rend sa décision dans les dix jours ou dans les vingt
-jours de la réception de la demande ; toutefois, lorsqu'au jour de la réception de cette demande, il n'a pas encore été
-statué sur une précédente demande de mise en liberté ou sur l'appel d'une précédente décision de refus de mise en liberté, le
-délai de dix ou vingt jours ne commence à courir qu'à compter de la décision rendue par la juridiction compétente ; faute de
-décision à l'expiration de ce délai, il est mis fin au contrôle judiciaire ou à la détention provisoire, le prévenu, s'il
-n'est pas détenu pour autre cause, étant mis d'office en liberté.
+Lorsque la personne n'a pas encore été jugée en premier ressort, la juridiction saisie statue dans les dix jours ou les vingt
+jours de la réception de la demande, selon qu'elle est du premier ou du second degré. Lorsque la personne a déjà été jugée en
+premier ressort et qu'elle est en instance d'appel, la juridiction saisie statue dans les deux mois de la demande. Lorsque la
+personne a déjà été jugée en second ressort et qu'elle a formé un pourvoi en cassation, la juridiction saisie statue dans les
+quatre mois de la demande.
+
+Toutefois, lorsqu'au jour de la réception de la demande il n'a pas encore été statué soit sur une précédente demande de mise
+en liberté ou de mainlevée de contrôle judiciaire, soit sur l'appel d'une précédente décision de refus de mise en liberté ou
+de mainlevée du contrôle judiciaire, les délais prévus ci-dessus ne commencent à courir qu'à compter de la décision rendue
+par la juridiction compétente. Faute de décision à l'expiration des délais, il est mis fin au contrôle judiciaire ou à la
+détention provisoire, le prévenu, s'il n'est pas détenu pour une autre cause, étant d'office remis en liberté.
 
 La décision du tribunal est immédiatement exécutoire nonobstant appel ; lorsque le prévenu est maintenu en détention, la cour
 se prononce dans les vingt jours de l'appel, faute de quoi le prévenu, s'il n'est pas détenu pour autre cause, est mis
@@ -9582,7 +9713,12 @@ d'office en liberté.
 
 	**Modifié par**:
 
-	  - Loi n°93-2 du 4 janvier 1993 - art. 224 () JORF 5 janvier 1993 en vigueur le 1er mars 1993
+	  - Loi n°2002-1138 du 9 septembre 2002 - art. 38 (V) JORF 10 septembre 2002
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. 141-1 (AbD)
+	  - CODE DE PROCEDURE PENALE - art. 148-1 (M)
 
 	**Cité par**:
 
@@ -9595,10 +9731,6 @@ d'office en liberté.
 	  - Code de procédure pénale - art. 142-4 (V)
 	  - Code de procédure pénale - art. 194-1 (V)
 	  - Code de procédure pénale - art. 397-4 (V)
-
-	**Cite**:
-
-	  - Code de procédure pénale 141-1 et 148-1
 
 
 ###### Article 148-3
@@ -11303,6 +11435,30 @@ les mêmes conditions.
 	  - Code de procédure pénale - art. R249-5 (V)
 
 
+###### Article 177-3
+
+Lorsque la partie civile est une personne morale, l'amende civile prévue par l'article 177-2 peut être prononcée contre son
+représentant légal, si la mauvaise foi de ce dernier est établie.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°57-1426 1957-12-31
+
+	**Créé par**:
+
+	  - Loi n°2002-1138 du 9 septembre 2002 - art. 39 () JORF 10 septembre 2002
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. 177-2 (M)
+
+	**Cité par**:
+
+	  - CODE DE PROCEDURE PENALE - art. 86 (M)
+
+
 ###### Article 178
 
 Si le juge estime que les faits constituent une contravention, il prononce, par ordonnance, le renvoi de l'affaire devant le
@@ -11495,8 +11651,8 @@ Les ordonnances de règlement sont portées à la connaissance de la personne mi
 ordonnances de renvoi ou de mise en accusation à la connaissance de la partie civile ; la notification est effectuée dans les
 délais les plus brefs soit verbalement, avec émargement au dossier de la procédure, soit par lettre recommandée.
 
-Sous réserve de l'application de l'article 145, premier alinéa, les décisions qui sont susceptibles de faire l'objet de voies
-de recours de la part d'une partie à la procédure ou d'un tiers conformément aux articles 99, 186 et 186-1 leur sont
+Sous réserve de l'application de l'article 137-3, deuxième alinéa, les décisions qui sont susceptibles de faire l'objet de
+voies de recours de la part d'une partie à la procédure ou d'un tiers conformément aux articles 99, 186 et 186-1 leur sont
 notifiées dans les délais les plus brefs soit verbalement, avec émargement au dossier de la procédure, soit par lettre
 recommandée. Si la personne mise en examen est détenue, elles peuvent, également être portées à sa connaissance par les soins
 du chef de l'établissement pénitentiaire qui adresse, sans délai, au juge d'instruction l'original ou la copie du récépissé
@@ -11523,11 +11679,11 @@ application du présent article ainsi que des formes utilisées.
 
 	**Modifié par**:
 
-	  - Loi n°2000-516 du 15 juin 2000 - art. 84 () JORF 16 juin 2000 en vigueur le 1er janvier 2001
+	  - Loi n°2002-1138 du 9 septembre 2002 - art. 38 (V) JORF 10 septembre 2002
 
 	**Cite**:
 
-	  - CODE DE PROCEDURE PENALE - art. 145 (MMN)
+	  - CODE DE PROCEDURE PENALE - art. 137-3 (V)
 	  - CODE DE PROCEDURE PENALE - art. 186 (M)
 	  - CODE DE PROCEDURE PENALE - art. 186-1 (M)
 	  - CODE DE PROCEDURE PENALE - art. 99 (M)
@@ -11624,7 +11780,8 @@ la République, au procureur général, qui procède ainsi qu'il est dit aux art
 
 Si le président de la chambre de l'instruction constate qu'il a été fait appel d'une ordonnance non visée aux alinéas 1 à 3
 du présent article, il rend d'office une ordonnance de non-admission de l'appel qui n'est pas susceptible de voies de
-recours.
+recours. Il en est de même lorsqu'il est fait appel, après expiration du délai prévu au quatrième alinéa du présent article,
+de toute ordonnance du juge d'instruction ou lorsque l'appel est devenu sans objet.
 
 **Liens relatifs à cet article**
 
@@ -11646,9 +11803,7 @@ recours.
 
 	**Modifié par**:
 
-	  - Loi n°2000-516 2000-06-15 art. 32, 82, 83 et 132 JORF 16 juin 2000 en vigueur le 1er janvier 2001
-	  - Loi n°2000-516 du 15 juin 2000 - art. 32 () JORF 16 juin 2000 en vigueur le 1er janvier 2001
-	  - Loi n°2000-516 du 15 juin 2000 - art. 82 (V) JORF 16 juin 2000 en vigueur le 1er janvier 2001
+	  - Loi n°2002-1138 du 9 septembre 2002 - art. 39 () JORF 10 septembre 2002
 
 	**Cite**:
 
@@ -12215,7 +12370,10 @@ l'absence des autres conseillers.
 
 En matière de détention provisoire, la comparution personnelle de la personne concernée est de droit si celle-ci ou son
 avocat en fait la demande ; cette requête doit, à peine d'irrecevabilité, être présentée en même temps que la déclaration
-d'appel ou que la demande de mise en liberté adressée à la chambre de l'instruction.
+d'appel ou que la demande de mise en liberté adressée à la chambre de l'instruction. Si la personne a déjà comparu devant la
+chambre de l'instruction moins de quatre mois auparavant, le président de cette juridiction peut, en cas d'appel d'une
+ordonnance rejetant une demande de mise en liberté, refuser la comparution personnelle de l'intéressé par une décision
+motivée qui n'est susceptible d'aucun recours.
 
 En cas de comparution personnelle de la personne concernée, le délai maximum prévu au troisième alinéa de l'article 194 est
 prolongé de cinq jours.
@@ -12228,7 +12386,7 @@ prolongé de cinq jours.
 
 	**Modifié par**:
 
-	  - Loi n°2000-516 du 15 juin 2000 - art. 83 () JORF 16 juin 2000 en vigueur le 1er janvier 2001
+	  - Loi n°2002-1138 du 9 septembre 2002 - art. 38 (V) JORF 10 septembre 2002
 
 	**Cité par**:
 
@@ -12503,10 +12661,10 @@ le dossier de la procédure au même juge d'instruction ou à tel autre, afin de
 ###### Article 207
 
 Lorsque la chambre de l'instruction a statué sur l'appel relevé contre une ordonnance du juge des libertés et de la détention
-en matière de détention provisoire, ou à la suite d'une saisine du procureur de la République formée en application de
-l'article 137-5 soit qu'elle ait confirmé la décision du juge des libertés et de la détention, soit que, l'infirmant, elle
-ait ordonné une mise en liberté ou maintenu en détention ou décerné un mandat de dépôt ou d'arrêt, le procureur général fait
-sans délai retour du dossier au juge d'instruction après avoir assuré l'exécution de l'arrêt.
+en matière de détention provisoire, ou à la suite d'une saisine du procureur de la République soit qu'elle ait confirmé la
+décision du juge des libertés et de la détention, soit que, l'infirmant, elle ait ordonné une mise en liberté ou maintenu en
+détention ou décerné un mandat de dépôt ou d'arrêt, le procureur général fait sans délai retour du dossier au juge
+d'instruction après avoir assuré l'exécution de l'arrêt.
 
 Lorsque, en toute autre matière, la chambre de l'instruction infirme une ordonnance du juge d'instruction ou est saisie en
 application des articles 81, neuvième alinéa, 82, quatrième alinéa, 82-1, deuxième alinéa, 156, deuxième alinéa, ou 167,
@@ -12529,11 +12687,16 @@ l'appel et sur cette demande.
 
 	**Modifié par**:
 
-	  - Loi n°2000-516 du 15 juin 2000 - art. 83 () JORF 16 juin 2000 en vigueur le 1er janvier 2001
+	  - Loi n°2002-1138 du 9 septembre 2002 - art. 37 (V) JORF 10 septembre 2002
+
+	**Cité par**:
+
+	  - CODE DE PROCEDURE PENALE - art. 145-1 (M)
+	  - CODE DE PROCEDURE PENALE - art. 145-2 (V)
+	  - Code de procédure pénale - art. 609-1 (V)
 
 	**Cite**:
 
-	  - CODE DE PROCEDURE PENALE - art. 137-5 (Ab)
 	  - CODE DE PROCEDURE PENALE - art. 156 (M)
 	  - CODE DE PROCEDURE PENALE - art. 167 (M)
 	  - CODE DE PROCEDURE PENALE - art. 201 (M)
@@ -12543,12 +12706,6 @@ l'appel et sur cette demande.
 	  - CODE DE PROCEDURE PENALE - art. 81 (M)
 	  - CODE DE PROCEDURE PENALE - art. 82 (M)
 	  - CODE DE PROCEDURE PENALE - art. 82-1 (M)
-
-	**Cité par**:
-
-	  - CODE DE PROCEDURE PENALE - art. 145-1 (M)
-	  - CODE DE PROCEDURE PENALE - art. 145-2 (V)
-	  - Code de procédure pénale - art. 609-1 (V)
 
 
 ###### Article 207-1
@@ -12789,6 +12946,8 @@ la cour d'assises.
 
 Les dispositions des cinquième et sixième alinéas de l'article 181 sont applicables.
 
+L'arrêt de mise en accusation est notifié à l'accusé conformément aux dispositions du deuxième alinéa de l'article 183.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
@@ -12801,18 +12960,20 @@ Les dispositions des cinquième et sixième alinéas de l'article 181 sont appli
 
 	**Modifié par**:
 
-	  - Loi n°2000-516 du 15 juin 2000 - art. 82 (V) JORF 16 juin 2000 en vigueur le 1er janvier 2001
+	  - Loi n°2002-1138 du 9 septembre 2002 - art. 43 (V) JORF 10 septembre 2002
 
 	**Cite**:
 
 	  - CODE DE PROCEDURE PENALE - art. 181 (M)
+	  - CODE DE PROCEDURE PENALE - art. 183 (M)
 
 
 ###### Article 215-2
 
 L'accusé détenu en raison des faits pour lesquels il est renvoyé devant la cour d'assises est immédiatement remis en liberté
-s'il n'a pas comparu devant celle-ci à l'expiration d'un délai d'un an à compter de la date à laquelle la décision de mise en
-accusation est devenue définitive.
+s'il n'a pas comparu devant celle-ci à l'expiration d'un délai d'un an à compter soit de la date à laquelle la décision de
+mise en accusation est devenue définitive s'il était alors déjà détenu, soit de la date à laquelle il a été ultérieurement
+placé en détention provisoire.
 
 Toutefois, si l'audience sur le fond ne peut débuter avant l'expiration de ce délai, la chambre de l'instruction peut, à
 titre exceptionnel, par une décision rendue conformément à l'article 144 et mentionnant les raisons de fait ou de droit
@@ -12827,9 +12988,13 @@ Cette prolongation peut être renouvelée une fois dans les mêmes formes. Si l'
 
 	  - Loi n°57-1426 1957-12-31
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2000-516 du 15 juin 2000 - art. 77 () JORF 16 juin 2000 en vigueur le 16 juin 2001
+	  - Loi n°2002-1138 du 9 septembre 2002 - art. 43 (V) JORF 10 septembre 2002
+
+	**Abrogé par**:
+
+	  - Loi n°2004-204 du 9 mars 2004 - art. 99 () JORF 10 mars 2004 en vigueur le 1er octobre 2004
 
 	**Cite**:
 
@@ -14632,34 +14797,6 @@ au juré désigné.
 #### Chapitre IV : De la procédure préparatoire aux sessions d'assises
 
 ##### Section 1 : Des actes obligatoires
-
-###### Article 268
-
-L'ordonnance ou l'arrêt de mise en accusation est signifié à l'accusé.
-
-Il lui en est laissé copie.
-
-Cette signification doit être faite à personne si l'accusé est détenu. Toutefois, l'ordonnance ou l'arrêt de mise en
-accusation peut être notifié à l'accusé détenu par les soins du chef de l'établissement pénitentiaire qui adresse, sans
-délai, selon les cas, au procureur de la République ou au procureur général, l'original ou la copie du récépissé signé par
-l'intéressé.
-
-Dans le cas contraire, elle est faite dans les formes prévues au titre IV du présent livre.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance 58-1296 1958-12-23
-
-	**Modifié par**:
-
-	  - Loi n°2000-516 du 15 juin 2000 - art. 136 () JORF 16 juin 2000 en vigueur le 1er janvier 2001
-
-	**Abrogé par**:
-
-	  - Loi n°2002-1138 du 9 septembre 2002 - art. 43 (V) JORF 10 septembre 2002
-
 
 ###### Article 269
 
@@ -17287,12 +17424,8 @@ liberté s'il n'est retenu pour autre cause.
 
 Dans les autres cas, tant que l'arrêt n'est pas définitif et, le cas échéant, pendant l'instance d'appel, l'ordonnance de
 prise de corps est mise à exécution ou continue de produire ses effets, jusqu'à ce que la durée de détention ait atteint
-celle de la peine prononcée. Toutefois, si la cour d'assises saisie en appel n'a pas commencé à examiner l'affaire à
-l'expiration d'un délai d'un an à compter de la date à laquelle a été interjeté l'appel, l'accusé est remis en liberté. La
-chambre de l'instruction peut toutefois, à titre exceptionnel, par une décision rendue conformément à l'article 144 et
-mentionnant les raisons de fait ou de droit faisant obstacle au jugement de l'affaire, ordonner la prolongation des effets de
-l'ordonnance de prise de corps pour une durée de six mois. La comparution personnelle de l'accusé est de droit si lui-même ou
-son avocat en fait la demande.
+celle de la peine prononcée, sans préjudice pour l'accusé de son droit à demander sa mise en liberté conformément aux
+dispositions des articles 148-1 et 148-2.
 
 La cour d'assises peut, par décision spéciale et motivée, décider que l'ordonnance de prise de corps sera mise à exécution
 contre la personne renvoyée pour délit connexe qui n'est pas détenue au moment où l'arrêt est rendu, si la peine prononcée
@@ -17315,12 +17448,13 @@ par provision.
 
 	**Modifié par**:
 
-	  - Loi n°2000-516 du 15 juin 2000 - art. 85 () JORF 16 juin 2000 en vigueur le 16 juin 2001
+	  - Loi n°2002-1138 du 9 septembre 2002 - art. 43 (V) JORF 10 septembre 2002
 
 	**Cite**:
 
 	  - Code pénal 131-6 à 131-11
-	  - CODE DE PROCEDURE PENALE - art. 144 (M)
+	  - CODE DE PROCEDURE PENALE - art. 148-1 (M)
+	  - CODE DE PROCEDURE PENALE - art. 148-2 (M)
 
 
 ###### Article 368
@@ -18768,14 +18902,13 @@ procès-verbal dont copie lui est remise sur-le-champ.
 
 ###### Article 395
 
-Si le maximum de l'emprisonnement prévu par la loi est au moins égal à deux ans sans excéder sept ans, le procureur de la
-République, lorsqu'il lui apparaît que les charges réunies sont suffisantes et que l'affaire est en l'état d'être jugée,
-peut, s'il estime que les éléments de l'espèce justifient une comparution immédiate, traduire le prévenu sur-le-champ devant
-le tribunal.
+Si le maximum de l'emprisonnement prévu par la loi est au moins égal à deux ans, le procureur de la République, lorsqu'il lui
+apparaît que les charges réunies sont suffisantes et que l'affaire est en l'état d'être jugée, peut, s'il estime que les
+éléments de l'espèce justifient une comparution immédiate, traduire le prévenu sur-le-champ devant le tribunal.
 
-En cas de délit flagrant, si le maximum de l'emprisonnement prévu par la loi est au moins égal à un an sans excéder sept ans,
-le procureur de la République, s'il estime que les éléments de l'espèce justifient une comparution immédiate, peut traduire
-le prévenu sur-le-champ devant le tribunal.
+En cas de délit flagrant, si le maximum de l'emprisonnement prévu par la loi est au moins égal à six mois, le procureur de la
+République, s'il estime que les éléments de l'espèce justifient une comparution immédiate, peut traduire le prévenu sur-le-
+champ devant le tribunal.
 
 Le prévenu est retenu jusqu'à sa comparution qui doit avoir lieu le jour même ; il est conduit sous escorte devant le
 tribunal.
@@ -18788,7 +18921,7 @@ tribunal.
 
 	**Modifié par**:
 
-	  - Loi n°95-125 du 8 février 1995 - art. 58 () JORF 9 février 1995
+	  - Loi n°2002-1138 du 9 septembre 2002 - art. 40 () JORF 10 septembre 2002
 
 	**Cité par**:
 
@@ -18816,11 +18949,11 @@ fins de détention provisoire, après avoir recueilli les observations éventuel
 rendue n'est pas susceptible d'appel.
 
 Il peut placer le prévenu en détention provisoire jusqu'à sa comparution devant le tribunal. L'ordonnance prescrivant la
-détention est rendue suivant les modalités prévues par les articles 135 et 145-1, quatrième alinéa, et doit comporter
-l'énoncé des considérations de droit et de fait qui constituent le fondement de la décision par référence aux dispositions
-des 1°, 2° et 3° de l'article 144. Cette décision énonce les faits retenus et saisit le tribunal ; elle est notifiée
-verbalement au prévenu et mentionnée au procès-verbal dont copie lui est remise sur-le-champ. Le prévenu doit comparaître
-devant le tribunal au plus tard le deuxième jour ouvrable suivant. A défaut, il est mis d'office en liberté.
+détention est rendue suivant les modalités prévues par l'article 137-3, premier alinéa, et doit comporter l'énoncé des
+considérations de droit et de fait qui constituent le fondement de la décision par référence aux dispositions des 1°, 2° et
+3° de l'article 144. Cette décision énonce les faits retenus et saisit le tribunal ; elle est notifiée verbalement au prévenu
+et mentionnée au procès-verbal dont copie lui est remise sur-le-champ. Le prévenu doit comparaître devant le tribunal au plus
+tard le deuxième jour ouvrable suivant. A défaut, il est mis d'office en liberté.
 
 Si le juge estime que la détention provisoire n'est pas nécessaire, le ministère public procède comme il est dit à l'article
 394.
@@ -18833,7 +18966,7 @@ Si le juge estime que la détention provisoire n'est pas nécessaire, le minist�
 
 	**Modifié par**:
 
-	  - Loi n°2000-516 du 15 juin 2000 - art. 49 () JORF 16 juin 2000 en vigueur le 16 juin 2002
+	  - Loi n°2002-1138 du 9 septembre 2002 - art. 40 () JORF 10 septembre 2002
 
 	**Cité par**:
 
@@ -18846,9 +18979,8 @@ Si le juge estime que la détention provisoire n'est pas nécessaire, le minist�
 
 	**Cite**:
 
-	  - CODE DE PROCEDURE PENALE - art. 135 (M)
+	  - CODE DE PROCEDURE PENALE - art. 137-3 (V)
 	  - CODE DE PROCEDURE PENALE - art. 144 (M)
-	  - CODE DE PROCEDURE PENALE - art. 145-1 (M)
 	  - CODE DE PROCEDURE PENALE - art. 394 (M)
 	  - CODE DE PROCEDURE PENALE - art. 41 (M)
 
@@ -18883,6 +19015,10 @@ Si le prévenu ne consent pas à être jugé séance tenante ou si l'affaire ne 
 après avoir recueilli les observations des parties et de leur avocat, renvoie à une prochaine audience qui doit avoir lieu
 dans un délai qui ne peut être inférieur à deux semaines, sauf renonciation expresse du prévenu, ni supérieur à six semaines.
 
+Lorsque la peine encourue est supérieure à sept ans d'emprisonnement, le prévenu, informé de l'étendue de ses droits, peut
+demander que l'affaire soit renvoyée à une audience qui devra avoir lieu dans un délai qui ne peut être inférieur à deux
+mois, sans être supérieur à quatre mois.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
@@ -18891,7 +19027,7 @@ dans un délai qui ne peut être inférieur à deux semaines, sauf renonciation 
 
 	**Modifié par**:
 
-	  - Loi n°93-2 du 4 janvier 1993 - art. 224 () JORF 5 janvier 1993 en vigueur le 1er mars 1993
+	  - Loi n°2002-1138 du 9 septembre 2002 - art. 40 () JORF 10 septembre 2002
 
 	**Cité par**:
 
@@ -18939,13 +19075,15 @@ placer ou maintenir le prévenu sous contrôle judiciaire. Cette décision est e
 
 Dans les cas prévus par les articles 395 et suivants, le tribunal peut également placer ou maintenir le prévenu en détention
 provisoire par décision spécialement motivée. La décision prescrivant la détention est rendue suivant les modalités prévues
-par les articles 135, 145, alinéa premier, 145-1, quatrième alinéa et 464-1 et est motivée par référence aux dispositions des
-1°, 2° et 3° de l'article 144. Elle est exécutoire par provision.
+par les articles 135, 137-3, premier alinéa et 464-1 et est motivée par référence aux dispositions des 1°, 2° et 3° de
+l'article 144. Elle est exécutoire par provision.
 
-Lorsque le prévenu est en détention provisoire, le jugement au fond doit être rendu dans le mois qui suit le jour de sa
-première comparution devant le tribunal. Ce délai est prolongé d'un mois au maximum à la demande du prévenu. Faute de
-décision au fond à l'expiration de ce délai, il est mis fin à la détention provisoire. Le prévenu, s'il n'est pas détenu pour
-autre cause, est mis d'office en liberté.
+Lorsque le prévenu est en détention provisoire, le jugement au fond doit être rendu dans les deux mois qui suivent le jour de
+sa première comparution devant le tribunal. Faute de décision au fond à l'expiration de ce délai, il est mis fin à la
+détention provisoire. Le prévenu, s'il n'est pas détenu pour une autre cause, est mis d'office en liberté.
+
+Lorsqu'il a été fait application des dispositions du deuxième alinéa de l'article 397-1, le délai prévu à l'alinéa précédent
+est porté à quatre mois.
 
 **Liens relatifs à cet article**
 
@@ -18955,17 +19093,16 @@ autre cause, est mis d'office en liberté.
 
 	**Modifié par**:
 
-	  - Loi n°2000-516 du 15 juin 2000 - art. 66 () JORF 16 juin 2000 en vigueur le 1er janvier 2001
+	  - Loi n°2002-1138 du 9 septembre 2002 - art. 40 () JORF 10 septembre 2002 rectificatif JORF 24 décembre 2002
 
 	**Cite**:
 
 	  - CODE DE PROCEDURE PENALE - art. 135 (M)
+	  - CODE DE PROCEDURE PENALE - art. 137-3 (V)
 	  - CODE DE PROCEDURE PENALE - art. 141-1 (AbD)
 	  - CODE DE PROCEDURE PENALE - art. 144 (M)
-	  - CODE DE PROCEDURE PENALE - art. 145 (MMN)
-	  - CODE DE PROCEDURE PENALE - art. 145-1 (M)
 	  - CODE DE PROCEDURE PENALE - art. 395 (M)
-	  - CODE DE PROCEDURE PENALE - art. 464-1 (V)
+	  - CODE DE PROCEDURE PENALE - art. 397-1 (M)
 
 	**Cité par**:
 
@@ -18979,10 +19116,10 @@ autre cause, est mis d'office en liberté.
 Dans le cas où le prévenu est condamné à un emprisonnement sans sursis, le tribunal saisi en application des articles 395 et
 suivants peut, quelle que soit la durée de la peine, ordonner, d'après les éléments de l'espèce, le placement ou le maintien
 en détention par décision spécialement motivée. Les dispositions des articles 148-2 et 471, deuxième alinéa, sont
-applicables.
+applicables. 
 
-La cour statue dans les deux mois de l'appel du jugement rendu sur le fond interjeté par le prévenu détenu, faute de quoi
-celui-ci, s'il n'est pas détenu pour une autre cause, est mis d'office en liberté.
+La cour statue dans les quatre mois de l'appel du jugement rendu sur le fond interjeté par le prévenu détenu, faute de quoi
+celui-ci, s'il n'est pas détenu pour une autre cause, est mis d'office en liberté. 
 
 Si la juridiction estime devoir décerner un mandat d'arrêt, les dispositions de l'article 465 sont applicables, quelle que
 soit la durée de la peine prononcée.
@@ -18999,14 +19136,14 @@ soit la durée de la peine prononcée.
 
 	**Modifié par**:
 
-	  - Loi n°2000-516 du 15 juin 2000 - art. 67 () JORF 16 juin 2000 en vigueur le 1er janvier 2001
+	  - Loi n°2002-1138 du 9 septembre 2002 - art. 40 () JORF 10 septembre 2002
 
 	**Cite**:
 
-	  - CODE DE PROCEDURE PENALE - art. 148-2 (M)
-	  - CODE DE PROCEDURE PENALE - art. 395 (M)
-	  - CODE DE PROCEDURE PENALE - art. 465 (M)
-	  - CODE DE PROCEDURE PENALE - art. 471 (M)
+	  - Code de procédure pénale - art. 148-2 (V)
+	  - Code de procédure pénale - art. 395 (V)
+	  - Code de procédure pénale - art. 465 (V)
+	  - Code de procédure pénale - art. 471 (V)
 
 	**Cité par**:
 
@@ -19140,12 +19277,14 @@ et munitions ;
 
 5° Les délits prévus par les articles 222-11, 222-12 (1° à 10°), 222-13 (1° à 10°), 222-16, 222-17, 222-18, 222-32, 227-3 à
 227-11, 311-3, 311-4 (1° à 8°), 313-5, 314-5, 314-6, 321-1, 322-1 à 322-4, 322-12, 322-13, 322-14, 433-3, premier alinéa,
-433-5 et 521-1 du code pénal et L. 628 du code de la santé publique ;
+433-5, 433-6 à 433-8, premier alinéa, 433-10, premier alinéa, et 521-1 du code pénal et L. 628 du code de la santé publique ;
 
 6° Les délits prévus par le code rural en matière de chasse, de pêche et de protection de la faune et de la flore et les
 délits prévus par le décret-loi du 9 janvier 1852 en matière de pêche maritime ;
 
-7° Les délits prévus par le code forestier et par le code de l'urbanisme pour la protection des bois et forêts.
+7° Les délits prévus par le code forestier et par le code de l'urbanisme pour la protection des bois et forêts ;
+
+8° Les délits pour lesquels une peine d'emprisonnement n'est pas encourue, à l'exception des délits de presse.
 
 Toutefois, le tribunal statue obligatoirement dans les conditions prévues par le premier alinéa de l'article 398 lorsque le
 prévenu est en état de détention provisoire lors de sa comparution à l'audience ou lorsqu'il est poursuivi selon la procédure
@@ -19158,13 +19297,9 @@ jugement des délits prévus au présent article lorsque ces délits sont connex
 
 	  - Ordonnance 58-1296 1958-12-23
 
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°96-647 du 22 juillet 1996 - art. 27 (M)
-
 	**Modifié par**:
 
-	  - Loi n°2001-602 du 9 juillet 2001 - art. 66 (V)
+	  - Loi n°2002-1138 du 9 septembre 2002 - art. 41 () JORF 10 septembre 2002
 
 	**Cité par**:
 
@@ -22067,6 +22202,202 @@ de la peine.
 	**Cite**:
 
 	  - Code de procédure pénale 494 al. 1 à al. 5
+
+
+##### Section 7 : De la procédure simplifiée
+
+###### Article 495
+
+Peuvent être soumis à la procédure simplifiée prévue à la présente section les délits prévus par le code de la route.
+
+Cette procédure n'est pas applicable :
+
+1° Si le prévenu était âgé de moins de dix-huit ans au jour de l'infraction ;
+
+2° Si la victime a formulé, au cours de l'enquête, une demande de dommages et intérêts ou de restitution, ou a fait
+directement citer le prévenu avant qu'ait été rendue l'ordonnance prévue à l'article 495-1 ;
+
+3° Si le délit prévu par le code de la route a été commis en même temps qu'une contravention ou qu'un délit d'homicide
+involontaire ou d'atteinte involontaire à l'intégrité de la personne.
+
+Le ministère public ne peut recourir à la procédure simplifiée que lorsqu'il résulte de l'enquête de police judiciaire que
+les faits reprochés au prévenu sont établis et que les renseignements concernant la personnalité de celui-ci, et notamment
+ses charges et ses ressources, sont suffisants pour permettre la détermination de la peine.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 58-1296 1958-12-23
+
+	**Modifié par**:
+
+	  - Loi n°2002-1138 du 9 septembre 2002 - art. 42 () JORF 10 septembre 2002
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. 495-1 (V)
+
+	**Cité par**:
+
+	  - Code de la sécurité sociale. - art. L114-19 (V)
+	  - Code de procédure pénale - art. 495-2 (V)
+	  - Code de procédure pénale - art. D45-16 (VD)
+	  - Code de procédure pénale - art. D45-19 (VD)
+
+
+###### Article 495-1
+
+Le ministère public qui choisit la procédure simplifiée communique au président du tribunal le dossier de la poursuite et ses
+réquisitions.
+
+Le président statue sans débat préalable par une ordonnance pénale portant relaxe ou condamnation à une amende ainsi que, le
+cas échéant, à une ou plusieurs des peines complémentaires encourues, ces peines pouvant être prononcées à titre de peine
+principale.
+
+S'il estime qu'un débat contradictoire est utile ou qu'une peine d'emprisonnement devrait être prononcée, le juge renvoie le
+dossier au ministère public.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 58-1296 1958-12-23
+
+	**Créé par**:
+
+	  - Loi n°2002-1138 du 9 septembre 2002 - art. 42 () JORF 10 septembre 2002
+
+	**Modifié par**:
+
+	  - Loi n°2010-788 du 12 juillet 2010 - art. 2
+
+	**Cité par**:
+
+	  - CODE DE PROCEDURE PENALE - art. 495 (V)
+
+
+###### Article 495-2
+
+L'ordonnance mentionne les nom, prénoms, date et lieu de naissance et domicile du prévenu, la qualification légale, la date
+et le lieu du fait imputé, la mention des textes applicables et, en cas de condamnation, la ou les peines prononcées.
+
+L'ordonnance pénale doit être motivée, au regard notamment des dispositions du dernier alinéa de l'article 495.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 58-1296 1958-12-23
+
+	**Créé par**:
+
+	  - Loi n°2002-1138 du 9 septembre 2002 - art. 42 () JORF 10 septembre 2002
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. 495 (Ab)
+
+
+###### Article 495-3
+
+Dès qu'elle est rendue, l'ordonnance pénale est transmise au ministère public qui, dans les dix jours, peut soit former
+opposition par déclaration au greffe du tribunal, soit en poursuivre l'exécution.
+
+Cette ordonnance est portée à la connaissance du prévenu par lettre recommandée avec demande d'avis de réception.
+
+Le prévenu est informé qu'il dispose d'un délai de quarante-cinq jours à compter de cette notification pour former opposition
+à l'ordonnance et que cette opposition permettra que l'affaire fasse l'objet d'un débat contradictoire et public devant le
+tribunal correctionnel, au cours duquel il pourra être assisté par un avocat, dont il pourra demander la commission d'office.
+Le prévenu est également informé que le tribunal correctionnel, s'il l'estime coupable des faits qui lui sont reprochés, aura
+la possibilité de prononcer contre lui une peine d'emprisonnement si celle-ci est encourue pour le délit ayant fait l'objet
+de l'ordonnance.
+
+En l'absence d'opposition, l'ordonnance est exécutée suivant les règles prévues par le présent code pour l'exécution des
+jugements correctionnels.
+
+Toutefois, s'il ne résulte pas de l'avis de réception que le prévenu a reçu la lettre de notification, l'opposition reste
+recevable jusqu'à l'expiration d'un délai de trente jours qui court de la date à laquelle l'intéressé a eu connaissance,
+d'une part, de la condamnation, soit par un acte d'exécution, soit par tout autre moyen, d'autre part, du délai et des formes
+de l'opposition qui lui sont ouvertes.
+
+Le comptable du Trésor arrête le recouvrement dès réception de l'avis d'opposition à l'ordonnance pénale établi par le
+greffe.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 58-1296 1958-12-23
+
+	**Créé par**:
+
+	  - Loi n°2002-1138 du 9 septembre 2002 - art. 42 () JORF 10 septembre 2002
+
+	**Cité par**:
+
+	  - CODE DE PROCEDURE PENALE - art. R41-4 (V)
+	  - CODE DE PROCEDURE PENALE - art. R41-8 (V)
+	  - CODE DE PROCEDURE PENALE - art. R55-2 (V)
+	  - Code de procédure pénale - art. R121-2 (V)
+	  - Code de procédure pénale - art. R121-4 (V)
+	  - Code de procédure pénale - art. R41-3 (V)
+
+
+###### Article 495-4
+
+En cas d'opposition formée par le ministère public ou par le prévenu, l'affaire est portée à l'audience du tribunal
+correctionnel. Le jugement rendu par défaut, sur l'opposition du prévenu, n'est pas susceptible d'opposition.
+
+Jusqu'à l'ouverture des débats, le prévenu peut renoncer expressément à son opposition. L'ordonnance pénale reprend alors sa
+force exécutoire et une nouvelle opposition n'est pas recevable.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 58-1296 1958-12-23
+
+	**Créé par**:
+
+	  - Loi n°2002-1138 du 9 septembre 2002 - art. 42 () JORF 10 septembre 2002
+
+
+###### Article 495-5
+
+L'ordonnance pénale, à laquelle il n'a pas été formé opposition ou qui n'a pas été portée par le ministère public à
+l'audience du tribunal correctionnel, a les effets d'un jugement passé en force de chose jugée.
+
+Cependant, elle n'a pas l'autorité de la chose jugée à l'égard de l'action civile en réparation des dommages causés par
+l'infraction.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 58-1296 1958-12-23
+
+	**Créé par**:
+
+	  - Loi n°2002-1138 du 9 septembre 2002 - art. 42 () JORF 10 septembre 2002
+
+
+###### Article 495-6
+
+Les dispositions de la présente section ne font pas échec aux droits de la partie lésée de citer l'auteur des faits devant le
+tribunal correctionnel.
+
+Le tribunal statue uniquement sur les intérêts civils si l'ordonnance pénale a acquis la force de chose jugée.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 58-1296 1958-12-23
+
+	**Créé par**:
+
+	  - Loi n°2002-1138 du 9 septembre 2002 - art. 42 () JORF 10 septembre 2002
 
 
 #### Chapitre II : De la cour d'appel en matière correctionnelle
@@ -31367,6 +31698,31 @@ du territoire national.
 	  - CODE DE PROCEDURE PENALE - art. 706-16 (M)
 
 
+###### Article 706-24-3
+
+Pour l'instruction du délit d'association de malfaiteurs prévu par l'article 421-5 du code pénal, la durée totale de la
+détention provisoire prévue par le deuxième alinéa de l'article 145-1 est portée à trois ans.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 58-1296 1958-12-23
+
+	**Créé par**:
+
+	  - Loi n°2002-1138 du 9 septembre 2002 - art. 46 () JORF 10 septembre 2002
+
+	**Cite**:
+
+	  - Code pénal - art. 421-5 (V)
+	  - Code de procédure pénale - art. 145-1 (V)
+
+	**Cité par**:
+
+	  - CODE DE PROCEDURE PENALE - art. 144-2 (V)
+
+
 ###### Article 706-25
 
 Pour le jugement des accusés majeurs, les règles relatives à la composition et au fonctionnement de la cour d'assises sont
@@ -32621,11 +32977,11 @@ L'adresse de ces personnes est alors inscrite sur un registre coté et paraphé,
 
 ###### Article 706-58
 
-En cas de procédure portant sur un crime ou sur un délit puni d'au moins cinq ans d'emprisonnement, lorsque l'audition d'une
+En cas de procédure portant sur un crime ou sur un délit puni d'au moins trois ans d'emprisonnement, lorsque l'audition d'une
 personne visée à l'article 706-57 est susceptible de mettre gravement en danger la vie ou l'intégrité physique de cette
 personne, des membres de sa famille ou de ses proches, le juge des libertés et de la détention, saisi par requête motivée du
 procureur de la République ou du juge d'instruction, peut, par décision motivée, autoriser que les déclarations de cette
-personne soient recueillies sans que son identitité apparaisse dans le dossier de la procédure. Cette décision n'est pas
+personne soient recueillies sans que son identité apparaisse dans le dossier de la procédure. Cette décision n'est pas
 susceptible de recours, sous réserve des dispositions du deuxième alinéa de l'article 706-60. Le juge des libertés et de la
 détention peut décider de procéder lui-même à l'audition du témoin.
 
@@ -32641,13 +32997,13 @@ sont inscrites sur un registre coté et paraphé, qui est ouvert à cet effet au
 
 	  - Ordonnance 58-1296 1958-12-23
 
-	**Modifié par**:
-
-	  - Loi n°2001-1062 du 15 novembre 2001 - art. 57 () JORF 16 novembre 2001
-
 	**Liens**:
 
 	  - SPEC_APPLI: Loi n°2001-1062 du 15 novembre 2001 - art. 71 (M)
+
+	**Modifié par**:
+
+	  - Loi n°2002-1138 du 9 septembre 2002 - art. 39 () JORF 10 septembre 2002
 
 	**Cité par**:
 
@@ -33032,10 +33388,11 @@ Il est notifié aux parties par le greffe de la Cour de cassation.
 
 Lorsque les nécessités de l'enquête ou de l'instruction le justifient, l'audition ou l'interrogatoire d'une personne ainsi
 que la confrontation entre plusieurs personnes peuvent être effectués en plusieurs points du territoire de la République se
-trouvant reliés par des moyens de télécommunications garantissant la confidentialité de la transmission. Il est alors dressé,
-dans chacun des lieux, un procès-verbal des opérations qui y ont été effectuées. Ces opérations peuvent faire l'objet d'un
-enregistrement audiovisuel ou sonore, les dispositions des quatrième à neuvième alinéas de l'article 706-52 sont alors
-applicables.
+trouvant reliés par des moyens de télécommunications garantissant la confidentialité de la transmission. Dans les mêmes
+conditions, la présentation aux fins de prolongation de la garde à vue ou de la retenue judiciaire peut être réalisée par
+l'utilisation de moyens de télécommunication audiovisuelle. Il est alors dressé, dans chacun des lieux, un procès-verbal des
+opérations qui y ont été effectuées. Ces opérations peuvent faire l'objet d'un enregistrement audiovisuel ou sonore, les
+dispositions des quatrième à neuvième alinéas de l'article 706-52 sont alors applicables.
 
 En cas de nécessité, résultant de l'impossibilité pour un interprète de se déplacer, l'assistance de l'interprète au cours
 d'une audition, d'un interrogatoire ou d'une confrontation peut également se faire par l'intermédiaire de moyens de
@@ -33053,13 +33410,13 @@ Un décret en Conseil d'Etat précise, en tant que de besoin, les modalités d'a
 
 	  - Ordonnance 58-1296 1958-12-23
 
-	**Créé par**:
-
-	  - Loi n°2001-1062 du 15 novembre 2001 - art. 32 () JORF 16 novembre 2001
-
 	**Liens**:
 
 	  - SPEC_APPLI: Loi n°2001-1062 du 15 novembre 2001 - art. 71 (M)
+
+	**Modifié par**:
+
+	  - Loi n°2002-1138 du 9 septembre 2002 - art. 35 () JORF 10 septembre 2002
 
 	**Cite**:
 
@@ -33099,6 +33456,50 @@ Un décret en Conseil d'Etat précise, en tant que de besoin, les modalités d'a
 	  - Code de procédure pénale - art. R53-35 (V)
 	  - Code de procédure pénale - art. R53-39 (V)
 	  - Code de procédure pénale - art. R61-10 (V)
+
+
+### Titre XXIV : Dispositions relatives à la juridiction de proximité
+
+###### Article 706-72
+
+La juridiction de proximité est compétente pour juger des contraventions de police dont la liste est fixée par décret en
+Conseil d'Etat. Elle statue alors selon la procédure applicable devant le tribunal de police, conformément aux dispositions
+des articles 521 à 549.
+
+La juridiction de proximité peut également valider, sur délégation donnée par le président du tribunal de grande instance,
+les mesures de composition pénale prévues aux articles 41-2 et 41-3.
+
+Pour le jugement des contraventions mentionnées au premier alinéa et relevant des quatre premières classes, les fonctions du
+ministère public sont exercées par un officier du ministère public, conformément aux dispositions des articles 45 à 48.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Ordonnance n°45-174 du 2 février 1945 - art. 21 (M)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L331-5 (M)
+	  - CODE DE PROCEDURE PENALE - art. R53-41 (Ab)
+	  - Code de l'organisation judiciaire - art. L532-22 (VT)
+	  - Code de l'organisation judiciaire - art. L552-16 (VT)
+	  - Code de l'organisation judiciaire - art. L562-32 (VT)
+	  - Code de procédure pénale - art. 706-72-1 (V)
+	  - Code de procédure pénale - art. 706-72-2 (V)
+	  - Code de procédure pénale - art. 706-72-3 (V)
+	  - Code de procédure pénale - art. 706-87-1 (V)
+
+	**Codifié par**:
+
+	  - Ordonnance 58-1296 1958-12-23
+
+	**Créé par**:
+
+	  - Loi n°2002-1138 du 9 septembre 2002 - art. 10 () JORF 10 septembre 2002
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. 41-2 (M)
+	  - CODE DE PROCEDURE PENALE - art. 41-3 (M)
+	  - Code de procédure pénale 521 à 549, 41-2, 41-3, 45 à 48
 
 
 ## Livre V : Des procédures d'exécution
@@ -33731,11 +34132,7 @@ application des articles 741-2 et 741-3.
 
 ###### Article 717
 
-Les condamnés purgent leur peine dans un établissement pour peines ; toutefois, les condamnés à l'emprisonnement d'une durée
-inférieure ou égale à cinq ans l'exécutent dans un établissement qui leur est spécialement réservé.
-
-Les condamnés à des peines inférieures à sept ans peuvent exécuter leur peine dans les établissements prévus à l'alinéa
-précédent si le reliquat de peine leur restant à purger après leur condamnation est inférieur à cinq ans.
+Les condamnés purgent leur peine dans un établissement pour peines.
 
 Les condamnés à l'emprisonnement d'une durée inférieure ou égale à un an peuvent, cependant, à titre exceptionnel, être
 maintenus en maison d'arrêt et incarcérés, dans ce cas, dans un quartier distinct, lorsque des conditions tenant à la
@@ -33762,7 +34159,7 @@ d'une durée inférieure à un an.
 
 	**Modifié par**:
 
-	  - Loi n°97-1159 du 19 décembre 1997 - art. 1 () JORF 20 décembre 1997
+	  - Loi n°2002-1138 du 9 septembre 2002 - art. 50 () JORF 10 septembre 2002
 
 
 ###### Article 718
@@ -33924,6 +34321,29 @@ zones d'attente et les établissements pénitentiaires.
 	**Cité par**:
 
 	  - CODE DE PROCEDURE PENALE - art. D522 (M)
+
+
+###### Article 720-1-AA
+
+Les personnes détenues peuvent travailler pour leur propre compte avec l'autorisation du chef d'établissement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 58-1296 1958-12-23
+
+	**Créé par**:
+
+	  - Loi n°2002-1138 du 9 septembre 2002 - art. 52 () JORF 10 septembre 2002
+
+	**Transféré par**:
+
+	  - Loi n°2004-204 du 9 mars 2004 - art. 168 () JORF 10 mars 2004 en vigueur le 1er janvier 2005
+
+	**Nouveaux textes**:
+
+	  - CODE DE PROCEDURE PENALE - art. 718 (M)
 
 
 ##### Section 2 : De la suspension et du fractionnement des peines privatives de liberté
@@ -34283,6 +34703,9 @@ réquisitions du ministère public et les observations du condamné ainsi que, l
 être attaquée par la voie de l'appel par le condamné, par le procureur de la République et par le procureur général, dans le
 délai de dix jours à compter de sa notification. L'appel est porté devant la chambre des appels correctionnels.
 
+Le juge de l'application des peines peut, avec l'accord du procureur de la République et celui du condamné ou de son avocat,
+octroyer une des mesures mentionnées à l'alinéa précédent sans procéder à un débat contradictoire.
+
 Les décisions du juge de l'application des peines sont exécutoires par provision. Toutefois, lorsque l'appel du ministère
 public est formé, dans les vingt-quatre heures de la notification, contre une décision accordant l'une des mesures prévues
 par le sixième alinéa, il suspend l'exécution de cette décision jusqu'à ce que la cour ait statué. L'affaire doit venir
@@ -34344,7 +34767,11 @@ contradictoires que doit tenir le juge de l'application des peines lorsqu'ils co
 
 	**Modifié par**:
 
-	  - Loi n°2000-1354 du 30 décembre 2000 - art. 22 () JORF 31 décembre 2000 en vigueur le 16 juin 2001
+	  - Loi n°2002-1138 du 9 septembre 2002 - art. 44 () JORF 10 septembre 2002
+
+	**Abrogé par**:
+
+	  - Loi n°2004-204 du 9 mars 2004 - art. 162 () JORF 10 mars 2004 en vigueur le 1er janvier 2005
 
 	**Cite**:
 
@@ -34700,7 +35127,9 @@ Le placement sous surveillance électronique emporte, pour le condamné, interdi
 autre lieu désigné par le juge de l'application des peines en dehors des périodes fixées par celui-ci. Les périodes et les
 lieux sont fixés en tenant compte : de l'exercice d'une activité professionnelle par le condamné ; du fait qu'il suit un
 enseignement ou une formation, effectue un stage ou occupe un emploi temporaire en vue de son insertion sociale ; de sa
-participation à la vie de famille ; de la prescription d'un traitement médical.
+participation à la vie de famille ; de la prescription d'un traitement médical. Le placement sous surveillance électronique
+emporte également pour le condamné l'obligation de répondre aux convocations de toute autorité publique désignée par le juge
+de l'application des peines.
 
 **Liens relatifs à cet article**
 
@@ -34710,7 +35139,7 @@ participation à la vie de famille ; de la prescription d'un traitement médical
 
 	**Modifié par**:
 
-	  - Loi n°2000-516 du 15 juin 2000 - art. 130 () JORF 16 juin 2000
+	  - Loi n°2002-1138 du 9 septembre 2002 - art. 49 (V) JORF 10 septembre 2002
 
 	**Cité par**:
 
@@ -34771,11 +35200,13 @@ Le contrôle à distance du placement sous surveillance électronique est assur�
 pénitentiaire qui sont autorisés, pour l'exécution de cette mission, à mettre en oeuvre un traitement automatisé de données
 nominatives.
 
-Dans la limite des périodes fixées dans la décision de placement sous surveillance électronique, les agents chargés du
-contrôle peuvent se rendre sur le lieu de l'assignation pour demander à rencontrer le condamné. Ils ne peuvent toutefois
-pénétrer dans les domiciles sans l'accord des personnes chez qui le contrôle est effectué. Sans réponse de la part du
-condamné à l'invitation de se présenter devant eux, son absence est présumée. Les agents en font aussitôt rapport au juge de
-l'application des peines.
+La mise en oeuvre du dispositif technique permettant le contrôle à distance peut être confiée à une personne de droit privé
+habilitée dans des conditions fixées par décret en Conseil d'Etat.
+
+Dans la limite des périodes fixées dans la décision de placement sous surveillance électronique, les agents de
+l'administration pénitentiaire chargés du contrôle peuvent se rendre sur le lieu de l'assignation pour demander à rencontrer
+le condamné. Ils ne peuvent toutefois pénétrer au domicile de la personne chez qui le contrôle est pratiqué sans l'accord de
+celle-ci. Ces agents font aussitôt rapport au juge de l'application des peines de leurs diligences.
 
 Les services de police ou de gendarmerie peuvent toujours constater l'absence irrégulière du condamné et en faire rapport au
 juge de l'application des peines.
@@ -34786,9 +35217,9 @@ juge de l'application des peines.
 
 	  - Ordonnance 58-1296 1958-12-23
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°97-1159 du 19 décembre 1997 - art. 1 () JORF 20 décembre 1997
+	  - Loi n°2002-1138 du 9 septembre 2002 - art. 49 (V) JORF 10 septembre 2002
 
 	**Cité par**:
 
@@ -34878,10 +35309,10 @@ désignation est de droit à la demande du condamné. Le certificat médical est
 ###### Article 723-13
 
 Le juge de l'application des peines peut, après avoir entendu le condamné en présence de son avocat, retirer la décision de
-placement sous surveillance électronique soit en cas d'inobservation des conditions d'exécution constatée au cours d'un
-contrôle au lieu de l'assignation, d'inobservation des mesures prononcées en application de l'article 723-10, de nouvelle
-condamnation ou de refus par le condamné d'une modification nécessaire des conditions d'exécution, soit à la demande du
-condamné.
+placement sous surveillance électronique soit en cas d'inobservation des interdictions ou obligations prévues au dernier
+alinéa de l'article 723-7, d'inconduite notoire, d'inobservation des mesures prononcées en application de l'article 723-10,
+de nouvelle condamnation ou de refus par le condamné d'une modification nécessaire des conditions d'exécution, soit à la
+demande du condamné.
 
 La décision est prise en chambre du conseil à l'issue d'un débat contradictoire au cours duquel le juge de l'application des
 peines entend les réquisitions du procureur de la République et les observations du condamné ainsi que, le cas échéant,
@@ -34899,9 +35330,9 @@ l'exécution de sa peine.
 
 	  - Ordonnance 58-1296 1958-12-23
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°97-1159 du 19 décembre 1997 - art. 1 () JORF 20 décembre 1997
+	  - Loi n°2002-1138 du 9 septembre 2002 - art. 49 (V) JORF 10 septembre 2002
 
 	**Cité par**:
 
@@ -34913,6 +35344,7 @@ l'exécution de sa peine.
 	**Cite**:
 
 	  - CODE DE PROCEDURE PENALE - art. 723-10 (M)
+	  - CODE DE PROCEDURE PENALE - art. 723-7 (M)
 
 
 ###### Article 723-14
@@ -36005,38 +36437,6 @@ jugement en application de l'article 132-48 du code pénal.
 	**Cité par**:
 
 	  - CODE DE PROCEDURE PENALE - art. 744-3 (Ab)
-
-
-###### Article 744-2
-
-Lorsque le condamné est placé sous le régime de la mise à l'épreuve par une décision d'une juridiction spéciale aux mineurs,
-le juge des enfants et le tribunal pour enfants dans le ressort desquels le mineur a sa résidence habituelle exercent les
-attributions dévolues au juge de l'application des peines et au tribunal correctionnel par les articles 739 à 744-1, jusqu'à
-l'expiration du délai d'épreuve.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance 58-1296 1958-12-23
-
-	**Modifié par**:
-
-	  - Loi n°92-1336 du 16 décembre 1992 - art. 94 () JORF 23 décembre 1992 en vigueur le 1er mars 1994
-
-	**Abrogé par**:
-
-	  - Loi n°2002-1138 du 9 septembre 2002 - art. 21 (V) JORF 10 septembre 2002
-
-	**Cité par**:
-
-	  - Loi n°2002-1138 du 9 septembre 2002 - art. 21 (V)
-	  - CODE DE PROCEDURE PENALE - art. D514 (M)
-	  - CODE DE PROCEDURE PENALE - art. R60 (V)
-
-	**Cite**:
-
-	  - Code de procédure pénale 739 à 744-1
 
 
 ###### Article 746
@@ -37272,10 +37672,10 @@ Un décret en Conseil d'Etat détermine les modalités d'application des disposi
 
 ###### Article 768
 
-Le casier judiciaire national automatisé, qui peut comporter un ou plusieurs centres de traitement, est tenu sous l'autorité
-du ministre de la justice. Il reçoit, en ce qui concerne les personnes nées en France et après contrôle de leur identité au
-moyen du répertoire national d'identification des personnes physiques, le numéro d'identification ne pouvant en aucun cas
-servir de base à la vérification de l'identité :
+Le casier judiciaire national automatisé [*définition*], qui peut comporter un ou plusieurs centres de traitement, est tenu
+sous l'autorité du ministre de la justice. Il reçoit, en ce qui concerne les personnes nées en France et après contrôle de
+leur identité au moyen du répertoire national d'identification des personnes physiques, le numéro d'identification ne pouvant
+en aucun cas servir de base à la vérification de l'identité [*interdiction*] :
 
 1° Les condamnations contradictoires ou par contumace ainsi que les condamnations par défaut, non frappées d'opposition,
 prononcées pour crime, délit ou contravention de la cinquième classe, ainsi que les déclarations de culpabilité assorties
@@ -37285,8 +37685,8 @@ expressément exclue en application de l'article 132-59 du code pénal ;
 2° Les condamnations contradictoires ou par défaut, non frappées d'opposition, pour les contraventions des quatre premières
 classes dès lors qu'est prise, à titre principal ou complémentaire, une mesure d'interdiction, de déchéance ou d'incapacité ;
 
-3° Les décisions prononcées par application des articles 8, 15, 16 et 28 de l'ordonnance n. 45-174 du 2 février 1945,
-modifiée, relative à l'enfance délinquante ;
+3° Les décisions prononcées par application des articles 8, 15, 15-1, 16, 16 bis et 28 de l'ordonnance n° 45-174 du 2 février
+1945, modifiée, relative à l'enfance délinquante ;
 
 4° Les décisions disciplinaires prononcées par l'autorité judiciaire ou par une autorité administrative lorsqu'elles
 entraînent ou édictent des incapacités ;
@@ -37301,13 +37701,17 @@ judiciaires des entreprises ;
 
 8° Les condamnations prononcées par les juridictions étrangères qui, en application d'une convention ou d'un accord
 internationaux, ont fait l'objet d'un avis aux autorités françaises ou ont été exécutées en France à la suite du
-transfèrement des personnes condamnées.
+transfèrement des personnes condamnées ;
+
+9° Les compositions pénales, dont l'exécution a été constatée par le procureur de la République.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
+	  - Ordonnance 45-174 1945-02-02 art. 8, art. 15, art. 15-1, art. 16, art. 16 bis, art. 28
 	  - Ordonnance n°45-174 du 2 février 1945 - art. 15 (M)
+	  - Ordonnance n°45-174 du 2 février 1945 - art. 15-1 (M)
 	  - Ordonnance n°45-174 du 2 février 1945 - art. 16 (M)
 	  - Ordonnance n°45-174 du 2 février 1945 - art. 28 (V)
 	  - Ordonnance n°45-174 du 2 février 1945 - art. 8 (M)
@@ -37344,7 +37748,7 @@ transfèrement des personnes condamnées.
 
 	**Modifié par**:
 
-	  - Loi n°94-475 du 10 juin 1994 - art. 93 () JORF 11 juin 1994 en vigueur le 1er octobre 1994
+	  - Loi n°2002-1138 du 9 septembre 2002 - art. 15 () JORF 10 septembre 2002
 
 
 ###### Article 768-1
@@ -37395,8 +37799,8 @@ et du paiement de l'amende.
 Sont retirées du casier judiciaire les fiches relatives à des condamnations effacées par une amnistie, par la réhabilitation
 de plein droit ou judiciaire ou réformées en conformité d'une décision de rectification du casier judiciaire. Il en est de
 même, sauf en ce qui concerne les condamnations prononcées pour des faits imprescriptibles, des fiches relatives à des
-condamnations prononcées depuis plus de quarante ans [*délai*] et qui n'ont pas été suivies d'une nouvelle condamnation à une
-peine criminelle ou correctionnelle.
+condamnations prononcées depuis plus de quarante ans et qui n'ont pas été suivies d'une nouvelle condamnation à une peine
+criminelle ou correctionnelle.
 
 Sont également retirés du casier judiciaire :
 
@@ -37419,7 +37823,11 @@ considérées comme non avenues ;
 définitive ;
 
 5° Les condamnations pour contravention, à l'expiration d'un délai de trois ans à compter du jour où ces condamnations sont
-devenues définitives.
+devenues définitives ;
+
+6° Les mentions relatives à la composition pénale, à l'expiration d'un délai de trois ans à compter du jour où l'exécution de
+la mesure a été constatée, si la personne n'a pas, pendant ce délai, soit subi de condamnation à une peine criminelle ou
+correctionnelle, soit exécuté une nouvelle composition pénale.
 
 **Liens relatifs à cet article**
 
@@ -37433,6 +37841,7 @@ devenues définitives.
 	  - Code pénal - art. 133-13 (M)
 	  - Code pénal - art. 133-14 (AbD)
 	  - CODE DE PROCEDURE PENALE - art. 713-3 (T)
+	  - CODE DE PROCEDURE PENALE - art. 713-6 (T)
 
 	**Cité par**:
 
@@ -37455,7 +37864,7 @@ devenues définitives.
 
 	**Modifié par**:
 
-	  - Loi n°94-475 du 10 juin 1994 - art. 91 () JORF 11 juin 1994 en vigueur le 1er octobre 1994
+	  - Loi n°2002-1138 du 9 septembre 2002 - art. 36 () JORF 10 septembre 2002
 
 
 ###### Article 769-1
@@ -37489,7 +37898,7 @@ Le deuxième alinéa de l'article 769 s'applique aux condamnations prononcées �
 
 Sont retirées du casier judiciaire :
 
-1° Les fiches relatives aux mesures prononcées, par application des articles 8, 15, 16, 16 bis et 28 de l'ordonnance n°
+1° Les fiches relatives aux mesures prononcées, par application des articles 8, 15, 15-1, 16, 16 bis et 28 de l'ordonnance n°
 45-174 du 2 février 1945 relative à l'enfance délinquante, à la date d'expiration de la mesure et en tout cas lorsque le
 mineur atteint l'âge de la majorité ;
 
@@ -37504,8 +37913,9 @@ général, à l'expiration du délai d'épreuve.
 
 	**Cite**:
 
-	  - Ordonnance 45-174 1945-02-02 art. 8, art. 15, art. 16, art. 16 bis, art. 28
+	  - Ordonnance 45-174 1945-02-02 art. 8, art. 15, art. 15-1, art. 16, art. 16 bis, art. 28
 	  - Ordonnance n°45-174 du 2 février 1945 - art. 15 (M)
+	  - Ordonnance n°45-174 du 2 février 1945 - art. 15-1 (M)
 	  - Ordonnance n°45-174 du 2 février 1945 - art. 16 (M)
 	  - Ordonnance n°45-174 du 2 février 1945 - art. 28 (V)
 	  - Ordonnance n°45-174 du 2 février 1945 - art. 8 (M)
@@ -37514,9 +37924,13 @@ général, à l'expiration du délai d'épreuve.
 
 	  - Ordonnance 58-1296 1958-12-23
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°92-1336 du 16 décembre 1992 - art. 118 () JORF 23 décembre 1992 en vigueur le 1er mars 1994
+	  - Loi n°2002-1138 du 9 septembre 2002 - art. 15 () JORF 10 septembre 2002
+
+	**Abrogé par**:
+
+	  - Loi n°2004-204 du 9 mars 2004 - art. 201 () JORF 10 mars 2004
 
 
 ###### Article 770
@@ -37722,39 +38136,43 @@ Lorsqu'il n'existe pas de fiche au casier judiciaire, le bulletin n° 1 porte la
 ###### Article 775
 
 Le bulletin n° 2 est le relevé des fiches du casier judiciaire applicables à la même personne, à l'exclusion de celles
-concernant les décisions suivantes :
+concernant les décisions suivantes : 
 
-1° Les décisions prononcées en vertu des articles 2, 8, 15, 16, 18 et 28 de l'ordonnance n° 45-174 du 2 février 1945
-modifiée, relative à l'enfance délinquante ;
+1° Les décisions prononcées en vertu des articles 2, 8, 15, 15-1, 16,16 bis, 18 et 28 de l'ordonnance n° 45-174 du 2 février
+1945 modifiée, relative à l'enfance délinquante ; 
 
-2° Les condamnations dont la mention au bulletin n° 2 a été expressément exclue en application de l'article 775-1 ;
+2° Les condamnations dont la mention au bulletin n° 2 a été expressément exclue en application de l'article 775-1 ; 
 
-3° Les condamnations prononcées pour contraventions de police ;
+3° Les condamnations prononcées pour contraventions de police ; 
 
 4° Les condamnations assorties du bénéfice du sursis, avec ou sans mise à l'épreuve, lorsqu'elles doivent être considérées
 comme non avenues ; toutefois, si a été prononcé le suivi socio-judiciaire prévu par l'article 131-36-1 du code pénal ou la
 peine d'interdiction d'exercer une activité professionnelle ou bénévole impliquant un contact habituel avec des mineurs, la
-décision continue de figurer au bulletin n° 2 pendant la durée de la mesure ;
+décision continue de figurer au bulletin n° 2 pendant la durée de la mesure ; 
 
-6° Les condamnations auxquelles sont applicables les dispositions de l'article 361 du code de justice militaire ;
+6° Les condamnations auxquelles sont applicables les dispositions de l'article 361 du code de justice militaire ; 
 
-9° Les dispositions prononçant la déchéance de l'autorité parentale ;
+7° et 8° (paragraphes abrogés) ; 
 
-10° Les arrêtés d'expulsion abrogés ou rapportés ;
+9° Les dispositions prononçant la déchéance de l'autorité parentale ; 
+
+10° Les arrêtés d'expulsion abrogés ou rapportés ; 
 
 11° Les condamnations prononcées sans sursis en application des articles 131-5 à 131-11 du code pénal, à l'expiration d'un
 délai de cinq ans à compter du jour où elles sont devenues définitives. Le délai est de trois ans s'il s'agit d'une
-condamnation à une peine de jours-amende.
+condamnation à une peine de jours-amende. 
 
 Toutefois, si la durée de l'interdiction, déchéance ou incapacité, prononcée en application des articles 131-10 et 131-11,
-est supérieure à cinq ans, la condamnation demeure mentionnée au bulletin n° 2 pendant la même durée ;
+est supérieure à cinq ans, la condamnation demeure mentionnée au bulletin n° 2 pendant la même durée ; 
 
-12° Les déclarations de culpabilité assorties d'une dispense de peine ou d'un ajournement du prononcé de celle-ci ;
+12° Les déclarations de culpabilité assorties d'une dispense de peine ou d'un ajournement du prononcé de celle-ci ; 
 
-13° Les condamnations prononcées par des juridictions étrangères.
+13° Les condamnations prononcées par des juridictions étrangères ; 
+
+14° Les compositions pénales mentionnées à l'article 768. 
 
 Les bulletins n° 2 fournis en cas de contestation concernant l'inscription sur les listes électorales, ne comprennent que les
-décisions entraînant des incapacités en matière d'exercice du droit de vote.
+décisions entraînant des incapacités en matière d'exercice du droit de vote. 
 
 Lorsqu'il n'existe pas au casier judiciaire de fiches concernant des décisions à relever sur le bulletin n° 2, celui-ci porte
 la mention Néant.
@@ -37768,7 +38186,9 @@ cependant modifié par l'article 93 de la loi n° 94-475 du 10 juin 1994, en vig
 
 	**Cite**:
 
+	  - Ordonnance n°45-174 du 2 février 1945 - art. 16 bis (V)
 	  - Ordonnance n°45-174 du 2 février 1945 - art. 15 (M)
+	  - Ordonnance n°45-174 du 2 février 1945 - art. 15-1 (M)
 	  - Ordonnance n°45-174 du 2 février 1945 - art. 16 (M)
 	  - Ordonnance n°45-174 du 2 février 1945 - art. 18 (V)
 	  - Ordonnance n°45-174 du 2 février 1945 - art. 2 (M)
@@ -37776,8 +38196,9 @@ cependant modifié par l'article 93 de la loi n° 94-475 du 10 juin 1994, en vig
 	  - Ordonnance n°45-174 du 2 février 1945 - art. 8 (M)
 	  - Code pénal 131-5 à 131-11
 	  - Code de justice militaire - art. 343 (M)
+	  - CODE DE PROCEDURE PENALE - art. 768 (M)
 	  - CODE DE PROCEDURE PENALE - art. 775-1 (M)
-	  - Code de procédure pénale 775-1, 131-10, 131-11, 131-36-1
+	  - Code de procédure pénale 775-1, 131-10, 131-11, 131-36-1, 768
 
 	**Cité par**:
 
@@ -37795,7 +38216,7 @@ cependant modifié par l'article 93 de la loi n° 94-475 du 10 juin 1994, en vig
 
 	**Modifié par**:
 
-	  - Loi n°98-468 du 17 juin 1998 - art. 41 () JORF 18 juin 1998
+	  - Loi n°2002-1138 du 9 septembre 2002 - art. 15 () JORF 10 septembre 2002
 
 
 ###### Article 775-1
