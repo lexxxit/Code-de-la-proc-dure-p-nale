@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 1998-06-18
+Version Consolidée au 1998-07-03
 
 # Partie législative
 
@@ -26027,6 +26027,54 @@ jugement spécialisées en matière économique et financière après avis de l'
 	**Modifié par**:
 
 	  - Loi n°96-392 du 13 mai 1996 - art. 3 () JORF 14 mai 1996
+
+
+###### Article 706
+
+Peuvent exercer des fonctions d'assistant spécialisé auprès d'une ou plusieurs cours d'appel ou d'un ou de plusieurs
+tribunaux de grande instance mentionnés à l'article 704 les fonctionnaires de catégorie A ou B ainsi que les personnes
+titulaires d'un diplôme sanctionnant une formation économique, financière, juridique ou sociale d'une durée au moins égale à
+quatre années d'études supérieures après le baccalauréat qui remplissent les conditions d'accès à la fonction publique et
+justifient d'une expérience professionnelle minimale de quatre années.
+
+Les assistants spécialisés assistent, dans le déroulement de la procédure, les magistrats sous la direction desquels ils sont
+placés, sans pouvoir procéder par eux-mêmes à aucun acte.
+
+Ils ont accès au dossier de la procédure pour l'exécution des tâches qui leur sont confiées et sont soumis au secret
+professionnel sous les peines prévues à l'article 226-13 du code pénal.
+
+Un décret en Conseil d'Etat précise les modalités d'application du présent article, notamment la durée pour laquelle les
+assistants spécialisés sont nommés et les modalités selon lesquelles ils prêtent serment.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 58-1296 1958-12-23
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°98-546 1998-07-02 art. 91 II
+
+	**Modifié par**:
+
+	  - Loi n°98-546 du 2 juillet 1998 - art. 91 (V) JORF 3 juillet 1998
+
+	**Cite**:
+
+	  - Code pénal - art. 226-13 (M)
+
+	**Cité par**:
+
+	  - CODE DE PROCEDURE PENALE - art. 567-1 (M)
+	  - CODE DE PROCEDURE PENALE - art. 704 (M)
+	  - CODE DE PROCEDURE PENALE - art. 706-1 (Ab)
+	  - CODE DE PROCEDURE PENALE - art. 706-79 (M)
+	  - Code de procédure pénale - art. 28-1 (V)
+	  - Code de procédure pénale - art. 706-181 (V)
+	  - Code de procédure pénale - art. 706-2 (VT)
+	  - Code de procédure pénale - art. R50 bis (V)
+	  - Code de procédure pénale - art. R50 ter (V)
 
 
 ### Titre XIII : De la poursuite, de l'instruction et du jugement des infractions en matière économique et financière
