@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 2004-05-18
+Version Consolidée au 2004-06-02
 
 # Partie législative
 
@@ -56131,12 +56131,19 @@ le cas échéant, les formalités accomplies en vue du placement des sommes per�
 
 ###### Article R53-9
 
-Le traitement, au moyen du fichier national automatisé des empreintes génétiques, des informations mentionnées au premier
-alinéa de l'article 706-54 est mis en oeuvre par la direction centrale de la police judiciaire du ministère de l'intérieur.
+Le traitement, au moyen du fichier national automatisé des empreintes génétiques, des informations mentionnées aux premier,
+deuxième, troisième et quatrième alinéas de l'article 706-54 est mis en oeuvre par la direction centrale de la police
+judiciaire du ministère de l'intérieur.
 
 Ce fichier est placé sous le contrôle d'un magistrat du parquet.
 
 **Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - TXT_SOURCE: Convention 1981-01-28, signée à Strasbourg
+	  - TXT_SOURCE: Directive 95-46 CE 1995-10-24
+	  - SPEC_APPLI: Décret n°2004-470 2004-05-25 art. 14 : champ d'application
 
 	**Codifié par**:
 
@@ -56144,7 +56151,7 @@ Ce fichier est placé sous le contrôle d'un magistrat du parquet.
 
 	**Modifié par**:
 
-	  - Décret n°2002-697 du 30 avril 2002 - art. 1 () JORF 3 mai 2002
+	  - Décret n°2004-470 du 25 mai 2004 - art. 2 () JORF 2 juin 2004
 
 	**Cite**:
 
@@ -56157,18 +56164,48 @@ Ce fichier est placé sous le contrôle d'un magistrat du parquet.
 
 ###### Article R53-10
 
-Font l'objet d'un enregistrement au fichier :
+I.-Sur décision de l'officier de police judiciaire, agissant soit d'office, soit à la demande du procureur de la République
+ou du juge d'instruction, font l'objet d'un enregistrement au fichier les résultats des analyses d'identification par
+empreintes génétiques : 
 
-1° Les résultats des analyses d'identification par empreintes génétiques des traces de matériel biologique issu de personnes
-inconnues, recueillies dans le cadre d'une enquête préliminaire, d'une enquête pour crime ou délit flagrant, ou d'une
-instruction préparatoire concernant l'une des infractions mentionnées à l'article 706-55 ;
+1° Des traces biologiques issues de personnes inconnues, recueillies dans le cadre d'une enquête préliminaire, d'une enquête
+pour crime ou délit flagrant, ou d'une instruction préparatoire, relatives à l'une des infractions mentionnées à l'article
+706-55 ; 
 
-2° Avec l'autorisation, selon le cas, du procureur de la République ou du procureur général, les résultats des analyses
-d'identification par empreintes génétiques des échantillons de matériel biologique prélevés dans le cadre d'une enquête
-préliminaire, d'une enquête pour crime ou délit flagrant, d'une instruction préparatoire ou de la procédure prévue à
-l'article R. 53-21 sur une personne définitivement condamnée pour l'une des infractions mentionnées à l'article 706-55.
+2° Des échantillons biologiques prélevés dans le cadre d'une enquête préliminaire, d'une enquête pour crime ou délit
+flagrant, ou d'une instruction préparatoire sur les personnes à l'encontre desquelles il existe des indices graves ou
+concordants rendant vraisemblable qu'elles aient commis l'une des infractions mentionnées à l'article 706-55 ; 
+
+3° Des échantillons biologiques prélevés sur des cadavres non identifiés et des traces biologiques issues de personnes
+inconnues, recueillies dans le cadre d'une enquête ou d'une instruction pour recherche des causes de la mort ou pour
+recherche des causes d'une disparition inquiétante ou suspecte prévue par les articles 74,74-1 ou 80-4 ; 
+
+4° Des échantillons biologiques issus ou susceptibles d'être issus d'une personne disparue, recueillis dans le cadre d'une
+enquête ou d'une instruction pour recherche des causes d'une disparition inquiétante ou suspecte prévue par les articles 74-1
+ou 80-4 ; 
+
+5° Des échantillons biologiques prélevés, avec leur accord, sur les ascendants et descendants d'une personne disparue, dans
+le cadre d'une enquête ou d'une instruction pour recherche des causes d'une disparition inquiétante ou suspecte prévue par
+les articles 74-1 ou 80-4. 
+
+Dans les cas prévus à l'alinéa précédent, l'accord des personnes est recueilli par procès-verbal. Les personnes intéressées
+précisent également, par une mention expresse à ce même procès-verbal, qu'elles autorisent la comparaison entre leur
+empreinte génétique et l'ensemble des traces et empreintes enregistrées ou susceptibles d'être enregistrées dans le fichier
+jusqu'à la découverte de la personne disparue ou, à défaut, pendant une durée de vingt-cinq ans, à moins qu'il n'y ait dans
+ce délai un effacement par application du troisième alinéa de l'article R. 53-13-1. En l'absence d'une telle autorisation,
+ces empreintes ne peuvent être comparées qu'avec les empreintes des cadavres non identifiés. 
+
+II.-Sur décision, selon le cas, du procureur de la République ou du procureur général, font l'objet d'un enregistrement au
+fichier les résultats des analyses d'identification par empreintes génétiques des échantillons biologiques prélevés sur des
+personnes définitivement condamnées pour l'une des infractions mentionnées à l'article 706-55.
 
 **Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - TXT_SOURCE: Directive 95-46 CE 1995-10-24
+	  - SPEC_APPLI: Décret n°2004-470 2004-05-25 art. 14 : champ d'application
+	  - TXT_SOURCE: Convention 1981-01-28, signée à Strasbourg
 
 	**Codifié par**:
 
@@ -56180,75 +56217,72 @@ l'article R. 53-21 sur une personne définitivement condamnée pour l'une des in
 	  - Décret n°2004-470 du 25 mai 2004 - art. 13 (V)
 	  - Code de procédure pénale - art. R53-11 (V)
 	  - Code de procédure pénale - art. R53-12 (V)
-	  - Code de procédure pénale - art. R53-13-1 (V)
 	  - Code de procédure pénale - art. R53-14 (V)
 	  - Code de procédure pénale - art. R53-14-2 (V)
 	  - Code de procédure pénale - art. R53-20 (V)
 
 	**Modifié par**:
 
-	  - Décret n°2002-697 du 30 avril 2002 - art. 1 () JORF 3 mai 2002
+	  - Décret n°2004-470 du 25 mai 2004 - art. 3 () JORF 2 juin 2004
 
 	**Cite**:
 
-	  - CODE DE PROCEDURE PENALE - art. 706-55 (MMN)
-	  - CODE DE PROCEDURE PENALE - art. R53-21 (M)
+	  - Code de procédure pénale - art. 706-55 (V)
+	  - Code de procédure pénale - art. 74 (V)
+	  - Code de procédure pénale - art. 80-4 (V)
+	  - Code de procédure pénale - art. R53-13-1 (V)
 
 
 ###### Article R53-11
 
-Les données enregistrées, visées au 1° de l'article R. 53-10, sont accompagnées des informations suivantes :
+I.-Les données enregistrées mentionnées à l'article R. 53-10, qui précisent les segments d'ADN identifiés, sont accompagnées
+des informations suivantes : 
 
-1° La nature de l'affaire et la référence de la procédure ;
+1° Le numéro de la procédure dans le cadre de laquelle l'enregistrement au fichier est demandé ; 
 
-2° Le service ayant procédé au prélèvement et à la mise sous scellé ;
+2° L'autorité judiciaire ou l'officier de police judiciaire ayant demandé l'enregistrement au fichier ; 
 
-3° Les lieu, date et numéro du scellé du prélèvement ;
+3° La date de la demande d'enregistrement au fichier ou, dans le cas prévu par le II de l'article R. 53-10, la date à
+laquelle la condamnation est devenue définitive ou, si cette date n'est pas connue du gestionnaire du fichier, la date de la
+condamnation ; 
 
-4° Les nom et prénom de l'expert ayant procédé à l'analyse d'identification et la date de l'analyse ;
+4° Le nom de la personne physique ou morale habilitée ayant réalisé l'analyse ; 
 
-5° Les segments d'ADN analysés pour l'identification ;
+5° La nature de l'affaire. 
 
-6° Les rapprochements déjà effectués avec d'autres traces figurant au fichier.
+Dans les cas prévus par le 2° du I et le II de l'article R. 53-10, l'information portant sur la nature de l'affaire ne peut
+être exploitée qu'en vue d'un traitement à des fins statistiques et elle ne peut apparaître en cas de consultation ni servir
+de critère de recherche nominative. 
+
+II.-Les données mentionnées aux 1°, 3° et 4° du I de l'article R. 53-10 sont en outre accompagnées des informations relatives
+au scellé contenant les traces ou échantillons biologiques à partir desquels l'analyse a été réalisée ou l'objet sur lequel
+ont été recueillis ces traces ou échantillons. 
+
+Les données mentionnées aux 2° et 4° du I et au II de l'article R. 53-10 sont en outre accompagnées des nom, prénoms, date et
+lieu de naissance et filiation des personnes dont les empreintes génétiques sont enregistrées. Celles visées au 2° du I sont,
+le cas échéant, complétées par les informations relatives à la décision prévue au quatrième alinéa de l'article R. 53-14. 
+
+Les données mentionnées au 5° du I de l'article R. 53-10 sont en outre accompagnées des nom, prénoms, date et lieu de
+naissance de la personne disparue et de l'indication du lien de parenté avec celle-ci de la personne dont sont enregistrées
+les empreintes génétiques.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Décret n°59-318 1959-02-23
-
-	**Modifié par**:
-
-	  - Décret n°2002-697 du 30 avril 2002 - art. 1 () JORF 3 mai 2002
-
 	**Cite**:
 
-	  - CODE DE PROCEDURE PENALE - art. R53-10 (M)
+	  - Code de procédure pénale - art. R53-10 (V)
+	  - Code de procédure pénale - art. R53-14 (V)
 
 	**Cité par**:
 
 	  - Code de procédure pénale - art. R53-12 (V)
 	  - Code de procédure pénale - art. R53-20 (V)
 
+	**Liens**:
 
-###### Article R53-12
-
-Les données enregistrées, visées au 2° de l'article R. 53-10, sont accompagnées des informations suivantes :
-
-1° Les nom, prénoms, date et lieu de naissance, filiation et sexe du condamné ;
-
-2° Les références de la transmission par laquelle le magistrat du ministère public a informé le responsable du fichier de
-l'autorisation d'enregistrement de l'empreinte génétique du condamné ;
-
-3° La date à laquelle la condamnation est devenue définitive ;
-
-4° Les lieu, date et numéro du scellé du prélèvement ;
-
-5° Les nom et prénom de l'expert ayant procédé à l'analyse d'identification et la date de l'analyse ;
-
-6° Les segments d'ADN analysés pour l'identification.
-
-**Liens relatifs à cet article**
+	  - TXT_SOURCE: Convention 1981-01-28, signée à Strasbourg
+	  - TXT_SOURCE: Directive 95-46 CE 1995-10-24
+	  - SPEC_APPLI: Décret n°2004-470 2004-05-25 art. 14 : champ d'application
 
 	**Codifié par**:
 
@@ -56256,11 +56290,40 @@ l'autorisation d'enregistrement de l'empreinte génétique du condamné ;
 
 	**Modifié par**:
 
-	  - Décret n°2002-697 du 30 avril 2002 - art. 1 () JORF 3 mai 2002
+	  - Décret n°2004-470 du 25 mai 2004 - art. 4 () JORF 2 juin 2004
+
+
+###### Article R53-12
+
+Conformément aux dispositions de l'article 24 de la loi n° 2003-239 du 18 mars 2003 pour la sécurité intérieure, les
+résultats des analyses d'identification par empreintes génétiques mentionnées à l'article R. 53-10 transmis par des
+organismes de coopération internationale en matière de police judiciaire ou des services de police étrangers peuvent
+également faire l'objet d'un enregistrement au fichier ou d'un rapprochement avec les données qui y sont inscrites. 
+
+Les données ainsi enregistrées sont accompagnées des informations mentionnées à l'article R. 53-11, à la condition qu'elles
+soient disponibles, ainsi que de l'origine et de la date de la demande d'enregistrement au fichier.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - TXT_SOURCE: Convention 1981-01-28, signée à Strasbourg
+	  - TXT_SOURCE: Directive 95-46 CE 1995-10-24
+	  - SPEC_APPLI: Décret n°2004-470 2004-05-25 art. 14 : champ d'application
+
+	**Codifié par**:
+
+	  - Décret n°59-318 1959-02-23
 
 	**Cite**:
 
-	  - CODE DE PROCEDURE PENALE - art. R53-10 (M)
+	  - Loi n°2003-239 du 18 mars 2003 - art. 24 (Ab)
+	  - Code de procédure pénale - art. R53-10 (V)
+	  - Code de procédure pénale - art. R53-11 (V)
+
+	**Modifié par**:
+
+	  - Décret n°2004-470 du 25 mai 2004 - art. 5 () JORF 2 juin 2004
 
 	**Cité par**:
 
@@ -56269,16 +56332,20 @@ l'autorisation d'enregistrement de l'empreinte génétique du condamné ;
 
 ###### Article R53-13
 
-Les analyses d'identification par empreintes génétiques ne peuvent porter, outre le segment correspondant au marqueur du
-sexe, que sur des segments d'ADN non codants.
-
-Le nombre et la nature de ces segments d'ADN sont définis par arrêté du ministre de la justice, du ministre de l'intérieur et
-du ministre de la défense pris après avis de la commission chargée d'agréer les personnes habilitées à effectuer des missions
-d'identification par empreintes génétiques dans le cadre des procédures judiciaires, prévue par l'article 1er du décret n°
-97-109 du 6 février 1997 relatif aux conditions d'agrément des personnes habilitées à procéder à des identifications par
-empreintes génétiques dans le cadre d'une procédure judiciaire.
+Le nombre et la nature des segments d'ADN non codants sur lesquels portent les analyses d'identification par empreintes
+génétiques sont définis par arrêté du ministre de la justice, du ministre de l'intérieur et du ministre de la défense pris
+après avis de la commission chargée d'agréer les personnes habilitées à effectuer des missions d'identification par
+empreintes génétiques dans le cadre des procédures judiciaires, prévue par l'article 1er du décret n° 97-109 du 6 février
+1997 relatif aux conditions d'agrément des personnes habilitées à procéder à des identifications par empreintes génétiques
+dans le cadre d'une procédure judiciaire.
 
 **Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - TXT_SOURCE: Convention 1981-01-28, signée à Strasbourg
+	  - TXT_SOURCE: Directive 95-46 CE 1995-10-24
+	  - SPEC_APPLI: Décret n°2004-470 2004-05-25 art. 14 : champ d'application
 
 	**Codifié par**:
 
@@ -56290,19 +56357,249 @@ empreintes génétiques dans le cadre d'une procédure judiciaire.
 
 	**Modifié par**:
 
-	  - Décret n°2002-697 du 30 avril 2002 - art. 1 () JORF 3 mai 2002
+	  - Décret n°2004-470 du 25 mai 2004 - art. 6 () JORF 2 juin 2004
 
 	**Cité par**:
 
 	  - Arrêté du 10 août 2015 (V)
 
 
+###### Article R53-13-1
+
+Le procureur de la République compétent pour, en application des dispositions du deuxième alinéa de l'article 706-54,
+ordonner d'office ou à la demande de l'intéressé l'effacement de l'enregistrement d'un résultat mentionné au 2° du I de
+l'article R. 53-10 est celui de la juridiction dans le ressort de laquelle a été menée la procédure ayant donné lieu à cet
+enregistrement. 
+
+La demande d'effacement prévue par le deuxième alinéa de l'article 706-54 doit, à peine d'irrecevabilité, être adressée par
+lettre recommandée avec demande d'avis de réception ou par déclaration au greffe. Cette demande est directement adressée au
+procureur de la République mentionné à l'alinéa précédent. Elle peut également être adressée au procureur de la République du
+domicile de l'intéressé, qui la transmet au procureur de la République compétent. 
+
+Le procureur de la République compétent fait droit à la demande d'effacement lorsqu'elle est présentée par une personne
+mentionnée au 5° de l'article R. 53-10.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - TXT_SOURCE: Convention 1981-01-28, signée à Strasbourg
+	  - TXT_SOURCE: Directive 95-46 CE 1995-10-24
+	  - SPEC_APPLI: Décret n°2004-470 2004-05-25 art. 14 : application DOM-TOM
+
+	**Codifié par**:
+
+	  - Décret n°59-318 1959-02-23
+
+	**Créé par**:
+
+	  - Décret n°2004-470 du 25 mai 2004 - art. 7 () JORF 2 juin 2004
+
+	**Cite**:
+
+	  - Code de procédure pénale - art. 706-54 (V)
+
+	**Cité par**:
+
+	  - Code de procédure pénale - art. R53-10 (V)
+	  - Code de procédure pénale - art. R53-14 (V)
+	  - Code de procédure pénale - art. R53-14-2 (V)
+
+
+###### Article R53-13-2
+
+Le magistrat compétent doit faire connaître sa décision à l'intéressé, par lettre recommandée, dans un délai de trois mois à
+compter de la réception de la demande soit par lui-même, soit par le procureur de la République du domicile de l'intéressé.
+
+A défaut de réponse dans ce délai, ou si le magistrat n'ordonne pas l'effacement, l'intéressé peut saisir aux mêmes fins le
+juge des libertés et de la détention dans un délai de dix jours par lettre recommandée avec demande d'avis de réception ou
+par déclaration au greffe.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - TXT_SOURCE: Convention 1981-01-28, signée à Strasbourg
+	  - TXT_SOURCE: Directive 95-46 CE 1995-10-24
+	  - SPEC_APPLI: Décret n°2004-470 2004-05-25 art. 14 : application DOM-TOM
+
+	**Codifié par**:
+
+	  - Décret n°59-318 1959-02-23
+
+	**Créé par**:
+
+	  - Décret n°2004-470 du 25 mai 2004 - art. 7 () JORF 2 juin 2004
+
+
+###### Article R53-13-3
+
+Après avoir sollicité les réquisitions écrites du procureur de la République, le juge des libertés et de la détention statue
+par ordonnance motivée dans un délai de deux mois. L'ordonnance est notifiée au procureur de la République et, par lettre
+recommandée, à l'intéressé.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - TXT_SOURCE: Convention 1981-01-28, signée à Strasbourg
+	  - TXT_SOURCE: Directive 95-46 CE 1995-10-24
+	  - SPEC_APPLI: Décret n°2004-470 2004-05-25 art. 14 : application DOM-TOM
+
+	**Codifié par**:
+
+	  - Décret n°59-318 1959-02-23
+
+	**Créé par**:
+
+	  - Décret n°2004-470 du 25 mai 2004 - art. 7 () JORF 2 juin 2004
+
+
+###### Article R53-13-4
+
+Faute pour le juge des libertés et de la détention de statuer dans le délai de deux mois ou en cas d'ordonnance refusant
+l'effacement, l'intéressé peut, dans un délai de dix jours, saisir le président de la chambre de l'instruction, par lettre
+recommandée avec accusé de réception ou par déclaration au greffe. A peine d'irrecevabilité, sa contestation doit être
+motivée.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - TXT_SOURCE: Convention 1981-01-28, signée à Strasbourg
+	  - TXT_SOURCE: Directive 95-46 CE 1995-10-24
+	  - SPEC_APPLI: Décret n°2004-470 2004-05-25 art. 14 : application DOM-TOM
+
+	**Codifié par**:
+
+	  - Décret n°59-318 1959-02-23
+
+	**Créé par**:
+
+	  - Décret n°2004-470 du 25 mai 2004 - art. 7 () JORF 2 juin 2004
+
+
+###### Article R53-13-5
+
+En cas d'ordonnance prescrivant l'effacement, le procureur de la République peut également, dans un délai de dix jours,
+contester cette décision devant le président de la chambre de l'instruction. Cette contestation suspend l'exécution de la
+décision.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - TXT_SOURCE: Convention 1981-01-28, signée à Strasbourg
+	  - TXT_SOURCE: Directive 95-46 CE 1995-10-24
+	  - SPEC_APPLI: Décret n°2004-470 2004-05-25 art. 14 : application DOM-TOM
+
+	**Codifié par**:
+
+	  - Décret n°59-318 1959-02-23
+
+	**Créé par**:
+
+	  - Décret n°2004-470 du 25 mai 2004 - art. 7 () JORF 2 juin 2004
+
+
+###### Article R53-13-6
+
+Le président de la chambre de l'instruction statue, après avoir sollicité les réquisitions écrites du procureur général, par
+une ordonnance motivée, dans un délai de trois mois. Cette ordonnance est notifiée au procureur de la République et, par
+lettre recommandée, à l'intéressé. Elle ne peut faire l'objet d'un pourvoi en cassation que si elle ne satisfait pas, en la
+forme, aux conditions essentielles de son existence légale.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - TXT_SOURCE: Convention 1981-01-28, signée à Strasbourg
+	  - TXT_SOURCE: Directive 95-46 CE 1995-10-24
+	  - SPEC_APPLI: Décret n°2004-470 2004-05-25 art. 14 : application DOM-TOM
+
+	**Codifié par**:
+
+	  - Décret n°59-318 1959-02-23
+
+	**Créé par**:
+
+	  - Décret n°2004-470 du 25 mai 2004 - art. 7 () JORF 2 juin 2004
+
+
 ###### Article R53-14
 
-Les informations enregistrées ne peuvent être conservées au-delà d'une durée de quarante ans, soit à compter de l'analyse
-d'identification lorsqu'il s'agit des résultats visés au 1° de l'article R. 53-10, soit, lorsqu'il s'agit des résultats visés
-au 2° du même article, à compter du jour où la condamnation est devenue définitive sans que cette durée puisse dépasser la
-date du quatre-vingtième anniversaire du condamné.
+Les informations enregistrées ne peuvent être conservées au-delà d'une durée de quarante ans à compter :
+
+- soit de la demande d'enregistrement lorsqu'il s'agit des résultats mentionnés au I de l'article R. 53-10 ou à l'article R.
+53-12 ;
+
+- soit du jour où la condamnation est devenue définitive ou, si cette date n'est pas connue du gestionnaire du fichier, du
+jour de la condamnation, lorsqu'il s'agit des résultats mentionnés au II de l'article R. 53-10. 
+
+Les résultats mentionnés au 2° du I de l'article R. 53-10 ne peuvent toutefois être conservés au-delà d'une durée de vingt-
+cinq ans à compter de la demande d'enregistrement, si leur effacement n'a pas été ordonné antérieurement dans les conditions
+prévues par les articles R. 53-13-1 à R. 53-13-6. Cependant, si la personne a fait l'objet d'une décision de classement sans
+suite, de non-lieu, de relaxe ou d'acquittement exclusivement fondée sur l'existence d'un trouble mental en application des
+dispositions du premier alinéa de l'article 122-1 du code pénal, le procureur de la République en informe le gestionnaire du
+fichier et ces résultats sont conservés pendant quarante ans à compter de la date de cette décision.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°2004-470 du 25 mai 2004 - art. 8 () JORF 2 juin 2004
+
+	**Cite**:
+
+	  - Code pénal - art. 122-1 (V)
+	  - Code de procédure pénale - art. R53-10 (V)
+	  - Code de procédure pénale - art. R53-12 (V)
+	  - Code de procédure pénale - art. R53-13-1 (V)
+
+	**Cité par**:
+
+	  - Code de procédure pénale - art. R53-11 (V)
+	  - Code de procédure pénale - art. R53-20 (V)
+
+	**Liens**:
+
+	  - TXT_SOURCE: Convention 1981-01-28, signée à Strasbourg
+	  - TXT_SOURCE: Directive 95-46 CE 1995-10-24
+	  - SPEC_APPLI: Décret n°2004-470 2004-05-25 art. 14 : champ d'application
+
+	**Codifié par**:
+
+	  - Décret n°59-318 1959-02-23
+
+
+###### Article R53-14-1
+
+Les empreintes génétiques issues d'un cadavre non identifié enregistrées dans le cadre d'une procédure pour recherche des
+causes de la mort sont effacées dès la réception par le service gestionnaire du fichier d'un avis l'informant de
+l'identification définitive de la personne décédée.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - TXT_SOURCE: Convention 1981-01-28, signée à Strasbourg
+	  - TXT_SOURCE: Directive 95-46 CE 1995-10-24
+	  - SPEC_APPLI: Décret n°2004-470 2004-05-25 art. 14 : application DOM-TOM
+
+	**Codifié par**:
+
+	  - Décret n°59-318 1959-02-23
+
+	**Créé par**:
+
+	  - Décret n°2004-470 du 25 mai 2004 - art. 8 () JORF 2 juin 2004
+
+
+###### Article R53-14-2
+
+Les empreintes génétiques d'une personne disparue ainsi que celles de ses ascendants et descendants mentionnées aux 4° et 5°
+de l'article R. 53-10 sont effacées dès la réception par le service gestionnaire du fichier d'un avis de découverte de cette
+personne, sans préjudice de la mise en oeuvre du troisième alinéa de l'article R. 53-13-1.
 
 **Liens relatifs à cet article**
 
@@ -56310,18 +56607,20 @@ date du quatre-vingtième anniversaire du condamné.
 
 	  - Décret n°59-318 1959-02-23
 
-	**Modifié par**:
+	**Liens**:
 
-	  - Décret n°2002-697 du 30 avril 2002 - art. 1 () JORF 3 mai 2002
+	  - SPEC_APPLI: Décret n°2004-470 2004-05-25 art. 14 : application DOM-TOM
+	  - TXT_SOURCE: Convention 1981-01-28, signée à Strasbourg
+	  - TXT_SOURCE: Directive 95-46 CE 1995-10-24
+
+	**Créé par**:
+
+	  - Décret n°2004-470 du 25 mai 2004 - art. 8 () JORF 2 juin 2004
 
 	**Cite**:
 
-	  - CODE DE PROCEDURE PENALE - art. R53-10 (M)
-
-	**Cité par**:
-
-	  - Code de procédure pénale - art. R53-11 (V)
-	  - Code de procédure pénale - art. R53-20 (V)
+	  - Code de procédure pénale - art. R53-10 (V)
+	  - Code de procédure pénale - art. R53-13-1 (V)
 
 
 ###### Article R53-15
@@ -56399,38 +56698,43 @@ janvier 1978 relative à l'informatique, aux fichiers et aux libertés.
 
 ###### Article R53-18
 
-Les fonctionnaires de la sous-direction de la police technique et scientifique du ministère de l'intérieur et les personnels
-de l'institut de recherche criminelle de la gendarmerie nationale, spécialement affectés dans le service mettant en oeuvre le
+Les personnels de la sous-direction de la police technique et scientifique de la direction centrale de la police judiciaire
+de la police nationale et ceux de la gendarmerie nationale, spécialement affectés dans le service mettant en oeuvre le
 traitement, et dûment habilités, pourront seuls, à la demande de l'autorité judiciaire ou des officiers de police judiciaire
 de la police nationale ou de la gendarmerie nationale, assurer l'alimentation du fichier, avoir accès aux informations
 enregistrées et procéder aux opérations de rapprochement.
+
+Les officiers et les agents de police judiciaire agissant en application des dispositions du I de l'article 706-56 ne peuvent
+accéder directement au fichier que pour vérifier si y figure l'état civil d'une personne susceptible de faire l'objet d'un
+prélèvement biologique en application de ces dispositions. Ils ne peuvent accéder à aucune autre donnée.
+
+Les personnels affectés au service central de préservation des prélèvements biologiques et dûment habilités peuvent accéder
+directement aux données enregistrées dans le fichier, à l'exception de celles relatives aux résultats d'analyse. Ils peuvent
+y enregistrer des informations relatives aux scellés.
+
+Les magistrats du parquet et de l'instruction, les officiers de police judiciaire peuvent procéder, par tous moyens
+sécurisés, y compris télématiques, aux opérations de transmission au service gestionnaire du fichier des informations qui
+doivent y être enregistrées.
 
 Un dispositif permettant de retracer, par suivi informatique, la consultation du fichier sera mis en place par l'autorité
 gestionnaire de celui-ci.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Cite**:
 
-	  - Décret n°59-318 1959-02-23
-
-	**Modifié par**:
-
-	  - Décret n°2002-697 du 30 avril 2002 - art. 1 () JORF 3 mai 2002
+	  - CODE DE PROCEDURE PENALE - art. 706-56 (MMN)
 
 	**Cité par**:
 
 	  - Code de procédure pénale - art. R53-19-1 (V)
 	  - Code de procédure pénale - art. R53-19-2 (V)
 
+	**Liens**:
 
-###### Article R53-19
-
-Le fichier national automatisé des empreintes génétiques ne peut faire l'objet d'aucune interconnexion ni de rapprochement ou
-de mise en relation avec un autre traitement automatisé d'informations nominatives, sous réserve des dispositions du deuxième
-alinéa de l'article R. 53-20.
-
-**Liens relatifs à cet article**
+	  - TXT_SOURCE: Convention 1981-01-28, signée à Strasbourg
+	  - TXT_SOURCE: Directive 95-46 CE 1995-10-24
+	  - SPEC_APPLI: Décret n°2004-470 2004-05-25 art. 14 : champ d'application
 
 	**Codifié par**:
 
@@ -56438,7 +56742,30 @@ alinéa de l'article R. 53-20.
 
 	**Modifié par**:
 
-	  - Décret n°2002-697 du 30 avril 2002 - art. 1 () JORF 3 mai 2002
+	  - Décret n°2004-470 2004-05-25 art. 18 JORF 2 juin 2004
+
+
+###### Article R53-19
+
+Le fichier national automatisé des empreintes génétiques ne peut faire l'objet d'aucune interconnexion ni de rapprochement ou
+de mise en relation avec un autre traitement automatisé d'informations nominatives, sous réserve des dispositions du
+troisième alinéa de l'article R. 53-20.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - TXT_SOURCE: Convention 1981-01-28, signée à Strasbourg
+	  - TXT_SOURCE: Directive 95-46 CE 1995-10-24
+	  - SPEC_APPLI: Décret n°2004-470 2004-05-25 art. 14 : champ d'application
+
+	**Codifié par**:
+
+	  - Décret n°59-318 1959-02-23
+
+	**Modifié par**:
+
+	  - Décret n°2004-470 du 25 mai 2004 - art. 10 () JORF 2 juin 2004
 
 	**Cité par**:
 
@@ -56447,12 +56774,16 @@ alinéa de l'article R. 53-20.
 
 ###### Article R53-20
 
-Sur décision du procureur de la République ou, en cours d'information, du juge d'instruction, les scellés contenant des
-échantillons de matériel biologique saisis dans le cadre d'une enquête préliminaire, d'une enquête pour crime ou délit
-flagrant, ou d'une instruction préparatoire suivie pour l'une des infractions mentionnées à l'article 706-55 et ayant fait
-l'objet d'un conditionnement normalisé, sont conservés, jusqu'à l'expiration des délais prévus par l'article R. 53-14, par le
-service central de préservation des prélèvements biologiques de l'institut de recherche criminelle de la gendarmerie
-nationale.
+Sur décision du procureur de la République, de l'officier de police judiciaire ou, en cours d'information, du juge
+d'instruction, les scellés relatifs aux traces et échantillons mentionnés aux 1°, 3° et 4° de l'article R. 53-10 et ayant
+fait l'objet d'un conditionnement normalisé selon des modalités fixées par arrêté conjoint du ministre de la justice, garde
+des sceaux, du ministre de l'intérieur et du ministre de la défense sont adressés au service central de préservation des
+prélèvements biologiques en vue de leur conservation.
+
+Ces scellés sont accompagnés des informations mentionnées à l'article R. 53-11. Ils sont conservés pendant le délai de
+quarante ans prévu par l'article R. 53-14. Il est procédé à leur destruction à l'expiration du délai. En cas d'effacement
+d'une information enregistrée au fichier avant ce délai, le service procède, sur réquisition de l'autorité judiciaire ou de
+l'officier de police judiciaire agissant sur instruction de cette dernière, à la destruction du scellé.
 
 Dans les conditions prévues par la loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux libertés,
 les informations transmises au service central pourront faire l'objet d'un traitement informatisé. Celui-ci pourra, par
@@ -56467,6 +56798,12 @@ relatives au fonctionnement du service.
 
 **Liens relatifs à cet article**
 
+	**Liens**:
+
+	  - TXT_SOURCE: Convention 1981-01-28, signée à Strasbourg
+	  - TXT_SOURCE: Directive 95-46 CE 1995-10-24
+	  - SPEC_APPLI: Décret n°2004-470 2004-05-25 art. 14 : champ d'application
+
 	**Codifié par**:
 
 	  - Décret n°59-318 1959-02-23
@@ -56474,7 +56811,8 @@ relatives au fonctionnement du service.
 	**Cite**:
 
 	  - Loi n°78-17 1978-01-06
-	  - CODE DE PROCEDURE PENALE - art. 706-55 (MMN)
+	  - CODE DE PROCEDURE PENALE - art. R53-10 (M)
+	  - CODE DE PROCEDURE PENALE - art. R53-11 (M)
 	  - CODE DE PROCEDURE PENALE - art. R53-14 (M)
 	  - CODE DE PROCEDURE PENALE - art. R53-16 (M)
 	  - CODE DE PROCEDURE PENALE - art. R53-9 (M)
@@ -56487,24 +56825,15 @@ relatives au fonctionnement du service.
 
 	**Modifié par**:
 
-	  - Décret n°2002-697 du 30 avril 2002 - art. 1 () JORF 3 mai 2002
+	  - Décret n°2004-470 du 25 mai 2004 - art. 11 () JORF 2 juin 2004
 
 
 ###### Article R53-21
 
-Lorsqu'elle n'a pas été réalisée au cours de la procédure d'enquête, d'instruction ou de jugement, l'analyse d'identification
-par empreintes génétiques d'une personne définitivement condamnée pour l'une des infractions énumérées à l'article 706-55 est
-ordonnée par le procureur de la République. Cette analyse est effectuée par un expert habilité conformément aux dispositions
-de l'article 16-12 du code civil.
-
-Cette analyse est ordonnée dans les six mois suivant la date à laquelle la condamnation est devenue définitive. Si, en raison
-de sa condamnation, la personne exécute une peine privative de liberté, un travail d'intérêt général, fait l'objet d'un
-sursis avec mise à l'épreuve ou se trouve placée sous le régime de la libération conditionnelle, l'analyse est ordonnée
-pendant la période d'exécution de peine ou le temps d'épreuve.
-
-Le procureur de la République peut si nécessaire requérir un officier ou un agent de police judiciaire pour procéder ou faire
-procéder aux prélèvements destinés à l'analyse. Ceux-ci sont placés sous scellés. Lorsque l'analyse a été effectuée, ces
-scellés sont conservés par le service central de préservation des prélèvements biologiques prévu par l'article R. 53-20.
+Lorsqu'il n'a pas été réalisé au cours de la procédure d'enquête, d'instruction ou de jugement, le prélèvement concernant une
+personne définitivement condamnée est effectué, sur instruction du procureur de la République ou du procureur général et
+selon les modalités prévues par le I de l'article 706-56, au plus tard dans un délai d'un an à compter de l'exécution de la
+peine.
 
 **Liens relatifs à cet article**
 
@@ -56512,20 +56841,23 @@ scellés sont conservés par le service central de préservation des prélèveme
 
 	  - Décret n°59-318 1959-02-23
 
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°2004-470 2004-05-25 art. 14 : champ d'application
+	  - TXT_SOURCE: Convention 1981-01-28, signée à Strasbourg
+	  - TXT_SOURCE: Directive 95-46 CE 1995-10-24
+
 	**Modifié par**:
 
-	  - Décret n°2002-697 du 30 avril 2002 - art. 1 () JORF 3 mai 2002
-	  - Décret n°2002-697 du 30 avril 2002 - art. 2 () JORF 3 mai 2002
-
-	**Cite**:
-
-	  - Code civil - art. 16-12 (M)
-	  - CODE DE PROCEDURE PENALE - art. 706-55 (MMN)
-	  - CODE DE PROCEDURE PENALE - art. R53-20 (M)
+	  - Décret n°2004-470 du 25 mai 2004 - art. 12 () JORF 2 juin 2004
 
 	**Cité par**:
 
 	  - CODE DE PROCEDURE PENALE - art. R53-10 (M)
+
+	**Cite**:
+
+	  - Code de procédure pénale - art. 706-56 (V)
 
 
 ### Titre XXI : De la protection des témoins
