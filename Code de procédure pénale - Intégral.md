@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 1985-08-08
+Version Consolidée au 1985-09-01
 
 # Partie législative
 
@@ -28540,6 +28540,38 @@ direction du recrutement et de la statistique de la région militaire sur le ter
 	  - Code de procédure pénale - art. R385 (Ab)
 
 
+###### Article R75
+
+Le service du casier judiciaire national automatisé communique à l'Institut national de la statistique et des études
+économiques l'identité des personnes de nationalité française ayant fait l'objet d'une décision entraînant la privation des
+droits électoraux en précisant, pour chaque cas, la date à laquelle cette incapacité cessera d'avoir effet.
+
+Il informe l'Institut national de la statistique et des études économiques de toute modification ultérieure de la capacité
+électorale de ces personnes.
+
+Pour l'application du présent article, les informations peuvent être communiquées sur support magnétique.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-318 1959-02-23
+
+	**Créé par**:
+
+	  - Décret n°59-318 1959-02-23 JORF 25 février 1959 en vigueur le 2 mars 1959 rectificatif JORF 13 juin 1959
+
+	**Modifié par**:
+
+	  - Décret n°85-913 1985-08-29 art. 1 et art. 10 JORF 30 août 1985 en vigueur le 1er septembre 1985
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°85-913 1985-08-29 art. 10
+	  - TXT_SOURCE: CODE DE PROCEDURE PENALE - art. 779 (M)
+	  - TXT_SOURCE: Code de procédure pénale 776 (3°), 779
+
+
 ###### Article R75-1
 
 Un copie de chaque fiche relative à une condamnation à une peine privative de liberté prononcée pour crime ou délit est
@@ -28600,6 +28632,52 @@ Sur instructions de l'autorité judiciaire requérante, le bulletin n° 1 est d�
 	  - TXT_SOURCE: Code de procédure pénale 776 (3°), 779
 
 
+###### Article R77
+
+Avant d'établir le bulletin n° 1, le service chargé du casier judiciaire national automatisé vérifie l'identité de
+l'intéressé au moyen des informations communiquées par l'Institut national de la statistique et des études économiques en
+application de l'article R. 64. Si le résultat de cet examen s'avère négatif, il inscrit dans le corps du bulletin, à
+l'exclusion de toute autre mention, l'indication "Aucune identité applicable".
+
+Si l'intéressé est né hors de la France métropolitaine, si son lieu de naissance est inconnu ou s'il est âgé de moins de
+douze ans, le service inscrit sur le bulletin n° 1 "Identité non vérifiable par le service".
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-318 1959-02-23
+
+	**Créé par**:
+
+	  - Décret n°59-318 1959-02-23 JORF 25 février 1959 en vigueur le 2 mars 1959 rectificatif JORF 13 juin 1959
+
+	**Modifié par**:
+
+	  - Décret n°81-1003 1981-11-06 art. 13 JORF 11 novembre 1981
+	  - Décret n°85-913 1985-08-29 art. 2 et art. 10 en vigueur le 1er septembre 1985
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°81-1003 1981-11-06 art. 25
+	  - SPEC_APPLI: Décret n°85-913 1985-08-29 art. 10
+	  - TXT_SOURCE: CODE DE PROCEDURE PENALE - art. 779 (M)
+	  - TXT_SOURCE: Code de procédure pénale 776 (3°), 779
+
+	**Cité par**:
+
+	  - Décret n°2017-266 du 28 février 2017 - art. 1
+	  - CODE DE PROCEDURE PENALE - art. R302 (V)
+	  - CODE DE PROCEDURE PENALE - art. R388 (V)
+	  - Code de procédure pénale - art. R80-1 (V)
+	  - Code de procédure pénale - art. R83 (V)
+	  - Code du travail - art. D1441-22-4 (V)
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. R64 (M)
+
+
 ###### Article R78
 
 S'il existe une ou plusieurs fiches du casier judiciaire, la teneur ainsi que celle des mentions prévues à l'article 769, en
@@ -28652,6 +28730,122 @@ En cas d'urgence, cet envoi peut être effectué par télécopie.
 
 #### Chapitre V : De la délivrance des bulletins n° 2 du casier judiciaire
 
+###### Article R79
+
+Outre le cas prévus aux 1°, 2° et 4° de l'article 776, le bulletin n° 2 du casier judiciaire est délivré :
+
+1° Aux administrations publiques de l'Etat chargées de la police des étrangers ;
+
+2° A celles chargées des intérêts des anciens combattants, victimes de la guerre et pupilles de la nation ;
+
+3° A celles qui sont chargées de l'assainissement des professions agricoles, commerciales, industrielles ou artisanales ;
+
+4° A celles chargées de l'attribution de dommages de guerre et de prêts à la construction ;
+
+5° A celles chargées de l'admission des candidatures à une représentation professionnelle ;
+
+6° A celles saisies de demandes d'autorisation d'introduction en France d'un employé étranger du sexe féminin ;
+
+7° Aux juges commis à la surveillance du registre du commerce à l'occasion des demandes d'inscription au registre spécial des
+agents commerciaux ;
+
+8° Aux collectivités publiques locales, à la Société nationale des chemins de fer français, aux Charbonnages de France et
+houillères de bassin, à Electricité de France et Gaz de France, à la Banque de France, saisis de demandes d'emplois, de
+soumissions pour les adjudications de travaux ou de marchés publics ou en vue de poursuites disciplinaires ;
+
+9° Aux administrations publiques saisies de demande d'autorisation ou de détention d'armes ou de munitions, ou de demandes
+d'autorisation d'importation, d'exportation, d'élaboration, de détention, de transfert, d'utilisation ou de transport de
+matières nucléaires définies à l'article 1er de la loi du 25 juillet 1980 ;
+
+10° Aux conseils de l'ordre des médecins, des chirurgiens-dentistes, des sages-femmes et des pharmaciens saisis de demandes
+d'inscription au tableau ou de poursuites disciplinaires ;
+
+11° Aux commissions d'inscription sur la liste de commissaires aux comptes ;
+
+12° Aux commissaires du Gouvernement près les conseils de l'ordre des experts-comptables et comptables agréés saisis de
+demandes d'inscription ou de poursuitees disciplinaires ;
+
+13° A l'administration fiscale à l'occasion de la délivrance des certificats prévus à l'article 6 du décret n° 75-911 du 6
+octobre 1975 relatif aux centres de gestion agréés ;
+
+14° Aux institutions mentionnées à l'article L. 351-2 du Code du travail ;
+
+15° Aux administrations publiques saisies de candidatures à un embarquement sur un navire français et chargées du contrôle
+des conditions d'exercice de la profession de marin ;
+
+16° Aux administrations publiques de l'Etat chargées de contrôler les déclarations des agences privées de recherche ou de
+délivrer l'autorisation d'exercer les activités de gardiennage, de surveillance de transport de fonds ou de protection des
+personnes ;
+
+17° A l'administration auprès de laquelle est institué le comité prévu par l'article 46 du Code pénal ;
+
+18° Aux administrations publiques de l'Etat chargées d'instruire les procédures de changement de nom, d'acquisition, de perte
+ou de déchéance de la nationalité française ;
+
+19° Aux établissements mentionnés à l'article L. 792 du Code de la santé publique lorsqu'ils sont saisis d'une demande
+d'emploi ;
+
+20° A la Commission des opérations de bourse, en ce qui concerne les dirigeants d'entreprises faisant appel public à
+l'épargne lors de la nomination de ces dirigeants, lors d'une demande de visa formulée par ceux-ci ou du dépôt d'un document
+d'information en application de l'article 37 de la loi n° 83-1 du 3 janvier 1983 ;
+
+21° A la commission des marchés à terme de marchandises en ce qui concerne les personnes physiques ou les dirigeants des
+personnes morales qui sollicitent l'agrément ou l'inscription prévues par les articles 31, 32 et 34 de la loi n° 83-610 du 8
+juillet 1983, ainsi que les personnes qui font l'objet d'une procédure disciplinaire sur le fondement des articles 22, 29 ou
+41 de cette loi.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-318 1959-02-23
+
+	**Créé par**:
+
+	  - Décret n°59-318 1959-02-23 JORF 25 février 1959 en vigueur le 2 mars 1959 rectificatif JORF 13 juin 1959
+
+	**Modifié par**:
+
+	  - Décret n°70-147 1970-02-19 art. 188 JORF 22 février 1970
+	  - Décret n°81-512 1981-05-12 art. 29 JORF 14 mai 1981
+	  - Décret n°81-1003 1981-11-06 art. 15 JORF 11 novembre 1981
+	  - Décret n°81-1086 1981-12-08 art. 5 JORF 11 décembre 1981
+	  - Décret n°85-913 1985-08-29 art. 3 I, art. 3 II et art. 10 JORF 30 août 1985 en vigueur le 1er septembre 1985
+	  - Décret n°79-858 1979-10-01 art. 3 JORF 4 octobre 1979
+
+	**Cite**:
+
+	  - Décret n°75-911 du 6 octobre 1975 - art. 6 (V)
+	  - Loi n°83-1 1983-01-03 art. 37
+	  - Loi n°83-610 1983-07-08 art. 31, art. 32, art. 34, art. 22, art. 29 et art. 41
+	  - Loi n°83-610 du 8 juillet 1983 - art. 22, v. init.
+	  - Code pénal 46
+	  - CODE DE PROCEDURE PENALE - art. 776 (M)
+	  - Code de procédure pénale 776, 1°, 2° et 4°
+	  - Code du travail - art. L351-2 (M)
+	  - Code de la santé publique - art. L792 (M)
+	  - Loi n°1980-07-25 art. 1
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°85-913 1985-08-29 art. 10
+	  - TXT_SOURCE: Décret n°94-965 du 2 novembre 1994
+	  - TXT_SOURCE: Décret n°94-965 du 2 novembre 1994 - art. 1 ()
+	  - TXT_SOURCE: Décret n°94-965 du 2 novembre 1994 - art. 2 ()
+	  - TXT_SOURCE: Décret n°94-965 du 2 novembre 1994 - art. 3 ()
+	  - TXT_SOURCE: CODE DE PROCEDURE PENALE - art. 779 (M)
+	  - PILOTE_SUIVEUR: Code de la propriété intellectuelle - art. R421-3 (V)
+	  - TXT_SOURCE: Code de procédure pénale 776 (3°), 779
+
+	**Cité par**:
+
+	  - Décret n°2010-1711 du 30 décembre 2010 (V)
+	  - Arrêté du 21 janvier 2016 - art. 1 (V)
+	  - Code de la propriété intellectuelle - art. R421-3 (V)
+	  - Code de procédure pénale - art. R304 (V)
+	  - Code de procédure pénale - art. R390 (Ab)
+
+
 ###### Article R80
 
 Le bulletin n° 2 est réclamé au service du casier judiciaire national automatisé par lettre, télégramme, télétransmission ou
@@ -28684,6 +28878,36 @@ requérante ainsi que du motif de la demande.
 
 	  - Code de procédure pénale - art. R305 (V)
 	  - Code de procédure pénale - art. R391 (Ab)
+
+
+###### Article R80-1
+
+Les dispositions de l'article R. 77 sont applicables pour l'établissement du bulletin n° 2.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-318 1959-02-23
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°85-913 1985-08-29 art. 10
+	  - TXT_SOURCE: CODE DE PROCEDURE PENALE - art. 779 (M)
+	  - TXT_SOURCE: Code de procédure pénale 776 (3°), 779
+
+	**Créé par**:
+
+	  - Décret n°85-913 1985-08-29 art. 5 et art. 10 JORF 30 août 1985 en vigueur le 1er septembre 1985
+
+	**Cité par**:
+
+	  - Décret n°2017-266 du 28 février 2017 - art. 1
+	  - Code du travail - art. D1441-22-4 (V)
+
+	**Cite**:
+
+	  - Code de procédure pénale - art. R77 (V)
 
 
 ###### Article R81
@@ -28720,6 +28944,79 @@ Sinon, le bulletin n° 2 est revêtu de la mention "néant".
 
 
 #### Chapitre VI : De la délivrance des bulletins n° 3 du casier judiciaire
+
+###### Article R82
+
+Le bulletin n° 3 ne peut être demandé au service du casier judiciaire national automatisé que par lettre signée de la
+personne qu'il concerne et précisant l'état civil de celle-ci. Si le demandeur est né à l'étranger, si son lieu de naissance
+est inconnu ou s'il est âgé de moins de douze ans, il doit, en outre, justifier de son identité.
+
+Le bulletin n° 3 peut également être obtenu si la personne qu'il concerne se présente au casier judiciaire national et
+justifie de son identité.
+
+Si le demandeur ne sait ou ne peut signer, cette impossibilité est constatée par le maire ou le commissaire de police qui
+atteste en même temps que la demande est faite au nom et sur l'initiative de la personne que le bulletin n° 3 concerne.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-318 1959-02-23
+
+	**Créé par**:
+
+	  - Décret n°59-318 1959-02-23 JORF 25 février 1959 en vigueur le 2 mars 1959 rectificatif JORF 13 juin 1959
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°81-1003 1981-11-06 art. 25
+	  - SPEC_APPLI: Décret n°85-913 1985-08-29 art. 10
+	  - TXT_SOURCE: CODE DE PROCEDURE PENALE - art. 779 (M)
+	  - TXT_SOURCE: Code de procédure pénale 776 (3°), 779
+
+	**Modifié par**:
+
+	  - Décret n°85-913 1985-08-23 art. 6 et art. 10 JORF 30 août 1985 en vigueur le 1er septembre 1985
+	  - Décret n°81-1005 1981-11-06 art. 18 JORF 11 novembre 1981
+
+	**Cité par**:
+
+	  - Code de procédure pénale - art. R84 (V)
+
+
+###### Article R83
+
+La vérification d'identité prévue par l'article R. 77 doit être effectuée avant l'établissement du bulletin n° 3 des
+personnes nées en France. Si le résultat de cet examen s'avère négatif, le service du casier judiciaire national automatisé
+ne délivrera le bulletin n° 3 qu'au vu d'une fiche d'état civil.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-318 1959-02-23
+
+	**Créé par**:
+
+	  - Décret n°59-318 1959-02-23 JORF 25 février 1959 en vigueur le 2 mars 1959 rectificatif JORF 13 juin 1959
+	  - Décret n°85-913 1985-08-29 art. 7 et art. 10 JORF 30 août 1985 en vigueur le 1er septembre 1985
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°81-1003 1981-11-06 art. 25
+	  - SPEC_APPLI: Décret n°85-913 1985-08-29 art. 10
+	  - TXT_SOURCE: CODE DE PROCEDURE PENALE - art. 779 (M)
+	  - TXT_SOURCE: Code de procédure pénale 776 (3°), 779
+
+	**Cité par**:
+
+	  - CODE DE PROCEDURE PENALE - art. R307 (V)
+	  - Code de procédure pénale - art. R393 (Ab)
+
+	**Cite**:
+
+	  - Code de procédure pénale - art. R77 (V)
+
 
 ###### Article R84
 
@@ -28864,42 +29161,6 @@ avec toutes les indications utiles, aux autorités dont ils émanent, dans les c
 	**Cité par**:
 
 	  - CODE DE PROCEDURE PENALE - art. R394 (V)
-
-
-###### Article R89
-
-En cas de perte d'une carte nationale d'identité, d'un passeport ou d'un permis de conduire, un double de la déclaration de
-perte est adressé par l'autorité administrative habilitée à délivrer un duplicata de ce document au le procureur de la
-République qui transmet ce double au service du casier judiciaire national automatisé pour enregistrement.
-
-En cas de vol d'une des pièces d'identité visées à l'alinéa précédent, avis du procès-verbal constatant ce vol est adressé au
-service du casier judiciaire national automatisé pour enregistrement.
-
-Les déclarations et avis prévus aux alinés précédents sont effacés du casier judiciaire soit lorsque les pièces perdues ou
-volées ont été retrouvées, soit à l'expiration du délai de trois ans à compter de leur enregistrement.
-
-Chaque fois que le service du casier judiciaire national automatisé est saisi d'une demande de bulletin n° 1, n° 2 ou n° 3
-concernant les personnes dont les pièces d'identité ont été perdues ou volées, il ne délivre les bulletins qu'après s'être
-assuré de l'identité des personnes qui font l'objet de ces demandes.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°59-318 1959-02-23
-
-	**Créé par**:
-
-	  - Décret n°59-318 1959-02-23 JORF 25 février 1959 en vigueur le 2 mars 1959 rectificatif JORF 13 juin 1959
-
-	**Modifié par**:
-
-	  - Décret n°74-560 1974-05-20 art. 1 JORF 28 mai 1974
-	  - Décret n°81-1003 1981-11-06 art. 23 I et art. 23 II JORF 11 novembre 1981
-
-	**Abrogé par**:
-
-	  - Décret n°85-913 1985-08-29 art. 8 et art. 10 JORF 30 août 1985 en vigueur le 1er septembre 1985
 
 
 ###### Article R90
