@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 1991-07-19
+Version Consolidée au 1991-10-01
 
 # Partie législative
 
@@ -3894,6 +3894,271 @@ public, une ordonnance renvoyant la partie civile à se pourvoir devant telle ju
 	  - Code de procédure pénale - art. 52 (VT)
 
 
+##### Section 3 : Des transports, des perquisitions, des saisies et des interceptions de correspondances émises par la voie des télécommunications
+
+##### Sous-section 1 : Des transports, des perquisitions et des saisies
+
+###### Article 92
+
+Le juge d'instruction peut se transporter sur les lieux pour y effectuer toutes constatations utiles ou procéder à des
+perquisitions. Il en donne avis au procureur de la République, qui a la faculté de l'accompagner.
+
+Le juge d'instruction est toujours assisté d'un greffier.
+
+Il dresse un procès-verbal de ses opérations.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°57-1426 1957-12-31
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°57-1426 1957-12-31 art. 18
+
+	**Modifié par**:
+
+	  - Loi n°91-646 du 10 juillet 1991 - art. 2 () JORF 13 juillet 1991 en vigueur le 1er octobre 1991
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L881-1 (Ab)
+
+	**Cité par**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L881-1 (Ab)
+	  - CODE DE PROCEDURE PENALE - art. R200 (M)
+
+
+###### Article 93
+
+Si les nécessités de l'information l'exigent, le juge d'instruction peut, après en avoir donné avis au procureur de la
+République de son tribunal, se transporter avec son greffier dans toute l'étendue du territoire national, à effet d'y
+procéder à tous actes d'instruction, à charge par lui d'aviser, au préalable, le procureur de la République du tribunal dans
+le ressort duquel il se transporte. Il mentionne sur son procès-verbal les motifs de son transport.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°57-1426 1957-12-31
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°75-701 1975-08-06 art. 29 Décret fixant la date d'entrée en vigueur - absence
+
+	**Modifié par**:
+
+	  - Loi n°91-646 du 10 juillet 1991 - art. 2 () JORF 13 juillet 1991 en vigueur le 1er octobre 1991
+
+	**Cité par**:
+
+	  - CODE DE PROCEDURE PENALE - art. 682 (Ab)
+	  - CODE DE PROCEDURE PENALE - art. R200 (M)
+	  - Code de procédure pénale - art. 137-1 (VD)
+
+
+###### Article 94
+
+Les perquisitions sont effectuées dans tous les lieux où peuvent se trouver des objets dont la découverte serait utile à la
+manifestation de la vérité.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°57-1426 1957-12-31
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°57-1426 1957-12-31 art. 18
+
+	**Modifié par**:
+
+	  - Loi n°91-646 du 10 juillet 1991 - art. 2 () JORF 13 juillet 1991 en vigueur le 1er octobre 1991
+
+
+##### Sous-section 2 : Des interceptions de correspondances émises par la voie des télécommunications
+
+###### Article 100
+
+En matière criminelle et en matière correctionnelle, si la peine encourue est égale ou supérieure à deux ans
+d'emprisonnement, le juge d'instruction peut, lorsque les nécessités de l'information l'exigent, prescrire l'interception,
+l'enregistrement et la transcription de correspondances émises par la voie des télécommunications. Ces opérations sont
+effectuées sous son autorité et son contrôle.
+
+La décision d'interception est écrite. Elle n'a pas de caractère juridictionnel et n'est susceptible d'aucun recours.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°57-1426 1957-12-31
+
+	**Abrogé par**:
+
+	  - Loi n°85-1407 1985-12-30 art. 9 et art. 94 JORF 31 décembre 1985 en vigueur le 1er février 1986
+
+	**Modifié par**:
+
+	  - Loi n°91-646 du 10 juillet 1991 - art. 2 () JORF 13 juillet 1991 en vigueur le 1er octobre 1991
+
+	**Cité par**:
+
+	  - Loi n°91-646 du 10 juillet 1991 - art. 23 (VT)
+	  - Code de justice militaire - art. 113 (Ab)
+	  - Code de la sécurité intérieure - art. L241-4 (T)
+	  - Code de la sécurité intérieure - art. L871-5 (V)
+	  - Code de la sécurité intérieure - art. L898-1 (V)
+	  - Code de procédure pénale - art. 100-1 (V)
+	  - Code de procédure pénale - art. 230-45 (V)
+	  - Code de procédure pénale - art. 28-1 (V)
+	  - Code de procédure pénale - art. 28-2 (V)
+	  - Code de procédure pénale - art. 706-95 (VD)
+	  - Code de procédure pénale - art. 709-1-3 (V)
+	  - Code de procédure pénale - art. 74-2 (V)
+	  - Code de procédure pénale - art. R40-43 (V)
+
+
+###### Article 100-1
+
+La décision prise en application de l'article 100 doit comporter tous les éléments d'identification de la liaison à
+intercepter, l'infraction qui motive le recours à l'interception ainsi que la durée de celle-ci.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°57-1426 1957-12-31
+
+	**Créé par**:
+
+	  - Loi n°91-646 du 10 juillet 1991 - art. 2 () JORF 13 juillet 1991 en vigueur le 1er octobre 1991
+
+	**Cite**:
+
+	  - Code de procédure pénale - art. 100 (V)
+
+	**Cité par**:
+
+	  - Code de procédure pénale - art. 706-95 (VD)
+	  - Code de procédure pénale - art. 80-4 (V)
+
+
+###### Article 100-2
+
+Cette décision est prise pour une durée maximum de quatre mois. Elle ne peut être renouvelée que dans les mêmes conditions de
+forme et de durée.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°57-1426 1957-12-31
+
+	**Créé par**:
+
+	  - Loi n°91-646 du 10 juillet 1991 - art. 2 () JORF 13 juillet 1991 en vigueur le 1er octobre 1991
+
+	**Cité par**:
+
+	  - CODE DE PROCEDURE PENALE - art. 171 (M)
+
+
+###### Article 100-3
+
+Le juge d'instruction ou l'officier de police judiciaire commis par lui peut requérir tout agent qualifié d'un service ou
+organisme placé sous l'autorité ou la tutelle du ministre chargé des télécommunications ou tout agent qualifié d'un
+exploitant de réseau ou fournisseur de services de télécommunications autorisé, en vue de procéder à l'installation d'un
+dispositif d'interception.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°57-1426 1957-12-31
+
+	**Créé par**:
+
+	  - Loi n°91-646 du 10 juillet 1991 - art. 2 () JORF 13 juillet 1991 en vigueur le 1er octobre 1991
+
+	**Cité par**:
+
+	  - Ordonnance no 92-1145 du 12 octobre 1992 portant e - art. 2 (V)
+	  - Décret n°93-119 du 28 janvier 1993 - art. 1 (VD)
+	  - Décret n°93-119 du 28 janvier 1993 - art. 2 (V)
+	  - Décret n°93-119 du 28 janvier 1993 - art. 3 (VD)
+	  - Code de procédure pénale - art. 706-95 (VD)
+	  - Code de procédure pénale - art. 74-2 (V)
+
+
+###### Article 100-4
+
+Le juge d'instruction ou l'officier de police judiciaire commis par lui dresse procès-verbal de chacune des opérations
+d'interception et d'enregistrement. Ce procès-verbal mentionne la date et l'heure auxquelles l'opération a commencé et celles
+auxquelles elle s'est terminée.
+
+Les enregistrements sont placés sous scellés fermés.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°57-1426 1957-12-31
+
+	**Créé par**:
+
+	  - Loi n°91-646 du 10 juillet 1991 - art. 2 () JORF 13 juillet 1991 en vigueur le 1er octobre 1991
+
+	**Cité par**:
+
+	  - Code de procédure pénale - art. 230-45 (V)
+	  - Code de procédure pénale - art. 706-95 (VD)
+	  - Code de procédure pénale - art. 706-95-4 (V)
+	  - Code de procédure pénale - art. 706-95-5 (V)
+
+
+###### Article 100-5
+
+Le juge d'instruction ou l'officier de police judiciaire commis par lui transcrit la correspondance utile à la manifestation
+de la vérité. Il en est dressé procès-verbal. Cette transcription est versée au dossier.
+
+Les correspondances en langue étrangère sont transcrites en français avec l'assistance d'un interprète requis à cette fin.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°57-1426 1957-12-31
+
+	**Modifié par**:
+
+	  - Loi n°91-646 du 10 juillet 1991 - art. 2 () JORF 13 juillet 1991 en vigueur le 1er octobre 1991
+
+
+###### Article 100-6
+
+Les enregistrements sont détruits, à la diligence du procureur de la République ou du procureur général, à l'expiration du
+délai de prescription de l'action publique.
+
+Il est dressé procès-verbal de l'opération de destruction.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°57-1426 1957-12-31
+
+	**Créé par**:
+
+	  - Loi n°91-646 du 10 juillet 1991 - art. 2 () JORF 13 juillet 1991 en vigueur le 1er octobre 1991
+
+	**Cité par**:
+
+	  - Code de procédure pénale - art. 230-45 (V)
+
+
 ##### Section 4 : Des auditions de témoins
 
 ###### Article 111
@@ -6096,81 +6361,9 @@ L'arrêt de la cour d'appel peut être déféré à la Cour de cassation comme e
 	  - Code de procédure pénale - art. D32 (V)
 
 
-##### Section 3 : Des transports, perquisitions et saisies
+##### Section 3 : Des transports, des perquisitions, des saisies et des interceptions de correspondances émises par la voie des télécommunications
 
-###### Article 92
-
-Le juge d'instruction peut se transporter sur les lieux pour y effectuer toutes constatations utiles ou procéder à des
-perquisitions. Il en donne avis au procureur de la République, qui a la faculté de l'accompagner.
-
-Le juge d'instruction est toujours assisté d'un greffier.
-
-Il dresse un procès-verbal de ses opérations.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°57-1426 1957-12-31
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°57-1426 1957-12-31 art. 18
-
-	**Nouveaux textes**:
-
-	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L881-1 (Ab)
-
-	**Cité par**:
-
-	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L881-1 (Ab)
-	  - CODE DE PROCEDURE PENALE - art. R200 (M)
-
-
-###### Article 93
-
-Si les nécessités de l'information l'exigent, le juge d'instruction peut, après en avoir donné avis au procureur de la
-République de son tribunal, se transporter avec son greffier dans toute l'étendue du territoire national, à effet d'y
-procéder à tous actes d'instruction, à charge à lui d'aviser, au préalable, le procureur de la République du tribunal dans le
-ressort duquel il se transporte. Il mentionne sur son procès-verbal les motifs de son transport.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°57-1426 1957-12-31
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°75-701 1975-08-06 art. 29 Décret fixant la date d'entrée en vigueur - absence
-
-	**Modifié par**:
-
-	  - loi 75-701 1975-08-06 art. 14 JORF 7 août 1975 en vigueur le 1er janvier 1976
-	  - loi 68-542 1968-06-12 art. 1 JORF 13 juin 1968
-
-	**Cité par**:
-
-	  - CODE DE PROCEDURE PENALE - art. 682 (Ab)
-	  - CODE DE PROCEDURE PENALE - art. R200 (M)
-	  - Code de procédure pénale - art. 137-1 (VD)
-
-
-###### Article 94
-
-Les perquisitions sont effectuées dans tous les lieux où peuvent se trouver des objets dont la découverte serait utile à la
-manifestation de la vérité.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°57-1426 1957-12-31
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°57-1426 1957-12-31 art. 18
-
+##### Sous-section 1 : Des transports, des perquisitions et des saisies
 
 ###### Article 95
 
@@ -6186,6 +6379,10 @@ et 59.
 	**Liens**:
 
 	  - SPEC_APPLI: Loi n°57-1426 1957-12-31 art. 18
+
+	**Modifié par**:
+
+	  - Loi n°91-646 du 10 juillet 1991 - art. 2 () JORF 13 juillet 1991 en vigueur le 1er octobre 1991
 
 	**Cite**:
 
@@ -6214,6 +6411,10 @@ professionnel et des droits de la défense.
 
 	  - SPEC_APPLI: Loi n°57-1426 1957-12-31 art. 18
 
+	**Modifié par**:
+
+	  - Loi n°91-646 du 10 juillet 1991 - art. 2 () JORF 13 juillet 1991 en vigueur le 1er octobre 1991
+
 	**Cite**:
 
 	  - CODE DE PROCEDURE PENALE - art. 57 (V)
@@ -6229,8 +6430,8 @@ professionnel et des droits de la défense.
 ###### Article 97
 
 Lorsqu'il y a lieu, en cours d'information, de rechercher des documents et sous réserve des nécessités de l'information et du
-respect, le cas échéant, de l'obligation stipulée par l'alinéa 3 de l'article précédent, le juge d'instruction ou l'officier
-de police judiciaire par lui commis a seul le droit d'en prendre connaissance avant de procéder à la saisie.
+respect, le cas échéant, de l'obligation stipulée par l'alinéa 3 de l'article [*96*] précédent, le juge d'instruction ou
+l'officier de police judiciaire par lui commis a seul le droit d'en prendre connaissance avant de procéder à la saisie.
 
 Tous les objets et documents placés sous main de justice sont immédiatement inventoriés et placés sous scellés. Cependant, si
 leur inventaire sur place présente des difficultés, l'officier de police judiciaire procède comme il est dit au quatrième
@@ -6267,16 +6468,13 @@ Caisse des dépôts et consignations ou à la Banque de France.
 
 	  - Loi n°57-1426 1957-12-31
 
-	**Modifié par**:
-
-	  - Ordonnance n°58-1296 du 23 décembre 1958 - art. 1 () JORF 24 décembre 1958
-	  - ordonnance 60-121 1960-02-13 art. 13 JORF 14 février 1960
-	  - ordonnance 60-529 1960-06-04 art. 2 JORF 8 juin 1960
-	  - loi 85-1407 1985-12-30 art. 3 et art. 4 JORF 31 décembre 1985 en vigueur le 1er février 1986
-
 	**Liens**:
 
 	  - SPEC_APPLI: Loi n°85-1407 1985-12-30 art. 94
+
+	**Modifié par**:
+
+	  - Loi n°91-646 du 10 juillet 1991 - art. 2 () JORF 13 juillet 1991 en vigueur le 1er octobre 1991
 
 	**Cite**:
 
@@ -6287,7 +6485,7 @@ Caisse des dépôts et consignations ou à la Banque de France.
 
 Sous réserve des nécessités de l'information judiciaire, toute communication ou toute divulgation sans autorisation de
 l'inculpé ou de ses ayants droit ou du signataire ou du destinataire d'un document provenant d'une perquisition, à une
-personne non qualifiée par la loi pour en prendre connaissance, est punie d'une amende de 1 800 F à 30 000 F et d'un
+personne non qualifiée par la loi pour en prendre connaissance, est punie d'une amende de 1.800 F à 30.000 F et d'un
 emprisonnement de deux mois à deux ans.
 
 **Liens relatifs à cet article**
@@ -6298,8 +6496,7 @@ emprisonnement de deux mois à deux ans.
 
 	**Modifié par**:
 
-	  - ordonnance 60-529 1960-06-04 art. 2 JORF 8 juin 1960
-	  - Loi n°77-1468 du 30 décembre 1977 - art. 16 (V) JORF 31 décembre 1977 en vigueur le 1er janvier 1978
+	  - Loi n°91-646 du 10 juillet 1991 - art. 2 () JORF 13 juillet 1991 en vigueur le 1er octobre 1991
 
 
 ###### Article 99
@@ -6351,7 +6548,7 @@ prétendre à la mise à sa disposition de la procédure.
 
 	**Modifié par**:
 
-	  - loi 85-1407 1985-12-30 art. 4 et art. 94 JORF 31 décembre 1985 en vigueur le 1er février 1986
+	  - Loi n°91-646 du 10 juillet 1991 - art. 2 () JORF 13 juillet 1991 en vigueur le 1er octobre 1991
 
 	**Cite**:
 
@@ -57469,6 +57666,24 @@ Les membres du juge d'examen, constitué comme il est dit à l'article R. 4, peu
 	  - Code de procédure pénale - art. R4 (V)
 
 
+###### Article A9
+
+Dans le mois qui suit l'examen, le président réunit le jury pour l'établissement des normes de correction et pour la
+répartition des copies entre les correcteurs. L'anonymat des copies est assuré par un coin gommé.
+
+Le président fixe la date à laquelle les copies doivent parvenir corrigées au secrétariat de la commission.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Arrêté 1958-12-23
+
+	**Modifié par**:
+
+	  - Arrêté 1991-10-04 art. 1 JORF 18 octobre 1991 en vigueur le 1er octobre 1991
+
+
 ###### Article A10
 
 Le secrétaire de la commission : 
@@ -57494,6 +57709,38 @@ l'article A. 11 et fixe la note définitive ;
 	**Cite**:
 
 	  - Code de procédure pénale - art. A11 (V)
+
+
+###### Article A11
+
+Dans un délai maximum de quatre mois après la date de l'examen, le président réunit la commission aux fins d'arrêter :
+
+1° La liste par ordre de mérite des gendarmes pour lesquels la commission émet un avis favorable à l'attribution de la
+qualité d'officier de police judiciaire.
+
+Seuls peuvent être retenus les candidats qui totalisent 24 points au moins pour l'ensemble des deux épreuves.
+
+2° La liste des gendarmes éliminés ou n'ayant pas obtenu le nombre de points exigés.
+
+Ces listes mentionnent les notes attribuées aux candidats dans chacune des épreuves et le total des points obtenus.
+
+Elles sont adressées à la direction générale de la gendarmerie nationale, accompagnées des copies des candidats et du procès-
+verbal de séance, où figurent l'avis de la commission sur le nombre des candidats déclarés aptes à recevoir la qualité
+d'officier de police judiciaire et, éventuellement, toutes propositions et suggestions jugées utiles.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Arrêté 1958-12-23
+
+	**Modifié par**:
+
+	  - Arrêté 1991-10-04 art. 1 JORF 18 octobre 1991 en vigueur le 1er octobre 1991
+
+	**Cité par**:
+
+	  - Code de procédure pénale - art. A10 (M)
 
 
 ###### Article A12
@@ -57567,50 +57814,6 @@ directives donnée par circulaire.
 	**Codifié par**:
 
 	  - Arrêté 1958-12-23
-
-
-###### Article A9
-
-Dans le mois qui suit l'examen, le président réunit le jury pour l'établissement des normes de correction et pour la
-répartition des copies. Les en-têtes des copies sont préalablement détachées et celles-ci comportent, aux lieu et place du
-nom du candidat, un numéro d'ordre inscrit par le secrétariat de la commission.
-
-Le président fixe la date à laquelle les copies doivent parvenir corrigées au secrétariat de la commission.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Arrêté 1958-12-23
-
-
-###### Article A11
-
-Dans un délai maximum de trois mois après la date de l'examen, le président réunit la commission aux fins d'arrêter :
-
-1° La liste par ordre de mérite des gendarmes pour lesquels la commission émet un avis favorable à l'attribution de la
-qualité d'officier de police judiciaire.
-
-Seuls peuvent être retenus les candidats qui totalisent 24 points au moins pour l'ensemble des deux épreuves ;
-
-2° La liste des gendarmes éliminés ou n'ayant pas obtenu le nombre de points exigé.
-
-Ces listes font apparaître les numéros de désignation des candidats portés sur les copies et, en regard, la note définitive
-dans chaque épreuve et le total de points.
-
-Elles sont adressées à la direction de la gendarmerie et de la justice militaire, accompagnées des copies des candidats, et
-du procès-verbal de séance, où figurent l'avis de la commission sur le nombre des candidats déclarés aptes à recevoir la
-qualité d'officier de police judiciaire, et, éventuellement, toutes propositions et suggestions jugées utiles.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Arrêté 1958-12-23
-
-	**Cité par**:
-
-	  - Code de procédure pénale - art. A10 (M)
 
 
 ##### Paragraphe 2 : Désignation des officiers de police judiciaire de la police nationale
