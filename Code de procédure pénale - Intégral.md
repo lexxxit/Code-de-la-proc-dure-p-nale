@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 1990-03-15
+Version Consolidée au 1990-05-12
 
 # Partie législative
 
@@ -32493,6 +32493,145 @@ titre exécutoire.
 	**Cite**:
 
 	  - CODE DE PROCEDURE PENALE - art. 530 (M)
+
+
+#### Chapitre II ter : Dispositions applicables à certaines infractions au code de la route
+
+###### Article R49-9
+
+Le montant de l'amende forfaitaire minorée prévue par l'article 529-7 est fixé ainsi qu'il suit :
+
+1° 150 F pour les contraventions de la 2e classe ;
+
+2° 300 F pour les contraventions de la 3e classe ;
+
+3° 600 F pour les contraventions de la 4e classe.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-318 1959-02-23
+
+	**Créé par**:
+
+	  - Décret n°90-388 du 10 mai 1990 - art. 1 () JORF 12 mai 1990
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. 529-7 (M)
+
+
+###### Article R49-10
+
+Un avis de contravention et une carte de paiement, dont le modèle est fixé par arrêté du garde des sceaux, ministre de la
+justice, sont remis au contrevenant au moment de la constatation de l'une des infractions prévues par l'article 529-6.
+
+L'avis mentionne le montant de l'amende forfaitaire minorée, le délai accordé pour la régler, la personne ou le service
+auprès duquel le paiement doit être effectué.
+
+Il mentionne également la procédure applicable en cas de non-paiement de l'amende forfaitaire minorée, notamment le délai et
+les modalités de la requête prévue par le premier alinéa de l'article 529-2, le montant de l'amende forfaitaire dont le
+contrevenant doit s'acquitter ainsi que le montant de l'amende forfaitaire majorée qui sera due par le contrevenant en cas de
+non-paiement de l'amende forfaitaire ou à défaut de la présentation d'une requête dans les délais.
+
+Lorsque les documents mentionnés aux alinéas précédents ne peuvent être remis au contrevenant, ils sont adressés au titulaire
+du certificat d'immatriculation.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-318 1959-02-23
+
+	**Créé par**:
+
+	  - Décret n°90-388 du 10 mai 1990 - art. 1 () JORF 12 mai 1990
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. 529-6 (Ab)
+	  - Code de procédure pénale 529-2 al. 1, 529-6
+
+	**Cité par**:
+
+	  - Code de procédure pénale - art. A37-10 (V)
+	  - Code de procédure pénale - art. A37-15 (VD)
+
+
+###### Article R49-11
+
+Le paiement de l'amende forfaitaire minorée est effectué en espèces ou par chèque entre les mains de l'agent verbalisateur.
+Celui-ci délivre immédiatement au contrevenant une quittance, dont le modèle est fixé par arrêté du ministre chargé du
+budget.
+
+Si l'amende forfaitaire n'est pas acquittée dans les conditions prévues à l'alinéa ci-dessus, le paiement est effectué soit
+par l'apposition d'un timbre-amende sur la carte de paiement dûment remplie et renvoyée au service verbalisateur dans les
+délais prévus par l'article 529-8, soit par l'envoi dans ces mêmes délais au comptable du Trésor d'un chèque joint à la carte
+de paiement.
+
+Un arrêté du ministre chargé du budget fixe la liste des départements dans lesquels les amendes forfaitaires minorées peuvent
+être acquittées au moyen d'un chèque libellé à l'ordre du Trésor public.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-318 1959-02-23
+
+	**Créé par**:
+
+	  - Décret n°90-388 du 10 mai 1990 - art. 1 () JORF 12 mai 1990
+
+	**Cité par**:
+
+	  - Décret n°2014-551 du 27 mai 2014 - art. 62 (V)
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. 529-8 (M)
+
+
+###### Article R49-12
+
+Lorsque le contrevenant n'a pas réglé l'amende forfaitaire minorée, il est redevable de l'amende forfaitaire et les
+dispositions des articles R. 49, R. 49-3 à R. 49-8 lui sont applicables.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-318 1959-02-23
+
+	**Créé par**:
+
+	  - Décret n°90-388 du 10 mai 1990 - art. 1 () JORF 12 mai 1990
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. R49 (M)
+	  - Code de procédure pénale R49, R49-3 à R49-8
+
+
+###### Article R49-13
+
+Les contraventions au code de la route prévues par l'article 529-6 pour lesquelles l'amende forfaitaire minorée n'est pas
+applicable sont soumises aux dispositions des articles R. 49 à R. 49-8.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-318 1959-02-23
+
+	**Créé par**:
+
+	  - Décret n°90-388 du 10 mai 1990 - art. 1 () JORF 12 mai 1990
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. 529-6 (Ab)
+	  - Code de procédure pénale 529-6, R49 à R49-8
 
 
 #### Chapitre III : De l'instruction définitive devant le tribunal de police
