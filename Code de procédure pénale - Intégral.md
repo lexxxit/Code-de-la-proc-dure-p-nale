@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 1998-12-09
+Version Consolidée au 1998-12-29
 
 # Partie législative
 
@@ -48325,15 +48325,30 @@ service d'une autre chambre de la même cour, conformément aux dispositions de 
 	  - Décret n°60-134 1960-02-02 art. 1 JORF 17 février 1960
 
 
-#### Chapitre II : De la chambre de l'instruction : juridiction d'instruction du second degré
-
-##### Section 3 : Du contrôle de l'activité des officiers de police judiciaire
+##### Section 3 : De la notation et du contrôle de l'activité judiciaire des officiers de police judiciaire [ Dispositions prises pour l'application des articles 13, 16, 19-1, 224 à 230 et R. 14 à R. 15-6 du code de procédure pénale ]
 
 ###### Article D44
 
-Conformément aux dispositions de l'article 226, alinéa 2, il est tenu en permanence au parquet général de chaque cour d'appel
-un dossier individuel concernant l'activité, en tant qu'officier de police judiciaire et pour l'ensemble du ressort, de
-chacun des fonctionnaires civils et militaires ayant cette qualité.
+Il est tenu en permanence au parquet général de chaque cour d'appel un dossier individuel concernant l'activité, en tant
+qu'officier de police judiciaire et pour l'ensemble du ressort, de chacun des fonctionnaires et militaires habilités à
+exercer les attributions attachées à la qualité d'officier de police judiciaire.
+
+Ce dossier comprend notamment :
+
+1° Les demandes d'habilitation et les documents qui y sont joints ;
+
+2° La copie des décisions prononcées par l'autorité judiciaire en application des dispositions des articles 16-1, 16-3, 224 à
+229, R. 15-2 et R. 15-5, et notamment la copie des arrêtés d'habilitation ;
+
+3° L'avis des promotions dont l'intéressé a pu faire l'objet depuis sa dernière habilitation ;
+
+4° La copie de tout document émanant d'un magistrat ou d'un service exerçant des attributions d'inspection et relatif à
+l'exercice des activités judiciaires de l'intéressé ;
+
+5° Les notations annuelles établies en application des dispositions ci-après.
+
+Le dossier est communiqué à la chambre d'accusation lorsque celle-ci se trouve saisie dans les conditions fixées à l'article
+225.
 
 **Liens relatifs à cet article**
 
@@ -48351,40 +48366,39 @@ chacun des fonctionnaires civils et militaires ayant cette qualité.
 	  - TXT_SOURCE: CODE DE PROCEDURE PENALE - art. 228 (M)
 	  - TXT_SOURCE: CODE DE PROCEDURE PENALE - art. 229 (M)
 	  - TXT_SOURCE: CODE DE PROCEDURE PENALE - art. 230 (M)
+
+	**Modifié par**:
+
+	  - Décret n°98-1203 du 28 décembre 1998 - art. 1 () JORF 29 décembre 1998
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. 13 (M)
+	  - CODE DE PROCEDURE PENALE - art. 16 (M)
+	  - CODE DE PROCEDURE PENALE - art. 16-1 (V)
+	  - CODE DE PROCEDURE PENALE - art. 16-3 (V)
+	  - CODE DE PROCEDURE PENALE - art. 19-1 (V)
+	  - CODE DE PROCEDURE PENALE - art. 225 (M)
+	  - CODE DE PROCEDURE PENALE - art. R15-2 (V)
+	  - CODE DE PROCEDURE PENALE - art. R15-5 (V)
+	  - Code de procédure pénale 13, 16, 19-1, 224 à 230, 16-1, 16-3, 224 à 229, R15-2, R15-5, 225
 
 	**Cité par**:
 
 	  - CODE DE PROCEDURE PENALE - art. D45 (M)
 	  - CODE DE PROCEDURE PENALE - art. D47 (M)
 
-	**Cite**:
-
-	  - Code de procédure pénale 226 al. 2
-
 
 ###### Article D45
 
-Après avoir recueilli les appréciations des juges d'instruction et, le cas échéant, des juges des enfants et du juge de
-l'application des peines de son tribunal, le procureur de la République établit en triple exemplaire et transmet au procureur
-général près la cour d'appel entre le 15 et le 31 janvier de chaque année, pour chacun des fonctionnaires visés à l'article
-D. 44, une notice individuelle de renseignements qui doit notamment comporter une note chiffrée de 0 à 5 et une appréciation
-sur chacun des éléments suivants :
+Pour les officiers de police judiciaire appartenant à un service ou à une unité dont le ressort n'excède pas celui d'un
+tribunal de grande instance, le procureur de la République, après avoir recueilli les observations du ou des juges
+d'instruction et, le cas échéant, des juges des enfants et de l'application des peines et celles du ou des présidents des
+chambres correctionnelles, établit une proposition de notation qu'il transmet chaque année au procureur général près la cour
+d'appel.
 
-1° Rédaction des rapports et procès-verbaux ;
-
-2° Valeur des informations données au parquet ;
-
-3° Habileté professionnelle ;
-
-4° Degré de confiance accordé ;
-
-5° Note générale.
-
-A la fin de la notice figure, en outre, une appréciation générale circonstanciée, signée du procureur de la République.
-
-Il est procédé, par les soins du procureur général, à l'établissement d'une notice individuelle analogue pour chacun des
-officiers de police judiciaire de la gendarmerie qui sont affectés à un groupement ou à une unité d'échelon supérieur, ainsi
-que pour chacun des fonctionnaires officiers de police judiciaire affectés au service régional de police judiciaire.
+La notation est établie par le procureur général, après consultation, le cas échéant, des présidents de la chambre
+d'accusation et des cours d'assises du ressort.
 
 **Liens relatifs à cet article**
 
@@ -48403,19 +48417,68 @@ que pour chacun des fonctionnaires officiers de police judiciaire affectés au s
 	  - TXT_SOURCE: CODE DE PROCEDURE PENALE - art. 229 (M)
 	  - TXT_SOURCE: CODE DE PROCEDURE PENALE - art. 230 (M)
 
-	**Cite**:
+	**Modifié par**:
 
-	  - CODE DE PROCEDURE PENALE - art. D44 (M)
+	  - Décret n°98-1203 du 28 décembre 1998 - art. 1 () JORF 29 décembre 1998
 
 	**Cité par**:
 
 	  - Code de procédure pénale - art. D46 (V)
 
 
+###### Article D45-1
+
+A l'égard des officiers de police judiciaire qui sont affectés à un service ou à une unité dont le ressort excède celui d'un
+tribunal de grande instance, le procureur de la République du tribunal dans le ressort duquel le service ou l'unité a son
+siège, après avoir recueilli les observations du ou des juges d'instruction et, le cas échéant, des juges des enfants et de
+l'application des peines et celles du ou des présidents des chambres correctionnelles, établit une proposition de notation
+qu'il transmet chaque année au procureur général près la cour d'appel.
+
+Celui-ci établit la notation après avoir, le cas échéant, recueilli les observations des autres procureurs de la République
+concernés de son ressort, des présidents de la chambre d'accusation et des cours d'assises. Lorsque le service ou l'unité
+dans lequel l'officier de police judiciaire est affecté excède le ressort de la cour d'appel, le procureur général peut
+également recueillir l'avis des autres procureurs généraux concernés.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°58-1304 1958-12-23
+
+	**Créé par**:
+
+	  - Décret n°98-1203 du 28 décembre 1998 - art. 2 () JORF 29 décembre 1998
+
+	**Cité par**:
+
+	  - CODE DE PROCEDURE PENALE - art. D46 (V)
+
+
+#### Chapitre II : De la chambre de l'instruction : juridiction d'instruction du second degré
+
+##### Section 3 : De la notation et du contrôle de l'activité judiciaire des officiers de police judiciaire [ Dispositions prises pour l'application des articles 13, 16, 19-1, 224 à 230 et R. 14 à R. 15-6 du code de procédure pénale ]
+
 ###### Article D46
 
-Les notices individuelles de renseignements prévues à l'article D. 45 sont établies conformément au modèle fixé par le garde
-des sceaux, ministre de la justice.
+Les propositions de notation et les notations prévues aux articles D. 45 et D. 45-1 sont établies sur un imprimé conforme au
+modèle fixé par le ministre de la justice.
+
+Elles doivent comporter une note chiffrée de 0 à 5 et une appréciation sur chacun des éléments suivants :
+
+1. Qualité de procédure et rédaction des rapports et des procès-verbaux ;
+
+2. Valeur des informations données au parquet ;
+
+3. Habileté professionnelle ;
+
+4. Degré de confiance accordé ;
+
+5. Note générale.
+
+Elles doivent également comporter une appréciation générale circonstanciée.
+
+Si l'activité de l'officier de police judiciaire est demeurée inconnue de l'autorité judiciaire, l'imprimé visé au premier
+alinéa porte pour seule mention les mots : "activité judiciaire non observée".
 
 **Liens relatifs à cet article**
 
@@ -48426,19 +48489,29 @@ des sceaux, ministre de la justice.
 	**Liens**:
 
 	  - SPEC_APPLI: Décret n°58-1304 1958-12-23 art. 6
+	  - TXT_SOURCE: CODE DE PROCEDURE PENALE - art. 224 (M)
+	  - TXT_SOURCE: CODE DE PROCEDURE PENALE - art. 225 (M)
+	  - TXT_SOURCE: CODE DE PROCEDURE PENALE - art. 226 (M)
+	  - TXT_SOURCE: CODE DE PROCEDURE PENALE - art. 227 (M)
+	  - TXT_SOURCE: CODE DE PROCEDURE PENALE - art. 228 (M)
+	  - TXT_SOURCE: CODE DE PROCEDURE PENALE - art. 229 (M)
+	  - TXT_SOURCE: CODE DE PROCEDURE PENALE - art. 230 (M)
+
+	**Modifié par**:
+
+	  - Décret n°98-1203 du 28 décembre 1998 - art. 1 () JORF 29 décembre 1998
 
 	**Cite**:
 
 	  - CODE DE PROCEDURE PENALE - art. D45 (M)
+	  - CODE DE PROCEDURE PENALE - art. D45-1 (M)
 
 
 ###### Article D47
 
-Chaque notice, complétée, le cas échéant, par des renseignements supplémentaires demandés par le procureur général au
-procureur de la République est versée au dossier de l'intéressé, établi conformément à l'article D. 44. 
-
-Ce dossier est obligatoirement communiqué à la chambre de l'instruction lorsque celle-ci se trouve saisie dans les conditions
-fixées à l'article 225.
+La notation établie par le procureur général est portée directement à la connaissance de l'officier de police judiciaire qui
+peut présenter des observations par écrit dans un délai de quinze jours, délai à l'issue duquel la notation définitive est
+communiquée à l'autorité administrative ou militaire chargée d'établir les propositions d'avancement de l'intéressé.
 
 **Liens relatifs à cet article**
 
@@ -48448,12 +48521,7 @@ fixées à l'article 225.
 
 	**Modifié par**:
 
-	  - Décret n°60-898 1960-08-24 art. 1 JORF 25 août 1960
-
-	**Cite**:
-
-	  - CODE DE PROCEDURE PENALE - art. 225 (M)
-	  - CODE DE PROCEDURE PENALE - art. D44 (M)
+	  - Décret n°98-1203 du 28 décembre 1998 - art. 1 () JORF 29 décembre 1998
 
 
 ## Livre IV : De quelques procédures particulières
