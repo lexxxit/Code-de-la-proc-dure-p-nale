@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 1980-12-24
+Version Consolidée au 1981-01-23
 
 # Partie législative
 
@@ -30960,6 +30960,39 @@ de la contrainte judiciaire, destinées au casier judiciaire.
 	**Cite**:
 
 	  - CODE DE PROCEDURE PENALE - art. R69 (M)
+
+
+###### Article D288
+
+Au moment de la levée d'écrou, il est obligatoirement délivré à chaque libéré un billet de sortie.
+
+Cette pièce contient, outre les indications relatives à l'état civil de l'intéressé, la mention de son numéro
+d'immatriculation à la sécurité sociale et les mentions visées à l'article D480.
+
+L'attention du détenu doit être appelée sur l'importance qui s'attache pour lui à ne pas perdre ni détériorer le billet de
+sortie qui justifie la régularité de sa libération.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-322 1959-02-23
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. D480 (M)
+
+	**Cité par**:
+
+	  - Code de procédure pénale - art. D479 (V)
+
+	**Liens**:
+
+	  - TXT_SOURCE: Code de procédure pénale 714 à 728
+
+	**Modifié par**:
+
+	  - Décret n°81-40 1981-01-16 art. 1 JORF 23 janvier 1981
 
 
 ###### Article D289
