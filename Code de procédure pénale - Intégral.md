@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 1972-12-30
+Version Consolidée au 1973-01-01
 
 # Partie législative
 
@@ -2398,6 +2398,37 @@ portées aux articles 119 et 120 du code pénal.
 	  - Code de procédure pénale - art. 133 (V)
 
 
+###### Article 127
+
+Si l'inculpé recherché en vertu d'un mandat d'amener est trouvé à plus de 200 km du siège du juge d'instruction qui a délivré
+le mandat, il est conduit dans les vingt-quatre heures, soit, avec son accord, devant le juge d'instruction qui a délivré ce
+mandat, soit devant le procureur de la République du lieu de l'arrestation.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°57-1426 1957-12-31
+
+	**Modifié par**:
+
+	  - Loi n°72-1226 1972-12-29 art. 27 JORF 30 décembre 1972 en vigueur le 1er janvier 1973
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°72-1226 1972-12-29 art. 66 et s.
+
+	**Cité par**:
+
+	  - Loi n°83-520 du 27 juin 1983 - art. 15 (V)
+	  - CODE DE PROCEDURE PENALE - art. D49-35-2 (V)
+	  - CODE DE PROCEDURE PENALE - art. D541 (Ab)
+	  - Code de procédure pénale - art. 130-1 (V)
+	  - Code de procédure pénale - art. 133-1 (VD)
+	  - Code de procédure pénale - art. 820 (V)
+	  - Code de procédure pénale - art. D49-35-1 (V)
+
+
 ###### Article 129
 
 Le juge d'instruction saisi de l'affaire décide, aussitôt après la réception de ces pièces, s'il y a lieu d'ordonner le
@@ -2462,6 +2493,37 @@ Le surveillant-chef délivre à l'agent chargé de l'exécution une reconnaissan
 	**Cite**:
 
 	  - Code de procédure pénale 133 al. 2
+
+
+###### Article 134
+
+L'agent chargé de l'exécution d'un mandat d'amener ou d'arrêt ne peut s'introduire dans le domicile d'un citoyen avant 6
+heures ni après 21 heures.
+
+Il peut se faire accompagner d'une force suffisante pour que l'inculpé ne puisse se soustraire à la loi. La force est prise
+dans le lieu le plus proche de celui où le mandat doit s'exécuter et elle est tenue de déférer aux réquisitions contenues
+dans ce mandat.
+
+Si l'inculpé ne peut être saisi, un procès-verbal de perquisition et de recherches infructueuses est adressé au magistrat qui
+a délivré le mandat.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°57-1426 1957-12-31
+
+	**Modifié par**:
+
+	  - Loi n°72-1226 1972-12-29 art. 30 JORF 30 décembre 1972 en vigueur le 1er janvier 1973
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°72-1226 1972-12-29 art. 66
+
+	**Cité par**:
+
+	  - Code de procédure pénale - art. 70 (V)
 
 
 ###### Article 136
@@ -2643,6 +2705,45 @@ qui ordonne l'expertise.
 	  - SPEC_APPLI: Loi n°57-1426 1957-12-31 art. 18
 
 
+###### Article 160
+
+Lors de leur inscription sur l'une des listes prévues à l'article 157, les experts prêtent, devant la cour d'appel du ressort
+de leur domicile, serment d'apporter leur concours à la justice en leur honneur et en leur conscience. Ces experts n'ont pas
+à renouveler leur serment chaque fois qu'ils sont commis.
+
+Les experts ne figurant sur aucune de ces listes prêtent, chaque fois qu'ils sont commis, le serment prévu à l'alinéa
+précédent devant le juge d'instruction ou le magistrat désigné par la juridiction. Le procès-verbal de prestation de serment
+est signé par le magistrat compétent, l'expert et le greffier. En cas d'empêchement dont les motifs doivent être précisés, le
+serment peut être reçu par écrit et la lettre de serment est annexée au dossier de la procédure.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°57-1426 1957-12-31
+
+	**Modifié par**:
+
+	  - Ordonnance n°58-1296 du 23 décembre 1958 - art. 1 () JORF 24 décembre 1958
+	  - Loi n°72-1226 1972-12-29 art. 11 JORF 30 décembre 1972 en vigueur le 1er janvier 1973
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°72-1226 1972-12-29 art. 66
+
+	**Cité par**:
+
+	  - Ordonnance n°2006-639 du 1 juin 2006 - art. 11 (V)
+	  - Ordonnance n°2006-639 du 1 juin 2006 - art. 7 (V)
+	  - Ordonnance n°2006-639 du 1 juin 2006 - art. 9 (V)
+	  - CODE DE PROCEDURE PENALE - art. 162 (V)
+	  - Code de procédure pénale - art. 230-1 (V)
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. 157 (M)
+
+
 ###### Article 161
 
 Toute décision commettant des experts doit leur impartir un délai pour remplir leur mission.
@@ -2759,6 +2860,37 @@ renseignements d'ordre technique.
 	  - SPEC_APPLI: Loi n°57-1426 1957-12-31 art. 18
 
 
+###### Article 168
+
+Les experts exposent à l'audience, s'il y a lieu, le résultat des opérations techniques auxquelles ils ont procédé, après
+avoir prêté serment d'apporter leur concours à la justice en leur honneur et en leur conscience. Au cours de leur audition,
+ils peuvent consulter leur rapport et ses annexes.
+
+Le président peut soit d'office, soit à la demande du ministère public, des parties ou de leurs conseils, leur poser toutes
+questions rentrant dans le cadre de la mission qui leur a été confiée.
+
+Après leur exposé, les experts assistent aux débats, à moins que le président ne les autorise à se retirer.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°57-1426 1957-12-30
+
+	**Modifié par**:
+
+	  - Loi n°72-1226 1972-12-29 art. 12 JORF 30 décembre 1972 en vigueur le 1er janvier 1973
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°72-1226 1972-12-29 art. 66
+
+	**Cité par**:
+
+	  - CODE DE PROCEDURE PENALE - art. 434 (V)
+	  - CODE DE PROCEDURE PENALE - art. 706-122 (V)
+
+
 ###### Article 169
 
 Si, à l'audience d'une juridiction de jugement, une personne entendue comme témoin ou à titre de renseignement contredit les
@@ -2780,6 +2912,32 @@ ultérieure. Dans ce dernier cas, cette juridiction peut prescrire quant à l'ex
 	**Cité par**:
 
 	  - CODE DE PROCEDURE PENALE - art. 434 (V)
+
+
+###### Article 169-1
+
+Les dispositions des articles 168 et 169 sont applicables aux personnes appelées soit à procéder à des constatations, soit à
+apprécier la nature des circonstances d'un décès, conformément aux articles 60 et 74.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°57-1426 1957-12-31
+
+	**Créé par**:
+
+	  - Loi n°72-1226 1972-12-29 art. 13 JORF 30 décembre 1972 en vigueur le 1er janvier 1973
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°72-1226 1972-12-29 art. 66
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. 60 (M)
+	  - CODE DE PROCEDURE PENALE - art. 74 (M)
+	  - Code de procédure pénale 60, 74, 168 et 169
 
 
 ##### Section 10 : Des nullités de l'information
@@ -4837,6 +4995,43 @@ Le jury est composé de citoyens désignés conformément aux dispositions des a
 	  - Code de procédure pénale - art. 877 (M)
 
 
+##### Paragraphe 1er : Des conditions d'aptitude aux fonctions de juré
+
+###### Article 255
+
+Peuvent seuls remplir les fonctions de juré, les citoyens de l'un ou de l'autre sexe, âgés de plus de vingt-trois ans,
+sachant lire et écrire en français, jouissant des droits politiques, civils et de famille, et ne se trouvant dans aucun cas
+d'incapacité ou d'incompatibilité énumérés par les deux articles suivants.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 58-1296 1958-12-23
+
+	**Modifié par**:
+
+	  - Loi n°72-1226 1972-12-29 art. 3 JORF 30 décembre 1972 en vigueur le 1er janvier 1973
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°72-1226 1972-12-29 art. 66
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. 256 (M)
+	  - CODE DE PROCEDURE PENALE - art. 257 (M)
+
+	**Cité par**:
+
+	  - Code de procédure pénale - art. 10-3 (V)
+	  - Code de procédure pénale - art. 261-1 (V)
+	  - Code de procédure pénale - art. 263 (V)
+	  - Code de procédure pénale - art. 266 (V)
+	  - Code de procédure pénale - art. 289 (V)
+	  - Code de procédure pénale - art. 885 (VD)
+
+
 ##### Paragraphe 2 : De la formation du jury
 
 ###### Article 259
@@ -5462,6 +5657,36 @@ sur des sièges séparés du public, des parties et des témoins, en face de cel
 	  - Ordonnance 58-1296 1958-12-23
 
 
+###### Article 304
+
+Le président adresse aux jurés, debout et découverts, le discours suivant : "Vous jurez et promettez d'examiner avec
+l'attention la plus scrupuleuse les charges qui seront portées contre X..., de ne trahir ni les intérêts de l'accusé, ni ceux
+de la société qui l'accuse ; de ne communiquer avec personne jusqu'après votre déclaration ; de n'écouter ni la haine ou la
+méchanceté, ni la crainte ou l'affection ; de vous décider d'après les charges et les moyens de défense, suivant votre
+conscience et votre intime conviction, avec l'impartialité et la fermeté qui conviennent à un homme probe et libre, et de
+conserver le secret des délibérations, même après la cessation de vos fonctions".
+
+Chacun des jurés, appelé individuellement par le président, répond en levant la main : "Je le jure".
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 58-1296 1958-12-23
+
+	**Modifié par**:
+
+	  - Loi n°72-1226 1972-12-29 art. 5 JORF 30 décembre 1972 en vigueur le 1er janvier 1973
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°72-1226 1972-12-29 art. 66
+
+	**Cité par**:
+
+	  - Code de procédure pénale - art. 886 (VT)
+
+
 ###### Article 305
 
 Le président déclare le jury définitivement constitué.
@@ -5531,6 +5756,41 @@ dans les résultats.
 	  - SPEC_APPLI: Ordonnance 1958-12-23 art. 10
 
 
+###### Article 310
+
+Le président est investi d'un pouvoir discrétionnaire en vertu duquel il peut, en son honneur et en sa conscience, prendre
+toutes mesures qu'il croit utiles pour découvrir la vérité. Il peut, s'il l'estime opportun, saisir la cour qui statue dans
+les conditions prévues à l'article 316. 
+
+Il peut au cours des débats appeler, au besoin par mandat d'amener, et entendre toutes personnes ou se faire apporter toutes
+nouvelles pièces qui lui paraissent, d'après les développements donnés à l'audience, utiles à la manifestation de la vérité. 
+
+Les témoins ainsi appelés ne prêtent pas serment et leurs déclarations ne sont considérées que comme renseignements.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 58-1296 1958-12-23
+
+	**Modifié par**:
+
+	  - Loi n°72-1226 1972-12-29 art. 6-I, 6-II JORF 30 décembre 1972 en vigueur le 1er janvier 1973
+
+	**Cité par**:
+
+	  - CODE DE PROCEDURE PENALE - art. 706-16 (M)
+	  - Code de procédure pénale - art. R124 (V)
+
+	**Cite**:
+
+	  - Code de procédure pénale - art. 316 (V)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°72-1226 1972-12-26 art. 66
+
+
 ###### Article 311
 
 Les assesseurs et les jurés peuvent poser des questions aux accusés et aux témoins en demandant la parole au président.
@@ -5552,6 +5812,37 @@ Ils ont le devoir de ne pas manifester leur opinion.
 	**Codifié par**:
 
 	  - Ordonnance 58-1296 1958-12-23
+
+
+###### Article 312
+
+Sous réserve des dispositions de l'article 309, le ministère public, l'accusé, la partie civile, les conseils de l'accusé et
+de la partie civile peuvent poser des questions, par l'intermédiaire du président, aux accusés, aux témoins et à toutes
+personnes appelées à la barre.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 58-1296 1958-12-23
+
+	**Modifié par**:
+
+	  - Loi n°72-1226 1972-12-29 art. 7 JORF 30 décembre 1972 en vigueur le 1er janvier 1973
+
+	**Cité par**:
+
+	  - CODE DE PROCEDURE PENALE - art. 168 (V)
+	  - CODE DE PROCEDURE PENALE - art. 706-16 (M)
+	  - Code de procédure pénale - art. 332 (V)
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. 309 (M)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°72-1226 1972-12-26 art. 66
 
 
 ###### Article 313
@@ -6240,6 +6531,41 @@ de l'affaire à la prochaine session.
 	  - Ordonnance 58-1296 1958-12-23
 
 
+###### Article 344
+
+Dans le cas où l'accusé, les témoins ou l'un d'eux ne parlent pas suffisamment la langue française ou s'il est nécessaire de
+traduire un document versé aux débats, le président nomme d'office un interprète âgé de vingt et un ans au moins, et lui fait
+prêter serment d'apporter son concours à la justice en son honneur et en sa conscience.
+
+Le ministère public, l'accusé et la partie civile, peuvent récuser l'interprète en motivant leur récusation. La cour se
+prononce sur cette récusation. Sa décision n'est susceptible d'aucune voie de recours.
+
+L'interprète ne peut, même du consentement de l'accusé ou du ministère public, être pris parmi les juges composant la cour,
+les jurés, le greffier qui tient l'audience, les parties et les témoins.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 58-1296 1958-12-23
+
+	**Modifié par**:
+
+	  - Loi n°72-1226 1972-12-29 art. 15 JORF 30 décembre 1972 en vigueur le 1er janvier 1973
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°72-1226 1972-12-29 art. 66
+
+	**Cité par**:
+
+	  - CODE DE PROCEDURE PENALE - art. 345 (MMN)
+	  - CODE DE PROCEDURE PENALE - art. R241 (M)
+	  - Code de justice militaire - art. 231 (Ab)
+	  - Code de procédure pénale - art. 887 (VT)
+	  - Code de procédure pénale - art. D594 (V)
+
+
 ###### Article 345
 
 Si l'accusé est sourd-muet et ne sait pas écrire, le président nomme d'office en qualité d'interprète la personne qui a le
@@ -6517,6 +6843,30 @@ les fois que la culpabilité de l'accusé a été reconnue.
 	**Codifié par**:
 
 	  - Ordonnance 58-1296 1958-12-23
+
+
+###### Article 357
+
+Chacun des magistrats et des jurés reçoit, à cet effet, un bulletin ouvert, marqué du timbre de la cour d'assises et portant
+ces mots : "Sur mon honneur et en ma conscience, ma déclaration est ...".
+
+Il écrit à la suite ou fait écrire secrètement le mot "oui" ou le mot "non" sur une table disposée de manière que personne ne
+puisse voir le vote inscrit sur le bulletin. Il remet le bulletin écrit et fermé au président, qui le dépose dans une urne
+destinée à cet usage.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 58-1296 1958-12-23
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°72-1226 1972-12-29 art. 66
+
+	**Modifié par**:
+
+	  - Loi n°72-1226 1972-12-29 art. 8 JORF 30 décembre 1972 en vigueur le 1er janvier 1973
 
 
 ###### Article 358
@@ -7154,6 +7504,92 @@ domicile dans le ressort du tribunal saisi, à moins qu'elle n'y soit domicilié
 	  - Ordonnance 58-1296 1958-12-23
 
 
+##### Section 2 : De la composition du tribunal et de la tenue des audiences
+
+###### Article 398-1
+
+Peuvent être jugés dans les conditions prévues à l'alinéa 3 de l'article 398 :
+
+1° Les délits en matière de chèques;
+
+2° Les délits prévus par le Code de la route, par la loi n. 58-208 du 27 février 1958 instituant une obligation d'assurance
+en matière de circulation de véhicules terrestres à moteur (1), par l'article 319 du Code pénal, lorsque l'homicide a été
+causé à l'occasion de la conduite d'un véhicule, et par l'article 320 du même code ;
+
+3° Les délits en matière de coordination des transports ;
+
+4° Les délits prévus par le Code rural en matière de chasse et de pêche.
+
+Toutefois, le tribunal, sauf s'il est saisi selon la procédure fixée par les articles 393 à 397, statue obligatoirement dans
+les conditions prévues à l'article 398 (alinéa 1er) lorsque le prévenu est en état de détention provisoire lors de sa
+comparution à l'audience.
+
+**Nota:**
+
+NOTA (1) : Sur ce point voir les articles L. 211-1 et suivants du code des assurances.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°58-208 1958-02-27
+	  - Code pénal 319, 320
+	  - Code de procédure pénale 393 à 398
+
+	**Codifié par**:
+
+	  - Ordonnance 58-1296 1958-12-23
+
+	**Créé par**:
+
+	  - Loi n°72-1226 1972-12-29 art. 2 JORF 30 décembre 1972 en vigueur le 1er janvier 1973
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°72-1226 1972-12-29 art. 66
+
+	**Cité par**:
+
+	  - Décret n°2014-945 du 21 août 2014 - art. 1 (VT)
+	  - CODE DE PROCEDURE PENALE - art. 925 (V)
+	  - Code de justice militaire - art. 6 (Ab)
+	  - Code de justice militaire. - art. L111-3 (VT)
+	  - Code de procédure pénale - art. 398 (VD)
+	  - Code de procédure pénale - art. 398-2 (V)
+	  - Code de procédure pénale - art. 464 (V)
+	  - Code de procédure pénale - art. 469 (VT)
+	  - Code de procédure pénale - art. 837 (VT)
+
+
+###### Article 398-2
+
+Les fonctions du ministère public près le tribunal correctionnel sont exercées par le procureur de la République ou l'un de
+ses substituts ; celles du greffe par un greffier du tribunal de grande instance.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 58-1296 1958-12-23
+
+	**Créé par**:
+
+	  - Loi n°72-1226 1972-12-29 art. 2 JORF 30 décembre 1972 en vigueur le 1er janvier 1973
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°72-1226 1972-12-29 art. 66
+
+	**Cité par**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L881-4 (Ab)
+	  - CODE DE PROCEDURE PENALE - art. 925 (V)
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L881-4 (Ab)
+
+
 ##### Section 3 : De la publicité et de la police de l'audience
 
 ###### Article 400
@@ -7332,6 +7768,42 @@ interprètes.
 
 	  - CODE DE PROCEDURE PENALE - art. 436 (V)
 	  - Code de procédure pénale - art. 535 (VT)
+
+
+###### Article 407
+
+Dans le cas où le prévenu ou le témoin ne parle pas suffisamment la langue française, ou s'il est nécessaire de traduire un
+document versé aux débats, le président désigne d'office un interprète, âgé de vingt et un ans au moins, et lui fait prêter
+serment d'apporter son concours à la justice en son honneur et en sa conscience.
+
+Le ministère public, le prévenu et la partie civile peuvent récuser l'interprète en motivant leur récusation. Le tribunal se
+prononce sur cette récusation, et sa décision n'est susceptible d'aucune voie de recours.
+
+L'interprète ne peut, même du consentement du prévenu ou du ministère public, être pris parmi les juges composant le
+tribunal, le greffier qui tient l'audience, les parties et les témoins.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 58-1296 1958-12-23
+
+	**Modifié par**:
+
+	  - Loi n°72-1226 1972-12-29 art. 4 JORF 30 décembre 1972 en vigueur le 1er janvier 1973
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°72-1226 1972-12-29 art. 66
+
+	**Cité par**:
+
+	  - Loi n°83-520 du 27 juin 1983 - art. 32 (V)
+	  - CODE DE PROCEDURE PENALE - art. 408 (V)
+	  - CODE DE PROCEDURE PENALE - art. 443 (V)
+	  - CODE DE PROCEDURE PENALE - art. R241 (M)
+	  - Code de procédure pénale - art. 839 (V)
+	  - Code de procédure pénale - art. D594 (V)
 
 
 ###### Article 408
@@ -10576,6 +11048,56 @@ que s'il avait été délivré à personne.
 	  - Code de procédure pénale - art. R181 (V)
 
 
+###### Article 558
+
+Si l'huissier ne trouve personne au domicile de celui que l'exploit concerne, il vérifie immédiatement l'exactitude de ce
+domicile.
+
+Lorsque le domicile indiqué est bien celui de l'intéressé, l'huissier mentionne dans l'exploit ses diligences et
+constatations, puis il remet une copie de cet exploit à la mairie, au maire ou, à défaut, à un adjoint ou à un conseiller
+municipal délégué, ou au secrétaire de mairie.
+
+Il informe sans délai de cette remise l'intéressé, par lettre recommandée avec avis de réception, en lui faisant connaître
+qu'il doit retirer immédiatement la copie de l'exploit signifié à la mairie indiquée. Si l'exploit est une signification de
+jugement rendu par itératif défaut, la lettre recommandée mentionne la nature de l'acte signifié et le délai d'appel.
+
+Lorsqu'il résulte de l'avis de réception, signé par l'intéressé, que celui-ci a reçu la lettre recommandée de l'huissier,
+l'exploit remis à la mairie produit les mêmes effets que s'il avait été délivré à personne.
+
+Si l'exploit est une citation à comparaître, il ne pourra produire les effets visés à l'alinéa précédent que si le délai
+entre le jour où l'avis de réception est signé par l'intéressé et le jour indiqué pour la comparution devant le tribunal
+correctionnel ou de police est au moins égal à celui fixé, compte tenu de l'éloignement du domicile de l'intéressé, par
+l'article 552.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 58-1296 1958-12-23
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°72-1226 1972-12-29 art. 66
+
+	**Modifié par**:
+
+	  - loi 72-1226 1972-12-29 art. 35 JORF 30 décembre 1972 en vigueur le 1er janvier 1973
+
+	**Cité par**:
+
+	  - Loi n°2008-644 du 1er juillet 2008 - art. 14 (V)
+	  - CODE DE PROCEDURE PENALE - art. 410 (M)
+	  - CODE DE PROCEDURE PENALE - art. 498-1 (M)
+	  - CODE DE PROCEDURE PENALE - art. 560 (V)
+	  - CODE DE PROCEDURE PENALE - art. 561 (V)
+	  - CODE DE PROCEDURE PENALE - art. D46-4 (V)
+	  - CODE DE PROCEDURE PENALE - art. R181 (M)
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. 552 (M)
+
+
 ###### Article 559
 
 Si la personne visée par l'exploit est sans domicile ou résidence connus, l'huissier remet une copie de l'exploit au parquet
@@ -11309,6 +11831,32 @@ jugement, lorsqu'ils sont revêtus des formes prescrites par la loi, ne peuvent 
 	**Codifié par**:
 
 	  - Ordonnance 58-1296 1958-12-23
+
+
+###### Article 592
+
+Ces décisions sont déclarées nulles lorsqu'elles ne sont pas rendues par le nombre de juges prescrit ou qu'elles ont été
+rendues par des juges qui n'ont pas assisté à toutes les audiences de la cause. Lorsque plusieurs audiences ont été
+consacrées à la même affaire, les juges qui ont concouru à la décision sont présumés avoir assisté à toutes ces audiences.
+
+Ces décisions sont également déclarées nulles lorsqu'elles ont été rendues sans que le ministère public ait été entendu.
+
+Sont, en outre, déclarées nulles les décisions qui, sous réserve des exceptions prévues par la loi, n'ont pas été rendues ou
+dont les débats n'ont pas eu lieu en audience publique.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 58-1296 1958-12-23
+
+	**Modifié par**:
+
+	  - Loi n°72-1226 1972-12-29 art. 33 JORF 30 décembre 1972 en vigueur le 1er janvier 1973
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°72-1226 1972-12-29 art. 66
 
 
 ###### Article 593
@@ -13597,6 +14145,43 @@ par le percepteur.
 	  - CODE DE PROCEDURE PENALE - art. 707-1 (V)
 
 
+###### Article 709-1
+
+Dans chaque tribunal de grande instance, un ou plusieurs magistrats du siège sont chargés des fonctions de juge de
+l'application des peines.
+
+Ces magistrats sont désignés, pour une durée de trois années renouvelables, par décret pris après avis du Conseil supérieur
+de la magistrature. Il peut être mis fin à leurs fonctions dans les mêmes formes.
+
+Si un juge de l'application des peines est temporairement empêché d'exercer ses fonctions, le tribunal de grande instance
+désigne un autre magistrat pour le remplacer.
+
+Des comités de probation et d'assistance aux libérés sont institués auprès des tribunaux dont la liste est établie par
+décret.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 58-1296 1958-12-23
+
+	**Créé par**:
+
+	  - loi 72-1226 1972-12-29 art. 36 JORF 30 décembre 1972 en vigueur le 1er janvier 1973
+
+	**Liens**:
+
+	  - SPEC_APPLI: loi 72-1226 1972-12-29 art. 66
+
+	**Cité par**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L924-12-3 (Ab)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R*761-24 (Ab)
+	  - CODE DE PROCEDURE PENALE - art. 868-1 (M)
+	  - CODE DE PROCEDURE PENALE - art. 901-1 (M)
+	  - CODE DE PROCEDURE PENALE - art. 934 (M)
+
+
 ###### Article 710
 
 Tous incidents contentieux relatifs à l'exécution sont portés devant le tribunal ou la cour qui a prononcé la sentence ;
@@ -13928,6 +14513,41 @@ encombrement temporaire ou des nécessités d'organisation du travail.
 	  - CODE DE PROCEDURE PENALE - art. 720-1-A (T)
 
 
+###### Article 723-2
+
+Lorsqu'il a été fait application des dispositions de l'article précédent, si les conditions qui ont permis au tribunal de
+décider que la peine serait subie sous le régime de la semi-liberté ne sont plus remplies, si le condamné ne satisfait pas
+aux obligations qui lui sont imposées ou s'il fait preuve de mauvaise conduite, le bénéfice de la semi-liberté peut être
+retiré, sur rapport du juge de l'application des peines, par le tribunal de grande instance. Ce tribunal est celui du lieu
+d'exécution de la décision, ou, si le condamné est écroué, du lieu de détention.
+
+Le juge de l'application des peines peut, si l'urgence l'exige, suspendre l'application de la semi-liberté.
+
+Dans ce cas, le tribunal doit statuer dans les cinq jours sur le maintien ou le retrait de ce régime.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 58-1296 1958-12-23
+
+	**Créé par**:
+
+	  - Loi n°70-643 du 17 juillet 1970 - art. 27 () JORF 19 juillet 1970
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°72-1226 1972-12-29 art. 66
+
+	**Modifié par**:
+
+	  - loi 72-1226 1972-12-29 art. 60-I JORF 30 décembre 1972 en vigueur le 1er janvier 1973
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. 723-1 (M)
+
+
 #### Chapitre III : Des dispositions communes aux différents établissements pénitentiaires
 
 ###### Article 724
@@ -14002,6 +14622,43 @@ sans préjudice des poursuites auxquelles il peut y avoir lieu.
 	  - CODE DE PROCEDURE PENALE - art. D283-3 (V)
 
 
+###### Article 727
+
+Le juge de l'application des peines, le juge d'instruction, le président de la chambre de l'instruction ainsi qu'il est dit à
+l'article 222, le procureur de la République et le procureur général visitent les établissements pénitentiaires.
+
+Auprès de tout établissement pénitentiaire est instituée une commission de surveillance dont la composition et les
+attributions sont déterminées par décret.
+
+Ce décret fixe en outre les conditions dans lesquelles certaines personnes peuvent être admises à visiter les détenus.
+
+Les condamnés peuvent continuer à communiquer dans les mêmes conditions que les prévenus avec le défenseur qui les a assistés
+au cours de la procédure.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 58-1296 1958-12-23
+
+	**Modifié par**:
+
+	  - Loi n°72-1226 1972-12-29 art. 38 JORF 30 décembre 1972 en vigueur le 1er janvier 1973
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°72-1226 1972-12-29 art. 66
+
+	**Cité par**:
+
+	  - Loi n°83-520 du 27 juin 1983 - art. 58 (V)
+	  - CODE DE PROCEDURE PENALE - art. R200 (M)
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. 222 (M)
+
+
 ###### Article 728
 
 Un décret détermine l'organisation et le régime intérieur des établissements pénitentiaires.
@@ -14028,6 +14685,215 @@ leur reclassement social.
 	  - Décret n°2010-1635 du 23 décembre 2010 - art. 48 (V)
 	  - CODE DE PROCEDURE PENALE - art. R57-9-2 (V)
 	  - Code de procédure pénale - art. D189 (Ab)
+
+
+### Titre III : De la libération conditionnelle
+
+###### Article 730
+
+Le droit d'accorder la libération conditionnelle appartient, selon les distinctions ci-après, soit au juge de l'application
+des peines, soit au ministre de la justice.
+
+Lorsque le condamné doit subir une ou plusieurs peines privatives de liberté entraînant une détention dont la durée totale, à
+compter du jour de l'incarcération, n'excède pas trois années, la libération conditionnelle est accordée par le juge de
+l'application des peines après avis de la commission de l'application des peines.
+
+Lorsque le condamné doit subir une ou plusieurs peines privatives de liberté entraînant une détention dont la durée totale, à
+compter du jour de l'incarcération, excède trois années, la libération conditionnelle est accordée par le ministre de la
+justice. La proposition de libération conditionnelle est établie par le juge de l'application des peines, après avis de la
+commission de l'application des peines. Elle peut être soumise par le ministre de la justice à un comité consultatif de
+libération conditionnelle. L'avis du préfet du département où le condamné entend fixer sa résidence est recueilli dans tous
+les cas.
+
+Pour l'application du présent article, la situation de chaque condamné est examinée au moins une fois par an, lorsque les
+conditions de délai prévues à l'article 729 sont remplies.
+
+Un décret fixe les modalités d'application du présent article.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 58-1296 1958-12-23
+
+	**Modifié par**:
+
+	  - Loi n°72-1226 1972-12-29 art. 40 JORF 30 décembre 1972 en vigueur le 1er janvier 1973
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°72-1226 1972-12-29 art. 66
+
+	**Cité par**:
+
+	  - Loi n°83-520 du 27 juin 1983 - art. 59 (V)
+	  - Décret n°2017-822 du 5 mai 2017 (V)
+	  - CODE DE PROCEDURE PENALE - art. 732 (V)
+	  - CODE DE PROCEDURE PENALE - art. D528 (M)
+	  - CODE DE PROCEDURE PENALE - art. D534 (M)
+	  - CODE DE PROCEDURE PENALE - art. R200 (M)
+	  - CODE DE PROCEDURE PENALE - art. R61-34 (V)
+	  - Code de procédure pénale - art. 730-1 (V)
+	  - Code de procédure pénale - art. 731-1 (V)
+	  - Code de procédure pénale - art. 733 (V)
+	  - Code de procédure pénale - art. D49-74 (V)
+	  - Code de procédure pénale - art. D523 (V)
+	  - Code de procédure pénale - art. D542 (V)
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. 729 (M)
+
+
+###### Article 731
+
+Le bénéfice de la libération conditionnelle peut être assorti de conditions particulières ainsi que de mesures d'assistance
+et de contrôle destinées à faciliter et à vérifier le reclassement du libéré.
+
+Ces mesures sont mises en oeuvre par le juge de l'application des peines assisté de l'un des comités prévus à l'article 709-1
+(alinéa 4), et, le cas échéant, avec le concours des organismes habilités à cet effet.
+
+Un décret détermine les modalités d'application des mesures visées au présent article, la composition et les attributions des
+comités de probation et d'assistance aux libérés et les conditions d'habilitation des organismes mentionnés à l'alinéa
+précédent. Il fixe également les conditions du financement indispensable à l'application de ces mesures et au fonctionnement
+des comités.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 58-1296 1958-12-23
+
+	**Cité par**:
+
+	  - Loi n°70-643 du 17 juillet 1970 - art. 52 (V)
+	  - Loi n°83-520 du 27 juin 1983 - art. 58 (V)
+	  - Loi n°83-520 du 27 juin 1983 - art. 59 (V)
+	  - Loi n°88-82 du 22 janvier 1988 - art. 145 (V)
+	  - Arrêté du 15 mai 1996 - art. 2 (Ab)
+	  - Loi n°2003-239 du 18 mars 2003 - art. 23 (V)
+	  - CODE PENAL - art. R8 (Ab)
+	  - Code de procédure pénale - art. 230-19 (V)
+	  - Code de procédure pénale - art. 624 (V)
+	  - Code de procédure pénale - art. 625 (V)
+	  - Code de procédure pénale - art. 720 (Ab)
+	  - Code du service national - art. L54 (V)
+
+	**Modifié par**:
+
+	  - Loi n°72-1226 1972-12-29 art. 41 JORF 30 décembre 1972 en vigueur le 1er janvier 1973
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°72-1226 1972-12-29 art. 66
+
+	**Cite**:
+
+	  - Code de procédure pénale 709-1 al. 4
+
+
+###### Article 732
+
+La décision de libération conditionnelle fixe les modalités d'exécution et les conditions auxquelles l'octroi et le maintien
+de la liberté est subordonné, ainsi que la nature et la durée des mesures d'assistance et de contrôle. Si elle est prise par
+le ministre de la justice, celui-ci peut prévoir que l'élargissement s'effectuera au jour fixé par le juge de l'application
+des peines entre deux dates déterminées.
+
+Cette durée ne peut être inférieure à la durée de la partie de la peine non subie au moment de la libération s'il s'agit
+d'une peine temporaire ; elle peut la dépasser pour une période maximum d'un an.
+
+Toutefois, lorsque la peine en cours d'exécution est une peine perpétuelle, la durée des mesures d'assistance et de contrôle
+est fixée pour une période qui ne peut être inférieure à cinq années, ni supérieure à dix années.
+
+Pendant toute la durée de la liberté conditionnelle, les dispositions de la décision peuvent être modifiées, suivant les
+distinctions de l'article 730, soit après avis des membres du comité de probation et d'assistance aux libérés qui ont pris en
+charge le condamné, par le juge de l'application des peines compétent pour mettre en oeuvre cette décision, soit, sur
+proposition de ce magistrat, et après avis, le cas échéant, du comité consultatif de libération conditionnelle, par le
+ministre de la justice.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 58-1296 1958-12-23
+
+	**Modifié par**:
+
+	  - Loi n°72-1226 1972-12-29 art. 42 JORF 30 décembre 1972 en vigueur le 1er janvier 1973
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°72-1226 1972-12-29 art. 66
+
+	**Cité par**:
+
+	  - Loi n°83-520 du 27 juin 1983 - art. 59 (V)
+	  - CODE DE PROCEDURE PENALE - art. 733 (M)
+	  - CODE DE PROCEDURE PENALE - art. D541 (Ab)
+	  - CODE DE PROCEDURE PENALE - art. R61-34 (V)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. L561-1 (V)
+	  - Code de procédure pénale - art. 720-4 (V)
+	  - Code de procédure pénale - art. 720-5 (V)
+	  - Code de procédure pénale - art. 729-2 (VD)
+	  - Code de procédure pénale - art. D522 (V)
+	  - Code de procédure pénale - art. D534 (V)
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. 730 (M)
+
+
+###### Article 733
+
+En cas de nouvelle condamnation, d'inconduite notoire, d'infraction aux conditions ou d'inobservation des mesures énoncées
+dans la décision de mise en liberté conditionnelle, cette décision peut être révoquée, suivant les distinctions de l'article
+730, soit, après avis des membres du comité de probation et d'assistance aux libérés qui ont pris en charge le condamné, par
+le juge de l'application des peines compétent pour sa mise en oeuvre, soit, sur proposition de ce magistrat, et après avis,
+le cas échéant, du comité consultatif de libération conditionnelle, par le ministre de la justice. Le juge de l'application
+des peines qui a pris une décision de libération conditionnelle peut rapporter celle-ci lorsqu'elle n'a pas encore reçu
+exécution.
+
+En cas d'urgence, l'arrestation peut être provisoirement ordonnée par le juge de l'application des peines du lieu où se
+trouve le libéré, le ministère public entendu et à charge, s'il y a lieu de saisir l'autorité compétente pour révoquer la
+libération conditionnelle.
+
+Après révocation, le condamné doit subir, selon les dispositions de la décision de révocation, tout ou partie de la durée de
+la peine qu'il lui restait à subir au moment de sa mise en liberté conditionnelle, cumulativement, s'il y a lieu, avec toute
+nouvelle peine qu'il aurait encourue ; le temps pendant lequel il a été placé en état d'arrestation provisoire compte
+toutefois pour l'exécution de sa peine.
+
+Si la révocation n'est pas intervenue avant l'expiration du délai prévu à l'article précédent, la libération est définitive.
+Dans ce cas, la peine est réputée terminée depuis le jour de la libération conditionnelle.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 58-1296 1958-12-23
+
+	**Modifié par**:
+
+	  - Loi n°72-1226 1972-12-29 art. 43 JORF 30 décembre 1972 en vigueur le 1er janvier 1973
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°72-1226 1972-12-29 art. 66
+
+	**Cité par**:
+
+	  - Loi n°83-520 du 27 juin 1983 - art. 59 (V)
+	  - CODE DE PROCEDURE PENALE - art. 733-1 (M)
+	  - CODE DE PROCEDURE PENALE - art. D540 (Ab)
+	  - CODE DE PROCEDURE PENALE - art. D541 (Ab)
+	  - Code de justice militaire - art. 367 (Ab)
+	  - Code de procédure pénale - art. 786 (V)
+	  - Code de procédure pénale - art. D522 (V)
+	  - Code de procédure pénale - art. R61-27 (V)
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. 730 (M)
+	  - CODE DE PROCEDURE PENALE - art. 732 (M)
 
 
 ### Titre IV : Du sursis
