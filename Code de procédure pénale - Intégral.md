@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 1981-01-30
+Version Consolidée au 1981-02-03
 
 # Partie législative
 
@@ -270,6 +270,32 @@ distinctions spécifiées à l'article 7.
 
 	  - Code de justice militaire. - art. L211-12 (VD)
 	  - Code de justice militaire. - art. L212-39 (V)
+
+
+###### Article 10
+
+L'action civile se prescrit selon les règles du code civil. Toutefois, cette action ne peut plus être engagée devant la
+juridiction répressive après l'expiration du délai de prescription de l'action publique.
+
+Lorsqu'il a été statué sur l'action publique, les mesures d'instruction ordonnées par le juge pénal sur les seuls intérêts
+civils obéissent aux règles de la procédure civile.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°57-1426 1957-12-31
+
+	**Modifié par**:
+
+	  - Ordonnance n°58-1296 du 23 décembre 1958 - art. 1 () JORF 24 décembre 1958 en vigueur le 2 mars 1959
+	  - Loi n°80-1042 1980-12-23 art. 1 JORF 24 décembre 1980
+	  - Loi n°81-82 du 2 février 1981 - art. 82 () JORF 3 février 1981
+
+	**Cité par**:
+
+	  - Décret n°2010-1276 du 27 octobre 2010 (V)
+	  - CODE DE PROCEDURE PENALE - art. 706-24 (Ab)
 
 
 ## Livre Ier : De l'exercice de l'action publique et de l'instruction
@@ -1142,6 +1168,57 @@ conditions fixées par l'article 45 du présent code.
 	  - Code rural 446
 
 
+###### Article 41
+
+Le procureur de la République procède ou fait procéder à tous les actes nécessaires à la recherche et à la poursuite des
+infractions à la loi pénale.
+
+A cette fin, il dirige l'activité des officiers et agents de la police judiciaire dans le ressort de son tribunal.
+
+Il a tous les pouvoirs et prérogatives attachés à la qualité d'officier de police judiciaire prévus par la section II du
+chapitre Ier du titre Ier du présent livre, ainsi que par des lois spéciales.
+
+En cas d'infractions flagrantes, il exerce les pouvoirs qui lui sont attribués par l'article 68.
+
+Le procureur de la République peut également confier aux personnes habilitées dans les conditions prévues par l'article 81,
+sixième alinéa, le soin de vérifier la situation matérielle, familiale ou sociale des personnes faisant l'objet d'une
+enquête.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°57-1426 1957-12-31
+
+	**Modifié par**:
+
+	  - Ordonnance n°58-1296 du 23 décembre 1958 - art. 1 () JORF 24 décembre 1958 en vigueur le 2 mars 1959
+	  - Loi n°81-82 du 2 février 1981 - art. 38 () JORF 3 février 1981
+
+	**Cité par**:
+
+	  - Loi n°91-647 du 10 juillet 1991 - art. 64-2 (M)
+	  - Ordonnance no 92-1143 du 12 octobre 1992 relative  - art. 40-1 (M)
+	  - Ordonnance no 92-1147 du 12 octobre 1992 relative  - art. 23-3 (M)
+	  - CODE DE PROCEDURE PENALE - art. 396 (V)
+	  - CODE DE PROCEDURE PENALE - art. D15-1 (Ab)
+	  - CODE DE PROCEDURE PENALE - art. R121 (M)
+	  - CODE DE PROCEDURE PENALE - art. R121-1 (V)
+	  - Code de justice militaire - art. 80 (M)
+	  - Code de procédure pénale - art. A38-2 (V)
+	  - Code de procédure pénale - art. D15-2 (V)
+	  - Code de procédure pénale - art. D15-2-1 (V)
+	  - Code de procédure pénale - art. D47-6-15 (V)
+	  - Code de procédure pénale - art. D77 (V)
+	  - Code de procédure pénale - art. R121-3 (V)
+	  - Code de procédure pénale - art. R15-33-66-9 (V)
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. 68 (V)
+	  - Code de procédure pénale 81 al. 6, 68
+
+
 ###### Article 42
 
 Le procureur de la République a, dans l'exercice de ses fonctions, le droit de requérir directement la force publique.
@@ -1785,6 +1862,124 @@ L'officier de police judiciaire avise de ce droit la personne gardée à vue.
 	  - CODE DE PROCEDURE PENALE - art. 64 (M)
 
 
+###### Article 63-1
+
+**Nota:**
+
+Nota : Articles 63-1 et 64-1 abrogés, loi 83-466 du 10 juin 1983 art. 17.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°57-1426 1957-12-31
+
+	**Créé par**:
+
+	  - Loi n°81-82 1981-02-02 art. 39-I JORF 3 février 1981
+
+	**Abrogé par**:
+
+	  - Loi n°83-466 du 10 juin 1983 - art. 17 () JORF 27 juin 1983
+
+	**Cité par**:
+
+	  - CODE DE PROCEDURE PENALE - art. 171 (M)
+	  - Code de procédure pénale - art. 141-4 (V)
+	  - Code de procédure pénale - art. 154 (V)
+	  - Code de procédure pénale - art. 62 (V)
+	  - Code de procédure pénale - art. 627-5 (V)
+	  - Code de procédure pénale - art. 63 (VD)
+	  - Code de procédure pénale - art. 63-2 (VD)
+	  - Code de procédure pénale - art. 63-4-1 (VD)
+	  - Code de procédure pénale - art. 65 (VD)
+	  - Code de procédure pénale - art. 695-27 (VD)
+	  - Code de procédure pénale - art. 696-10 (VD)
+	  - Code de procédure pénale - art. 706-88 (VD)
+	  - Code de procédure pénale - art. 706-88-1 (VD)
+	  - Code de procédure pénale - art. 712-16-3 (V)
+	  - Code de procédure pénale - art. 77 (VT)
+	  - Code de procédure pénale - art. D15-6 (V)
+	  - Code de procédure pénale - art. D594 (V)
+	  - Code des douanes - art. 323-6 (VD)
+	  - Code des douanes de Mayotte - art. 193-6 (VD)
+
+
+###### Article 64
+
+Tout officier de police judiciaire doit mentionner sur le procès-verbal d'audition de toute personne gardée à vue la durée
+des interrogatoires auxquels elle a été soumise et des repos qui ont séparé ces interrogatoires, le jour et l'heure à partir
+desquels elle a été gardée à vue, ainsi que le jour et l'heure à partir desquels elle a été soit libérée, soit amenée devant
+le magistrat compétent.
+
+Cette mention doit être spécialement émargée par les personnes intéressées, et, au cas de refus, il en est fait mention. Elle
+comportera obligatoirement les motifs de la garde à vue.
+
+Elle doit également figurer sur un registre spécial tenu à cet effet dans tout local de police susceptible de recevoir une
+personne gardée à vue.
+
+S'il l'estime nécessaire, le procureur de la République peut désigner, même à la requête d'un membre de la famille de la
+personne gardée à vue, un médecin qui examinera cette dernière à n'importe quel moment des délais prévus à l'article 63.
+
+Après vingt-quatre heures, l'examen médical sera de droit si la personne retenue le demande. Elle en sera avisée. Mention de
+cet avis sera portée au procès-verbal et émargée par la personne intéressée.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Ordonnance n°45-174 du 2 février 1945 - art. 4 (V)
+	  - Loi n°92-1477 du 31 décembre 1992 - art. 36 (V)
+	  - CODE DE PROCEDURE PENALE - art. 154 (VD)
+	  - CODE DE PROCEDURE PENALE - art. 63 (M)
+	  - CODE DE PROCEDURE PENALE - art. 77 (AbD)
+	  - Code de justice militaire - art. 177 (Ab)
+	  - Code de justice militaire. - art. L211-8 (VD)
+	  - Code de procédure pénale - art. 141-4 (V)
+	  - Code de procédure pénale - art. 65 (VD)
+	  - Code de procédure pénale - art. 712-16-3 (V)
+	  - Code des douanes - art. 323-8 (VD)
+	  - Code des douanes de Mayotte - art. 193-8 (VD)
+
+	**Codifié par**:
+
+	  - Loi n°57-1426 1957-12-31
+
+	**Modifié par**:
+
+	  - Loi n°81-82 1981-02-02 art. 39-II JORF 3 février 1981
+
+
+###### Article 64-1
+
+**Nota:**
+
+Nota : Articles 63-1 et 64-1 abrogés, loi 83-466 du 10 juin 1983 art. 17.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°57-1426 1957-12-31
+
+	**Créé par**:
+
+	  - Loi n°81-82 1981-02-02 art. 39-III JORF 3 février 1981
+
+	**Abrogé par**:
+
+	  - Loi n°83-466 du 10 juin 1983 - art. 17 () JORF 27 juin 1983
+
+	**Cité par**:
+
+	  - Loi n°2007-291 du 5 mars 2007 - art. 30 (V)
+	  - Arrêté du 14 avril 2008 (V)
+	  - CODE DE PROCEDURE PENALE - art. 154 (VD)
+	  - CODE DE PROCEDURE PENALE - art. A36-11 (V)
+	  - Code de procédure pénale - art. 67 (V)
+	  - Code de procédure pénale - art. D15-6 (V)
+
+
 ###### Article 65
 
 Dans les corps ou services où les officiers de police judiciaire sont astreints à tenir un carnet de déclarations, les
@@ -1931,99 +2126,6 @@ accompagnée d'un défenseur, elle ne peut être interrogée qu'en présence de 
 	**Cité par**:
 
 	  - Code de procédure pénale - art. 77-4 (V)
-
-
-###### Article 71
-
-**Nota:**
-
-Nota : Articles 71-à 71-3 abrogés, loi 81-82 du 3 février 1981 art. 47.
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Ordonnance n°45-1484 du 30 juin 1945 - art. 20 (Ab)
-	  - Ordonnance n°58-1331 du 23 décembre 1958 - art. 11 (V)
-
-	**Codifié par**:
-
-	  - Loi n°57-1426 1957-12-31
-
-	**Modifié par**:
-
-	  - Loi n°75-701 1975-08-06 art. 7 JORF 7 août 1975 en vigueur le 1er janvier 1976
-
-	**Abrogé par**:
-
-	  - Loi n°81-82 du 2 février 1981 - art. 47 () JORF 3 février 1981
-
-
-###### Article 71-1
-
-**Nota:**
-
-Nota : Articles 71 à 71-3 abrogés, loi 81-82 du 2 février 1981 art. 47.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°57-1426 1957-12-31
-
-	**Créé par**:
-
-	  - Loi n°75-701 1975-08-06 art. 7 JORF 7 août 1975 en vigueur le 1er janvier 1976
-
-	**Abrogé par**:
-
-	  - Loi n°81-82 du 2 février 1981 - art. 47 () JORF 3 février 1981
-
-	**Cité par**:
-
-	  - Loi n°81-82 du 2 février 1981 - art. 52 (V)
-
-
-###### Article 71-2
-
-**Nota:**
-
-Nota : Articles 71 à 71-3 abrogés, loi 81-82 du 2 février 1981 art. 47.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°57-1426 1957-12-31
-
-	**Créé par**:
-
-	  - Loi n°75-701 1975-08-06 art. 7 JORF 7 août 1975 en vigueur le 1er janvier 1976
-
-	**Abrogé par**:
-
-	  - Loi n°81-82 du 2 février 1981 - art. 47 () JORF 3 février 1981
-
-
-###### Article 71-3
-
-**Nota:**
-
-Nota : Articles 71 à 71-3 abrogés, loi 81-82 du 2 février 1981 art. 47.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°57-1426 1957-12-31
-
-	**Créé par**:
-
-	  - Loi n°75-701 1975-08-06 art. 7 JORF 7 août 1975 en vigueur le 1er janvier 1976
-
-	**Abrogé par**:
-
-	  - Loi n°81-82 du 2 février 1981 - art. 47 () JORF 3 février 1981
 
 
 ###### Article 73
@@ -3518,6 +3620,29 @@ l'une des plus prochaines audiences, en observant les délais de citation prévu
 	  - Ordonnance n°58-1296 du 23 décembre 1958 - art. 1 () JORF 24 décembre 1958 en vigueur le 2 mars 1959
 
 
+###### Article 182
+
+Des ordonnances comportant non-lieu partiel peuvent intervenir en cours d'information.
+
+Peuvent intervenir, dans les mêmes conditions, des ordonnances de renvoi partiel ou de transmission partielle des pièces
+lorsque, sur l'un ou plusieurs des faits dont le juge d'instruction est saisi, les charges recueillies apparaissent
+suffisantes.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°57-1426 1957-12-31
+
+	**Modifié par**:
+
+	  - Loi n°81-82 du 2 février 1981 - art. 53 () JORF 3 février 1981
+
+	**Cité par**:
+
+	  - Code disciplinaire et pénal de la marine marchande - art. 37 (VT)
+
+
 ##### Section 13 : De la reprise de l'information sur charges nouvelles
 
 ###### Article 189
@@ -3581,6 +3706,144 @@ l'objet, ordonne l'apport des pièces, met l'affaire en état et la soumet avec 
 	**Modifié par**:
 
 	  - Ordonnance n°58-1296 du 23 décembre 1958 - art. 1 () JORF 24 décembre 1958 en vigueur le 2 mars 1959
+
+
+###### Article 196-1
+
+[*Note : articles 196-1 à 196-6 abrogés, loi 83-466 1983-06-10 art. 17.*]
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°57-1426 1957-12-31
+
+	**Créé par**:
+
+	  - Loi n°81-82 1982-02-02 art. 56 JORF 3 février 1981
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°83-466 1983-06-10 art. 43 al. 4
+
+	**Abrogé par**:
+
+	  - Loi n°83-466 du 10 juin 1983 - art. 17 () JORF 11 juin 1983 en vigueur le 27 juin 1983
+
+
+###### Article 196-2
+
+[*Note : articles 196-1 à 196-6 abrogés, loi 83-466 1983-06-10 art. 17.*]
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°57-1426 1957-12-31
+
+	**Créé par**:
+
+	  - Loi n°81-82 1982-02-02 art. 56 JORF 3 février 1981
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°83-466 1983-06-10 art. 43 al. 4
+
+	**Abrogé par**:
+
+	  - Loi n°83-466 du 10 juin 1983 - art. 17 () JORF 11 juin 1983 en vigueur le 27 juin 1983
+
+
+###### Article 196-3
+
+[*Note : articles 196-1 à 196-6 abrogés, loi 83-466 1983-06-10 art. 17.*]
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°57-1426 1957-12-31
+
+	**Créé par**:
+
+	  - Loi n°81-82 1982-02-02 art. 56 JORF 3 février 1981
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°83-466 1983-06-10 art. 43 al. 4
+
+	**Abrogé par**:
+
+	  - Loi n°83-466 du 10 juin 1983 - art. 17 () JORF 11 juin 1983 en vigueur le 27 juin 1983
+
+
+###### Article 196-4
+
+[*Note : articles 196-1 à 196-6 abrogés, loi 83-466 1983-06-10 art. 17.*]
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°57-1426 1957-12-31
+
+	**Créé par**:
+
+	  - Loi n°81-82 1982-02-02 art. 56 JORF 3 février 1981
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°83-466 1983-06-10 art. 43 al. 4
+
+	**Abrogé par**:
+
+	  - Loi n°83-466 du 10 juin 1983 - art. 17 () JORF 11 juin 1983 en vigueur le 27 juin 1983
+
+
+###### Article 196-5
+
+[*Note : articles 196-1 à 196-6 abrogés, loi 83-466 1983-06-10 art. 17.*]
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°57-1426 1957-12-31
+
+	**Créé par**:
+
+	  - Loi n°81-82 1982-02-02 art. 56 JORF 3 février 1981
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°83-466 1983-06-10 art. 43 al. 4
+
+	**Abrogé par**:
+
+	  - Loi n°83-466 du 10 juin 1983 - art. 17 () JORF 11 juin 1983 en vigueur le 27 juin 1983
+
+
+###### Article 196-6
+
+[*Note : articles 196-1 à 196-6 abrogés, loi 83-466 1983-06-10 art. 17.*]
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°57-1426 1957-12-31
+
+	**Créé par**:
+
+	  - Loi n°81-82 1982-02-02 art. 56 JORF 3 février 1981
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°83-466 1983-06-10 art. 43 al. 4
+
+	**Abrogé par**:
+
+	  - Loi n°83-466 du 10 juin 1983 - art. 17 () JORF 11 juin 1983 en vigueur le 27 juin 1983
 
 
 ###### Article 203
@@ -4575,6 +4838,49 @@ de la fin des opérations exécutées en vertu de la commission rogatoire.
 
 ##### Section 1 : Dispositions générales
 
+###### Article 191
+
+Chaque cour d'appel comprend au moins une chambre d'accusation. 
+
+Cette juridiction est composée d'un président de chambre exclusivement attaché à ce service, et de deux conseillers qui
+peuvent, en cas de besoin, assurer le service des autres chambres de la cour. 
+
+Le président et les conseillers composant la chambre d'accusation sont désignés chaque année, pour la durée de l'année
+judiciaire suivante, par l'assemblée générale de la cour. 
+
+Un décret pourra prévoir que le président de la chambre d'accusation d'une cour d'appel comptant moins de trois chambres
+assurera à titre exceptionnel le service d'une autre chambre de la même cour.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Ordonnance n°45-174 du 2 février 1945 - art. 20 (V)
+	  - Loi n°83-520 du 27 juin 1983 - art. 17 (V)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R*761-23 (Ab)
+	  - CODE DE PROCEDURE PENALE - art. D43 (M)
+	  - Code de procédure pénale - art. 824 (V)
+	  - Code de procédure pénale - art. 877 (V)
+
+	**Codifié par**:
+
+	  - Loi n°57-1426 1957-12-31
+
+	**Modifié par**:
+
+	  - Ordonnance n°58-1296 du 23 décembre 1958 - art. 1 () JORF 24 décembre 1958
+	  - Décret n°74-163 1974-02-27 art. 10 JORF 28 février 1974
+	  - Loi n°81-82 du 2 février 1981 - art. 54 () JORF 3 février 1981
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L612-1 (Ab)
+
+	**Liens**:
+
+	  - TXT_SOURCE: CODE DE PROCEDURE PENALE - art. D43 (M)
+
+
 ###### Article 192
 
 Les fonctions du ministère public auprès de la chambre d'accusation sont exercées par le procureur général ou par ses
@@ -4911,6 +5217,35 @@ Il décerne en outre ordonnance de prise de corps contre l'accusé dont il préc
 	**Liens**:
 
 	  - SPEC_APPLI: Loi n°57-1426 1957-12-31 art. 18
+
+
+###### Article 216
+
+Les arrêts de la chambre d'accusation sont signés par le président et par le greffier. Il y est fait mention du nom des
+juges, du dépôt des pièces et des mémoires, de la lecture du rapport, des réquisitions du ministère public et, s'il y a lieu,
+
+de l'audition des parties ou de leurs conseils. 
+
+La chambre d'accusation réserve les dépens si son arrêt n'éteint pas l'action dont elle a eu à connaître. 
+
+Dans le cas contraire, elle liquide les dépens et condamne aux frais la partie qui succombe. 
+
+Toutefois la partie civile de bonne foi peut être déchargée de la totalité ou d'une partie des frais par décision spéciale et
+motivée. 
+
+Lorsqu'il apparaît inéquitable de laisser à la charge de la partie civile les sommes exposées par elle et non comprises dans
+les frais et dépens, le juge peut condamner l'auteur de l'infraction à lui payer le montant qu'il détermine.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°57-1426 1957-12-31
+
+	**Modifié par**:
+
+	  - Ordonnance n°58-1296 du 23 décembre 1958 - art. 1 () JORF 24 décembre 1958
+	  - Loi n°81-82 du 2 février 1981 - art. 41 () JORF 3 février 1981
 
 
 ###### Article 218
@@ -5845,6 +6180,40 @@ l'article 42 du Code pénal ;
 	  - Code de la santé publique L326-1 à L355
 
 
+###### Article 258
+
+Sont dispensées des fonctions de juré les personnes âgées de plus de soixante-dix ans ou n'ayant pas leur résidence
+principale dans le département siège de la cour d'assises lorsqu'elles en font la demande à la commission prévue par
+l'article 262. 
+
+Peuvent, en outre, être dispensées de ces fonctions les personnes qui invoquent un motif grave reconnu valable par la
+commission.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 58-1296 1958-12-23
+
+	**Modifié par**:
+
+	  - Loi n°78-788 1978-07-28 art. 14 JORF 29 juillet 1978
+	  - Loi n°81-82 du 2 février 1981 - art. 61 () JORF 3 février 1981
+
+	**Cité par**:
+
+	  - Code de procédure pénale - art. 10-4 (V)
+	  - Code de procédure pénale - art. 10-5 (V)
+	  - Code de procédure pénale - art. 261-1 (V)
+	  - Code de procédure pénale - art. 263 (V)
+	  - Code de procédure pénale - art. R2-3 (VD)
+	  - Code de procédure pénale - art. R2-5 (V)
+
+	**Cite**:
+
+	  - Code de procédure pénale - art. 262 (VT)
+
+
 ###### Article 258-1
 
 Sont exclus ou rayés de la liste annuelle des jurés et de la liste spéciale des jurés suppléants ceux qui ont rempli les
@@ -5901,6 +6270,119 @@ Il est établi, annuellement, dans le ressort de chaque cour d'assises une liste
 	  - Ordonnance n°58-1296 du 23 décembre 1958 - art. 5 (V)
 	  - Loi n°83-520 du 27 juin 1983 - art. 80 (V)
 	  - Code de procédure pénale - art. 877 (VT)
+
+
+###### Article 260
+
+Cette liste comprend, pour la cour d'assises de Paris, mille huit cents jurés et, pour les autres ressorts de cour d'assises,
+un juré pour mille trois cents habitants, sans toutefois que le nombre des jurés puisse être inférieur à deux cents.
+
+Le nombre des jurés pour la liste annuelle est réparti proportionnellement au tableau officiel de la population. Cette
+répartition est faite par commune ou communes regroupées, par arrêté du préfet au mois d'avril de chaque année. A Paris, elle
+est faite par arrêté du préfet au mois de juin entre les arrondissements.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 58-1296 1958-12-23
+
+	**Modifié par**:
+
+	  - Loi n°72-625 1972-07-05 art. 3 JORF 9 juillet 1972
+	  - Loi n°78-788 1978-07-28 art. 16 JORF 29 juillet 1978
+	  - Loi n°80-1042 1980-12-23 art. 2 II JORF 24 décembre 1980
+	  - Loi n°81-82 du 2 février 1981 - art. 62 () JORF 3 février 1981
+
+	**Cité par**:
+
+	  - Loi n°83-520 du 27 juin 1983 - art. 25 (V)
+	  - Arrêté du 28 juin 2010 (V)
+	  - Arrêté du 21 octobre 2015 (V)
+	  - CODE DE PROCEDURE PENALE - art. 916 (V)
+	  - CODE DE PROCEDURE PENALE - art. R41-1-A (Ab)
+	  - Code de procédure pénale - art. 264-1 (V)
+	  - Code de procédure pénale - art. 830 (V)
+	  - Code de procédure pénale - art. A36-12 (V)
+
+
+###### Article 261
+
+Dans chaque commune, le maire, en vue de dresser la liste préparatoire de la liste annuelle, tire au sort publiquement à
+partir de la liste électorale un nombre de noms triple de celui fixé par l'arrêté préfectoral pour la circonscription. Pour
+la constitution de cette liste préparatoire, ne sont pas retenues les personnes qui n'auront pas atteint, l'âge de vingt-
+trois ans au cours de l'année civile qui suit.
+
+Lorsque l'arrêté préfectoral de répartition a prévu un regroupement de communes, le tirage au sort est effectué par le maire
+de la commune désignée dans l'arrêté du préfet. Il porte sur l'ensemble des listes électorales des communes concernées.
+
+A Paris, le tirage au sort est effectué, dans chaque arrondissement, par l'officier d'état civil désigné par le maire.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 58-1296 1958-12-23
+
+	**Modifié par**:
+
+	  - Loi n°67-557 1967-07-12 art. 19 JORF 13 juillet 1967
+	  - Loi n°78-788 1978-07-28 art. 16 JORF 29 juillet 1978
+	  - Loi n°81-82 du 2 février 1981 - art. 3 () JORF 3 février 1981
+
+	**Cité par**:
+
+	  - Loi n°83-520 du 27 juin 1983 - art. 26 (V)
+	  - CODE DE PROCEDURE PENALE - art. 908 (V)
+	  - Code de procédure pénale - art. 10-4 (V)
+	  - Code de procédure pénale - art. 831 (V)
+	  - Code de procédure pénale - art. R2 (V)
+	  - Code de procédure pénale - art. R2-1 (VD)
+
+
+###### Article 261-1
+
+La liste préparatoire doit être dressée en deux originaux dont l'un est déposé à la mairie, et pour Paris à la mairie annexe,
+et l'autre transmis avant le 15 juillet au secrétariat-greffe de juridiction siège de la cour d'assises. 
+
+Le maire doit avertir les personnes qui ont été tirées au sort. Il leur demande de lui préciser leur profession. Il les
+informe qu'elles ont la possibilité de demander par lettre simple avant le 1er septembre au président de la commission prévue
+à l'article 262 le bénéfice des dispositions de l'article 258. 
+
+Le maire est tenu d'informer le greffier en chef de la cour d'appel ou du tribunal de grande instance siège de la cour
+d'assises, des inaptitudes légales résultant des articles 255, 256 et 257, qui, à sa connaissance, frapperaient les personnes
+portées sur la liste préparatoire. Il peut, en outre, présenter des observations sur le cas des personnes qui, pour des
+motifs graves, ne paraissent pas en mesure d'exercer les fonctions de juré.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 58-1296 1958-12-23
+
+	**Créé par**:
+
+	  - Loi n°78-788 1978-07-28 art. 17 JORF 29 juillet 1978
+
+	**Modifié par**:
+
+	  - Loi n°80-1042 1980-12-23 art. 2 III JORF 24 décembre 1980
+	  - Loi n°81-82 du 2 février 1981 - art. 64 () JORF 3 février 1981
+
+	**Cité par**:
+
+	  - Loi n°83-520 du 27 juin 1983 - art. 26 (V)
+	  - CODE DE PROCEDURE PENALE - art. 831 (M)
+	  - CODE DE PROCEDURE PENALE - art. 908 (V)
+	  - Code de procédure pénale - art. 234-1 (V)
+	  - Code de procédure pénale - art. 264-1 (V)
+	  - Code de procédure pénale - art. R2 (VD)
+
+	**Cite**:
+
+	  - Code de procédure pénale - art. 255 (V)
+	  - Code de procédure pénale - art. 258 (V)
+	  - Code de procédure pénale - art. 262 (VT)
 
 
 ###### Article 262
@@ -6983,6 +7465,51 @@ Ils peuvent être suspendus pendant le temps nécessaire au repos des juges et d
 	**Codifié par**:
 
 	  - Ordonnance 58-1296 1958-12-23
+
+
+###### Article 308
+
+Dès l'ouverture de l'audience, l'emploi de tout appareil d'enregistrement ou de diffusion sonore, de caméra de télévision ou
+de cinéma, d'appareils photographiques est interdit sous peine d'une amende de 300 F à 120000 F, qui peut être prononcée dans
+les conditions prévues au titre VIII du livre IV.
+
+Toutefois, le président de la cour d'assises peut ordonner que les débats feront l'objet, sous son contrôle, d'un
+enregistrement sonore.
+
+Les supports de cet enregistrement sont placés sous scellés et déposés au greffe de la cour d'assises.
+
+L'enregistrement sonore peut être utilisé devant la cour d'assises, jusqu'au prononcé de l'arrêt ; s'il l'est au cours de la
+délibération, les formalités prévues au troisième alinéa de l'article 347 sont applicables. L'enregistrement sonore peut
+encore être utilisé devant la Cour de cassation saisie d'une demande en révision, ou, après cassation ou annulation sur
+demande en révision, devant la juridiction de renvoi, en ce qui concerne les déclarations faites par des personnes qui ne
+peuvent plus être entendues.
+
+Les scellés sont ouverts par le premier président ou par un magistrat délégué par lui, en présence du condamné assisté de son
+conseil, ou eux dûment appelés, ou en présence de l'une des personnes visées à l'article 623 (3°), ou elles dûment appelées.
+
+Après présentation des scellés, le premier président fait procéder par un expert à une transcription de l'enregistrement qui
+est jointe au dossier de la procédure.
+
+Les dispositions ci-dessus ne sont pas prescrites à peine de nullité de la procédure.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 58-1296 1958-12-23
+
+	**Modifié par**:
+
+	  - Loi n°81-82 du 2 février 1981 - art. 65 () JORF 3 février 1981
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. 347 (M)
+	  - Code de procédure pénale 623 al. 3, 347
+
+	**Cité par**:
+
+	  - Code de justice militaire - art. 217 (Ab)
 
 
 ###### Article 309
@@ -8483,6 +9010,42 @@ L'accusé qui succombe est condamné aux dépens envers la partie civile.
 	  - SPEC_APPLI: Ordonnance 1958-12-23 art. 10
 
 
+###### Article 375
+
+La partie civile qui a obtenu des dommages intérêts n'est jamais tenue des dépens. Celle qui a succombé n'est condamnée aux
+dépens que si elle a, elle-même, mis en mouvement l'action publique. Toutefois, même en ce cas, elle peut, eu égard aux
+circonstances de la cause, être déchargée de la totalité ou d'une partie de ces dépens, par décision spéciale et motivée de
+la cour.
+
+Lorsqu'il apparaît inéquitable de laisser à la charge de la partie civile les sommes exposées par elle et non comprises dans
+les frais et dépens, le juge peut condamner l'auteur de l'infraction à lui payer le montant qu'il détermine.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 58-1296 1958-12-23
+
+	**Modifié par**:
+
+	  - Loi n°81-82 du 2 février 1981 - art. 83 () JORF 3 février 1981
+
+	**Cité par**:
+
+	  - Décret n°2003-1306 du 26 décembre 2003 - art. 56 (V)
+	  - Décret n°2004-1056 du 5 octobre 2004 - art. 47 (M)
+	  - CODE DE PROCEDURE PENALE - art. 706-15-1 (V)
+	  - CODE DE PROCEDURE PENALE - art. 706-15-2 (V)
+	  - Code de la sécurité sociale. - art. L355-2 (V)
+	  - Code de procédure pénale - art. 380-6 (V)
+	  - Code de procédure pénale - art. 706-164 (V)
+	  - Code des assurances - art. L422-11 (V)
+	  - Code des assurances - art. L422-7 (V)
+	  - Code des assurances - art. L422-8 (V)
+	  - Code des assurances - art. L422-9 (V)
+	  - Code des pensions civiles et militaires de retr... - art. L56 (V)
+
+
 ##### Section 3 : De la décision sur l'action civile
 
 ###### Article 371
@@ -8512,7 +9075,47 @@ l'audience, où les parties peuvent encore présenter leurs observations et où 
 	  - Ordonnance 58-1296 1958-12-23
 
 
+###### Article 375-1
+
+La partie civile est assimilée au témoin en ce qui concerne le paiement des indemnités, sauf décision contraire du tribunal.
+
+**Nota:**
+
+Lire " de la Cour " (cf. circulaire Justice du 7 février 1981, JONC 14 février).
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 58-1296 1958-12-23
+
+	**Créé par**:
+
+	  - Loi n°81-82 du 2 février 1981 - art. 84 () JORF 3 février 1981
+
+	**Cité par**:
+
+	  - Code de justice militaire. - art. D269-4 (V)
+	  - Code de procédure pénale - art. R92 (V)
+
+
 ##### Section 4 : De l'arrêt et du procès-verbal
+
+###### Article 376
+
+Le greffier écrit l'arrêt ; les textes de lois appliqués y sont indiqués.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 58-1296 1958-12-23
+
+	**Modifié par**:
+
+	  - Loi n°70-643 du 17 juillet 1970 - art. 37 () JORF 19 juillet 1970
+	  - Loi n°81-82 du 2 février 1981 - art. 70 (V) JORF 3 février 1981
+
 
 ###### Article 377
 
@@ -8869,6 +9472,35 @@ domicile dans le ressort du tribunal saisi, à moins qu'elle n'y soit domicilié
 	  - Ordonnance 58-1296 1958-12-23
 
 
+##### Paragraphe 3 : De la convocation par procès-verbal et de la compuration immédiate
+
+###### Article 397-7
+
+*Article abrogé*.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 58-1296 1958-12-23
+
+	**Créé par**:
+
+	  - Loi n°81-82 1981-02-02 art. 51-I JORF 3 février 1981
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°83-466 1983-06-10 art. 43
+
+	**Abrogé par**:
+
+	  - Loi n°83-466 du 10 juin 1983 - art. 25 () JORF 11 juin 1983 en vigueur le 27 juin 1983
+
+	**Cité par**:
+
+	  - CODE DE PROCEDURE PENALE - art. D15-4-2 (VD)
+
+
 ##### Section 2 : De la composition du tribunal et de la tenue des audiences
 
 ###### Article 398
@@ -9078,25 +9710,6 @@ Le président peut interdire l'accès de la salle d'audience aux mineurs ou à c
 	**Codifié par**:
 
 	  - Ordonnance 58-1296 1958-12-23
-
-	**Cité par**:
-
-	  - CODE DE PROCEDURE PENALE - art. 535 (M)
-
-
-###### Article 403
-
-[Article abrogé].
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance 58-1296 1958-12-23
-
-	**Abrogé par**:
-
-	  - Loi n°81-82 du 2 février 1981 - art. 46 () JORF 3 février 1981
 
 	**Cité par**:
 
@@ -9558,6 +10171,27 @@ Elle est immédiatement transmise par le greffier au ministère public qui cite 
 	  - Ordonnance 58-1296 1958-12-23
 
 
+###### Article 420-2
+
+La décision rendue sur la demande de restitution d'objets saisis ou de dommages-intérêts présentée par lettre produit tous
+les effets d'une décision contradictoire ; elle est signifiée à la partie civile par exploit d'huissier conformément aux
+dispositions des articles 550 et suivants.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 58-1296 1958-12-23
+
+	**Créé par**:
+
+	  - Loi n°81-82 du 2 février 1981 - art. 87 () JORF 3 février 1981
+
+	**Cite**:
+
+	  - Code de procédure pénale 550 et s.
+
+
 ###### Article 421
 
 A l'audience, la déclaration de partie civile doit, à peine d'irrecevabilité, être faite avant les réquisitions du ministère
@@ -9577,6 +10211,28 @@ public sur la peine.
 	**Modifié par**:
 
 	  - Loi n°75-624 du 11 juillet 1975 - art. 25 () JORF 13 juillet 1975 en vigueur le 1er janvier 1976
+
+
+###### Article 422
+
+La personne qui s'est constituée partie civile ne peut plus être entendue comme témoin.
+
+Toutefois, la partie civile est assimilée au témoin en ce qui concerne le paiement des indemnités, sauf décision contraire du
+tribunal.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 58-1296 1958-12-23
+
+	**Modifié par**:
+
+	  - Loi n°81-82 du 2 février 1981 - art. 85 () JORF 3 février 1981
+
+	**Cité par**:
+
+	  - Code de procédure pénale - art. R92 (V)
 
 
 ###### Article 423
@@ -9618,6 +10274,40 @@ son égard.
 	**Cité par**:
 
 	  - CODE DE PROCEDURE PENALE - art. 487 (V)
+
+
+###### Article 425
+
+La partie civile régulièrement citée qui ne comparaît pas ou n'est pas représentée à l'audience est considérée comme se
+désistant de sa constitution de partie civile.
+
+En ce cas, et si l'action publique n'a été mise en mouvement que par la citation directe délivrée à la requête de la partie
+civile, le tribunal ne statue sur ladite action que s'il en est requis par le ministère public ; sauf au prévenu à demander
+au tribunal des dommages-intérêts pour abus de citation directe, comme il est dit à l'article 472.
+
+Le jugement constatant le désistement présumé de la partie civile lui est signifié par exploit d'huissier, conformément aux
+dispositions des articles 550 et suivants. Ce jugement est assimilé à un jugement par défaut, et l'opposition est soumise aux
+dispositions des articles 489 à 495.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 58-1296 1958-12-23
+
+	**Modifié par**:
+
+	  - Loi n°81-82 du 2 février 1981 - art. 86 () JORF 3 février 1981
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. 472 (M)
+	  - CODE DE PROCEDURE PENALE - art. 550 (M)
+	  - Code de procédure pénale 472, 489 à 495, 550
+
+	**Cité par**:
+
+	  - CODE DE PROCEDURE PENALE - art. 475 (Ab)
 
 
 ###### Article 426
@@ -10360,6 +11050,28 @@ La partie civile et le ministère public peuvent répliquer. Le prévenu ou son 
 	  - CODE DE PROCEDURE PENALE - art. 513 (V)
 
 
+###### Article 460-1
+
+Lorsque la personne qui se prétend lésée s'est constituée partie civile par lettre, le président donne lecture de cette
+lettre dès que l'instruction à l'audience est terminée. Le ministère public prend ses réquisitions ; le prévenu et, s'il y a
+lieu, la personne civilement responsable présentent leur défense.
+
+Si le tribunal l'estime nécessaire, il peut ordonner la comparution de la partie civile. En ce cas, les débats sur l'ensemble
+de l'affaire ou uniquement sur les intérêts civils sont renvoyés à une prochaine audience dont la date est immédiatement
+fixée. Les parties sont tenues de comparaître sans autre citation à l'audience de renvoi. Il en est de même pour les
+personnes invitées par le tribunal à rester à sa disposition lorsqu'un avertissement écrit leur est immédiatement délivré.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 58-1296 1958-12-23
+
+	**Créé par**:
+
+	  - Loi n°81-82 du 2 février 1981 - art. 89 () JORF 3 février 1981
+
+
 ###### Article 461
 
 Si les débats ne peuvent être terminés au cours de la même audience, le tribunal fixe, par jugement, le jour où ils seront
@@ -10533,6 +11245,27 @@ tout.
 	**Codifié par**:
 
 	  - Ordonnance 58-1296 1958-12-23
+
+
+###### Article 467-1
+
+En matière correctionnelle ou de police, la réparation volontaire, en tout ou partie, avant le jour de l'audience, des
+préjudices causés par l'infraction peut être retenue comme une circonstance atténuante compte tenu des facultés contributives
+du prévenu.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 58-1296 1958-12-23
+
+	**Créé par**:
+
+	  - Loi n°81-82 du 2 février 1981 - art. 90 () JORF 3 février 1981
+
+	**Abrogé par**:
+
+	  - Loi n°92-1336 du 16 décembre 1992 - art. 33 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
 
 
 ###### Article 468
@@ -10831,6 +11564,33 @@ Le tribunal peut toutefois, par décision spéciale et motivée, l'en décharger
 	**Cite**:
 
 	  - CODE DE PROCEDURE PENALE - art. 425 (V)
+
+
+###### Article 475-1
+
+Lorsqu'il apparaît inéquitable de laisser à la charge de la partie civile les sommes exposées par elle et non comprises dans
+les frais et dépens, le juge peut condamner l'auteur de l'infraction à lui payer le montant qu'il détermine.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 58-1296 1958-12-23
+
+	**Créé par**:
+
+	  - Loi n°81-82 du 2 février 1981 - art. 91 () JORF 3 février 1981
+
+	**Cité par**:
+
+	  - Décret n°95-1272 du 6 décembre 1995 - art. 9 (An)
+	  - CODE DE PROCEDURE PENALE - art. 706-15-1 (V)
+	  - CODE DE PROCEDURE PENALE - art. 706-15-2 (V)
+	  - Code de procédure pénale - art. 706-164 (V)
+	  - Code des assurances - art. L422-11 (V)
+	  - Code des assurances - art. L422-7 (V)
+	  - Code des assurances - art. L422-8 (V)
+	  - Code des assurances - art. L422-9 (V)
 
 
 ###### Article 476
@@ -11552,6 +12312,29 @@ alors laissés à la charge du Trésor.
 
 	  - CODE DE PROCEDURE PENALE - art. R245 (Ab)
 	  - Code de procédure pénale - art. 549 (VD)
+
+
+###### Article 515-1
+
+Lorsque le tribunal, statuant sur l'action civile, a ordonné le versement provisoire, en tout ou en partie, des dommages-
+intérêts alloués, cette exécution provisoire peut être arrêtée, en cause d'appel, par le premier président statuant en référé
+si elle risque d'entraîner des conséquences manifestement excessives. Le premier président peut subordonner la suspension de
+l'exécution provisoire à la constitution d'une garantie, réelle ou personnelle, suffisante pour répondre de toutes
+restitutions ou réparations.
+
+Lorsque l'exécution provisoire a été refusée par le tribunal statuant sur l'action civile ou lorsque l'exécution provisoire
+n'a pas été demandée, ou si, l'ayant été, le tribunal a omis de statuer, elle peut être accordée, en cas d'appel, par le
+premier président statuant en référé.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 58-1296 1958-12-23
+
+	**Créé par**:
+
+	  - Loi n°81-82 du 2 février 1981 - art. 93 () JORF 3 février 1981
 
 
 ###### Article 516
@@ -15797,6 +16580,49 @@ couvre, s'il en existe, les vices de la procédure antérieure.
 	  - CODE DE PROCEDURE PENALE - art. 574 (M)
 
 
+###### Article 687
+
+Lorsqu'un officier de police judiciaire est susceptible d'être inculpé d'un crime ou d'un délit, qui aurait été commis dans
+la circonscription où il est territorialement compétent, hors ou dans l'exercice de ses fonctions, ou, s'il s'agit d'un maire
+ou de ses adjoints, lorsque les dispositions de l'article 681 ne leur sont pas applicables, le procureur de la République
+saisi de l'affaire présente sans délai requête à la chambre criminelle de la Cour de cassation, qui procède et statue comme
+en matière de règlement de juges et désigne la juridiction chargée de l'instruction ou du jugement de l'affaire.
+
+La Chambre criminelle se prononce dans la huitaine qui suit le jour auquel la requête lui est parvenue.
+
+Les dispositions des articles 680 et 681 (alinéa 5) sont applicables.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: Ordonnance 58-1273 1958-12-22 art. 18
+	  - SPEC_APPLI: Ordonnance n°58-1296 du 23 décembre 1958 - art. 10, v. init.
+
+	**Codifié par**:
+
+	  - Ordonnance 58-1296 1958-12-23
+
+	**Modifié par**:
+
+	  - Loi n°74-646 1974-07-18 art. 3 JORF 19 juillet 1974
+	  - Loi n°81-82 du 2 février 1981 - art. 68 () JORF 3 février 1981
+
+	**Abrogé par**:
+
+	  - Loi n°93-2 du 4 janvier 1993 - art. 102 (V) JORF 5 janvier 1993
+
+	**Cité par**:
+
+	  - CODE DE PROCEDURE PENALE - art. 680 (Ab)
+	  - Code forestier - art. L341-3 (Ab)
+	  - Code forestier de Mayotte - art. L341-3 (VT)
+
+	**Cite**:
+
+	  - Code de procédure pénale 680, 681 al. 5
+
+
 ###### Article 688
 
 Jusqu'à la désignation de la juridiction compétente comme il est dit ci-dessus, la procédure est suivie conformément aux
@@ -16464,6 +17290,49 @@ présent titre sont applicables lorsque la personne lésée est de nationalité 
 	**Cité par**:
 
 	  - Loi n°90-589 du 6 juillet 1990 - art. 17 (V)
+
+
+###### Article 706-14
+
+Toute personne qui, victime d'un vol, d'une escroquerie ou d'un abus de confiance, ne peut obtenir à un titre quelconque une
+réparation ou une indemnisation effective et suffisante de son préjudice, et se trouve de ce fait dans une situation
+matérielle grave, peut également obtenir de l'Etat une indemnité dans les conditions prévues aux articles 706-4 à 706-13
+lorsque ses ressources sont inférieures au plafond prévu à l'alinéa 1er de l'article 2 de la loi n. 72-11 du 3 janvier 1972
+pour bénéficier de l'aide judiciaire totale.
+
+Cette indemnité sera au maximum égale au triple du montant mensuel de ce plafond de ressources.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 58-1296 1958-12-23
+
+	**Cite**:
+
+	  - Loi n°72-11 1972-01-03 art. 2 al. 1
+	  - Code de procédure pénale 706-4 à 706-13
+
+	**Créé par**:
+
+	  - Loi n°81-82 du 2 février 1981 - art. 98 () JORF 3 février 1981
+
+	**Cité par**:
+
+	  - Loi n°83-520 du 27 juin 1983 - art. 55 (V)
+	  - Ordonnance no 92-1144 du 12 octobre 1992 portant e - art. 1 (V)
+	  - Ordonnance no 92-1144 du 12 octobre 1992 portant e - art. 3 (Ab)
+	  - Ordonnance no 92-1148 du 12 octobre 1992 portant e - art. 1 (Ab)
+	  - Ordonnance no 92-1148 du 12 octobre 1992 portant e - art. 3 (Ab)
+	  - CODE DE PROCEDURE PENALE - art. 706-14-1 (V)
+	  - CODE DE PROCEDURE PENALE - art. 706-15-1 (V)
+	  - CODE DE PROCEDURE PENALE - art. 706-5 (V)
+	  - Code de procédure pénale - art. 53-1 (V)
+	  - Code de procédure pénale - art. 706-15 (V)
+	  - Code de procédure pénale - art. 706-164 (V)
+	  - Code de procédure pénale - art. 864 (V)
+	  - Code de procédure pénale - art. 900 (V)
+	  - Code de procédure pénale - art. R50-10 (V)
 
 
 ## Livre V : Des procédures d'exécution
@@ -17305,6 +18174,51 @@ leur reclassement social.
 
 ### Titre III : De la libération conditionnelle
 
+###### Article 729
+
+Les condamnés ayant à subir une ou plusieurs peines privatives de liberté peuvent bénéficier d'une libération conditionnelle
+s'ils présentent des gages sérieux de réadaptation sociale.
+
+La libération conditionnelle peut être accordée aux condamnés ayant accompli la moitié de leur peine. Pour les condamnés en
+état de récidive légale aux termes des articles 56, 57 ou 58 du code pénal, le temps d'épreuve est porté aux deux tiers de la
+peine.
+
+Pour les condamnés à la réclusion criminelle à perpétuité, le temps d'épreuve est de quinze années.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 58-1296 1958-12-23
+
+	**Modifié par**:
+
+	  - loi 72-1226 1972-12-29 art. 39 JORF 30 décembre 1972
+	  - Loi n°75-624 du 11 juillet 1975 - art. 39 () JORF 13 juillet 1975
+	  - Loi n°81-82 du 2 février 1981 - art. 69 () JORF 3 février 1981
+
+	**Cite**:
+
+	  - Code pénal 56, 57, 58
+
+	**Cité par**:
+
+	  - CODE DE PROCEDURE PENALE - art. D527-1 (Ab)
+	  - Code de procédure pénale - art. 717-1 (V)
+	  - Code de procédure pénale - art. 721-3 (V)
+	  - Code de procédure pénale - art. 723-1 (V)
+	  - Code de procédure pénale - art. 723-7 (V)
+	  - Code de procédure pénale - art. 730 (VD)
+	  - Code de procédure pénale - art. 730-2 (VD)
+	  - Code de procédure pénale - art. 730-2-1 (V)
+	  - Code de procédure pénale - art. D147-8 (VD)
+	  - Code de procédure pénale - art. D522 (V)
+	  - Code de procédure pénale - art. D525 (V)
+	  - Code de procédure pénale - art. D527-1 (V)
+	  - Code de procédure pénale - art. D527-2 (V)
+	  - Code de procédure pénale - art. D528 (V)
+
+
 ###### Article 729-2
 
 Dans les formes et conditions prévues par les articles 721, 721-1, et 729-1, mais dans la limite de quarante-cinq jours par
@@ -17580,6 +18494,49 @@ Le sursis peut être simple ou être assorti du placement du condamné sous le r
 
 
 #### Chapitre Ier : Du sursis simple
+
+###### Article 735
+
+Si le condamné bénéficiant du sursis simple à l'emprisonnement n'a pas commis, pendant le délai de cinq ans à compter de la
+condamnation, un crime ou un délit de droit commun suivi d'une nouvelle condamnation, soit à une peine criminelle, soit à une
+peine correctionnelle d'emprisonnement sans sursis, la condamnation suspendue est considérée comme non avenue. Est également
+considérée comme non avenue la condamnation à l'amende assortie du sursis lorsque, dans le délai ci-dessus, le condamné n'a
+pas commis un crime ou un délit suivi d'une condamnation à l'amende ou à l'emprisonnement.
+
+Dans le cas contraire, la première peine est exécutée sans qu'elle puisse se confondre avec la seconde. Toutefois, le
+tribunal peut, par décision spéciale et motivée, dire que la condamnation qu'il prononce n'entraîne pas la révocation, ou
+n'entraîne que la révocation partielle, du sursis antérieurement accordé. Si le tribunal n'a pas expressément statué sur la
+dispense de révocation, le condamné peut ultérieurement en demander le bénéfice ; sa requête est alors instruite et jugée
+selon les règles de compétence et de procédure fixées par les articles 55-1 (alinéa 2) du code pénal et 703 du présent code.
+
+Lorsque le bénéfice du sursis simple n'a été accordé que pour une partie de la peine, la condamnation est considérée comme
+non avenue dans tous les éléments si la révocation du sursis n'a pas été encourue dans le délai prévu par l'alinéa premier,
+l'amende ou la partie de l'amende non assortie du sursis restant due.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 58-1296 1958-12-23
+
+	**Modifié par**:
+
+	  - Loi n°70-643 du 17 juillet 1970 - art. 29 () JORF 19 juillet 1970
+	  - Loi n°75-624 du 11 juillet 1975 - art. 29 () JORF 13 juillet 1975
+	  - Loi n°81-82 du 2 février 1981 - art. 6 () JORF 3 février 1981
+
+	**Cité par**:
+
+	  - Loi n°2014-896 du 15 août 2014 - art. 53 (VD)
+	  - CODE DE PROCEDURE PENALE - art. 736 (MMN)
+	  - Code de procédure pénale - art. 735-1 (VD)
+	  - Code de procédure pénale - art. D544-1 (V)
+
+	**Cite**:
+
+	  - Code pénal 55-1 al. 2
+	  - CODE DE PROCEDURE PENALE - art. 703 (M)
+
 
 ###### Article 736
 
@@ -17873,6 +18830,48 @@ détention du condamné.
 	  - CODE DE PROCEDURE PENALE - art. 742 (M)
 
 
+###### Article 742
+
+Le tribunal correctionnel peut prolonger le délai d'épreuve :
+
+1° Lorsque le condamné ne satisfait pas aux mesures de surveillance et d'assistance ou aux obligations particulières imposées
+en application de l'article 739 ;
+
+2° Lorsqu'il a commis une infraction suivie d'une condamnation à l'occasion de laquelle la révocation du sursis n'a pas été
+prononcée ;
+
+3° Lorsqu'il s'est soustrait volontairement à l'obligation de contribuer aux charges familiales, d'acquitter régulièrement
+des pensions alimentaires, de remettre ses enfants entre les mains de ceux auxquels leur garde a été confiée par décision de
+justice, ou encore de réparer les dommages causés par l'infraction.
+
+Le tribunal peut aussi, dans les conditions prévues aux articles suivants, ordonner exécution de la peine en totalité ou pour
+une partie dont il détermine la durée.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 58-1296 1958-12-23
+
+	**Modifié par**:
+
+	  - Loi n°70-643 du 17 juillet 1970 - art. 29 () JORF 19 juillet 1970
+	  - Loi n°75-624 du 11 juillet 1975 - art. 32 () JORF 13 juillet 1975
+	  - Loi n°81-82 du 2 février 1981 - art. 96 () JORF 3 février 1981
+
+	**Cité par**:
+
+	  - Loi n°88-828 du 20 juillet 1988 - art. 7 (V)
+	  - Loi n°95-884 du 3 août 1995 - art. 7 (V)
+	  - CODE DE PROCEDURE PENALE - art. 741-3 (Ab)
+	  - CODE DE PROCEDURE PENALE - art. 744 (M)
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. 739 (M)
+	  - Code de procédure pénale 739, 742-2 à 742-4
+
+
 ###### Article 742-1
 
 Lorsque le tribunal correctionnel prolonge le délai d'épreuve, ce délai ne peut au total être supérieur à cinq années. Le
@@ -18102,6 +19101,48 @@ l'expiration du délai d'épreuve.
 	**Cite**:
 
 	  - Code de procédure pénale 739 à 744-1
+
+
+###### Article 744-3
+
+Si le condamné commet, au cours du délai d'épreuve, un crime ou un délit de droit commun suivi d'une nouvelle condamnation,
+soit à une peine criminelle, soit à une peine correctionnelle d'emprisonnement, la cour ou le tribunal peut ordonner la
+révocation de tout ou partie du ou des sursis antérieurement accordés. Dans ce cas, les peines correspondant aux sursis
+révoqués sont d'abord exécutés sans qu'elles puissent se confondre entre elles ou avec la dernière peine prononcée.
+
+Si le sursis avec mise à l'épreuve a été accordé après une ou plusieurs condamnations déjà prononcées avec le bénéfice de ce
+sursis, les peines portées par les condamnations correspondantes sont exécutées totalement ou partiellement si la cour ou le
+tribunal ordonne la révocation, en tout ou en partie, du ou des sursis qui les accompagnent.
+
+Lorsque la révocation du sursis est ordonnée, les dispositions des articles 742-4 et 744-1 sont applicables.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 58-1296 1958-12-23
+
+	**Créé par**:
+
+	  - Loi n°70-643 du 17 juillet 1970 - art. 29 () JORF 19 juillet 1970
+
+	**Modifié par**:
+
+	  - Loi n°75-624 du 11 juillet 1975 - art. 33 () JORF 13 juillet 1975
+	  - Loi n°81-82 du 2 février 1981 - art. 8 () JORF 3 février 1981
+
+	**Abrogé par**:
+
+	  - Loi n°92-1336 du 16 décembre 1992 - art. 106 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
+
+	**Cité par**:
+
+	  - Loi n°95-884 du 3 août 1995 - art. 7 (V)
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. 742-4 (Ab)
+	  - CODE DE PROCEDURE PENALE - art. 744-1 (M)
 
 
 ###### Article 745
@@ -19098,6 +20139,43 @@ La réhabilitation est soit acquise de plein droit, soit accordée par arrêt de
 	**Codifié par**:
 
 	  - Ordonnance 58-1296 1958-12-23
+
+
+###### Article 784
+
+Elle est acquise de plein droit au condamné qui n'a, dans les délais ci-après déterminés, subi aucune condamnation nouvelle à
+une peine criminelle ou correctionnelle : 
+
+1° Pour la condamnation à l'amende après un délai de trois ans à compter du jour du paiement de l'amende, de l'expiration de
+la contrainte par corps ou de la prescription accomplie ; 
+
+2° Pour la condamnation unique, soit à une peine d'emprisonnement n'excédant pas six mois, soit à une sanction pénale autre
+que l'emprisonnement ou l'amende prononcée à titre principal, après un délai de cinq ans à compter, soit de l'expiration de
+la peine ou de la sanction subie, soit de la prescription accomplie ; 
+
+3° Pour la condamnation unique à une peine d'emprisonnement n'excédant pas cinq ans, ou pour les condamnations multiples dont
+l'ensemble ne dépasse pas deux ans, après un délai de dix ans à compter, soit de l'expiration de la peine subie, soit de la
+prescription accomplie. 
+
+Sont, pour l'application des dispositions qui précèdent, considérés comme constituant une condamnation unique les
+condamnations dont la confusion a été accordée. 
+
+La remise totale ou partielle d'une peine par voie de grâce équivaut à son exécution totale ou partielle.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 58-1296 1958-12-23
+
+	**Modifié par**:
+
+	  - Loi n°70-643 du 17 juillet 1970 - art. 43 () JORF 19 juillet 1970
+	  - Loi n°81-82 du 2 février 1981 - art. 69 () JORF 3 février 1981
+
+	**Abrogé par**:
+
+	  - Loi n°92-1336 du 16 décembre 1992 - art. 131 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
 
 
 ###### Article 785
