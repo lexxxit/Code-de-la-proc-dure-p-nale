@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 1981-10-10
+Version Consolidée au 1981-11-11
 
 # Partie législative
 
@@ -23195,7 +23195,161 @@ Dès son retour à la vie civile, il doit se présenter au juge de l'application
 
 ### Titre VIII : Du casier judiciaire
 
+#### Chapitre Ier : De l'organisation des services du casier judiciaire
+
+###### Article R62
+
+Le service du casier judiciaire national automatisé est dirigé par un magistrat de l'administration centrale du ministère de
+la Justice sous le contrôle et l'autorité du directeur des affaires criminelles et des grâces.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-318 1959-02-23
+
+	**Créé par**:
+
+	  - Décret n°59-318 1959-02-23 JORF 25 février 1959 en vigueur le 2 mars 1959 rectificatif JORF 13 juin 1959
+
+	**Modifié par**:
+
+	  - Décret n°81-1003 1981-11-06 art. 1 JORF 11 novembre 1981
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°81-1003 1981-11-06 art. 25
+
+	**Cité par**:
+
+	  - CODE DE PROCEDURE PENALE - art. R290 (V)
+	  - Code de procédure pénale - art. R291 (V)
+	  - Code de procédure pénale - art. R292 (V)
+	  - Code de procédure pénale - art. R294 (V)
+	  - Code de procédure pénale - art. R296 (V)
+	  - Code de procédure pénale - art. R301 (V)
+	  - Code de procédure pénale - art. R305 (V)
+	  - Code de procédure pénale - art. R308 (V)
+	  - Code de procédure pénale - art. R376 (Ab)
+	  - Code de procédure pénale - art. R377 (Ab)
+	  - Code de procédure pénale - art. R378 (Ab)
+	  - Code de procédure pénale - art. R380 (Ab)
+	  - Code de procédure pénale - art. R382 (Ab)
+	  - Code de procédure pénale - art. R387 (Ab)
+	  - Code de procédure pénale - art. R391 (Ab)
+	  - Code de procédure pénale - art. R394 (Ab)
+
+
+###### Article R63
+
+Le magistrat chargé du service du casier judiciaire national automatisé désigne nommément les personnes habilitées à traiter
+les informations destinées au casier judiciaire ainsi que celles qui peuvent accéder auxdites informations.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-318 1959-02-23
+
+	**Créé par**:
+
+	  - Décret n°59-318 1959-02-23 JORF 25 février 1959 en vigueur le 2 mars 1959 rectificatif JORF 13 juin 1959
+
+	**Modifié par**:
+
+	  - Décret n°81-1003 1981-11-06 art. 2 JORF 11 novembre 1981
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°81-1003 1981-11-06 art. 25
+
+	**Cité par**:
+
+	  - Code de procédure pénale - art. R251 (VT)
+
+
+###### Article R64
+
+Le directeur de l'institut national de la statistique et des études économiques communique au service du casier judiciaire
+national automatisé les noms patronymiques, les prénoms, les dates et lieu de naissance et le sexe des personnes âgées de
+plus de douze ans qui figurent au répertoire national d'identification ainsi que les modifications dont ces données auront
+éventuellement été l'objet.
+
+Cette communication, effectuée sur support magnétique, a lieu périodiquement, au moins une fois par an. Il peut y être
+procédé par plusieurs envois séparés.
+
+Le service du casier judiciaire national automatisé ne peut utiliser l'extrait du répertoire national d'identification des
+personnes physiques qui lui est communiqué à des fins autres que la vérification de l'état civil des personnes dont le casier
+judiciaire est demandé.
+
+En aucun cas le numéro attribué par l'institut national de la statistique et des études économiques pour servir de base aux
+vérifications d'identité n'est communiqué au service du casier judiciaire national automatisé.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-318 1959-02-23
+
+	**Créé par**:
+
+	  - Décret n°59-318 1959-02-23 JORF 25 février 1959 en vigueur le 2 mars 1959 rectificatif JORF 13 juin 1959
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°81-1003 1981-11-06 art. 25
+
+	**Modifié par**:
+
+	  - Décret n°81-1003 1981-11-06 art. 3 JORF 11 novembre 1981
+
+	**Cité par**:
+
+	  - CODE DE PROCEDURE PENALE - art. R53-8-30 (V)
+	  - Code de procédure pénale - art. R251 (M)
+	  - Code de procédure pénale - art. R53-8-25 (V)
+	  - Code de procédure pénale - art. R53-8-3 (V)
+	  - Code de procédure pénale - art. R77 (V)
+
+
 #### Chapitre II : De l'établissement des fiches du casier judiciaire
+
+###### Article R65
+
+Une fiche du casier judiciaire est établie au nom de toute personne qui a été l'objet d'une des décisions énumérées à
+l'article 768.
+
+Cette fiche est établie sur papier ou sur support magnétique.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-318 1959-02-23
+
+	**Créé par**:
+
+	  - Décret n°59-318 1959-02-23 JORF 25 février 1959 en vigueur le 2 mars 1959 rectificatif JORF 13 juin 1959
+
+	**Cité par**:
+
+	  - Arrêté du 9 janvier 1960 - art. 4 (V)
+	  - Code de procédure pénale - art. R297 (V)
+	  - Code de procédure pénale - art. R383 (Ab)
+	  - Code de procédure pénale - art. R72 (V)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°81-1003 1981-11-06 art. 25
+
+	**Modifié par**:
+
+	  - Décret n°81-1003 1981-11-06 art. 4 JORF 11 novembre 1981
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. 768 (M)
+
 
 ###### Article R66
 
@@ -23226,6 +23380,170 @@ décision est mentionnée sur la fiche constatant la condamnation.
 	**Cite**:
 
 	  - Code de procédure pénale 768 (1° à 6°)
+
+
+###### Article R66-1
+
+Les fiches sont adressées au service du casier judiciaire national automatisé soit sur un support papier, soit sous la forme
+d'un enregistrement magnétique.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-318 1959-02-23
+
+	**Cité par**:
+
+	  - Arrêté du 9 janvier 1960 - art. 4 (V)
+	  - CODE DE PROCEDURE PENALE - art. R377 (V)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°81-1003 1981-11-06 art. 25
+
+	**Créé par**:
+
+	  - Décret n°81-1003 1981-11-06 art. 5 JORF 11 novembre 1981
+
+
+###### Article R67
+
+Les fiches constatant une décision disciplinaire d'une autorité administrative, qui entraîne ou édicte des incapacités, sont
+adressées au service du casier judiciaire national automatisé dès la réception de l'avis qui est donné dans le plus bref
+délai au procureur de la République ou au ministre de la justice par l'autorité qui a rendu la décision.
+
+Les fiches relevant un arrêté d'expulsion sont dressées par le ministre de l'Intérieur ou les préfets des départements
+frontières et transmises au service du casier judiciaire national automatisé.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-318 1959-02-23
+
+	**Créé par**:
+
+	  - Décret n°59-318 1959-02-23 JORF 25 février 1959 en vigueur le 2 mars 1959 rectificatif JORF 13 juin 1959
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°81-1003 1981-11-06 art. 25
+
+	**Modifié par**:
+
+	  - Décret n°81-1003 1981-11-06 art. 6 JORF 11 novembre 1981
+
+	**Cité par**:
+
+	  - CODE DE PROCEDURE PENALE - art. R378 (V)
+	  - CODE DE PROCEDURE PENALE - art. R383 (V)
+	  - Code de procédure pénale - art. R297 (V)
+	  - Code de procédure pénale - art. R72 (V)
+
+
+###### Article R68
+
+Les fiches du casier judiciaire national automatisé sont enregistrées sur un support magnétique.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-318 1959-02-23
+
+	**Créé par**:
+
+	  - Décret n°59-318 1959-02-23 JORF 25 février 1959 en vigueur le 2 mars 1959 rectificatif JORF 13 juin 1959
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°81-1003 1981-11-06 art. 25
+
+	**Modifié par**:
+
+	  - Décret n°81-1003 1981-11-06 art. 7 JORF 11 novembre 1981
+
+	**Cité par**:
+
+	  - CODE DE PROCEDURE PENALE - art. R293 (V)
+	  - CODE DE PROCEDURE PENALE - art. R379 (V)
+
+
+###### Article R70
+
+Les fiches du casier judiciaire national automatisé sont effacées dans les cas suivants :
+
+1° Au décès du titulaire de la fiche, établi notamment par la mention portée au registre de l'état civil des naissances en
+applicaton de l'article 79 du Code civil ou, lorsque le décès ne serait pas parvenu à la connaissance du service du casier
+judiciaire national automatisé, quand le titulaire aurait atteint l'âge de cent ans ;
+
+2° Lorsque la condamnation mentionnée sur la fiche a été entièrement effacée par l'amnistie ;
+
+3° Lorsque l'intéressé a obtenu une décision de rectification du casier judiciaire, le retrait se fait, selon le cas, à la
+diligence du procureur général ou du procureur de la République près la juridiction qui a statué ;
+
+4° Lorsque le condamné purge sa contumace ou lorsqu'il a fait opposition à un jugement ou arrêt par défaut ou lorsque la Cour
+de cassation annule la décision par application des articles 620 ou 625, le retrait se fait sur ordre du procureur général ou
+du procureur de la République près la juridiction qui a rendu la décision devenue caduque ;
+
+5° Lorsque le tribunal pour enfants a décidé la suppression de la fiche en application de l'article 770, le retrait se fait à
+la diligence du ministère public près le tribunal pour enfants qui a rendu cette décision.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-318 1959-02-23
+
+	**Créé par**:
+
+	  - Décret n°59-318 1959-02-23 JORF 25 février 1959 en vigueur le 2 mars 1959 rectificatif JORF 13 juin 1959
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°81-1003 1981-11-06 art. 25
+
+	**Modifié par**:
+
+	  - Décret n°81-1003 1981-11-06 art. 9 JORF 11 novembre 1981
+
+	**Cite**:
+
+	  - Code civil - art. 79 (V)
+	  - CODE DE PROCEDURE PENALE - art. 620 (V)
+	  - Code de procédure pénale 620, 625 et 770
+
+	**Cité par**:
+
+	  - CODE DE PROCEDURE PENALE - art. R381 (V)
+
+
+###### Article R71
+
+Le service du casier judiciaire national automatisé enregistre les avis provenant des autorités étrangères concernant les
+personnes condamnées par une juridiction étrangère.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-318 1959-02-23
+
+	**Créé par**:
+
+	  - Décret n°59-318 1959-02-23 JORF 25 février 1959 en vigueur le 2 mars 1959 rectificatif JORF 13 juin 1959
+
+	**Modifié par**:
+
+	  - Décret n°81-1003 1981-11-06 art. 10 JORF 11 novembre 1981
+
+	**Cité par**:
+
+	  - CODE DE PROCEDURE PENALE - art. R382 (V)
+	  - CODE DE PROCEDURE PENALE - art. R383 (V)
+	  - Code de procédure pénale - art. R297 (V)
+	  - Code de procédure pénale - art. R72 (V)
 
 
 ###### Article R72
@@ -23292,6 +23610,160 @@ direction du recrutement et de la statistique de la région militaire sur le ter
 	  - Arrêté du 11 avril 1990 - art. 2 (M)
 	  - Code de procédure pénale - art. R299 (V)
 	  - Code de procédure pénale - art. R385 (Ab)
+
+
+###### Article R75-1
+
+Un copie de chaque fiche relative à une condamnation à une peine privative de liberté prononcée pour crime ou délit est
+adressée par le greffier de la juridiction qui a prononcé la condamnation au fichier central de la police nationale du
+ministère de l'intérieur en vue de son enregistrement sur le sommier de police technique.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-318 1959-02-23
+
+	**Liens**:
+
+	  - TXT_SOURCE: CODE DE PROCEDURE PENALE - art. 779 (M)
+	  - TXT_SOURCE: Code de procédure pénale 776 (3°), 779
+
+	**Créé par**:
+
+	  - Décret n°81-1003 1981-06-11 art. 11 JORF 11 novembre 1981
+
+
+#### Chapitre IV : De la délivrance des bulletins n° 1 du casier judiciaire
+
+###### Article R76
+
+Le bulletin n° 1 est réclamé au magistrat chargé du casier judiciaire national automatisé par lettre, télégramme, télécopie,
+télé-transmission ou support magnétique, indiquant l'état civil de la personne dont le bulletin est demandé, et précisant
+l'autorité judiciaire requérante.
+
+Sur instructions de l'autorité judiciaire requérante, le bulletin n° 1 est délivré en double exemplaire.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-318 1959-02-23
+
+	**Créé par**:
+
+	  - Décret n°59-318 1959-02-23 JORF 25 février 1959 en vigueur le 2 mars 1959 rectificatif JORF 13 juin 1959
+
+	**Modifié par**:
+
+	  - Décret n°60-897 1960-08-24 art. 1 JORF 25 août 1960
+	  - Décret n°81-1003 1981-11-06 art. 12 JORF 11 novembre 1981
+
+	**Cité par**:
+
+	  - Décret n°67-902 du 12 octobre 1967 - art. Annexe II (Ab)
+	  - Code de procédure pénale - art. R301 (V)
+	  - Code de procédure pénale - art. R387 (Ab)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°81-1003 1981-11-06 art. 25
+	  - TXT_SOURCE: CODE DE PROCEDURE PENALE - art. 779 (M)
+	  - TXT_SOURCE: Code de procédure pénale 776 (3°), 779
+
+
+###### Article R78-1
+
+Le bulletin n° 1 du casier judiciaire est adressé par lettre à l'autorité judiciaire requérante.
+
+En cas d'urgence, cet envoi peut être effectué par télécopie.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-318 1959-02-23
+
+	**Créé par**:
+
+	  - Décret n°81-1003 1981-11-06 art. 14 JORF 11 novembre 1981
+
+	**Liens**:
+
+	  - TXT_SOURCE: CODE DE PROCEDURE PENALE - art. 779 (M)
+	  - TXT_SOURCE: Code de procédure pénale 776 (3°), 779
+
+
+#### Chapitre V : De la délivrance des bulletins n° 2 du casier judiciaire
+
+###### Article R81
+
+S'il existe une ou plusieurs fiches du casier judiciaire autres que celles figurant à l'article 775, la teneur ainsi que
+celles des mentions prévues à l'article 769 en est reproduite sur le bulletin n° 2.
+
+Sinon, le bulletin n° 2 est revêtu de la mention "néant".
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-318 1959-02-23
+
+	**Créé par**:
+
+	  - Décret n°59-318 1959-02-23 JORF 25 février 1959 en vigueur le 2 mars 1959 rectificatif JORF 13 juin 1959
+
+	**Modifié par**:
+
+	  - Décret n°81-1003 1981-11-06 art. 17 JORF 11 novembre 1981
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°81-1003 1981-11-06 art. 25
+	  - TXT_SOURCE: CODE DE PROCEDURE PENALE - art. 779 (M)
+	  - TXT_SOURCE: Code de procédure pénale 776 (3°), 779
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. 769 (M)
+	  - CODE DE PROCEDURE PENALE - art. 775 (M)
+
+
+#### Chapitre VI : De la délivrance des bulletins n° 3 du casier judiciaire
+
+###### Article R84
+
+Lorsqu'il n'existe pas au casier judiciaire de fiche ou lorsque les mentions que portent les fiches ne doivent pas être
+inscrites sur le bulletin n° 3, celui-ci est oblitéré par une barre transversale.
+
+Lorsque l'examen des fiches révèle l'existence d'une des condamnations prévues à l'article 777, la teneur, avec indication de
+toutes les peines prononcées en est reproduite sur le bulletin n° 3, ainsi que les mentions prévues à l'article 769 qui s'y
+rapportent.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-318 1959-02-23
+
+	**Créé par**:
+
+	  - Décret n°59-318 1959-02-23 JORF 25 février 1959 en vigueur le 2 mars 1959 rectificatif JORF 13 juin 1959
+
+	**Modifié par**:
+
+	  - Décret n°81-1003 1981-11-06 art. 20 JORF 11 novembre 1986
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°81-1003 1981-11-06 art. 25
+	  - TXT_SOURCE: CODE DE PROCEDURE PENALE - art. 779 (M)
+	  - TXT_SOURCE: Code de procédure pénale 776 (3°), 779
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. 769 (M)
+	  - CODE DE PROCEDURE PENALE - art. 777 (M)
 
 
 #### Chapitre VII : Dispositions diverses
@@ -23362,6 +23834,82 @@ Les bulletins n° 3 du casier judiciaire sont délivrés gratuitement.
 	**Modifié par**:
 
 	  - Décret n°78-62 1970-01-20 art. 9 JORF 24 janvier 1978
+
+
+###### Article R88
+
+Le service du casier judiciaire national automatisé est avisé, par les soins du procureur de la République ou du procureur
+général, dans mandats d'arrêt et des jugements ou arrêts prononçant des condamnations à des peines privatives de liberté,
+contradictoires ou par défaut, qui n'ont pas été exécutés. Ces avis font l'objet d'un enregistrement au casier judiciaire.
+
+Ils sont renvoyés avec toutes les indications utiles permettant l'exécution des mandats, jugements ou arrêts, par le service
+du casier judiciaire national automatisé, au procureur de la République près le tribunal, au procureur général près la cour
+d'appel ou au commissaire du Gouvernement près le tribunal des forces armées dont ils émanent, lorsque les intéressés
+demandent un bulletin n° 3 ou qu'il a été demandé à leur sujet un bulletin n° 1 ou n° 2.
+
+En outre, les autorités militaires donnent avis au service du casier judiciaire national automatisé des cas d'insoumission ou
+de désertion dont elles ont connaissance. Ces avis font l'objet d'un enregistrement au casier judiciaire. Ils sont renvoyés,
+avec toutes les indications utiles, aux autorités dont ils émanent, dans les circonstances prévues au deuxième alinéa.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-318 1959-02-23
+
+	**Créé par**:
+
+	  - Décret n°59-318 1959-02-23 JORF 25 février 1959 en vigueur le 2 mars 1959 rectificatif JORF 13 juin 1959
+
+	**Modifié par**:
+
+	  - Décret n°81-1003 1981-11-06 art. 21 et art. 22 JORF 11 novembre 1981
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°81-1003 1981-11-06 art. 25
+	  - TXT_SOURCE: CODE DE PROCEDURE PENALE - art. 776 (M)
+	  - TXT_SOURCE: CODE DE PROCEDURE PENALE - art. 779 (M)
+
+	**Cité par**:
+
+	  - CODE DE PROCEDURE PENALE - art. R394 (V)
+
+
+###### Article R89
+
+En cas de perte d'une carte nationale d'identité, d'un passeport ou d'un permis de conduire, un double de la déclaration de
+perte est adressé par l'autorité administrative habilitée à délivrer un duplicata de ce document au le procureur de la
+République qui transmet ce double au service du casier judiciaire national automatisé pour enregistrement.
+
+En cas de vol d'une des pièces d'identité visées à l'alinéa précédent, avis du procès-verbal constatant ce vol est adressé au
+service du casier judiciaire national automatisé pour enregistrement.
+
+Les déclarations et avis prévus aux alinés précédents sont effacés du casier judiciaire soit lorsque les pièces perdues ou
+volées ont été retrouvées, soit à l'expiration du délai de trois ans à compter de leur enregistrement.
+
+Chaque fois que le service du casier judiciaire national automatisé est saisi d'une demande de bulletin n° 1, n° 2 ou n° 3
+concernant les personnes dont les pièces d'identité ont été perdues ou volées, il ne délivre les bulletins qu'après s'être
+assuré de l'identité des personnes qui font l'objet de ces demandes.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-318 1959-02-23
+
+	**Créé par**:
+
+	  - Décret n°59-318 1959-02-23 JORF 25 février 1959 en vigueur le 2 mars 1959 rectificatif JORF 13 juin 1959
+
+	**Modifié par**:
+
+	  - Décret n°74-560 1974-05-20 art. 1 JORF 28 mai 1974
+	  - Décret n°81-1003 1981-11-06 art. 23 I et art. 23 II JORF 11 novembre 1981
+
+	**Abrogé par**:
+
+	  - Décret n°85-913 1985-08-29 art. 8 et art. 10 JORF 30 août 1985 en vigueur le 1er septembre 1985
 
 
 ###### Article R90
