@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 1980-04-04
+Version Consolidée au 1980-06-08
 
 # Partie législative
 
@@ -6117,6 +6117,21 @@ Il doit être fait appel à un interprète si l'accusé ne parle ou ne comprend 
 	**Cite**:
 
 	  - Code de procédure pénale 215-1 al. 2
+
+
+###### Article 273
+
+Le président interroge l'accusé sur son identité et s'assure que celui-ci a reçu signification de l'arrêt de renvoi.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 58-1296 1958-12-23
+
+	**Modifié par**:
+
+	  - Ordonnance 60-529 1960-06-04 art. 8 JORF 8 juin 1960
 
 
 ###### Article 274
