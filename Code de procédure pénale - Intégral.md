@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 1992-07-17
+Version Consolidée au 1992-10-01
 
 # Partie législative
 
@@ -57569,6 +57569,26 @@ service dans cette armée.
 	  - CODE DE PROCEDURE PENALE - art. R3 (M)
 
 
+###### Article A2
+
+Les listes des candidats admis à se présenter à l'examen technique sont établies par les commandants de légion de gendarmerie
+départementale (ou autorités assimilées) et arrêtées par le ministre chargé des armées.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Arrêté 1958-12-23
+
+	**Modifié par**:
+
+	  - Arrêté 1992-06-12 art. 1 JORF 9 juillet 1992 en vigueur le 1er octobre 1992
+
+	**Cité par**:
+
+	  - Code de procédure pénale - art. A7 (V)
+
+
 ###### Article A3
 
 L'examen technique d'officier de police judiciaire a lieu chaque année, au cours du dernier trimestre, et comporte deux
@@ -57683,6 +57703,63 @@ Les règles de sélection et de préparation des candidats à l'examen technique
 	  - Code de procédure pénale - art. A6 (V)
 
 
+###### Article A6
+
+La date de l'examen technique et les sujets des épreuves sont fixés, d'un commun accord, par le directeur des affaires
+criminelles et des grâces et par le directeur général de la gendarmerie nationale.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Arrêté 1958-12-23
+
+	**Modifié par**:
+
+	  - Arrêté 1992-06-12 art. 1 JORF 9 juillet 1992 en vigueur le 1er octobre 1992
+
+	**Liens**:
+
+	  - TRANSFERE: Arrêté du 13 décembre 2016 - art. 7
+
+	**Nouveaux textes**:
+
+	  - Code de procédure pénale - art. A7 (V)
+
+
+###### Article A7
+
+Les épreuves de l'examen technique se déroulent dans un ou plusieurs centres organisés par les commandants de légion de
+gendarmerie départementale (ou autorités assimilées) concernés.
+
+Il est interdit aux candidats, sous peine d'exclusion, d'avoir par-devers eux des documents imprimés ou manuscrits ou des
+codes annotés et commentés article par article par des praticiens du droit. Toutefois, ils peuvent consulter des codes ou
+recueils de lois et décrets ; ces derniers peuvent comporter des références à des textes législatifs ou réglementaires ainsi
+qu'à des articles de doctrine ou des décisions de jurisprudence.
+
+Toute fraude ou tentative de fraude dans l'une quelconque des épreuves entraîne l'exclusion immédiate de l'examen, prononcée
+sans délai et sans appel, par l'officier surveillant ; le candidat, en dehors d'une sanction disciplinaire, peut ne pas être
+autorisé à se présenter à l'examen les années suivantes.
+
+L'enveloppe renfermant chaque sujet de composition est décachetée, en présence des candidats, à l'ouverture de la séance
+affectée à l'épreuve, par l'officier surveillant.
+
+Toutes les compositions sont faites sur des feuilles fournies par la direction générale de la gendarmerie nationale.
+
+L'organisation matérielle des épreuves de l'examen technique est assurée par le commandant de légion de gendarmerie
+départementale (ou autorité assimilée) conformément aux directives données par circulaire.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Arrêté 1958-12-23
+
+	**Modifié par**:
+
+	  - Arrêté 1992-06-12 art. 1 JORF 9 juillet 1992 en vigueur le 1er octobre 1992
+
+
 ###### Article A8
 
 Les membres du juge d'examen, constitué comme il est dit à l'article R. 4, peuvent être répartis, pour la correction des
@@ -57790,63 +57867,6 @@ police judiciaire.
 	**Modifié par**:
 
 	  - Arrêté 1960-08-24 art. 1 JORF 25 août 1960
-
-
-##### Paragraphe 1er : Désignation des gendarmes officiers de police judiciaire
-
-###### Article A2
-
-Les listes des candidats admis à se présenter à l'examen technique sont établies par les chefs de corps de gendarmerie et
-arrêtées par le ministre des armées.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Arrêté 1958-12-23
-
-	**Cité par**:
-
-	  - Code de procédure pénale - art. A7 (V)
-
-
-###### Article A6
-
-La date de l'examen technique et les sujets des épreuves sont fixés, d'un commun accord, par le directeur des affaires
-criminelles et des grâces et par le directeur de la gendarmerie et de la justice militaire.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Arrêté 1958-12-23
-
-
-###### Article A7
-
-Les épreuves de l'examen technique se déroulent dans un ou plusieurs centres désignés par le chef de corps de gendarmerie.
-
-Il est interdit aux candidats, sous peine d'exclusion, d'avoir par devers eux des documents imprimés ou manuscrits ;
-toutefois, ils peuvent consulter les codes ou recueils de textes législatifs ou réglementaires, ne comportant pas
-d'annotation, dont la liste est fixée par le garde des sceaux, ministre de la justice.
-
-Toute fraude ou tentative de fraude dans l'une quelconque des épreuves entraîne l'exclusion immédiate de l'examen, prononcée
-sans délai et sans appel, par l'officier surveillant ; le candidat en dehors d'une sanction disciplinaire peut être exclu de
-l'examen les années suivantes.
-
-L'enveloppe renfermant chaque sujet de composition est décachetée, en présence des candidats, à l'ouverture de la séance
-affectée à l'épreuve, par l'officier surveillant.
-
-Toutes les compositions sont faites sur des feuilles fournies par la direction de la gendarmerie et de la justice militaire.
-
-L'organisation matérielle des épreuves de l'examen technique est assurée par le chef de corps de gendarmerie conformément aux
-directives donnée par circulaire.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Arrêté 1958-12-23
 
 
 ##### Paragraphe 2 : Désignation des officiers de police judiciaire de la police nationale
