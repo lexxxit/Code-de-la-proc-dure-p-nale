@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 1994-12-03
+Version Consolidée au 1995-01-24
 
 # Partie législative
 
@@ -3045,6 +3045,38 @@ qu'ils secondent.
 	  - CODE DE PROCEDURE PENALE - art. 20 (M)
 
 
+###### Article 62-1
+
+Les personnes à l'encontre desquelles il n'existe aucun indice faisant présumer qu'elles ont commis ou tenté de commettre une
+infraction et qui sont susceptibles d'apporter des éléments de preuves intéressant l'enquête peuvent, sur autorisation du
+procureur de la République, déclarer comme domicile l'adresse du commissariat ou de la brigade de gendarmerie.
+
+Les fonctionnaires de la police nationale et les militaires de la gendarmerie nationale concourant à la procédure sont
+autorisés à déclarer comme domicile l'adresse du siège du service dont ils dépendent.
+
+L'adresse des personnes ayant bénéficié des dispositions du premier alinéa est inscrite sur un registre coté, paraphé, ouvert
+à cet effet. Un décret en Conseil d'Etat fixe les conditions d'application de ces dispositions.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°57-1426 1957-12-31
+
+	**Cité par**:
+
+	  - CODE DE PROCEDURE PENALE - art. 153 (M)
+	  - CODE DE PROCEDURE PENALE - art. R15-33-1 (M)
+	  - CODE DE PROCEDURE PENALE - art. R15-33-24 (Ab)
+	  - CODE DE PROCEDURE PENALE - art. R15-33-61 (T)
+	  - CODE DE PROCEDURE PENALE - art. R15-33-76 (V)
+	  - Code de procédure pénale - art. 78 (V)
+
+	**Créé par**:
+
+	  - Loi n°95-73 1995-01-27 art. 27 JORF 24 janvier 1995
+
+
 ###### Article 63
 
 L'officier de police judiciaire peut, pour les nécessités de l'enquête, garder à sa disposition une ou plusieurs des
@@ -3853,17 +3885,13 @@ infraction ne peuvent être retenues que le temps strictement nécessaire à leu
 L'officier de police judiciaire dresse procès-verbal de leurs déclarations. Les agents de police judiciaire désignés à
 l'article 20 peuvent également, sous le contrôle d'un officier de police judiciaire, entendre les personnes convoquées.
 
-Les procès-verbaux sont dressés dans les conditions prévues par l'article 62.
+Les procès-verbaux sont dressés dans les conditions prévues par les articles 62 et 62-1.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Loi n°57-1426 1957-12-31
-
-	**Modifié par**:
-
-	  - Loi n°93-2 du 4 janvier 1993 - art. 16 () JORF 5 janvier 1993 en vigueur le 1er mars 1993
 
 	**Cité par**:
 
@@ -3878,6 +3906,11 @@ Les procès-verbaux sont dressés dans les conditions prévues par l'article 62.
 
 	  - CODE DE PROCEDURE PENALE - art. 20 (M)
 	  - CODE DE PROCEDURE PENALE - art. 62 (M)
+	  - CODE DE PROCEDURE PENALE - art. 62-1 (M)
+
+	**Modifié par**:
+
+	  - Loi n°95-73 1995-01-27 art. 27 JORF 24 janvier 1995
 
 
 #### Chapitre III : Des contrôles et vérifications d'identité
@@ -7568,6 +7601,52 @@ parties civiles ou de la personne bénéficiant des dispositions de l'article 10
 	  - TXT_SOURCE: CODE DE PROCEDURE PENALE - art. D36 (M)
 
 
+###### Article 153
+
+Tout témoin cité pour être entendu au cours de l'exécution d'une commission rogatoire est tenu de comparaître, de prêter
+serment et de déposer.
+
+S'il ne satisfait pas à cette obligation, avis en est donné au magistrat mandant qui peut le contraindre à comparaître par la
+force publique et prendre contre lui les sanctions prévues à l'article 109, alinéas 2 et 3.
+
+Lorsqu'il est fait application des dispositions de l'article 62-1, l'autorisation est donnée par le juge d'instruction.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°57-1426 1957-12-31
+
+	**Liens**:
+
+	  - SPEC_APPLI: Ordonnance 58-1273 1958-12-22 art. 18
+	  - SPEC_APPLI: Ordonnance n°58-1296 du 23 décembre 1958 - art. 10, v. init.
+	  - TXT_SOURCE: CODE DE PROCEDURE PENALE - art. D33 (V)
+	  - TXT_SOURCE: CODE DE PROCEDURE PENALE - art. D34 (V)
+	  - TXT_SOURCE: CODE DE PROCEDURE PENALE - art. D35 (V)
+	  - TXT_SOURCE: CODE DE PROCEDURE PENALE - art. D36 (M)
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. 109 (M)
+	  - CODE DE PROCEDURE PENALE - art. 62-1 (M)
+
+	**Cité par**:
+
+	  - CODE DE PROCEDURE PENALE - art. R15-33-1 (M)
+	  - CODE DE PROCEDURE PENALE - art. R15-33-24 (Ab)
+	  - CODE DE PROCEDURE PENALE - art. R15-33-61 (M)
+	  - Code de procédure pénale - art. D13 (V)
+	  - Code de procédure pénale - art. R188 (V)
+	  - Code de procédure pénale - art. R190 (V)
+	  - Code de procédure pénale - art. R340 (V)
+	  - Décret du 20 mai 1903 - art. 307 (Ab)
+
+	**Modifié par**:
+
+	  - Loi n°95-73 1995-01-27 art. 27 JORF 24 janvier 1995
+
+
 ###### Article 154
 
 Lorsque l'officier de police judiciaire est amené, pour les nécessités de l'exécution de la commission rogatoire, à garder
@@ -9645,51 +9724,6 @@ manifestement anormal et d'une particulière gravité.
 	**Cite**:
 
 	  - Code de procédure pénale 505 et S.
-
-
-##### Section 8 : Des commissions rogatoires
-
-###### Article 153
-
-Tout témoin cité pour être entendu au cours de l'exécution d'une commission rogatoire est tenu de comparaître, de prêter
-serment et de déposer.
-
-S'il ne satisfait pas à cette obligation, avis en est donné au magistrat mandant qui peut le contraindre à comparaître par la
-force publique et prendre contre lui les sanctions prévues à l'article 109, alinéas 2 et 3.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°57-1426 1957-12-31
-
-	**Liens**:
-
-	  - SPEC_APPLI: Ordonnance 58-1273 1958-12-22 art. 18
-	  - SPEC_APPLI: Ordonnance n°58-1296 du 23 décembre 1958 - art. 10, v. init.
-	  - TXT_SOURCE: CODE DE PROCEDURE PENALE - art. D33 (V)
-	  - TXT_SOURCE: CODE DE PROCEDURE PENALE - art. D34 (V)
-	  - TXT_SOURCE: CODE DE PROCEDURE PENALE - art. D35 (V)
-	  - TXT_SOURCE: CODE DE PROCEDURE PENALE - art. D36 (M)
-
-	**Modifié par**:
-
-	  - Ordonnance n°58-1296 du 23 décembre 1958 - art. 1 () JORF 24 décembre 1958 en vigueur le 2 mars 1959
-
-	**Cité par**:
-
-	  - CODE DE PROCEDURE PENALE - art. R15-33-1 (M)
-	  - CODE DE PROCEDURE PENALE - art. R15-33-24 (Ab)
-	  - CODE DE PROCEDURE PENALE - art. R15-33-61 (M)
-	  - Code de procédure pénale - art. D13 (V)
-	  - Code de procédure pénale - art. R188 (V)
-	  - Code de procédure pénale - art. R190 (V)
-	  - Code de procédure pénale - art. R340 (V)
-	  - Décret du 20 mai 1903 - art. 307 (Ab)
-
-	**Cite**:
-
-	  - Code de procédure pénale 109 al. 2 et 3
 
 
 ##### Section 12 : De l'appel des ordonnances du juge d'instruction
