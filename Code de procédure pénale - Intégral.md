@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 1972-06-13
+Version Consolidée au 1972-06-30
 
 # Partie législative
 
@@ -9469,6 +9469,355 @@ aux articles 45 et suivants, et un greffier.
 	**Cite**:
 
 	  - Code de procédure pénale 45 et s.
+
+
+#### Chapitre II : De la procédure simplifiée
+
+###### Article 525
+
+Le ministère public qui choisit la procédure simplifiée communique au juge du tribunal de police le dossier de la poursuite
+et ses réquisitions.
+
+Le juge statue sans débat préalable par une ordonnance pénale portant soit relaxe, soit condamnation à une amende.
+
+S'il estime qu'un débat contradictoire est utile ou que des sanctions autres que l'amende devraient être éventuellement
+prononcées, le juge renvoie le dossier au ministère public aux fins de poursuite dans les formes de la procédure ordinaire.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 58-1296 1958-12-23
+
+	**Modifié par**:
+
+	  - Loi n°72-5 1972-01-03 art. 1 JORF 5 janvier 1972 en vigueur le 30 juin 1972
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°72-5 1972-01-03 art. 8
+
+	**Cité par**:
+
+	  - Code de procédure pénale - art. 524 (VD)
+
+
+###### Article 526
+
+L'ordonnance contient les nom, prénoms, date et lieu de naissance et domicile du prévenu, la qualification légale, la date et
+le lieu du fait imputé, la mention des textes applicables et, en cas de condamnation, le montant de l'amende et des frais de
+poursuite et la durée de la contrainte judiciaire. 
+
+Le juge n'est pas tenu de motiver l'ordonnance pénale.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 58-1296 1958-12-23
+
+	**Modifié par**:
+
+	  - Loi n°72-5 1972-01-03 art. 1 JORF 5 janvier 1972 en vigueur le 30 juin 1972
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°72-5 1972-01-03 art. 8
+
+	**Cité par**:
+
+	  - Code de justice militaire - art. 483 (Ab)
+	  - Code de justice militaire. - art. L422-1 (V)
+	  - Code de procédure pénale - art. R42 (V)
+
+
+###### Article 527
+
+Le ministère public peut, dans les dix jours de l'ordonnance, former opposition à son exécution par déclaration au greffe du
+tribunal.
+
+Si, à l'expiration du délai prévu à l'alinéa précédent, le ministère public n'a pas fait opposition, l'ordonnance pénale est
+notifiée au prévenu par lettre recommandée avec demande d'avis de réception.
+
+Le prévenu peut, dans un délai de trente jours à compter de la date d'envoi de la lettre, s'acquitter du montant de l'amende.
+Dans ce cas, il est mis fin à l'action publique.
+
+Il peut également former opposition à l'exécution de l'ordonnance dans le même délai.
+
+A défaut de paiement ou d'opposition dans le délai ci-dessus, l'ordonnance pénale est mise à exécution.
+
+Toutefois, s'il ne résulte pas de l'avis de réception que le prévenu a reçu la lettre de notification, l'opposition reste
+recevable jusqu'à l'expiration d'un délai de dix jours qui court de la date à laquelle l'intéressé a eu connaissance de la
+condamnation, soit par un acte d'exécution, soit par tout autre moyen.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 58-1296 1958-12-23
+
+	**Cité par**:
+
+	  - Arrêté du 9 janvier 1960 - art. 4 (V)
+	  - Arrêté du 9 janvier 1960 - art. 5 (V)
+	  - Arrêté du 9 janvier 1960 - art. 6 (V)
+	  - Décret n°64-1333 du 22 décembre 1964 - art. 14 (V)
+	  - Loi n°83-520 du 27 juin 1983 - art. 40 (V)
+	  - CODE DE PROCEDURE PENALE - art. R45 (V)
+	  - CODE DE PROCEDURE PENALE - art. R55-2 (V)
+	  - Code de procédure pénale - art. 528-2 (VD)
+	  - Code de procédure pénale - art. 849 (V)
+	  - Code de procédure pénale - art. 895 (V)
+	  - Code de procédure pénale - art. R270 (V)
+
+	**Modifié par**:
+
+	  - Loi n°72-5 1972-01-03 art. 1 JORF 5 janvier 1972 en vigueur le 30 juin 1972
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°72-5 1972-01-03 art. 8
+
+
+###### Article 528
+
+En cas d'opposition formée par le ministère public ou par le prévenu, l'affaire est portée à l'audience du tribunal de police
+dans les formes de la procédure ordinaire. Le jugement rendu par défaut, sur l'opposition du prévenu, ne sera pas susceptible
+d'opposition.
+
+Jusqu'à l'ouverture des débats, le prévenu peut renoncer expressément à son opposition.  L'ordonnance pénale reprend alors sa
+force exécutoire et une nouvelle opposition est irrecevable.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 58-1296 1958-12-23
+
+	**Modifié par**:
+
+	  - Loi n°72-5 1972-01-03 art. 1 JORF 5 janvier 1972 en vigueur le 30 juin 1972
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°72-5 1972-01-03 art. 8
+
+
+###### Article 528-1
+
+L'ordonnance pénale à laquelle il n'a pas été formé opposition a les effets d'un jugement passé en force de chose jugée.
+
+Cependant, elle n'a pas l'autorité de la chose jugée à l'égard de l'action civile en réparation des dommages causés par
+l'infraction.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 58-1296 1958-12-23
+
+	**Créé par**:
+
+	  - Loi n°72-5 1972-01-03 art. 1 JORF 5 janvier 1972 en vigueur le 30 juin 1972
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°72-5 1972-01-03 art. 8
+
+
+###### Article 528-2
+
+Les dispositions du présent chapitre ne font pas échec au droit de la partie lésée de citer directement le contrevenant
+devant le tribunal de police, dans les conditions prévues par le présent code.
+
+Lorsque la citation est délivrée après qu'une ordonnance pénale a été rendue sur les mêmes faits, le tribunal de police
+statue :
+
+Sur l'action publique et sur les intérêts civils si l'ordonnance pénale a fait l'objet d'une opposition dans les délais
+prévus à l'article 527 et au plus tard à l'ouverture des débats ;
+
+Sur les intérêts civils seulement si aucune opposition n'a été formée ou si le prévenu a déclaré expressément, au plus tard à
+l'ouverture des débats, renoncer à son opposition ou à son droit d'opposition. Il en est de même s'il est établi que
+l'ordonnance pénale a fait l'objet d'un paiement volontaire.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 58-1296 1958-12-23
+
+	**Créé par**:
+
+	  - Loi n°72-5 1972-01-03 art. 1 JORF 5 janvier 1972 en vigueur le 30 juin 1972
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°72-5 1972-01-03 art. 8
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. 527 (M)
+
+
+#### Chapitre II bis : De l'amende forfaitaire
+
+###### Article 529
+
+Dans les matières prévues par la loi, l'action publique née d'une contravention peut être éteinte par le paiement d'une
+amende forfaitaire, qui est exclusive de l'application des règles de la récidive.
+
+Le montant de l'amende forfaitaire peut être acquitté :
+
+Soit au moment de la constatation de l'infraction, entre les mains de l'agent verbalisateur, contre remise d'une quittance
+détachée d'un carnet à souches ;
+
+Soit au moyen d'un timbre-amende expédié au service indiqué dans l'avis de contravention dans les quinze jours suivant la
+constatation de l'infraction ou, le cas échéant, la date d'envoi de cet avis.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 58-1296 1958-12-23
+
+	**Modifié par**:
+
+	  - Loi n°72-5 1972-01-03 art. 3 JORF 5 janvier 1972 en vigueur le 30 juin 1972
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°72-5 1972-01-03 art. 8
+
+	**Cité par**:
+
+	  - Loi n°83-520 du 27 juin 1983 - art. 41 (V)
+	  - Code de l'environnement - art. L173-12 (V)
+	  - Code de l'environnement - art. L216-14 (VT)
+	  - Code de l'environnement - art. L322-10-3 (VD)
+	  - Code de l'environnement - art. L331-25 (VT)
+	  - Code de l'environnement - art. L332-24 (V)
+	  - Code de l'environnement - art. L437-14 (VT)
+	  - Code de l'environnement - art. R*242-78 (Ab)
+	  - Code de l'environnement - art. R331-74 (V)
+	  - Code de procédure pénale - art. 41-1-1 (V)
+	  - Code de procédure pénale - art. 850 (V)
+	  - Code de procédure pénale - art. D594-10 (V)
+	  - Code de procédure pénale - art. R49 (VD)
+	  - Code des postes et des communications électroni... - art. R10-11 (V)
+	  - Code des postes et des communications électronique - art. R11 (T)
+	  - Code des transports - art. L1721-2 (V)
+	  - Code des transports - art. L5336-4 (VD)
+	  - Code des transports - art. L5336-6 (V)
+	  - Code forestier (nouveau) - art. L161-25 (VD)
+	  - Code forestier (nouveau) - art. L162-3 (VD)
+	  - Code forestier - art. L351-10 (M)
+	  - Code rural - art. L241-20 (Ab)
+	  - Code rural - art. L242-28 (Ab)
+	  - Code rural et de la pêche maritime - art. L215-12 (V)
+
+
+###### Article 530
+
+La procédure de l'amende forfaitaire ne peut intervenir :
+
+Si la contravention expose son auteur à la réparation de dommages aux personnes ou aux biens ;
+
+Si plusieurs contraventions, dont l'une au moins ne peut donner lieu à amende forfaitaire, ont été constatées simultanément.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 58-1296 1958-12-23
+
+	**Cité par**:
+
+	  - Décret n°64-1333 du 22 décembre 1964 - art. 6-1 (M)
+	  - Loi n°72-650 du 11 juillet 1972 - art. 7 (Ab)
+	  - Décret n°77-1299 du 25 novembre 1977 - art. 1 (Ab)
+	  - CODE DE PROCEDURE PENALE - art. 530-2-1 (V)
+	  - CODE DE PROCEDURE PENALE - art. R49-15 (V)
+	  - CODE DE PROCEDURE PENALE - art. R49-5 (V)
+	  - CODE DE PROCEDURE PENALE - art. R49-8 (M)
+	  - Code de la route - art. L27-4 (Ab)
+	  - Code de la route - art. R301 (Ab)
+	  - Code de la route. - art. L121-4-1 (V)
+	  - Code de la route. - art. L121-5 (M)
+	  - Code de la route. - art. L322-1 (VD)
+	  - Code de la route. - art. L344-2 (V)
+	  - Code de la route. - art. R322-18 (V)
+	  - Code de procédure pénale - art. 529-10 (V)
+	  - Code de procédure pénale - art. 530-1 (V)
+	  - Code de procédure pénale - art. R49-18 (VD)
+	  - Code de procédure pénale - art. R49-6 (V)
+	  - Code forestier (nouveau) - art. L162-3 (V)
+	  - Code rural et de la pêche maritime - art. L215-12 (V)
+
+	**Modifié par**:
+
+	  - Loi n°72-5 1972-01-03 art. 3 JORF 5 janvier 1972 en vigueur le 30 juin 1972
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°72-5 1972-01-03 art. 8
+	  - PILOTE_SUIVEUR: Code de la route. - art. L121-5 (M)
+
+
+###### Article 530-1
+
+A défaut de paiement de l'amende forfaitaire, la répression de la contravention est poursuivie selon les règles de la
+procédure ordinaire ou celles de la procédure simplifiée.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 58-1296 1958-12-23
+
+	**Créé par**:
+
+	  - Loi n°72-5 1972-01-03 art. 3 JORF 5 janvier 1972 en vigueur le 30 juin 1972
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°72-5 1972-01-03 art. 8
+	  - PILOTE_SUIVEUR: Code de la route. - art. L121-5 (M)
+
+	**Cité par**:
+
+	  - Code de procédure pénale - art. R49-18 (VD)
+
+
+###### Article 530-2
+
+Un décret pris dans les formes prévues pour les décrets en Conseil d'Etat fixe le tarif des amendes forfaitaires.
+
+Un décret en Conseil d'Etat détermine les catégories d'agents habilités à percevoir directement des amendes. Il fixe, en tant
+que de besoin, les conditions et les modalités d'application des articles 529 à 530-1.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 58-1296 1958-12-23
+
+	**Créé par**:
+
+	  - Loi n°72-5 1972-01-03 art. 3 JORF 5 janvier 1972 en vigueur le 30 juin 1972
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°72-5 1972-01-03 art. 8
+	  - PILOTE_SUIVEUR: Code de la route. - art. L121-5 (M)
+
+	**Cité par**:
+
+	  - Loi n°83-520 du 27 juin 1983 - art. 43 (V)
+	  - Loi n°84-821 du 6 septembre 1984 - art. 66 (Ab)
+
+	**Cite**:
+
+	  - Code de procédure pénale 529 à 530-1
 
 
 #### Chapitre III : De la saisine du tribunal de police
