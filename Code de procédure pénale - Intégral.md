@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 2003-09-15
+Version Consolidée au 2003-09-23
 
 # Partie législative
 
@@ -80220,6 +80220,37 @@ Chromosome n° 2
 	**Créé par**:
 
 	  - Arrêté 2002-02-14 art. 1 II JORF 6 mars 2002
+
+
+### Titre XXI : De l'utilisation de moyens de télécommunication au cours de la procédure.
+
+###### Article A38-1
+
+Les caractéristiques propres aux moyens de télécommunication audiovisuelle ou concernant des moyens de télécommunication
+sonore autre que le téléphone utilisés pour l'application des dispositions de l'article 706-71 sont précisées par le présent
+article.
+
+La retransmission doit s'effectuer au moyen d'un système bidirectionnel intégral.
+
+La retransmission doit s'effectuer conformément aux normes H320 ou H323 et aux normes UIT (Union internationale des
+télécommunications) associées.
+
+Lorsqu'il est procédé au chiffrement de la liaison, celui-ci doit être effectué avec des moyens matériels autorisés par la
+direction centrale de la sécurité des systèmes d'information.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Arrêté 1958-12-23
+
+	**Créé par**:
+
+	  - Arrêté 2003-09-08 art. 1 JORF 23 septembre 2003
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. 706-71 (M)
 
 
 ## Livre V : Des procédures d'exécution
