@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 2004-09-29
+Version Consolidée au 2004-09-30
 
 # Partie législative
 
@@ -65583,6 +65583,156 @@ agents de police judiciaire, en application de l'article 19.
 
 	  - Code de procédure pénale - art. 19 (V)
 	  - Code de procédure pénale - art. 21 (V)
+
+	**Liens**:
+
+	  - TXT_SOURCE: Code de procédure pénale 20 et 21
+
+
+##### Section 4 : Des procédures d'infiltration, des sonorisations et fixations d'images de certains lieux ou véhicules
+
+###### Article D15-1-1
+
+Il est créé au sein de la direction centrale de la police judiciaire, à la sous-direction des affaires criminelles, un
+service interministériel d'assistance technique composé de fonctionnaires de police, de militaires de la gendarmerie et
+d'agents des douanes. Ce service est chargé de la formation des agents infiltrés, de l'assistance technique aux opérations
+d'infiltrations définies par l'article 706-81 du code de procédure pénale et par l'article 67 bis-II du code des douanes et
+de la centralisation des informations de ces opérations menées par les douanes, la police et la gendarmerie nationales.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°58-1304 1958-12-23
+
+	**Créé par**:
+
+	  - Décret n°2004-1026 du 29 septembre 2004 - art. 1 () JORF 30 septembre 2004
+
+	**Cite**:
+
+	  - Code de procédure pénale - art. 706-81 (V)
+	  - Code des douanes - art. 67 bis (V)
+
+
+###### Article D15-1-2
+
+Peuvent être habilités à participer aux opérations d'infiltration telles que définies par l'article 706-81 du code de
+procédure pénale les officiers ou agents de police judiciaire des services de la police nationale et des unités de la
+gendarmerie nationale et les agents de l'administration des douanes spécialement habilités à effectuer des enquêtes. 
+
+Peuvent être également habilités à participer à ces opérations les agents des douanes visés à l'article 67 bis du code des
+douanes, dans le cadre des infractions visées au II de cet article.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°58-1304 1958-12-23
+
+	**Créé par**:
+
+	  - Décret n°2004-1026 du 29 septembre 2004 - art. 1 () JORF 30 septembre 2004
+
+	**Cite**:
+
+	  - Code de procédure pénale - art. 706-81 (V)
+	  - Code des douanes - art. 67 bis (V)
+
+	**Cité par**:
+
+	  - Code de procédure pénale - art. D15-1-3 (V)
+
+
+###### Article D15-1-3
+
+L'habilitation visée au premier alinéa de l'article D. 15-1-2 est délivrée par le procureur général près la cour d'appel de
+Paris après agrément accordé, selon le cas, par le directeur général de la police nationale, le directeur général de la
+gendarmerie nationale ou le directeur général des douanes et droits indirects. 
+
+Cet agrément ne peut être accordé que sur proposition du directeur central de la police judiciaire aux personnes jugées aptes
+à remplir les missions d'agents infiltrés à l'issue d'un stage de formation organisé par le service interministériel
+d'assistance technique de la direction centrale de la police judiciaire. 
+
+Cette habilitation ainsi que l'agrément peuvent être retirés à tout moment par les autorités les ayant délivrés ou accordés.
+Le retrait de l'agrément rend caduque l'habilitation.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°58-1304 1958-12-23
+
+	**Créé par**:
+
+	  - Décret n°2004-1026 du 29 septembre 2004 - art. 1 () JORF 30 septembre 2004
+
+	**Cite**:
+
+	  - Code de procédure pénale - art. D15-1-2 (V)
+
+
+###### Article D15-1-4
+
+Pour l'application des articles 694-7 et 695-2 du présent code, le ministre de la justice donne son accord après avis du
+directeur central de la police judiciaire. 
+
+Pour l'application des dispositions de l'article 67 bis-VIII du code des douanes, le ministre de la justice donne son accord
+après avis du directeur général des douanes.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°58-1304 1958-12-23
+
+	**Créé par**:
+
+	  - Décret n°2004-1026 du 29 septembre 2004 - art. 1 () JORF 30 septembre 2004
+
+	**Cite**:
+
+	  - Code de procédure pénale - art. 694-7 (V)
+	  - Code de procédure pénale - art. 695-2 (V)
+	  - Code des douanes - art. 67 bis (V)
+
+
+###### Article D15-1-5
+
+Les services, unités et organismes, visés à l'article 706-99, pouvant procéder aux opérations d'installation des dispositifs
+techniques mentionnés à l'article 706-96 sont :
+
+- la direction centrale de la police judiciaire et ses directions interrégionales et régionales ;
+
+- la direction de la surveillance du territoire ;
+
+- la direction centrale des renseignements généraux ;
+
+- les offices centraux de police judiciaire ;
+
+- l'unité de recherche, assistance, intervention et dissuasion ;
+
+- les groupes d'intervention de la police nationale ;
+
+- la sous-direction de la police judiciaire de la gendarmerie nationale ;
+
+- les sections de recherches de la gendarmerie nationale ;
+
+- le groupement de sécurité et d'intervention de la gendarmerie nationale.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°58-1304 1958-12-23
+
+	**Créé par**:
+
+	  - Décret n°2004-1026 du 29 septembre 2004 - art. 1 () JORF 30 septembre 2004
+
+	**Cité par**:
+
+	  - Code de procédure pénale - art. D15-1-7 (V)
 
 	**Liens**:
 
