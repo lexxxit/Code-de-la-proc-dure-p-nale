@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 1960-11-27
+Version Consolidée au 1961-04-13
 
 # Partie législative
 
@@ -16150,6 +16150,29 @@ ou d'un examen mentionnés à l'article D. 16, le dossier de personnalité peut 
 	**Cite**:
 
 	  - CODE DE PROCEDURE PENALE - art. D16 (M)
+
+
+###### Article D20
+
+(Article abrogé).
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°58-1304 1958-12-23
+
+	**Modifié par**:
+
+	  - Décret n°60-898 1960-08-24 art. 1 JORF 25 août 1960
+
+	**Abrogé par**:
+
+	  - Décret n°83-1164 1983-12-23 art. 3 JORF 27 décembre 1983
+
+	**Liens**:
+
+	  - TXT_SOURCE: Code de procédure pénale 81 al. 5 et al. 6
 
 
 ###### Article D21
