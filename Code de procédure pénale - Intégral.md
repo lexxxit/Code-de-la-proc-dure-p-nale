@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 2003-09-03
+Version Consolidée au 2003-09-04
 
 # Partie législative
 
@@ -54446,6 +54446,10 @@ pénal.
 21° Les frais des administrateurs ad hoc désignés en application des articles 388-2 et 389-3 du code civil, lorsqu'ils
 figurent sur la liste prévue à l'article R. 53.
 
+22° Des indemnités forfaitaires des administrateurs ad hoc institués pour la représentation des mineurs maintenus en zone
+d'attente ou demandeurs du statut de réfugié par application de l'article 17 de la loi n° 2002-305 du 4 mars 2002 et désignés
+conformément à son décret d'application n° 2003-841 du 2 septembre 2003.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
@@ -54482,6 +54486,8 @@ figurent sur la liste prévue à l'article R. 53.
 
 	  - Loi n°67-563 du 13 juillet 1967 - art. 94 (Ab)
 	  - Loi n°85-98 1985-01-25 art. 215
+	  - Loi n°2002-305 2002-03-04 art. 17
+	  - Décret n°2003-841 2003-09-02
 	  - Code de la consommation - art. L332-2 (M)
 	  - Code pénal - art. 131-14 (M)
 	  - Code pénal - art. 131-35 (M)
@@ -54495,11 +54501,7 @@ figurent sur la liste prévue à l'article R. 53.
 
 	**Modifié par**:
 
-	  - Décret n°99-818 du 16 septembre 1999 - art. 8 () JORF 19 septembre 1999
-
-	**Liens**:
-
-	  - TXT_SOURCE: CODE DE PROCEDURE PENALE - art. 800 (M)
+	  - Décret n°2003-841 du 2 septembre 2003 - art. 12 () JORF 4 septembre 2003
 
 
 #### Chapitre II : Tarif des frais
@@ -57985,7 +57987,11 @@ judiciaire ;
 
 4. Frais postaux des greffes des juridictions civiles nécessités par les actes et procédures ;
 
-5. Frais tarifés des actes faits d'office en matière de mesures conservatoires prises après l'ouverture d'une succession.
+5. Frais tarifés des actes faits d'office en matière de mesures conservatoires prises après l'ouverture d'une succession ;
+
+6° Indemnités forfaitaires des administrateurs ad hoc institués pour la représentation des mineurs maintenus en zone
+d'attente ou demandeurs du statut de réfugié par application de l'article 17 de la loi n° 2002-305 du 4 mars 2002 et désignés
+conformément à son décret d'application n° 2003-841 du 2 septembre 2003.
 
 **Liens relatifs à cet article**
 
@@ -57993,9 +57999,15 @@ judiciaire ;
 
 	  - Décret n°59-318 1959-02-23
 
+	**Cite**:
+
+	  - Loi n°2002-305 2002-03-04 art. 17
+	  - Décret n°2003-841 2003-09-02
+	  - CODE DE PROCEDURE PENALE - art. R93 (M)
+
 	**Modifié par**:
 
-	  - Décret n°93-867 du 28 juin 1993 - art. 12 () JORF 29 juin 1993
+	  - Décret n°2003-841 du 2 septembre 2003 - art. 13 () JORF 4 septembre 2003
 
 	**Cité par**:
 
@@ -58003,10 +58015,6 @@ judiciaire ;
 	  - Code de procédure pénale - art. R214 (V)
 	  - Code de procédure pénale - art. R353 (V)
 	  - Code de procédure pénale - art. R423 (Ab)
-
-	**Cite**:
-
-	  - CODE DE PROCEDURE PENALE - art. R93 (M)
 
 
 ###### Article R225
