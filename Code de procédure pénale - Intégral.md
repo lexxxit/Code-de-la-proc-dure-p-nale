@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 2003-04-01
+Version Consolidée au 2003-05-13
 
 # Partie législative
 
@@ -46667,6 +46667,75 @@ En cas de condamnation à une amende civile, la somme consignée est employée a
 
 	  - Décret n°2005-1669 du 27 décembre 2005 - art. 2 (V)
 	  - Code de l'organisation judiciaire - art. R123-24 (V)
+
+
+##### Section 3 : Des transports, des perquisitions, des saisies et des interceptions de correspondances émises par la voie des télécommunications
+
+##### Sous-section 1 : Des transports, des perquisitions et des saisies
+
+###### Article R15-41-1
+
+En application des dispositions du deuxième alinéa de l'article 99-2, il est procédé à la vente des biens meubles placés sous
+main de justice et à la restitution, lorsqu'elle a lieu, du produit de la vente au propriétaire de ces biens selon des
+modalités déterminées par la présente sous-section.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°58-358 1958-04-02
+
+	**Créé par**:
+
+	  - Décret n°2003-428 du 5 mai 2003 - art. 1 () JORF 13 mai 2003
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. 99-2 (M)
+
+
+###### Article R15-41-2
+
+Les biens meubles placés sous main de justice sont remis au service des domaines qui procède à leur aliénation dans les
+formes prévues pour la vente du mobilier de l'Etat. Le produit de la vente est versé à la Caisse des dépôts et consignations.
+
+Ce versement est mentionné dans un registre spécial tenu par le greffe du tribunal de grande instance.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°58-358 1958-04-02
+
+	**Créé par**:
+
+	  - Décret n°2003-428 du 5 mai 2003 - art. 1 () JORF 13 mai 2003
+
+
+###### Article R15-41-3
+
+Dès qu'est devenue définitive une décision de non-lieu, de relaxe ou d'acquittement ou une décision de condamnation n'ayant
+pas prononcé la peine de confiscation, le procureur de la République de la juridiction devant laquelle s'est déroulée
+l'instruction informe, par lettre recommandée avec demande d'avis de réception, le propriétaire des biens des modalités de
+restitution du produit de la vente. Dans les six mois suivant cette notification, la demande de restitution doit être formée
+auprès du même procureur de la République par déclaration contre récépissé ou par lettre recommandée avec demande d'avis de
+réception.
+
+Lorsqu'il estime que les conditions prévues par la loi sont remplies, ce magistrat délivre à l'intéressé une attestation au
+vu de laquelle celui-ci peut demander à la Caisse des dépôts et consignations que les sommes déposées lui soient versées sans
+délai, augmentées, le cas échéant, des intérêts échus. Dans le cas contraire, la décision du procureur de la République de
+refuser de délivrer l'attestation mentionnée à l'alinéa précédent peut être contestée dans les conditions prévues par le
+deuxième alinéa de l'article 41-4.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°58-358 1958-04-02
+
+	**Créé par**:
+
+	  - Décret n°2003-428 du 5 mai 2003 - art. 1 () JORF 13 mai 2003
 
 
 ##### Section 5 : De la remise de la reproduction des pièces d'une procédure d'instruction à une personne détenue
