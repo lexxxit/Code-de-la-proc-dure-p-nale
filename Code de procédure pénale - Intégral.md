@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 2003-06-16
+Version Consolidée au 2003-07-12
 
 # Partie législative
 
@@ -49301,9 +49301,11 @@ du carnet à souches.
 ###### Article R49-3
 
 Si le montant de l'amende forfaitaire n'est pas acquitté dans les conditions prévues par l'article R. 49-2, le paiement est
-effectué soit par l'apposition sur la carte de paiement, dûment remplie, d'un timbre [*fiscal*] émis à cet effet par le
-ministre du budget, qui en établit le modèle et les modalités de délivrance, soit par l'envoi au comptable direct du Trésor
-d'un chèque joint à la carte de paiement.
+effectué soit par l'apposition sur la carte de paiement, dûment remplie, d'un timbre émis à cet effet par le ministre du
+budget, qui en établit le modèle et les modalités de délivrance, soit par l'envoi au comptable direct du Trésor d'un chèque
+joint à la carte de paiement, soit par l'utilisation de moyens de paiement à distance, selon des modalités fixées par arrêté
+du garde des sceaux, ministre de la justice, du ministère chargé du budget, du ministre chargé de l'intérieur et du ministre
+de la défense.
 
 Un arrêté du ministre du budget fixe les conditions dans lesquelles les amendes forfaitaires peuvent être acquittées au moyen
 d'un chèque libellé à l'ordre du Trésor public.
@@ -49314,13 +49316,9 @@ d'un chèque libellé à l'ordre du Trésor public.
 
 	  - Décret n°59-318 1959-02-23
 
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°86-1044 du 18 septembre 1986 - art. 6 (V)
-
 	**Modifié par**:
 
-	  - Décret n°95-457 du 26 avril 1995 - art. 3 () JORF 28 avril 1995
+	  - Décret n°2003-642 du 11 juillet 2003 - art. 3 () JORF 12 juillet 2003
 
 	**Cité par**:
 
@@ -49330,10 +49328,6 @@ d'un chèque libellé à l'ordre du Trésor public.
 	  - Code de procédure pénale - art. A37-7 (V)
 	  - Code de procédure pénale - art. D45-8 (VD)
 	  - Code de procédure pénale - art. R49-17 (VD)
-
-	**Cite**:
-
-	  - CODE DE PROCEDURE PENALE - art. R49-2 (M)
 
 
 ###### Article R49-4
@@ -49728,7 +49722,8 @@ budget.
 Si l'amende forfaitaire n'est pas acquittée dans les conditions prévues à l'alinéa ci-dessus, le paiement est effectué soit
 par l'apposition d'un timbre-amende sur la carte de paiement dûment remplie et renvoyée au service verbalisateur dans les
 délais prévus par l'article 529-8, soit par l'envoi dans ces mêmes délais au comptable du Trésor d'un chèque joint à la carte
-de paiement.
+de paiement, soit par l'utilisation de moyens de paiement à distance, selon des modalités fixées par arrêté du garde des
+sceaux, ministre de la justice, du ministre chargé du budget, du ministre chargé de l'intérieur et du ministre de la défense.
 
 Un arrêté du ministre du budget fixe les conditions dans lesquelles les amendes forfaitaires minorées peuvent être acquittées
 au moyen d'un chèque libellé à l'ordre du Trésor public.
@@ -49741,7 +49736,7 @@ au moyen d'un chèque libellé à l'ordre du Trésor public.
 
 	**Modifié par**:
 
-	  - Décret n°2000-1136 du 24 novembre 2000 - art. 1 () JORF 26 novembre 2000
+	  - Décret n°2003-642 du 11 juillet 2003 - art. 3 () JORF 12 juillet 2003
 
 	**Cité par**:
 
@@ -49792,6 +49787,174 @@ applicable sont soumises aux dispositions des articles R. 49 à R. 49-8.
 
 	  - CODE DE PROCEDURE PENALE - art. R48-1 (Ab)
 	  - Code de procédure pénale R48-1, R49 à R49-8
+
+
+###### Article R49-14
+
+L'avis de contravention et la carte de paiement mentionnés à l'article R. 49-1, s'ils sont adressés en application de
+l'article 529-10, sont accompagnés d'un formulaire de requête en exonération précisant les conditions de recevabilité de la
+requête prévue par l'article 529-2, les modalités de paiement de la consignation, ainsi que les sanctions prévues par les
+articles 226-10 et 441-1 du code pénal et R. 49-19 du présent code.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-318 1959-02-23
+
+	**Créé par**:
+
+	  - Décret n°2003-642 du 11 juillet 2003 - art. 3 () JORF 12 juillet 2003
+
+	**Cite**:
+
+	  - Code pénal - art. 226-10 (M)
+	  - Code pénal - art. 441-1 (M)
+	  - CODE DE PROCEDURE PENALE - art. 529-10 (M)
+	  - CODE DE PROCEDURE PENALE - art. 529-2 (M)
+	  - CODE DE PROCEDURE PENALE - art. R49-1 (V)
+
+	**Cité par**:
+
+	  - CODE DE PROCEDURE PENALE - art. A37-8 (T)
+	  - Code de procédure pénale - art. A37-12 (VD)
+	  - Code de procédure pénale - art. A37-7 (V)
+	  - Code de procédure pénale - art. R49-17 (VD)
+
+
+###### Article R49-15
+
+L'avis d'amende forfaitaire majorée adressé en application de l'article 529-10 précise les conditions de recevabilité de la
+réclamation prévue par l'article 530, les modalités de paiement de la consignation, ainsi que les sanctions prévues par les
+articles 226-10 et 441-1 du code pénal et R. 49-19 du présent code.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-318 1959-02-23
+
+	**Créé par**:
+
+	  - Décret n°2003-642 du 11 juillet 2003 - art. 3 () JORF 12 juillet 2003
+
+	**Cite**:
+
+	  - Code pénal - art. 226-10 (M)
+	  - Code pénal - art. 441-1 (M)
+	  - CODE DE PROCEDURE PENALE - art. 529-10 (M)
+	  - CODE DE PROCEDURE PENALE - art. 530 (M)
+
+	**Cité par**:
+
+	  - CODE DE PROCEDURE PENALE - art. A37-8 (T)
+	  - CODE DE PROCEDURE PENALE - art. R49-17 (V)
+	  - Code de procédure pénale - art. A37-12 (VD)
+	  - Code de procédure pénale - art. A37-7 (V)
+
+
+###### Article R49-16
+
+Lorsque la requête en exonération ou la réclamation est accompagnée des renseignements prévus au b du 1° de l'article 529-10,
+elle précise les noms, prénoms, sexe, date de naissance et adresse du conducteur présumé, ainsi que le numéro de son permis
+de conduire.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-318 1959-02-23
+
+	**Créé par**:
+
+	  - Décret n°2003-642 du 11 juillet 2003 - art. 3 () JORF 12 juillet 2003
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. 529-10 (M)
+
+
+###### Article R49-17
+
+La consignation prévue aux articles R. 49-14 et R. 49-15 s'effectue soit en utilisant le timbre prévu au premier alinéa de
+l'article R. 49-3, soit en espèces, soit par chèque libellé à l'ordre du Trésor public, soit par carte bancaire, soit par un
+mode de paiement à distance, suivant les modalités fixées par arrêté du garde des sceaux, ministre de la justice, du ministre
+chargé du budget, du ministre chargé de l'intérieur et du ministre de la défense.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-318 1959-02-23
+
+	**Créé par**:
+
+	  - Décret n°2003-642 du 11 juillet 2003 - art. 3 () JORF 12 juillet 2003
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. R49-14 (V)
+	  - CODE DE PROCEDURE PENALE - art. R49-15 (V)
+	  - CODE DE PROCEDURE PENALE - art. R49-3 (M)
+
+
+###### Article R49-18
+
+Lorsqu'une consignation a été acquittée en application des dispositions de l'article 529-10, il est fait application des
+dispositions suivantes :
+
+Si la consignation n'est pas suivie d'une requête en exonération ou d'une réclamation formulée conformément aux dispositions
+des articles 529-2, 529-10 et 530, elle est considérée comme valant paiement de l'amende forfaitaire ou de l'amende
+forfaitaire majorée.
+
+Si l'officier du ministère public classe sans suite la contravention, il notifie sa décision à l'auteur de la requête en
+exonération en l'informant que la consignation lui sera remboursée s'il en fait la demande au comptable du Trésor public.
+
+En cas de condamnation à une peine d'amende ou lorsque le prévenu est déclaré redevable de l'amende en application de
+l'article L. 121-3 du code de la route, la juridiction de jugement précise dans sa décision le montant de l'amende restant dû
+après déduction du montant de la consignation.
+
+En cas de décision de relaxe et s'il n'est pas fait application de l'article L. 121-3 du code de la route, la juridiction
+ordonne le remboursement de la consignation au prévenu si celui-ci en fait la demande au comptable du Trésor public.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-318 1959-02-23
+
+	**Créé par**:
+
+	  - Décret n°2003-642 du 11 juillet 2003 - art. 3 () JORF 12 juillet 2003
+
+
+###### Article R49-19
+
+Hors les cas prévus par les articles 226-10 et 441-1 du code pénal, le fait, pour l'auteur d'une requête en exonération ou
+d'une réclamation relevant des dispositions de l'article 529-10 du présent code, de donner, en application du b du 1° de cet
+article, des renseignements inexacts ou erronés est puni de l'amende prévue pour les contraventions de la cinquième classe.
+Les personnes morales peuvent être déclarées responsables pénalement, dans les conditions prévues par l'article 121-2 du code
+pénal, de la contravention prévue par le présent article.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-318 1959-02-23
+
+	**Cite**:
+
+	  - Décret n°64-1333 du 22 décembre 1964 - art. 2 (M)
+	  - Code pénal - art. 121-2 (M)
+	  - Code pénal - art. 226-10 (M)
+	  - Code pénal - art. 441-1 (M)
+	  - CODE DE PROCEDURE PENALE - art. 529-10 (M)
+	  - CODE DE PROCEDURE PENALE - art. 529-2 (M)
+	  - Code de la route. - art. L130-9 (M)
+
+	**Créé par**:
+
+	  - Décret n°2003-642 du 11 juillet 2003 - art. 3 () JORF 12 juillet 2003
 
 
 #### Chapitre III : De l'instruction définitive devant le tribunal de police
@@ -79724,6 +79887,41 @@ consultés sur le site internet d'admifrance [http://www.admifrance.gouv.fr/].
 
 	  - Code de procédure pénale - art. A37-11 (VD)
 	  - Code de procédure pénale - art. A37-13 (V)
+
+
+###### Article A37-8
+
+Dans le cas prévu par l'article R. 49-14, la consignation s'effectue par l'apposition, sur le formulaire de requête en
+exonération, du timbre prévu au premier alinéa de l'article R. 49-3.
+
+Dans le cas prévu par l'article R. 49-15, la consignation est acquittée soit par espèces, soit par chèque libellé à l'ordre
+du Trésor public, soit par carte bancaire auprès du comptable du Trésor mentionné sur l'avis d'amende forfaitaire majorée. Ce
+dernier délivre alors au redevable une attestation du paiement de la consignation qui doit être jointe à la réclamation
+adressée au ministère public.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Arrêté 1958-12-23
+
+	**Créé par**:
+
+	  - Arrêté 2003-07-11 art. 1 JORF 12 juillet 2003
+
+	**Transféré par**:
+
+	  - Arrêté 2003-10-24 art. 6 JORF 29 octobre 2003
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. R49-14 (V)
+	  - CODE DE PROCEDURE PENALE - art. R49-15 (V)
+	  - CODE DE PROCEDURE PENALE - art. R49-3 (M)
+
+	**Nouveaux textes**:
+
+	  - Code de procédure pénale R37-7
 
 
 ## Livre IV
