@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 1961-04-13
+Version Consolidée au 1962-10-07
 
 # Partie législative
 
@@ -18992,6 +18992,22 @@ vivant avec eux.
 	**Liens**:
 
 	  - SPEC_APPLI: Décret n°59-322 1959-02-23 art. 6
+	  - TXT_SOURCE: Code de procédure pénale 714 à 728
+
+
+###### Article D279-1
+
+A titre exceptionnel, et seulement pour d'impérieuses raisons de sécurité, le ministre de la justice peut suspendre pendant
+une période de temps limitée toute visite à l'intérieur d'une prison.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-322 1959-02-23
+
+	**Liens**:
+
 	  - TXT_SOURCE: Code de procédure pénale 714 à 728
 
 
