@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 1986-10-09
+Version Consolidée au 1986-12-31
 
 # Partie législative
 
@@ -23776,15 +23776,15 @@ pièces à conviction pourront être faites sans l'assentiment de la personne ch
 
 Pour le jugement des accusés majeurs, la cour d'assises est composée conformément aux dispositions de l'article 698-6.
 
+Pour l'application de l'alinéa précédent, la chambre de l'instruction, losrqu'elle prononce la mise en accusation
+conformément au premier alinéa de l'article 214, constate que les faits entrent dans le champ d'application de l'article
+706-16.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Ordonnance 58-1296 1958-12-23
-
-	**Créé par**:
-
-	  - Loi n°86-1020 du 9 septembre 1986 - art. 1 () JORF 10 septembre 1986
 
 	**Liens**:
 
@@ -23794,9 +23794,15 @@ Pour le jugement des accusés majeurs, la cour d'assises est composée conformé
 
 	  - Loi n°86-1020 du 9 septembre 1986 - art. 10 (V)
 
+	**Modifié par**:
+
+	  - Loi n°86-1322 1986-12-30 art. 1 JORF 31 décembre 1986
+
 	**Cite**:
 
 	  - CODE DE PROCEDURE PENALE - art. 698-6 (M)
+	  - CODE DE PROCEDURE PENALE - art. 706-16 (M)
+	  - Code de procédure pénale 214 al. 1, 706-16, 698-6
 
 
 ## Livre V : Des procédures d'exécution
