@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 1971-04-16
+Version Consolidée au 1971-09-19
 
 # Partie législative
 
@@ -23998,6 +23998,30 @@ détenus.
 
 ##### Section 2 : Des détenus bénéficiant d'un régime spécial
 
+###### Article D496
+
+[Article abrogé].
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-322 1959-02-23
+
+	**Modifié par**:
+
+	  - Décret n°60-898 1960-08-24 art. 1 JORF 25 août 1960
+	  - Décret n°71-769 1971-09-16 art. 1 JORF 19 septembre 1971
+
+	**Liens**:
+
+	  - TXT_SOURCE: Code de procédure pénale 714 à 728
+
+	**Abrogé par**:
+
+	  - Décret n°75-972 1975-10-23 art. 1 JORF 24 octobre 1975
+
+
 ###### Article D497
 
 [Article abrogé].
@@ -25352,6 +25376,67 @@ pour le deuxième et 10 % pour le troisième.
 	**Cité par**:
 
 	  - Arrêté du 25 avril 2008 - art. 2 (V)
+
+
+#### Chapitre XI : Des différentes catégories de détenus.
+
+##### Section 2 : Des détenus bénéficiant d'un régime spécial
+
+###### Article A43
+
+La commission consultative du régime spécial institué à l'article D. 490 est composée ainsi qu'il suit : 
+
+1° Un conseiller à la Cour de cassation, président ; 
+
+Un conseiller à ladite cour, président suppléant ; 
+
+2° Un membre de l'Institut ; 
+
+3° Un membre du Conseil d'Etat ; un membre dudit conseil, suppléant ; 
+
+4° Le bâtonnier de l'ordre des avocats près la cour d'appel de Paris ou son représentant ; 
+
+5° Le directeur des affaires criminelles et des grâces au ministère de la justice ou son représentant ; 
+
+6° Le directeur de l'administration pénitentiaire au ministère de la justice ou son représentant ; 
+
+7° Un conseiller référendaire à la Cour de cassation ; 
+
+Un conseiller référendaire à ladite cour, suppléant. 
+
+Les présidents et membres visés aux 1°, 2°, 3° et 7° sont désignés par arrêté du ministre de la justice.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Arrêté 1959-02-27
+
+	**Créé par**:
+
+	  - Arrêté 1971-09-16 art. 1 JORF 19 septembre 1971
+
+	**Cite**:
+
+	  - Code de procédure pénale - art. D490 (V)
+
+
+###### Article A43-1
+
+La commission établit son règlement intérieur.
+
+Elle peut faire appel, à titre de rapporteurs, à des magistrats du ministère de la justice non membres de la commission,
+lesquels n'ont pas voix délibérative.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Arrêté 1959-02-27
+
+	**Créé par**:
+
+	  - Arrêté 1971-09-16 art. 1 JORF 19 septembre 1971
 
 
 ### Titre IV : Du sursis
