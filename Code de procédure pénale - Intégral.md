@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 1973-01-01
+Version Consolidée au 1973-03-16
 
 # Partie législative
 
@@ -21536,6 +21536,30 @@ correspondance est communiquée audit magistrat dans les conditions que celui-ci
 
 ##### Paragraphe 4 : Exercice des droits de la défense
 
+###### Article D66
+
+Il est interdit au personnel de l'administration pénitentiaire et à toute personne qui apporte sa collaboration à cette
+administration d'agir de façon directe ou indirecte auprès des détenus pour influer sur leurs moyens de défense et sur le
+choix de leur défenseur.
+
+Pour l'exercice de ce choix, le tableau des avocats inscrits dans les barreaux du département est affiché au greffe et tenu à
+la disposition des détenus.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-322 1959-02-23
+
+	**Modifié par**:
+
+	  - Décret n°73-281 1973-03-07 art. 1 JORF 16 mars 1973 rectificatif JORF 7 avril 1973
+
+	**Liens**:
+
+	  - TXT_SOURCE: Code de procédure pénale 714 à 728
+
+
 ###### Article D67
 
 Conformément aux dispositions des articles 116 et 716, les prévenus peuvent communiquer librement avec leur conseil
@@ -26118,6 +26142,46 @@ Les prévenus doivent pouvoir être visités au moins trois fois par semaine, et
 	  - TXT_SOURCE: Code de procédure pénale 714 à 728
 
 
+###### Article D411
+
+Les défenseurs communiquent, dans les conditions visées à l'article D. 68, avec les prévenus et avec les condamnés qu'ils ont
+assistés au cours de la procédure. Pour ces derniers, ils doivent justifier auprès du chef de l'établissement de ce qu'ils
+ont personnellement apporté cette assistance. En outre, dans les maisons centrales et centres de détention, la visite a lieu
+à l'heure et au jour convenus préalablement avec le chef de l'établissement.
+
+Les avocats n'ayant pas assisté le condamné au cours de la procédure, les officiers ministériels et les autres auxiliaires de
+justice peuvent être autorisés à communiquer avec les détenus dans les conditions fixées aux articles D. 403, D. 406 et D.
+410.
+
+Pour le cas où ils désirent bénéficier, en vue de leur entretien, des dispositions particulières prévues à l'article D. 68,
+ils doivent joindre à leur demande une attestation délivrée par le parquet de leur résidence selon laquelle le secret de la
+communication paraît justifié par la nature des intérêts en cause.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-322 1959-02-23
+
+	**Modifié par**:
+
+	  - Décret n°73-281 1973-03-07 art. 1 JORF 16 mars 1973 rectificatif JORF 7 avril 1973
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. D403 (M)
+	  - CODE DE PROCEDURE PENALE - art. D68 (V)
+	  - Code de procédure pénale D68, D403, D406 et D410
+
+	**Cité par**:
+
+	  - Code de procédure pénale - art. D321 (Ab)
+
+	**Liens**:
+
+	  - TXT_SOURCE: Code de procédure pénale 714 à 728
+
+
 ###### Article D412
 
 Les autres personnes qui justifient d'un intérêt autre que familial pour s'entretenir avec un détenu, notamment les officiers
@@ -27152,6 +27216,28 @@ pénitentiaire, sous l'autorité et d'après les instructions du ministre.
 	  - Décret n°65-129 1965-02-19 art. 5 JORF 24 février 1965
 
 
+#### Chapitre II : De l'instruction des propositions de libération conditionnelle
+
+###### Article D529
+
+L'instruction générale détermine les modalités de la procédure d'admission ou de révocation de la libération conditionnelle
+et d'exécution des décisions prises en cette matière.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-322 1959-02-23
+
+	**Modifié par**:
+
+	  - Décret n°73-281 1973-03-07 art. 1 JORF 16 mars 1973 rectificatif JORF 7 avril 1973
+
+	**Liens**:
+
+	  - TXT_SOURCE: Code de procédure pénale 729 à 733-1
+
+
 #### Chapitre III : Des mesures et des obligations auxquelles peuvent être soumis les libérés conditionnels
 
 ###### Article D531
@@ -27167,6 +27253,79 @@ décision qui les prescrit.
 	**Codifié par**:
 
 	  - Décret n°59-322 1959-02-23
+
+	**Liens**:
+
+	  - TXT_SOURCE: Code de procédure pénale 729 à 733-1
+
+
+##### Section 2 : Des conditions particulières
+
+###### Article D537
+
+[Article abrogé].
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-322 1959-02-23
+
+	**Modifié par**:
+
+	  - Décret n°73-281 1973-03-07 art. 1 JORF 16 mars 1973 rectificatif JORF 7 avril 1973
+
+	**Abrogé par**:
+
+	  - Décret n°85-836 1985-08-06 art. 12 JORF 8 août 1985
+
+	**Liens**:
+
+	  - TXT_SOURCE: Code de procédure pénale 729 à 733-1
+
+
+#### Chapitre IV : Des comités chargés de la mise en oeuvre des mesures concernant les libérés conditionnels
+
+###### Article D538
+
+[Article abrogé].
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-322 1959-02-23
+
+	**Modifié par**:
+
+	  - Décret n°73-281 1973-03-07 art. 1 JORF 16 mars 1973 rectificatif JORF 7 avril 1973
+
+	**Abrogé par**:
+
+	  - Décret n°86-462 1986-03-14 art. 13 JORF 16 mars 1986
+
+	**Liens**:
+
+	  - TXT_SOURCE: Code de procédure pénale 729 à 733-1
+
+
+###### Article D539
+
+[Article abrogé].
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-322 1959-02-23
+
+	**Modifié par**:
+
+	  - Décret n°73-281 1973-03-07 art. 1 JORF 16 mars 1973 rectificatif JORF 7 avril 1973
+
+	**Abrogé par**:
+
+	  - Décret n°86-462 1986-03-14 art. 13 JORF 16 mars 1986
 
 	**Liens**:
 
