@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 1996-05-14
+Version Consolidée au 1996-07-23
 
 # Partie législative
 
@@ -1009,17 +1009,19 @@ Ont la qualité d'officier de police judiciaire :
 
 1° Les maires et leurs adjoints ;
 
-2° Les officiers et les gradés de la gendarmerie, les gendarmes comptant au moins quatre ans de service dans la gendarmerie,
-nominativement désignés par arrêté des ministres de la justice et des armées, après avis conforme d'une commission ;
+2° Les officiers et les gradés de la gendarmerie, les gendarmes comptant au moins trois ans de service dans la gendarmerie,
+nominativement désignés par arrêté des ministres de la justice et de la défense, après avis conforme d'une commission ;
 
 3° Les inspecteurs généraux, les sous-directeurs de police active, les contrôleurs généraux, les commissaires de police ; les
-fonctionnaires du corps des inspecteurs de police de la police nationale titulaires, et les commandants, les officiers de
-paix principaux ainsi que, sous réserve qu'ils comptent au moins deux ans de services effectifs en qualité de titulaires, les
-officiers de paix de la police nationale.
+fonctionnaires titulaires du corps de commandement et d'encadrement de la police nationale, nominativement désignés par
+arrêté des ministres de la justice et de l'intérieur, après avis conforme d'une commission.
+
+La composition des commissions prévues aux 2° et 3° sera déterminée par un décret en Conseil d'Etat pris sur le rapport du
+ministre de la justice et des ministres intéressés.
 
 Ont également la qualité d'officier de police judiciaire les personnes exerçant des fonctions de directeur ou sous-directeur
 de la police judiciaire relevant du ministre de l'intérieur et de directeur ou sous-directeur de la gendarmerie au ministère
-d'Etat chargé de la défense nationale.
+des armées.
 
 Les fonctionnaires mentionnés aux 2° et 3° ci-dessus ne peuvent exercer effectivement les attributions attachées à leur
 qualité d'officier de police judiciaire ni se prévaloir de cette qualité que s'ils sont affectés à un emploi comportant cet
@@ -1102,7 +1104,7 @@ alinéa sont fixées par décret en Conseil d'Etat pris sur le rapport du minist
 
 	**Liens**:
 
-	  - SPEC_APPLI: Loi n°85-1196 1985-11-18 art. 8
+	  - SPEC_APPLI: Loi n°85-1196 1985-11-18 art. 8 Loi 96-647 1996-07-22 art. 27
 	  - TXT_SOURCE: CODE DE PROCEDURE PENALE - art. R1 (V)
 	  - TXT_SOURCE: CODE DE PROCEDURE PENALE - art. R1-1 (V)
 	  - TXT_SOURCE: CODE DE PROCEDURE PENALE - art. R2 (V)
@@ -1110,7 +1112,7 @@ alinéa sont fixées par décret en Conseil d'Etat pris sur le rapport du minist
 
 	**Modifié par**:
 
-	  - Loi n°95-125 du 8 février 1995 - art. 53 (V) JORF 9 février 1995
+	  - Loi n°96-647 du 22 juillet 1996 - art. 20 () JORF 23 juillet 1996
 
 
 ###### Article 16-1
@@ -1356,23 +1358,23 @@ Sont agents de police judiciaire :
 
 1° Les gendarmes n'ayant pas la qualité d'officier de police judiciaire ;
 
-2° Les inspecteurs de police de la police nationale titulaires ne remplissant pas les conditions énoncées à l'article 16,
-alinéa 1er, 3° ;
+2° Les fonctionnaires titulaires du corps de commandement et d'encadrement de la police nationale n'ayant pas la qualité
+d'officier de police judiciaire ainsi que les fonctionnaires stagiaires de ce même corps, et les élèves lieutenants de
+police ;
 
-3° Les commandants, les officiers de paix principaux, les officiers de paix de la police nationale titulaires, les
-brigadiers-chefs et brigadiers de la police nationale ainsi que les gardiens de la paix de la police nationale qui ont
-satisfait aux épreuves du brevet de capacité technique ou qui, nommés stagiaires après le 31 décembre 1985, ont accompli deux
-ans de services en qualité de titulaires ;
+3° Les fonctionnaires du corps de maîtrise et d'application de la police nationale qui comptent au moins deux ans de services
+en qualité de titulaires, sous réserve des dispositions concernant les fonctionnaires visés au 4° et au 5° ci-après ;
 
-4° Les chefs enquêteurs de la police nationale, les enquêteurs de première classe, les enquêteurs de deuxième classe qui ont
-satisfait aux épreuves du brevet d'aptitude technique ainsi que les enquêteurs de deuxième classe qui, ayant rempli les
-conditions d'aptitude prévues par la loi n° 78-788 du 28 juillet 1978 portant réforme de la procédure pénale sur la police
-judiciaire et le jury d'assises ou ayant été nommés stagiaires à compter du 1er mars 1979, ont accompli deux ans de services
-en qualité de titulaires ;
+4° Les gardiens de la paix issus de l'ancien corps des gradés et gardiens de la police nationale nommés stagiaires avant le
+31 décembre 1985, lorsqu'ils comptent au moins deux ans de services en qualité de titulaires et ont satisfait aux épreuves
+d'un examen technique dans des conditions fixées par décret en Conseil d'Etat ou détiennent les qualifications
+professionnelles permettant l'accès au grade supérieur ;
 
-5° Les autres enquêteurs de deuxième classe de la police nationale et les autres gardiens de la paix de la police nationale
-qui comptent au moins deux ans de services en qualité de titulaires et qui ont satisfait aux épreuves d'un examen technique
-dans les conditions fixées par décret en Conseil d'Etat.
+5° Les gardiens de la paix issus de l'ancien corps des enquêteurs de police, nommés stagiaires avant le 1er mars 1979,
+lorsqu'ils comptent au moins deux ans de services en qualité de titulaires et remplissent les conditions d'aptitude prévues
+par la loi n° 78-788 du 28 juillet 1978 portant réforme de la procédure pénale sur la police judiciaire et le jury d'assises
+ou ont satisfait aux épreuves d'un examen technique dans des conditions fixées par décret en Conseil d'Etat ou détiennent les
+qualifications professionnelles permettant l'accès au grade supérieur.
 
 Toutefois, les fonctionnaires mentionnés aux 1° à 5° ci-dessus ne peuvent exercer effectivement les attributions attachées à
 leur qualité d'agent de police judiciaire et se prévaloir de cette qualité que s'ils sont affectés à un emploi comportant cet
@@ -1465,9 +1467,17 @@ Les agents de police judiciaire n'ont pas qualité pour décider des mesures de 
 
 	  - Loi n°57-1426 1957-12-31
 
+	**Cite**:
+
+	  - Loi n°78-788 1978-07-28
+
 	**Liens**:
 
-	  - SPEC_APPLI: Loi n°85-1196 1985-11-18 art. 8
+	  - SPEC_APPLI: Loi n°85-1196 1985-11-18 art. 8 Loi 96-647 1996-07-22 art. 27
+
+	**Modifié par**:
+
+	  - Loi n°96-647 du 22 juillet 1996 - art. 21 () JORF 23 juillet 1996
 
 
 ###### Article 21
@@ -2434,8 +2444,8 @@ par le conservateur des eaux et forêts.
 ###### Article 46
 
 En cas d'empêchement du commissaire de police, le procureur général désigne, pour une année entière, un ou plusieurs
-remplaçants qu'il choisit parmi les commissaires et les inspecteurs divisionnaires ou principaux de la police nationale en
-résidence dans le ressort du tribunal de grande instance.
+remplaçants qu'il choisit parmi les commissaires et les commandants ou capitaines de police en résidence dans le ressort du
+tribunal de grande instance.
 
 A titre exceptionnel et en cas de nécessité absolue pour la tenue de l'audience, le juge du tribunal d'instance peut appeler,
 pour exercer les fonctions du ministère public, le maire du lieu où siège le tribunal de police ou un de ses adjoints.
@@ -2446,17 +2456,19 @@ pour exercer les fonctions du ministère public, le maire du lieu où siège le 
 
 	  - Loi n°57-1426 1957-12-31
 
-	**Modifié par**:
-
-	  - Ordonnance n°58-1296 du 23 décembre 1958 - art. 1 () JORF 24 décembre 1958 en vigueur le 2 mars 1959
-	  - Ordonnance 60-529 1960-06-04 art. 2 JORF 8 juin 1960
-	  - Loi n°72-1226 1972-12-29 art. 20 JORF 30 décembre 1972
-
 	**Cité par**:
 
 	  - Loi n°83-520 du 27 juin 1983 - art. 11 (V)
 	  - Code de procédure pénale - art. 811 (V)
 	  - Code de procédure pénale - art. R200 (Ab)
+
+	**Modifié par**:
+
+	  - Loi n°96-647 du 22 juillet 1996 - art. 22 () JORF 23 juillet 1996
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°96-647 du 22 juillet 1996 - art. 27 (M)
 
 
 ###### Article 47
@@ -2478,9 +2490,8 @@ fonctions du ministère public.
 ###### Article 48
 
 S'il n'y a pas de commissaire de police au lieu où siège le tribunal, le procureur général désigne, pour exercer les
-fonctions du ministère public, un commissaire ou un inspecteur divisionnaire ou principal de la police nationale en résidence
-dans le ressort du tribunal de grande instance ou, à défaut, d'un tribunal de grande instance limitrophe situé dans le même
-département.
+fonctions du ministère public, un commissaire ou un commandant ou capitaine de police en résidence dans le ressort du
+tribunal de grande instance ou, à défaut, d'un tribunal de grande instance limitrophe situé dans le même département.
 
 **Liens relatifs à cet article**
 
@@ -2496,7 +2507,11 @@ département.
 
 	**Modifié par**:
 
-	  - Loi n°89-461 du 6 juillet 1989 - art. 22 () JORF 8 juillet 1989
+	  - Loi n°96-647 du 22 juillet 1996 - art. 22 () JORF 23 juillet 1996
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°96-647 du 22 juillet 1996 - art. 27 (M)
 
 
 #### Chapitre III : Du juge d'instruction
@@ -15921,8 +15936,8 @@ les articles 222-19, 222-20, 223-1 et 434-10 du code pénal ;
 et munitions ;
 
 5° Les délits prévus par les articles 222-11, 222-12 (1° à 10°), 222-13 (1° à 10°), 222-16, 222-17, 222-18, 222-32, 227-3 à
-227-11, 311-3, 311-4 (1° à 8°), 313-5, 314-5, 314-6, 321-1, 322-1 à 322-4, 322-12, 322-13, 322-14, 433-5 et 521-1 du code
-pénal et L. 628 du code de la santé publique ;
+227-11, 311-3, 311-4 (1° à 8°), 313-5, 314-5, 314-6, 321-1, 322-1 à 322-4, 322-12, 322-13, 322-14, 433-3, premier alinéa,
+433-5 et 521-1 du code pénal et L. 628 du code de la santé publique ;
 
 6° Les délits prévus par le code rural en matière de chasse, de pêche et de protection de la faune et de la flore et les
 délits prévus par le décret-loi du 9 janvier 1852 en matière de pêche maritime.
@@ -15940,7 +15955,11 @@ jugement des délits prévus au présent article lorsque ces délits sont connex
 
 	**Modifié par**:
 
-	  - Loi n°95-125 du 8 février 1995 - art. 37 () JORF 9 février 1995 en vigueur le 6 mars 1995
+	  - Loi n°96-647 du 22 juillet 1996 - art. 18 () JORF 23 juillet 1996
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°96-647 du 22 juillet 1996 - art. 27 (M)
 
 	**Cité par**:
 
@@ -15956,29 +15975,11 @@ jugement des délits prévus au présent article lorsque ces délits sont connex
 
 	**Cite**:
 
-	  - Code pénal - art. 222-11 (M)
-	  - Code pénal - art. 222-12 (M)
-	  - Code pénal - art. 222-13 (M)
-	  - Code pénal - art. 222-16 (M)
-	  - Code pénal - art. 222-17 (M)
-	  - Code pénal - art. 222-18 (M)
 	  - Code pénal - art. 222-19 (M)
 	  - Code pénal - art. 222-20 (M)
-	  - Code pénal - art. 222-32 (M)
 	  - Code pénal - art. 223-1 (M)
-	  - Code pénal - art. 311-3 (M)
-	  - Code pénal - art. 311-4 (M)
-	  - Code pénal - art. 313-5 (M)
-	  - Code pénal - art. 314-5 (M)
-	  - Code pénal - art. 314-6 (M)
-	  - Code pénal - art. 321-1 (M)
-	  - Code pénal - art. 322-12 (M)
-	  - Code pénal - art. 322-13 (MMN)
-	  - Code pénal - art. 322-14 (M)
-	  - Code pénal - art. 433-5 (M)
 	  - Code pénal - art. 434-10 (M)
-	  - Code pénal - art. 521-1 (M)
-	  - Code pénal 222-19, 222-20, 223-1, 434-10, 222-11, 222-12, 222-13, 222-16, 222-17, 222-18, 222-32, 227-3 à 227-11, 311-3, 311-4, 313-5, 314-5, 314-6, 321-1, 322-1 à 322-4, 322-12, 322-13, 322-14, 433-5, 521-1
+	  - CODE DE PROCEDURE PENALE 398, 222-11, 222-12, 222-13, 222-16, 222-17, 222-18, 222-32, 227-3 à 227-11, 311-3, 311-4, 313-5, 314-5, 314-6, 321-1, 322-1 à 322-4, 322-12, 322-13, 322-14, 433-3
 	  - Décret-loi 1852-01-09
 	  - Décret-loi 1935-10-30 art. 66, art. 69
 	  - Décret-loi 1939-04-18 art. 32
@@ -26290,10 +26291,12 @@ générateurs de celui-ci ayant entraîné une incapacité totale de travail inf
 
 ###### Article 706-16
 
-Les actes de terrorisme incriminés par les articles 421-1, 421-2 et 421-4 du code pénal, le délit de participation à une
-association de malfaiteurs prévu par l'article 450-1 du même code lorsqu'il a pour objet de préparer l'une de ces infractions
-ainsi que les infractions connexes sont poursuivis, instruits et jugés selon les règles du présent code sous réserve des
-dispositions du présent titre.
+Les actes de terrorisme incriminés par les articles 421-1 à 421-5 du code pénal, ainsi que les infractions connexes sont
+poursuivis, instruits et jugés selon les règles du présent code sous réserve des dispositions du présent titre.
+
+Ces dispositions sont également applicables à la poursuite, à l'instruction et au jugement des actes de terrorisme commis à
+l'étranger lorsque la loi française est applicable en vertu des dispositions de la section 2 du chapitre III du titre Ier du
+livre Ier du code pénal.
 
 **Liens relatifs à cet article**
 
@@ -26335,20 +26338,19 @@ dispositions du présent titre.
 	  - Code pénal - art. 133-2 (V)
 	  - Code pénal - art. 133-3 (V)
 
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°96-647 du 22 juillet 1996 - art. 27 (M)
+	  - TXT_ASSOCIE: Décret n°1939-04-18 du 18 avril 1939 - art. 31 (M)
+
 	**Modifié par**:
 
-	  - Loi n°92-1336 du 16 décembre 1992 - art. 74 () JORF 23 décembre 1992 en vigueur le 1er mars 1994
+	  - Loi n°96-647 du 22 juillet 1996 - art. 8 () JORF 23 juillet 1996
+	  - Loi n°96-647 du 22 juillet 1996 - art. 9 () JORF 23 juillet 1996
 
 	**Cite**:
 
-	  - Code pénal - art. 421-1 (M)
-	  - Code pénal - art. 421-2 (M)
-	  - Code pénal - art. 421-4 (M)
-	  - Code pénal - art. 450-1 (M)
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Décret n°1939-04-18 du 18 avril 1939 - art. 31 (M)
+	  - Code pénal 421-1 à 421-5
 
 
 #### Section 1 : Compétence
@@ -26602,6 +26604,29 @@ dans le champ d'application de l'article 706-16 l'exigent, le président du trib
 lui peut, à la requête du procureur de la République, décider que les perquisitions, visites domiciliaires et saisies de
 pièces à conviction pourront être faites sans l'assentiment de la personne chez laquelle elles ont lieu.
 
+[Les trois premiers alinéas de l'article 10 sont déclarés non conformes à la Constitution par décision du Conseil
+constitutionnel n° 96-377 DC du 16 juillet 1996 dans la mesure où ils visent les cas d'enquête préliminaire.]
+
+Si les nécessités de l'enquête [Dispositions déclarées non conformes à la Constitution par décision du Conseil
+constitutionnel n° 96-377 DC du 16 juillet 1996] l'exigent, les visites, perquisitions et saisies peuvent être opérées en
+dehors des heures prévues par l'article 59.
+
+Les opérations prévues à l'alinéa précédent doivent, à peine de nullité, être autorisées sur requête du procureur de la
+République par le président du tribunal de grande instance ou le juge délégué par lui, [Dispositions déclarées non conformes
+à la Constitution par décision du Conseil constitutionnel n° 96-377 DC du 16 juillet 1996] les autorisations sont données
+pour des perquisitions déterminées. Chaque autorisation fait l'objet d'une décision écrite, précisant la qualification de
+l'infraction dont la preuve est recherchée ainsi que l'adresse des lieux dans lesquels les visites, perquisitions et saisies
+peuvent être effectuées, et motivée par référence aux éléments de fait justifiant que ces opérations sont nécessaires.
+Celles-ci sont effectuées sous le contrôle du magistrat qui les a autorisées, et qui peut se déplacer sur les lieux pour
+veiller au respect des dispositions légales.
+
+Ces opérations ne peuvent, à peine de nullité, avoir un autre objet que la recherche et la constatation des infractions
+entrant dans le champ d'application de l'article 706-16.
+
+Pour l'application des dispositions du présent article, le président du tribunal de grande instance est le président du
+tribunal de grande instance dans le ressort duquel les opérations sont effectuées ou le président du tribunal de grande
+instance de Paris, ce dernier exerçant alors ses attributions sur toute l'étendue du territoire national.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
@@ -26610,10 +26635,16 @@ pièces à conviction pourront être faites sans l'assentiment de la personne ch
 
 	**Modifié par**:
 
-	  - Loi n°92-1336 du 16 décembre 1992 - art. 74 () JORF 23 décembre 1992 en vigueur le 1er mars 1994
+	  - Loi n°96-647 du 22 juillet 1996 - art. 10 () JORF 23 juillet 1996
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°96-647 du 22 juillet 1996 - art. 27 (M)
 
 	**Cite**:
 
+	  - CODE DE PROCEDURE PENALE - art. 10 (V)
+	  - CODE DE PROCEDURE PENALE - art. 59 (M)
 	  - CODE DE PROCEDURE PENALE - art. 706-16 (M)
 	  - CODE DE PROCEDURE PENALE - art. 76 (M)
 
@@ -26761,7 +26792,11 @@ société de stupéfiants ou dans lesquels sont fabriqués, transformés ou entr
 
 Les opérations prévues à l'alinéa précédent doivent, à peine de nullité, être autorisées, sur requête du procureur de la
 République, par le président du tribunal de grande instance ou le juge délégué par lui, lorsqu'il s'agit de les effectuer
-dans une maison d'habitation ou un appartement, à moins qu'elles ne soient ordonnées par le juge d'instruction.
+dans une maison d'habitation ou un appartement, à moins qu'elles ne soient autorisées par le juge d'instruction. Chaque
+autorisation fait l'objet d'une décision écrite, précisant la qualification de l'infraction dont la preuve est recherchée
+ainsi que l'adresse des lieux dans lesquels les visites, perquisitions et saisies peuvent être effectuées, et motivée par
+référence aux éléments de fait justifiant que ces opérations sont nécessaires. Celles-ci sont effectuées sous le contrôle du
+magistrat qui les a autorisées, et qui peut se déplacer sur les lieux pour veiller au respect des dispositions légales.
 
 Les actes prévus au présent article ne peuvent, à peine de nullité, avoir un autre objet que la recherche et la constatation
 des infractions visées à l'article 706-26.
@@ -26772,9 +26807,13 @@ des infractions visées à l'article 706-26.
 
 	  - Ordonnance 58-1296 1958-12-23
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°92-1336 du 16 décembre 1992 - art. 77 () JORF 23 décembre 1992 en vigueur le 1er mars 1994
+	  - Loi n°96-647 du 22 juillet 1996 - art. 11 () JORF 23 juillet 1996
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°96-647 du 22 juillet 1996 - art. 27 (M)
 
 	**Cite**:
 
@@ -61324,14 +61363,8 @@ héberger à son domicile ;
 
 ###### Article D542
 
-Les comités d'assistance aux libérés sont chargés, conformément à l'article R. 8 du Code pénal [*attributions*], d'assurer la
-prise en charge des interdits de séjour faisant l'objet des mesures d'assistance visées à l'article 46 dudit code [* article
-abrogé *].
-
-**Nota:**
-
-[*Les articles R. 1 à R. 43 du code pénal ont été abrogés et remplacés par le décret n° 93-726 du 29 mars 1993 en vigueur le
-1er mars 1994. *]
+Les comités de probation et d'assistance aux libérés sont chargés d'assurer la prise en charge des interdits de séjour
+faisant l'objet des mesures d'assistance visées à l'article 131-31 du code pénal.
 
 **Liens relatifs à cet article**
 
@@ -61341,11 +61374,11 @@ abrogé *].
 
 	**Modifié par**:
 
-	  - Décret n°85-836 1985-08-06 art. 1 JORF 8 août 1985
+	  - Décret n°96-651 du 22 juillet 1996 - art. 3 () JORF 23 juillet 1996
 
 	**Cite**:
 
-	  - Code pénal 46, R8
+	  - Code pénal - art. 131-31 (V)
 
 	**Liens**:
 
@@ -61567,6 +61600,144 @@ Pour l'admission au bénéfice des mesures prévues aux articles 723 et 723-3, l
 	**Liens**:
 
 	  - TXT_SOURCE: Code de procédure pénale 749 à 762
+
+
+### Titre VII : De l'interdiction de séjour
+
+###### Article D571
+
+Lorsqu'elle est libre, la personne condamnée à l'interdiction de séjour est tenue d'aviser le ministère public près la
+juridiction qui a prononcé la condamnation, du lieu où elle fixe sa résidence. Lorsqu'elle est détenue, elle doit en aviser,
+lors de sa libération, le greffe de l'établissement pénitentiaire. Le chef de l'établissement pénitentiaire en informe alors
+immédiatement le ministère public près la juridiction qui a prononcé la condamnation.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-322 1959-02-23
+
+	**Créé par**:
+
+	  - Décret n°75-402 1975-05-23 art. 1 JORF 27 mai 1975
+
+	**Abrogé par**:
+
+	  - Décret n°86-462 1986-03-14 art. 13 JORF 16 mars 1986
+
+	**Modifié par**:
+
+	  - Décret n°96-651 du 22 juillet 1996 - art. 2 () JORF 23 juillet 1996
+
+
+###### Article D571-1
+
+Lorsque la condamnation à l'interdiction de séjour est exécutoire, le ministère public près la juridiction qui a prononcé la
+condamnation en avise le juge de l'application des peines compétent auquel il transmet une copie de la décision ainsi que
+toutes informations utiles concernant la résidence de la personne condamnée.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-322 1959-02-23
+
+	**Créé par**:
+
+	  - Décret n°96-651 du 22 juillet 1996 - art. 2 () JORF 23 juillet 1996
+
+
+###### Article D571-2
+
+Le ministère public près la juridiction qui a prononcé la condamnation à l'interdiction de séjour devenue exécutoire remet ou
+fait remettre au condamné un document lui permettant de justifier de sa situation au regard de l'interdiction de séjour. Ce
+document est remis au condamné incarcéré lors de sa libération. Si le condamné est convoqué par le juge d'application des
+peines alors que ce document n'a pu lui être remis auparavant, ce magistrat en assure la remise.
+
+Le document remis au condamné mentionne l'état civil de celui-ci, la date de la décision de condamnation et la juridiction
+dont elle émane, la durée de l'interdiction de séjour ainsi que la liste des lieux interdits et, s'il y a lieu, la ou les
+mesures de surveillance fixées par le tribunal en application de l'article 762-1.
+
+Toute décision modifiant les modalités d'exécution de l'interdiction de séjour en application des articles 762-4 et 762-5 est
+mentionnée sur le document. Cette mention est portée par le magistrat qui prend la décision ou, si celle-ci est prise par le
+tribunal correctionnel, par le procureur de la République près ce tribunal.
+
+Si l'interdiction de séjour accompagne une peine privative de liberté sans sursis, le document porte également mention de
+cette peine et du jour où la privation de liberté a pris fin.
+
+Le document reproduit les termes des articles 131-31 et 131-32 du code pénal et des articles 762-2, 762-4 et 762-5 du code de
+procédure pénale. Il précise en outre que le fait pour le condamné de se soustraire aux obligations et interdictions
+découlant de l'interdiction de séjour est puni des peines prévues par l'article 434-38 du code pénal.
+
+Le modèle du document prévu au présent article est établi par les soins du ministre de la justice.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-322 1959-02-23
+
+	**Créé par**:
+
+	  - Décret n°96-651 du 22 juillet 1996 - art. 2 () JORF 23 juillet 1996
+
+	**Cite**:
+
+	  - Code pénal - art. 131-31 (V)
+	  - Code pénal - art. 131-32 (V)
+	  - Code pénal - art. 434-38 (M)
+	  - CODE DE PROCEDURE PENALE - art. 762-1 (V)
+	  - CODE DE PROCEDURE PENALE - art. 762-2 (M)
+	  - CODE DE PROCEDURE PENALE - art. 762-4 (M)
+	  - CODE DE PROCEDURE PENALE - art. 762-5 (M)
+
+
+###### Article D571-3
+
+Le ministère public près la juridiction qui a prononcé la condamnation est avisé, soit par le magistrat qui prend la
+décision, soit, lorsque celle-ci est prise par le tribunal correctionnel, par le procureur de la République près ce
+tribunal :
+
+1° De toute transmission de dossier au juge de l'application des peines compétent à la suite d'un changement de résidence du
+condamné à l'interdiction de séjour ;
+
+2° De toute modification de la liste des lieux interdits et des mesures de surveillance décidée en application de l'article
+762-4 ;
+
+3° De toute suspension provisoire de l'exécution de la mesure d'interdiction de séjour décidée en application de l'article
+762-5, alinéa 1er ;
+
+4° De toute autorisation provisoire de séjourner dans une localité interdite décidée en application de l'article 762-5,
+alinéa 2 ;
+
+5° De tout ordre de recherche délivré à l'encontre du condamné en application des dispositions combinées des articles 762-2,
+alinéa 2, et 741, alinéa 2.
+
+6° De toute condamnation pour infraction à l'interdiction de séjour.
+
+En cas de condamnation pour infraction à l'interdiction de séjour, le ministère public près la juridiction qui a prononcé la
+condamnation en avise en outre le juge de l'application des peines sous le contrôle duquel le condamné à l'interdiction de
+séjour est placé.
+
+Le ministère public près la juridiction qui a prononcé la condamnation assure la transmission des informations visées aux 2°,
+3° et 4° au fichier des personnes recherchées en vue de leur diffusion.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-322 1959-02-23
+
+	**Créé par**:
+
+	  - Décret n°96-651 du 22 juillet 1996 - art. 2 () JORF 23 juillet 1996
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. 741 (M)
+	  - CODE DE PROCEDURE PENALE - art. 762-2 (M)
+	  - CODE DE PROCEDURE PENALE - art. 762-4 (M)
+	  - CODE DE PROCEDURE PENALE - art. 762-5 (M)
 
 
 ### Titre XI : Le comité de probation et d'assistance aux libérés
