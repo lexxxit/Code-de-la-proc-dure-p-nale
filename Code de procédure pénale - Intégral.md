@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 1999-06-15
+Version Consolidée au 1999-06-24
 
 # Partie législative
 
@@ -620,8 +620,8 @@ l'action publique éteinte, l'action publique pourra être reprise ; la prescrip
 depuis le jour où le jugement ou arrêt était devenu définitif jusqu'à celui de la condamnation du coupable de faux ou usage
 de faux.
 
-Elle peut, en outre, s'éteindre par transaction lorsque la loi en dispose expressément ; il en est de même en cas de retrait
-de plainte, lorsque celle-ci est une condition nécessaire de la poursuite.
+Elle peut, en outre, s'éteindre par transaction lorsque la loi en dispose expressément ou par l'exécution d'une composition
+pénale ; il en est de même en cas de retrait de plainte, lorsque celle-ci est une condition nécessaire de la poursuite.
 
 **Liens relatifs à cet article**
 
@@ -636,7 +636,7 @@ de plainte, lorsque celle-ci est une condition nécessaire de la poursuite.
 
 	**Modifié par**:
 
-	  - Ordonnance n°58-1296 du 23 décembre 1958 - art. 1 () JORF 24 décembre 1958 en vigueur le 2 mars 1959
+	  - Loi n°99-515 du 23 juin 1999 - art. 4 () JORF 24 juin 1999
 
 	**Cité par**:
 
@@ -2287,11 +2287,6 @@ l'informer sur les mesures propres à favoriser l'insertion sociale de l'intére
 de moins de vingt et un ans au moment de la commission de l'infraction, lorsque la peine encourue n'excède pas cinq ans
 d'emprisonnement, ces diligences doivent être prescrites avant toute réquisition de placement en détention provisoire.
 
-Le procureur de la République peut enfin, préalablement à sa décision sur l'action publique et avec l'accord des parties,
-décider de recourir à une médiation s'il lui apparaît qu'une telle mesure est susceptible d'assurer la réparation du dommage
-causé à la victime, de mettre fin au trouble résultant de l'infraction et de contribuer au reclassement de l'auteur de
-l'infraction.
-
 **Liens relatifs à cet article**
 
 	**Codifié par**:
@@ -2318,31 +2313,31 @@ l'infraction.
 
 	**Modifié par**:
 
-	  - Loi n°93-2 du 4 janvier 1993 - art. 5 () JORF 5 janvier 1993
+	  - Loi n°99-515 du 23 juin 1999 - art. 2 () JORF 24 juin 1999
 
 	**Cite**:
 
 	  - CODE DE PROCEDURE PENALE - art. 68 (V)
-	  - Code de procédure pénale 81 al. 6, 68
+	  - CODE DE PROCEDURE PENALE - art. 81 (M)
 
 
 ###### Article 41-1
 
-Lorsqu'aucune juridiction n'a été saisie ou lorsque la juridiction saisie a épuisé sa compétence sans avoir statué sur la
-restitution des objets, le procureur de la République ou le procureur général est compétent pour décider, d'office ou sur
-requête, de la restitution de ces objets lorsque la propriété n'en est pas sérieusement contestée.
+S'il lui apparaît qu'une telle mesure est susceptible d'assurer la réparation du dommage causé à la victime, de mettre fin au
+trouble résultant de l'infraction ou de contribuer au reclassement de l'auteur des faits, le procureur de la République peut,
+préalablement à sa décision sur l'action publique, directement ou par délégation :
 
-Il n'y a pas lieu à restitution lorsque celle-ci est de nature à créer un danger pour les personnes ou les biens ; la
-décision de non restitution prise pour ce motif, même d'office, par le procureur de la République ou le procureur général
-peut être contestée dans le mois de sa notification par requête de l'intéressé devant le tribunal correctionnel ou la chambre
-des appels correctionnels, qui statue en chambre du conseil. Il n'y a pas lieu non plus à restitution lorsqu'une disposition
-particulière prévoit la destruction des objets placés sous main de justice.
+1° Procéder au rappel auprès de l'auteur des faits des obligations résultant de la loi ;
 
-Si la restitution n'a pas été demandée ou décidée dans un délai de trois ans à compter de la décision de classement ou de la
-décision par laquelle la dernière juridiction saisie a épuisé sa compétence, les objets non restitués deviennent propriété de
-l'Etat, sous réserve des droits des tiers. Les objets dont la restitution est de nature à créer un danger pour les personnes
-ou les biens deviennent propriété de l'Etat, sous réserve des droits des tiers, dès que la décision de non-restitution ne
-peut plus être contestée, ou dès que le jugement ou l'arrêt de non-restitution est devenu définitif.
+2° Orienter l'auteur des faits vers une structure sanitaire, sociale ou professionnelle ;
+
+3° Demander à l'auteur des faits de régulariser sa situation au regard de la loi ou des règlements ;
+
+4° Demander à l'auteur des faits de réparer le dommage résultant de ceux-ci ;
+
+5° Faire procéder, avec l'accord des parties, à une mission de médiation entre l'auteur des faits et la victime.
+
+La procédure prévue au présent article suspend la prescription de l'action publique.
 
 **Liens relatifs à cet article**
 
@@ -2379,7 +2374,215 @@ peut plus être contestée, ou dès que le jugement ou l'arrêt de non-restituti
 
 	**Modifié par**:
 
-	  - Loi n°87-962 du 30 novembre 1987 - art. 10 () JORF 1er décembre 1987
+	  - Loi n°99-515 du 23 juin 1999 - art. 1 () JORF 24 juin 1999
+
+
+###### Article 41-2
+
+Le procureur de la République, tant que l'action publique n'a pas été mise en mouvement, peut proposer, directement ou par
+l'intermédiaire d'une personne habilitée, une composition pénale à une personne majeure qui reconnaît avoir commis un ou
+plusieurs délits prévus par les articles 222-11, 222-13 (1° à 10°), 222-16, 222-17, 222-18 (premier alinéa), 227-3 à 227-7,
+227-9 à 227-11, 311-3, 313-5, 314-5, 314-6, 322-1, 322-2, 322-12 à 322-14, 433-5 à 433-7 et 521-1 du code pénal, par les
+articles 28 et 32 du décret-loi du 18 avril 1939 fixant le régime des matériels de guerre, armes et munitions, par l'article
+L. 1er du code de la route et par l'article L. 628 du code de la santé publique, qui consiste en une ou plusieurs des mesures
+suivantes :
+
+1° Verser une amende de composition au Trésor public. Le montant de cette amende de composition, qui ne peut excéder ni 25
+000 F ni la moitié du maximum de l'amende encourue, est fixé en fonction de la gravité des faits ainsi que des ressources et
+des charges de la personne. Son versement peut être échelonné, selon un échéancier fixé par le procureur de la République, à
+l'intérieur d'une période qui ne peut être supérieure à un an ;
+
+2° Se dessaisir au profit de l'Etat de la chose qui a servi ou était destinée à commettre l'infraction ou qui en est le
+produit ;
+
+3° Remettre au greffe du tribunal de grande instance son permis de conduire ou son permis de chasser, pour une période
+maximale de quatre mois ;
+
+4° Effectuer au profit de la collectivité un travail non rémunéré pour une durée maximale de soixante heures, dans un délai
+qui ne peut être supérieur à six mois.
+
+Lorsque la victime est identifiée, et sauf si l'auteur des faits justifie de la réparation du préjudice commis, le procureur
+de la République doit également proposer à ce dernier de réparer les dommages causés par l'infraction dans un délai qui ne
+peut être supérieur à six mois. Il informe la victime de cette proposition.
+
+La proposition de composition pénale émanant du procureur de la République peut être portée à la connaissance de l'auteur des
+faits par l'intermédiaire d'un officier de police judiciaire. Elle fait alors l'objet d'une décision écrite et signée de ce
+magistrat, qui précise la nature et le quantum des mesures proposées et qui est jointe à la procédure. A peine de nullité,
+cette proposition ne peut intervenir pendant la durée de la garde à vue de l'auteur des faits.
+
+La composition pénale peut être proposée dans une maison de justice et du droit.
+
+La personne à qui est proposée une composition pénale est informée qu'elle peut se faire assister par un avocat avant de
+donner son accord à la proposition du procureur de la République. Ledit accord est recueilli par procès-verbal. Une copie de
+ce procès-verbal lui est transmise.
+
+Lorsque l'auteur des faits donne son accord aux mesures proposées, le procureur de la République saisit par requête le
+président du tribunal aux fins de validation de la composition. Le procureur de la République informe de cette saisine
+l'auteur des faits et, le cas échéant, la victime. Le président du tribunal peut procéder à l'audition de l'auteur des faits
+et de la victime, assistés, le cas échéant, de leur avocat. Les auditions sont de droit si les intéressés le demandent. Si ce
+magistrat rend une ordonnance validant la composition, les mesures décidées sont mises à exécution. Dans le cas contraire, la
+proposition devient caduque. La décision du président du tribunal, qui est notifiée à l'auteur des faits et, le cas échéant,
+à la victime, n'est pas susceptible de recours.
+
+Si la personne n'accepte pas la composition ou si, après avoir donné son accord, elle n'exécute pas intégralement les mesures
+décidées ou, si la demande de validation prévue par l'alinéa précédent est rejetée, le procureur de la République apprécie la
+suite à donner à la procédure. En cas de poursuites et de condamnation, il est tenu compte, le cas échéant, du travail déjà
+accompli et des sommes déjà versées par la personne.
+
+La prescription de l'action publique est suspendue entre la date à laquelle le procureur de la République propose une
+composition pénale et la date d'expiration des délais impartis pour exécuter la composition pénale.
+
+L'exécution de la composition pénale éteint l'action publique. Elle ne fait cependant pas échec au droit de la partie civile
+de délivrer citation directe devant le tribunal correctionnel dans les conditions prévues au présent code. Le tribunal ne
+statue alors que sur les seuls intérêts civils, au vu du dossier de la procédure qui est versé au débat.
+
+Les modalités d'application du présent article sont fixées par décret en Conseil d'Etat.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Ordonnance n°45-174 du 2 février 1945 - art. 7-2 (V)
+	  - Loi n°91-647 du 10 juillet 1991 - art. 64-2 (VD)
+	  - Ordonnance n°92-1143 du 12 octobre 1992 - art. 40-1 (Ab)
+	  - Ordonnance n°92-1147 du 12 octobre 1992 - art. 23-3 (VD)
+	  - Arrêté du 25 février 2004 - art. 1 (V)
+	  - Arrêté du 25 février 2005 - art. 1 (V)
+	  - Décret n°2007-1853 du 26 décembre 2007 (V)
+	  - Arrêté du 12 décembre 2008 (V)
+	  - Arrêté du 21 septembre 2009 (V)
+	  - Ordonnance n°2017-157 du 9 février 2017 - art. 12 (VD)
+	  - CODE DE PROCEDURE PENALE - art. 143-1 (M)
+	  - CODE DE PROCEDURE PENALE - art. 706-72 (Ab)
+	  - CODE DE PROCEDURE PENALE - art. 809-1 (V)
+	  - CODE DE PROCEDURE PENALE - art. R15-33-55 (M)
+	  - CODE DE PROCEDURE PENALE - art. R15-33-56 (M)
+	  - CODE DE PROCEDURE PENALE - art. R15-33-57 (M)
+	  - CODE DE PROCEDURE PENALE - art. R15-33-60 (M)
+	  - CODE DE PROCEDURE PENALE - art. R53-41 (Ab)
+	  - Code de commerce - art. L470-4-2 (T)
+	  - Code de la route. - art. R233-1 (V)
+	  - Code de la route. - art. R234-5 (V)
+	  - Code de la route. - art. R243-1 (M)
+	  - Code de la route. - art. R244-1 (M)
+	  - Code de la route. - art. R245-1 (M)
+	  - Code de la sécurité sociale. - art. D412-72 (V)
+	  - Code de procédure pénale - art. 41-3 (VD)
+	  - Code de procédure pénale - art. 706-53-2 (V)
+	  - Code de procédure pénale - art. R121-2 (V)
+	  - Code de procédure pénale - art. R121-4 (V)
+	  - Code de procédure pénale - art. R15-33-30 (V)
+	  - Code de procédure pénale - art. R15-33-38 (V)
+	  - Code de procédure pénale - art. R15-33-40 (V)
+	  - Code de procédure pénale - art. R15-33-41 (V)
+	  - Code de procédure pénale - art. R15-33-41-1 (V)
+	  - Code de procédure pénale - art. R15-33-42 (V)
+	  - Code de procédure pénale - art. R15-33-44 (V)
+	  - Code de procédure pénale - art. R15-33-45 (V)
+	  - Code de procédure pénale - art. R15-33-48 (V)
+	  - Code de procédure pénale - art. R15-33-53 (V)
+	  - Code de procédure pénale - art. R15-33-53-1 (V)
+	  - Code de procédure pénale - art. R15-33-55-9 (V)
+	  - Code de procédure pénale - art. R55 (VD)
+
+	**Codifié par**:
+
+	  - Loi n°57-1426 1957-12-31
+
+	**Créé par**:
+
+	  - Loi n°99-515 du 23 juin 1999 - art. 1 () JORF 24 juin 1999
+
+	**Cite**:
+
+	  - Code pénal - art. 222-11 (M)
+	  - Code pénal - art. 222-13 (M)
+	  - Code pénal - art. 222-16 (M)
+	  - Code pénal - art. 222-17 (M)
+	  - Code pénal - art. 222-18 (M)
+	  - Code pénal - art. 311-3 (M)
+	  - Code pénal - art. 313-5 (M)
+	  - Code pénal - art. 314-5 (M)
+	  - Code pénal - art. 314-6 (M)
+	  - Code pénal - art. 322-1 (M)
+	  - Code pénal - art. 322-2 (M)
+	  - Code pénal - art. 521-1 (M)
+	  - Code pénal 222-11, 222-13, 222-16, 222-17, 222-18, 227-3 à 227-7, 227-9 à 227-11, 311-3, 313-5, 314-5, 314-6, 322-1, 322-2, 322-12 à 322-14, 433-5 à 433-7, 521-1
+	  - Code de la santé publique - art. L628 (Ab)
+	  - Code de la route L1
+	  - Décret-loi 1939-04-18 art. 28, art. 32
+
+
+###### Article 41-3
+
+La procédure de composition pénale est également applicable en cas de violences ou de dégradations contraventionnelles.
+
+Le montant maximum de l'amende de composition ne peut alors excéder 5 000 F ni la moitié du maximum de l'amende encourue, la
+durée de la remise du permis de conduire ou du permis de chasser ne peut dépasser deux mois et la durée du travail non
+rémunéré ne peut être supérieure à trente heures, dans un délai maximum de trois mois.
+
+La requête en validation est portée devant le juge d'instance.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Ordonnance n°45-174 du 2 février 1945 - art. 7-2 (V)
+	  - Loi n°91-647 du 10 juillet 1991 - art. 64-2 (VD)
+	  - Ordonnance n°92-1143 du 12 octobre 1992 - art. 40-1 (Ab)
+	  - Ordonnance n°92-1147 du 12 octobre 1992 - art. 23-3 (VD)
+	  - Arrêté du 25 février 2005 - art. 1 (V)
+	  - CODE DE PROCEDURE PENALE - art. 44-1 (M)
+	  - CODE DE PROCEDURE PENALE - art. 706-72 (Ab)
+	  - CODE DE PROCEDURE PENALE - art. R15-33-30 (M)
+	  - CODE DE PROCEDURE PENALE - art. R53-41 (Ab)
+
+	**Codifié par**:
+
+	  - Loi n°57-1426 1957-12-31
+
+	**Créé par**:
+
+	  - Loi n°99-515 du 23 juin 1999 - art. 1 () JORF 24 juin 1999
+
+
+###### Article 41-4
+
+Lorsqu'aucune juridiction n'a été saisie ou lorsque la juridiction saisie a épuisé sa compétence sans avoir statué sur la
+restitution des objets, le procureur de la République ou le procureur général est compétent pour décider, d'office ou sur
+requête, de la restitution de ces objets lorsque la propriété n'en est pas sérieusement contestée.
+
+Il n'y a pas lieu à restitution lorsque celle-ci est de nature à créer un danger pour les personnes ou les biens ; la
+décision de non restitution prise pour ce motif, même d'office, par le procureur de la République ou le procureur général
+peut être contestée dans le mois de sa notification par requête de l'intéressé devant le tribunal correctionnel ou la chambre
+des appels correctionnels, qui statue en chambre du conseil. Il n'y a pas lieu non plus à restitution lorsqu'une disposition
+particulière prévoit la destruction des objets placés sous main de justice.
+
+Si la restitution n'a pas été demandée ou décidée dans un délai de six mois à compter de la décision de classement ou de la
+décision par laquelle la dernière juridiction saisie a épuisé sa compétence, les objets non restitués deviennent propriété de
+l'Etat, sous réserve des droits des tiers. Il en est de même lorsque le propriétaire ou la personne à laquelle la restitution
+a été accordée ne réclame pas l'objet dans un délai de deux mois à compter d'une mise en demeure adressée à son domicile. Les
+objets dont la restitution est de nature à créer un danger pour les personnes ou les biens deviennent propriété de l'Etat,
+sous réserve des droits des tiers, dès que la décision de non-restitution ne peut plus être contestée, ou dès que le jugement
+ou l'arrêt de non-restitution est devenu définitif.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°57-1426 1957-12-31
+
+	**Créé par**:
+
+	  - Loi n°99-515 du 23 juin 1999 - art. 1 () JORF 24 juin 1999
+
+	**Cité par**:
+
+	  - Arrêté du 22 décembre 2008 - art. 2 (V)
+	  - Loi n°2016-274 du 7 mars 2016 - art. 49
+	  - Code de l'entrée et du séjour des étrangers et ... - art. L622-10 (V)
+	  - Code de procédure pénale - art. 41-6 (VD)
+	  - Code général de la propriété des personnes publ... - art. L1125-1 (VD)
 
 
 ###### Article 42
@@ -2724,9 +2927,8 @@ aussi crime ou délit flagrant lorsque, dans un temps très voisin de l'action, 
 clameur publique, ou est trouvée en possession d'objets, ou présente des traces ou indices, laissant penser qu'elle a
 participé au crime ou au délit.
 
-Est assimilé au crime ou délit flagrant tout crime ou délit qui même non commis dans les circonstances prévues à l'alinéa
-précédent a été commis dans une maison dont le chef requiert le procureur de la République ou un officier de police
-judiciaire de le constater.
+L'enquête de flagrance menée à la suite de la constatation d'un crime ou d'un délit flagrant ne peut se poursuivre pendant
+plus de huit jours.
 
 **Liens relatifs à cet article**
 
@@ -2737,6 +2939,10 @@ judiciaire de le constater.
 	**Liens**:
 
 	  - SPEC_APPLI: Loi n°57-1426 1957-12-31 art. 18
+
+	**Modifié par**:
+
+	  - Loi n°99-515 du 23 juin 1999 - art. 11 () JORF 24 juin 1999
 
 	**Cité par**:
 
@@ -2838,6 +3044,10 @@ mise sous scellés définitifs et ce, en présence des personnes qui ont assist�
 Avec l'accord du procureur de la République, l'officier de police judiciaire ne maintient que la saisie des objets et
 documents utiles à la manifestation de la vérité.
 
+Le procureur de la République peut également, lorsque la saisie porte sur des espèces, lingots, effets ou valeurs dont la
+conservation en nature n'est pas nécessaire à la manifestation de la vérité ou à la sauvegarde des droits des personnes
+intéressées, autoriser leur dépôt à la Caisse des dépôts et consignations ou à la Banque de France.
+
 **Liens relatifs à cet article**
 
 	**Cité par**:
@@ -2892,7 +3102,7 @@ documents utiles à la manifestation de la vérité.
 
 	**Modifié par**:
 
-	  - Ordonnance 60-529 1960-06-04 art. 2 JORF 8 juin 1960
+	  - Loi n°99-515 du 23 juin 1999 - art. 22 () JORF 24 juin 1999
 
 	**Cite**:
 
@@ -3095,11 +3305,19 @@ Les formalités mentionnées aux articles 56, 56-1, 57 et au présent article so
 
 ###### Article 60
 
-S'il y a lieu de procéder à des constatations ou à des examens techniques ou scientifiques qui ne peuvent être différés,
-l'officier de police judiciaire a recours à toutes personnes qualifiées.
+S'il y a lieu de procéder à des constatations ou à des examens techniques ou scientifiques, l'officier de police judiciaire a
+recours à toutes personnes qualifiées. 
 
 Sauf si elles sont inscrites sur une des listes prévues à l'article 157, les personnes ainsi appelées prêtent, par écrit,
-serment d'apporter leur concours à la justice en leur honneur et en leur conscience.
+serment d'apporter leur concours à la justice en leur honneur et en leur conscience. 
+
+Les personnes désignées pour procéder aux examens techniques ou scientifiques peuvent procéder à l'ouverture des scellés.
+Elles en dressent inventaire et en font mention dans un rapport établi conformément aux dispositions des articles 163 et 166.
+Elles peuvent communiquer oralement leurs conclusions aux enquêteurs en cas d'urgence. 
+
+Sur instructions du procureur de la République, l'officier de police judiciaire donne connaissance des résultats des examens
+techniques et scientifiques aux personnes à l'encontre desquelles il existe des indices faisant présumer qu'elles ont commis
+ou tenté de commettre une infraction, ainsi qu'aux victimes.
 
 **Liens relatifs à cet article**
 
@@ -3128,18 +3346,19 @@ serment d'apporter leur concours à la justice en leur honneur et en leur consci
 
 	  - Loi n°57-1426 1957-12-31
 
-	**Modifié par**:
-
-	  - Loi n°72-1226 1972-12-29 art. 9 JORF 30 décembre 1972
-	  - Loi n°85-1407 1985-12-30 art. 11 et 94 JORF 31 décembre 1985 en vigueur le 1er février 1986
-
 	**Liens**:
 
 	  - SPEC_APPLI: Loi n°85-1407 1985-12-30 art. 94
 
+	**Modifié par**:
+
+	  - Loi n°99-515 du 23 juin 1999 - art. 12 () JORF 24 juin 1999
+
 	**Cite**:
 
-	  - CODE DE PROCEDURE PENALE - art. 157 (M)
+	  - Code de procédure pénale - art. 157 (V)
+	  - Code de procédure pénale - art. 163 (V)
+	  - Code de procédure pénale - art. 166 (V)
 
 
 ###### Article 61
@@ -3724,16 +3943,6 @@ accompagnée d'un défenseur, elle ne peut être interrogée qu'en présence de 
 
 ###### Article 72
 
-Lorsque le juge d'instruction est présent sur les lieux, le procureur de la République ainsi que les officiers de police
-judiciaire sont de plein droit dessaisis à son profit.
-
-Le juge d'instruction accomplit alors tous actes de police judiciaire prévus au présent chapitre.
-
-Il peut aussi prescrire à tous officiers de police judiciaire de poursuivre les opérations.
-
-Ces opérations terminées, le juge d'instruction transmet les pièces de l'enquête au procureur de la République à toutes fins
-utiles.
-
 Lorsque le procureur de la République et le juge d'instruction sont simultanément sur les lieux, le procureur de la
 République peut requérir l'ouverture d'une information régulière dont est saisi le juge d'instruction présent, par
 dérogation, le cas échéant, aux dispositions de l'article 83.
@@ -3759,17 +3968,13 @@ dérogation, le cas échéant, aux dispositions de l'article 83.
 
 	  - SPEC_APPLI: Loi n°57-1426 1957-12-31 art. 18
 
-	**Abrogé par**:
-
-	  - Loi n°93-2 du 4 janvier 1993 - art. 14 (V) JORF 5 janvier 1993 en vigueur le 1er mars 1993
-
 	**Modifié par**:
 
-	  - Loi n°93-1013 1993-08-24 art. 6 JORF 25 août 1993 en vigueur le 2 septembre 1993
+	  - Loi n°99-515 du 23 juin 1999 - art. 13 () JORF 24 juin 1999
 
 	**Cite**:
 
-	  - CODE DE PROCEDURE PENALE - art. 83 (M)
+	  - Code de procédure pénale - art. 83 (VT)
 
 
 ###### Article 73
@@ -4012,21 +4217,16 @@ présent chapitre.
 
 ###### Article 77-1
 
-S'il y a lieu de procéder à des constatations ou à des examens techniques ou scientifiques qui ne peuvent être différés, le
-procureur de la République ou, sur autorisation de celui-ci, l'officier de police judiciaire, a recours à toutes personnes
-qualifiées.
+S'il y a lieu de procéder à des constatations ou à des examens techniques ou scientifiques, le procureur de la République ou,
+sur autorisation de celui-ci, l'officier de police judiciaire, a recours à toutes personnes qualifiées.
 
-Ces personnes sont soumises aux dispositions du second alinéa de l'article 60.
+Les dispositions des deuxième, troisième et quatrième alinéas de l'article 60 sont applicables.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Loi n°57-1426 1957-12-31
-
-	**Créé par**:
-
-	  - Loi n°85-1407 1985-12-30 art. 12 et 94 JORF 31 décembre 1985 en vigueur le 1er février 1986
 
 	**Liens**:
 
@@ -4045,6 +4245,10 @@ Ces personnes sont soumises aux dispositions du second alinéa de l'article 60.
 	  - Code de procédure pénale - art. 230-28 (V)
 	  - Code de procédure pénale - art. 230-44 (V)
 	  - Code de procédure pénale - art. R92 (V)
+
+	**Modifié par**:
+
+	  - Loi n°99-515 du 23 juin 1999 - art. 12 () JORF 24 juin 1999
 
 	**Cite**:
 
@@ -4502,9 +4706,17 @@ Le juge d'instruction ne peut informer qu'en vertu d'un réquisitoire du procure
 Le réquisitoire peut être pris contre personne dénommée ou non dénommée.
 
 Lorsque des faits, non visés au réquisitoire, sont portés à la connaissance du juge d'instruction, celui-ci doit
-immédiatement communiquer au procureur de la République les plaintes ou les procès-verbaux qui les constatent.
+immédiatement communiquer au procureur de la République les plaintes ou les procès-verbaux qui les constatent. Le procureur
+de la République peut alors soit requérir du juge d'instruction, par réquisitoire supplétif, qu'il informe sur ces nouveaux
+faits, soit requérir l'ouverture d'une information distincte, soit saisir la juridiction de jugement, soit ordonner une
+enquête, soit décider d'un classement sans suite ou de procéder à l'une des mesures prévues aux articles 41-1 à 41-3, soit
+transmettre les plaintes ou les procès-verbaux au procureur de la République territorialement compétent. Si le procureur de
+la République requiert l'ouverture d'une information distincte, celle-ci peut être confiée au même juge d'instruction,
+désigné dans les conditions prévues au premier alinéa de l'article 83.
 
-En cas de plainte avec constitution de partie civile, il est procédé comme il est dit à l'article 86.
+En cas de plainte avec constitution de partie civile, il est procédé comme il est dit à l'article 86. Toutefois, lorsque de
+nouveaux faits sont dénoncés au juge d'instruction par la partie civile en cours d'information, il est fait application des
+dispositions de l'alinéa qui précède.
 
 **Liens relatifs à cet article**
 
@@ -4514,7 +4726,7 @@ En cas de plainte avec constitution de partie civile, il est procédé comme il 
 
 	**Modifié par**:
 
-	  - Loi n°93-1013 1993-08-24 art. 7 JORF 25 août 1993 en vigueur le 2 septembre 1993
+	  - Loi n°99-515 du 23 juin 1999 - art. 14 () JORF 24 juin 1999
 
 	**Cité par**:
 
@@ -4526,7 +4738,9 @@ En cas de plainte avec constitution de partie civile, il est procédé comme il 
 
 	**Cite**:
 
+	  - CODE DE PROCEDURE PENALE - art. 83 (M)
 	  - CODE DE PROCEDURE PENALE - art. 86 (M)
+	  - Code de procédure pénale 86, 41-1 à 41-3, 83
 
 
 ###### Article 80-1
@@ -5521,6 +5735,56 @@ exonération peut également être accordée en cas de non-lieu ou de relaxe.
 	**Liens**:
 
 	  - PILOTE_SUIVEUR: Code rural - art. L211-29 (V)
+
+
+###### Article 99-2
+
+Lorsque, au cours de l'instruction, la restitution des biens meubles placés sous main de justice et dont la conservation
+n'est plus nécessaire à la manifestation de la vérité s'avère impossible, soit parce que le propriétaire ne peut être
+identifié, soit parce que le propriétaire ne réclame pas l'objet dans un délai de deux mois à compter d'une mise en demeure
+adressée à son domicile, le juge d'instruction peut ordonner, sous réserve des droits des tiers, la destruction de ces biens
+ou leur remise au service des domaines aux fins d'aliénation.
+
+Le juge d'instruction peut également ordonner, sous réserve des droits des tiers, de remettre au service des domaines, en vue
+de leur aliénation, des biens meubles placés sous main de justice appartenant aux personnes poursuivies, dont la conservation
+n'est plus nécessaire à la manifestation de la vérité et dont la confiscation est prévue par la loi, lorsque le maintien de
+la saisie serait de nature à diminuer la valeur du bien. S'il est procédé à la vente du bien, le produit de celle-ci est
+consigné pendant une durée de dix ans. En cas de non-lieu, de relaxe ou d'acquittement, ou lorsque la peine de confiscation
+n'est pas prononcée, ce produit est restitué au propriétaire des objets s'il en fait la demande.
+
+Le juge d'instruction peut également ordonner la destruction des biens meubles placés sous main de justice dont la
+conservation n'est plus nécessaire à la manifestation de la vérité, lorsqu'il s'agit d'objets qualifiés par la loi de
+dangereux ou de nuisibles, ou dont la détention est illicite.
+
+Les décisions prises en application du présent article font l'objet d'une ordonnance motivée. Cette ordonnance est prise soit
+sur réquisitions du procureur de la République, soit d'office après avis de ce dernier. Elle est notifiée au ministère
+public, aux parties intéressées et, s'ils sont connus, au propriétaire ainsi qu'aux tiers ayant des droits sur le bien, qui
+peuvent la déférer à la chambre d'accusation dans les conditions prévues aux cinquième et sixième alinéas de l'article 99.
+
+Un décret en Conseil d'Etat détermine les modalités d'application du présent article.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°57-1426 1957-12-31
+
+	**Cité par**:
+
+	  - Loi n°94-589 du 15 juillet 1994 - art. 16 bis (V)
+	  - Loi n°2004-1485 du 30 décembre 2004 - art. 115 (V)
+	  - CODE DE PROCEDURE PENALE - art. R15-41-1 (V)
+	  - Code de procédure pénale - art. 706-160 (V)
+	  - Code de procédure pénale - art. 706-30-1 (V)
+	  - Code de procédure pénale - art. R54-9 (V)
+
+	**Créé par**:
+
+	  - Loi n°99-515 du 23 juin 1999 - art. 23 () JORF 24 juin 1999
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. 99 (M)
 
 
 ##### Sous-section 2 : Des interceptions de correspondances émises par la voie des télécommunications
@@ -8970,7 +9234,9 @@ l'expertise ; ce dépôt est constaté par procès-verbal.
 ###### Article 167
 
 Le juge d'instruction donne connaissance des conclusions des experts aux parties et à leurs avocats après les avoir convoqués
-conformément aux dispositions du deuxième alinéa de l'article 114.
+conformément aux dispositions du deuxième alinéa de l'article 114. Il leur donne également connaissance, s'il y a lieu, des
+conclusions des rapports des personnes requises en application des articles 60 et 77-1, lorsqu'il n'a pas été fait
+application des dispositions du quatrième alinéa de l'article 60.
 
 Les conclusions peuvent également être notifiées par lettre recommandée ou, lorsque la personne est détenue, par les soins du
 chef de l'établissement pénitentiaire qui adresse, sans délai, au juge d'instruction l'original ou la copie du récépissé
@@ -8993,11 +9259,13 @@ soit désigné plusieurs. Les dispositions du dernier alinéa de l'article 81 so
 
 	**Modifié par**:
 
-	  - Loi n°93-1013 1993-08-24 art. 8 JORF 25 août 1993 en vigueur le 2 septembre 1993
+	  - Loi n°99-515 du 23 juin 1999 - art. 12 () JORF 24 juin 1999
 
 	**Cite**:
 
 	  - CODE DE PROCEDURE PENALE - art. 114 (M)
+	  - CODE DE PROCEDURE PENALE - art. 60 (M)
+	  - CODE DE PROCEDURE PENALE - art. 77-1 (M)
 	  - CODE DE PROCEDURE PENALE - art. 81 (M)
 
 	**Cité par**:
@@ -9608,6 +9876,10 @@ Peuvent intervenir, dans les mêmes conditions, des ordonnances de renvoi partie
 lorsque, sur l'un ou plusieurs des faits dont le juge d'instruction est saisi, les charges recueillies apparaissent
 suffisantes.
 
+Les personnes ayant fait l'objet d'une ordonnance de renvoi partiel ou de transmission partielle des pièces et qui ne
+demeurent pas mises en examen pour d'autres faits sont entendues comme témoin assisté. Il en est de même en cas de
+disjonction d'une procédure d'instruction.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
@@ -9616,7 +9888,7 @@ suffisantes.
 
 	**Modifié par**:
 
-	  - Loi n°81-82 du 2 février 1981 - art. 53 () JORF 3 février 1981
+	  - Loi n°99-515 du 23 juin 1999 - art. 15 () JORF 24 juin 1999
 
 	**Cité par**:
 
@@ -10519,7 +10791,7 @@ l'ordre public ou aux bonnes moeurs ; la chambre d'accusation statue sur cette d
 observations du procureur général et, le cas échéant, des avocats des autres parties, par un arrêt rendu en chambre du
 conseil qui n'est susceptible de pourvoi en cassation qu'en même temps que l'arrêt portant sur la demande principale.
 
-En cas de comparution personnelle de la personne concernée, le délai maximum prévu au deuxième alinéa de l'article 194 est
+En cas de comparution personnelle de la personne concernée, le délai maximum prévu au troisième alinéa de l'article 194 est
 prolongé de cinq jours.
 
 **Liens relatifs à cet article**
@@ -10530,7 +10802,7 @@ prolongé de cinq jours.
 
 	**Modifié par**:
 
-	  - Loi n°93-2 du 4 janvier 1993 - art. 224 () JORF 5 janvier 1993 en vigueur le 1er mars 1993
+	  - Loi n°99-515 du 23 juin 1999 - art. 16 () JORF 24 juin 1999
 
 	**Cité par**:
 
@@ -15421,6 +15693,10 @@ conditions prévues, selon le cas, par le quatrième alinéa de l'article 183 ou
 été rendue conformément aux dispositions de l'article 184, le tribunal renvoie la procédure au ministère public pour lui
 permettre de saisir à nouveau la juridiction d'instruction afin que la procédure soit régularisée.
 
+Lorsque l'ordonnance de renvoi du juge d'instruction a été rendue sans que les conditions prévues par l'article 175 aient été
+respectées, les parties demeurent recevables, par dérogation aux dispositions du premier alinéa, à soulever devant le
+tribunal correctionnel les nullités de la procédure.
+
 Lorsque la procédure dont il est saisi n'est pas renvoyée devant lui par la juridiction d'instruction, le tribunal statue sur
 les exceptions tirées de la nullité de la procédure antérieure.
 
@@ -15443,10 +15719,11 @@ Dans tous les cas, les exceptions de nullité doivent être présentées avant t
 
 	**Modifié par**:
 
-	  - Loi n°93-1013 1993-08-24 art. 25 JORF 25 août 1993 en vigueur le 2 septembre 1993
+	  - Loi n°99-515 du 23 juin 1999 - art. 17 () JORF 24 juin 1999
 
 	**Cite**:
 
+	  - CODE DE PROCEDURE PENALE - art. 175 (M)
 	  - CODE DE PROCEDURE PENALE - art. 183 (M)
 	  - CODE DE PROCEDURE PENALE - art. 184 (M)
 	  - CODE DE PROCEDURE PENALE - art. 217 (M)
@@ -16271,8 +16548,9 @@ composant le tribunal correctionnel seraient empêchés de suivre les débats ju
 par le ou les magistrats du siège supplémentaires, dans l'ordre de leur nomination au tribunal de grande instance, en
 commençant par le plus ancien du rang le plus élevé.
 
-Toutefois, pour le jugement des délits énumérés à l'article 398-1, il est composé d'un seul de ces magistrats exerçant les
-pouvoirs conférés au président.
+Toutefois, pour le jugement des délits énumérés à l'article 398-1 sauf si la peine encourue, compte tenu de l'état de
+récidive légale du prévenu, est supérieure à cinq ans d'emprisonnement, il est composé d'un seul de ces magistrats exerçant
+les pouvoirs conférés au président.
 
 La désignation des magistrats du tribunal correctionnel appelés à statuer dans les conditions prévues à l'alinéa 3 est faite
 par le président du tribunal de grande instance selon les modalités fixées pour la répartition des juges entre les diverses
@@ -16302,7 +16580,7 @@ Les décisions prévues au présent article sont des mesures d'administration no
 
 	**Modifié par**:
 
-	  - Loi n°95-125 du 8 février 1995 - art. 36 () JORF 9 février 1995 en vigueur le 6 mars 1995
+	  - Loi n°99-515 du 23 juin 1999 - art. 7 () JORF 24 juin 1999
 
 	**Liens**:
 
@@ -16385,6 +16663,12 @@ qualification retenue dans l'acte qui le saisit relève des dispositions de l'ar
 du dernier alinéa de cet article, l'affaire peut soit être renvoyée devant le tribunal correctionnel siégeant dans les
 conditions prévues par le troisième alinéa de l'article 398, soit être jugée par le seul président.
 
+Le tribunal correctionnel siégeant dans sa composition prévue par le troisième alinéa de l'article 398 peut, si la complexité
+des faits le justifie, décider, d'office ou à la demande des parties ou du ministère public, de renvoyer l'affaire devant le
+tribunal correctionnel siégeant dans les conditions prévues au premier alinéa du même article. Les dispositions de l'alinéa
+qui précède ne sont alors pas applicables. Cette décision constitue une mesure d'administration judiciaire qui n'est pas
+susceptible de recours.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
@@ -16393,7 +16677,7 @@ conditions prévues par le troisième alinéa de l'article 398, soit être jugé
 
 	**Modifié par**:
 
-	  - Loi n°95-125 du 8 février 1995 - art. 38 () JORF 9 février 1995 en vigueur le 6 mars 1995
+	  - Loi n°99-515 du 23 juin 1999 - art. 7 () JORF 24 juin 1999
 
 	**Cité par**:
 
@@ -16803,7 +17087,9 @@ mesure de contrôle judiciaire ou de détention provisoire.
 Le prévenu cité pour une infraction passible d'une peine d'amende ou d'une peine d'emprisonnement inférieure à deux années
 peut, par lettre adressée au président et qui sera jointe au dossier de la procédure, demander à être jugé en son absence.
 
-Dans ce cas, son défenseur est entendu.
+Il en est de même en cas de citation directe délivrée par la partie civile quelle que soit la durée de la peine encourue.
+
+Dans les deux cas l'avocat du prévenu est entendu.
 
 Toutefois, si le tribunal estime nécessaire la comparution du prévenu en personne, il est procédé à la réassignation du
 prévenu, à la diligence du ministère public, pour une audience dont la date est fixée par le tribunal.
@@ -16840,6 +17126,10 @@ Il est également jugé contraditoirement dans le cas prévu par le premier alin
 	  - Code de procédure pénale - art. 498 (V)
 	  - Code de procédure pénale - art. 568 (V)
 	  - Code général des impôts, CGI. - art. 1018 A (VT)
+
+	**Modifié par**:
+
+	  - Loi n°99-515 du 23 juin 1999 - art. 18 () JORF 24 juin 1999
 
 
 ###### Article 412
@@ -20109,10 +20399,11 @@ directement le prévenu avant qu'ait été rendue l'ordonnance prévue à l'arti
 Le ministère public qui choisit la procédure simplifiée communique au juge du tribunal de police le dossier de la poursuite
 et ses réquisitions.
 
-Le juge statue sans débat préalable par une ordonnance pénale portant soit relaxe, soit condamnation à une amende.
+Le juge statue sans débat préalable par une ordonnance pénale portant soit relaxe, soit condamnation à une amende ainsi que,
+le cas échéant, à une ou plusieurs des peines complémentaires encourues.
 
-S'il estime qu'un débat contradictoire est utile ou que des sanctions autres que l'amende devraient être éventuellement
-prononcées, le juge renvoie le dossier au ministère public aux fins de poursuite dans les formes de la procédure ordinaire.
+S'il estime qu'un débat contradictoire est utile, le juge renvoie le dossier au ministère public aux fins de poursuite dans
+les formes de la procédure ordinaire.
 
 **Liens relatifs à cet article**
 
@@ -20120,13 +20411,13 @@ prononcées, le juge renvoie le dossier au ministère public aux fins de poursui
 
 	  - Ordonnance 58-1296 1958-12-23
 
-	**Modifié par**:
-
-	  - Loi n°72-5 1972-01-03 art. 1 JORF 5 janvier 1972 en vigueur le 30 juin 1972
-
 	**Liens**:
 
 	  - SPEC_APPLI: Loi n°72-5 1972-01-03 art. 8
+
+	**Modifié par**:
+
+	  - Loi n°99-515 du 23 juin 1999 - art. 8 () JORF 24 juin 1999
 
 	**Cité par**:
 
@@ -20287,14 +20578,12 @@ l'ordonnance pénale a fait l'objet d'un paiement volontaire.
 
 #### Chapitre II bis : De la procédure de l'amende forfaitaire
 
-##### Section 1 : Dispositions applicables à certaines infractions à la réglementation des transports par route, au code des assurances en ce qui concerne l'assurance obligatoire des véhicules terrestres à moteur et de leurs remorques et semi-remorques ainsi qu'à la réglementation sur les parcs nationaux
+##### Section 1 : Dispositions applicables à certaines contraventions
 
 ###### Article 529
 
-Pour les contraventions des quatre premières classes à la réglementation des transports par route, au Code des assurances en
-ce qui concerne l'assurance obligatoire des véhicules terrestres à moteur et de leurs remorques et semi-remorques et à la
-réglementation sur les parcs nationaux et les réserves naturelles qui sont punies seulement d'une peine d'amende, l'action
-publique est éteinte par le paiement d'une amende forfaitaire qui est exclusive de l'application des règles de la récidive.
+Pour les contraventions des quatre premières classes dont la liste est fixée par décret en Conseil d'Etat l'action publique
+est éteinte par le paiement d'une amende forfaitaire qui est exclusive de l'application des règles de la récidive.
 
 Toutefois, la procédure de l'amende forfaitaire n'est pas applicable si plusieurs infractions, dont l'une au moins ne peut
 donner lieu à une amende forfaitaire, ont été constatées simultanément.
@@ -20335,10 +20624,11 @@ donner lieu à une amende forfaitaire, ont été constatées simultanément.
 	**Liens**:
 
 	  - SPEC_APPLI: Loi n°85-1407 1985-12-30 art. 94
+	  - SPEC_APPLI: Loi n°99-515 du 23 juin 1999 - art. 9 (V)
 
 	**Modifié par**:
 
-	  - Loi n°95-101 du 2 février 1995 - art. 87 () JORF 3 février 1995
+	  - Loi n°99-515 du 23 juin 1999 - art. 9 (V) JORF 24 juin 1999
 
 
 ###### Article 529-1
@@ -20357,10 +20647,11 @@ cet envoi.
 	**Liens**:
 
 	  - SPEC_APPLI: Loi n°85-1407 1985-12-30 art. 94
+	  - SPEC_APPLI: Loi n°99-515 du 23 juin 1999 - art. 9 (V)
 
 	**Modifié par**:
 
-	  - Loi n°89-469 du 10 juillet 1989 - art. 1 () JORF 11 juillet 1989 en vigueur le 1er janvier 1990
+	  - Loi n°99-515 du 23 juin 1999 - art. 9 (V) JORF 24 juin 1999
 
 	**Cité par**:
 
@@ -20391,10 +20682,11 @@ droit et recouvrée au profit du Trésor public en vertu d'un titre rendu exécu
 	**Liens**:
 
 	  - SPEC_APPLI: Loi n°85-1407 1985-12-30 art. 94
+	  - SPEC_APPLI: Loi n°99-515 du 23 juin 1999 - art. 9 (V)
 
 	**Modifié par**:
 
-	  - Loi n°89-469 du 10 juillet 1989 - art. 1 () JORF 11 juillet 1989 en vigueur le 1er janvier 1990
+	  - Loi n°99-515 du 23 juin 1999 - art. 9 (V) JORF 24 juin 1999
 
 	**Cite**:
 
@@ -20588,14 +20880,11 @@ recouvrée par le Trésor public en vertu d'un titre rendu exécutoire par le mi
 
 ##### Section 2 bis : Dispositions applicables à certaines infractions au code de la route
 
-###### Article 529-6
+###### Article 529-7
 
-Pour les contraventions des quatre premières classes au code de la route punies d'une simple peine d'amende, qu'elles
-entraînent ou non une perte des points affectés au permis de conduire, l'action publique est éteinte par le paiement d'une
-amende forfaitaire qui est exclusive de l'application des règles de la récidive.
-
-Toutefois, la procédure de l'amende forfaitaire n'est pas applicable si plusieurs infractions, dont l'une au moins ne peut
-donner lieu à amende forfaitaire, ont été constatées simultanément.
+Pour les contraventions au code de la route des deuxième, troisième et quatrième classes dont la liste est fixée par décret
+en Conseil d'Etat, à l'exception de celles relatives au stationnement, l'amende forfaitaire est minorée si le contrevenant en
+règle le montant dans les conditions prévues par l'article 529-8.
 
 **Liens relatifs à cet article**
 
@@ -20603,42 +20892,18 @@ donner lieu à amende forfaitaire, ont été constatées simultanément.
 
 	  - Ordonnance 58-1296 1958-12-23
 
-	**Créé par**:
+	**Liens**:
 
-	  - Loi n°89-469 du 10 juillet 1989 - art. 1 () JORF 11 juillet 1989 en vigueur le 1er janvier 1990
+	  - SPEC_APPLI: Loi n°99-515 du 23 juin 1999 - art. 9 (V)
+	  - PILOTE_SUIVEUR: Code de la route. - art. L121-5 (M)
 
-	**Abrogé par**:
+	**Modifié par**:
 
 	  - Loi n°99-515 du 23 juin 1999 - art. 9 (V) JORF 24 juin 1999
 
-	**Cité par**:
+	**Cite**:
 
-	  - CODE DE PROCEDURE PENALE - art. R49-10 (M)
-	  - CODE DE PROCEDURE PENALE - art. R49-13 (M)
-	  - Code de la route. - art. L121-5 (V)
-	  - Code de procédure pénale - art. 529-11 (VD)
-	  - Code de procédure pénale - art. A37-30 (V)
-	  - Code de procédure pénale - art. A37-31 (V)
-	  - Code de procédure pénale - art. A37-32 (V)
-	  - Code de procédure pénale - art. A37-33 (V)
-	  - Code de procédure pénale - art. R49-8-4-1 (V)
-
-
-###### Article 529-7
-
-Pour les contraventions au code de la route des deuxième, troisième et quatrième classes prévues par l'article 529-6, à
-l'exception de celles relatives au stationnement, l'amende forfaitaire est minorée si le contrevenant en règle le montant
-dans les conditions prévues par l'article 529-8.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance 58-1296 1958-12-23
-
-	**Créé par**:
-
-	  - Loi n°89-469 du 10 juillet 1989 - art. 1 () JORF 11 juillet 1989 en vigueur le 1er janvier 1990
+	  - CODE DE PROCEDURE PENALE - art. 529-8 (M)
 
 	**Cité par**:
 
@@ -20646,14 +20911,6 @@ dans les conditions prévues par l'article 529-8.
 	  - CODE DE PROCEDURE PENALE - art. R49-9 (V)
 	  - Code de la route. - art. L121-5 (V)
 	  - Code des transports - art. L2241-4 (V)
-
-	**Liens**:
-
-	  - PILOTE_SUIVEUR: Code de la route. - art. L121-5 (M)
-
-	**Cite**:
-
-	  - Code de procédure pénale 529-6 et 529-8
 
 
 ###### Article 529-8
@@ -21263,10 +21520,11 @@ relatives à l'opposition.
 
 ###### Article 546
 
-La faculté d'appeler appartient au prévenu, à la personne civilement responsable, au procureur de la République et à
-l'officier du ministère public près le tribunal de police, lorsque l'amende encourue est celle prévue pour les contraventions
-de la cinquième classe, lorsqu'a été prononcée la peine prévue par le 1° de l'article 131-16 du code pénal, ou lorsque la
-peine d'amende prononcée est supérieure au maximum de l'amende encourue pour les contraventions de la deuxième classe.
+La faculté d'appeler appartient au prévenu, à la personne civilement responsable, au procureur de la République, au procureur
+général et à l'officier du ministère public près le tribunal de police, lorsque l'amende encourue est celle prévue pour les
+contraventions de la cinquième classe, lorsqu'a été prononcée la peine prévue par le 1° de l'article 131-16 du code pénal, ou
+lorsque la peine d'amende prononcée est supérieure au maximum de l'amende encourue pour les contraventions de la deuxième
+classe.
 
 Lorsque des dommages et intérêts ont été alloués, la faculté d'appeler appartient également au prévenu et à la personne
 civilement responsable.
@@ -21275,8 +21533,6 @@ Cette faculté appartient dans tous les cas à la partie civile quant à ses int
 
 Dans les affaires poursuivies à la requête de l'administration des eaux et forêts, l'appel est toujours possible de la part
 de toutes les parties, quelles que soient la nature et l'importance des condamnations.
-
-Le procureur général peut faire appel de tous les jugements rendus en matière de police.
 
 **Liens relatifs à cet article**
 
@@ -21294,7 +21550,7 @@ Le procureur général peut faire appel de tous les jugements rendus en matière
 
 	**Modifié par**:
 
-	  - Loi n°94-89 du 1 février 1994 - art. 10 () JORF 2 février 1994 en vigueur le 1er mars 1994
+	  - Loi n°99-515 du 23 juin 1999 - art. 10 () JORF 24 juin 1999
 
 	**Cite**:
 
@@ -22434,9 +22690,9 @@ prévue à l'article 614.
 
 ###### Article 583
 
-Sont déclarés déchus de leur pourvoi les condamnés à une peine emportant privation de liberté pour une durée de plus de six
-mois, qui ne sont pas en état ou qui n'ont pas obtenu, de la juridiction qui a prononcé, dispense, avec ou sans caution, de
-se mettre en état.
+Sont déclarés déchus de leur pourvoi les condamnés à une peine emportant privation de liberté pour une durée de plus d'un an,
+qui ne sont pas en état ou qui n'ont pas obtenu, de la juridiction qui a prononcé, dispense, avec ou sans caution, de se
+mettre en état.
 
 L'acte de leur écrou ou l'arrêt leur accordant la dispense est produit devant la Cour de cassation, au plus tard au moment où
 l'affaire y est appelée.
@@ -22456,12 +22712,52 @@ l'y reçoit sur l'ordre du procureur général près la Cour de cassation ou du 
 
 	  - Ordonnance 58-1296 1958-12-23
 
+	**Modifié par**:
+
+	  - Loi n°99-515 du 23 juin 1999 - art. 19 () JORF 24 juin 1999
+
+	**Abrogé par**:
+
+	  - Loi n°2000-516 du 15 juin 2000 - art. 121 (V) JORF 16 juin 2000
+
 	**Cité par**:
 
 	  - Loi n°2000-516 du 15 juin 2000 - art. 121 (V)
 	  - CODE DE PROCEDURE PENALE - art. 583-1 (Ab)
 	  - CODE DE PROCEDURE PENALE - art. R166 (Ab)
 	  - Code de justice militaire - art. 346 (Ab)
+
+
+###### Article 583-1
+
+Les dispositions de l'article 583 ne sont pas applicables lorsque la juridiction a condamné une personne en son absence,
+après avoir refusé de faire application des dispositions des articles 410 ou 411. En ce cas, le pourvoi en cassation ne peut
+porter que sur la légalité de la décision par laquelle la juridiction n'a pas reconnu valable l'excuse fournie par
+l'intéressé en application de l'article 410 ou a refusé de le juger en son absence conformément à l'article 411.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 58-1296 1958-12-23
+
+	**Créé par**:
+
+	  - Loi n°99-515 du 23 juin 1999 - art. 20 () JORF 24 juin 1999
+
+	**Abrogé par**:
+
+	  - Loi n°2000-516 du 15 juin 2000 - art. 121 (V) JORF 16 juin 2000
+
+	**Cité par**:
+
+	  - Loi n°2000-516 du 15 juin 2000 - art. 121 (V)
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. 410 (M)
+	  - CODE DE PROCEDURE PENALE - art. 411 (M)
+	  - CODE DE PROCEDURE PENALE - art. 583 (M)
 
 
 ###### Article 584
@@ -23527,17 +23823,20 @@ la Cour de cassation ou par un avocat régulièrement inscrit à un barreau.
 
 ###### Article 626
 
-Un condamné reconnu innocent en application du présent titre a droit à une indemnité à raison du préjudice que lui a causé la
-condamnation, à moins qu'il ne soit prouvé que la non-représentation de la pièce nouvelle ou la non-révélation de l'élément
-inconnu en temps utile lui est imputable en tout ou partie.
+Un condamné reconnu innocent en application du présent titre a droit à une indemnité à raison du préjudice matériel et moral
+que lui a causé la condamnation, à moins qu'il ne soit prouvé que la non-représentation de la pièce nouvelle ou la non-
+révélation de l'élément inconnu en temps utile lui est imputable en tout ou partie.
 
 Peut également demander une indemnité, dans les mêmes conditions, toute personne justifiant du préjudice que lui a causé la
 condamnation.
 
-L'indemnité est allouée par la commission et suivant la procédure prévue par les articles 149-1 et 149-2.
+L'indemnité est allouée par la commission et suivant la procédure prévue par les articles 149-1 et 149-2. Si la personne en
+fait la demande, l'indemnisation peut également être allouée par la décision d'où résulte son innocence. Devant la cour
+d'assises, l'indemnisation est allouée par la cour statuant, comme en matière civile, sans l'assistance des jurés.
 
-Elle est à la charge de l'Etat, sauf son recours contre la partie civile, le dénonciateur ou le faux témoin par la faute
-desquels la condamnation a été prononcée. Elle est payée comme frais de justice criminelle, correctionnelle et de police.
+Cette indemnité est à la charge de l'Etat, sauf son recours contre la partie civile, le dénonciateur ou le faux témoin par la
+faute desquels la condamnation a été prononcée. Elle est payée comme frais de justice criminelle, correctionnelle et de
+police.
 
 Si le demandeur le requiert, l'arrêt ou le jugement de révision d'où résulte l'innocence du condamné est affiché dans la
 ville où a été prononcée la condamnation, dans la commune du lieu où le crime ou le délit a été commis, dans celle du
@@ -23555,7 +23854,7 @@ Les frais de la publicité ci-dessus prévue sont à la charge du Trésor.
 
 	**Modifié par**:
 
-	  - Loi n°93-2 du 4 janvier 1993 - art. 143 (V) JORF 5 janvier 1993 en vigueur le 1er mars 1993
+	  - Loi n°99-515 du 23 juin 1999 - art. 25 () JORF 24 juin 1999
 
 	**Cite**:
 
@@ -24715,6 +25014,36 @@ en renvoi fondée sur des faits survenus depuis.
 	  - Code de procédure pénale - art. 665-1 (V)
 
 
+###### Article 667-1
+
+Si la juridiction normalement compétente ne peut être composée en raison de l'existence des incomptabilités prévues par la
+loi, le premier président de la cour d'appel peut ordonner le renvoi devant la juridiction limitrophe située dans le ressort
+de cette cour et désignée par l'ordonnance prévue au dernier alinéa du présent article.
+
+La requête aux fins de renvoi est présentée par le procureur de la République de la juridiction saisie.
+
+Elle est signifiée à toutes les parties intéressées, qui ont un délai de dix jours pour présenter leurs observations auprès
+du premier président.
+
+Celui-ci statue dans les quinze jours de la requête. Sa décision constitue une mesure d'administration judiciaire qui n'est
+pas susceptible de recours.
+
+Après avis des présidents des tribunaux de grande instance concernés et du procureur général, le premier président prend
+chaque année une ordonnance indiquant, pour chacune des juridictions de son ressort, la juridiction devant laquelle des
+procédures sont susceptibles d'être renvoyées en application des dispositions du présent article. Cette ordonnance ne peut
+être modifiée en cours d'année.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 58-1296 1958-12-23
+
+	**Créé par**:
+
+	  - Loi n°99-515 du 23 juin 1999 - art. 26 () JORF 24 juin 1999
+
+
 ### Titre VII : De la récusation
 
 ###### Article 668
@@ -25040,9 +25369,9 @@ la République compétent qui requiert l'ouverture d'une information.
 	  - Ordonnance 58-1296 1958-12-23
 
 
-### Titre X : Des infractions commises hors du territoire de la République
+### Titre IX : Des infractions commises hors du territoire de la République
 
-#### Chapitre Ier : De la compétence des juridictions françaises.
+#### Chapitre Ier : De la compétence des juridictions françaises
 
 ###### Article 689
 
@@ -25064,7 +25393,7 @@ françaises pour connaître de l'infraction.
 
 	**Modifié par**:
 
-	  - Loi n°92-1336 du 16 décembre 1992 - art. 60 () JORF 23 décembre 1992 en vigueur le 1er mars 1994
+	  - Loi n°99-515 du 23 juin 1999 - art. 30 () JORF 24 juin 1999
 
 
 ###### Article 689-1
@@ -25082,7 +25411,7 @@ tentative de ces infractions, chaque fois que celle-ci est punissable.
 
 	**Modifié par**:
 
-	  - Loi n°92-1336 du 16 décembre 1992 - art. 60 () JORF 23 décembre 1992 en vigueur le 1er mars 1994
+	  - Loi n°99-515 du 23 juin 1999 - art. 30 () JORF 24 juin 1999
 
 	**Cité par**:
 
@@ -25113,7 +25442,7 @@ personne coupable de tortures au sens de l'article 1er de la convention.
 
 	**Modifié par**:
 
-	  - Loi n°92-1336 du 16 décembre 1992 - art. 60 () JORF 23 décembre 1992 en vigueur le 1er mars 1994
+	  - Loi n°99-515 du 23 juin 1999 - art. 30 () JORF 24 juin 1999
 
 	**Cité par**:
 
@@ -25122,7 +25451,7 @@ personne coupable de tortures au sens de l'article 1er de la convention.
 
 	**Cite**:
 
-	  - CODE DE PROCEDURE PENALE - art. 689-1 (M)
+	  - Code de procédure pénale - art. 689-1 (V)
 
 
 ###### Article 689-3
@@ -25130,13 +25459,13 @@ personne coupable de tortures au sens de l'article 1er de la convention.
 Pour l'application de la convention européenne pour la répression du terrorisme, signée à Strasbourg le 27 janvier 1977, et
 de l'accord entre les Etats membres des Communautés européennes concernant l'application de la convention européenne pour la
 répression du terrorisme, fait à Dublin le 4 décembre 1979, peut être poursuivie et jugée dans les conditions prévues à
-l'article 689-1 toute personne coupable de l'une des infractions suivantes :
+l'article 689-1 toute personne coupable de l'une des infractions suivantes : 
 
 1° Atteinte volontaire à la vie, tortures et actes de barbarie, violences ayant entraîné la mort, une mutilation ou une
 infirmité permanente ou, si la victime est mineure, une incapacité totale de travail supérieure à huit jours, enlèvement et
 séquestration réprimés par le livre II du code pénal ainsi que les menaces définies aux articles 222-17, alinéa 2, et 222-18
 de ce code, lorsque l'infraction est commise contre une personne ayant droit à une protection internationale, y compris les
-agents diplomatiques ;
+agents diplomatiques ; 
 
 2° Atteintes à la liberté d'aller et venir définies à l'article 421-1 du code pénal ou tout autre crime ou délit comportant
 l'utilisation de bombes, de grenades, de fusées, d'armes à feu automatiques, de lettres ou de colis piégés, dans la mesure où
@@ -25148,10 +25477,10 @@ individuelle ou collective ayant pour but de troubler gravement l'ordre public p
 	**Cite**:
 
 	  - Accord CEE 1979-12-04, fait à Dublin
+	  - Code pénal - art. 222-17 (V)
+	  - Code pénal - art. 222-18 (V)
+	  - Code pénal - art. 421-1 (V)
 	  - Convention 1977-01-27, signée à Strasbourg
-	  - Code pénal - art. 421-1 (M)
-	  - CODE DE PROCEDURE PENALE - art. 689-1 (M)
-	  - Code de procédure pénale 689-1, 222-17
 
 	**Codifié par**:
 
@@ -25159,7 +25488,7 @@ individuelle ou collective ayant pour but de troubler gravement l'ordre public p
 
 	**Modifié par**:
 
-	  - Loi n°92-1336 du 16 décembre 1992 - art. 60 () JORF 23 décembre 1992 en vigueur le 1er mars 1994
+	  - Loi n°99-515 du 23 juin 1999 - art. 30 () JORF 24 juin 1999
 
 
 ###### Article 689-4
@@ -25179,16 +25508,16 @@ articles 1er et 2 de la convention ou qu'elle a porté sur ces dernières.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - Convention 1980-03-03, ouverte à la signature à Vienne et New-York art. 1, art. 2
-	  - Loi n°80-572 du 25 juillet 1980 - art. 6, v. init.
-	  - Loi n°80-572 du 25 juillet 1980 - art. 6-1 (Ab)
-	  - CODE DE PROCEDURE PENALE - art. 689-1 (M)
-
 	**Codifié par**:
 
 	  - Ordonnance 58-1296 1958-12-23
+
+	**Cite**:
+
+	  - Loi n°80-572 du 25 juillet 1980 - art. 6, v. init.
+	  - Loi n°80-572 du 25 juillet 1980 - art. 6-1 (Ab)
+	  - CODE DE PROCEDURE PENALE - art. 689-1 (M)
+	  - Convention 1980-03-03, ouverte à la signature à Vienne et New-York art. 1, art. 2
 
 	**Cité par**:
 
@@ -25196,7 +25525,7 @@ articles 1er et 2 de la convention ou qu'elle a porté sur ces dernières.
 
 	**Modifié par**:
 
-	  - Loi n°92-1336 du 16 décembre 1992 - art. 60 () JORF 23 décembre 1992 en vigueur le 1er mars 1994
+	  - Loi n°99-515 du 23 juin 1999 - art. 30 () JORF 24 juin 1999
 
 
 ###### Article 689-5
@@ -25204,14 +25533,14 @@ articles 1er et 2 de la convention ou qu'elle a porté sur ces dernières.
 Pour l'application de la convention pour la répression d'actes illicites contre la sécurité de la navigation maritime et pour
 l'application du protocole pour la répression d'actes illicites contre la sécurité des plates-formes fixes situées sur le
 plateau continental, faits à Rome le 10 mars 1988, peut être poursuivie et jugée dans les conditions prévues à l'article
-689-1 toute personne coupable de l'une des infractions suivantes :
+689-1 toute personne coupable de l'une des infractions suivantes : 
 
-1° Crime défini aux articles 224-6 et 224-7 du code pénal ;
+1° Crime défini aux articles 224-6 et 224-7 du code pénal ; 
 
 2° Atteinte volontaire à la vie ou à l'intégrité physique, destruction, dégradation ou détérioration, menace d'une atteinte
 aux personnes ou aux biens réprimées par les livres II et III du code pénal ou délits définis par l'article 224-8 de ce code
 et par l'article L. 331-2 du code des ports maritimes, si l'infraction compromet ou est de nature à compromettre la sécurité
-de la navigation maritime ou d'une plate-forme fixe située sur le plateau continental ;
+de la navigation maritime ou d'une plate-forme fixe située sur le plateau continental ; 
 
 3° Atteinte volontaire à la vie, tortures et actes de barbarie ou violences réprimés par le livre II du code pénal, si
 l'infraction est connexe soit à l'infraction définie au 1°, soit à une ou plusieurs infractions de nature à compromettre la
@@ -25229,15 +25558,13 @@ sécurité de la navigation maritime ou d'une plate-forme visées au 2°.
 
 	**Modifié par**:
 
-	  - Loi n°92-1336 du 16 décembre 1992 - art. 60 () JORF 23 décembre 1992 en vigueur le 1er mars 1994
+	  - Loi n°99-515 du 23 juin 1999 - art. 30 () JORF 24 juin 1999
 
 	**Cite**:
 
 	  - Code pénal - art. 224-6 (V)
-	  - Code pénal - art. 224-7 (V)
-	  - Code pénal - art. 224-8 (M)
-	  - CODE DE PROCEDURE PENALE - art. 689-1 (M)
-	  - Code des ports maritimes - art. L331-2 (M)
+	  - Code pénal - art. 224-8 (V)
+	  - Code des ports maritimes - art. L331-2 (Ab)
 	  - Convention 1988-03-10, faite à Rome
 	  - Protocole 1988-03-10, fait à Rome
 
@@ -25247,29 +25574,29 @@ sécurité de la navigation maritime ou d'une plate-forme visées au 2°.
 Pour l'application de la convention sur la répression de la capture illicite d'aéronefs, signée à La Haye le 16 décembre
 1970, et de la convention pour la répression d'actes illicites dirigés contre la sécurité de l'aviation civile, signée à
 Montréal le 23 septembre 1971, peut être poursuivie et jugée dans les conditions prévues à l'article 689-1 toute personne
-coupable de l'une des infractions suivantes :
+coupable de l'une des infractions suivantes : 
 
 1° Détournement d'un aéronef non immatriculé en France et tout autre acte de violence dirigé contre les passagers ou
-l'équipage et commis par l'auteur présumé du détournement, en relation directe avec cette infraction ;
+l'équipage et commis par l'auteur présumé du détournement, en relation directe avec cette infraction ; 
 
 2° Toute infraction concernant un aéronef non immatriculé en France et figurant parmi celles énumérées aux a, b et c du 1° de
 l'article 1er de la convention pour la répression d'actes illicites dirigés contre la sécurité de l'aviation civile précitée.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - Convention 1970-12-16, signée à La Haye
-	  - Convention 1971-09-23, signée à Montréal
-	  - CODE DE PROCEDURE PENALE - art. 689-1 (M)
-
 	**Codifié par**:
 
 	  - Ordonnance 58-1296 1958-12-23
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°92-1336 du 16 décembre 1992 - art. 60 () JORF 23 décembre 1992 en vigueur le 1er mars 1994
+	  - Loi n°99-515 du 23 juin 1999 - art. 30 () JORF 24 juin 1999
+
+	**Cite**:
+
+	  - Code de procédure pénale - art. 689-1 (V)
+	  - Convention 1970-12-16, signée à La Haye
+	  - Convention 1971-09-23, signée à Montréal
 
 
 ###### Article 689-7
@@ -25278,22 +25605,22 @@ Pour l'application du protocole pour la répression des actes illicites de viole
 civile internationale, fait à Montréal le 24 février 1988, complémentaire à la convention pour la répression d'actes
 illicites dirigés contre la sécurité de l'aviation civile, faite à Montréal le 23 septembre 1971, peut être poursuivie et
 jugée dans les conditions prévues à l'article 689-1 toute personne qui s'est rendue coupable, à l'aide d'un dispositif
-matériel, d'une substance ou d'une arme :
+matériel, d'une substance ou d'une arme : 
 
 1° De l'une des infractions suivantes si cette infraction porte atteinte ou est de nature à porter atteinte à la sécurité
-dans un aérodrome affecté à l'aviation civile internationale :
+dans un aérodrome affecté à l'aviation civile internationale : 
 
 a) Atteintes volontaires à la vie, tortures et actes de barbarie, violences ayant entraîné la mort, une mutilation ou une
 infirmité permanente ou, si la victime est mineure, une incapacité totale de travail pendant plus de huit jours, réprimés par
-le livre II du code pénal, lorsque l'infraction a été commise dans un aérodrome affecté à l'aviation civile internationale ;
+le livre II du code pénal, lorsque l'infraction a été commise dans un aérodrome affecté à l'aviation civile internationale ; 
 
 b) Destructions, dégradations et détériorations réprimées par le livre III du code pénal, lorsque l'infraction a été commise
 à l'encontre des installations d'un aérodrome affecté à l'aviation civile internationale ou d'un aéronef stationné dans
-l'aérodrome et qui n'est pas en service ;
+l'aérodrome et qui n'est pas en service ; 
 
 c) Délit prévu au quatrième alinéa (3°) de l'article L. 282-1 du code de l'aviation civile, lorsque l'infraction a été
 commise à l'encontre des installations d'un aérodrome affecté à l'aviation civile internationale ou d'un aéronef dans
-l'aérodrome et qui n'est pas en service ;
+l'aérodrome et qui n'est pas en service ; 
 
 2° De l'infraction définie au sixième alinéa (5°) de l'article L. 282-1 du code de l'aviation civile, lorsqu'elle a été
 commise à l'encontre des services d'un aérodrome affecté à l'aviation civile internationale.
@@ -25304,9 +25631,9 @@ commise à l'encontre des services d'un aérodrome affecté à l'aviation civile
 
 	  - Ordonnance 58-1296 1958-12-23
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°92-1336 du 16 décembre 1992 - art. 60 () JORF 23 décembre 1992 en vigueur le 1er mars 1994
+	  - Loi n°99-515 du 23 juin 1999 - art. 30 () JORF 24 juin 1999
 
 	**Cité par**:
 
@@ -25315,13 +25642,12 @@ commise à l'encontre des services d'un aérodrome affecté à l'aviation civile
 
 	**Cite**:
 
-	  - CODE DE PROCEDURE PENALE - art. 689-1 (M)
-	  - Code de l'aviation civile - art. L282-1 (M)
+	  - Code de l'aviation civile - art. L282-1 (Ab)
 	  - Convention 1971-09-23, faite à Montréal
 	  - Protocole 1988-02-24, fait à Montréal
 
 
-#### Chapitre II : De l'exercice des poursuites et de la juridiction territorialement compétente.
+#### Chapitre II : De l'exercice des poursuites et de la juridiction territorialement compétente
 
 ###### Article 692
 
@@ -25336,7 +25662,7 @@ jugée définitivement à l'étranger pour les mêmes faits et, en cas de condam
 
 	**Modifié par**:
 
-	  - Loi n°92-1336 du 16 décembre 1992 - art. 63 () JORF 23 décembre 1992 en vigueur le 1er mars 1994
+	  - Loi n°99-515 du 23 juin 1999 - art. 30 () JORF 24 juin 1999
 
 	**Cité par**:
 
@@ -25363,7 +25689,7 @@ de cassation statuant sur la requête du ministère public ou à la demande des 
 
 	**Modifié par**:
 
-	  - Loi n°92-1336 du 16 décembre 1992 - art. 63 () JORF 23 décembre 1992 en vigueur le 1er mars 1994
+	  - Loi n°99-515 du 23 juin 1999 - art. 30 () JORF 24 juin 1999
 
 	**Cite**:
 
@@ -25374,6 +25700,121 @@ de cassation statuant sur la requête du ministère public ou à la demande des 
 	**Cité par**:
 
 	  - CODE PENAL - art. 133 (Ab)
+
+
+### Titre X : De l'entraide judiciaire internationale
+
+###### Article 694
+
+Les demandes d'entraide émanant des autorités judiciaires étrangères sont exécutées, selon l'origine de la demande ou la
+nature des actes sollicités, dans les formes prévues par le présent code pour l'enquête, l'instruction ou l'audience de
+jugement.
+
+La demande d'entraide doit être exécutée dans les formes prévues pour l'instruction lorsqu'elle nécessite certains actes de
+procédure qui ne peuvent être ordonnés ou exécutés que par un juge d'instruction.
+
+La demande d'entraide doit être exécutée dans les formes prévues pour l'audience de jugement lorsqu'elle doit être réalisée
+en audience publique et contradictoire. Elle est alors confiée, selon le cas, au tribunal correctionnel siégeant dans sa
+composition prévue par le troisième alinéa de l'article 398 ou au tribunal de police.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 58-1296 1958-12-23
+
+	**Modifié par**:
+
+	  - Loi n°99-515 du 23 juin 1999 - art. 30 () JORF 24 juin 1999
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. 398 (M)
+
+	**Cité par**:
+
+	  - CODE PENAL - art. 133 (Ab)
+	  - Code de procédure pénale - art. 28-1 (V)
+
+
+###### Article 695
+
+Pour l'application de l'article 53 de la convention signée à Schengen le 19 juin 1990, le procureur général du ressort de la
+cour d'appel est chargé de transmettre les demandes d'entraide auprès des autorités judiciaires compétentes et d'assurer le
+retour des pièces d'exécution.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 58-1296 1958-12-23
+
+	**Créé par**:
+
+	  - Loi n°99-515 du 23 juin 1999 - art. 30 () JORF 24 juin 1999
+
+	**Cité par**:
+
+	  - CODE PENAL - art. 133 (Ab)
+
+
+###### Article 696
+
+Pour le retour des pièces d'exécution en urgence entre les autorités judiciaires françaises et les autres Etats parties à la
+convention signée à Schengen le 19 juin 1990, les compétences confiées au ministère de la justice par le paragraphe 2 de
+l'article 15 de la convention européenne d'entraide judiciaire en matière pénale faite à Strasbourg le 20 avril 1959 sont
+exercées par le procureur général du ressort de la cour d'appel.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Ordonnance n°45-174 du 2 février 1945 - art. 7 (M)
+	  - Loi n°2013-711 du 5 août 2013 - art. 27 (V)
+	  - CODE PENAL - art. 133 (Ab)
+
+	**Codifié par**:
+
+	  - Ordonnance 58-1296 1958-12-23
+
+	**Modifié par**:
+
+	  - Loi n°99-515 du 23 juin 1999 - art. 30 () JORF 24 juin 1999
+
+
+###### Article 696-1
+
+Les autorités judiciaires sollicitant un acte urgent d'entraide judiciaire en matière pénale peuvent, dans le cadre des
+conventions en vigueur, saisir les autorités compétentes de l'Etat requis, afin d'obtenir, dans les meilleurs délais, le
+retour des pièces d'exécution de l'acte sollicité.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 58-1296 1958-12-23
+
+	**Créé par**:
+
+	  - Loi n°99-515 du 23 juin 1999 - art. 30 () JORF 24 juin 1999
+
+
+###### Article 696-2
+
+Les autorités judiciaires saisies d'une demande d'entraide judiciaire en matière pénale internationale dont elles estiment
+que la mise à exécution pourrait être de nature à porter atteinte à la sécurité, à l'ordre public ou à d'autres intérêts
+essentiels de la Nation, prennent les dispositions nécessaires pour permettre aux autorités compétentes d'apprécier la suite
+à lui réserver.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 58-1296 1958-12-23
+
+	**Créé par**:
+
+	  - Loi n°99-515 du 23 juin 1999 - art. 30 () JORF 24 juin 1999
 
 
 ### Titre XI : Des crimes et des délits en matière militaire et des crimes et délits contre les intérêts fondamentaux de la nation
@@ -27423,6 +27864,41 @@ ordonnées. Il en est de même en cas d'extinction de l'action publique.
 	**Cité par**:
 
 	  - CODE DE PROCEDURE PENALE - art. 866 (M)
+
+
+###### Article 706-30-1
+
+Lorsqu'il est fait application des dispositions du troisième alinéa de l'article 99-2 à des substances stupéfiantes saisies
+au cours de la procédure, le juge d'instruction doit conserver un échantillon de ces produits afin de permettre, le cas
+échéant, qu'ils fassent l'objet d'une expertise. Cet échantillon est placé sous scellés.
+
+Il doit être procédé par le juge d'instruction ou par un officier de police judiciaire agissant sur commission rogatoire à la
+pesée des substances saisies avant leur destruction. Cette pesée doit être réalisée en présence de la personne qui détenait
+les substances, ou, à défaut, en présence de deux témoins requis par le juge d'instruction ou l'officier de police judiciaire
+et choisis en dehors des personnes relevant de leur autorité. La pesée peut également être réalisée, dans les mêmes
+conditions, au cours de l'enquête de flagrance ou de l'enquête préliminaire, par un officier de police judiciaire, ou, au
+cours de l'enquête douanière, par un agent des douanes de catégorie A ou B.
+
+Le procès-verbal des opérations de pesée est signé par les personnes mentionnées ci-dessus. En cas de refus, il en est fait
+mention au procès-verbal.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 58-1296 1958-12-23
+
+	**Créé par**:
+
+	  - Loi n°99-515 du 23 juin 1999 - art. 24 () JORF 24 juin 1999
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. 99-2 (M)
+
+	**Cité par**:
+
+	  - Code de procédure pénale - art. 28-1 (V)
 
 
 ###### Article 706-31
@@ -33780,6 +34256,39 @@ lui-même, soit comme susceptible de tenter de prendre la fuite.
 	  - Code de procédure pénale - art. D283-4 (Ab)
 
 
+###### Article 803-1
+
+Dans les cas où, en vertu des dispositions du présent code, il est prévu de procéder aux notifications à un avocat par lettre
+recommandée ou par lettre recommandée avec demande d'avis de réception, la notification peut aussi être faite sous la forme
+d'une télécopie avec récépissé.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 58-1296 1958-12-23
+
+	**Créé par**:
+
+	  - Loi n°99-515 du 23 juin 1999 - art. 27 () JORF 24 juin 1999
+
+	**Cité par**:
+
+	  - CODE DE PROCEDURE PENALE - art. 167 (M)
+	  - CODE DE PROCEDURE PENALE - art. D31-1 (V)
+	  - Code de procédure pénale - art. 114 (V)
+	  - Code de procédure pénale - art. 388-4 (V)
+	  - Code de procédure pénale - art. 624-6 (VD)
+	  - Code de procédure pénale - art. D15-8 (V)
+	  - Code de procédure pénale - art. D39 (V)
+	  - Code de procédure pénale - art. D40-1 (V)
+	  - Code de procédure pénale - art. D43-4 (V)
+	  - Code de procédure pénale - art. D47-15 (V)
+	  - Code de procédure pénale - art. D47-18 (V)
+	  - Code de procédure pénale - art. D47-20 (V)
+	  - Code de procédure pénale - art. D590 (V)
+
+
 ## Livre VI : Dispositions relatives aux territoires d'outre mer, à la Nouvelle-Calédonie, à Mayotte et à la collectivité territoriale de Saint-Pierre-et-Miquelon.
 
 ### Titre Ier : Dispositions applicables en Nouvelle-Calédonie et dans les territoires de la Polynésie française et des îles Wallis-et-Futuna.
@@ -35565,6 +36074,31 @@ prêtent serment devant le tribunal de première instance.
 	**Cite**:
 
 	  - Code de procédure pénale 22 à 29
+
+
+###### Article 809-1
+
+Pour l'application de l'article 41-2, les références aux articles 28 et 32 (2°) du décret-loi du 18 avril 1939 fixant le
+régime des matériels de guerre, armes et munitions et à l'article L. 1er du code de la route sont remplacées par les
+références aux dispositions applicables localement qui répriment la détention ou le port d'arme et aux dispositions
+applicables localement en matière de circulation routière qui répriment la conduite sous l'empire d'un état alcoolique ou en
+état d'ivresse manifeste.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Décret-loi 1939-04-18 art. 28, art. 32
+	  - CODE DE PROCEDURE PENALE - art. 41-2 (M)
+	  - Code de la route L1
+
+	**Codifié par**:
+
+	  - Ordonnance 96-268 1996-03-28
+
+	**Créé par**:
+
+	  - Loi n°99-515 du 23 juin 1999 - art. 6 () JORF 24 juin 1999
 
 
 ###### Article 810
