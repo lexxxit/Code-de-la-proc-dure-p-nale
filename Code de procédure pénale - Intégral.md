@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 1993-03-17
+Version Consolidée au 1993-06-29
 
 # Partie législative
 
@@ -32488,6 +32488,42 @@ l'habilitation jusqu'à la décision de la prochaine assemblée générale ou co
 	  - Code de procédure pénale R15-20 et R15-21
 
 
+##### Section 2 : De la consignation de partie civile
+
+###### Article R15-25
+
+La partie civile est tenue, en application des articles 88 et 88-1, de consigner au greffe sauf dispense, dans le délai
+imparti par le juge d'instruction, sous peine d'irrecevabilité, une somme en vue de garantir le paiement de l'amende civile
+pouvant être prononcée à son encontre sur le fondement de l'article 91 du code de procédure pénale.
+
+La somme consignée est remise à la partie civile sur simple récépissé lorsque l'action fondée sur cette disposition est
+prescrite ou a abouti à une décision devenue définitive constatant que la constitution de partie civile n'était ni abusive ni
+dilatoire.
+
+En cas de condamnation à une amende civile, la somme consignée est employée au paiement de celle-ci.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°58-358 1958-04-02
+
+	**Créé par**:
+
+	  - Décret n°93-867 du 28 juin 1993 - art. 21 () JORF 29 juin 1993
+
+	**Cité par**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R*814-5 (Ab)
+	  - CODE DE PROCEDURE PENALE - art. R15-33 (V)
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. 88 (M)
+	  - CODE DE PROCEDURE PENALE - art. 88-1 (M)
+	  - CODE DE PROCEDURE PENALE - art. 91 (M)
+
+
 ##### Section 7 : Du contrôle judiciaire et de la détention provisoire
 
 ##### Sous-section 1 : Du contrôle judiciaire
@@ -37562,7 +37598,7 @@ rapportent.
 ###### Article R85
 
 Les fiches et les copies des fiches relatives à des décisions judiciaires ainsi que les bulletins n° 1 sont payés sur les
-crédits affectés aux frais de justice à recouvrer sur les condamnés.
+crédits affectés aux frais de justice.
 
 Les bulletins n° 1 établis par le casier judiciaire central sont délivrés gratuitement.
 
@@ -37572,15 +37608,15 @@ Les bulletins n° 1 établis par le casier judiciaire central sont délivrés gr
 
 	  - Décret n°59-318 1959-02-23
 
-	**Créé par**:
-
-	  - Décret n°59-318 1959-02-23 JORF 25 février 1959 en vigueur le 2 mars 1959 rectificatif JORF 13 juin 1959
-
 	**Liens**:
 
 	  - SPEC_APPLI: Décret n°59-318 1959-02-23 art. 5
 	  - TXT_SOURCE: CODE DE PROCEDURE PENALE - art. 779 (M)
 	  - TXT_SOURCE: Code de procédure pénale 776 (3°), 779
+
+	**Modifié par**:
+
+	  - Décret n°93-867 du 28 juin 1993 - art. 1 () JORF 29 juin 1993
 
 
 ###### Article R86
@@ -37707,8 +37743,9 @@ national de la statistique et des études économiques.
 
 ###### Article R91
 
-Le Trésor public fait l'avance des frais énumérés aux articles R. 92 et R. 93. Il poursuit le recouvrement de ceux desdits
-frais qui ne sont pas à la charge de l'Etat, le tout dans la forme et selon les règles établies par le présent titre.
+Le Trésor public paye les frais énumérés à l'article R. 92. Il fait l'avance de ceux énumérés à l'article R. 93 et poursuit
+le recouvrement des frais qui ne sont pas à la charge de l'Etat, le tout dans la forme et selon les règles établies par le
+présent titre.
 
 **Liens relatifs à cet article**
 
@@ -37716,15 +37753,9 @@ frais qui ne sont pas à la charge de l'Etat, le tout dans la forme et selon les
 
 	  - Décret n°59-318 1959-02-23
 
-	**Créé par**:
-
-	  - Décret n°59-318 1959-02-23 JORF 25 février 1959 en vigueur le 2 mars 1959 rectificatif JORF 13 juin 1959
-
 	**Modifié par**:
 
-	  - Décret n°74-88 1974-02-04 art. 1 JORF 6 février 1974
-	  - Décret n°83-455 1983-06-02 art. 6 JORF 8 juin 1983 en vigueur le 1er octobre 1983
-	  - Décret n°88-600 du 6 mai 1988 - art. 1 () JORF 8 mai 1988 en vigueur le 1er octobre 1988
+	  - Décret n°93-867 du 28 juin 1993 - art. 2 () JORF 29 juin 1993
 
 	**Liens**:
 
@@ -37736,7 +37767,7 @@ frais qui ne sont pas à la charge de l'Etat, le tout dans la forme et selon les
 
 	**Cite**:
 
-	  - Code de procédure pénale R92 et R93
+	  - Code de procédure pénale - art. R92 (V)
 
 
 ###### Article R92
@@ -37759,7 +37790,8 @@ dans les conditions prévues aux articles R. 121 et R. 121-1 du présent code.
 parties civiles par application des articles 375-1 et 422.
 
 5° Les frais de saisie ou de mise sous séquestre ou en fourrière, les frais en matière de scellés et ceux de l'immobilisation
-décidée en application de l'article 43-3 (3° bis) du code pénal.
+décidée en application de l'article 43-3 (3° bis) du code pénal [* article(s) abrogé(s), cf. article(s) 131-6, 131-7 et 131-9
+du nouveau code pénal *].
 
 6° Les frais d'enquête sociale et d'expertise engagés en matière d'exécution ou d'application des peines et en matière de
 grâces.
@@ -37776,8 +37808,7 @@ cas prévus par la section VII du chapitre II du présent titre.
 
 11° Les frais postaux et télégraphiques, le port des paquets pour une procédure pénale.
 
-12° Les frais d'impression, d'insertion et de publication des arrêts, jugements et ordonnances de justice selon les
-dispositions des articles R. 210 et suivants.
+12° Les frais des procédures suivies en application des lois concernant l'enfance délinquante.
 
 13° Les indemnités accordées aux victimes d'erreurs judiciaires ainsi que les frais de révision et les secours aux individus
 relaxés ou acquittés.
@@ -37800,7 +37831,7 @@ précédente décision en matière pénale.
 
 	**Modifié par**:
 
-	  - Décret n°92-1181 du 4 novembre 1992 - art. 1 () JORF 5 novembre 1992
+	  - Décret n°93-867 du 28 juin 1993 - art. 3 () JORF 29 juin 1993
 
 	**Cité par**:
 
@@ -37843,7 +37874,7 @@ précédente décision en matière pénale.
 
 Sont, en outre, assimilées aux frais de justice criminelle, correctionnelle et de police, les dépenses qui résultent :
 
-1° Des procédures suivies en application des lois concernant l'enfance délinquante et la protection de l'enfance en danger.
+1° Des procédures suivies en application des lois concernant la protection de l'enfance en danger.
 
 2° De l'application de la législation sur le régime des aliénés.
 
@@ -37889,7 +37920,12 @@ public.
 ne relevant pas de l'administration pénitentiaire.
 
 18° Des frais de l'appel aux créanciers prévu à l'article 11 de la loi n° 89-1010 du 31 décembre 1989 relative à la
-prévention et au règlement des difficultés liées au surendettement des particuliers et des familles.
+prévention et au règlement des difficultés liées au surendettement des particuliers et
+
+des familles.
+
+19° Les frais d'impression, d'insertion et de publication des arrêts, jugements et ordonnances de justice selon les
+dispositions des articles R. 210 et suivants.
 
 **Liens relatifs à cet article**
 
@@ -37930,12 +37966,13 @@ prévention et au règlement des difficultés liées au surendettement des parti
 	  - Loi n°89-1010 1989-12-31 art. 11
 	  - Code civil - art. 287-1 (M)
 	  - CODE DE PROCEDURE PENALE - art. 16-2 (V)
+	  - CODE DE PROCEDURE PENALE - art. R210 (M)
 	  - CODE DE PROCEDURE PENALE - art. R92 (M)
 	  - Nouveau code de procédure civile 696
 
 	**Modifié par**:
 
-	  - Décret n°91-1266 du 19 décembre 1991 - art. 162 () JORF 20 décembre 1991 en vigueur le 1er janvier 1992
+	  - Décret n°93-867 du 28 juin 1993 - art. 4 () JORF 29 juin 1993
 
 	**Liens**:
 
@@ -38326,18 +38363,13 @@ indemnités de voyage et de séjour allouées aux témoins.
 ###### Article R105
 
 Les frais de location de coffres destinés à mettre en sûreté les valeurs mobilières, bijoux et objets précieux sont payés par
-le régisseur nommé dans chaque secrétariat greffe, soit au moyen de l'avance consentie par le comptable direct du Trésor,
-soit par prélèvement autorisé sur la somme consignée par la partie civile constituée par acte initial.
+le régisseur nommé dans chaque secrétariat-greffe sur l'avance consentie par le comptable direct du Trésor.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°59-318 1959-02-23
-
-	**Créé par**:
-
-	  - Décret n°59-318 1959-02-23 JORF 25 février 1959 en vigueur le 2 mars 1959 rectificatif JORF 13 juin 1959
 
 	**Liens**:
 
@@ -38346,7 +38378,7 @@ soit par prélèvement autorisé sur la somme consignée par la partie civile co
 
 	**Modifié par**:
 
-	  - Décret n°83-455 1983-06-02 art. 9 JORF 8 juin 1983 en vigueur le 1er octobre 1983
+	  - Décret n°93-867 du 28 juin 1993 - art. 6 () JORF 29 juin 1993
 
 	**Cité par**:
 
@@ -39209,7 +39241,7 @@ Il peut être accordé aux témoins, s'ils le requièrent :
 
 ###### Article R124
 
-Les indemnités accordées aux témoins ne sont avancées par le Trésor qu'en tant qu'ils ont été cités ou appelés, soit à la
+Les indemnités accordées aux témoins ne sont payées par le Trésor qu'en tant qu'ils ont été cités ou appelés, soit à la
 requête du ministère public, soit en vertu d'une ordonnance rendue d'office dans les cas prévus aux articles 283 et 310 et à
 l'article 30 de la loi du 22 janvier 1851 sur l'assistance judiciaire.
 
@@ -39219,14 +39251,14 @@ l'article 30 de la loi du 22 janvier 1851 sur l'assistance judiciaire.
 
 	  - Décret n°59-318 1959-02-23
 
-	**Créé par**:
-
-	  - Décret n°59-318 1959-02-23 JORF 25 février 1959 en vigueur le 2 mars 1959 rectificatif JORF 13 juin 1959
-
 	**Liens**:
 
 	  - SPEC_APPLI: Décret n°59-318 1959-02-23 art. 5
 	  - TXT_SOURCE: CODE DE PROCEDURE PENALE - art. 800 (M)
+
+	**Modifié par**:
+
+	  - Décret n°93-867 du 28 juin 1993 - art. 7 () JORF 29 juin 1993
 
 	**Cite**:
 
@@ -41022,58 +41054,6 @@ d'une information régulière ou d'une enquête officieuse ordonnée par l'autor
 	  - Code de procédure pénale R200 (1°), R203, R204, R205
 
 
-##### Section 8 : Du port des lettres et paquets
-
-###### Article R208
-
-Les droits relatifs à la correspondance postale et télégraphique sont perçus pour chaque affaire criminelle, correctionnelle
-ou de police dans les conditions fixées et d'après le tarif établi par des lois spéciales.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°59-318 1959-02-23
-
-	**Créé par**:
-
-	  - Décret n°59-318 1959-02-23 JORF 25 février 1959 en vigueur le 2 mars 1959 rectificatif JORF 13 juin 1959
-
-	**Modifié par**:
-
-	  - Décret n°88-600 du 6 mai 1988 - art. 10 () JORF 8 mai 1988 en vigueur le 1er octobre 1988
-
-	**Abrogé par**:
-
-	  - Décret n°93-867 du 28 juin 1993 - art. 20 (V) JORF 29 juin 1993
-
-
-###### Article R209
-
-Les frais postaux ou télégraphiques sont payés par le régisseur d'avances, soit au moyen de l'avance consentie par le
-comptable direct du Trésor, soit par prélèvement autorisé sur la somme consignée par la partie civile constituée par acte
-initial.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°59-318 1959-02-23
-
-	**Créé par**:
-
-	  - Décret n°59-318 1959-02-23 JORF 25 février 1959 en vigueur le 2 mars 1959 rectificatif JORF 13 juin 1959
-
-	**Modifié par**:
-
-	  - Décret n°67-903 1967-10-12 art. 1 JORF 17 octobre 1967
-	  - Décret n°83-455 1983-06-02 art. 12 JORF 8 juin 1983 en vigueur le 1er octobre 1983
-
-	**Abrogé par**:
-
-	  - Décret n°93-867 du 28 juin 1993 - art. 20 (V) JORF 29 juin 1993
-
-
 ##### Section 9 : Des frais d'impression
 
 ###### Article R210
@@ -41130,9 +41110,9 @@ commune.
 
 ###### Article R212
 
-Les impressions payées à titre de frais de justice, criminelle, correctionnelle et de police sont faites en vertu de marchés
-passés pour chaque ressort de cour ou de tribunal par le procureur général ou le procureur de la République, suivant le cas,
-et qui ne peuvent être exécutés qu'avec l'approbation préalable du ministre de la Justice.
+Les impressions payées à titre de frais de justice sont faites en vertu de marchés passés pour chaque ressort de cour ou de
+tribunal par le procureur général ou le procureur de la République, suivant le cas, et qui ne peuvent être exécutés qu'avec
+l'approbation préalable du ministre de la justice.
 
 Toutefois, à défaut d'un tel marché, il peut être traité de gré à gré chaque fois qu'une impression doit être faite. Les
 imprimés joignent à chaque article de leur mémoire un exemplaire de l'objet imprimé comme pièce justificative.
@@ -41143,13 +41123,13 @@ imprimés joignent à chaque article de leur mémoire un exemplaire de l'objet i
 
 	  - Décret n°59-318 1959-02-23
 
-	**Créé par**:
-
-	  - Décret n°59-318 1959-02-23 JORF 25 février 1959 en vigueur le 2 mars 1959 rectificatif JORF 13 juin 1959
-
 	**Liens**:
 
 	  - SPEC_APPLI: Décret n°59-318 1959-02-23 art. 5
+
+	**Modifié par**:
+
+	  - Décret n°93-867 du 28 juin 1993 - art. 8 () JORF 29 juin 1993
 
 	**Cité par**:
 
@@ -41228,13 +41208,13 @@ civil, et sur la célébration des mariages, dans le cas prévu à l'article 192
 ###### Article R217
 
 Si le mineur est solvable, les frais des procédures suivies en matière de tutelle sont à sa charge et le recouvrement en est
-poursuivi conformément à la loi du 5 septembre 1807.
+poursuivi selon les procédures et sous les garanties prévues en matière d'amende pénale.
 
 Le juge des tutelles, ou le tribunal ultérieurement saisi, peut toutefois décider qu'une autre partie en supportera la
 charge.
 
 Si le mineur ne paraît pas avoir de ressources suffisantes, le juge des tutelles constate cette insuffisance par ordonnance ;
-les frais sont alors avancés et recouvrés comme en matière d'aide juridictionnelle.
+les frais sont alors avancés et recouvrés comme en matière de frais de justice.
 
 Les mêmes règles sont applicables en matière de régimes de protection des majeurs.
 
@@ -41244,13 +41224,9 @@ Les mêmes règles sont applicables en matière de régimes de protection des ma
 
 	  - Décret n°59-318 1959-02-23
 
-	**Créé par**:
-
-	  - Décret n°81-70 1981-01-28 art. 8 JORF 30 janvier 1981
-
 	**Modifié par**:
 
-	  - Décret n°91-1266 1991-12-19 art. 159 JORF 20 décembre 1991
+	  - Décret n°93-867 du 28 juin 1993 - art. 9 () JORF 29 juin 1993
 
 	**Cité par**:
 
@@ -41266,8 +41242,7 @@ Les mêmes règles sont applicables en matière de régimes de protection des ma
 ###### Article R218
 
 Les frais engagés d'office en matière de mesures conservatoires prises après l'ouverture d'une succession sont à la charge de
-celle-ci et le recouvrement en est poursuivi conformément à la loi du 5 septembre 1807 relative au mode de recouvrement des
-frais de justice au profit du Trésor public en matière criminelle, correctionnelle et de police.
+celle-ci et le recouvrement en est poursuivi selon les procédures et sous les garanties prévues en matière d'amende pénale.
 
 **Liens relatifs à cet article**
 
@@ -41277,15 +41252,11 @@ frais de justice au profit du Trésor public en matière criminelle, correctionn
 
 	**Modifié par**:
 
-	  - Décret n°88-600 du 6 mai 1988 - art. 12 () JORF 8 mai 1988 en vigueur le 1er octobre 1988
+	  - Décret n°93-867 du 28 juin 1993 - art. 10 () JORF 29 juin 1993
 
 	**Cité par**:
 
 	  - Code de procédure pénale - art. R350 (V)
-
-	**Cite**:
-
-	  - Loi n°1807-09-05
 
 
 ##### Paragraphe 4 : Inscriptions hypothécaires requises par le ministère public
@@ -41348,8 +41319,8 @@ l'avance et la régularisation en sont effectuées par les soins des comptables 
 
 ###### Article R221
 
-Pour le recouvrement des frais d'enquêtes sociales ordonnées en matière d'exercice de l'autorité parentale, il est procédé
-comme en matière de frais de justice criminelle, correctionnelle et de police.
+Les frais d'enquêtes sociales ordonnées en matière d'exercice de l'autorité parentale sont recouvrés par le Trésor selon les
+procédures et sous les garanties prévues en matière d'amende pénale.
 
 La partie condamnée aux dépens peut former un recours contre la disposition de la décision relative à la liquidation de ces
 frais. A défaut d'appel sur le fond, le recours, motivé, est formé au greffe de la juridiction dont émane la décision, dans
@@ -41364,22 +41335,20 @@ a ordonné l'enquête.
 
 	  - Décret n°59-318 1959-02-23
 
-	**Créé par**:
-
-	  - Décret n°59-318 1959-02-23 JORF 25 février 1959 en vigueur le 2 mars 1959 rectificatif JORF 13 juin 1959
-
 	**Liens**:
 
 	  - SPEC_APPLI: Décret n°59-318 1959-02-23 art. 5
 
 	**Modifié par**:
 
-	  - Décret n°88-600 du 6 mai 1988 - art. 13 () JORF 8 mai 1988 en vigueur le 1er octobre 1988
+	  - Décret n°93-867 du 28 juin 1993 - art. 11 () JORF 29 juin 1993
 
 
-#### Chapitre IV : Du paiement et du recouvrement des frais de justice criminelle, correctionnelle et de police
+#### Chapitre IV : Du payement et du recouvrement des frais
 
-##### Section 1 : Du paiement des frais 
+##### Section 1 : Du paiement des frais
+
+##### Paragraphe 1er : Présentation des états et des mémoires
 
 ###### Article R222
 
@@ -41397,17 +41366,13 @@ d'aucun droit.
 
 	  - Décret n°59-318 1959-02-23
 
-	**Créé par**:
-
-	  - Décret n°59-318 1959-02-23 JORF 25 février 1959 en vigueur le 2 mars 1959 rectificatif JORF 13 juin 1959
-
 	**Liens**:
 
 	  - SPEC_APPLI: Décret n°59-318 1959-02-23 art. 5
 
 	**Modifié par**:
 
-	  - Décret n°88-600 du 6 mai 1988 - art. 14 () JORF 8 mai 1988 en vigueur le 1er octobre 1988
+	  - Décret n°93-867 du 28 juin 1993 - art. 12 () JORF 29 juin 1993
 
 	**Cité par**:
 
@@ -41419,10 +41384,6 @@ d'aucun droit.
 	  - Code forestier - art. R153-3 (Ab)
 	  - Code forestier de Mayotte - art. R153-3 (Ab)
 
-
-##### Section 1 : Du paiement des frais
-
-##### Paragraphe Ier : Présentation des états et des mémoires
 
 ###### Article R223
 
@@ -41436,48 +41397,11 @@ Les parties prenantes déposent ou adressent leur état ou mémoire au greffe de
 
 	**Modifié par**:
 
-	  - Décret n°88-600 du 6 mai 1988 - art. 14 () JORF 8 mai 1988 en vigueur le 1er octobre 1988
+	  - Décret n°93-867 du 28 juin 1993 - art. 12 () JORF 29 juin 1993
 
 	**Cité par**:
 
 	  - Décret n°2014-461 du 7 mai 2014 - art. 5 (V)
-
-
-###### Article R224-2
-
-La procédure de certification est applicable aux frais suivants énumérés à l'article R. 93 :
-
-1. Indemnités accordées aux témoins ;
-
-2. Part contributive de l'Etat à la rétribution des auxiliaires de justice en matière d'aide juridictionnelle.
-
-3. Indemnités de transport et de séjour des magistrats, des greffiers et des secrétaires des juridictions de l'ordre
-judiciaire ;
-
-4. Frais postaux des greffes des juridictions civiles nécessités par les actes et procédures ;
-
-5. Frais tarifés des actes faits d'office en matière de mesures conservatoires prises après l'ouverture d'une succession.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°59-318 1959-02-23
-
-	**Modifié par**:
-
-	  - Décret n°91-1266 du 19 décembre 1991 - art. 162 () JORF 20 décembre 1991 en vigueur le 1er janvier 1992
-
-	**Cité par**:
-
-	  - CODE DE PROCEDURE PENALE - art. R225 (V)
-	  - Code de procédure pénale - art. R214 (V)
-	  - Code de procédure pénale - art. R353 (V)
-	  - Code de procédure pénale - art. R423 (Ab)
-
-	**Cite**:
-
-	  - CODE DE PROCEDURE PENALE - art. R93 (M)
 
 
 ##### Paragraphe 2 : Procédure de certification
@@ -41512,9 +41436,9 @@ ministre de la justice.
 
 	  - Décret n°59-318 1959-02-23
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°88-600 du 6 mai 1988 - art. 14 () JORF 8 mai 1988 en vigueur le 1er octobre 1988
+	  - Décret n°93-867 du 28 juin 1993 - art. 12 () JORF 29 juin 1993
 
 	**Cité par**:
 
@@ -41527,10 +41451,46 @@ ministre de la justice.
 
 	**Cite**:
 
-	  - Code de procédure pénale R121 et R121-1
+	  - CODE DE PROCEDURE PENALE - art. R121 (M)
+	  - CODE DE PROCEDURE PENALE - art. R121-1 (M)
 
 
-##### Paragraphe 2 : Procédure de certification.
+###### Article R224-2
+
+La procédure de certification est applicable aux frais suivants énumérés à l'article R. 93 :
+
+1. Indemnités accordées aux témoins ;
+
+2. Part contributive de l'Etat à la rétribution des auxiliaires de justice en matière d'aide juridictionnelle ;
+
+3. Indemnités de transport et de séjour des magistrats, des greffiers et des secrétaires des juridictions de l'ordre
+judiciaire ;
+
+4. Frais postaux des greffes des juridictions civiles nécessités par les actes et procédures ;
+
+5. Frais tarifés des actes faits d'office en matière de mesures conservatoires prises après l'ouverture d'une succession.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-318 1959-02-23
+
+	**Modifié par**:
+
+	  - Décret n°93-867 du 28 juin 1993 - art. 12 () JORF 29 juin 1993
+
+	**Cité par**:
+
+	  - CODE DE PROCEDURE PENALE - art. R225 (V)
+	  - Code de procédure pénale - art. R214 (V)
+	  - Code de procédure pénale - art. R353 (V)
+	  - Code de procédure pénale - art. R423 (Ab)
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. R93 (M)
+
 
 ###### Article R225
 
@@ -41547,7 +41507,7 @@ S'il refuse d'établir le certificat, le greffier demande au ministère public d
 
 	**Modifié par**:
 
-	  - Décret n°88-600 du 6 mai 1988 - art. 14 () JORF 8 mai 1988 en vigueur le 1er octobre 1988
+	  - Décret n°93-867 du 28 juin 1993 - art. 12 () JORF 29 juin 1993
 
 	**Cité par**:
 
@@ -41558,17 +41518,13 @@ S'il refuse d'établir le certificat, le greffier demande au ministère public d
 	  - Code de procédure pénale - art. R224-1 (V)
 	  - Code de procédure pénale - art. R224-2 (V)
 
-	**Cite**:
 
-	  - Code de procédure pénale R224-1 et R224-2
-
-
-##### Paragraphe 3 : Procédure de taxation.
+##### Paragraphe 3 : Procédure de taxation
 
 ###### Article R226
 
 Les états ou mémoires relatifs aux frais de justice criminelle, correctionnelle et de police autres que ceux énumérés à
-l'article R. 224-1 sont transmis aux fins de réquisitions au parquet du ressort dans lequel la juridiction a son siège.
+l'article R. 224-1 sont transmis aux fins de réquisitions au parquet du ressort dans lequel la juridiction a son siège. 
 
 Le magistrat du ministère public transmet l'état ou mémoire, assorti de ses réquisitions, au magistrat taxateur.
 
@@ -41580,11 +41536,11 @@ Le magistrat du ministère public transmet l'état ou mémoire, assorti de ses r
 
 	**Modifié par**:
 
-	  - Décret n°88-600 du 6 mai 1988 - art. 14 () JORF 8 mai 1988 en vigueur le 1er octobre 1988
+	  - Décret n°93-867 du 28 juin 1993 - art. 12 () JORF 29 juin 1993
 
 	**Cite**:
 
-	  - CODE DE PROCEDURE PENALE - art. R224-1 (M)
+	  - Code de procédure pénale - art. R224-1 (V)
 
 
 ###### Article R227
@@ -41603,7 +41559,7 @@ Les frais engagés sur la décision d'un juge d'instruction ou d'un juge des enf
 
 	**Modifié par**:
 
-	  - Décret n°88-600 du 6 mai 1988 - art. 14 () JORF 8 mai 1988 en vigueur le 1er octobre 1988
+	  - Décret n°93-867 du 28 juin 1993 - art. 12 () JORF 29 juin 1993
 
 	**Cité par**:
 
@@ -41620,55 +41576,20 @@ président du tribunal de grande instance ou du tribunal d'instance, dans le res
 
 	**Codifié par**:
 
-	  - Décret n°59-318 1959-02-23
-
-	**Créé par**:
-
-	  - Décret n°59-318 1959-02-23 JORF 25 février 1959 en vigueur le 2 mars 1959 rectificatif JORF 13 juin 1959
+	  - Décret n°59-318 du 23 février 1959
 
 	**Modifié par**:
 
-	  - Décret n°74-88 1974-02-04 art. 1 JORF 6 février 1974
-	  - Décret n°83-455 1983-06-02 art. 16 JORF 8 juin 1983 en vigueur le 1er octobre 1983
-	  - Décret n°88-600 du 6 mai 1988 - art. 14 () JORF 8 mai 1988 en vigueur le 1er octobre 1988
+	  - Décret n°93-867 du 28 juin 1993 - art. 12 () JORF 29 juin 1993
+
+	**Abrogé par**:
+
+	  - Décret n°2010-1634 du 23 décembre 2010 - art. 2
 
 	**Cité par**:
 
 	  - Code de procédure pénale - art. R354 (V)
 	  - Code de procédure pénale - art. R424 (Ab)
-
-
-###### Article R227-2
-
-Pour les frais avancés par le Trésor public qui ne restent pas définitivement à la charge de l'Etat, les ordonnances de taxe
-ou les certificats de vérification doivent mentionner que l'action publique n'a pas été mise en mouvement par une
-constitution de partie civile ou que celle-ci a obtenu le bénéfice de l'aide judiciaire ou qu'il n'y a pas eu de consignation
-suffisante.
-
-**Nota:**
-
-[* Les mots : " aide judiciaire " ou " commissions et désignations d'office " sont remplacés par ceux de " aide
-juridictionnelle " par l'article 159 du décret n° 91-1266 du 19 décembre 1991 paru au Journal officiel du 20 décembre 1991.*]
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°59-318 1959-02-23
-
-	**Créé par**:
-
-	  - Décret n°59-318 1959-02-23 JORF 25 février 1959 en vigueur le 2 mars 1959 rectificatif JORF 13 juin 1959
-
-	**Modifié par**:
-
-	  - Décret n°74-88 1974-02-04 art. 1 JORF 6 février 1974
-	  - Décret n°83-455 1983-06-02 art. 16 JORF 8 juin 1983 en vigueur le 1er octobre 1983
-	  - Décret n°88-600 du 6 mai 1988 - art. 14 () JORF 8 mai 1988 en vigueur le 1er octobre 1988
-
-	**Abrogé par**:
-
-	  - Décret n°93-867 du 28 juin 1993 - art. 20 (V) JORF 29 juin 1993
 
 
 ##### Paragraphe 4 : Voies de recours
@@ -41688,7 +41609,7 @@ Lorsque la taxe diffère des réquisitions du ministère public, l'ordonnance de
 
 	**Modifié par**:
 
-	  - Décret n°88-600 du 6 mai 1988 - art. 14 () JORF 8 mai 1988 en vigueur le 1er octobre 1988
+	  - Décret n°93-867 du 28 juin 1993 - art. 12 () JORF 29 juin 1993
 
 	**Cité par**:
 
@@ -41707,17 +41628,10 @@ d'accusation quelle que soit la juridiction à laquelle appartient le magistrat 
 
 	  - Décret n°59-318 1959-02-23
 
-	**Créé par**:
-
-	  - Décret n°59-318 1959-02-23 JORF 25 février 1959 en vigueur le 2 mars 1959 rectificatif JORF 13 juin 1959
-
 	**Modifié par**:
 
-	  - Décret n°74-88 1974-02-04 art. 1 JORF 6 février 1974
-	  - Décret n°88-600 du 6 mai 1988 - art. 14 () JORF 8 mai 1988 en vigueur le 1er octobre 1988
+	  - Décret n°93-867 du 28 juin 1993 - art. 12 () JORF 29 juin 1993
 
-
-##### Paragraphe 4 : Voies de recours.
 
 ###### Article R229
 
@@ -41736,7 +41650,7 @@ comptable assignataire exécute l'ordonnance de taxe.
 
 	**Modifié par**:
 
-	  - Décret n°88-600 du 6 mai 1988 - art. 14 () JORF 8 mai 1988 en vigueur le 1er octobre 1988
+	  - Décret n°93-867 du 28 juin 1993 - art. 12 () JORF 29 juin 1993
 
 	**Cité par**:
 
@@ -41763,14 +41677,9 @@ Le pourvoi en cassation est ouvert dans tous les cas.
 
 	  - Décret n°59-318 1959-02-23
 
-	**Créé par**:
-
-	  - Décret n°59-318 1959-02-23 JORF 25 février 1959 en vigueur le 2 mars 1959 rectificatif JORF 13 juin 1959
-
 	**Modifié par**:
 
-	  - Décret n°74-88 1974-02-04 art. 1 JORF 6 février 1974
-	  - Décret n°88-600 du 6 mai 1988 - art. 14 () JORF 8 mai 1988 en vigueur le 1er octobre 1988
+	  - Décret n°93-867 du 28 juin 1993 - art. 12 () JORF 29 juin 1993
 
 
 ###### Article R231
@@ -41796,99 +41705,7 @@ Le pourvoi en cassation est ouvert dans tous les cas.
 
 	**Modifié par**:
 
-	  - Décret n°88-600 du 6 mai 1988 - art. 14 () JORF 8 mai 1988 en vigueur le 1er octobre 1988
-
-
-###### Article R232
-
-Les contestations relatives à la liquidation des dépens en matière d'ordonnance pénale sont portées devant le juge qui a
-prononcé la condamnation dans les conditions prévues par les articles 710 et suivants.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°59-318 1959-02-23
-
-	**Créé par**:
-
-	  - Décret n°59-318 1959-02-23 JORF 25 février 1959 en vigueur le 2 mars 1959 rectificatif JORF 13 juin 1959
-
-	**Modifié par**:
-
-	  - Décret n°74-88 1974-02-04 art. 1 JORF 6 février 1974
-	  - Décret n°83-455 1983-06-02 art. 17 JORF 8 juin 1983 en vigueur le 1er octobre 1983
-	  - Décret n°88-600 du 6 mai 1988 - art. 14 () JORF 8 mai 1988 en vigueur le 1er octobre 1988
-
-	**Abrogé par**:
-
-	  - Décret n°93-867 du 28 juin 1993 - art. 20 (V) JORF 29 juin 1993
-
-	**Cité par**:
-
-	  - CODE DE PROCEDURE PENALE - art. R227 (M)
-
-	**Cite**:
-
-	  - Code de procédure pénale 710 et suivants
-
-
-###### Article R234
-
-S'agissant d'un mémoire ou d'un état certifié, la partie prenante, dans le délai d'un mois à compter de la perception de la
-somme, ou le comptable assignataire, dans le délai d'un mois à compter du versement de la pièce de dépense par le régisseur
-entre les mains de ce comptable, peuvent adresser une réclamation au ministère public qui saisit de ses réquisitions le
-magistrat taxateur.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°59-318 1959-02-23
-
-	**Modifié par**:
-
-	  - Décret n°88-600 du 6 mai 1988 - art. 14 () JORF 8 mai 1988 en vigueur le 1er octobre 1988
-
-	**Cité par**:
-
-	  - Code de procédure pénale - art. R357 (VT)
-	  - Code de procédure pénale - art. R427 (V)
-
-
-###### Article R235
-
-Lorsque l'action publique a été mise en mouvement par une partie civile et que celle-ci n'a pas obtenu le bénéfice de l'aide
-judiciaire, les frais d'instruction, expédition et signification des jugements sont prélevés sur la somme consignée, le cas
-échéant, par la partie civile.
-
-Dans tous les cas où la consignation n'a pas été faite ou si elle est insuffisante, ces frais sont avancés par le Trésor
-public.
-
-**Nota:**
-
-[* Les mots : " aide judiciaire " ou " commissions et désignations d'office " sont remplacés par ceux de " aide
-juridictionnelle " par l'article 159 du décret n° 91-1266 du 19 décembre 1991 paru au Journal officiel du 20 décembre 1991.*]
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°59-318 1959-02-23
-
-	**Créé par**:
-
-	  - Décret n°59-318 1959-02-23 JORF 25 février 1959 en vigueur le 2 mars 1959 rectificatif JORF 13 juin 1959
-
-	**Modifié par**:
-
-	  - Décret n°74-88 1974-02-04 art. 1 JORF 6 février 1974
-	  - Décret n°83-455 1983-06-02 art. 19 JORF 8 juin 1983 en vigueur le 1er octobre 1983
-	  - Décret n°88-600 du 6 mai 1988 - art. 14 () JORF 8 mai 1988 en vigueur le 1er octobre 1988
-
-	**Abrogé par**:
-
-	  - Décret n°93-867 du 28 juin 1993 - art. 20 (V) JORF 29 juin 1993
+	  - Décret n°93-867 du 28 juin 1993 - art. 12 () JORF 29 juin 1993
 
 
 ##### Paragraphe 5 : Paiement
@@ -41909,7 +41726,7 @@ de taxe ; dans ce cas, il surseoit au paiement jusqu'à taxation définitive.
 
 	**Modifié par**:
 
-	  - Décret n°88-600 du 6 mai 1988 - art. 14 () JORF 8 mai 1988 en vigueur le 1er octobre 1988
+	  - Décret n°93-867 du 28 juin 1993 - art. 12 () JORF 29 juin 1993
 
 	**Cité par**:
 
@@ -41918,26 +41735,12 @@ de taxe ; dans ce cas, il surseoit au paiement jusqu'à taxation définitive.
 	  - Code de procédure pénale - art. R40-20 (V)
 
 
-##### Section 2 : De la consignation par la partie civile pour frais de procédure
+###### Article R234
 
-###### Article R236
-
-En matière criminelle, correctionnelle ou de police, et sans préjudice en ce qui concerne l'instruction des dispositions de
-l'article 88, la partie qui n'a pas obtenu l'aide judiciaire est tenue, sous peine de non-recevabilité, de déposer au greffe
-la somme présumée nécessaire pour les frais de la procédure toutes les fois que, devant une juridiction d'instruction ou de
-jugement, son action n'est pas jointe à l'action préalable du ministère public.
-
-En cas de citation directe devant le tribunal ou en cas d'appel, la juridiction saisie fixe le montant de la consignation à
-la première audience où l'affaire est portée.
-
-Un supplément de consignation peut être exigé au cours des poursuites, soit pendant l'instruction, soit devant la juridiction
-de jugement, dès que le reliquat paraît insuffisant pour assurer le paiement de tous les frais. Il ne peut être exigé aucune
-rétribution pour la garde de ce dépôt, à peine de concussion.
-
-**Nota:**
-
-[Les mots : " aide judiciaire " ou " commissions et désignations d'office " sont remplacés par ceux de " aide
-juridictionnelle " par l'article 159 du décret n° 91-1266 du 19 décembre 1991 paru au Journal officiel du 20 décembre 1991.]
+S'agissant d'un mémoire ou d'un état certifié, la partie prenante, dans le délai d'un mois à compter de la perception de la
+somme, ou le comptable assignataire, dans le délai d'un mois à compter du versement de la pièce de dépense par le régisseur
+entre les mains de ce comptable, peuvent adresser une réclamation au ministère public qui saisit de ses réquisitions le
+magistrat taxateur.
 
 **Liens relatifs à cet article**
 
@@ -41945,109 +41748,27 @@ juridictionnelle " par l'article 159 du décret n° 91-1266 du 19 décembre 1991
 
 	  - Décret n°59-318 1959-02-23
 
-	**Créé par**:
-
-	  - Décret n°59-318 1959-02-23 JORF 25 février 1959 en vigueur le 2 mars 1959 rectificatif JORF 13 juin 1959
-
 	**Modifié par**:
 
-	  - Décret n°74-88 1974-02-04 art. 1 JORF 6 février 1974
-	  - Décret n°88-600 du 6 mai 1988 - art. 15 () JORF 8 mai 1988 en vigueur le 1er octobre 1988
+	  - Décret n°93-867 du 28 juin 1993 - art. 12 () JORF 29 juin 1993
 
-	**Abrogé par**:
+	**Cité par**:
 
-	  - Décret n°93-867 du 28 juin 1993 - art. 20 (V) JORF 29 juin 1993
-
-
-###### Article R239
-
-Les sommes non employées sont remises, sur simple récépissé, à la partie civile, lorsque l'affaire est terminée par une
-décision qui, à l'égard de la partie civile, a force de chose jugée.
-
-Toutefois, lorsque la partie civile a succombé, elle ne peut obtenir le remboursement des sommes non employées qu'après avoir
-justifié du paiement des frais mis à sa charge ou après avoir autorisé le chef du secrétariat-greffe à faire payer par le
-régisseur lesdits frais par prélèvement sur la consignation.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°59-318 1959-02-23
-
-	**Créé par**:
-
-	  - Décret n°59-318 1959-02-23 JORF 25 février 1959 en vigueur le 2 mars 1959 rectificatif JORF 13 juin 1959
-
-	**Modifié par**:
-
-	  - Décret n°74-88 1974-02-04 art. 1 JORF 6 février 1974
-	  - Décret n°83-455 1983-06-02 art. 20 JORF 8 juin 1983 en vigueur le 1er octobre 1983
-
-	**Abrogé par**:
-
-	  - Décret n°93-867 du 28 juin 1993 - art. 20 (V) JORF 29 juin 1993
+	  - Code de procédure pénale - art. R357 (VT)
+	  - Code de procédure pénale - art. R427 (V)
 
 
-###### Article R240
+##### Section 2 : De la liquidation et du recouvrement des frais
 
-Pour obtenir le remboursement des sommes qui ont servi à solder les frais de la procédure, la partie civile qui n'a pas
-succombé ou la partie civile de bonne foi qui a été déchargée de la totalité ou d'une partie des frais, doit établir un
-mémoire qui est taxé par le président de la cour d'assises, par le président de la cour d'appel ou du tribunal dans les
-conditions prévues pour la taxe aux articles R222 et suivants.
-
-Ce mémoire est payé comme les autres frais de justice criminelle, correctionnelle ou de police par le régisseur d'avances.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°59-318 1959-02-23
-
-	**Créé par**:
-
-	  - Décret n°59-318 1959-02-23 JORF 25 février 1959 en vigueur le 2 mars 1959 rectificatif JORF 13 juin 1959
-
-	**Modifié par**:
-
-	  - Décret n°74-88 1974-02-04 art. 1 JORF 6 février 1974
-	  - Décret n°83-455 1983-06-02 art. 21 JORF 8 juin 1983 en vigueur le 1er octobre 1983
-
-	**Abrogé par**:
-
-	  - Décret n°93-867 du 28 juin 1993 - art. 20 (V) JORF 29 juin 1993
-
-	**Cite**:
-
-	  - CODE DE PROCEDURE PENALE - art. R222 (M)
-
-
-##### Section 3 : De la liquidation et du recouvrement des frais
-
-##### Paragraphe 1er : Liquidation des frais
+##### Paragraphe 1er : Liquidation des frais.
 
 ###### Article R241
 
-Sont déclarés dans tous les cas à la charge de l'Etat et sans recours envers les condamnés :
+Sont déclarés dans tous les cas à la charge de l'Etat et sans recours envers les condamnés : 
 
-1° Les frais de voyage et de séjour des magistrats délégués pour la tenue des cours d'assises ;
+1° Les frais et dépens engagés en cas de décision juridictionnelle rectifiant ou interprétant une précédente décision ; 
 
-2° Les honoraires et indemnités des interprètes désignés pour assister les inculpés, prévenus et accusés dans les conditions
-prévues par les articles 102, 121, 272, 344, 407, 408 et 443 du présent code.
-
-3° Toutes les indemnités payées aux jurés ;
-
-4° Les frais de transport des prévenus et accusés dans les cas prévus à l'article R100 ;
-
-5° Les indemnités et les frais payés aux enquêteurs de personnalité et aux personnes physiques ou représentants de personnes
-morales désignés par le juge d'instruction pour l'application du contrôle judiciaire ;
-
-6° Les frais et dépens engagés en cas de décision juridictionnelle rectifiant ou interprétant une précédente décision.
-
-7° Les frais exposés devant la commission prévue à l'article 16-2.
-
-8° La contribution versée par l'Etat au titre de l'aide juridictionnelle à l'avocat du condamné et, le cas échéant, celle
-versée dans le cadre de la même procédure à l'avocat du témoin assisté ou de l'inculpé ayant bénéficié d'une décision de non-
-lieu, de relaxe ou d'acquittement.
+2° Les frais exposés devant la commission prévue à l'article 16-2.
 
 **Liens relatifs à cet article**
 
@@ -42057,30 +41778,25 @@ lieu, de relaxe ou d'acquittement.
 
 	**Modifié par**:
 
-	  - Décret n°91-1266 du 19 décembre 1991 - art. 162 () JORF 20 décembre 1991 en vigueur le 1er janvier 1992
+	  - Décret n°93-867 du 28 juin 1993 - art. 12 () JORF 29 juin 1993
+	  - Décret n°93-867 du 28 juin 1993 - art. 14 () JORF 29 juin 1993
+	  - Décret n°93-867 du 28 juin 1993 - art. 17 () JORF 29 juin 1993
 
 	**Cite**:
 
-	  - CODE DE PROCEDURE PENALE - art. 102 (M)
-	  - CODE DE PROCEDURE PENALE - art. 121 (M)
-	  - CODE DE PROCEDURE PENALE - art. 16-2 (V)
-	  - CODE DE PROCEDURE PENALE - art. 272 (M)
-	  - CODE DE PROCEDURE PENALE - art. 344 (M)
-	  - CODE DE PROCEDURE PENALE - art. 407 (M)
-	  - CODE DE PROCEDURE PENALE - art. 408 (M)
-	  - Code de procédure pénale 16-2, 102, 121, 272, 344, 407, 408, 443 et R100
+	  - Code de procédure pénale - art. 16-2 (V)
 
 
 ###### Article R242
 
 Il est dressé pour chaque affaire criminelle ou de police, un état de liquidation des frais autres que ceux qui sont à la
-charge de l'Etat sans recours envers les condamnés.
+charge de l'Etat sans recours envers les condamnés. 
 
 Au cours de l'instruction, cet état est dressé par le greffier d'instruction au fur et à mesure des frais comme il est dit à
-l'article 81, alinéa 2.
+l'article 81, alinéa 2. 
 
 Cette liquidation doit être insérée soit dans l'ordonnance, soit dans l'arrêt, le jugement ou l'ordonnance pénale qui
-prononce la condamnation aux frais.
+prononce la condamnation aux frais. 
 
 Lorsque cette insertion ne peut être faite, le juge décerne exécutoire contre qui de droit, au bas de l'état même de
 liquidation.
@@ -42091,43 +41807,13 @@ liquidation.
 
 	  - Décret n°59-318 1959-02-23
 
-	**Créé par**:
-
-	  - Décret n°59-318 1959-02-23 JORF 25 février 1959 en vigueur le 2 mars 1959 rectificatif JORF 13 juin 1959
-
 	**Modifié par**:
 
-	  - Décret n°72-630 1972-07-04 art. 8 JORF 9 juillet 1972
-	  - Décret n°74-88 1974-02-04 art. 1 JORF 6 février 1974
+	  - Décret n°93-867 du 28 juin 1993 - art. 12 () JORF 29 juin 1993
 
 	**Cite**:
 
-	  - Code de procédure pénale 81 al. 2
-
-
-###### Article R243
-
-Pour faciliter la liquidation, les officiers de police judiciaire et les juges d'instruction, aussitôt qu'ils ont terminé
-leurs fonctions relativement à chaque affaire, doivent joindre aux pièces un relevé des frais auxquels ont donné lieu les
-actes dont ils ont été chargés.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°59-318 1959-02-23
-
-	**Créé par**:
-
-	  - Décret n°59-318 1959-02-23 JORF 25 février 1959 en vigueur le 2 mars 1959 rectificatif JORF 13 juin 1959
-
-	**Modifié par**:
-
-	  - Décret n°74-88 1974-02-04 art. 1 JORF 6 février 1974
-
-	**Abrogé par**:
-
-	  - Décret n°93-867 du 28 juin 1993 - art. 20 (V) JORF 29 juin 1993
+	  - Code de procédure pénale - art. 81 (V)
 
 
 ###### Article R244
@@ -42142,120 +41828,12 @@ copie de l'état de liquidation rendu exécutoire.
 
 	  - Décret n°59-318 1959-02-23
 
-	**Créé par**:
-
-	  - Décret n°59-318 1959-02-23 JORF 25 février 1959 en vigueur le 2 mars 1959 rectificatif JORF 13 juin 1959
-
 	**Modifié par**:
 
-	  - Décret n°74-88 1974-02-04 art. 1 JORF 6 février 1974
+	  - Décret n°93-867 du 28 juin 1993 - art. 12 () JORF 29 juin 1993
 
 
-##### Paragraphe 2 : Personnes contre lesquelles le recouvrement des frais peut être poursuivi
-
-###### Article R245
-
-Conformément aux articles 366, 473 à 477, 514, 543 et 549 du Code de procédure pénale et 55 du Code pénal, tout arrêt, tout
-jugement ou toute ordonnance pénale de condamnation doit assujettir au remboursement des frais les condamnés et les personnes
-civilement responsables.
-
-Au cas où l'annulation d'une procédure est fondée sur une nullité qui n'est le fait du condamné ou des personnes civilement
-responsables, ceux-ci ne peuvent être tenus des frais nécessités par cette procédure.
-
-Le juge peut ne pas mettre à la charge de la partie qui succombe, quelle qu'elle soit, les frais qu'il déclare frustratoires.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°59-318 1959-02-23
-
-	**Créé par**:
-
-	  - Décret n°59-318 1959-02-23 JORF 25 février 1959 en vigueur le 2 mars 1959 rectificatif JORF 13 juin 1959
-
-	**Modifié par**:
-
-	  - Décret n°72-630 1972-07-04 art. 9 JORF 9 juillet 1972
-	  - Décret n°74-88 1974-02-04 art. 1 JORF 6 février 1974
-	  - Décret n°77-193 1977-03-03 art. 6 JORF 5 mars 1977
-
-	**Abrogé par**:
-
-	  - Décret n°93-867 du 28 juin 1993 - art. 20 (V) JORF 29 juin 1993
-
-	**Cite**:
-
-	  - Code pénal 55
-	  - CODE DE PROCEDURE PENALE - art. 366 (M)
-	  - CODE DE PROCEDURE PENALE - art. 514 (M)
-	  - Code de procédure pénale 366, 473 à 477, 514, 543 et 549
-
-
-###### Article R246
-
-En matière criminelle, correctionnelle et de police, et sans préjudice des dispositions de l'article 177, alinéa 4, la partie
-civile qui n'a pas succombé n'est jamais tenue des frais, sauf de ceux occasionnés par elle et qui ont été déclarés
-frustratoires.
-
-Le montant de la consignation par elle effectuée lui est restitué dans les conditions prévues aux articles R239 et R240.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°59-318 1959-02-23
-
-	**Créé par**:
-
-	  - Décret n°59-318 1959-02-23 JORF 25 février 1959 en vigueur le 2 mars 1959 rectificatif JORF 13 juin 1959
-
-	**Modifié par**:
-
-	  - Décret n°74-88 1974-02-04 art. 1 JORF 6 février 1974
-
-	**Abrogé par**:
-
-	  - Décret n°93-867 du 28 juin 1993 - art. 20 (V) JORF 29 juin 1993
-
-	**Cite**:
-
-	  - Code de procédure pénale 177 al. 4, R239 et R240
-
-
-###### Article R247
-
-Sont assimilés aux parties civiles, sauf en ce qui concerne la consignation préalable :
-
-1° Toute administration publique, relativement aux procès suivis, soit à sa requête, soit d'office et dans son intérêt ;
-
-2° Les départements, les communes et les établissements publics dans les procès instruits à leur requête ou d'office pour les
-délits commis contre leurs domaines publics ou privés.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°59-318 1959-02-23
-
-	**Créé par**:
-
-	  - Décret n°59-318 1959-02-23 JORF 25 février 1959 en vigueur le 2 mars 1959 rectificatif JORF 13 juin 1959
-
-	**Modifié par**:
-
-	  - Décret n°74-88 1974-02-04 art. 1 JORF 6 février 1974
-
-	**Abrogé par**:
-
-	  - Décret n°93-867 du 28 juin 1993 - art. 20 (V) JORF 29 juin 1993
-
-	**Cité par**:
-
-	  - CODE DE PROCEDURE PENALE - art. R199 (M)
-
-
-##### Paragraphe 3 : Régularisation des dépenses - Recouvrement
+##### Paragraphe 2 : Régularisation des dépenses - Recouvrement.
 
 ###### Article R249
 
@@ -42271,7 +41849,27 @@ s'il y a lieu.
 
 	**Modifié par**:
 
-	  - Décret n°88-600 du 6 mai 1988 - art. 17 () JORF 8 mai 1988 en vigueur le 1er octobre 1988
+	  - Décret n°93-867 du 28 juin 1993 - art. 12 () JORF 29 juin 1993
+	  - Décret n°93-867 du 28 juin 1993 - art. 14 () JORF 29 juin 1993
+	  - Décret n°93-867 du 28 juin 1993 - art. 16 () JORF 29 juin 1993
+
+
+##### Paragraphe 3 : Des extraits délivrés par les greffes.
+
+###### Article R249-1
+
+En matière criminelle, correctionnelle ou de police, les extraits sont établis par le greffe de la juridiction dont la
+décision est devenue définitive.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-318 1959-02-23
+
+	**Créé par**:
+
+	  - Décret n°93-867 du 28 juin 1993 - art. 19 () JORF 29 juin 1993
 
 
 ## Dispositions générales
