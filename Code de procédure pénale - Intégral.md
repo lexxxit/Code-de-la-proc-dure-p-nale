@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 1972-09-20
+Version Consolidée au 1972-10-14
 
 # Partie législative
 
@@ -26076,6 +26076,58 @@ nécessaires à l'exercice de leur défense.
 
 	  - CODE DE PROCEDURE PENALE - art. D74 (V)
 	  - Code de procédure pénale - art. D601 (V)
+
+	**Liens**:
+
+	  - TXT_SOURCE: Code de procédure pénale 714 à 728
+
+
+###### Article D518
+
+Les agents des services extérieurs de l'éducation surveillée et les assistants sociaux ou assistantes sociales relevant des
+juridictions pour enfants sont habilités à visiter les mineurs détenus dans les mêmes conditions que les visiteurs de prison.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-322 1959-02-23
+
+	**Modifié par**:
+
+	  - Décret n°72-852 1972-09-12 art. 1 JORF 20 septembre 1972 rectificatif JORF 14 octobre 1972
+
+	**Cité par**:
+
+	  - Décret n°2006-338 du 21 mars 2006 - art. 5 (V)
+	  - Décret n°2014-1277 du 23 octobre 2014 - art. (V)
+
+	**Liens**:
+
+	  - TXT_SOURCE: Code de procédure pénale 714 à 728
+
+
+###### Article D519
+
+Un quartier particulier est aménagé pour les détenus âgés de moins de vingt et un ans dans les maisons d'arrêt desservant les
+juridictions les plus importantes.
+
+Le juge de l'application des peines recueille l'avis du juge des enfants chaque fois qu'il exerce, à l'égard d'un mineur
+pénal, l'une des attributions qui lui sont conférées par l'article 722 du code de procédure pénale.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-322 1959-02-23
+
+	**Modifié par**:
+
+	  - Décret n°72-852 1972-09-12 art. 1 JORF 20 septembre 1972 rectificatif JORF 14 octobre 1972
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. 722 (M)
 
 	**Liens**:
 
