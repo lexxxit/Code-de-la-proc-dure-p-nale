@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 1993-08-11
+Version Consolidée au 1993-08-29
 
 # Partie législative
 
@@ -3834,9 +3834,6 @@ obligations de détention, de port et de présentation des titres et documents p
 d'identité révèle une infraction autre que celle de non-respect des obligations susvisées ne constitue pas une cause de
 nullité des procédures incidentes.
 
-La personne de nationalité étrangère dont l'identité est contrôlée en application des dispositions du présent article doit
-être en mesure de présenter les pièces ou documents sous le couvert desquels elle est autorisée à séjourner en France.
-
 **Liens relatifs à cet article**
 
 	**Cité par**:
@@ -3886,7 +3883,7 @@ La personne de nationalité étrangère dont l'identité est contrôlée en appl
 
 	**Modifié par**:
 
-	  - Loi n°93-992 du 10 août 1993 - art. 1 () JORF 11 août 1993
+	  - Loi n°93-1027 du 24 août 1993 - art. 34 () JORF 29 août 1993
 
 	**Cite**:
 
