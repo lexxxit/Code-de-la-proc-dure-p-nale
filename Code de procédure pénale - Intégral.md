@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 1994-01-01
+Version Consolidée au 1994-02-02
 
 # Partie législative
 
@@ -376,6 +376,24 @@ celle-ci est mineure, celui du titulaire de l'autorité parentale ou du représe
 	**Créé par**:
 
 	  - Loi n°93-2 du 4 janvier 1993 - art. 1 () JORF 5 janvier 1993
+
+
+###### Article 2-13
+
+Toute association régulièrement déclarée depuis au moins cinq ans à la date des faits et dont l'objet statutaire est la
+défense et la protection des animaux peut exercer les droits reconnus à la partie civile en ce qui concerne les infractions
+réprimant les sévices graves ou actes de cruauté et les mauvais traitements envers les animaux ainsi que les atteintes
+volontaires à la vie d'un animal prévus par le code pénal.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°57-1426 1957-12-31
+
+	**Modifié par**:
+
+	  - Loi n°94-89 du 1 février 1994 - art. 16 () JORF 2 février 1994 en vigueur le 2 février 1994
 
 
 ###### Article 3
@@ -804,6 +822,39 @@ La police judiciaire comprend :
 	  - Code général des collectivités territoriales - art. L2213-19 (VT)
 
 
+###### Article 15-1
+
+Les catégories de services ou unités dans lesquels les officiers et agents de police judiciaire visés aux sections II et III
+du présent chapitre exercent leurs fonctions habituelles, les modalités de création de ces services ou unités ainsi que leurs
+critères de compétence territoriale sont déterminés par décret en Conseil d'Etat pris sur le rapport du ministre de la
+justice et du ministre intéressé.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°57-1426 1957-12-31
+
+	**Créé par**:
+
+	  - Loi n°94-89 du 1 février 1994 - art. 1 () JORF 2 février 1994 en vigueur le 2 février 1994
+
+	**Cité par**:
+
+	  - Loi n°94-89 du 1 février 1994 - art. 4 (V)
+	  - Arrêté du 23 août 1995 - art. 2 (V)
+	  - Décret n°96-48 du 22 janvier 1996 - art. 2 (V)
+	  - Arrêté du 27 juin 2008 (V)
+	  - Décret n°2014-445 du 30 avril 2014 - art. 1 (VD)
+	  - CODE DE PROCEDURE PENALE - art. R15-19 (V)
+	  - CODE DE PROCEDURE PENALE - art. R15-21 (V)
+	  - CODE DE PROCEDURE PENALE - art. R15-22 (V)
+	  - CODE DE PROCEDURE PENALE - art. R15-23 (V)
+	  - CODE DE PROCEDURE PENALE - art. R15-24 (V)
+	  - CODE DE PROCEDURE PENALE - art. R15-27 (V)
+	  - Code de procédure pénale - art. 16 (VD)
+
+
 ##### Section 2 : Des officiers de police judiciaire
 
 ###### Article 16
@@ -812,13 +863,12 @@ Ont la qualité d'officier de police judiciaire :
 
 1° Les maires et leurs adjoints ;
 
-2° Les officiers et les gradés de la gendarmerie, les gendarmes comptant au moins cinq ans de service dans la gendarmerie,
+2° Les officiers et les gradés de la gendarmerie, les gendarmes comptant au moins quatre ans de service dans la gendarmerie,
 nominativement désignés par arrêté des ministres de la justice et des armées, après avis conforme d'une commission ;
 
 3° Les inspecteurs généraux, les sous-directeurs de police active, les contrôleurs généraux, les commissaires de police ; les
-fonctionnaires du corps des inspecteurs de police de la police nationale comptant au moins deux ans de services effectifs
-dans ce corps en qualité de titulaires, nominativement désignés par arrêté des ministres de la justice et de l'intérieur,
-après avis conforme d'une commission.
+fonctionnaires du corps des inspecteurs de police de la police nationale titulaires, nominativement désignés par arrêté des
+ministres de la justice et de l'intérieur, après avis conforme d'une commission.
 
 La composition des commissions prévues aux 2° et 3° sera déterminée par un décret en Conseil d'Etat pris sur le rapport du
 ministre de la justice et des ministres intéressés.
@@ -906,14 +956,6 @@ alinéa sont fixées par décret en Conseil d'Etat pris sur le rapport du minist
 
 	  - Loi n°57-1426 1957-12-31
 
-	**Modifié par**:
-
-	  - Loi n°66-493 1966-07-09 art. 1 JORF 10 juillet 1966
-	  - Loi n°72-1226 1972-12-29 art. 17 JORF 30 décembre 1972
-	  - Loi n°75-701 1975-08-06 art. 20 JORF 7 août 1975
-	  - Loi n°78-788 1978-07-28 art. 2 JORF 29 juillet 1978
-	  - Loi n°85-1196 1985-11-18 art. 1 et 8 JORF 19 novembre 1985 en vigueur le 1er janvier 1986
-
 	**Liens**:
 
 	  - SPEC_APPLI: Loi n°85-1196 1985-11-18 art. 8
@@ -921,6 +963,10 @@ alinéa sont fixées par décret en Conseil d'Etat pris sur le rapport du minist
 	  - TXT_SOURCE: CODE DE PROCEDURE PENALE - art. R1-1 (V)
 	  - TXT_SOURCE: CODE DE PROCEDURE PENALE - art. R2 (V)
 	  - TXT_SOURCE: CODE DE PROCEDURE PENALE - art. R2-1 (V)
+
+	**Modifié par**:
+
+	  - Loi n°94-89 du 1 février 1994 - art. 2 () JORF 2 février 1994 en vigueur le 2 février 1994
 
 
 ###### Article 16-1
@@ -1058,9 +1104,6 @@ Ils ont le droit de requérir directement le concours de la force publique pour 
 ###### Article 18
 
 Les officiers de police judiciaire ont compétence dans les limites territoriales où ils exercent leurs fonctions habituelles.
-Dans les circonscriptions urbaines divisées en commissariats subdivisionnaires ou en bureaux de police, les officiers de
-police judiciaire qui exercent leurs fonctions habituelles dans l'un d'entre eux ont compétence sur toute l'étendue de la
-circonscription.
 
 Les officiers de police judiciaire qui n'exercent pas leurs fonctions habituelles dans l'ensemble du ressort du tribunal de
 grande instance auquel ils sont rattachés peuvent, en cas d'urgence ou de crime ou délit flagrant, opérer dans toute
@@ -1070,13 +1113,13 @@ saisies.
 En cas de crime ou délit flagrant, les officiers de police judiciaire peuvent se transporter dans le ressort des tribunaux de
 grande instance limitrophes du tribunal ou des tribunaux auxquels ils sont rattachés, à l'effet d'y poursuivre leurs
 investigations et de procéder à des auditions, perquisitions et saisies. Pour l'application du présent alinéa, les ressorts
-des tribunaux de grande instance de Paris, Nanterre, Bobigny et Créteil sont considérés comme un seul et même ressort.
+des tribunaux de grande instance de Paris, Nanterre, Bobigny et Créteil sont considérés comme un seul et même ressort. 
 
 En cas d'urgence, les officiers de police judiciaire peuvent, sur commission rogatoire expresse du juge d'instruction ou sur
-réquisitions du procureur de la République prises au cours d'une enquête de flagrant délit, procéder aux opérations
-prescrites par ces magistrats sur toute l'étendue du territoire national. Ils doivent être assistés d'un officier de police
-judiciaire exerçant ses fonctions dans la circonscription intéressée. Le procureur de la République territorialement
-compétent en est informé par le magistrat ayant prescrit l'opération.
+réquisitions du procureur de la République, prises au cours d'une enquête préliminaire ou d'une enquête de flagrance,
+procéder aux opérations prescrites par ces magistrats sur toute l'étendue du territoire national. Ils doivent être assistés
+d'un officier de police judiciaire exerçant ses fonctions dans la circonscription intéressée. Le procureur de la République
+territorialement compétent en est informé par le magistrat ayant prescrit l'opération.
 
 Ils peuvent, sur proposition des autorités administratives dont ils dépendent et par habilitation du procureur général,
 recevoir compétence dans les limites territoriales de la circonscription des officiers de police judiciaire qu'ils sont
@@ -1088,18 +1131,13 @@ appelés à suppléer en cas de besoin.
 
 	  - Loi n°57-1426 1957-12-31
 
-	**Modifié par**:
-
-	  - Ordonnance n°58-1296 du 23 décembre 1958 - art. 1 () JORF 24 décembre 1958 en vigueur le 2 mars 1959
-	  - Ordonnance 60-529 1960-06-04 art. 2 JORF 8 juin 1960
-	  - Loi n°72-1226 1972-12-29 art. 18 JORF 30 décembre 1972
-	  - Loi n°75-285 1975-04-24 art. 2 JORF 25 avril 1975
-	  - Loi n°78-788 1978-07-28 art. 3 JORF 29 juillet 1978
-	  - Loi n°85-1196 1985-11-18 art. 2 et 8 JORF 19 novembre 1985 en vigueur le 1er janvier 1986
-
 	**Liens**:
 
 	  - SPEC_APPLI: Loi n°85-1196 1985-11-18 art. 8
+
+	**Modifié par**:
+
+	  - Loi n°94-89 du 1 février 1994 - art. 3 () JORF 2 février 1994 en vigueur le 2 février 1994
 
 	**Cité par**:
 
@@ -3231,6 +3269,9 @@ application des dispositions de l'alinéa précédent.
 [Dispositions déclarées non conformes à la Constitution par décision du Conseil constitutionnel n° 93-326 DC du 11 août
 1993.]
 
+Le délai mentionné au premier alinéa est porté à soixante-douze heures lorsque la garde à vue est soumise à des règles
+particulières de prolongation.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
@@ -3259,11 +3300,11 @@ application des dispositions de l'alinéa précédent.
 
 	**Modifié par**:
 
-	  - Loi n°93-1013 1993-08-24 art. 3 JORF 25 août 1993 en vigueur le 2 septembre 1993
+	  - Loi n°94-89 du 1 février 1994 - art. 10 () JORF 2 février 1994
 
 	**Cite**:
 
-	  - Code pénal 265, 266, 257-3, 384, 435, 334 à 335, 400
+	  - Code pénal 265, 266, 334 à 335, 400, 257-3, 384, 435
 
 
 ###### Article 64
@@ -4386,6 +4427,52 @@ réception de la demande, qui doit être formée conformément aux dispositions 
 	**Cite**:
 
 	  - CODE DE PROCEDURE PENALE - art. 81 (M)
+
+
+###### Article 83
+
+Lorsqu'il existe dans un tribunal plusieurs juges d'instruction, le président du tribunal ou, en cas d'empêchement, le
+magistrat qui le remplace, désigne, pour chaque information, le juge qui en sera chargé. Il peut établir, à cette fin, un
+tableau de roulement.
+
+Lorsque la gravité ou la complexité de l'affaire le justifie, le président du tribunal ou, en cas d'empêchement, le magistrat
+qui le remplace peut adjoindre au juge d'instruction chargé de l'information un ou plusieurs juges d'instruction qu'il
+désigne, soit dès l'ouverture de l'information, soit sur la demande du juge chargé de l'information, à tout moment de la
+procédure.
+
+Le juge chargé de l'information coordonne le déroulement de celle-ci ; il a seul qualité pour statuer en matière de détention
+provisoire et pour rendre l'ordonnance de règlement.
+
+Les désignations prévues au présent article sont des mesures d'administration judiciaire non susceptibles de recours.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°57-1426 1957-12-31
+
+	**Modifié par**:
+
+	  - Loi n°94-89 du 1 février 1994 - art. 17 () JORF 2 février 1994 en vigueur le 2 février 1994
+
+	**Cité par**:
+
+	  - Décret n°2008-54 du 16 janvier 2008 - art. 6 (V)
+	  - Loi n°2016-1547 du 18 novembre 2016 - art. 25 (V)
+	  - CODE DE PROCEDURE PENALE - art. 680 (Ab)
+	  - CODE DE PROCEDURE PENALE - art. 706 (Ab)
+	  - CODE DE PROCEDURE PENALE - art. 706-1 (Ab)
+	  - CODE DE PROCEDURE PENALE - art. 706-17 (AbD)
+	  - CODE DE PROCEDURE PENALE - art. 80 (M)
+	  - CODE DE PROCEDURE PENALE - art. 84 (AbD)
+	  - CODE DE PROCEDURE PENALE - art. D15-4-5 (VD)
+	  - Code de procédure pénale - art. 388-5 (V)
+	  - Code de procédure pénale - art. 72 (V)
+	  - Code de procédure pénale - art. 73 (VD)
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. 137-1 (Ab)
 
 
 ###### Article 83-1
@@ -6715,6 +6802,27 @@ deux parties de ce cautionnement.
 	  - Loi n°93-2 du 4 janvier 1993 - art. 124 () JORF 5 janvier 1993 en vigueur le 1er mars 1993
 
 
+###### Article 142-1
+
+Le juge d'instruction peut, avec le consentement de la personne mise en examen, ordonner, ou décider, que la partie du
+cautionnement affectée à la garantie des droits de la victime ou du créancier d'une dette alimentaire soit versée à ceux-ci
+par provision, sur leur demande.
+
+Ce versement peut aussi être ordonné, ou décidé, même sans le consentement de la personne mise en examen, lorsqu'une décision
+de justice exécutoire a accordé à la victime ou au créancier une provision à l'occasion des faits qui sont l'objet des
+poursuites.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°57-1426 1957-12-31
+
+	**Modifié par**:
+
+	  - Loi n°94-89 du 1 février 1994 - art. 17 () JORF 2 février 1994 en vigueur le 2 février 1994
+
+
 ###### Article 142-2
 
 La première partie du cautionnement est restituée si la personne mise en examen, le prévenu ou l'accusé s'est présenté à tous
@@ -7454,6 +7562,66 @@ parties civiles ou de la personne bénéficiant des dispositions de l'article 10
 	  - CODE DE PROCEDURE PENALE - art. 81 (M)
 	  - Code de procédure pénale - art. 28-1 (V)
 	  - Code de procédure pénale - art. 28-2 (V)
+
+	**Liens**:
+
+	  - TXT_SOURCE: CODE DE PROCEDURE PENALE - art. D33 (V)
+	  - TXT_SOURCE: CODE DE PROCEDURE PENALE - art. D34 (V)
+	  - TXT_SOURCE: CODE DE PROCEDURE PENALE - art. D35 (V)
+	  - TXT_SOURCE: CODE DE PROCEDURE PENALE - art. D36 (M)
+
+
+###### Article 154
+
+Lorsque l'officier de police judiciaire est amené, pour les nécessités de l'exécution de la commission rogatoire, à garder
+une personne à sa disposition, il en informe dans les meilleurs délais le juge d'instruction saisi des faits, qui contrôle la
+mesure de garde à vue. Il ne peut retenir cette personne plus de vingt-quatre heures.
+
+La personne doit être présentée avant l'expiration du délai de vingt-quatre heures à ce magistrat ou, si la commission
+rogatoire est exécutée dans un autre ressort que celui de son siège, au juge d'instruction du lieu d'exécution de la mesure.
+A l'issue de cette présentation, le juge d'instruction peut accorder l'autorisation écrite de prolonger la mesure d'un
+nouveau délai, sans que celui-ci puisse excéder vingt-quatre heures. Il peut, à titre exceptionnel, accorder cette
+autorisation par décision écrite et motivée sans présentation préalable de la personne.
+
+Pour l'application du présent article, les ressorts des tribunaux de grande instance de Paris, Nanterre, Bobigny et Créteil
+constituent un seul et même ressort.
+
+Les dispositions des articles 63-1, 63-2, 63-3, 63-4, 64 et 65 sont applicables aux gardes à vue exécutées dans le cadre de
+la présente section. Les pouvoirs conférés au procureur de la République par les articles 63-2 et 63-3 sont alors exercés par
+le juge d'instruction. Le deuxième alinéa de l'article 63 est également applicable en matière de commission rogatoire.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°57-1426 1957-12-31
+
+	**Cité par**:
+
+	  - Loi n°83-520 du 27 juin 1983 - art. 12 (V)
+	  - CODE DE PROCEDURE PENALE - art. 171 (M)
+	  - CODE DE PROCEDURE PENALE - art. 706-29 (Ab)
+	  - CODE DE PROCEDURE PENALE - art. 812 (V)
+	  - Code de justice militaire - art. 87 (Ab)
+	  - Code de justice militaire. - art. L211-8 (VD)
+	  - Code de la santé publique - art. L627-1 (Ab)
+	  - Code de procédure pénale - art. 135-1 (V)
+	  - Code de procédure pénale - art. 153 (V)
+	  - Code de procédure pénale - art. 706-88 (VD)
+
+	**Modifié par**:
+
+	  - Loi n°94-89 du 1 février 1994 - art. 19 () JORF 2 février 1994 en vigueur le 2 février 1994
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. 63 (M)
+	  - CODE DE PROCEDURE PENALE - art. 63-1 (Ab)
+	  - CODE DE PROCEDURE PENALE - art. 63-2 (M)
+	  - CODE DE PROCEDURE PENALE - art. 63-3 (M)
+	  - CODE DE PROCEDURE PENALE - art. 63-4 (M)
+	  - CODE DE PROCEDURE PENALE - art. 64 (M)
+	  - CODE DE PROCEDURE PENALE - art. 65 (M)
 
 	**Liens**:
 
@@ -8844,7 +9012,7 @@ distraits par une ordonnance comportant non-lieu partiel, disjonction ou renvoi 
 police.
 
 Elle peut statuer sans ordonner une nouvelle information si les chefs de poursuite visés à l'alinéa précédent ont été compris
-dans la notification des charges faite par le juge d'instruction.
+dans les faits pour lesquels la personne à été mise en examen par le juge d'instruction.
 
 **Liens relatifs à cet article**
 
@@ -8854,8 +9022,7 @@ dans la notification des charges faite par le juge d'instruction.
 
 	**Modifié par**:
 
-	  - Ordonnance n°58-1296 du 23 décembre 1958 - art. 1 () JORF 24 décembre 1958
-	  - Loi n°93-2 du 4 janvier 1993 - art. 194 () JORF 5 janvier 1993 en vigueur le 1er mars 1993
+	  - Loi n°94-89 du 1 février 1994 - art. 17 () JORF 2 février 1994 en vigueur le 2 février 1994
 
 	**Cité par**:
 
@@ -9139,52 +9306,6 @@ chambre d'accusation.
 	  - CODE DE PROCEDURE PENALE - art. 137 (M)
 
 
-###### Article 83
-
-Lorsqu'il existe dans un tribunal plusieurs juges d'instruction, le président du tribunal ou, en cas d'empêchement, le
-magistrat qui le remplace, désigne, pour chaque information, le juge qui en sera chargé. Il peut établir, à cette fin, un
-tableau de roulement.
-
-Lorsque la gravité ou la complexité de l'affaire le justifie, le président du tribunal ou, en cas d'empêchement, le magistrat
-qui le remplace peut adjoindre au juge d'instruction chargé de l'information un ou plusieurs juges d'instruction qu'il
-désigne, soit dès l'ouverture de l'information, soit sur la demande du juge chargé de l'information, à tout moment de la
-procédure.
-
-Le juge chargé de l'information coordonne le déroulement de celle-ci ; il a seul qualité pour saisir la chambre prévue par
-l'article 137-1 et pour rendre l'ordonnance de règlement.
-
-Les désignations prévues au présent article sont des mesures d'administration judiciaire non susceptibles de recours.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°57-1426 1957-12-31
-
-	**Modifié par**:
-
-	  - Loi n°93-1013 1993-08-24 art. 35 JORF 25 août 1993 en vigueur le 2 septembre 1993
-
-	**Cité par**:
-
-	  - Décret n°2008-54 du 16 janvier 2008 - art. 6 (V)
-	  - Loi n°2016-1547 du 18 novembre 2016 - art. 25 (V)
-	  - CODE DE PROCEDURE PENALE - art. 680 (Ab)
-	  - CODE DE PROCEDURE PENALE - art. 706 (Ab)
-	  - CODE DE PROCEDURE PENALE - art. 706-1 (Ab)
-	  - CODE DE PROCEDURE PENALE - art. 706-17 (AbD)
-	  - CODE DE PROCEDURE PENALE - art. 80 (M)
-	  - CODE DE PROCEDURE PENALE - art. 84 (AbD)
-	  - CODE DE PROCEDURE PENALE - art. D15-4-5 (VD)
-	  - Code de procédure pénale - art. 388-5 (V)
-	  - Code de procédure pénale - art. 72 (V)
-	  - Code de procédure pénale - art. 73 (VD)
-
-	**Cite**:
-
-	  - CODE DE PROCEDURE PENALE - art. 137-1 (Ab)
-
-
 ##### Section 3 : Des transports, des perquisitions, des saisies et des interceptions de correspondances émises par la voie des télécommunications
 
 ##### Sous-section 1 : Des transports, des perquisitions et des saisies
@@ -9312,31 +9433,6 @@ copie de tout ou partie des pièces et actes du dossier pour leur usage exclusif
 ##### Section 7 : Du contrôle judiciaire et de la détention provisoire
 
 ##### Sous-section 1 : Du contrôle judiciaire
-
-###### Article 142-1
-
-Le juge d'instruction ou la chambre prévue par l'article 137-1 peut, avec le consentement de la personne mise en examen,
-ordonner, ou décider, que la partie du cautionnement affectée à la garantie des droits de la victime ou du créancier d'une
-dette alimentaire soit versée à ceux-ci par provision, sur leur demande.
-
-Ce versement peut aussi être ordonné, ou décidé, même sans le consentement de la personne mise en examen, lorsqu'une décision
-de justice exécutoire a accordé à la victime ou au créancier une provision à l'occasion des faits qui sont l'objet des
-poursuites.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°57-1426 1957-12-31
-
-	**Modifié par**:
-
-	  - Loi n°93-2 du 4 janvier 1993 - art. 181 () JORF 5 janvier 1993 en vigueur le 1er janvier 1994
-
-	**Cite**:
-
-	  - CODE DE PROCEDURE PENALE - art. 137-1 (Ab)
-
 
 ###### Article 144
 
@@ -9617,65 +9713,6 @@ force publique et prendre contre lui les sanctions prévues à l'article 109, al
 	**Cite**:
 
 	  - Code de procédure pénale 109 al. 2 et 3
-
-
-###### Article 154
-
-Lorsque l'officier de police judiciaire est amené, pour les nécessités de l'exécution de la commission rogatoire, à garder
-une personne à sa disposition, il en informe dans les meilleurs délais le juge d'instruction saisi des faits, qui contrôle la
-mesure de garde à vue. Il ne peut retenir cette personne plus de vingt-quatre heures.
-
-La personne doit être présentée avant l'expiration du délai de vingt-quatre heures à ce magistrat ou, si la commission
-rogatoire est exécutée dans un autre ressort que celui de son siège, au juge d'instruction du lieu d'exécution de la mesure.
-A l'issue de cette présentation, le juge d'instruction peut accorder l'autorisation écrite de prolonger la mesure d'un
-nouveau délai, sans que celui-ci puisse excéder vingt-quatre heures. Il peut, à titre exceptionnel, accorder cette
-autorisation par décision écrite et motivée sans présentation préalable de la personne.
-
-Pour l'application du présent article, les ressorts des tribunaux de grande instance de Paris, Nanterre, Bobigny et Créteil
-constituent un seul et même ressort.
-
-Les dispositions des articles 63-1, 63-2, 63-3, 63-4, 64 et 65 sont applicables aux gardes à vue exécutées dans le cadre de
-la présente section. Les pouvoirs conférés au procureur de la République par les articles 63-2 et 63-3 sont alors exercés par
-le juge d'instruction.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°57-1426 1957-12-31
-
-	**Cité par**:
-
-	  - Loi n°83-520 du 27 juin 1983 - art. 12 (V)
-	  - CODE DE PROCEDURE PENALE - art. 171 (M)
-	  - CODE DE PROCEDURE PENALE - art. 706-29 (Ab)
-	  - CODE DE PROCEDURE PENALE - art. 812 (V)
-	  - Code de justice militaire - art. 87 (Ab)
-	  - Code de justice militaire. - art. L211-8 (VD)
-	  - Code de la santé publique - art. L627-1 (Ab)
-	  - Code de procédure pénale - art. 135-1 (V)
-	  - Code de procédure pénale - art. 153 (V)
-	  - Code de procédure pénale - art. 706-88 (VD)
-
-	**Modifié par**:
-
-	  - Loi n°93-1013 1993-08-24 art. 5 JORF 25 août 1993 en vigueur le 2 septembre 1993
-
-	**Cite**:
-
-	  - CODE DE PROCEDURE PENALE - art. 63-1 (Ab)
-	  - CODE DE PROCEDURE PENALE - art. 63-2 (M)
-	  - CODE DE PROCEDURE PENALE - art. 63-3 (M)
-	  - CODE DE PROCEDURE PENALE - art. 63-4 (M)
-	  - CODE DE PROCEDURE PENALE - art. 64 (M)
-	  - CODE DE PROCEDURE PENALE - art. 65 (M)
-
-	**Liens**:
-
-	  - TXT_SOURCE: CODE DE PROCEDURE PENALE - art. D33 (V)
-	  - TXT_SOURCE: CODE DE PROCEDURE PENALE - art. D34 (V)
-	  - TXT_SOURCE: CODE DE PROCEDURE PENALE - art. D35 (V)
-	  - TXT_SOURCE: CODE DE PROCEDURE PENALE - art. D36 (M)
 
 
 ##### Section 12 : De l'appel des ordonnances du juge d'instruction
@@ -10222,8 +10259,8 @@ Si la chambre d'accusation estime que les faits ne constituent ni crime, ni dél
 inconnu ou s'il n'existe pas de charges suffisantes contre la personne mise en examen, elle déclare qu'il n'y a lieu à
 suivre.
 
-Les personnes mise en examen sont déclarées hors de cause et, si elles sont détenues provisoirement, mises en liberté.
-L'arrêt met fin au contrôle judiciaire.
+Les personnes mises en examen qui sont provisoirement détenues sont remises en liberté. L'arrêt met fin au contrôle
+judiciaire.
 
 La chambre d'accusation statue par le même arrêt sur la restitution des objets placés sous main de justice. Elle peut refuser
 la restitution lorsque celle-ci présente un danger pour les personnes ou les biens.
@@ -10236,7 +10273,7 @@ la restitution lorsque celle-ci présente un danger pour les personnes ou les bi
 
 	**Modifié par**:
 
-	  - Loi n°93-2 du 4 janvier 1993 - art. 197 () JORF 5 janvier 1993 en vigueur le 1er mars 1993
+	  - Loi n°94-89 du 1 février 1994 - art. 17 () JORF 2 février 1994 en vigueur le 2 février 1994
 
 
 ###### Article 215
@@ -12151,8 +12188,8 @@ signifiés dans les mêmes conditions.
 L'exploit de signification doit mentionner les nom, prénoms, professions et résidence de ces témoins ou experts.
 
 Les citations faites à la requête des parties sont à leurs frais, ainsi que les indemnités des témoins cités, s'ils en
-requièrent, sauf au ministère public à faire citer, à sa requête les témoins qui lui sont indiqués par l'accusé, dans le cas
-où il juge que leur déclaration peut être utile pour la découverte de la vérité.
+requièrent. Toutefois, le ministère public est tenu de citer à sa requête les témoins, dont la liste lui a été communiquée
+par les parties, cinq jours au moins avant l'ouverture des débats ; cette liste ne peut comporter plus de cinq noms.
 
 **Liens relatifs à cet article**
 
@@ -12165,6 +12202,10 @@ où il juge que leur déclaration peut être utile pour la découverte de la vé
 
 	  - Ordonnance 58-1296 1958-12-23
 
+	**Modifié par**:
+
+	  - Loi n°94-89 du 1 février 1994 - art. 21 () JORF 2 février 1994 en vigueur le 2 février 1994
+
 	**Cité par**:
 
 	  - Code de procédure pénale - art. 324 (V)
@@ -12174,11 +12215,10 @@ où il juge que leur déclaration peut être utile pour la découverte de la vé
 ###### Article 282
 
 La liste des jurés de session telle qu'elle a été arrêtée conformément aux prescriptions de l'article 266 est signifiée à
-chaque accusé au plus tard l'avant-veille de l'ouverture des débats.
+chaque accusé au plus tard l'avant-veille de l'ouverture des débats. 
 
 Cette liste doit contenir des indications suffisantes pour permettre l'identification des jurés, à l'exception de celles
-concernant leur domicile ou résidence. Toutefois, ces dernières indications doivent être communiquées à l'avocat de chacun
-des accusés dès qu'il en ferait la demande.
+concernant leur domicile ou résidence.
 
 **Liens relatifs à cet article**
 
@@ -12188,16 +12228,16 @@ des accusés dès qu'il en ferait la demande.
 
 	**Modifié par**:
 
-	  - Loi n°93-2 du 4 janvier 1993 - art. 224 () JORF 5 janvier 1993 en vigueur le 1er mars 1993
-
-	**Cite**:
-
-	  - CODE DE PROCEDURE PENALE - art. 266 (M)
+	  - Loi n°94-89 du 1 février 1994 - art. 22 () JORF 2 février 1994 en vigueur le 2 février 1994
 
 	**Cité par**:
 
 	  - CODE DE PROCEDURE PENALE - art. 706-1 (M)
 	  - Code de procédure pénale - art. 698-6 (V)
+
+	**Cite**:
+
+	  - Code de procédure pénale - art. 266 (V)
 
 
 ##### Section 2 : Des actes facultatifs ou exceptionnels
@@ -15467,7 +15507,8 @@ placer ou maintenir le prévenu sous contrôle judiciaire. Cette décision est e
 
 Dans les cas prévus par les articles 395 et suivants, le tribunal peut également placer ou maintenir le prévenu en détention
 provisoire par décision spécialement motivée. La décision prescrivant la détention est rendue suivant les modalités prévues
-par les articles 135, 145, huitième alinéa, 145-1, quatrième alinéa et 464-1. Elle est exécutoire par provision.
+par les articles 135, 145, alinéa premier, 145-1, quatrième alinéa et 464-1 et est motivée par référence aux dispositions des
+1. et 2. de l'article 144. Elle est exécutoire par provision.
 
 Lorsque le prévenu est en détention provisoire, le jugement au fond doit être rendu dans les deux mois qui suivent le jour de
 sa première comparution devant le tribunal. Faute de décision au fond à l'expiration de ce délai, il est mis fin à la
@@ -15481,12 +15522,13 @@ détention provisoire. Le prévenu, s'il n'est pas détenu pour autre cause, est
 
 	**Modifié par**:
 
-	  - Loi n°93-2 du 4 janvier 1993 - art. 206 () JORF 5 janvier 1993 en vigueur le 1er mars 1993
+	  - Loi n°94-89 du 1 février 1994 - art. 17 () JORF 2 février 1994 en vigueur le 2 février 1994
 
 	**Cite**:
 
 	  - CODE DE PROCEDURE PENALE - art. 135 (M)
 	  - CODE DE PROCEDURE PENALE - art. 141-1 (AbD)
+	  - CODE DE PROCEDURE PENALE - art. 144 (M)
 	  - CODE DE PROCEDURE PENALE - art. 145 (MMN)
 	  - CODE DE PROCEDURE PENALE - art. 145-1 (M)
 	  - CODE DE PROCEDURE PENALE - art. 395 (M)
@@ -20424,7 +20466,7 @@ Il indique l'infraction poursuivie et vise le texte de loi qui la réprime.
 
 ###### Article 533
 
-Les articles 388-1, 388-2, 388-3 et 390 à 392 sont applicables devant le tribunal de police.
+Les articles 388-1, 388-2, 388-3 et 390 à 392-1 sont applicables devant le tribunal de police.
 
 **Liens relatifs à cet article**
 
@@ -20434,11 +20476,11 @@ Les articles 388-1, 388-2, 388-3 et 390 à 392 sont applicables devant le tribun
 
 	**Modifié par**:
 
-	  - Loi n°93-2 du 4 janvier 1993 - art. 79 () JORF 5 janvier 1993 en vigueur le 1er mars 1993
+	  - Loi n°94-89 du 1 février 1994 - art. 17 () JORF 2 février 1994 en vigueur le 2 février 1994
 
 	**Cite**:
 
-	  - Code de procédure pénale 388-1 à 388-3, 390 à 392
+	  - Code de procédure pénale 388-1 à 388-3, 390 à 392-1
 
 
 #### Chapitre IV : De l'instruction définitive devant le tribunal de police
