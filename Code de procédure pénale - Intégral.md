@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 1986-01-01
+Version Consolidée au 1986-02-01
 
 # Partie législative
 
@@ -1798,6 +1798,84 @@ conditions fixées par l'article 45 du présent code.
 	  - Code rural 446
 
 
+###### Article 40
+
+Le procureur de la République reçoit les plaintes et les dénonciations et apprécie la suite à leur donner. Il avise le
+plaignant du classement de l'affaire ainsi que la victime lorsque celle-ci est identifiée.
+
+Toute autorité constituée, tout officier public ou fonctionnaire qui, dans l'exercice de ses fonctions, acquiert la
+connaissance d'un crime ou d'un délit est tenu d'en donner avis sans délai au procureur de la République et de transmettre à
+ce magistrat tous les renseignements, procès-verbaux et actes qui y sont relatifs.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Loi n°51-711 du 7 juin 1951 - art. 6 (V)
+	  - Loi n°51-711 du 7 juin 1951 - art. 7 bis (V)
+	  - Loi n°78-17 du 6 janvier 1978 - art. 11 (V)
+	  - Loi n°78-17 du 6 janvier 1978 - art. 21 (M)
+	  - Loi n°90-614 du 12 juillet 1990 - art. 16 (Ab)
+	  - Loi n°91-646 du 10 juillet 1991 - art. 10 (VT)
+	  - Loi n°91-646 du 10 juillet 1991 - art. 17 (VT)
+	  - Décret n°97-213 du 11 mars 1997 - art. 5 (Ab)
+	  - Décret n°2000-426 du 19 mai 2000 - art. 2 (Ab)
+	  - Loi n°2000-494 du 6 juin 2000 - art. 8 (VT)
+	  - Décret n°2002-579 du 24 avril 2002 - art. 2 (Ab)
+	  - Décret n°2002-580 du 24 avril 2002 - art. 2 (Ab)
+	  - Décret n°2003-497 du 10 juin 2003 - art. 4 (Ab)
+	  - Loi n°2007-1545 du 30 octobre 2007 - art. 9 (V)
+	  - Arrêté du 8 juin 2009 - art. Annexe (Ab)
+	  - Ordonnance n°2009-901 du 24 juillet 2009 - art.
+	  - Arrêté du 13 mai 2013 - art. Annexe I (VD)
+	  - Loi n°2016-1321 du 7 octobre 2016 - art. 47
+	  - CODE DE PROCEDURE PENALE - art. D281. (V)
+	  - Code de justice militaire - art. 80 (Ab)
+	  - Code de justice militaire. - art. L211-1 (VD)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. L722-3 (V)
+	  - Code de la défense. - art. L2321-4 (V)
+	  - Code de la santé publique - art. D3632-46 (Ab)
+	  - Code de la sécurité intérieure - art. L132-2 (VD)
+	  - Code de la sécurité intérieure - art. L132-3 (VD)
+	  - Code de la sécurité intérieure - art. L242-8 (Ab)
+	  - Code de la sécurité intérieure - art. L243-11 (Ab)
+	  - Code de la sécurité intérieure - art. L811-2 (V)
+	  - Code de procédure pénale - art. 40-1 (V)
+	  - Code de procédure pénale - art. 40-2 (V)
+	  - Code de procédure pénale - art. 727-1 (M)
+	  - Code de procédure pénale - art. D8-2 (V)
+	  - Code des communes de la Nouvelle-Calédonie - art. L122-7-1 (V)
+	  - Code des juridictions financières - art. L314-18 (VT)
+	  - Code des marchés publics - art. 122 (VT)
+	  - Code des marchés publics - art. 123 (Ab)
+	  - Code des marchés publics - art. 38-6 (Ab)
+	  - Code des marchés publics. - art. 122 (Ab)
+	  - Code du cinéma et de l'image animée - art. L213-2 (V)
+	  - Code du cinéma et de l'image animée - art. L213-7 (V)
+	  - Code du sport. - art. D232-103 (V)
+	  - Code du travail - art. D8273-9 (MMN)
+	  - Code général des collectivités territoriales - art. L2211-2 (VT)
+	  - Code général des collectivités territoriales - art. L2211-3 (VT)
+	  - Code monétaire et financier - art. L561-29 (VT)
+	  - Code monétaire et financier - art. L561-30 (VD)
+	  - Code monétaire et financier - art. L561-31 (VD)
+	  - Code monétaire et financier - art. L563-5 (V)
+	  - Code monétaire et financier - art. L621-17-6 (VD)
+	  - Livre des procédures fiscales - art. L288 (V)
+
+	**Codifié par**:
+
+	  - Loi n°57-1426 1957-12-31
+
+	**Modifié par**:
+
+	  - Loi n°85-1407 1985-12-30 art. 1 et 94 JORF 31 décembre 1985 en vigueur le 1er février 1986
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°85-1407 1985-12-30 art. 94
+
+
 ###### Article 41
 
 Le procureur de la République procède ou fait procéder à tous les actes nécessaires à la recherche et à la poursuite des
@@ -2257,6 +2335,43 @@ documents utiles à la manifestation de la vérité.
 	  - CODE DE PROCEDURE PENALE - art. 60 (M)
 
 
+###### Article 56-1
+
+Les perquisitions dans le cabinet d'un avocat ou à son domicile ne peuvent être effectuées que par un magistrat et en
+présence du bâtonnier ou de son délégué.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°57-1426 1957-12-31
+
+	**Créé par**:
+
+	  - Loi n°85-1407 1985-12-30 art. 10 et 94 JORF 31 décembre 1985 en vigueur le 1er février 1986
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°85-1407 1985-12-30 art. 94
+
+	**Cité par**:
+
+	  - CODE DE PROCEDURE PENALE - art. 171 (M)
+	  - CODE DE PROCEDURE PENALE - art. 57 (V)
+	  - CODE DE PROCEDURE PENALE - art. 96 (V)
+	  - Code de la consommation - art. L512-61 (VD)
+	  - Code de procédure pénale - art. 230-34 (VD)
+	  - Code de procédure pénale - art. 57-1 (VD)
+	  - Code de procédure pénale - art. 60-1 (VD)
+	  - Code de procédure pénale - art. 695-41 (VD)
+	  - Code de procédure pénale - art. 706-102-5 (VD)
+	  - Code de procédure pénale - art. 706-96 (VD)
+	  - Code de procédure pénale - art. 706-96-1 (V)
+	  - Code de procédure pénale - art. 77-1-1 (VT)
+	  - Code de procédure pénale - art. 99-3 (VD)
+	  - Code monétaire et financier - art. L621-12 (V)
+
+
 ###### Article 57
 
 Sous réserve de ce qui est dit à l'article précédent concernant le respect du secret professionnel et des droits de la
@@ -2395,6 +2510,55 @@ Les formalités mentionnées aux articles 56, 57 et au présent article sont pre
 	  - Code pénal 334, 334-1, 335
 	  - CODE DE PROCEDURE PENALE - art. 56 (M)
 	  - CODE DE PROCEDURE PENALE - art. 57 (V)
+
+
+###### Article 60
+
+S'il y a lieu de procéder à des constatations ou à des examens techniques ou scientifiques qui ne peuvent être différés,
+l'officier de police judiciaire a recours à toutes personnes qualifiées.
+
+Sauf si elles sont inscrites sur une des listes prévues à l'article 157, les personnes ainsi appelées prêtent, par écrit,
+serment d'apporter leur concours à la justice en leur honneur et en leur conscience.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Loi du 17 décembre 1926 - art. 20 (VD)
+	  - Décret n°2007-1451 du 9 octobre 2007 - art. 3 (V)
+	  - Décret n°2016-1152 du 24 août 2016 - art. 1
+	  - CODE DE PROCEDURE PENALE - art. 169-1 (V)
+	  - CODE DE PROCEDURE PENALE - art. 706-52 (M)
+	  - CODE DE PROCEDURE PENALE - art. 77-1 (V)
+	  - Code de la route. - art. R235-11 (V)
+	  - Code de la route. - art. R244-2 (V)
+	  - Code de la route. - art. R245-2 (VD)
+	  - Code de procédure pénale - art. 167 (V)
+	  - Code de procédure pénale - art. 230-1 (V)
+	  - Code de procédure pénale - art. 230-28 (V)
+	  - Code de procédure pénale - art. 56 (VD)
+	  - Code de procédure pénale - art. 60-3 (V)
+	  - Code de procédure pénale - art. 706-56 (V)
+	  - Code de procédure pénale - art. D47-12 (V)
+	  - Code de procédure pénale - art. R92 (V)
+	  - Code disciplinaire et pénal de la marine marcha... - art. 30 (VT)
+
+	**Codifié par**:
+
+	  - Loi n°57-1426 1957-12-31
+
+	**Modifié par**:
+
+	  - Loi n°72-1226 1972-12-29 art. 9 JORF 30 décembre 1972
+	  - Loi n°85-1407 1985-12-30 art. 11 et 94 JORF 31 décembre 1985 en vigueur le 1er février 1986
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°85-1407 1985-12-30 art. 94
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. 157 (M)
 
 
 ###### Article 61
@@ -2946,6 +3110,47 @@ Parquet.
 	  - CODE DE PROCEDURE PENALE - art. 64 (M)
 
 
+###### Article 77-1
+
+S'il y a lieu de procéder à des constatations ou à des examens techniques ou scientifiques qui ne peuvent être différés, le
+procureur de la République ou, sur autorisation de celui-ci, l'officier de police judiciaire, a recours à toutes personnes
+qualifiées.
+
+Ces personnes sont soumises aux dispositions du second alinéa de l'article 60.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°57-1426 1957-12-31
+
+	**Créé par**:
+
+	  - Loi n°85-1407 1985-12-30 art. 12 et 94 JORF 31 décembre 1985 en vigueur le 1er février 1986
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°85-1407 1985-12-30 art. 94
+
+	**Cité par**:
+
+	  - Loi n°93-1252 du 23 novembre 1993 - art. 15 (V)
+	  - Décret n°2007-1451 du 9 octobre 2007 - art. 3 (V)
+	  - Décret n°2016-1152 du 24 août 2016 - art. 1
+	  - CODE DE PROCEDURE PENALE - art. 167 (M)
+	  - Code de la route. - art. R235-11 (V)
+	  - Code de la route. - art. R244-2 (V)
+	  - Code de la route. - art. R245-2 (VD)
+	  - Code de procédure pénale - art. 230-1 (V)
+	  - Code de procédure pénale - art. 230-28 (V)
+	  - Code de procédure pénale - art. 230-44 (V)
+	  - Code de procédure pénale - art. R92 (V)
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. 60 (M)
+
+
 ###### Article 78
 
 Les gardes à vue sont mentionnées dans les formes prévues aux articles 64 et 65.
@@ -3064,6 +3269,44 @@ juge d'instruction compétent.
 	**Liens**:
 
 	  - SPEC_APPLI: Loi n°57-1426 1957-12-31 art. 18
+
+
+###### Article 89
+
+Toute partie civile doit déclarer au juge d'instruction une adresse qui doit être située, si l'information se déroule en
+métropole, dans un département métropolitain ou, si l'information se déroule dans un département d'outre-mer, dans ce
+département.
+
+Elle peut déclarer soit une adresse personnelle, soit, avec l'accord de celui-ci, qui peut être recueilli par tout moyen,
+celle d'un tiers chargé de recevoir les actes qui lui sont destinés.
+
+Elle est avisée qu'elle doit signaler au juge d'instruction jusqu'à la clôture de l'information, par nouvelle déclaration ou
+par lettre recommandée avec demande d'avis de réception, tout changement de l'adresse déclarée. Elle est également avisée que
+toute notification faite à la dernière adresse déclarée sera réputée faite à sa personne.
+
+Faute par elle d'avoir déclaré une adresse, la partie civile ne peut opposer le défaut de notification des actes qui auraient
+dû lui être notifiés aux termes de la loi.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Loi n°1908-08-05 du 5 août 1908 - art. 2 (V)
+	  - Code de justice militaire - art. 105 (Ab)
+	  - Code de procédure pénale - art. 816 (V)
+	  - Code de procédure pénale - art. 881 (V)
+
+	**Codifié par**:
+
+	  - Loi n°57-1426 1957-12-31
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°85-1407 1985-12-30 art. 94
+
+	**Modifié par**:
+
+	  - loi 85-1407 1985-12-30 art. 14 et art. 94 JORF 31 décembre 1985 en vigueur le 1er février 1986
 
 
 ###### Article 90
@@ -4086,6 +4329,33 @@ qui ordonne l'expertise.
 	  - SPEC_APPLI: Loi n°57-1426 1957-12-31 art. 18
 
 
+###### Article 159
+
+Le juge d'instruction désigne l'expert chargé de procéder à l'expertise.
+
+Si les circonstances le justifient, il désigne plusieurs experts.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°57-1426 1957-12-31
+
+	**Modifié par**:
+
+	  - Ordonnance n°58-1296 du 23 décembre 1958 - art. 1 () JORF 24 décembre 1958
+	  - Ordonnance 60-529 1960-06-04 art. 2 JORF 8 juin 1960
+	  - Loi n°85-1407 1985-12-30 art. 24 et 94 JORF 31 décembre 1985 en vigueur le 1er février 1986
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°85-1407 1985-12-30 art. 94
+
+	**Cité par**:
+
+	  - Code de justice militaire - art. 126 (Ab)
+
+
 ###### Article 160
 
 Lors de leur inscription sur l'une des listes prévues à l'article 157, les experts prêtent, devant la cour d'appel du ressort
@@ -4191,6 +4461,42 @@ Leur rapport sera annexé intégralement au rapport mentionné à l'article 166.
 	  - CODE DE PROCEDURE PENALE - art. 166 (M)
 
 
+###### Article 163
+
+Avant de faire parvenir les scellés aux experts, le juge d'instruction ou le magistrat désigné par la juridiction procède,
+s'il y a lieu, à leur inventaire dans les conditions prévues par l'article 97. Il énumère ces scellés dans un procès-verbal.
+Les experts doivent faire mention dans leur rapport de toute ouverture ou réouverture des scellés ; dans ces cas, ils en
+dressent inventaire.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°57-1426 1957-12-31
+
+	**Modifié par**:
+
+	  - Loi n°85-1407 1985-12-30 art. 25 et 94 JORF 31 décembre 1985 en vigueur le 1er février 1986
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°85-1407 1985-12-30 art. 94
+
+	**Cité par**:
+
+	  - Loi n°2002-3 du 3 janvier 2002 - art. 16 (VT)
+	  - Code de la consommation - art. L215-14 (VT)
+	  - Code de la consommation - art. L215-14-1 (VT)
+	  - Code de procédure pénale - art. 60 (V)
+	  - Code de procédure pénale - art. 60-3 (V)
+	  - Code des transports - art. L1621-11 (V)
+	  - Décret n°1919-01-22 du 22 janvier 1919 - art. 28 (Ab)
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. 97 (M)
+
+
 ###### Article 164
 
 Les experts peuvent recevoir, à titre de renseignements et pour l'accomplissement strict de leur mission, les déclarations de
@@ -4239,6 +4545,96 @@ renseignements d'ordre technique.
 	**Liens**:
 
 	  - SPEC_APPLI: Loi n°57-1426 1957-12-31 art. 18
+
+
+###### Article 166
+
+Lorsque les opérations d'expertise sont terminées, les experts rédigent un rapport qui doit contenir la description desdites
+opérations ainsi que leurs conclusions. Les experts doivent attester avoir personnellement accompli les opérations qui leur
+ont été confiées et signent leur rapport.
+
+Lorsque plusieurs experts ont été désignés et s'ils sont d'avis différents ou s'ils ont des réserves à formuler sur des
+conclusions communes, chacun d'eux indique son opinion ou ses réserves en les motivant.
+
+Le rapport et les scellés, ou leurs résidus, sont déposés entre les mains du greffier de la juridiction qui a ordonné
+l'expertise ; ce dépôt est constaté par procès-verbal.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°57-1426 1957-12-31
+
+	**Modifié par**:
+
+	  - Loi n°85-1407 1985-12-30 art. 26 et 94 JORF 31 décembre 1985 en vigueur le 1er février 1986
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°85-1407 1985-12-30 art. 94
+
+	**Cité par**:
+
+	  - CODE DE PROCEDURE PENALE - art. 162 (V)
+	  - Code de procédure pénale - art. 60 (V)
+	  - Code de procédure pénale - art. 60-3 (V)
+	  - Code de procédure pénale - art. D39 (V)
+
+
+###### Article 167
+
+Le juge d'instruction donne connaissance des conclusions des experts aux parties et à leurs conseils soit après les avoir
+convoqués conformément aux dispositions des articles 118 et 119, soit par lettre recommandée.
+
+Toutefois, la notification par la voie postale ne peut être utilisée lorsqu'il s'agit d'un inculpé détenu.
+
+Dans tous les cas, le juge d'instruction fixe un délai aux parties pour présenter des observations ou formuler une demande,
+notamment aux fins de complément d'expertise ou de contre-expertise. Pendant ce délai, le dossier de la procédure est mis à
+la disposition des conseils des parties.
+
+Lorsqu'il rejette une demande, le juge d'instruction rend une décision motivée qui doit intervenir dans un délai d'un mois à
+compter de la réception de la demande. Il en est de même s'il commet un seul expert alors que la partie a demandé qu'il en
+soit désigné plusieurs.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°57-1426 1957-12-31
+
+	**Modifié par**:
+
+	  - Ordonnance n°58-1296 du 23 décembre 1958 - art. 1 () JORF 24 décembre 1958
+	  - Ordonnance 60-529 1960-06-04 art. 2 JORF 8 juin 1960
+	  - Loi n°85-1407 1985-12-30 art. 27 et 94 JORF 31 décembre 1985 en vigueur le 1er février 1986
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°85-1407 1985-12-30 art. 94
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. 118 (Ab)
+	  - CODE DE PROCEDURE PENALE - art. 119 (M)
+
+	**Cité par**:
+
+	  - CODE DE PROCEDURE PENALE - art. 161-2 (V)
+	  - CODE DE PROCEDURE PENALE - art. 167-1 (V)
+	  - CODE DE PROCEDURE PENALE - art. 186-1 (M)
+	  - CODE DE PROCEDURE PENALE - art. 187 (V)
+	  - Code de justice militaire - art. 126 (Ab)
+	  - Code de la consommation - art. L215-16 (VT)
+	  - Code de la consommation - art. L512-48 (VD)
+	  - Code de procédure pénale - art. 186 (VD)
+	  - Code de procédure pénale - art. 194 (V)
+	  - Code de procédure pénale - art. 207 (VT)
+	  - Code de procédure pénale - art. 283 (V)
+	  - Code de procédure pénale - art. 570 (V)
+	  - Code de procédure pénale - art. D153 (V)
+	  - Code de procédure pénale - art. D40 (V)
+	  - Code de procédure pénale - art. D591 (V)
+	  - Décret n°1919-01-22 du 22 janvier 1919 - art. 30 (Ab)
 
 
 ###### Article 168
@@ -4423,7 +4819,105 @@ chambres de discipline pour les défenseurs.
 	  - Code de procédure pénale - art. D153 (V)
 
 
+###### Article 174
+
+Les juridictions correctionnelles ou de police ont qualité pour constater les nullités visées à l'article 170 ainsi que
+celles qui pourraient résulter de l'inobservation des prescriptions de l'alinéa 4 de l'article 183. Dans le cas de l'article
+170, ou si, dans le cas de l'alinéa 4 de l'article 183, l'ordonnance qui les a saisies est affectée pas cette nullité, elles
+renvoient la procédure au ministère public pour lui permettre de saisir à nouveau le juge d'instruction, sous réserve, s'il
+s'agit de la cour d'appel, des dispositions de l'article 520.
+
+Toutefois, les juridictions correctionnelles ou de police ne peuvent prononcer l'annulation des procédures d'instruction
+lorsque celles-ci ont été renvoyées devant elles par la chambre d'accusation.
+
+Les parties, d'autre part, peuvent renoncer à se prévaloir des nullités visées au présent article, lesquelles doivent, dans
+tous les cas, être présentées à la juridiction de jugement avant toute défense au fond, ainsi qu'en dispose l'article 385.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°57-1426 1957-12-31
+
+	**Modifié par**:
+
+	  - Ordonnance n°58-1296 du 23 décembre 1958 - art. 1 () JORF 24 décembre 1958
+	  - Ordonnance 60-529 1960-06-04 art. 2 JORF 8 juin 1960
+	  - Loi n°85-1407 1985-12-30 art. 28 et 94 JORF 31 décembre 1985 entrée en vigueur le 1er février 1986
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°85-1407 1985-12-30 art. 94
+
+	**Cité par**:
+
+	  - Loi n°93-2 du 4 janvier 1993 - art. 226 (V)
+	  - CODE DE PROCEDURE PENALE - art. 173 (V)
+	  - CODE DE PROCEDURE PENALE - art. 218 (V)
+	  - CODE DE PROCEDURE PENALE - art. 385 (M)
+	  - Code de procédure pénale - art. 206 (MMN)
+	  - Code de procédure pénale - art. 221-3 (VT)
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. 170 (M)
+	  - CODE DE PROCEDURE PENALE - art. 520 (V)
+	  - Code de procédure pénale 170, 183 al. 4, 385, 520
+
+
 ##### Section 11 : Des ordonnances de règlement
+
+###### Article 175
+
+Aussitôt que l'information lui paraît terminée, le juge d'instruction communique le dossier au procureur de la République.
+
+Ce dernier lui adresse ses réquisitions dans un délai d'un mois si un inculpé est détenu et de trois mois dans les autres
+cas.
+
+Le juge d'instruction qui ne reçoit pas de réquisitions dans le délai prescrit peut rendre l'ordonnance de règlement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°57-1426 1957-12-31
+
+	**Modifié par**:
+
+	  - Ordonnance n°58-1296 du 23 décembre 1958 - art. 1 () JORF 24 décembre 1958
+	  - Loi n°85-1407 1985-12-30 art. 29 et 94 JORF 31 décembre 1985 en vigueur le 1er février 1986
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°85-1407 1985-12-30 art. 94
+
+	**Cité par**:
+
+	  - Loi n°93-2 du 4 janvier 1993 - art. 226 (V)
+	  - Loi n°93-1013 du 24 août 1993 - art. 49 (V)
+	  - Loi n°2007-291 du 5 mars 2007 - art. 30 (V)
+	  - Loi n°2016-1547 du 18 novembre 2016 - art. 25 (V)
+	  - CODE DE PROCEDURE PENALE - art. 173 (V)
+	  - CODE DE PROCEDURE PENALE - art. 175-3 (MMN)
+	  - CODE DE PROCEDURE PENALE - art. 50-1 (MMN)
+	  - CODE DE PROCEDURE PENALE - art. 706-119 (V)
+	  - CODE DE PROCEDURE PENALE - art. 83-2 (V)
+	  - Code de procédure pénale - art. 113-8 (MMN)
+	  - Code de procédure pénale - art. 116 (MMN)
+	  - Code de procédure pénale - art. 175-1 (MMN)
+	  - Code de procédure pénale - art. 180-1 (V)
+	  - Code de procédure pénale - art. 180-2 (V)
+	  - Code de procédure pénale - art. 184 (MMN)
+	  - Code de procédure pénale - art. 186-3 (V)
+	  - Code de procédure pénale - art. 385 (V)
+	  - Code de procédure pénale - art. 84-1 (V)
+	  - Code de procédure pénale - art. 87 (V)
+	  - Code de procédure pénale - art. 89-1 (V)
+	  - Code de procédure pénale - art. D40-1 (V)
+	  - Code de procédure pénale - art. D40-2 (V)
+	  - Code de procédure pénale - art. D591 (V)
+	  - Code de procédure pénale - art. R249-3 (V)
+
 
 ###### Article 180
 
@@ -4471,6 +4965,62 @@ suffisantes.
 	**Cité par**:
 
 	  - Code disciplinaire et pénal de la marine marchande - art. 37 (VT)
+
+
+###### Article 183
+
+Les ordonnances de règlement sont portées à la connaissance de l'inculpé et les ordonnances de renvoi ou de transmission des
+pièces au procureur général à la connaissance de la partie civile ; la notification est effectuée dans les délais les plus
+brefs soit verbalement, avec émargement au dossier de la procédure, soit par lettre recommandée.
+
+Sous réserve de l'application du premier alinéa de l'article 145, les décisions qui sont susceptibles de faire l'objet de
+voies de recours de la part de l'inculpé, de la partie civile ou d'un tiers conformément aux articles 99, 186 et 186-1 leur
+sont notifiées dans les délais les plus brefs soit verbalement, avec émargement au dossier de la procédure, soit par lettre
+recommandée. Si l'inculpé est détenu, elles peuvent également être portées à sa connaissance par les soins du chef de
+l'établissement pénitentiaire qui adresse, sans délai, au juge d'instruction l'original ou la copie du récépissé signé par
+l'inculpé. Dans tous les cas, une copie de l'acte est remise à l'intéressé.
+
+Toute notification d'acte à l'inculpé ou à la partie civile par lettre recommandée expédiée à la dernière adresse déclarée
+par l'intéressé est réputée faite à sa personne.
+
+Les ordonnances mentionnées aux premier et deuxième alinéas du présent article qui doivent être portées à la connaissance de
+l'inculpé ou de la partie civile sont simultanément, et selon les mêmes modalités, portées à la connaissance de leurs
+conseils.
+
+Les avis destinés au procureur de la République lui sont adressés par tout moyen. Lorsque le juge d'instruction rend une
+ordonnance non conforme aux réquisitions du procureur de la République, avis en est donné à celui-ci par le greffier.
+
+Dans tous les cas, mention est portée au dossier par le greffier de la nature et de la date de la diligence faite en
+application du présent article ainsi que des formes utilisées.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°57-1426 1957-12-31
+
+	**Modifié par**:
+
+	  - Ordonnance 60-529 1960-06-04 art. 2 JORF 8 juin 1960
+	  - Loi n°70-643 du 17 juillet 1970 - art. 4 () JORF 19 juillet 1970
+	  - Loi n°72-1226 1972-12-29 art. 31 JORF 30 décembre 1972
+	  - Loi n°84-576 du 9 juillet 1984 - art. 13 () JORF 10 juillet 1984
+	  - Loi n°85-1407 1985-12-30 art. 30 et 94 JORF 31 décembre 1985 en vigueur le 1er février 1986
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°85-1407 1985-12-30 art. 94
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. 186 (M)
+	  - CODE DE PROCEDURE PENALE - art. 186-1 (M)
+	  - CODE DE PROCEDURE PENALE - art. 99 (M)
+
+	**Cité par**:
+
+	  - Code de procédure pénale - art. 215 (V)
+	  - Code de procédure pénale - art. 385 (V)
 
 
 ##### Section 13 : De la reprise de l'information sur charges nouvelles
@@ -4536,6 +5086,52 @@ l'objet, ordonne l'apport des pièces, met l'affaire en état et la soumet avec 
 	**Modifié par**:
 
 	  - Ordonnance n°58-1296 du 23 décembre 1958 - art. 1 () JORF 24 décembre 1958 en vigueur le 2 mars 1959
+
+
+###### Article 197
+
+Le procureur général notifie par lettre recommandée à chacune des parties et à son conseil la date à laquelle l'affaire sera
+appelée à l'audience. La notification est faite à l'inculpé détenu par les soins du chef de l'établissement pénitentiaire qui
+adresse, sans délai, au procureur général l'original ou la copie du récépissé signé par l'inculpé. La notification à tout
+inculpé non détenu, à la partie civile ou au requérant mentionné au cinquième alinéa de l'article 99 est faite à la dernière
+adresse déclarée tant que le juge d'instruction n'a pas clôturé son information. 
+
+Un délai minimum de quarante-huit heures en matière de détention provisoire, et de cinq jours en toute autre matière, doit
+être observé entre la date d'envoi de la lettre recommandée et celle de l'audience. 
+
+Pendant ce délai, le dossier, comprenant les réquisitions du procureur général, est déposé au greffe de la chambre
+d'accusation et tenu à la disposition des conseils des inculpés et des parties civiles. 
+
+Copie leur en est délivrée sans délai, à leurs frais, sur simple requête écrite. Ces copies ne peuvent être rendues
+publiques.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°57-1426 1957-12-31
+
+	**Modifié par**:
+
+	  - Ordonnance n°58-1296 du 23 décembre 1958 - art. 1 () JORF 24 décembre 1958
+	  - Ordonnance 60-529 1960-06-04 art. 12 JORF 8 juin 1960
+	  - Loi n°81-82 du 2 février 1981 - art. 58 () JORF 3 février 1981
+	  - Loi n°85-1407 1985-12-30 art. 34 et 94 JORF 31 décembre 1985 en vigueur le 1er février 1986
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°85-1407 1985-12-30 art. 94
+
+	**Cité par**:
+
+	  - CODE DE PROCEDURE PENALE - art. 145-2 (V)
+	  - CODE DE PROCEDURE PENALE - art. 197-1 (V)
+	  - CODE DE PROCEDURE PENALE - art. 209 (V)
+	  - Code de procédure pénale - art. 145-1 (V)
+
+	**Cite**:
+
+	  - Code de procédure pénale - art. 99 (M)
 
 
 ###### Article 203
@@ -4674,33 +5270,6 @@ d'assises. Il en est de même dans le cas prévu à l'article 141-2.
 
 
 #### Chapitre Ier : Du juge d'instruction : juridiction d'instruction du premier degré
-
-###### Article 141
-
-**Nota:**
-
-Nota : Article abrogé loi 85-1407 du 30 décembre 1985, art. 17.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°57-1426 1957-12-31
-
-	**Modifié par**:
-
-	  - Loi n°70-643 du 17 juillet 1970 - art. 1 () JORF 19 juillet 1970 en vigueur le 1er janvier 1971
-
-	**Abrogé par**:
-
-	  - Loi n°85-1407 1985-12-30 art. 17 et art. 94 JORF 31 décembre 1985 en vigueur le 1er février 1986
-
-	**Cité par**:
-
-	  - CODE DE PROCEDURE PENALE - art. 136 (MMN)
-	  - CODE DE PROCEDURE PENALE - art. 394 (M)
-	  - CODE DE PROCEDURE PENALE - art. 397-3 (M)
-
 
 ##### Section 1 : Dispositions générales
 
@@ -5018,6 +5587,63 @@ professionnel et des droits de la défense.
 	  - Code de procédure pénale - art. 136 (V)
 
 
+###### Article 97
+
+Lorsqu'il y a lieu, en cours d'information, de rechercher des documents et sous réserve des nécessités de l'information et du
+respect, le cas échéant, de l'obligation stipulée par l'alinéa 3 de l'article précédent, le juge d'instruction ou l'officier
+de police judiciaire par lui commis a seul le droit d'en prendre connaissance avant de procéder à la saisie.
+
+Tous les objets et documents placés sous main de justice sont immédiatement inventoriés et placés sous scellés. Cependant, si
+leur inventaire sur place présente des difficultés, l'officier de police judiciaire procède comme il est dit au quatrième
+alinéa de l'article 56.
+
+Avec l'accord du juge d'instruction, l'officier de police judiciaire ne maintient que la saisie des objets et documents
+utiles à la manifestation de la vérité.
+
+Lorsque ces scellés sont fermés, ils ne peuvent être ouverts et les documents dépouillés qu'en présence de l'inculpé assisté
+de son conseil, ou eux dûment appelés. Le tiers chez lequel la saisie a été faite est également invité à assister à cette
+opération.
+
+Si les nécessités de l'instruction ne s'y opposent pas, copie ou photocopie des documents placés sous main de justice peuvent
+être délivrées à leurs frais, dans le plus bref délai, aux intéressés qui en font la demande.
+
+Si la saisie porte sur des espèces, lingots, effets ou valeurs dont la conservation en nature n'est pas nécessaire à la
+manifestation de la vérité ou à la sauvegarde des droits des parties, il peut autoriser le greffier à en faire le dépôt à la
+Caisse des dépôts et consignations ou à la Banque de France.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Loi n°51-711 du 7 juin 1951 - art. 6 (V)
+	  - Loi n°51-711 du 7 juin 1951 - art. 7 bis (V)
+	  - Loi n°2002-3 du 3 janvier 2002 - art. 16 (VT)
+	  - Code des transports - art. L1621-11 (V)
+	  - CODE DE PROCEDURE PENALE - art. 136 (M)
+	  - CODE DE PROCEDURE PENALE - art. 163 (V)
+	  - Code de procédure pénale - art. R147 (V)
+	  - Code de procédure pénale - art. R331 (V)
+
+	**Codifié par**:
+
+	  - Loi n°57-1426 1957-12-31
+
+	**Modifié par**:
+
+	  - Ordonnance n°58-1296 du 23 décembre 1958 - art. 1 () JORF 24 décembre 1958
+	  - ordonnance 60-121 1960-02-13 art. 13 JORF 14 février 1960
+	  - ordonnance 60-529 1960-06-04 art. 2 JORF 8 juin 1960
+	  - loi 85-1407 1985-12-30 art. 3 et art. 4 JORF 31 décembre 1985 en vigueur le 1er février 1986
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°85-1407 1985-12-30 art. 94
+
+	**Cite**:
+
+	  - Code de procédure pénale 56 al. 4, 96 al. 3
+
+
 ###### Article 98
 
 Sous réserve des nécessités de l'information judiciaire, toute communication ou toute divulgation sans autorisation de
@@ -5035,6 +5661,62 @@ emprisonnement de deux mois à deux ans.
 
 	  - ordonnance 60-529 1960-06-04 art. 2 JORF 8 juin 1960
 	  - Loi n°77-1468 du 30 décembre 1977 - art. 16 (V) JORF 31 décembre 1977 en vigueur le 1er janvier 1978
+
+
+###### Article 99
+
+Au cours de l'information, le juge d'instruction est compétent pour décider de la restitution des objets placés sous main de
+justice.
+
+Il statue, par ordonnance motivée, soit sur réquisitions du procureur de la République, soit, après avis de ce dernier,
+d'office ou sur requête de l'inculpé, de la partie civile ou de toute autre personne qui prétend avoir droit sur l'objet.
+
+Il peut également, avec l'accord du procureur de la République, décider d'office de restituer ou de faire restituer à la
+victime de l'infraction les objets placés sous main de justice dont la propriété n'est pas contestée.
+
+Il n'y a pas lieu à restitution lorsque celle-ci est de nature à faire obstacle à la manifestation de la vérité ou à la
+sauvegarde des droits des parties ou lorsqu'elle présente un danger pour les personnes ou les biens. Elle peut être refusée
+lorsque la confiscation de l'objet est prévue par la loi.
+
+L'ordonnance du juge d'instruction mentionnée au deuxième alinéa du présent article est notifiée soit au requérant en cas de
+rejet de la demande, soit au ministère public et à toute autre partie intéressée en cas de décision de restitution. Elle peut
+être déférée à la chambre d'accusation, sur simple requête déposée au greffe du tribunal, dans le délai et selon les
+modalités prévus par le quatrième alinéa de l'article 186. Ce délai est suspensif.
+
+Le tiers peut, au même titre que les parties, être entendu par la chambre d'accusation en ses observations, mais il ne peut
+prétendre à la mise à sa disposition de la procédure.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Loi n°51-711 du 7 juin 1951 - art. 6 (V)
+	  - Loi n°51-711 du 7 juin 1951 - art. 7 bis (V)
+	  - Loi n°2016-731 du 3 juin 2016 - art. 62
+	  - CODE DE PROCEDURE PENALE - art. 177 (VT)
+	  - CODE DE PROCEDURE PENALE - art. 183 (V)
+	  - CODE DE PROCEDURE PENALE - art. 186 (V)
+	  - CODE DE PROCEDURE PENALE - art. 217 (V)
+	  - CODE DE PROCEDURE PENALE - art. 99-1 (V)
+	  - Code de justice militaire - art. 113 (Ab)
+	  - Code de procédure pénale - art. 706-152 (V)
+	  - Code rural ancien - art. 213-7 (Ab)
+
+	**Codifié par**:
+
+	  - Loi n°57-1426 1957-12-31
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°85-1407 1985-12-30 art. 94
+
+	**Modifié par**:
+
+	  - loi 85-1407 1985-12-30 art. 4 et art. 94 JORF 31 décembre 1985 en vigueur le 1er février 1986
+
+	**Cite**:
+
+	  - Code de procédure pénale 186 al. 4
 
 
 ##### Section 4 : Des auditions de témoins
@@ -5068,6 +5750,90 @@ procés-verbal. En cas de refus, il ne peut l'entendre que comme inculpé.
 
 
 ##### Section 5 : Des interrogatoires et confrontations
+
+###### Article 114
+
+Lors de la première comparution, le juge d'instruction constate l'identité de l'inculpé, lui fait connaître expressément
+chacun des faits qui lui sont imputés et l'avertit qu'il est libre de ne faire aucune déclaration. Mention de cet
+avertissement est faite au procès-verbal.
+
+Si l'inculpé désire faire des déclarations, celles-ci sont immédiatement reçues par le juge d'instruction.
+
+Le magistrat donne avis à l'inculpé de son droit de choisir un conseil parmi les avocats inscrits au tableau ou admis au
+stage, ou parmi les avoués, et à défaut de choix, il lui en fait désigner un d'office, si l'inculpé le demande. La
+désignation est faite par le bâtonnier de l'Ordre des avocats s'il existe un conseil de l'Ordre et, dans le cas contraire,
+par le président du tribunal.
+
+Mention de cette formalité est faite au procès-verbal.
+
+La partie civile a également le droit de se faire assister d'un conseil dès sa première audition.
+
+A l'issue de la première comparution, l'inculpé laissé en liberté ou placé sous contrôle judiciaire doit déclarer au juge
+d'instruction son adresse personnelle. Il peut toutefois lui substituer l'adresse d'un tiers chargé de recevoir les actes qui
+lui sont destinés, s'il produit l'accord de ce dernier. L'adresse déclarée doit être située, si l'information se déroule en
+métropole, dans un département métropolitain ou, si l'information se déroule dans un département d'outre-mer dans ce
+département.
+
+L'inculpé est avisé qu'il doit signaler au juge d'instruction, jusqu'à la clôture de l'information, par nouvelle déclaration
+ou par lettre recommandée avec demande d'avis de réception, tout changement de l'adresse déclarée. Il est également avisé que
+toute notification ou signification faite à la dernière adresse déclarée sera réputée faite à sa personne.
+
+Mention de cet avis, ainsi que de la déclaration d'adresse, est portée au procès-verbal.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Ordonnance n°45-174 du 2 février 1945 - art. 4 (VD)
+	  - Ordonnance n°45-174 du 2 février 1945 - art. 8 (VD)
+	  - Ordonnance n°45-174 du 2 février 1945 - art. 10-2 (V)
+	  - Loi n°83-520 du 27 juin 1983 - art. 14 (V)
+	  - Décret n°2005-790 du 12 juillet 2005 - art. 5 (V)
+	  - CODE DE PROCEDURE PENALE - art. 104 (Ab)
+	  - CODE DE PROCEDURE PENALE - art. 115 (M)
+	  - CODE DE PROCEDURE PENALE - art. 137-1 (MMN)
+	  - CODE DE PROCEDURE PENALE - art. 145-2 (V)
+	  - CODE DE PROCEDURE PENALE - art. 148-3 (M)
+	  - CODE DE PROCEDURE PENALE - art. 164 (V)
+	  - CODE DE PROCEDURE PENALE - art. 167 (M)
+	  - CODE DE PROCEDURE PENALE - art. 170 (M)
+	  - CODE DE PROCEDURE PENALE - art. R15-42 (V)
+	  - CODE DE PROCEDURE PENALE - art. R15-43 (V)
+	  - Code de justice militaire - art. 116 (Ab)
+	  - Code de procédure pénale - art. 113-3 (VD)
+	  - Code de procédure pénale - art. 113-8 (VT)
+	  - Code de procédure pénale - art. 114-1 (VD)
+	  - Code de procédure pénale - art. 116-1 (V)
+	  - Code de procédure pénale - art. 145-1 (V)
+	  - Code de procédure pénale - art. 197 (V)
+	  - Code de procédure pénale - art. 463 (V)
+	  - Code de procédure pénale - art. 538 (VD)
+	  - Code de procédure pénale - art. 64-1 (VD)
+	  - Code de procédure pénale - art. 706-24-3 (V)
+	  - Code de procédure pénale - art. 706-52 (V)
+	  - Code de procédure pénale - art. 80-2 (V)
+	  - Code de procédure pénale - art. D15-8 (V)
+	  - Code de procédure pénale - art. D32-7 (V)
+	  - Code de procédure pénale - art. D47-16 (V)
+	  - Code de procédure pénale - art. D591 (V)
+	  - Code de procédure pénale - art. D594 (V)
+	  - Code de procédure pénale - art. D594-6 (V)
+	  - Code de procédure pénale - art. R155 (V)
+	  - Code de procédure pénale - art. R165 (V)
+	  - Code de procédure pénale - art. R57-32 (Ab)
+
+	**Codifié par**:
+
+	  - Loi n°57-1426 1957-12-31
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°85-1407 1985-12-30 art. 94
+
+	**Modifié par**:
+
+	  - loi 85-1407 1985-12-30 art. 15 et art. 94 JORF 31 décembre 1985 en vigueur le 1er février 1986
+
 
 ###### Article 115
 
@@ -5262,6 +6028,203 @@ contrôle judiciaire ou, à titre exceptionnel, placé en détention provisoire 
 
 
 ##### Sous-section 1 : Du contrôle judiciaire
+
+###### Article 138
+
+Le contrôle judiciaire peut être ordonné par le juge d'instruction si l'inculpé encourt une peine d'emprisonnement
+correctionnel ou une peine plus grave.
+
+Ce contrôle astreint l'inculpé à se soumettre, selon la décision du juge d'instruction, à une ou plusieurs des obligations
+ci-après énumérées :
+
+1° Ne pas sortir des limites territoriales déterminées par le juge d'instruction ;
+
+2° Ne s'absenter de son domicile ou de la résidence fixée par le juge d'instruction qu'aux conditions et pour les motifs
+déterminés par ce magistrat ;
+
+3° Ne pas se rendre en certains lieux ou ne se rendre que dans les lieux déterminés par le juge d'instruction ;
+
+4° Informer le juge d'instruction de tout déplacement au-delà de limites déterminées ;
+
+5° Se présenter périodiquement aux services ou autorités désignés par le juge d'instruction qui sont tenus d'observer la plus
+stricte discrétion sur les faits reprochés à l'inculpé ;
+
+6° Répondre aux convocations de toute autorité ou de toute personne qualifiée désignée par le juge d'instruction et se
+soumettre, le cas échéant, aux mesures de contrôle portant sur ses activités professionnelles ou sur son assiduité à un
+enseignement ;
+
+7° Remettre soit au greffe, soit à un service de police ou à une brigade de gendarmerie tous documents justificatifs de
+l'identité, et notamment le passeport, en échange d'un récépissé valant justification de l'identité ;
+
+8° S'abstenir de conduire tous les véhicules ou certains véhicules et, le cas échéant, remettre au greffe son permis de
+conduire contre récépissé ; toutefois, le juge d'instruction peut décider que l'inculpé pourra faire usage de son permis de
+conduire pour l'exercice de son activité professionnelle ;
+
+9° S'abstenir de recevoir ou de rencontrer certaines personnes spécialement désignées par le juge d'instruction, ainsi que
+d'entrer en relation avec elles, de quelque façon que ce soit ;
+
+10° Se soumettre à des mesures d'examen, de traitement ou de soins, même sous le régime de l'hospitalisation, notamment aux
+fins de désintoxication ;
+
+11° Fournir un cautionnement dont le montant et les délais de versement, en une ou plusieurs fois, sont fixés par le juge
+d'instruction, compte tenu notamment des ressources de l'inculpé ;
+
+12° Ne pas se livrer à certaines activités de nature professionnelle ou sociale, à l'exclusion de l'exercice des mandats
+électifs et des responsabilités syndicales, lorsque l'infraction a été commise dans l'exercice ou à l'occasion de l'exercice
+de ces activités et lorsqu'il est à redouter qu'une nouvelle infraction soit commise ;
+
+13° Ne pas émettre de chèques autres que ceux qui permettent exclusivement le retrait de fonds par le tireur auprès du tiré
+ou ceux qui sont certifiés et, le cas échéant, remettre au greffe les formules de chèques dont l'usage est ainsi prohibé ;
+
+14° Ne pas détenir ou porter une arme et, le cas échéant, remettre au greffe contre récépissé les armes dont il est
+détenteur ;
+
+15° Constituer, dans un délai, pour une période et un montant déterminés par le juge d'instruction, des sûretés personnelles
+ou réelles destinées à garantir les droits de la victime ;
+
+16° Justifier qu'il contribue aux charges familiales ou acquitte régulièrement les aliments qu'il a été condamné à payer
+conformément aux décisions judiciaires et aux conventions judiciairement homologuées portant obligation de verser des
+prestations, subsides ou contributions aux charges du mariage.
+
+Les modalités d'application du présent article, en ce qui concerne notamment l'habilitation des personnes contribuant au
+contrôle judiciaire, sont déterminées en tant que de besoin par un décret en Conseil d'Etat.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°57-1426 1957-12-31
+
+	**Cité par**:
+
+	  - Ordonnance n°67-833 du 28 septembre 1967 - art. 8-1 (Ab)
+	  - Arrêté du 15 mai 1996 - art. 2 (Ab)
+	  - Loi n°2003-239 du 18 mars 2003 - art. 23 (V)
+	  - Décret n°2004-32 du 9 janvier 2004 - art. 8 (V)
+	  - Arrêté du 19 décembre 2007 (Ab)
+	  - Arrêté du 19 décembre 2007 - art. 1 (Ab)
+	  - Arrêté du 22 août 2012 - art. 1 (V)
+	  - Arrêté du 12 décembre 2013 - art. 1 (V)
+	  - Arrêté du 23 décembre 2016 - art. 2 (V)
+	  - CODE DE PROCEDURE PENALE - art. 137 (M)
+	  - CODE DE PROCEDURE PENALE - art. 137-1 (MMN)
+	  - CODE DE PROCEDURE PENALE - art. 144-2 (V)
+	  - CODE DE PROCEDURE PENALE - art. R121-1 (V)
+	  - CODE DE PROCEDURE PENALE - art. R121-3 (V)
+	  - CODE DE PROCEDURE PENALE - art. R16-2 (V)
+	  - Code de justice militaire - art. 137 (Ab)
+	  - Code de justice militaire. - art. L211-22 (V)
+	  - Code de la route. - art. R233-1 (V)
+	  - Code de la route. - art. R234-5 (V)
+	  - Code de la santé publique - art. L3424-5 (Ab)
+	  - Code de procédure pénale - art. 136 (V)
+	  - Code de procédure pénale - art. 138-1 (V)
+	  - Code de procédure pénale - art. 141-4 (VD)
+	  - Code de procédure pénale - art. 142-5 (V)
+	  - Code de procédure pénale - art. 230-19 (V)
+	  - Code de procédure pénale - art. 394 (V)
+	  - Code de procédure pénale - art. 627-5 (V)
+	  - Code de procédure pénale - art. 695-28 (VD)
+	  - Code de procédure pénale - art. 695-34 (VD)
+	  - Code de procédure pénale - art. 696-11 (VD)
+	  - Code de procédure pénale - art. 696-19 (V)
+	  - Code de procédure pénale - art. 728-67 (V)
+	  - Code de procédure pénale - art. D32-10 (V)
+	  - Code de procédure pénale - art. D32-20 (V)
+	  - Code de procédure pénale - art. D32-29 (V)
+	  - Code de procédure pénale - art. R17-4 (V)
+	  - Code de procédure pénale - art. R17-4-1 (V)
+	  - Code de procédure pénale - art. R57-10 (V)
+	  - Code monétaire et financier - art. L621-13 (V)
+
+	**Modifié par**:
+
+	  - Loi n°70-643 du 17 juillet 1970 - art. 1 () JORF 19 juillet 1970
+	  - Loi n°75-701 1975-08-06 art. 23 JORF 7 août 1975
+	  - Loi n°83-466 du 10 juin 1983 - art. 30 () JORF 11 juin 1983
+	  - Loi n°83-608 1983-07-08 art. 4 JORF 9 juillet 1983
+	  - Loi n°85-1407 1985-12-30 art. 16 et art. 94 JORF 31 décembre 1985 en vigueur le 1er février 1986
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°85-1407 1985-12-30 art. 94
+
+
+###### Article 139
+
+L'inculpé est placé sous contrôle judiciaire par une ordonnance du juge d'instruction qui peut être prise en tout état de
+l'instruction.
+
+Le juge d'instruction peut, à tout moment, imposer à l'inculpé placé sous contrôle judiciaire une ou plusieurs obligations
+nouvelles, supprimer tout ou partie des obligations comprises dans le contrôle, modifier une ou plusieurs de ces obligations
+ou accorder une dispense occasionnelle ou temporaire d'observer certaines d'entre elles.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°57-1426 1957-12-31
+
+	**Modifié par**:
+
+	  - Loi n°70-643 du 17 juillet 1970 - art. 1 () JORF 19 juillet 1970
+	  - Loi n°85-1407 1985-12-30 art. 17 et art. 94 JORF 31 décembre 1985 en vigueur le 1er février 1986
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°85-1407 1985-12-30 art. 94
+
+	**Cité par**:
+
+	  - CODE DE PROCEDURE PENALE - art. 136 (M)
+	  - CODE DE PROCEDURE PENALE - art. 394 (V)
+	  - Code de justice militaire - art. 137 (Ab)
+	  - Code de procédure pénale - art. 141-1 (MMN)
+	  - Code de procédure pénale - art. 142-8 (V)
+	  - Code de procédure pénale - art. 186 (VD)
+	  - Code de procédure pénale - art. 706-45 (MMN)
+	  - Code de procédure pénale - art. D32-16 (V)
+
+
+###### Article 140
+
+La mainlevée du contrôle judiciaire peut être ordonnée à tout moment par le juge d'instruction, soit d'office, soit sur les
+réquisitions du procureur de la République, soit sur la demande de l'inculpé après avis du procureur de la République. 
+
+Le juge d'instruction statue sur la demande de l'inculpé dans un délai de cinq jours, par ordonnance motivée. 
+
+Faute par le juge d'instruction d'avoir statué dans ce délai, l'inculpé peut saisir directement de sa demande la chambre
+d'accusation qui, sur les réquisitions écrites et motivées du procureur général, se prononce dans les vingt jours de sa
+saisine.
+
+A défaut, la mainlevée du contrôle judiciaire est acquise de plein droit, sauf si des vérifications concernant la demande de
+l'inculpé ont été ordonnées.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°57-1426 1957-12-31
+
+	**Modifié par**:
+
+	  - Loi n°70-643 du 17 juillet 1970 - art. 1 () JORF 19 juillet 1970
+	  - Loi n°85-1407 1985-12-30 art. 18 et art. 94 JORF 31 décembre 1985 en vigueur le 1er février 1986
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°85-1407 1985-12-30 art. 94
+
+	**Cité par**:
+
+	  - CODE DE PROCEDURE PENALE - art. 148-8 (V)
+	  - CODE DE PROCEDURE PENALE - art. 186 (V)
+	  - CODE DE PROCEDURE PENALE - art. 706-45 (M)
+	  - Code de justice militaire - art. 126 (Ab)
+	  - Code de justice militaire - art. 137 (Ab)
+	  - Code de procédure pénale - art. 142-8 (V)
+	  - Code de procédure pénale - art. D32-19 (V)
+
 
 ###### Article 141-2
 
@@ -5642,6 +6605,124 @@ accorder une autorisation de sortie sous escorte à l'inculpé, au prévenu ou �
 	  - Code de procédure pénale - art. D426 (Ab)
 
 
+###### Article 148-6
+
+Toute demande de mainlevée ou de modification du contrôle judiciaire ou de mise en liberté doit faire l'objet d'une
+déclaration au greffier de la juridiction d'instruction saisie du dossier ou à celui de la juridiction compétente en vertu de
+l'article 148-1.
+
+Elle doit être constatée et datée par le greffier qui la signe ainsi que le demandeur ou son avocat. Si le demandeur ne peut
+signer, il en est fait mention par le greffier.
+
+Lorsque l'inculpé placé sous contrôle judiciaire ne réside pas dans le ressort de la juridiction compétente, la déclaration
+au greffier peut être faite au moyen d'une lettre recommandée avec demande d'avis de réception.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°57-1426 1957-12-31
+
+	**Créé par**:
+
+	  - Loi n°85-1407 1985-12-30 art. 21 et art. 94 JORF 31 décembre 1985 en vigueur le 1er février 1986
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°85-1407 1985-12-30 art. 94
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. 148-1 (M)
+
+	**Cité par**:
+
+	  - CODE DE PROCEDURE PENALE - art. 148-8 (V)
+	  - CODE DE PROCEDURE PENALE - art. D15-4-7 (VD)
+	  - Code de procédure pénale - art. 142-12 (V)
+	  - Code de procédure pénale - art. 625 (V)
+	  - Code de procédure pénale - art. 626-5 (VT)
+	  - Code de procédure pénale - art. 695-34 (VD)
+	  - Code de procédure pénale - art. 696-19 (V)
+	  - Code de procédure pénale - art. 696-32 (VD)
+	  - Code de procédure pénale - art. 728-68 (V)
+	  - Code de procédure pénale - art. R57-5-6 (V)
+	  - Code de procédure pénale - art. R57-5-7 (V)
+
+
+###### Article 148-7
+
+Lorsque l'inculpé, le prévenu ou l'accusé est détenu, la demande de mise en liberté peut aussi être faite au moyen d'une
+déclaration auprès du chef de l'établissement pénitentiaire.
+
+Cette déclaration est constatée et datée par le chef de l'établissement pénitentiaire qui la signe, ainsi que le demandeur.
+Si celui-ci ne peut signer, il en est fait mention par le chef de l'établissement.
+
+Ce document est adressé sans délai, en original ou en copie et par tout moyen, soit au greffier de la juridiction saisie du
+dossier, soit à celui de la juridiction compétente selon les distinctions de l'article 148-1.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°57-1426 1957-12-31
+
+	**Créé par**:
+
+	  - Loi n°85-1407 1985-12-30 art. 21 et art. 94 JORF 31 décembre 1985 en vigueur le 1er février 1986
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°85-1407 1985-12-30 art. 94
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. 148-1 (M)
+
+	**Cité par**:
+
+	  - CODE DE PROCEDURE PENALE - art. 148-8 (V)
+	  - CODE DE PROCEDURE PENALE - art. 626-5 (V)
+	  - CODE DE PROCEDURE PENALE - art. 695-34 (V)
+	  - CODE DE PROCEDURE PENALE - art. 696-32 (V)
+	  - CODE DE PROCEDURE PENALE - art. D116-7 (Ab)
+	  - Code de procédure pénale - art. D153 (V)
+	  - Code de procédure pénale - art. D49-11 (V)
+
+
+###### Article 148-8
+
+Lorsque l'inculpé entend saisir la chambre d'accusation en application des dispositions des articles 140, troisième alinéa,
+148, sixième alinéa, ou 148-4, sa demande est faite, dans les formes prévues par les articles 148-6 et 148-7, au greffier de
+la chambre d'accusation compétente ou au chef de l'établissement pénitentiaire qui en assure la transmission.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°57-1426 1957-12-31
+
+	**Créé par**:
+
+	  - Loi n°85-1407 1985-12-30 art. 21 et art. 94 JORF 31 décembre 1985 en vigueur le 1er février 1986
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°85-1407 1985-12-30 art. 94
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. 140 (M)
+	  - CODE DE PROCEDURE PENALE - art. 148-4 (M)
+	  - CODE DE PROCEDURE PENALE - art. 148-6 (M)
+	  - CODE DE PROCEDURE PENALE - art. 148-7 (M)
+	  - Code de procédure pénale 140, 148 al. 6, 148-4, 148-6, 148-7
+
+	**Cité par**:
+
+	  - CODE DE PROCEDURE PENALE - art. D153 (M)
+
+
 ##### Sous-section 3 : De l'indemnisation à raison d'une détention provisoire
 
 ###### Article 149
@@ -5854,6 +6935,39 @@ de la fin des opérations exécutées en vertu de la commission rogatoire.
 	**Cite**:
 
 	  - Code de procédure pénale 64 et 65
+
+
+###### Article 155
+
+Lorsque la commission rogatoire prescrit des opérations simultanées sur divers points du territoire, elle peut, sur l'ordre
+du juge d'instruction mandant, être adressée aux juges d'instruction ou officiers de police judiciaire chargés de son
+exécution sous forme de reproduction ou de copie intégrale de l'original.
+
+Elle peut même, en cas d'urgence, être diffusée par tous moyens ; chaque diffusion doit toujours préciser les mentions
+essentielles de l'original et spécialement la nature de l'inculpation, le nom et la qualité du magistrat mandant.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°57-1426 1957-12-31
+
+	**Modifié par**:
+
+	  - Loi n°85-1407 1985-12-30 art. 23 et 94 JORF 31 décembre 1985 en vigueur le 1er février 1986
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°85-1407 1985-12-30 art. 94
+	  - TXT_SOURCE: CODE DE PROCEDURE PENALE - art. D33 (V)
+	  - TXT_SOURCE: CODE DE PROCEDURE PENALE - art. D34 (V)
+	  - TXT_SOURCE: CODE DE PROCEDURE PENALE - art. D35 (V)
+	  - TXT_SOURCE: CODE DE PROCEDURE PENALE - art. D36 (M)
+
+	**Cité par**:
+
+	  - Code de procédure pénale - art. D35 (V)
+	  - Code de procédure pénale - art. D36 (V)
 
 
 #### Chapitre II : De la chambre d'accusation : juridiction d'instruction du second degré
@@ -6223,6 +7337,31 @@ La chambre d'accusation statue par un seul et même arrêt sur tous les faits en
 	  - Livre des procédures fiscales - art. L231 (V)
 
 
+###### Article 212
+
+Si la chambre d'accusation estime que les faits ne constituent ni crime, ni délit, ni contravention ou si l'auteur est resté
+inconnu ou s'il n'existe pas de charges suffisantes contre l'inculpé, elle déclare qu'il n'y a lieu à suivre. 
+
+Les inculpés provisoirement détenus sont mis en liberté. 
+
+La chambre d'accusation statue par le même arrêt sur la restitution des objets placés sous main de justice. Elle peut refuser
+la restitution lorsque celle-ci présente un danger pour les personnes ou les biens.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°57-1426 1957-12-31
+
+	**Modifié par**:
+
+	  - Loi n°85-1407 1985-12-30 art. 5 et 94 JORF 31 décembre 1985 en vigueur le 1er février 1986
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°85-1407 1985-12-30 art. 94
+
+
 ###### Article 215
 
 L'arrêt de mise en accusation contient, à peine de nullité, l'exposé et la qualification légale des faits, objets de
@@ -6268,6 +7407,47 @@ les frais et dépens, le juge peut condamner l'auteur de l'infraction à lui pay
 
 	  - Ordonnance n°58-1296 du 23 décembre 1958 - art. 1 () JORF 24 décembre 1958
 	  - Loi n°81-82 du 2 février 1981 - art. 41 () JORF 3 février 1981
+
+
+###### Article 217
+
+Hors le cas prévu à l'article 196, les dispositifs des arrêts sont, dans les trois jours, par lettre recommandée, portés à la
+connaissance des conseils des inculpés et des parties civiles.
+
+Dans les mêmes formes et délais, les dispositifs des arrêts de non-lieu sont portés à la connaissance des inculpés, les
+dispositifs des arrêts de renvoi devant le tribunal correctionnel ou de police sont portés à la connaissance des inculpés et
+des parties civiles.
+
+Les arrêts contre lesquels les inculpés ou les parties civiles peuvent former un pourvoi en cassation leur sont signifiés à
+la requête du procureur général dans les trois jours. Toutefois, ces arrêts sont notifiés par lettre recommandée à l'inculpé,
+à la partie civile ou au requérant mentionné au cinquième alinéa de l'article 99 tant que le juge d'instruction n'a pas
+clôturé son information.
+
+Toute notification d'acte à la dernière adresse déclarée par une partie est réputée faite à sa personne.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°57-1426 1957-12-31
+
+	**Modifié par**:
+
+	  - Ordonnance 60-529 1960-06-04 art. 2 JORF 8 juin 1960
+	  - Loi n°85-1407 1985-12-30 art. 35 et 94 JORF 31 décembre 1985 en vigueur le 1er février 1986
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°85-1407 1985-12-30 art. 94
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. 196 (M)
+	  - Code de procédure pénale 99 al. 5, 196
+
+	**Cité par**:
+
+	  - Code de procédure pénale - art. 385 (V)
 
 
 ###### Article 218
@@ -6845,6 +8025,33 @@ La cour d'assises comprend : la cour proprement dite et le jury.
 	  - Code de procédure pénale - art. 877 (V)
 
 
+###### Article 241
+
+Les fonctions du ministère public y sont exercées dans les conditions définies aux articles 34 et 39.
+
+Toutefois, le procureur général peut déléguer tout magistrat du ministère public du ressort de la cour d'appel auprès d'une
+cour d'assises instituée dans ce ressort.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 58-1296 1958-12-23
+
+	**Modifié par**:
+
+	  - Loi n°85-1407 1985-12-30 art. 36 et art. 94 JORF 31 décembre 1985 en vigueur le 1er février 1986
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°85-1407 1985-12-30 art. 94
+
+	**Cite**:
+
+	  - Code de procédure pénale - art. 34 (V)
+	  - Code de procédure pénale - art. 39 (VT)
+
+
 ###### Article 242
 
 La cour d'assises est, à l'audience, assistée d'un greffier.
@@ -7233,6 +8440,45 @@ l'article 42 du Code pénal ;
 	  - Code pénal 42
 	  - Code de procédure pénale 288 al. 5
 	  - Code de la santé publique L326-1 à L355
+
+
+###### Article 257
+
+Les fonctions de juré sont incompatibles avec celles qui sont énumérées ci-après :
+
+1° Membre du Gouvernement, du Parlement, du Conseil constitutionnel, du Conseil supérieur de la magistrature et du Conseil
+économique et social ;
+
+2° Membre du Conseil d'Etat ou de la Cour des comptes, magistrat de l'ordre judiciaire, membre des tribunaux administratifs,
+magistrat des tribunaux de commerce, assesseur des tribunaux paritaires de baux ruraux et conseiller prud'homme ;
+
+3° Secrétaire général du Gouvernement ou d'un ministère, directeur de ministère, membre du corps préfectoral ;
+
+4° Fonctionnaire des services de police ou de l'administration pénitentiaire, militaire, en activité de service.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 58-1296 1958-12-23
+
+	**Modifié par**:
+
+	  - Loi n°72-1226 1972-12-29 art. 4 JORF 30 décembre 1972
+	  - Loi n°78-788 1978-07-28 art. 14 JORF 29 juillet 1978
+	  - Loi n°85-1407 1985-12-30 art. 37 et art. 94 JORF 31 décembre 1985 en vigueur le 1er février 1986
+
+	**Cité par**:
+
+	  - Loi n°83-520 du 27 juin 1983 - art. 24 (V)
+	  - CODE DE PROCEDURE PENALE - art. 255 (V)
+	  - CODE DE PROCEDURE PENALE - art. 266 (V)
+	  - Code de la défense. - art. L4121-6 (V)
+	  - Code de procédure pénale - art. 829 (V)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°85-1407 1985-12-30 art. 94
 
 
 ###### Article 258
@@ -8561,6 +9807,35 @@ Le président déclare le jury définitivement constitué.
 	  - Code de procédure pénale - art. 877 (M)
 
 
+###### Article 305-1
+
+L'exception tirée d'une nullité autre que celles purgées par l'arrêt de renvoi devenu définitif et entachant la procédure qui
+précède l'ouverture des débats doit, à peine de forclusion, être soulevée dès que le jury de jugement est définitivement
+constitué. Cet incident contentieux est réglé conformément aux dispositions de l'article 316.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 58-1296 1958-12-23
+
+	**Créé par**:
+
+	  - Loi n°85-1407 1985-12-30 art. 39 et art. 94 JORF 31 décembre 1985 en vigueur le 1er février 1986
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°85-1407 1985-12-30 art. 94
+
+	**Cite**:
+
+	  - Code de procédure pénale - art. 316 (V)
+
+	**Cité par**:
+
+	  - Code de procédure pénale - art. 599 (V)
+
+
 #### Chapitre VI : Des débats
 
 ##### Section 1 : Dispositions générales
@@ -9023,6 +10298,31 @@ conscience ou le respect dû aux lois et qu'il doit s'exprimer avec décence et 
 	**Codifié par**:
 
 	  - Ordonnance 58-1296 1958-12-23
+
+
+###### Article 324
+
+Le président ordonne à l'huissier de faire l'appel des témoins cités par le ministère public, par l'accusé et la partie
+civile dont les noms ont été signifiés conformément aux prescriptions de l'article 281.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 58-1296 1958-12-23
+
+	**Modifié par**:
+
+	  - Ordonnance 60-529 1960-06-04 art. 8 JORF 8 juin 1960
+	  - Loi n°85-1407 1985-12-30 art. 40 JORF 31 décembre 1985 en vigueur le 1er février 1986
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°85-1407 1985-12-30 art. 94
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. 281 (M)
 
 
 ###### Article 325
@@ -10228,6 +11528,34 @@ l'audience, où les parties peuvent encore présenter leurs observations et où 
 	**Codifié par**:
 
 	  - Ordonnance 58-1296 1958-12-23
+
+
+###### Article 373
+
+La cour peut ordonner d'office la restitution des objets placés sous la main de la justice. Toutefois, s'il y a eu
+condamnation, cette restitution n'est effectuée que si son bénéficiaire justifie que le condamné a laissé passer les délais
+sans se pourvoir en cassation, ou s'il s'est pourvu, que l'affaire est définitivement jugée.
+
+La cour peut refuser la restitution lorsque celle-ci présente un danger pour les personnes ou les biens.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 58-1296 1958-12-23
+
+	**Modifié par**:
+
+	  - Loi n°85-1407 1985-12-30 art. 7 et art. 94 JORF 31 décembre 1985 en vigueur le 1er février 1986
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°85-1407 1985-12-30 art. 94
+
+	**Cité par**:
+
+	  - Code de justice militaire - art. 252 (Ab)
+	  - Code de procédure pénale - art. 573 (V)
 
 
 ###### Article 375-1
@@ -13017,6 +14345,63 @@ décision, le mandat continue à produire ses effets.
 	  - Loi n°70-643 du 17 juillet 1970 - art. 10 () JORF 19 juillet 1970
 
 
+###### Article 465
+
+Dans le cas visé à l'article 464, premier alinéa, s'il s'agit d'un délit de droit commun et si la peine prononcée est au
+moins d'une année d'emprisonnement sans sursis, le tribunal peut, par décision spéciale et motivée, lorsque les éléments de
+l'espèce justifient une mesure particulière de sûreté, décerner mandat de dépôt ou d'arrêt contre le prévenu.
+
+Le mandat d'arrêt continue à produire son effet, même si le tribunal, sur opposition, ou la cour, sur appel, réduit la peine
+à moins d'une année d'emprisonnement.
+
+Le mandat de dépôt décerné par le tribunal produit également effet lorsque, sur appel, la cour réduit la peine
+d'emprisonnement à moins d'une année.
+
+Toutefois, le tribunal, sur opposition, ou la cour, sur appel, a la faculté par décision spéciale et motivée, de donner
+mainlevée de ces mandats.
+
+En toutes circonstances, les mandats décernés dans les cas susvisés continuent à produire leur effet, nonobstant le pourvoi
+en cassation.
+
+En cas d'opposition au jugement dans les conditions prévues par les articles 491 et 492, l'affaire doit venir devant le
+tribunal à la première audience ou au plus tard dans la huitaine du jour de l'opposition, faute de quoi le prévenu doit être
+mis en liberté d'office. S'il y a lieu à remise, le tribunal doit statuer d'office par une décision motivée sur le maintien
+ou la mainlevée du mandat, le ministère public entendu. Le tout sans préjudice de la faculté pour le prévenu de former une
+demande de mise en liberté provisoire dans les conditions prévues par les articles 148-1 et 148-2.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Ordonnance n°45-174 du 2 février 1945 - art. 22 (V)
+	  - CODE DE PROCEDURE PENALE - art. 471 (V)
+	  - Code de procédure pénale - art. 397-4 (V)
+	  - Code de procédure pénale - art. 569 (V)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Ordonnance 58-1273 1958-12-22 art. 18
+	  - SPEC_APPLI: Ordonnance n°58-1296 du 23 décembre 1958 - art. 10, v. init.
+	  - SPEC_APPLI: Loi n°85-1407 1985-12-30 art. 94
+
+	**Codifié par**:
+
+	  - Ordonnance 58-1296 1958-12-23
+
+	**Modifié par**:
+
+	  - Loi n°70-643 1970-07-17 art. 11-I et art. 11-II JORF 19 juillet 1970
+	  - Loi n°85-1407 1985-12-30 art. 42 et art. 94 JORF 31 décembre 1985 en vigueur le 1er février 1986
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. 148-1 (M)
+	  - CODE DE PROCEDURE PENALE - art. 148-2 (M)
+	  - CODE DE PROCEDURE PENALE - art. 464 (M)
+	  - CODE DE PROCEDURE PENALE - art. 491 (V)
+	  - CODE DE PROCEDURE PENALE - art. 492 (M)
+
+
 ###### Article 466
 
 Si le tribunal régulièrement saisi d'un fait qualifié délit par la loi, estime, au résultat des débats, que ce fait ne
@@ -13615,23 +15000,66 @@ La cour ne peut être saisie qu'après que le tribunal a statué au fond.
 	  - Ordonnance 58-1296 1958-12-23
 
 
-###### Article 483
+###### Article 484
 
-[Article abrogé.]
+Lorsque la cour d'appel est saisie du fond de l'affaire, elle est compétente pour statuer sur les restitutions dans les
+conditions prévues par les articles 478 à 481.
+
+La cour d'appel peut refuser la restitution lorsque celle-ci présente un danger pour les personnes ou les biens.
 
 **Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°85-1407 1985-02-30 art. 94
 
 	**Codifié par**:
 
 	  - Ordonnance 58-1296 1958-12-23
 
-	**Abrogé par**:
+	**Modifié par**:
 
-	  - Loi n°85-1407 1985-12-30 art. 9 et art. 94 JORF 31 décembre 1985 en vigueur le 1er février 1986
+	  - Loi n°85-1407 1985-12-30 art. 8 et art. 94 JORF 31 décembre 1985 en vigueur le 1er février 1986
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°85-1407 1985-12-30 art. 94
+
+	**Cite**:
+
+	  - Code de procédure pénale 478 à 481
+
+
+###### Article 485
+
+Tout jugement doit contenir des motifs et un dispositif.
+
+Les motifs constituent la base de la décision.
+
+Le dispositif énonce les infractions dont les personnes citées sont déclarées coupables ou responsables ainsi que la peine,
+les textes de loi appliqués, et les condamnations civiles.
+
+Il est donné lecture du jugement par le président ou par l'un des juges ; cette lecture peut être limitée au dispositif. Dans
+le cas prévu par l'alinéa premier de l'article 398, elle peut être faite même en l'absence des autres magistrats du siège.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 58-1296 1958-12-23
+
+	**Modifié par**:
+
+	  - Loi n°70-643 du 17 juillet 1970 - art. 40 () JORF 19 juillet 1970
+	  - Loi n°85-1407 1985-12-30 art. 43-I, art. 43-II, art. 94 JORF 31 décembre 1985 en vigueur le 1er février 1986
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°85-1407 1985-12-30 art. 94
+
+	**Cité par**:
+
+	  - Code de justice militaire - art. 207 (Ab)
+
+	**Cite**:
+
+	  - Code de procédure pénale 398 al. 1
 
 
 ###### Article 486
@@ -13738,6 +15166,57 @@ Il peut toutefois limiter cette opposition aux dispositions civiles du jugement.
 	  - Code de procédure pénale - art. 528 (VD)
 
 
+###### Article 490
+
+L'opposition est portée à la connaissance du ministère public, à charge par lui d'en aviser la partie civile par lettre
+recommandée avec demande d'avis de réception.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 58-1296 1958-12-23
+
+	**Modifié par**:
+
+	  - Ordonnance 60-529 1960-06-04 art. 8 JORF 8 juin 1960
+	  - Loi n°85-1407 1985-12-30 art. 44 et art. 94 JORF 31 décembre 1985 en vigueur le 1er février 1986
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°85-1407 1985-12-30 art. 94
+
+
+###### Article 490-1
+
+Lorsque l'opposant est détenu, l'opposition peut être faite au moyen d'une déclaration auprès du chef de l'établissement
+pénitentiaire.
+
+Cette déclaration est constatée, datée et signée, par le chef de l'établissement pénitentiaire. Elle est également signée par
+le demandeur. Si celui-ci ne peut signer, il en est fait mention par le chef d'établissement.
+
+Ce document est adressé sans délai, en original ou en copie et par tout moyen, au ministère public près la juridiction qui a
+rendu la décision attaquée.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 58-1296 1958-12-23
+
+	**Créé par**:
+
+	  - Loi n°85-1407 1985-12-30 art. 45 et art. 94 JORF 31 décembre 1985 en vigueur le 1er février 1986
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°85-1407 1985-12-30 art. 94
+
+	**Cité par**:
+
+	  - Code de procédure pénale - art. D153 (V)
+
+
 ###### Article 491
 
 Si la signification du jugement a été faite à la personne du prévenu, l'opposition doit être formée dans les délais ci-après,
@@ -13828,6 +15307,80 @@ dans les délais fixés à l'article 491, lesquels courent à compter de la sign
 
 
 ##### Paragraphe 3 : De l'itératif défaut
+
+###### Article 494
+
+L'opposition est non avenue si l'opposant ne comparaît pas à la date qui lui est fixée soit par la notification à lui faite
+verbalement et constatée par procès-verbal au moment où l'opposition a été formée, soit par une nouvelle citation, délivrée à
+la personne de l'intéressé, conformément aux dispositions des articles 550 et suivants.
+
+Toutefois, en cas de condamnation à une peine privative de liberté sans sursis, le tribunal peut ordonner le renvoi de
+l'affaire à une prochaine audience sans qu'il y ait lieu à délivrance de nouvelles citations et donner l'ordre à la force
+publique de rechercher et de conduire l'opposant devant le procureur de la République du siège du tribunal qui, soit le fait
+comparaître à l'audience de renvoi, soit le met en demeure de s'y présenter.
+
+Si l'opposant est trouvé en dehors du ressort du tribunal, il est conduit devant le procureur de la République du lieu de
+l'arrestation qui le met en demeure de se présenter à l'audience de renvoi.
+
+Dans tous les cas, le procureur de la République dresse procès-verbal de ses diligences et l'opposant ne peut être retenu
+plus de vingt-quatre heures.
+
+Si les recherches ordonnées sont demeurées sans effet, le tribunal déclare l'opposition non avenue sans nouveau renvoi.
+
+Il en est de même si l'opposant, régulièrement mis en demeure, ne comparaît pas.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 58-1296 1958-12-23
+
+	**Modifié par**:
+
+	  - Loi n°72-1226 1972-12-29 art. 34 JORF 30 décembre 1972 en vigueur le 1er janvier 1973
+	  - Loi n°85-1407 1985-12-30 art. 46-I et art. 46-II, art. 94 JORF 31 décembre 1985 en vigueur le 1er février 1986
+
+	**Cité par**:
+
+	  - Loi n°76-1220 du 28 décembre 1976 - art. 19 (V)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°85-1407 1985-12-30 art. 94
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. 550 (M)
+
+
+###### Article 494-1
+
+Dans les cas prévus par les premier à cinquième alinéas de l'article 494 et si des circonstances particulières le justifient,
+le tribunal peut, par décision spécialement motivée, modifier le jugement frappé d'opposition, sans possibilité d'aggravation
+de la peine.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 58-1296 1958-12-23
+
+	**Créé par**:
+
+	  - Loi n°85-1407 1985-12-30 art. 47 et art. 94 JORF 31 décembre 1985 en vigueur le 1er février 1986
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°85-1407 1985-12-30 art. 94
+
+	**Cité par**:
+
+	  - Code de procédure pénale - art. 498 (V)
+
+	**Cite**:
+
+	  - Code de procédure pénale 494 al. 1 à al. 5
+
 
 ###### Article 495
 
@@ -13922,6 +15475,56 @@ La faculté d'appeler appartient :
 	  - Loi n°83-608 1983-07-08 art. 8 JORF 9 juillet 1983 en vigueur le 1er septembre 1983
 
 
+###### Article 498
+
+Sauf dans le cas prévu à l'article 505, l'appel est interjeté dans le délai de dix jours à compter du prononcé du jugement
+contradictoire.
+
+Toutefois, le délai d'appel ne court qu'à compter de la signification du jugement quel qu'en soit le mode :
+
+1° Pour la partie qui, après débat contradictoire, n'était pas présente ou représentée à l'audience où le jugement a été
+prononcé, mais seulement dans le cas où elle-même ou son représentant n'auraient pas été informés du jour où le jugement
+serait prononcé ;
+
+2° Pour le prévenu qui a demandé à être jugé en son absence dans les conditions prévues par l'article 411, alinéa 1er ;
+
+3° Pour le prévenu qui n'a pas comparu, dans les conditions prévues par l'article 411, alinéa 4.
+
+Il en est de même dans les cas prévus par les articles 410 et 494-1.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Ordonnance n°45-174 du 2 février 1945 - art. 24 (V)
+	  - Loi n°83-520 du 27 juin 1983 - art. 38 (V)
+	  - CODE DE PROCEDURE PENALE - art. 495-11 (V)
+	  - CODE DE PROCEDURE PENALE - art. 495-13 (V)
+	  - Code de procédure pénale - art. 500-1 (V)
+	  - Code de procédure pénale - art. 505 (V)
+	  - Code de procédure pénale - art. 505-1 (V)
+	  - Code de procédure pénale - art. 847 (V)
+
+	**Codifié par**:
+
+	  - Ordonnance 58-1296 1958-12-23
+
+	**Modifié par**:
+
+	  - Ordonnance 60-529 1960-06-04 art. 2 JORF 8 juin 1960
+	  - Loi n°85-1407 1985-12-30 art. 48 et art. 94 JORF 31 décembre 1985 en vigueur le 1er février 1986
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°85-1407 1985-12-30 art. 94
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. 410 (M)
+	  - CODE DE PROCEDURE PENALE - art. 494-1 (V)
+	  - Code de procédure pénale 410, 411 al. 1, al. 4, 494-1, 505
+
+
 ###### Article 499
 
 Si le jugement est rendu par défaut ou par itératif défaut, le délai d'appel ne court qu'à compter de la signification du
@@ -13967,6 +15570,126 @@ pour interjeter appel.
 	  - Code de procédure pénale - art. 846 (V)
 	  - Code de procédure pénale - art. 847 (V)
 	  - Code de procédure pénale - art. 893 (V)
+
+
+###### Article 501
+
+Lorsque le tribunal statue sur une demande de mise en liberté conformément aux articles 148-1 et 148-2 ainsi que lorsqu'il
+statue sur une demande de mainlevée ou de modification de contrôle judiciaire, l'appel doit être formé dans un délai de
+vingt-quatre heures.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 58-1296 1958-12-23
+
+	**Modifié par**:
+
+	  - Loi n°70-643 du 17 juillet 1970 - art. 13 () JORF 19 juillet 1970
+	  - Loi n°84-576 1984-07-09 art. 17 et art. 19 JORF 10 juillet 1984 en vigueur le 1er janvier 1985
+	  - Loi n°85-1407 1985-12-30 art. 49 et art. 94 JORF 31 décembre 1985, en vigueur le 1er février 1986
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°85-1407 1985-12-30 art. 94
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. 148-1 (M)
+	  - CODE DE PROCEDURE PENALE - art. 148-2 (M)
+
+
+###### Article 502
+
+La déclaration d'appel doit être faite au greffier de la juridiction qui a rendu la décision attaquée.
+
+Elle doit être signée par le greffier et par l'appelant lui-même, ou par un avoué près la juridiction qui a statué, ou par un
+avocat, ou par un fondé de pouvoir spécial ; dans ce dernier cas, le pouvoir est annexé à l'acte dressé par le greffier. Si
+l'appelant ne peut signer, il en sera fait mention par le greffier.
+
+Elle est inscrite sur un registre public à ce destiné et toute personne a le droit de s'en faire délivrer une copie.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Ordonnance n°45-2658 du 2 novembre 1945 - art. 35 bis (Ab)
+	  - Décret n°67-902 du 12 octobre 1967 - art. 24 (Ab)
+	  - Loi n°83-520 du 27 juin 1983 - art. 38 (V)
+	  - Ordonnance n°2000-371 du 26 avril 2000 - art. 48 (V)
+	  - Ordonnance n°2000-372 du 26 avril 2000 - art. 50 (V)
+	  - Ordonnance n°2000-373 du 26 avril 2000 - art. 48 (M)
+	  - Décret n°2000-1388 du 30 décembre 2000 - art. 6 (V)
+	  - Ordonnance n°2002-388 du 20 mars 2002 - art. 50 (V)
+	  - Décret n°2012-125 du 30 janvier 2012 - art. 3 (V)
+	  - CODE DE PROCEDURE PENALE - art. 495-11 (V)
+	  - CODE DE PROCEDURE PENALE - art. D116-9 (Ab)
+	  - CODE DE PROCEDURE PENALE - art. D528 (Ab)
+	  - CODE DE PROCEDURE PENALE - art. R61-1 (V)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. L555-2 (V)
+	  - Code de procédure pénale - art. 186 (VD)
+	  - Code de procédure pénale - art. 505-1 (V)
+	  - Code de procédure pénale - art. 847 (V)
+	  - Code de procédure pénale - art. D49-39 (V)
+
+	**Codifié par**:
+
+	  - Ordonnance 58-1296 1958-12-23
+
+	**Modifié par**:
+
+	  - Loi n°85-1407 1985-12-30 art. 88 et art. 94 JORF 31 décembre 1985 en vigueur le 1er février 1986
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°85-1407 1985-12-30 art. 94
+
+
+###### Article 503
+
+Lorsque l'appelant est détenu, l'appel peut être fait au moyen d'une déclaration auprès du chef de l'établissement
+pénitentiaire.
+
+Cette déclaration est constatée, datée et signée par le chef de l'établissement pénitentiaire. Elle est également signée par
+l'appelant ; si celui-ci ne peut signer, il en est fait mention par le chef de l'établissement.
+
+Ce document est adressé sans délai, en original ou en copie, au greffe de la juridiction qui a rendu la décision attaquée ;
+il est transcrit sur le registre prévu par le troisième alinéa de l'article 502 annexé à l'acte dressé par le greffier.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 58-1296 1958-12-23
+
+	**Modifié par**:
+
+	  - Loi n°85-1407 1985-12-30 art. 50 et art. 94 JORF 31 décembre 1985, en vigueur le 1er février 1986
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°85-1407 1985-12-30 art. 94
+
+	**Cité par**:
+
+	  - CODE DE PROCEDURE PENALE - art. 186 (V)
+	  - CODE DE PROCEDURE PENALE - art. D116-10 (Ab)
+	  - CODE DE PROCEDURE PENALE - art. D116-9 (Ab)
+	  - CODE DE PROCEDURE PENALE - art. D528 (Ab)
+	  - CODE DE PROCEDURE PENALE - art. R61-1 (V)
+	  - Code de procédure pénale - art. D147-18 (V)
+	  - Code de procédure pénale - art. D153 (V)
+	  - Code de procédure pénale - art. D49-32 (V)
+	  - Code de procédure pénale - art. D49-33 (V)
+	  - Code de procédure pénale - art. D49-36 (V)
+	  - Code de procédure pénale - art. D49-39 (V)
+	  - Code de procédure pénale - art. D523-1 (V)
+	  - Code de procédure pénale - art. D524 (V)
+
+	**Cite**:
+
+	  - Code de procédure pénale 502 al. 3
 
 
 ###### Article 504
@@ -15727,6 +17450,45 @@ du procureur de la République du tribunal saisi.
 	  - ordonnance 60-529 1960-06-04 art. 2 JORF 8 juin 1960
 
 
+###### Article 560
+
+Lorsqu'il n'est pas établi que l'intéressé a reçu la lettre recommandée qui lui a été adressée par l'huissier conformément
+aux dispositions des articles 557 et 558, ou lorsque l'exploit a été délivré au parquet, un officier ou un agent de police
+judiciaire peut être requis par le procureur de la République à l'effet de procéder à des recherches en vue de découvrir
+l'adresse de l'intéressé. En cas de découverte de ce dernier, l'officier ou l'agent de police judiciaire lui donne
+connaissance de l'exploit, qui produit alors les mêmes effets que s'il avait été délivré à personne.
+
+Dans tous les cas, l'officier ou l'agent de police judiciaire dresse procès-verbal de ses recherches et le transmet sans
+délai au procureur de la République.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 58-1296 1958-12-23
+
+	**Cité par**:
+
+	  - Loi n°83-520 du 27 juin 1983 - art. 73 (V)
+	  - CODE DE PROCEDURE PENALE - art. 410 (M)
+	  - CODE DE PROCEDURE PENALE - art. 492 (V)
+	  - CODE DE PROCEDURE PENALE - art. 498-1 (V)
+	  - CODE DE PROCEDURE PENALE - art. 559-1 (V)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°85-1407 1985-12-30 art. 94
+
+	**Modifié par**:
+
+	  - loi 85-1407 1985-12-30 art. 65 art. 94 JORF 31 décembre 1985 en vigueur le 1er février 1986
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. 557 (M)
+	  - CODE DE PROCEDURE PENALE - art. 558 (M)
+
+
 ###### Article 561
 
 Dans les cas prévus aux articles 557 et 558, la copie est délivrée sous enveloppe fermée ne portant d'autres indications,
@@ -15915,6 +17677,43 @@ pourvoi. Sa décision n'est pas susceptible de recours.
 	  - Code de procédure pénale 186 al. 8, 706, 706-2
 
 
+###### Article 567-2
+
+La chambre criminelle saisie d'un pourvoi contre un arrêt de la chambre de l'instruction rendu en matière de détention
+provisoire doit statuer dans les trois mois qui suivent la réception du dossier à la Cour de cassation, faute de quoi
+l'inculpé est mis d'office en liberté. 
+
+Le demandeur en cassation ou son avocat doit, à peine de déchéance, déposer son mémoire exposant les moyens de cassation dans
+le délai d'un mois à compter de la réception du dossier, sauf décision du président de la chambre criminelle prorogeant,
+
+à titre exceptionnel, le délai pour une durée de huit jours. Après l'expiration de ce délai, aucun moyen nouveau ne peut être
+soulevé par lui et il ne peut plus être déposé de mémoire. 
+
+Dès le dépôt du mémoire, le président de la chambre criminelle fixe la date de l'audience.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 58-1296 1958-12-23
+
+	**Modifié par**:
+
+	  - Loi n°81-82 du 2 février 1981 - art. 44 () JORF 3 février 1981
+	  - Loi n°83-466 du 10 juin 1983 - art. 38 () JORF 11 juin 1983 en vigueur le 27 juin 1983
+	  - Loi n°85-1407 1985-12-30 art. 52-I, art. 52-II et art. 94 JORF 31 décembre 1985 en vigueur le 1er février 1986
+
+	**Cité par**:
+
+	  - Code de procédure pénale - art. 590-2 (V)
+	  - Code de procédure pénale - art. 728-53 (V)
+	  - Code de procédure pénale - art. R*49-30 (VD)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°85-1407, 1985-12-30, art. 94
+
+
 ###### Article 568
 
 Le ministère public et toutes les parties ont cinq jours francs après celui où la décision attaquée a été prononcée pour se
@@ -16074,6 +17873,25 @@ interlocutoires ou d'instruction rendus par les chambres d'accusation.
 	  - Code de procédure pénale - art. 604 (V)
 
 
+###### Article 571-1
+
+Le désistement du pourvoi est constaté par ordonnance du président de la chambre criminelle.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 58-1296 1958-12-23
+
+	**Créé par**:
+
+	  - Loi n°85-1407 1985-12-30 art. 53, art. 94 JORF 31 décembre 1985 en vigueur le 1er février 1986
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°85-1407 1985-12-30 art. 94
+
+
 ###### Article 572
 
 Les arrêts d'acquittement prononcés par la cour d'assises ne peuvent faire l'objet d'un pourvoi que dans le seul intérêt de
@@ -16141,6 +17959,42 @@ qu'il présente des dispositions définitives que le tribunal, saisi de la prév
 	**Cité par**:
 
 	  - CODE DE PROCEDURE PENALE - art. 684 (Ab)
+
+
+###### Article 574-1
+
+La chambre criminelle saisie d'un pourvoi contre l'arrêt portant mise en accusation doit statuer dans les trois mois de la
+réception du dossier à la Cour de cassation. 
+
+Le demandeur en cassation ou son avocat doit, à peine de déchéance, déposer son mémoire exposant les moyens de cassation dans
+le délai d'un mois à compter de la réception du dossier à la Cour de cassation, sauf décision du président de la chambre
+criminelle prorogeant, à titre exceptionnel, le délai pour une durée de huit jours. Après l'expiration de ce délai, aucun
+moyen nouveau ne peut être soulevé par lui et il ne peut plus être déposé de mémoire. 
+
+S'il n'est pas statué dans le délai prévu au premier alinéa, le prévenu est mis d'office en liberté.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 58-1296 1958-12-23
+
+	**Créé par**:
+
+	  - Loi n°81-82 1981-02-02 art. 60-I, JORF 3 février 1981
+
+	**Modifié par**:
+
+	  - Loi n°85-1407 1985-12-30 art. 66 art. 94 JORF 31 décembre 1985 en vigueur le 1er février 1986
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°85-1407 1985-12-30 art. 94
+
+	**Cité par**:
+
+	  - Code de procédure pénale - art. 590-2 (V)
+	  - Code de procédure pénale - art. R*49-30 (VD)
 
 
 ###### Article 575
@@ -16215,6 +18069,40 @@ Elle est inscrite sur un registre public, à ce destiné et toute personne a le 
 	**Codifié par**:
 
 	  - Ordonnance 58-1296 1958-12-23
+
+
+###### Article 577
+
+Lorsque le demandeur en cassation est détenu, le pourvoi peut être formé au moyen d'une déclaration auprès du chef de
+l'établissement pénitentiaire. 
+
+Cette déclaration est constatée, datée et signée par le chef de l'établissement pénitentiaire. Elle est également signée par
+le demandeur ; si celui-ci ne peut signer, il en est fait mention par le chef de l'établissement. 
+
+Ce document est adressé sans délai, en original ou en copie, au greffe de la juridiction qui a rendu la décision attaquée ;
+il est transcrit sur le registre prévu par le troisième alinéa de l'article 576 et annexé à l'acte dressé par le greffier.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 58-1296 1958-12-23
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°85-1407 1985-12-30 art. 94
+
+	**Cite**:
+
+	  - Code de procédure pénale - art. 576 (V)
+
+	**Cité par**:
+
+	  - Code de procédure pénale - art. D153 (V)
+
+	**Modifié par**:
+
+	  - Loi n°85-1407, 1985-12-30 art. 67 art. 94 JORF 31 décembre 1985, en vigueur le 1er février 1986
 
 
 ###### Article 578
@@ -16626,6 +18514,34 @@ l'annulation de l'arrêt sous le prétexte qu'il y aurait erreur dans la citatio
 	**Codifié par**:
 
 	  - Ordonnance 58-1296 1958-12-23
+
+
+###### Article 599
+
+En matière correctionnelle, le prévenu n'est pas recevable à présenter comme moyen de cassation les nullités commises en
+première instance s'il ne les a pas opposées devant la cour d'appel, à l'exception de la nullité pour cause d'incompétence
+lorsqu'il y a eu appel du ministère public.
+
+En matière criminelle, l'accusé n'est pas recevable à présenter comme moyen de cassation les nullités qu'il n'a pas soulevées
+devant la cour d'assises conformément aux prescriptions de l'article 305-1.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 58-1296 1958-12-23
+
+	**Modifié par**:
+
+	  - Loi n°85-1407 1985-12-30 art. 68 art. 94 JORF 31 décembre 1985 en vigueur le 1er février 1986
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°85-1407 1985-12-30 art. 94
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. 305-1 (V)
 
 
 ###### Article 600
@@ -18107,6 +20023,37 @@ Il est alors procédé dans les formes prévues aux articles 654, alinéa 2, et 
 
 ### Titre V : Des règlements de juges
 
+###### Article 657
+
+Lorsque deux juges d'instruction, appartenant à un même tribunal ou à des tribunaux différents, se trouvent simultanément
+saisis de la même infraction, le ministère public peut, dans l'intérêt d'une bonne administration de la justice, requérir
+l'un des juges de se dessaisir au profit de l'autre. Le dessaisissement n'a lieu que si les deux juges en sont d'accord. Si
+le conflit de compétence subsiste, il est procédé, selon les cas, conformément aux dispositions des articles 84,658 ou 659.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 58-1296 1958-12-23
+
+	**Modifié par**:
+
+	  - Loi n°85-1407 1985-12-30 art. 69, art. 87, art. 94 JORF 31 décembre 1985 en vigueur le 1er février 1986
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°85-1407 1985-12-30 art. 94
+
+	**Cite**:
+
+	  - Code de procédure pénale - art. 658 (VT)
+	  - Code de procédure pénale - art. 659 (V)
+
+	**Cité par**:
+
+	  - Code de procédure pénale - art. 84 (MMN)
+
+
 ###### Article 659
 
 Tous autres conflits de compétence sont portés devant la chambre criminelle de la Cour de cassation, laquelle est saisie par
@@ -18215,6 +20162,35 @@ le même intérêt d'une bonne administration de la justice.
 	  - Code de justice militaire - art. 5 (Ab)
 	  - Code de justice militaire - art. 51 (Ab)
 	  - Code de justice militaire - art. 76 (M)
+
+
+###### Article 664
+
+Lorsqu'un inculpé ou un prévenu est détenu provisoirement en vertu d'une ordonnance ou d'un jugement prescrivant la détention
+ou en exécution d'une condamnation, le ministère public peut, dans l'intérêt d'une bonne administration de la justice,
+notamment pour éviter le transfèrement du détenu, requérir le renvoi de la procédure de la juridiction d'instruction ou de
+jugement saisi à celle du lieu de détention. Il est procédé comme en matière de règlement de juges.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 58-1296 1958-12-23
+
+	**Modifié par**:
+
+	  - Ordonnance 60-529 1960-06-04 art. 2 JORF 8 juin 1960
+	  - Loi n°75-701 1975-08-06 art. 16 JORF 7 août 1975
+	  - Loi n°85-1407 1985-12-30 art. 71, art. 94 JORF 31 décembre 1985 en vigueur le 1er février 1986
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°85-1407 1985-12-30 art. 94
+
+	**Cité par**:
+
+	  - Code de procédure pénale - art. 663 (MMN)
+	  - Code de procédure pénale - art. D298 (V)
 
 
 ###### Article 665
@@ -18942,6 +20918,37 @@ nationalité française.
 	**Liens**:
 
 	  - SPEC_APPLI: Loi n°75-624 1975-07-21 Décret fixant la date d'entrée en vigueur - absence
+
+
+###### Article 689-2
+
+Quiconque, hors du territoire de la République, s'est rendu coupable de faits qualifiés crime ou délit qui constituent des
+tortures au sens de l'article premier de la convention contre la torture et autres peines ou traitements cruels, inhumains ou
+dégradants, adoptée à New York le 10 décembre 1984, peut être poursuivi et jugé par les juridictions françaises s'il est
+trouvé en France.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Convention contre la torture et autres peines ou traitements cruels, inhumains ou dégradants, 1984-12-10 New-York
+
+	**Liens**:
+
+	  - SPEC_APPLI: Dispositions applicables à compter de la date d'entrée en vigueur, en ce qui concerne la France, de la convention sus-citée adoptée à New York le 10 décembre 1984, cf. Loi 85-1407 1985-12-30 art. 72-II
+
+	**Codifié par**:
+
+	  - Ordonnance 58-1296 1958-12-23
+
+	**Créé par**:
+
+	  - Loi n°85-1407 1985-12-30 art. 72-I et art. 94 JORF 31 décembre 1985 en vigueur le 1er février 1986
+
+	**Cité par**:
+
+	  - Décret n°2013-987 du 5 novembre 2013 - art. 2 (V)
+	  - Code de procédure pénale - art. 628-10 (V)
 
 
 ###### Article 690
@@ -20063,6 +22070,63 @@ en application de l'article 522.
 
 ### Titre XIV : Du recours en indemnité ouvert à certaines victimes de dommages résultant d'une infraction
 
+###### Article 706-3
+
+Toute personne ayant subi un préjudice résultant de faits volontaires ou non qui présentent le caractère matériel d'une
+infraction peut obtenir de l'Etat une indemnité lorsque sont réunies les conditions suivantes :
+
+1° Ces faits soit ont causé un dommage corporel et ont entraîné la mort, une incapacité permanente ou une incapacité totale
+de travail personnel pendant plus d'un mois, soit sont prévus et réprimés par les articles 331 à 331-1 du Code pénal ;
+
+2° Le préjudice consiste en un trouble grave dans les conditions de vie résultant d'une perte ou d'une diminution de revenus,
+d'un accroissement de charges, d'une inaptitude à exercer une activité professionnelle ou d'une atteinte à l'intégrité soit
+physique, soit mentale ;
+
+3° La personne lésée ne peut obtenir, à un titre quelconque, la réparation ou une indemnisation effective et suffisante de ce
+préjudice.
+
+Toutefois, l'indemnité peut être refusée, ou son montant réduit, en raison du comportement de la personne lésée lors de
+l'infraction ou de ses relations avec l'auteur des faits.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 58-1296 1958-12-23
+
+	**Modifié par**:
+
+	  - Loi n°83-608 1983-07-08 art. 15 JORF 9 juillet 1983 en vigueur le 1er janvier 1984
+	  - Loi n°85-1407 1985-12-30 art. 73, art. 94 JORF 31 décembre 1985 en vigueur le 1er février 1986
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°85-1407 1985-12-30 art. 94
+
+	**Cite**:
+
+	  - Code pénal 331, 331-1
+
+	**Cité par**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L214-1 (V)
+	  - CODE DE PROCEDURE PENALE - art. 706-15-1 (V)
+	  - CODE DE PROCEDURE PENALE - art. 706-5 (V)
+	  - CODE GENERAL DES IMPOTS, CGI. - art. 2020 (Ab)
+	  - Code de procédure pénale - art. 53-1 (Ab)
+	  - Code de procédure pénale - art. 706-14 (V)
+	  - Code de procédure pénale - art. 706-15 (V)
+	  - Code de procédure pénale - art. 706-164 (V)
+	  - Code de procédure pénale - art. 706-7 (V)
+	  - Code de procédure pénale - art. 75 (VD)
+	  - Code de procédure pénale - art. 864 (V)
+	  - Code de procédure pénale - art. 900 (V)
+	  - Code de procédure pénale - art. R50-13 (V)
+	  - Code de procédure pénale - art. R50-24 (V)
+	  - Code des assurances - art. L422-4 (V)
+	  - Code des assurances - art. R422-9 (V)
+
+
 ###### Article 706-4
 
 L'indemnité est allouée par une commission instituée dans le ressort de chaque tribunal de grande instance. Cette commission
@@ -20417,6 +22481,49 @@ Cette indemnité sera au maximum égale au triple du montant mensuel de ce plafo
 	  - Code de procédure pénale - art. 864 (V)
 	  - Code de procédure pénale - art. 900 (V)
 	  - Code de procédure pénale - art. R50-10 (V)
+
+
+###### Article 706-15
+
+Ne pourront bénéficier des dispositions prévues par les articles 706-3 et 706-14 que les personnes qui sont de nationalité
+française ou celles qui sont de nationalité étrangère et justifient :
+
+- soit qu'elles sont ressortissantes d'un Etat ayant conclu avec la France un accord de réciprocité pour l'application
+desdites dispositions et qu'elles remplissent les conditions fixées par cet accord ;
+
+- soit qu'elles sont titulaires de la carte dite carte de résident.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 58-1296 1958-12-23
+
+	**Créé par**:
+
+	  - Loi n°81-82 du 2 février 1981 - art. 99 () JORF 3 février 1981
+
+	**Modifié par**:
+
+	  - Loi n°85-1407 1985-12-30 art. 74 et art. 94 JORF 31 décembre 1985 en vigueur le 1er février 1986
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°85-1407 1985-12-30 art. 94
+
+	**Abrogé par**:
+
+	  - Loi n°90-589 du 6 juillet 1990 - art. 17 (V) JORF 11 juillet 1990 en vigueur le 1er janvier 1991
+
+	**Cité par**:
+
+	  - Loi n°90-589 du 6 juillet 1990 - art. 17 (V)
+	  - CODE DE PROCEDURE PENALE - art. 706-5 (V)
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. 706-14 (M)
+	  - CODE DE PROCEDURE PENALE - art. 706-3 (M)
 
 
 ## Livre V : Des procédures d'exécution
@@ -21196,6 +23303,74 @@ de sûreté pour la durée maximale applicable à la détention restant à subir
 	  - Code de procédure pénale - art. 720-1-1 (VD)
 
 
+###### Article 721
+
+Une réduction de peine peut être accordée aux condamnés détenus en exécution d'une ou plusieurs peines privatives de liberté
+s'ils ont donné des preuves suffisantes de bonne conduite.
+
+Cette réduction est accordée par le juge de l'application des peines après avis de la commission de l'application des peines,
+sans qu'elle puisse excéder trois mois par année d'incarcération et sept jours par mois pour une durée d'incarcération
+moindre.
+
+Elle est prononcée en une seule fois si l'incarcération est inférieure à une année et par fractions annuelles dans le cas
+contraire. Toutefois, pour l'incarcération subie sous le régime de la détention provisoire, elle est prononcée, le cas
+échéant, dans un délai de deux mois à compter de la date à laquelle la condamnation est devenue définitive.
+
+Dans l'année suivant son octroi, et en cas de mauvaise conduite du condamné en détention, la réduction de peine peut être
+rapportée en tout ou en partie par le juge de l'application des peines après avis de la commission de l'application des
+peines.
+
+Pour l'application du présent article, la situation de chaque condamné est examinée au moins une fois par an.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 58-1296 1958-12-23
+
+	**Modifié par**:
+
+	  - Loi n°70-643 du 17 juillet 1970 - art. 25 () JORF 19 juillet 1970
+	  - loi 72-1226 1972-12-29 art. 45 JORF 30 décembre 1972
+	  - loi 85-1407 1985-12-30 art. 75 et art. 94 JORF 31 décembre 1985 en vigueur le 1er février 1986
+
+	**Liens**:
+
+	  - SPEC_APPLI: loi 85-1407 1985-12-30 art. 94
+
+	**Cité par**:
+
+	  - Loi n°2005-1549 du 12 décembre 2005 - art. 41 (V)
+	  - Loi n°2005-1549 du 12 décembre 2005 - art. 42 (V)
+	  - Loi n°2014-896 du 15 août 2014 - art. 54 (VD)
+	  - CODE DE PROCEDURE PENALE - art. 721-1 (M)
+	  - CODE DE PROCEDURE PENALE - art. 729-1 (M)
+	  - CODE DE PROCEDURE PENALE - art. 729-2 (Ab)
+	  - CODE DE PROCEDURE PENALE - art. 733-1 (M)
+	  - CODE DE PROCEDURE PENALE - art. D117-2 (M)
+	  - CODE DE PROCEDURE PENALE - art. D147-8 (V)
+	  - CODE DE PROCEDURE PENALE - art. D250-1. (M)
+	  - CODE DE PROCEDURE PENALE - art. D253 (Ab)
+	  - CODE DE PROCEDURE PENALE - art. D254 (M)
+	  - Code de procédure pénale - art. 717-1 (V)
+	  - Code de procédure pénale - art. 721-1-1 (V)
+	  - Code de procédure pénale - art. 721-2 (VD)
+	  - Code de procédure pénale - art. D115-1 (VD)
+	  - Code de procédure pénale - art. D115-14-2 (VT)
+	  - Code de procédure pénale - art. D115-15 (V)
+	  - Code de procédure pénale - art. D115-16 (V)
+	  - Code de procédure pénale - art. D115-18 (V)
+	  - Code de procédure pénale - art. D115-2 (V)
+	  - Code de procédure pénale - art. D115-5 (V)
+	  - Code de procédure pénale - art. D115-6 (V)
+	  - Code de procédure pénale - art. D116-1 (V)
+	  - Code de procédure pénale - art. D147-13 (VT)
+	  - Code de procédure pénale - art. D147-30-44 (VT)
+	  - Code de procédure pénale - art. D49-26 (V)
+	  - Code de procédure pénale - art. D49-41-2 (V)
+	  - Code de procédure pénale - art. D522 (V)
+
+
 ###### Article 722
 
 Auprès de chaque établissement pénitentiaire, le juge de l'application des peines détermine pour chaque condamné les
@@ -21271,6 +23446,106 @@ République et le chef de l'établissement en sont membres de droit.
 	  - CODE DE PROCEDURE PENALE - art. D49-1 (M)
 	  - CODE DE PROCEDURE PENALE - art. D519 (M)
 	  - CODE DE PROCEDURE PENALE - art. R200 (M)
+
+
+###### Article 723
+
+Le placement à l'extérieur permet au condamné d'être employé au dehors d'un établissement pénitentiaire à des travaux
+contrôlés par l'Administration.
+
+Le régime de semi-liberté permet au condamné, hors de l'établissement pénitentiaire et sans surveillance continue, soit
+d'exercer une activité professionnelle, soit de suivre un enseignement ou une formation professionnelle ou encore un stage ou
+un emploi temporaire en vue de son insertion sociale future, soit d'apporter une participation essentielle à la vie de sa
+famille, soit de subir un traitement médical. Le condamné est astreint à rejoindre l'établissement pénitentiaire à
+l'expiration du temps nécessaire à l'activité en vue de laquelle il a été admis à la semi-liberté et à demeurer dans cet
+établissement pendant le temps où, pour quelque cause que ce soit, cette activité se trouve interrompue.
+
+Un décret détermine les conditions auxquelles ces diverses mesures sont accordées et appliquées.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 58-1296 1958-12-23
+
+	**Modifié par**:
+
+	  - loi 78-1097 1978-11-22 art. 3 JORF 23 novembre 1978
+	  - loi 70-643 1970-07-11 art. 26 JORF 19 juillet 1970
+	  - loi 85-1407 1985-11-30 art. 86 et art. 84 JORF 31 décembre 1985 en vigueur le 1er février 1986
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°85-1407 1985-12-30 art. 94
+
+	**Cité par**:
+
+	  - Ordonnance n°2006-1588 du 13 décembre 2006 - art. 37 (VT)
+	  - CODE DE PROCEDURE PENALE - art. 733-1 (M)
+	  - CODE DE PROCEDURE PENALE - art. D380 (M)
+	  - CODE DE PROCEDURE PENALE - art. D570 (V)
+	  - CODE DE PROCEDURE PENALE - art. R200 (M)
+	  - Code de la santé publique - art. L1411-11 (V)
+	  - Code de la sécurité sociale. - art. L381-30 (V)
+	  - Code de la sécurité sociale. - art. L381-31 (V)
+	  - Code de la sécurité sociale. - art. L433-4 (V)
+	  - Code de procédure pénale - art. D103 (T)
+	  - Code de procédure pénale - art. D109 (T)
+	  - Code de procédure pénale - art. D109-1 (T)
+	  - Code de procédure pénale - art. D118 (V)
+	  - Code de procédure pénale - art. D123 (V)
+	  - Code de procédure pénale - art. D124 (V)
+	  - Code de procédure pénale - art. D125 (V)
+	  - Code de procédure pénale - art. D125-1 (V)
+	  - Code de procédure pénale - art. D126 (V)
+	  - Code de procédure pénale - art. D152 (V)
+	  - Code de procédure pénale - art. D365 (V)
+	  - Code de procédure pénale - art. D366 (V)
+	  - Code de procédure pénale - art. D433-7 (V)
+	  - Code de procédure pénale - art. D433-8 (V)
+	  - Code de procédure pénale - art. D508 (V)
+
+
+###### Article 723-1
+
+Lorsque le tribunal prononce une peine égale ou inférieure à six mois d'emprisonnement, il peut décider, à l'égard du
+condamné qui justifie soit de l'exercice d'une activité professionnelle, soit de son assiduité à un enseignement ou une
+formation professionnelle ou encore d'un stage ou d'un emploi temporaire en vue de son insertion sociale future, soit de sa
+participation essentielle à la vie de sa famille, soit de la nécessité de subir un traitement médical, que la peine
+d'emprisonnement sera exécutée sous le régime de la semi-liberté défini par le deuxième alinéa de l'article 723.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 58-1296 1958-12-23
+
+	**Créé par**:
+
+	  - Loi n°70-643 du 17 juillet 1970 - art. 27 () JORF 19 juillet 1970
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°85-1407 1985-12-30 art. 94
+
+	**Modifié par**:
+
+	  - loi 85-1407 1985-12-30 art. 57 et art. 94 JORF 31 décembre 1985 en vigueur le 1er février 1986
+
+	**Cité par**:
+
+	  - CODE DE PROCEDURE PENALE - art. 723-2 (M)
+	  - CODE DE PROCEDURE PENALE - art. D119 (M)
+	  - CODE DE PROCEDURE PENALE - art. D17 (V)
+	  - Code de justice militaire - art. 384 (M)
+	  - Code de procédure pénale - art. D137 (V)
+	  - Code de procédure pénale - art. D147-8 (V)
+	  - Code de procédure pénale - art. D527-2 (V)
+	  - Code de procédure pénale - art. D542 (V)
+
+	**Cite**:
+
+	  - Code de procédure pénale 723 al. 2
 
 
 ###### Article 723-2
@@ -22952,6 +25227,140 @@ saisi de cette poursuite.
 
 ### Titre VI : De la contrainte judiciaire
 
+###### Article 749
+
+Lorsqu'une condamnation à l'amende, aux frais de justice ou à tout autre paiement au profit du Trésor public qui n'a pas le
+caractère d'une réparation civile est prononcée pour une infraction n'étant pas de nature politique et n'emportant pas peine
+perpétuelle, la durée de la contrainte judiciaire est applicable,
+
+en cas d'inexécution de la condamnation, dans les limites prévues par l'article 750. 
+
+Cette durée est déterminée, le cas échéant, en fonction du montant cumulé des condamnations qui n'ont pas été exécutées.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 58-1296 1958-12-23
+
+	**Modifié par**:
+
+	  - Loi n°85-1407 1985-12-30 art. 76, art. 94 JORF 31 décembre 1985 en vigueur le 1er février 1986
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°85-1407 1985-12-30 art. 94
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. 750 (M)
+
+	**Cité par**:
+
+	  - Code de procédure pénale - art. 707-1 (V)
+	  - Code des douanes - art. 382 (V)
+
+
+###### Article 750
+
+La durée de la contrainte judiciaire est fixée ainsi qu'il suit :
+
+1° A cinq jours, lorsque l'amende et les condamnations pécuniaires sont au moins égales à 1.000 F sans excéder 3.000 F. ;
+
+2° A dix jours, lorsque, supérieures à 3.000 F., elles n'excèdent pas 10.000 F. ;
+
+3° A vingt jours, lorsque, supérieures à 10.000 F., elles n'excèdent pas 20.000 F. ;
+
+4° A un mois, lorsque, supérieures à 20.000 F., elles n'excèdent pas 40.000 F. ;
+
+5° A deux mois, lorsque, supérieures à 40.000 F., elles n'excèdent pas 80.000 F. ;
+
+6° A quatre mois, lorsqu'elles excèdent 80.000 F.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 58-1296 1958-12-23
+
+	**Modifié par**:
+
+	  - Loi n°85-1407 1985-12-30 art. 76, art. 94 JORF 31 décembre 1985 en vigueur le 1er février 1986
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°85-1407 1985-12-30 art. 94
+
+	**Cité par**:
+
+	  - CODE DE PROCEDURE PENALE - art. 749 (V)
+	  - Code de la santé publique - art. L627-6 (Ab)
+	  - Code de procédure pénale - art. 706-31 (V)
+	  - Code de procédure pénale - art. 762 (V)
+	  - Code de procédure pénale - art. D48-36 (V)
+	  - Livre des procédures fiscales - art. L272 A (Ab)
+
+
+###### Article 751
+
+La contrainte judiciaire ne peut être prononcée ni contre les personnes mineures au moment des faits, ni contre les personnes
+âgées d'au moins soixante-cinq ans au moment de la condamnation.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 58-1296 1958-12-23
+
+	**Modifié par**:
+
+	  - Loi n°74-631 du 5 juillet 1974 - art. 13 () JORF 7 juillet 1975
+	  - Loi n°85-1407 1985-12-30 art. 76, art. 94 JORF 31 décembre 1985 en vigueur le 1er février 1986
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°85-1407 1985-12-30 art. 94
+
+	**Cité par**:
+
+	  - CODE GENERAL DES IMPOTS, CGI. - art. 1845 bis (Ab)
+	  - Livre des procédures fiscales - art. L271 (M)
+
+
+###### Article 752
+
+La contrainte judiciaire ne peut être exécutée contre les condamnés qui justifient de leur insolvabilité en produisant : 
+
+1° Un certificat du percepteur de leur domicile constatant qu'ils ne sont pas imposés ; 
+
+2° Un certificat du maire ou du commissaire de police de leur commune. 
+
+La preuve que le condamné est en réalité solvable peut être rapportée par tous moyens.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 58-1296 1958-12-23
+
+	**Cité par**:
+
+	  - Loi n°83-520 du 27 juin 1983 - art. 60 (Ab)
+	  - CODE DE PROCEDURE PENALE - art. 762 (V)
+	  - CODE DE PROCEDURE PENALE - art. 870 (Ab)
+	  - Code forestier - art. L154-5 (Ab)
+	  - Code forestier - art. R154-11 (Ab)
+	  - Code forestier de Mayotte - art. L154-5 (VT)
+
+	**Modifié par**:
+
+	  - Loi n°85-1407 1985-12-30 art. 76 et art. 94 JORF 31 décembre 1985 en vigueur le 1er février 1986
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°85-1407 1985-12-30 art. 94
+
+
 ###### Article 753
 
 Elle ne peut être exercée simultanément contre le mari et la femme, même pour le recouvrement de sommes afférentes à des
@@ -22971,6 +25380,68 @@ condamnations différentes.
 	**Cité par**:
 
 	  - CODE DE PROCEDURE PENALE - art. 762 (V)
+
+
+###### Article 754
+
+Elle ne peut être exercée que cinq jours après un commandement fait au condamné à la requête de la partie poursuivante. 
+
+Dans le cas où le jugement de condamnation n'a pas été précédemment signifié au débiteur, le commandement porte en tête un
+extrait de ce jugement, lequel contient le nom des parties et le dispositif. 
+
+Sur le vu de l'exploit de signification du commandement et sur la demande de la partie poursuivante, le procureur de la
+République adresse les réquisitions nécessaires aux agents de la force publique et autres fonctionnaires chargés de
+l'exécution des mandements de justice. Les réquisitions d'incarcération ne sont valables que jusqu'à l'expiration des délais
+de prescription de la peine. Cette prescription acquise, la contrainte judiciaire qui n'aura pas commencé à être exécutée ne
+pourra plus être exécutée. 
+
+Lorsque, avant la signature des réquisitions d'incarcération, il s'est écoulé une année entière depuis le commandement, il en
+est fait un nouveau.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 58-1296 1958-12-23
+
+	**Modifié par**:
+
+	  - Ordonnance 60-529 1960-06-04 art. 2 JORF 8 juin 1960
+	  - Loi n°85-1407 1985-12-30 art. 77-I, art. 94 JORF 31 décembre 1985 en vigueur le 1er février 1986
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°85-1407 1985-12-30 art. 94
+
+	**Cité par**:
+
+	  - Ordonnance n°91-245 du 25 février 1991 - art. 22 (V)
+	  - CODE DE PROCEDURE PENALE - art. 762 (V)
+
+
+###### Article 758
+
+La contrainte judiciaire est subie en maison d'arrêt, dans le quartier à ce destiné.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 58-1296 1958-12-23
+
+	**Cité par**:
+
+	  - Loi n°83-520 du 27 juin 1983 - art. 61 (V)
+	  - CODE DE PROCEDURE PENALE - art. 871 (M)
+	  - CODE DE PROCEDURE PENALE - art. 901 (V)
+
+	**Modifié par**:
+
+	  - Loi n°85-1407 1985-12-30 art. 79, art. 94 JORF 31 décembre 1985 en vigueur le 1er février 1986
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°85-1407 1985-12-30 art. 94
 
 
 ###### Article 759
@@ -23096,6 +25567,44 @@ Les règles sur l'exécution des mandats de justice fixées par les articles 124
 	**Modifié par**:
 
 	  - Ordonnance 60-259 1960-06-04 art. 2 JORF 8 juin 1960
+
+
+###### Article 756
+
+Si le débiteur déjà incarcéré requiert qu'il en soit référé, il est conduit sur-le-champ devant le président du tribunal de
+grande instance du lieu où l'arrestation a été faite. Ce magistrat statue en état de référé sauf à ordonner, s'il échet, le
+renvoi pour être statué dans les formes et conditions des articles 710 et 711.
+
+Le même droit appartient au débiteur arrêté, qui est conduit sur-le-champ devant le président du tribunal de grande instance
+du lieu de détention.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 58-1296 1958-12-23
+
+	**Cité par**:
+
+	  - Décret n°64-1333 du 22 décembre 1964 - art. 9 (V)
+	  - Ordonnance n°91-245 du 25 février 1991 - art. 22 (V)
+
+	**Modifié par**:
+
+	  - Loi n°85-1407 1985-12-30 art. 78 et art. 94 JORF 31 décembre 1985 en vigueur le 1er février 1986
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°85-1407 1985-12-30 art. 94
+
+	**Abrogé par**:
+
+	  - Loi n°2004-204 du 9 mars 2004 - art. 198 (V) JORF 10 mars 2004 en vigueur le 1er janvier 2005
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. 710 (M)
+	  - CODE DE PROCEDURE PENALE - art. 711 (M)
 
 
 ###### Article 757
@@ -23492,6 +26001,98 @@ Lorsqu'il n'existe pas de fiche au casier judiciaire, le bulletin n° 1 porte la
 	**Cité par**:
 
 	  - Code de procédure pénale - art. D545 (V)
+
+
+###### Article 775
+
+Le bulletin n° 2 est le relevé des fiches du casier judiciaire applicables à la même personne, à l'exclusion de celles
+concernant les décisions suivantes :
+
+1° Les décisions prononcées en vertu des articles 2, 8, 15, 16, 18 et 28 de l'ordonnance n° 45-174 du 2 février 1945
+modifiée, relative à l'enfance délinquante ;
+
+2° Les condamnations dont la mention au bulletin n. 2 a été expressément exclue en application de l'article 775-1 ;
+
+3° Les condamnations prononcées pour contraventions de police ;
+
+4° Les condamnations assorties du bénéfice du sursis, avec ou sans mise à l'épreuve, lorsqu'elles doivent être considérées
+comme non avenues ;
+
+5° Les condamnations effacées par la réhabilitation de plein droit ou judiciaire ;
+
+6° Les condamnations auxquelles sont applicables les dispositions de l'article 361 du Code de justice militaire ;
+
+7° En matière de redressement judiciaire, les jugements prononçant la faillite personnelle ou l'interdiction prévue par
+l'article 192 de la loi n. 85-98 du 25 janvier 1985 précitée lorsque ces mesures sont effacées par un jugement de clôture
+pour extinction du passif, par la réhabilitation ou à l'expiration d'un délai de cinq ans à compter du jour où ces
+condamnations sont devenues définitives, ainsi que le jugement prononçant la liquidation judiciaire à l'égard d'une personne
+physique, à l'expiration d'un délai de cinq ans à compter du jour où ce jugement est devenu définitif ou après le prononcé
+d'un jugement de clôture pour extinction du passif.
+
+Toutefois, si la durée de la faillite personnelle ou de l'interdiction est supérieure à cinq ans, la condamnation relative à
+ces mesures demeure mentionnée au bulletin n. 2 pendant la même durée ;
+
+8° Les décisions disciplinaires effacées par la réhabilitation ;
+
+9° Les dispositions prononçant la déchéance de l'autorité parentale ;
+
+10° Les arrêtés d'expulsion abrogés ou rapportés ;
+
+11° Les condamnations prononcées sans sursis en application des articles 43-1 à 43-5 et 43-8 du code pénal, à l'expiration
+d'un délai de cinq ans à compter du jour où elles sont devenues définitives.
+
+Toutefois, si la durée de l'interdiction, déchéance ou incapacité, prononcée en application de l'article 43-1, est supérieure
+à cinq ans, la condamnation demeure mentionnée au bulletin n. 2 pendant la même durée ;
+
+12° Les déclarations de culpabilité assorties d'une dispense de peine ;
+
+13° Les condamnations prononcées par des juridictions étrangères.
+
+Les bulletins n. 2 fournis en cas de contestation concernant l'inscription sur les listes électorales, ne comprennent que les
+décisions entraînant des incapacités en matière d'exercice du droit de vote.
+
+Lorsqu'il n'existe pas au casier judiciaire de fiches concernant des décisions à relever sur le bulletin n° 2, celui-ci porte
+la mention Néant.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Ordonnance n°45-174 du 2 février 1945 - art. 15 (M)
+	  - Ordonnance n°45-174 du 2 février 1945 - art. 16 (M)
+	  - Ordonnance n°45-174 du 2 février 1945 - art. 18 (V)
+	  - Ordonnance n°45-174 du 2 février 1945 - art. 2 (M)
+	  - Ordonnance n°45-174 du 2 février 1945 - art. 28 (V)
+	  - Ordonnance n°45-174 du 2 février 1945 - art. 8 (M)
+	  - Loi n°85-98 du 25 janvier 1985 - art. 192 (M)
+	  - Code pénal 43-1 à 43-5, 43-8
+	  - Code de justice militaire - art. 343 (M)
+	  - CODE DE PROCEDURE PENALE - art. 775-1 (M)
+
+	**Cité par**:
+
+	  - Décret n°45-2370 du 15 octobre 1945 - art. 9 (Ab)
+	  - Décret n°75-911 du 6 octobre 1975 - art. 6 (Ab)
+	  - Décret n°79-71 du 23 janvier 1979 - art. 2 (V)
+	  - Décret n°2012-432 du 30 mars 2012 - art. 176 (V)
+	  - Code de procédure pénale - art. R81 (V)
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 371 D (V)
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 371 bis B (V)
+
+	**Codifié par**:
+
+	  - Ordonnance 58-1296 1958-12-23
+
+	**Modifié par**:
+
+	  - Loi n°70-643 du 17 juillet 1970 - art. 31 () JORF 19 juillet 1970
+	  - Loi n°82-621 du 21 juillet 1982 (V)
+	  - Loi n°85-98 1985-01-25 art. 219-II et 243 JORF 26 janvier 1985
+	  - Loi n°85-1407 1985-12-30 art. 80 et art. 94 JORF 31 décembre 1985 en vigueur le 1er février 1986
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°85-1407 1985-12-30 art. 94
 
 
 ###### Article 775-1
