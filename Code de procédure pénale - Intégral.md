@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 2001-01-01
+Version Consolidée au 2001-01-30
 
 # Partie législative
 
@@ -42347,11 +42347,834 @@ Il l'informe régulièrement de son activité.
 	  - Décret n°2000-1072 du 2 novembre 2000 - art. 2 () JORF 4 novembre 2000
 
 
+#### Chapitre II : Du ministère public
+
+##### Section 1 : Des délégués et des médiateurs du procureur de la République
+
+###### Article R15-33-30
+
+Les personnes physiques ainsi que les associations régulièrement déclarées qui ont été habilitées comme délégués du procureur
+de la République dans les conditions prévues par la présente section peuvent être désignées par ce dernier pour être chargées
+d'une des missions prévues par les 1° à 4° de l'article 41-1 ou pour intervenir lors de la procédure de composition pénale
+prévue par les articles 41-2 et 41-3.
+
+Les personnes physiques ainsi que les associations régulièrement déclarées qui ont été habilitées comme médiateurs du
+procureur de la République dans les conditions prévues par la présente section peuvent être désignées par ce dernier pour
+effectuer une mission de médiation conformément aux dispositions du 5° de l'article 41-1. Elles peuvent également se voir
+confier les missions mentionnées à l'alinéa précédent.
+
+Lorsqu'une association habilitée est désignée par le procureur de la République pour exercer une mission de délégué ou de
+médiateur, seules les personnes physiques qui, au sein de cette association, ont été personnellement habilitées peuvent se
+voir confier cette mission.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°58-358 1958-04-02
+
+	**Créé par**:
+
+	  - Décret n°2001-71 du 29 janvier 2001 - art. 2 () JORF 30 janvier 2001
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. 41-1 (M)
+	  - CODE DE PROCEDURE PENALE - art. 41-2 (M)
+	  - CODE DE PROCEDURE PENALE - art. 41-3 (M)
+
+	**Cité par**:
+
+	  - Code de procédure pénale - art. R15-33-66-8 (V)
+
+
+###### Article R15-33-31
+
+La personne physique ou morale selon qu'elle désire être habilitée dans le ressort du tribunal de grande instance ou dans
+celui de la cour d'appel en fait la demande au procureur de la République ou au procureur général.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°58-358 1958-04-02
+
+	**Créé par**:
+
+	  - Décret n°2001-71 du 29 janvier 2001 - art. 2 () JORF 30 janvier 2001
+
+
+###### Article R15-33-32
+
+La demande présentée par une association comporte notamment :
+
+1° La copie du Journal officiel portant publication de la déclaration de l'association ou, en ce qui concerne les
+départements du Bas-Rhin, du Haut-Rhin ou de la Moselle, une copie de l'extrait du registre des associations du tribunal
+d'instance ;
+
+2° Un exemplaire des statuts et, s'il y a lieu, du règlement intérieur ;
+
+3° La liste des établissements de l'association avec indication de leur siège ;
+
+4° Un exposé indiquant les conditions de fonctionnement de l'association et, le cas échéant, l'organisation et les conditions
+de fonctionnement des comités locaux ainsi que leurs rapports avec l'association ;
+
+5° La mention des nom, prénoms, date et lieu de naissance, nationalité, profession et domicile des membres du conseil
+d'administration et du bureau de l'association ainsi que, le cas échéant, ceux de ses représentants locaux ;
+
+6° Les pièces financières qui doivent comprendre les comptes du dernier exercice, le budget de l'exercice courant et un bilan
+ou état de l'actif mobilier et immobilier et du passif.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°58-358 1958-04-02
+
+	**Créé par**:
+
+	  - Décret n°2001-71 du 29 janvier 2001 - art. 2 () JORF 30 janvier 2001
+
+	**Cité par**:
+
+	  - Décret n°2004-1021 du 27 septembre 2004 - art. 21 (V)
+	  - Code de procédure pénale - art. R15-33-33 (V)
+	  - Code de procédure pénale - art. R15-33-36 (V)
+
+
+###### Article R15-33-33
+
+Le Médiateur ou le délégué du procureur de la République doit satisfaire aux conditions suivantes :
+
+1° Ne pas exercer d'activités judiciaires à titre professionnel ;
+
+2° Ne pas avoir fait l'objet d'une condamnation, incapacité ou déchéance mentionnée sur le bulletin n° 2 du casier
+judiciaire ;
+
+3° Présenter des garanties de compétence, d'indépendance et d'impartialité.
+
+Le Médiateur ou le délégué du procureur de la République appelé à se voir confier des missions concernant des mineurs doit en
+outre s'être signalé par l'intérêt qu'il porte aux questions de l'enfance.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°58-358 1958-04-02
+
+	**Créé par**:
+
+	  - Décret n°2001-71 du 29 janvier 2001 - art. 2 () JORF 30 janvier 2001
+
+	**Cité par**:
+
+	  - Décret n°2004-1021 du 27 septembre 2004 - art. 21 (V)
+	  - Code de procédure pénale - art. R15-33-37 (V)
+
+
+###### Article R15-33-34
+
+Le médiateur et le délégué du procureur de la République sont tenus à l'obligation du secret dans les conditions fixées par
+l'article 226-13 du code pénal.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°58-358 1958-04-02
+
+	**Créé par**:
+
+	  - Décret n°2001-71 du 29 janvier 2001 - art. 2 () JORF 30 janvier 2001
+
+	**Cite**:
+
+	  - Code pénal - art. 226-13 (V)
+
+
+###### Article R15-33-35
+
+Après avoir procédé à toutes les diligences qu'il juge utiles, le procureur de la République ou le procureur général soumet
+la demande d'habilitation à l'assemblée générale des magistrats du siège et du parquet du tribunal ou de la cour d'appel, qui
+statue à la majorité des membres présents.
+
+La commission restreinte de l'assemblée générale des magistrats du siège et du parquet, dans les juridictions où sa
+constitution est obligatoire, exerce les attributions mentionnées à l'alinéa précédent.
+
+La décision prise par l'assemblée générale ou la commission restreinte précise si la personne est habilitée comme Médiateur
+ou comme délégué du procureur de la République et si elle est habilitée à se voir confier des missions concernant des
+mineurs.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°58-358 1958-04-02
+
+	**Créé par**:
+
+	  - Décret n°2001-71 du 29 janvier 2001 - art. 2 () JORF 30 janvier 2001
+
+	**Cité par**:
+
+	  - Code de procédure pénale - art. R15-33-36 (V)
+	  - Code de procédure pénale - art. R15-33-37 (V)
+
+
+###### Article R15-33-36
+
+En cas d'urgence, une habilitation provisoire, valable jusqu'à la décision de la prochaine assemblée générale, peut être
+prise par le procureur de la République ou le procureur général.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°58-358 1958-04-02
+
+	**Créé par**:
+
+	  - Décret n°2001-71 du 29 janvier 2001 - art. 2 () JORF 30 janvier 2001
+
+
+###### Article R15-33-37
+
+L'habilitation peut être retirée selon la procédure prévue par l'article R. 15-33-35.
+
+Le procureur de la République ou le procureur général peut, aux fins de retrait de l'habilitation, saisir, selon le cas,
+l'assemblée générale des magistrats du siège et du parquet du tribunal, celle de la cour d'appel ou la commission restreinte
+compétente.
+
+En cas d'urgence, le procureur de la République ou le procureur général peut retirer provisoirement l'habilitation jusqu'à la
+décision de la prochaine assemblée générale ou commission restreinte.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°58-358 1958-04-02
+
+	**Créé par**:
+
+	  - Décret n°2001-71 du 29 janvier 2001 - art. 2 () JORF 30 janvier 2001
+
+
+##### Section 2 : De la composition pénale
+
+##### Paragraphe 1er : Proposition des mesures
+
+###### Article R15-33-38
+
+Le procureur de la République peut proposer soit directement soit par l'intermédiaire d'un délégué ou d'un médiateur une
+composition pénale, en application des dispositions des articles 41-2 et 41-3.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°58-358 1958-04-02
+
+	**Créé par**:
+
+	  - Décret n°2001-71 du 29 janvier 2001 - art. 2 () JORF 30 janvier 2001
+
+	**Cite**:
+
+	  - Code de procédure pénale - art. 41-2 (V)
+
+
+###### Article R15-33-39
+
+La personne à qui est proposée une composition pénale peut demander à disposer d'un délai de dix jours avant de faire
+connaître sa décision après s'être, le cas échéant, fait assister par un avocat. Si elle demande à bénéficier de ce délai, il
+lui est indiqué la date et l'heure auxquelles elle est invitée à recomparaître pour faire connaître sa réponse. Elle est
+informée que si elle ne se présente pas, elle sera considérée comme ayant refusé la composition pénale.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°58-358 1958-04-02
+
+	**Créé par**:
+
+	  - Décret n°2001-71 du 29 janvier 2001 - art. 2 () JORF 30 janvier 2001
+
+
+###### Article R15-33-40
+
+Le procès-verbal prévu par le neuvième alinéa de l'article 41-2 précise :
+
+- la nature des faits reprochés ainsi que leur qualification juridique ;
+
+- la nature et le quantum de mesures proposées en application des 1° à 4° de l'article 41-2, ainsi que les délais dans
+lesquels elles doivent être exécutées ;
+
+- le cas échéant, le montant ou la nature des réparations proposées en application des dispositions du sixième alinéa de
+l'article 41-2.
+
+Ce procès-verbal indique que la personne a été informée de son droit de se faire assister d'un avocat avant de donner son
+accord aux propositions du procureur de la République et de son droit de demander à bénéficier d'un délai de dix jours avant
+de faire connaître sa réponse.
+
+Le procès-verbal précise que la personne a été informée que la proposition de composition pénale va être adressée pour
+validation au président du tribunal de grande instance ou au juge d'instance, et qu'elle peut demander à être entendue par ce
+magistrat. Il indique si la personne demande ou ne demande pas cette audition.
+
+Le procès-verbal précise également que la personne sera informée de la décision du président du tribunal de grande instance
+ou du juge d'instance, et qu'en cas de validation les délais d'exécution des mesures commenceront à courir à la date de
+notification de cette décision.
+
+Le procès-verbal est signé par la personne ainsi que par le procureur de la République, son délégué ou son Médiateur. Une
+copie du procès-verbal est remise à l'auteur des faits.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°58-358 1958-04-02
+
+	**Créé par**:
+
+	  - Décret n°2001-71 du 29 janvier 2001 - art. 2 () JORF 30 janvier 2001
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. 41-2 (M)
+
+	**Cité par**:
+
+	  - Code de procédure pénale - art. R15-33-43 (V)
+	  - Code de procédure pénale - art. R15-33-44 (V)
+	  - Code de procédure pénale - art. R15-33-45 (V)
+	  - Code de procédure pénale - art. R15-33-46 (V)
+
+
+###### Article R15-33-41
+
+La remise du permis de conduire ou de chasser prévue par le 3° de l'article 41-2 emporte pour la personne l'engagement de ne
+pas conduire ou chasser pendant la période de remise de son permis.
+
+Lorsqu'est proposée la remise du permis de conduire, cet engagement peut être limité à la conduite en dehors de l'activité
+professionnelle, ou à la conduite de certains véhicules. Dans ce cas, la proposition comporte les précisions prévues à
+l'article R. 131-1 ou R. 131-3 du code pénal.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°58-358 1958-04-02
+
+	**Créé par**:
+
+	  - Décret n°2001-71 du 29 janvier 2001 - art. 2 () JORF 30 janvier 2001
+
+	**Cite**:
+
+	  - Code pénal - art. R131-1 (M)
+	  - Code pénal - art. R131-3 (M)
+	  - CODE DE PROCEDURE PENALE - art. 41-2 (M)
+
+	**Cité par**:
+
+	  - Code de procédure pénale - art. R15-33-53 (V)
+
+
+###### Article R15-33-42
+
+L'accomplissement d'un travail non rémunéré prévu par le 4° de l'article 41-2 consiste dans la réalisation d'un travail au
+profit soit d'une personne morale de droit public, soit d'une association habilitée en application des dispositions des
+articles R. 131-12 à R. 131-16 du code pénal.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°58-358 1958-04-02
+
+	**Créé par**:
+
+	  - Décret n°2001-71 du 29 janvier 2001 - art. 2 () JORF 30 janvier 2001
+
+	**Cite**:
+
+	  - Code pénal R131-12 à R131-16
+	  - CODE DE PROCEDURE PENALE - art. 41-2 (M)
+
+
+###### Article R15-33-43
+
+Lorsque la composition pénale intervient à la suite d'un délit prévu par l'article L. 1er du code de la route, le procès-
+verbal mentionné à l'article R. 15-33-40 comporte une mention informant la personne de la perte de points qui résultera de
+l'exécution de la composition pénale, de l'existence d'un traitement automatisé de ces points et de la possibilité pour elle
+d'exercer son droit d'accès.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°58-358 1958-04-02
+
+	**Créé par**:
+
+	  - Décret n°2001-71 du 29 janvier 2001 - art. 2 () JORF 30 janvier 2001
+
+	**Cité par**:
+
+	  - Décret n°2001-71 du 29 janvier 2001 - art. 7 (V)
+	  - Code de procédure pénale - art. R251 (VT)
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. R15-33-40 (M)
+	  - Code de la route L1
+
+
+###### Article R15-33-44
+
+Lorsque la proposition de composition pénale a été portée à la connaissance de la personne par un officier de police
+judiciaire en application des dispositions du septième alinéa de l'article 41-2, la décision écrite du procureur de la
+République prévue par cet alinéa est annexée au procès-verbal mentionné à l'article R. 15-33-40 qui est signé par l'officier
+de police judiciaire.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°58-358 1958-04-02
+
+	**Créé par**:
+
+	  - Décret n°2001-71 du 29 janvier 2001 - art. 2 () JORF 30 janvier 2001
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. 41-2 (M)
+	  - CODE DE PROCEDURE PENALE - art. R15-33-40 (M)
+
+
+###### Article R15-33-45
+
+Lorsqu'il est fait application des dispositions du sixième alinéa de l'article 41-2, le procès-verbal mentionné à l'article
+R. 15-33-40 ou un procès-verbal distinct précise les conditions dans lesquelles l'information de la victime, qui peut se
+faire par tout moyen, a été effectuée.
+
+La victime est informée de son droit de demander à être entendue par le président du tribunal de grande instance ou le juge
+d'instance chargé de statuer sur la requête en validation de la composition pénale. Elle est avisée que la demande d'audition
+doit, à peine d'irrecevabilité, être formée dans les dix jours, soit par lettre recommandée avec demande d'avis de réception
+adressée au procureur de la République, soit par déclaration au greffe.
+
+La victime est également informée de son droit à demander l'assistance d'un avocat.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°58-358 1958-04-02
+
+	**Créé par**:
+
+	  - Décret n°2001-71 du 29 janvier 2001 - art. 2 () JORF 30 janvier 2001
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. 41-2 (M)
+	  - CODE DE PROCEDURE PENALE - art. R15-33-40 (M)
+
+	**Cité par**:
+
+	  - Code de procédure pénale - art. R15-33-46 (V)
+
+
+##### Paragraphe 2 : Validation des mesures
+
+###### Article R15-33-46
+
+La requête en validation de la composition pénale est datée et signée par le procureur de la République. Y sont joints les
+procès-verbaux prévus par les articles R. 15-33-40 et R. 15-33-45 ainsi que l'intégralité de la procédure d'enquête.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°58-358 1958-04-02
+
+	**Créé par**:
+
+	  - Décret n°2001-71 du 29 janvier 2001 - art. 2 () JORF 30 janvier 2001
+
+	**Cite**:
+
+	  - Code de procédure pénale - art. R15-33-40 (V)
+	  - Code de procédure pénale - art. R15-33-45 (V)
+
+
+###### Article R15-33-47
+
+Lorsque le président du tribunal décide, d'office ou à la demande des intéressés, de procéder à l'audition de l'auteur des
+faits et de la victime, ceux-ci sont convoqués par tout moyen. Le président du tribunal peut procéder à une audition commune
+ou à des auditions séparées. Ces auditions, qui font l'objet d'un procès-verbal signé du président et des intéressés, ne sont
+pas publiques. Le procureur de la République est informé de ces auditions et y assiste s'il le souhaite.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°58-358 1958-04-02
+
+	**Créé par**:
+
+	  - Décret n°2001-71 du 29 janvier 2001 - art. 2 () JORF 30 janvier 2001
+
+
+###### Article R15-33-48
+
+Le procureur de la République peut informer les services de police ou de gendarmerie ayant participé à l'enquête de la
+validation de la composition pénale, notamment lorsque celle-ci comporte la mesure prévue au 3° de l'article 41-2 et que la
+non-exécution de cette mesure est susceptible d'être constatée par ces services.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°58-358 1958-04-02
+
+	**Créé par**:
+
+	  - Décret n°2001-71 du 29 janvier 2001 - art. 2 () JORF 30 janvier 2001
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. 41-2 (M)
+
+
+##### Paragraphe 3 : Exécution des mesures
+
+###### Article R15-33-49
+
+Lorsque la composition pénale a été validée, le procureur de la République peut désigner un délégué ou un médiateur aux fins
+de mettre en oeuvre les mesures décidées et de contrôler les conditions de leur exécution.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°58-358 1958-04-02
+
+	**Créé par**:
+
+	  - Décret n°2001-71 du 29 janvier 2001 - art. 2 () JORF 30 janvier 2001
+
+	**Cité par**:
+
+	  - Code de procédure pénale - art. R15-33-37-5 (V)
+
+
+###### Article R15-33-50
+
+Le procureur de la République ou la personne par lui désignée adresse ou remet à l'auteur des faits un document l'informant
+de la validation de la composition pénale, des mesures à accomplir et des conditions dans lesquelles ces mesures doivent être
+effectuées.
+
+Ce document comporte une mention indiquant que si la personne n'exécute pas ces mesures, le procureur de la République pourra
+décider d'engager des poursuites à son encontre.
+
+Ce document est constitué si nécessaire de plusieurs feuillets destinés à permettre le paiement de l'amende de composition et
+dont le modèle est arrêté par le ministre de l'économie, des finances et de l'industrie et le ministre de la justice.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°58-358 1958-04-02
+
+	**Créé par**:
+
+	  - Décret n°2001-71 du 29 janvier 2001 - art. 2 () JORF 30 janvier 2001
+
+	**Cité par**:
+
+	  - Code de procédure pénale - art. R15-33-51 (V)
+
+
+###### Article R15-33-51
+
+Lorsque la composition pénale consiste dans le versement d'une amende de composition, le paiement s'effectue exclusivement,
+par dérogation à l'article 24 du décret n° 62-1587 du 29 décembre 1962, soit par timbre fiscal, soit, auprès d'un comptable
+du Trésor, par versement d'espèces ou par remise d'un chèque certifié dans les conditions prévues au troisième alinéa de
+l'article 6 du décret-loi du 30 octobre 1935 unifiant le droit en matière de chèques et relatif aux cartes de paiement.
+Jusqu'à 5 000 F, le paiement ne peut s'effectuer que par timbre fiscal.
+
+Lorsque le paiement s'effectue par timbre fiscal, le ou les timbres correspondants au montant de l'amende sont apposés par
+l'intéressé sur un des feuillets du document prévu par l'article R. 15-33-50, que celui-ci retourne au procureur de la
+République ou à la personne par lui désignée.
+
+Dans les autres cas, un comptable du Trésor reçoit le paiement accompagné du document prévu par l'article R. 15-33-50. Après
+émargement du règlement par le comptable du Trésor, deux feuillets sont retournés ou remis à l'intéressé, qui doit en
+transmettre un au procureur de la République ou à la personne par lui désignée.
+
+Lorsqu'il est prévu que les versements seront échelonnés, il est remis à l'intéressé autant de documents que d'échéances.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°58-358 1958-04-02
+
+	**Cite**:
+
+	  - Décret n°62-1587 du 29 décembre 1962 - art. 24 (M)
+	  - CODE DE PROCEDURE PENALE - art. R15-33-50 (M)
+	  - Décret-loi 1935-10-30 art. 6
+
+	**Créé par**:
+
+	  - Décret n°2001-71 du 29 janvier 2001 - art. 2 () JORF 30 janvier 2001
+
+	**Cité par**:
+
+	  - Code de procédure pénale - art. D1-1 (V)
+
+
+###### Article R15-33-52
+
+Lorsque la composition pénale consiste dans le dessaisissement d'une chose au profit de l'Etat, la personne doit, dans le
+délai imparti, remettre cette chose au greffe du tribunal contre récépissé. Si cette chose a fait l'objet d'une saisie et est
+toujours détenue par le service enquêteur, celui-ci est avisé de la décision de validation et adresse le scellé au greffe du
+tribunal. Lorsque le greffe est en possession du scellé, il peut sans délai procéder à la destruction de l'objet ou à sa
+remise au service des domaines.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°58-358 1958-04-02
+
+	**Créé par**:
+
+	  - Décret n°2001-71 du 29 janvier 2001 - art. 2 () JORF 30 janvier 2001
+
+
+###### Article R15-33-53
+
+Lorsque la composition pénale consiste dans la remise du permis de conduire ou du permis de chasser, cette remise est
+effectuée par l'intéressé, dans le délai imparti, soit au greffe du tribunal de grande instance, soit à la personne désignée
+par le procureur de la République, à charge pour cette dernière de remettre le document au greffe du tribunal. Il lui est
+remis, en échange de son permis, un récépissé.
+
+Lorsqu'il a été fait application des dispositions du deuxième alinéa de l'article R. 15-33-41, ce récépissé comporte les
+mentions prévues aux articles R. 131-2 ou R. 131-4 du code pénal, les références à la décision de la juridiction prévues par
+ces articles étant remplacées par les références à la décision de validation de la composition pénale.
+
+Lorsque la personne a fait l'objet d'une mesure administrative de rétention ou de suspension de son permis de conduire en
+application des dispositions des articles L. 18 ou L. 18-1 du code de la route, et que son permis est détenu par l'autorité
+administrative, elle en apporte le justificatif au greffe du tribunal de grande instance. Dans ce cas, la suspension cesse de
+recevoir effet à l'expiration du délai fixé en application du 3° de l'article 41-2. S'il est fait application des
+dispositions du deuxième alinéa de l'article R. 15-33-41, le récépissé prévu par le deuxième alinéa du présent article est
+remis à l'intéressé.
+
+Les services de police ou les unités de gendarmerie qui constateraient qu'une personne n'a pas respecté son engagement de ne
+pas conduire ou de ne pas chasser en dressent rapport qui est transmis au procureur de la République dans les meilleurs
+délais.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°58-358 1958-04-02
+
+	**Créé par**:
+
+	  - Décret n°2001-71 du 29 janvier 2001 - art. 2 () JORF 30 janvier 2001
+
+	**Cite**:
+
+	  - Code pénal - art. R131-2 (M)
+	  - Code pénal - art. R131-4 (M)
+	  - CODE DE PROCEDURE PENALE - art. 41-2 (M)
+	  - CODE DE PROCEDURE PENALE - art. R15-33-41 (M)
+	  - Code de la route L18, L18-1
+
+	**Cité par**:
+
+	  - Code de la route. - art. R223-3 (V)
+	  - Code de procédure pénale - art. R15-33-53-1 (V)
+
+
+###### Article R15-33-54
+
+Lorsque la composition pénale comporte l'accomplissement d'un travail non rémunéré, ce travail consiste dans l'un des travaux
+inscrits sur la liste prévue par l'article 131-36 (1°) du code pénal. Le procureur de la République peut compléter cette
+liste en y inscrivant d'autres travaux, dans des conditions identiques à celles prévues par les articles R. 131-17 et R.
+131-18 du code pénal, les attributions confiées par ces articles au juge de l'application des peines étant dévolues au
+procureur de la République.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°58-358 1958-04-02
+
+	**Créé par**:
+
+	  - Décret n°2001-71 du 29 janvier 2001 - art. 2 () JORF 30 janvier 2001
+
+	**Cite**:
+
+	  - Code pénal - art. R131-17 (V)
+	  - Code pénal - art. R131-36 (V)
+
+
+###### Article R15-33-55
+
+Les dispositions des articles 131-23 et 131-24, 132-55 (1° à 6°), R. 131-23 à R. 131-34 du code pénal sont applicables à
+l'exécution du travail prévu par le 4° de l'article 41-2 du présent code, les attributions confiées par ces articles au
+tribunal ou au juge de l'application des peines étant dévolues au procureur de la République ou à la personne par lui
+désignée.
+
+Le service pénitentiaire d'insertion et de probation peut être désigné par le procureur de la République pour exercer les
+attributions prévues pour l'agent de probation par les articles mentionnés à l'alinéa précédent.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°58-358 1958-04-02
+
+	**Créé par**:
+
+	  - Décret n°2001-71 du 29 janvier 2001 - art. 2 () JORF 30 janvier 2001
+
+	**Cité par**:
+
+	  - Arrêté du 12 décembre 2008 (V)
+
+	**Cite**:
+
+	  - Code pénal - art. 131-23 (V)
+	  - Code pénal - art. 131-24 (V)
+	  - Code pénal - art. 132-55 (M)
+	  - Code pénal 131-23, 131-24, 132-55, R131-23 à R131-34
+	  - CODE DE PROCEDURE PENALE - art. 41-2 (M)
+
+
+###### Article R15-33-56
+
+Lorsqu'il est fait application des dispositions du sixième alinéa de l'article 41-2, le procureur de la République s'assure,
+directement ou par la personne par lui désignée, que l'auteur des faits répare le préjudice subi par la victime dans les
+délais prescrits.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°58-358 1958-04-02
+
+	**Créé par**:
+
+	  - Décret n°2001-71 du 29 janvier 2001 - art. 2 () JORF 30 janvier 2001
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. 41-2 (M)
+
+
+###### Article R15-33-57
+
+Lorsque, pour des motifs graves d'ordre médical, familial, professionnel ou social, la personne n'a pas pu exécuter les
+mesures décidées dans les délais prescrits, et que ces délais sont inférieurs aux délais maxima prévus aux 1° et 4° de
+l'article 41-2, le procureur de la République peut prolonger les délais d'exécution de ces mesures, sans pouvoir toutefois
+dépasser lesdits délais.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°58-358 1958-04-02
+
+	**Créé par**:
+
+	  - Décret n°2001-71 du 29 janvier 2001 - art. 2 () JORF 30 janvier 2001
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. 41-2 (M)
+
+
+###### Article R15-33-58
+
+Lorsque la ou les mesures décidées ont été intégralement exécutées, le procureur de la République ou la personne par lui
+désignée constate l'exécution de la composition pénale.
+
+Le procureur de la République avise l'intéressé et, le cas échéant, la victime de l'extinction de l'action publique.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°58-358 1958-04-02
+
+	**Créé par**:
+
+	  - Décret n°2001-71 du 29 janvier 2001 - art. 2 () JORF 30 janvier 2001
+
+
+###### Article R15-33-59
+
+Lorsque la composition pénale est intervenue à la suite de la commission d'un délit prévu par l'article L. 1er du code de la
+route, le procureur de la République adresse aux services du ministère de l'intérieur un avis les informant de l'exécution de
+la composition pénale, afin qu'il puisse être procédé au retrait des points du permis de conduire.
+
+L'avis adressé par le procureur de la République précise la date d'exécution de la composition pénale qui fait courir le
+délai prévu au premier alinéa de l'article L. 11-6 du code de la route.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°58-358 1958-04-02
+
+	**Créé par**:
+
+	  - Décret n°2001-71 du 29 janvier 2001 - art. 2 () JORF 30 janvier 2001
+
+	**Cité par**:
+
+	  - Décret n°2001-71 du 29 janvier 2001 - art. 7 (V)
+	  - Code de procédure pénale - art. R251 (VT)
+
+	**Cite**:
+
+	  - Code de la route L1, L11-6
+
+
+###### Article R15-33-60
+
+Si des poursuites sont engagées dans les cas prévus par le onzième alinéa de l'article 41-2, le dossier concernant cette
+procédure et dans lequel sont, le cas échéant, précisées les mesures exécutées en tout ou partie par la personne est
+communiqué à la juridiction de jugement, afin qu'elle puisse en tenir compte, en cas de condamnation, dans le prononcé de sa
+décision.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°58-358 1958-04-02
+
+	**Créé par**:
+
+	  - Décret n°2001-71 du 29 janvier 2001 - art. 2 () JORF 30 janvier 2001
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. 41-2 (M)
+
+
 ### Titre II : Des enquêtes
 
 #### Chapitre Ier : Des crimes et délits flagrants
 
-###### Article R15-33-24
+###### Article R15-33-61
 
 Lorsqu'il est fait application des dispositions du premier alinéa de l'article 62-1, le procès-verbal des déclarations de la
 personne entendue mentionne l'autorisation donnée par le procureur de la République ou, dans le cas prévu par l'article 153,
@@ -42393,31 +43216,22 @@ Les dispositions du présent article ne sont pas prescrites à peine de nullité
 
 	**Créé par**:
 
-	  - Décret n°2000-1072 du 2 novembre 2000 - art. 1 () JORF 4 novembre 2000
-
-	**Abrogé par**:
-
 	  - Décret n°2001-71 du 29 janvier 2001 - art. 1 () JORF 30 janvier 2001
 
 	**Cité par**:
 
-	  - Code forestier (nouveau) - art. R361-1 (V)
-	  - Code de l'environnement - art. R322-15-1 (V)
-	  - Code de l'environnement - art. R428-25 (V)
-	  - Code de l'environnement - art. R428-26 (V)
-	  - Code de l'environnement - art. R437-3-1 (V)
-	  - Code de procédure pénale - art. R15-33-25 (V)
-	  - Code de procédure pénale - art. R15-33-27-1 (V)
-	  - Code forestier - art. R224-1 (Ab)
+	  - Décret n°2008-150 du 19 février 2008 - art. 1
+	  - Décret n°2008-150 du 19 février 2008 - art. 3
+	  - CODE DE PROCEDURE PENALE - art. R15-33-29-4 (V)
+	  - Code général des collectivités territoriales - art. R2212-15 (V)
+	  - Code général des collectivités territoriales - art. R2213-60 (V)
+	  - Code général des collectivités territoriales - art. R2512-15-11 (V)
+	  - Code général des collectivités territoriales - art. R2512-15-12 (V)
 
 	**Cite**:
 
 	  - CODE DE PROCEDURE PENALE - art. 153 (M)
 	  - CODE DE PROCEDURE PENALE - art. 62-1 (M)
-
-	**Anciens textes**:
-
-	  - CODE DE PROCEDURE PENALE - art. R15-33-1 (M)
 
 
 ### Titre III : Des juridictions d'instruction
@@ -46773,7 +47587,7 @@ parquet.
 
 ###### Article R57-3
 
-Le juge de l'application des peines est assisté par le comité de probation et d'assistance aux libérés.
+Le juge de l'application des peines est assisté par le service pénitentiaire d'insertion et de probation.
 
 **Liens relatifs à cet article**
 
@@ -46781,9 +47595,9 @@ Le juge de l'application des peines est assisté par le comité de probation et 
 
 	  - Décret n°59-318 1959-02-03
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°99-818 du 16 septembre 1999 - art. 1 () JORF 19 septembre 1999
+	  - Décret n°2001-71 du 29 janvier 2001 - art. 9 () JORF 30 janvier 2001
 
 
 ###### Article R57-4
@@ -48508,10 +49322,19 @@ pénitentiaire, les frais de transport des procédures et des pièces à convict
 2° Les frais d'extradition des prévenus, accusés ou condamnés ; les frais de commission rogatoire et autres frais de
 procédure pénale en matière internationale.
 
-3° Les honoraires et indemnités qui peuvent être accordés aux experts, aux interprètes-traducteurs ainsi qu'aux personnes
-chargées des enquêtes sociales ou de personnalité ou d'une mission de médiation ou tendant à favoriser la réparation du
-dommage préalablement à la décision du procureur de la République sur les poursuites ou contribuant au contrôle judiciaire
-dans les conditions prévues aux articles R. 121 et R. 121-1 du présent code.
+3° Les honoraires et indemnités qui peuvent être accordés aux personnes ci-après :
+
+a) Experts et traducteurs interprètes ;
+
+b) Personnes chargées des enquêtes sociales ou de personnalité ;
+
+c) Personnes contribuant au contrôle judiciaire ;
+
+d) Médiateurs du procureur de la République chargés d'une mission de médiation en application des dispositions du 5° de
+l'article 41-1 ;
+
+e) Délégués du procureur de la République chargés d'une des missions prévues par les 1° à 4° de l'article 41-1 ou intervenant
+au cours d'une composition pénale.
 
 4° Les indemnités qui peuvent être accordées aux témoins, aux jurés par application des articles R. 123 à R. 146 et aux
 parties civiles par application des articles 375-1 et 422.
@@ -48573,17 +49396,12 @@ application des dispositions de l'article R. 53-6.
 	  - CODE DE PROCEDURE PENALE - art. 149 (M)
 	  - CODE DE PROCEDURE PENALE - art. 150 (M)
 	  - CODE DE PROCEDURE PENALE - art. 375-1 (V)
+	  - CODE DE PROCEDURE PENALE - art. 41-1 (M)
 	  - CODE DE PROCEDURE PENALE - art. 422 (V)
 	  - CODE DE PROCEDURE PENALE - art. 706-4 (M)
-	  - CODE DE PROCEDURE PENALE - art. R121 (M)
-	  - CODE DE PROCEDURE PENALE - art. R121-1 (M)
 	  - CODE DE PROCEDURE PENALE - art. R53 (M)
 	  - CODE DE PROCEDURE PENALE - art. R53-6 (M)
-	  - Code de procédure pénale R121, R121-1, R123 à R146, 375-1, 422, 149, 150, 706-4, R53, R53-6
-
-	**Modifié par**:
-
-	  - Décret n°99-818 du 16 septembre 1999 - art. 3 () JORF 19 septembre 1999
+	  - Code de procédure pénale 41-1, R123 à R146, 375-1, 422, 149, 150, 706-4, R53, R53-6
 
 	**Cité par**:
 
@@ -48607,6 +49425,10 @@ application des dispositions de l'article R. 53-6.
 	  - Code de procédure pénale - art. R224-1 (V)
 	  - Code de procédure pénale - art. R91 (V)
 	  - Code de procédure pénale - art. R93 (V)
+
+	**Modifié par**:
+
+	  - Décret n°2001-71 du 29 janvier 2001 - art. 3 () JORF 30 janvier 2001
 
 
 ###### Article R93
@@ -49797,7 +50619,7 @@ Il est alloué à chaque expert régulièrement requis ou commis :
 	  - Code de procédure pénale - art. R251 (VT)
 
 
-##### Paragraphe 2 : Des personnes chargées des enquêtes sociales et de personnalité ou contribuant au contrôle judiciaire
+##### Paragraphe 2 : Des personnes chargées des enquêtes sociales et de personnalité ou contribuant au contrôle judiciaire ainsi que des médiateurs et des délégués du procureur de la République
 
 ###### Article R121
 
@@ -49805,19 +50627,14 @@ En sus du remboursement de leurs frais de déplacement, calculés dans les condi
 fonctionnaires du groupe II, il est alloué aux personnes habilitées :
 
 1° Pour la vérification de la situation matérielle, familiale ou sociale des personnes faisant l'objet d'une enquête prévue
-par les articles 41 (alinéa 5) et 81 (alinéa 7) : [*francs*] 255 F ;
+par les articles 41 (alinéa 5) et 81 (alinéa 7) : 255 F ;
 
 2° Pour l'enquête sur la personnalité des inculpés ainsi que sur leur situation matérielle, familiale ou sociale, prévue par
-l'article 81 (alinéa 6) : 480 F ;
-
-3° Pour une mission de médiation ou une mission tendant à favoriser la réparation du dommage préalablement à la décision du
-procureur de la République sur les poursuites : 255 F.
+l'article 81 (alinéa 6) : 480 F.
 
 Lorsque la personne habilitée est une association qui a passé une convention avec le premier président et le procureur
-général de la cour d'appel dans le ressort de laquelle est situé son siège social, l'indemnité prévue au 1° ci-dessus est
-portée à 420 F, l'indemnité prévue au 2° à 1.000 F et l'indemnité prévue au 3° à 500 F lorsque la durée de la mission est
-inférieure ou égale à un mois, 1.000 F lorsque cette durée est supérieure à un mois et inférieure ou égale à trois mois,
-2.000 F lorsqu'elle est supérieure à trois mois.
+général de la cour d'appel dans le ressort de laquelle est situé son siège, l'indemnité prévue au 1° ci-dessus est portée à
+420 F et l'indemnité prévue au 2° à 1 000 F.
 
 **Liens relatifs à cet article**
 
@@ -49836,7 +50653,7 @@ inférieure ou égale à un mois, 1.000 F lorsque cette durée est supérieure �
 
 	**Modifié par**:
 
-	  - Décret n°97-1188 du 24 décembre 1997 - art. 18 () JORF 27 décembre 1997 en vigueur le 1er janvier 1998
+	  - Décret n°2001-71 du 29 janvier 2001 - art. 4 () JORF 30 janvier 2001
 
 	**Cite**:
 
@@ -49873,7 +50690,7 @@ respectivement à 1.000 F, 1.670 F et 2.670 F.
 
 	**Modifié par**:
 
-	  - Décret n°97-1188 du 24 décembre 1997 - art. 18 () JORF 27 décembre 1997 en vigueur le 1er janvier 1998
+	  - Décret n°2001-71 du 29 janvier 2001 - art. 4 () JORF 30 janvier 2001
 
 	**Cité par**:
 
@@ -74521,9 +75338,9 @@ Le juge de l'application des peines délivre aux délégués bénévoles un docu
 
 ###### Article A48
 
-L'association régulièrement constituée et instituée auprès du comité de probation et d'assistance aux libérés aux fins visées
-à l'article D. 567 peut être agréée, par le ministère de la justice si son statut satisfait en outre aux conditions fixées
-ci-après.
+L'association régulièrement constituée et instituée auprès du service pénitentiaire d'insertion et de probation aux fins
+visées à l'article D. 567 peut être agréée, par le ministère de la justice si son statut satisfait en outre aux conditions
+fixées ci-après.
 
 **Liens relatifs à cet article**
 
@@ -74531,9 +75348,13 @@ ci-après.
 
 	  - Arrêté 1959-02-27
 
+	**Abrogé par**:
+
+	  - Arrêté 2001-04-18 art. 3 JORF 9 juin 2001
+
 	**Modifié par**:
 
-	  - Arrêté 1973-03-07 art. 2 JORF 21 mars 1973
+	  - Décret n°2001-71 du 29 janvier 2001 - art. 9 () JORF 30 janvier 2001
 
 	**Cite**:
 
@@ -74603,9 +75424,9 @@ leur être communiqués.
 
 ###### Article A52
 
-Chaque année, le président de l'association adresse au ministère de la justice sous couvert du président du comité de
-probation et d'assistance aux libérés, un compte rendu administratif, technique et financier, comprenant notamment un état de
-la situation financière et des comptes de l'exercice budgétaire écoulé.
+Chaque année, le président de l'association adresse au ministère de la justice sous couvert du président du service
+pénitentiaire d'insertion et de probation, un compte rendu administratif, technique et financier, comprenant notamment un
+état de la situation financière et des comptes de l'exercice budgétaire écoulé.
 
 **Liens relatifs à cet article**
 
@@ -74613,9 +75434,13 @@ la situation financière et des comptes de l'exercice budgétaire écoulé.
 
 	  - Arrêté 1959-02-27
 
+	**Abrogé par**:
+
+	  - Arrêté 2001-04-18 art. 3 JORF 9 juin 2001
+
 	**Modifié par**:
 
-	  - Arrêté 1973-03-07 art. 2 JORF 21 mars 1973
+	  - Décret n°2001-71 du 29 janvier 2001 - art. 9 () JORF 30 janvier 2001
 
 
 ### Titre XI : Le service pénitentiaire d'insertion et de probation
