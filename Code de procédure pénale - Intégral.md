@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 1976-01-03
+Version Consolidée au 1977-03-04
 
 # Partie législative
 
@@ -15410,6 +15410,142 @@ en application de l'article 522.
 	  - CODE DE PROCEDURE PENALE - art. 522 (M)
 	  - CODE DE PROCEDURE PENALE - art. 706 (Ab)
 	  - CODE DE PROCEDURE PENALE - art. 706-1 (Ab)
+
+
+### Titre XIV : Du recours en indemnité ouvert à certaines victimes de dommages résultant d'une infraction
+
+###### Article 706-7
+
+Lorsque des poursuites pénales ont été engagées, la décision de la commission peut intervenir avant qu'il ait été statué sur
+l'action publique.
+
+La commission peut surseoir à statuer jusqu'à décision définitive de la juridiction répressive dans les cas visés au dernier
+alinéa de l'article 706-3 ; elle doit, dans les mêmes cas et conditions, surseoir à statuer à la demande de la victime.
+
+Les débats ont lieu et la décision est rendue en chambre du conseil.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 58-1296 1958-12-23
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°77-5 du 3 janvier 1977 - art. 2 (V)
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. 706-3 (M)
+
+
+###### Article 706-8
+
+Lorsque la juridiction statuant sur les intérêts civils a alloué des dommages-intérêts d'un montant supérieur à l'indemnité
+accordée par la commission, la victime peut demander un complément d'indemnité dans la limite des maxima visés à l'article
+706-9. Elle doit présenter sa demande dans le délai d'un an après que la décision statuant sur les intérêts civils est
+devenue définitive.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 58-1296 1958-12-23
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°77-5 du 3 janvier 1977 - art. 2 (V)
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. 706-9 (M)
+
+	**Cité par**:
+
+	  - CODE DE PROCEDURE PENALE - art. R50-11 (V)
+	  - Code de procédure pénale - art. R50-7 (V)
+
+
+###### Article 706-9
+
+Les indemnités allouées par la commission sont à la charge de l'Etat. Elles sont payées comme frais de justice criminelle.
+Leurs montants ne peuvent dépasser des maxima fixés, chaque année, par décret.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 58-1296 1958-12-23
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°77-5 du 3 janvier 1977 - art. 2 (V)
+
+	**Cité par**:
+
+	  - Ordonnance no 92-1144 du 12 octobre 1992 portant e - art. 2 (Ab)
+	  - Ordonnance no 92-1148 du 12 octobre 1992 portant e - art. 2 (Ab)
+	  - CODE DE PROCEDURE PENALE - art. 706-6 (V)
+	  - CODE DE PROCEDURE PENALE - art. 706-8 (M)
+	  - CODE DE PROCEDURE PENALE - art. 863 (V)
+	  - CODE DE PROCEDURE PENALE - art. 899 (V)
+	  - CODE DE PROCEDURE PENALE - art. R92 (M)
+	  - Code de procédure pénale - art. 706-10 (V)
+	  - Livre des procédures fiscales - art. L146 B (Dis)
+
+
+###### Article 706-12
+
+Si la victime ou ses ayants droit se constituent partie civile devant la juridiction répressive ou engagent une action contre
+les personnes responsables du dommage, ils doivent indiquer, en tout état de la procédure, s'ils ont saisi la commission
+instituée par l'article 706-4 et si, le cas échéant, celle-ci leur a accordé une indemnité. 
+
+A défaut de cette indication, la nullité du jugement en ce qui concerne ses dispositions civiles pourra être demandée par
+toute personne intéressée pendant deux ans à compter de la date à partir de laquelle ledit jugement est devenu définitif.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 58-1296 1958-12-23
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°77-5 du 3 janvier 1977 - art. 2 (V)
+
+	**Cite**:
+
+	  - Code de procédure pénale - art. 706-4 (V)
+
+	**Cité par**:
+
+	  - Code de procédure pénale - art. 864 (V)
+	  - Code de procédure pénale - art. 900 (V)
+	  - Code de procédure pénale - art. R50-27 (V)
+
+
+###### Article 706-13
+
+En cas d'infraction commise à l'étranger et relevant de la compétence des juridictions françaises, les dispositions du
+présent titre sont applicables lorsque la personne lésée est de nationalité française.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 58-1296 1958-12-23
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°77-5 du 3 janvier 1977 - art. 2 (V)
+
+	**Abrogé par**:
+
+	  - Loi n°90-589 du 6 juillet 1990 - art. 17 (V) JORF 11 juillet 1990 en vigueur le 1er janvier 1991
+
+	**Cité par**:
+
+	  - Loi n°90-589 du 6 juillet 1990 - art. 17 (V)
 
 
 ## Livre V : Des procédures d'exécution
