@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 1980-04-01
+Version Consolidée au 1980-04-04
 
 # Partie législative
 
@@ -33176,6 +33176,33 @@ apparaît que ces visites sont faites dans l'intérêt du traitement.
 	**Modifié par**:
 
 	  - Décret n°72-852 1972-09-12 art. 1 JORF 20 septembre 1972 rectificatif JORF 14 octobre 1972
+
+	**Liens**:
+
+	  - TXT_SOURCE: Code de procédure pénale 714 à 728
+
+
+###### Article D406
+
+En toute hypothèse, un surveillant est présent au parloir ou au lieu de l'entretien. Il doit avoir la possibilité d'entendre
+les conversations.
+
+L'accès au parloir implique, outre la fouille des détenus avant et après l'entretien, les mesures de contrôle jugées
+nécessaires à l'égard des visiteurs, pour des motifs de sécurité.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-322 1959-02-23
+
+	**Modifié par**:
+
+	  - Décret n°75-402 1975-05-23 art. 1 JORF 27 mai 1975
+
+	**Cité par**:
+
+	  - CODE DE PROCEDURE PENALE - art. D411 (V)
 
 	**Liens**:
 
