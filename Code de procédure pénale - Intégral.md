@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 2004-08-22
+Version Consolidée au 2004-09-29
 
 # Partie législative
 
@@ -50950,17 +50950,24 @@ la mention des nom, prénoms, date et lieu de naissance, nationalité, professio
 
 ###### Article R15-33-33
 
-Le Médiateur ou le délégué du procureur de la République doit satisfaire aux conditions suivantes :
+Le médiateur ou le délégué du procureur de la République doit satisfaire aux conditions suivantes : 
 
-1° Ne pas exercer d'activités judiciaires à titre professionnel ;
+1° Ne pas exercer de fonctions judiciaires ou participer au fonctionnement du service de la justice ou être investi d'un
+mandat électif dans le ressort de la cour d'appel ; 
 
 2° Ne pas avoir fait l'objet d'une condamnation, incapacité ou déchéance mentionnée sur le bulletin n° 2 du casier
-judiciaire ;
+judiciaire ; 
 
-3° Présenter des garanties de compétence, d'indépendance et d'impartialité.
+3° Présenter des garanties de compétence, d'indépendance et d'impartialité ; 
 
-Le Médiateur ou le délégué du procureur de la République appelé à se voir confier des missions concernant des mineurs doit en
-outre s'être signalé par l'intérêt qu'il porte aux questions de l'enfance.
+4° Ne pas être âgé de plus de 75 ans ; 
+
+5° Sauf dispense accordée par le garde des sceaux, ministre de la justice, ne pas être conjoint, concubin, parent ou allié
+jusqu'au degré d'oncle ou de neveu inclusivement d'un magistrat ou d'un fonctionnaire de la juridiction ou lié avec l'un
+d'entre eux par un pacte civil de solidarité. 
+
+Le médiateur ou le délégué du procureur de la République appelé à se voir confier des missions concernant des mineurs doit en
+outre s'être signalé par l'intérêt qu'il porte aux questions de l'enfance. 
 
 Lorsqu'une association envisage une modification de la liste mentionnée au 7° de l'article R. 15-33-32 ou de désigner, pour
 accomplir les missions confiées à l'association, une personne physique n'ayant pas été personnellement habilitée, elle doit
@@ -50975,7 +50982,7 @@ conditions mentionnées aux alinéas précédents, ne peuvent être autorisées 
 
 	**Modifié par**:
 
-	  - Décret n°2002-801 du 3 mai 2002 - art. 1 () JORF 5 mai 2002
+	  - Décret n°2004-1021 du 27 septembre 2004 - art. 2 () JORF 29 septembre 2004
 
 	**Cité par**:
 
@@ -50984,7 +50991,7 @@ conditions mentionnées aux alinéas précédents, ne peuvent être autorisées 
 
 	**Cite**:
 
-	  - CODE DE PROCEDURE PENALE - art. R15-33-32 (M)
+	  - Code de procédure pénale - art. R15-33-32 (V)
 
 
 ###### Article R15-33-34
@@ -51009,16 +51016,19 @@ l'article 226-13 du code pénal.
 
 ###### Article R15-33-35
 
-Après avoir procédé à toutes les diligences qu'il juge utiles, le procureur de la République ou le procureur général soumet
-la demande d'habilitation à l'assemblée générale des magistrats du siège et du parquet du tribunal ou de la cour d'appel, qui
-statue à la majorité des membres présents.
+Après avoir fait procéder à toutes les diligences qu'il juge utiles, le procureur de la République ou, si l'intéressé doit
+exercer ses fonctions dans le ressort de la cour d'appel, le procureur général décide de l'habilitation de la personne pour
+une durée probatoire d'un an.
 
-La commission restreinte de l'assemblée générale des magistrats du siège et du parquet, dans les juridictions où sa
-constitution est obligatoire, exerce les attributions mentionnées à l'alinéa précédent.
+A l'issue de cette période, le procureur de la République ou le procureur général décide de l'habilitation de la personne
+pour une période de cinq ans, après avis de l'assemblée générale des magistrats du siège et du parquet du tribunal ou de la
+cour d'appel, ou de la commission restreinte de l'assemblée générale des magistrats du siège et du parquet dans les
+juridictions où sa constitution est obligatoire.
 
-La décision prise par l'assemblée générale ou la commission restreinte précise si la personne est habilitée comme Médiateur
-ou comme délégué du procureur de la République et si elle est habilitée à se voir confier des missions concernant des
-mineurs.
+L'habilitation est renouvelable pour une même durée selon la même procédure.
+
+Les décisions prévues au présent article précisent si la personne est habilitée comme médiateur ou comme délégué du procureur
+de la République et si elle est habilitée à se voir confier des missions concernant les mineurs.
 
 **Liens relatifs à cet article**
 
@@ -51026,9 +51036,9 @@ mineurs.
 
 	  - Décret n°58-358 1958-04-02
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2001-71 du 29 janvier 2001 - art. 2 () JORF 30 janvier 2001
+	  - Décret n°2004-1021 du 27 septembre 2004 - art. 3 () JORF 29 septembre 2004
 
 	**Cité par**:
 
@@ -51036,10 +51046,9 @@ mineurs.
 	  - Code de procédure pénale - art. R15-33-37 (V)
 
 
-###### Article R15-33-36
+###### Article R15-33-35-1
 
-En cas d'urgence, une habilitation provisoire, valable jusqu'à la décision de la prochaine assemblée générale, peut être
-prise par le procureur de la République ou le procureur général.
+La liste des personnes habilitées par le procureur de la République est adressée au procureur général.
 
 **Liens relatifs à cet article**
 
@@ -51049,19 +51058,60 @@ prise par le procureur de la République ou le procureur général.
 
 	**Créé par**:
 
-	  - Décret n°2001-71 du 29 janvier 2001 - art. 2 () JORF 30 janvier 2001
+	  - Décret n°2004-1021 du 27 septembre 2004 - art. 3 () JORF 29 septembre 2004
+
+
+###### Article R15-33-36
+
+Dès qu'il est habilité en application des dispositions du premier alinéa de l'article R. 15-33-35, le médiateur ou le délégué
+du procureur de la République prête devant le tribunal de grande instance ou devant la cour d'appel le serment suivant : 
+
+" Je jure d'exercer mes fonctions avec rigueur, loyauté, impartialité et dignité et de respecter le secret professionnel. " 
+
+Ce serment est également prêté par les personnes physiques représentant les personnes morales habilitées, mentionnées au 7°
+de l'article R. 15-33-32.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°58-358 1958-04-02
+
+	**Modifié par**:
+
+	  - Décret n°2004-1021 du 27 septembre 2004 - art. 3 () JORF 29 septembre 2004
+
+	**Cite**:
+
+	  - Code de procédure pénale - art. R15-33-32 (V)
+	  - Code de procédure pénale - art. R15-33-35 (V)
+
+
+###### Article R15-33-36-1
+
+Le médiateur et le délégué du procureur de la République adressent une fois par an un rapport d'activité au procureur de la
+République ou, s'ils exercent leurs fonctions dans le ressort de la cour d'appel, au procureur général.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°58-358 1958-04-02
+
+	**Créé par**:
+
+	  - Décret n°2004-1021 du 27 septembre 2004 - art. 3 () JORF 29 septembre 2004
 
 
 ###### Article R15-33-37
 
-L'habilitation peut être retirée selon la procédure prévue par l'article R. 15-33-35.
+L'habilitation peut être retirée si la personne cesse de satisfaire à l'une des conditions prévues par l'article R. 15-33-33
+ou si elle n'exécute pas de façon satisfaisante les missions qui lui sont confiées. Ce retrait est prononcé, après que
+l'intéressé a été mis à même de présenter ses observations orales, selon la procédure prévue par l'article R. 15-33-35 pour
+la décision d'habilitation. 
 
-Le procureur de la République ou le procureur général peut, aux fins de retrait de l'habilitation, saisir, selon le cas,
-l'assemblée générale des magistrats du siège et du parquet du tribunal, celle de la cour d'appel ou la commission restreinte
-compétente.
-
-En cas d'urgence, le procureur de la République ou le procureur général peut retirer provisoirement l'habilitation jusqu'à la
-décision de la prochaine assemblée générale ou commission restreinte.
+En cas d'urgence, le procureur de la République ou le procureur général peut retirer provisoirement l'habilitation en
+attendant de pouvoir procéder aux consultations prévues par le deuxième alinéa de l'article R. 15-33-35.
 
 **Liens relatifs à cet article**
 
@@ -51069,9 +51119,14 @@ décision de la prochaine assemblée générale ou commission restreinte.
 
 	  - Décret n°58-358 1958-04-02
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2001-71 du 29 janvier 2001 - art. 2 () JORF 30 janvier 2001
+	  - Décret n°2004-1021 du 27 septembre 2004 - art. 3 () JORF 29 septembre 2004
+
+	**Cite**:
+
+	  - Code de procédure pénale - art. R15-33-33 (V)
+	  - Code de procédure pénale - art. R15-33-35 (V)
 
 
 ##### Section 2 : De la composition pénale
@@ -51118,28 +51173,29 @@ informée que si elle ne se présente pas, elle sera considérée comme ayant re
 
 ###### Article R15-33-40
 
-Le procès-verbal prévu par le neuvième alinéa de l'article 41-2 précise :
+Le procès-verbal prévu par le dix-huitième alinéa de l'article 41-2 précise :
 
 - la nature des faits reprochés ainsi que leur qualification juridique ;
 
-- la nature et le quantum de mesures proposées en application des 1° à 4° de l'article 41-2, ainsi que les délais dans
-lesquels elles doivent être exécutées ;
+- la nature et le quantum de mesures proposées en application des 1° à 13° de l'article 41-2, ainsi que les délais dans
+lesquels elles doivent être exécutées lorsque l'une des mesures prévues par les 7° et 13° est proposée, il est précisé si le
+stage donne lieu à engagement de frais mis à la charge de l'auteur des faits ainsi que leur montant maximum ;
 
-- le cas échéant, le montant ou la nature des réparations proposées en application des dispositions du sixième alinéa de
-l'article 41-2.
+- le cas échéant, le montant ou la nature des réparations proposées en application des dispositions du quinzième alinéa de
+l'article 41-2. 
 
 Ce procès-verbal indique que la personne a été informée de son droit de se faire assister d'un avocat avant de donner son
 accord aux propositions du procureur de la République et de son droit de demander à bénéficier d'un délai de dix jours avant
-de faire connaître sa réponse.
+de faire connaître sa réponse. 
 
 Le procès-verbal précise que la personne a été informée que la proposition de composition pénale va être adressée pour
-validation au président du tribunal de grande instance ou au juge d'instance.
+validation au président du tribunal de grande instance ou au juge d'instance. 
 
 Le procès-verbal précise également que la personne sera informée de la décision du président du tribunal de grande instance
 ou du juge d'instance, et qu'en cas de validation les délais d'exécution des mesures commenceront à courir à la date de
-notification de cette décision.
+notification de cette décision. 
 
-Le procès-verbal est signé par la personne ainsi que par le procureur de la République, son délégué ou son Médiateur. Une
+Le procès-verbal est signé par la personne ainsi que par le procureur de la République, son délégué ou son médiateur. Une
 copie du procès-verbal est remise à l'auteur des faits.
 
 **Liens relatifs à cet article**
@@ -51150,11 +51206,11 @@ copie du procès-verbal est remise à l'auteur des faits.
 
 	**Modifié par**:
 
-	  - Décret n°2004-243 du 17 mars 2004 - art. 6 () JORF 20 mars 2004
+	  - Décret n°2004-1021 du 27 septembre 2004 - art. 5 () JORF 29 septembre 2004
 
 	**Cite**:
 
-	  - CODE DE PROCEDURE PENALE - art. 41-2 (M)
+	  - Code de procédure pénale - art. 41-2 (V)
 
 	**Cité par**:
 
@@ -51166,8 +51222,8 @@ copie du procès-verbal est remise à l'auteur des faits.
 
 ###### Article R15-33-41
 
-La remise du permis de conduire ou de chasser prévue par le 3° de l'article 41-2 emporte pour la personne l'engagement de ne
-pas conduire ou chasser pendant la période de remise de son permis.
+La remise du permis de conduire ou de chasser prévue par les 4° et 5° de l'article 41-2 emporte pour la personne l'engagement
+de ne pas conduire ou chasser pendant la période de remise de son permis. 
 
 Lorsqu'est proposée la remise du permis de conduire, cet engagement peut être limité à la conduite en dehors de l'activité
 professionnelle, sauf si cette limitation est expressément exclue par la loi ou le règlement qui réprime l'infraction, ou à
@@ -51182,13 +51238,13 @@ la conduite de certains véhicules. Dans ce cas, la proposition comporte les pr�
 
 	**Modifié par**:
 
-	  - Décret n°2004-243 du 17 mars 2004 - art. 6 () JORF 20 mars 2004
+	  - Décret n°2004-1021 du 27 septembre 2004 - art. 5 () JORF 29 septembre 2004
 
 	**Cite**:
 
-	  - Code pénal - art. R131-1 (M)
-	  - Code pénal - art. R131-3 (M)
-	  - CODE DE PROCEDURE PENALE - art. 41-2 (M)
+	  - Code pénal - art. R131-1 (V)
+	  - Code pénal - art. R131-3 (V)
+	  - Code de procédure pénale - art. 41-2 (V)
 
 	**Cité par**:
 
@@ -51197,7 +51253,7 @@ la conduite de certains véhicules. Dans ce cas, la proposition comporte les pr�
 
 ###### Article R15-33-42
 
-L'accomplissement d'un travail non rémunéré prévu par le 4° de l'article 41-2 consiste dans la réalisation d'un travail au
+L'accomplissement d'un travail non rémunéré prévu par le 6° de l'article 41-2 consiste dans la réalisation d'un travail au
 profit soit d'une personne morale de droit public, soit d'une association habilitée en application des dispositions des
 articles R. 131-12 à R. 131-16 du code pénal.
 
@@ -51207,21 +51263,22 @@ articles R. 131-12 à R. 131-16 du code pénal.
 
 	  - Décret n°58-358 1958-04-02
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2001-71 du 29 janvier 2001 - art. 2 () JORF 30 janvier 2001
+	  - Décret n°2004-1021 du 27 septembre 2004 - art. 5 () JORF 29 septembre 2004
 
 	**Cite**:
 
-	  - Code pénal R131-12 à R131-16
-	  - CODE DE PROCEDURE PENALE - art. 41-2 (M)
+	  - Code pénal - art. R131-12 (V)
+	  - Code de procédure pénale - art. 41-2 (V)
 
 
 ###### Article R15-33-43
 
-Lorsque la composition pénale intervient à la suite d'un délit prévu aux articles L. 234-1 et L. 234-8 du code de la route,
-le procès-verbal mentionné à l'article R. 15-33-40 comporte une mention informant la personne de la perte de points qui
-résultera de l'exécution de la composition pénale, de l'existence d'un traitement automatisé de ces points et de la
+Lorsque la composition pénale intervient à la suite d'un délit prévu aux articles 222-19-1 ou 222-20-1 du code pénal ou aux
+articles L. 234-1 ou L. 234-8 du code de la route ou de tout autre délit donnant lieu au retrait des points du permis de
+conduire, le procès-verbal mentionné à l'article R. 15-33-40 comporte une mention informant la personne de la perte de points
+qui résultera de l'exécution de la composition pénale, de l'existence d'un traitement automatisé de ces points et de la
 possibilité pour elle d'exercer son droit d'accès.
 
 **Liens relatifs à cet article**
@@ -51237,19 +51294,21 @@ possibilité pour elle d'exercer son droit d'accès.
 
 	**Modifié par**:
 
-	  - Décret n°2002-801 du 3 mai 2002 - art. 8 () JORF 5 mai 2002
+	  - Décret n°2004-1021 du 27 septembre 2004 - art. 5 () JORF 29 septembre 2004
 
 	**Cite**:
 
-	  - CODE DE PROCEDURE PENALE - art. R15-33-40 (M)
-	  - Code de la route. - art. L234-1 (M)
-	  - Code de la route. - art. L234-8 (M)
+	  - Code pénal - art. 222-19-1 (V)
+	  - Code pénal - art. 222-20-1 (V)
+	  - Code de procédure pénale - art. R15-33-40 (V)
+	  - Code de la route. - art. L234-1 (V)
+	  - Code de la route. - art. L234-8 (V)
 
 
 ###### Article R15-33-44
 
 Lorsque la proposition de composition pénale a été portée à la connaissance de la personne par un officier de police
-judiciaire en application des dispositions du septième alinéa de l'article 41-2, la décision écrite du procureur de la
+judiciaire en application des dispositions du seizième alinéa de l'article 41-2, la décision écrite du procureur de la
 République prévue par cet alinéa est annexée au procès-verbal mentionné à l'article R. 15-33-40 qui est signé par l'officier
 de police judiciaire.
 
@@ -51259,28 +51318,23 @@ de police judiciaire.
 
 	  - Décret n°58-358 1958-04-02
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2001-71 du 29 janvier 2001 - art. 2 () JORF 30 janvier 2001
+	  - Décret n°2004-1021 du 27 septembre 2004 - art. 5 () JORF 29 septembre 2004
 
 	**Cite**:
 
-	  - CODE DE PROCEDURE PENALE - art. 41-2 (M)
-	  - CODE DE PROCEDURE PENALE - art. R15-33-40 (M)
+	  - Code de procédure pénale - art. 41-2 (V)
+	  - Code de procédure pénale - art. R15-33-40 (V)
 
 
 ###### Article R15-33-45
 
-Lorsqu'il est fait application des dispositions du sixième alinéa de l'article 41-2, le procès-verbal mentionné à l'article
+Lorsqu'il est fait application des dispositions du quinzième alinéa de l'article 41-2, le procès-verbal mentionné à l'article
 R. 15-33-40 ou un procès-verbal distinct précise les conditions dans lesquelles l'information de la victime, qui peut se
-faire par tout moyen, a été effectuée.
+faire par tout moyen, a été effectuée. 
 
-La victime est informée de son droit de demander à être entendue par le président du tribunal de grande instance ou le juge
-d'instance chargé de statuer sur la requête en validation de la composition pénale. Elle est avisée que la demande d'audition
-doit, à peine d'irrecevabilité, être formée dans les dix jours, soit par lettre recommandée avec demande d'avis de réception
-adressée au procureur de la République, soit par déclaration au greffe.
-
-La victime est également informée de son droit à demander l'assistance d'un avocat.
+La victime est informée de son droit à demander l'assistance d'un avocat.
 
 **Liens relatifs à cet article**
 
@@ -51288,14 +51342,14 @@ La victime est également informée de son droit à demander l'assistance d'un a
 
 	  - Décret n°58-358 1958-04-02
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2001-71 du 29 janvier 2001 - art. 2 () JORF 30 janvier 2001
+	  - Décret n°2004-1021 du 27 septembre 2004 - art. 5 () JORF 29 septembre 2004
 
 	**Cite**:
 
-	  - CODE DE PROCEDURE PENALE - art. 41-2 (M)
-	  - CODE DE PROCEDURE PENALE - art. R15-33-40 (M)
+	  - Code de procédure pénale - art. 41-2 (V)
+	  - Code de procédure pénale - art. R15-33-40 (V)
 
 	**Cité par**:
 
@@ -51327,10 +51381,10 @@ procès-verbaux prévus par les articles R. 15-33-40 et R. 15-33-45 ainsi que l'
 
 ###### Article R15-33-47
 
-Lorsque le président du tribunal décide, d'office ou à la demande des intéressés, de procéder à l'audition de l'auteur des
-faits et de la victime, ceux-ci sont convoqués par tout moyen. Le président du tribunal peut procéder à une audition commune
-ou à des auditions séparées. Ces auditions, qui font l'objet d'un procès-verbal signé du président et des intéressés, ne sont
-pas publiques. Le procureur de la République est informé de ces auditions et y assiste s'il le souhaite.
+Lorsque le président du tribunal décide, de procéder à l'audition de l'auteur des faits et de la victime, ceux-ci sont
+convoqués par tout moyen. Le président du tribunal peut procéder à une audition commune ou à des auditions séparées. Ces
+auditions, qui font l'objet d'un procès-verbal signé du président et des intéressés, ne sont pas publiques. Le procureur de
+la République est informé de ces auditions et y assiste s'il le souhaite.
 
 **Liens relatifs à cet article**
 
@@ -51338,16 +51392,16 @@ pas publiques. Le procureur de la République est informé de ces auditions et y
 
 	  - Décret n°58-358 1958-04-02
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2001-71 du 29 janvier 2001 - art. 2 () JORF 30 janvier 2001
+	  - Décret n°2004-1021 du 27 septembre 2004 - art. 5 () JORF 29 septembre 2004
 
 
 ###### Article R15-33-48
 
 Le procureur de la République peut informer les services de police ou de gendarmerie ayant participé à l'enquête de la
-validation de la composition pénale, notamment lorsque celle-ci comporte la mesure prévue au 3° de l'article 41-2 et que la
-non-exécution de cette mesure est susceptible d'être constatée par ces services.
+validation de la composition pénale, notamment lorsque celle-ci comporte l'une des mesures prévues aux 4°, 5°, 9°, 10° et 11°
+de l'article 41-2 et que la non-exécution de cette mesure est susceptible d'être constatée par ces services.
 
 **Liens relatifs à cet article**
 
@@ -51355,13 +51409,13 @@ non-exécution de cette mesure est susceptible d'être constatée par ces servic
 
 	  - Décret n°58-358 1958-04-02
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2001-71 du 29 janvier 2001 - art. 2 () JORF 30 janvier 2001
+	  - Décret n°2004-1021 du 27 septembre 2004 - art. 5 () JORF 29 septembre  2004
 
 	**Cite**:
 
-	  - CODE DE PROCEDURE PENALE - art. 41-2 (M)
+	  - Code de procédure pénale - art. 41-2 (V)
 
 
 ##### Paragraphe 3 : Exécution des mesures
@@ -51392,8 +51446,8 @@ Le procureur de la République ou la personne par lui désignée adresse ou reme
 de la validation de la composition pénale, des mesures à accomplir et des conditions dans lesquelles ces mesures doivent être
 effectuées.
 
-Ce document comporte une mention indiquant que si la personne n'exécute pas ces mesures, le procureur de la République pourra
-décider d'engager des poursuites à son encontre.
+Ce document comporte une mention indiquant que si la personne n'exécute pas ces mesures, le procureur de la République
+décidera, sauf élément nouveau, d'engager des poursuites à son encontre.
 
 Ce document est constitué si nécessaire de plusieurs feuillets destinés à permettre le paiement de l'amende de composition et
 dont le modèle est arrêté par le ministre de l'économie, des finances et de l'industrie et le ministre de la justice.
@@ -51404,9 +51458,9 @@ dont le modèle est arrêté par le ministre de l'économie, des finances et de 
 
 	  - Décret n°58-358 1958-04-02
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2001-71 du 29 janvier 2001 - art. 2 () JORF 30 janvier 2001
+	  - Décret n°2004-1021 du 27 septembre 2004 - art. 5 () JORF 29 septembre 2004
 
 	**Cité par**:
 
@@ -51465,6 +51519,24 @@ remise au service des domaines.
 	  - Décret n°2001-71 du 29 janvier 2001 - art. 2 () JORF 30 janvier 2001
 
 
+###### Article R15-33-52-1
+
+Lorsque la composition pénale comporte la remise du véhicule à des fins d'immobilisation prévue par le 3° de l'article 41-2,
+cette remise est exécutée conformément aux dispositions des articles R. 131-5 à R. 131-11 du code pénal. Les références à la
+décision de condamnation faites par ces articles sont remplacées par des références à l'ordonnance de validation de la
+composition pénale.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°58-358 1958-04-02
+
+	**Créé par**:
+
+	  - Décret n°2004-1021 du 27 septembre 2004 - art. 6 () JORF 29 septembre 2004
+
+
 ###### Article R15-33-53
 
 Lorsque la composition pénale consiste dans la remise du permis de conduire ou du permis de chasser, cette remise est
@@ -51477,15 +51549,16 @@ mentions prévues aux articles R. 131-2 ou R. 131-4 du code pénal, les référe
 ces articles étant remplacées par les références à la décision de validation de la composition pénale.
 
 Lorsque la personne a fait l'objet d'une mesure administrative de rétention ou de suspension de son permis de conduire en
-application des dispositions des articles L. 18 ou L. 18-1 du code de la route, et que son permis est détenu par l'autorité
-administrative, elle en apporte le justificatif au greffe du tribunal de grande instance. Dans ce cas, la suspension cesse de
-recevoir effet à l'expiration du délai fixé en application du 3° de l'article 41-2. S'il est fait application des
-dispositions du deuxième alinéa de l'article R. 15-33-41, le récépissé prévu par le deuxième alinéa du présent article est
-remis à l'intéressé.
+application des dispositions des articles L. 224-1 et suivants du code de la route, et que son permis est détenu par
+l'autorité administrative, elle en apporte le justificatif au greffe du tribunal de grande instance. Dans ce cas, la
+suspension cesse de recevoir effet à l'expiration du délai fixé en application du 4° de l'article 41-2. S'il est fait
+application des dispositions du deuxième alinéa de l'article R. 15-33-41, le récépissé prévu par le deuxième alinéa du
+présent article est remis à l'intéressé.
 
 Les services de police ou les unités de gendarmerie qui constateraient qu'une personne n'a pas respecté son engagement de ne
 pas conduire ou de ne pas chasser en dressent rapport qui est transmis au procureur de la République dans les meilleurs
-délais.
+délais. Il en est de même en cas de constatation que la personne n'a pas respecté l'une des mesures d'interdiction prévues
+aux 9°, 10° et 11° de l'article 41-2.
 
 **Liens relatifs à cet article**
 
@@ -51493,17 +51566,9 @@ délais.
 
 	  - Décret n°58-358 1958-04-02
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2001-71 du 29 janvier 2001 - art. 2 () JORF 30 janvier 2001
-
-	**Cite**:
-
-	  - Code pénal - art. R131-2 (M)
-	  - Code pénal - art. R131-4 (M)
-	  - CODE DE PROCEDURE PENALE - art. 41-2 (M)
-	  - CODE DE PROCEDURE PENALE - art. R15-33-41 (M)
-	  - Code de la route L18, L18-1
+	  - Décret n°2004-1021 du 27 septembre 2004 - art. 5 () JORF 29 septembre 2004
 
 	**Cité par**:
 
@@ -51537,13 +51602,13 @@ procureur de la République.
 
 ###### Article R15-33-55
 
-Les dispositions des articles 131-23 et 131-24, 132-55, R. 131-23 à R. 131-34 du code pénal et L. 412-8 (5°) du code de la
-sécurité sociale sont applicables à l'exécution du travail prévu par le 4° de l'article 41-2 du présent code, les
+Les dispositions des articles 131-23 et 131-24,132-55, R. 131-23 à R. 131-34 du code pénal et L. 412-8 (5°) du code de la
+sécurité sociale sont applicables à l'exécution du travail prévu par le 6° de l'article 41-2 du présent code, les
 attributions confiées par ces articles au tribunal ou au juge de l'application des peines étant dévolues au procureur de la
-République ou à la personne par lui désignée.
+République ou à la personne par lui désignée. 
 
-Le service pénitentiaire d'insertion et de probation peut être désigné par le procureur de la République pour exercer les
-attributions prévues pour l'agent de probation par les articles mentionnés à l'alinéa précédent.
+Le service pénitentiaire d'insertion et de probation exerce, à la demande du procureur de la République, les attributions
+prévues pour l'agent de probation par les articles mentionnés à l'alinéa précédent.
 
 **Liens relatifs à cet article**
 
@@ -51553,7 +51618,7 @@ attributions prévues pour l'agent de probation par les articles mentionnés à 
 
 	**Modifié par**:
 
-	  - Décret n°2002-801 du 3 mai 2002 - art. 8 () JORF 5 mai 2002
+	  - Décret n°2004-1021 du 27 septembre 2004 - art. 5 () JORF 29 septembre 2004
 
 	**Cité par**:
 
@@ -51561,19 +51626,21 @@ attributions prévues pour l'agent de probation par les articles mentionnés à 
 
 	**Cite**:
 
-	  - Code pénal - art. 131-23 (V)
-	  - Code pénal - art. 131-24 (V)
-	  - Code pénal - art. 132-55 (M)
-	  - Code pénal 131-23, 131-24, 132-55, R131-23 à R131-34
-	  - CODE DE PROCEDURE PENALE - art. 41-2 (M)
-	  - Code de la sécurité sociale. - art. L412-8 (M)
+	  - Code pénal - art. R131-23 (V)
 
 
-###### Article R15-33-56
+###### Article R15-33-55-1
 
-Lorsqu'il est fait application des dispositions du sixième alinéa de l'article 41-2, le procureur de la République s'assure,
-directement ou par la personne par lui désignée, que l'auteur des faits répare le préjudice subi par la victime dans les
-délais prescrits.
+Lorsque la composition pénale comporte le suivi d'un stage ou d'une formation prévu par le 7° de l'article 41-2, la
+proposition du procureur de la République précise si le stage ou la formation donne lieu à engagement de frais mis à la
+charge de l'auteur des faits. Si tel est le cas, le montant de ces frais ne peut excéder celui du montant de l'amende prévue
+pour les contraventions de la troisième classe.
+
+Lorsqu'elle consiste en un stage de sensibilisation à la sécurité routière, la mesure prévue à l'alinéa précédent peut être
+exécutée conformément aux dispositions des deux premiers alinéas de l'article R. 131-11-1 du code pénal.
+
+Dans tous les cas, l'auteur des faits adresse au procureur de la République ou à son délégué une attestation de stage ou de
+formation, après que celui-ci ou celle-ci a été accompli.
 
 **Liens relatifs à cet article**
 
@@ -51583,19 +51650,81 @@ délais prescrits.
 
 	**Créé par**:
 
-	  - Décret n°2001-71 du 29 janvier 2001 - art. 2 () JORF 30 janvier 2001
-
-	**Cite**:
-
-	  - CODE DE PROCEDURE PENALE - art. 41-2 (M)
+	  - Décret n°2004-1021 du 27 septembre 2004 - art. 7 () JORF 29 septembre 2004
 
 
-###### Article R15-33-57
+###### Article R15-33-55-2
 
-Lorsque, pour des motifs graves d'ordre médical, familial, professionnel ou social, la personne n'a pas pu exécuter les
-mesures décidées dans les délais prescrits, et que ces délais sont inférieurs aux délais maxima prévus aux 1° et 4° et au
-sixième alinéa de l'article 41-2, le procureur de la République peut prolonger les délais d'exécution de ces mesures, sans
-pouvoir toutefois dépasser lesdits délais.
+Lorsque la composition pénale comporte la mesure d'interdiction d'émettre des chèques ou d'utiliser une carte de paiement
+prévue par le 8° de l'article 41-2, l'auteur des faits remet au greffe du tribunal ou à la personne désignée par le procureur
+de la République, contre récépissé, les carnets de chèques et les cartes de paiement en sa possession pour la durée de la
+mesure.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°58-358 1958-04-02
+
+	**Créé par**:
+
+	  - Décret n°2004-1021 du 27 septembre 2004 - art. 7 () JORF 29 septembre 2004
+
+
+###### Article R15-33-55-3
+
+Lorsque la composition pénale comporte la mesure d'interdiction de rencontrer, de recevoir la victime ou d'entrer en contact
+avec elle prévue au 10° de l'article 41-2, cette mesure est portée à la connaissance de la victime.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°58-358 1958-04-02
+
+	**Créé par**:
+
+	  - Décret n°2004-1021 du 27 septembre 2004 - art. 7 () JORF 29 septembre 2004
+
+
+###### Article R15-33-55-4
+
+Lorsque la composition pénale comporte la mesure d'interdiction de sortie du territoire national prévue par le 12° de
+l'article 41-2, l'auteur des faits remet au greffe du tribunal ou à la personne désignée par le procureur de la République,
+contre récépissé, son passeport pour la durée de la mesure.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°58-358 1958-04-02
+
+	**Créé par**:
+
+	  - Décret n°2004-1021 du 27 septembre 2004 - art. 7 () JORF 29 septembre 2004
+
+
+###### Article R15-33-55-5
+
+Lorsque la composition pénale comporte l'accomplissement d'un stage de citoyenneté prévu au 13° de l'article 42-1, les
+dispositions des articles R. 131-35 à R. 131-40 du code pénal sont applicables.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°58-358 1958-04-02
+
+	**Créé par**:
+
+	  - Décret n°2004-1021 du 27 septembre 2004 - art. 7 () JORF 29 septembre 2004
+
+
+###### Article R15-33-56
+
+Lorsqu'il est fait application des dispositions du quinzième alinéa de l'article 41-2, le procureur de la République
+s'assure, directement ou par la personne par lui désignée, que l'auteur des faits répare le préjudice subi par la victime
+dans les délais prescrits.
 
 **Liens relatifs à cet article**
 
@@ -51605,11 +51734,25 @@ pouvoir toutefois dépasser lesdits délais.
 
 	**Modifié par**:
 
-	  - Décret n°2002-801 du 3 mai 2002 - art. 8 () JORF 5 mai 2002
+	  - Décret n°2004-1021 du 27 septembre 2004 - art. 5 () JORF 29 septembre 2004
 
-	**Cite**:
 
-	  - CODE DE PROCEDURE PENALE - art. 41-2 (M)
+###### Article R15-33-57
+
+Lorsque, pour des motifs graves d'ordre médical, familial, professionnel ou social, la personne n'a pas pu exécuter les
+mesures décidées dans les délais prescrits, et que ces délais sont inférieurs aux délais maxima prévus par les articles 41-2
+et 41-3, le procureur de la République peut prolonger les délais d'exécution de ces mesures, sans pouvoir toutefois dépasser
+lesdits délais.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°58-358 1958-04-02
+
+	**Modifié par**:
+
+	  - Décret n°2004-1021 du 27 septembre 2004 - art. 5 () JORF 29 septembre 2004
 
 
 ###### Article R15-33-58
@@ -51632,9 +51775,11 @@ Le procureur de la République avise l'intéressé et, le cas échéant, la vict
 
 ###### Article R15-33-59
 
-Lorsque la composition pénale est intervenue à la suite de la commission d'un délit prévu par l'article L. 1er du code de la
-route, le procureur de la République adresse aux services du ministère de l'intérieur un avis les informant de l'exécution de
-la composition pénale, afin qu'il puisse être procédé au retrait des points du permis de conduire.
+Lorsque la composition pénale est intervenue à la suite de la commission d'un délit prévu par les articles 222-19-1 ou
+222-20-1 du code pénal ou les articles L. 234-1 ou L. 234-8 du code de la route ou de tout autre délit ou contravention
+donnant lieu à retrait des points du permis de conduire, le procureur de la République adresse aux services du ministère de
+l'intérieur un avis les informant de l'exécution de la composition pénale, afin qu'il puisse être procédé au retrait des
+points du permis de conduire.
 
 L'avis adressé par le procureur de la République précise la date d'exécution de la composition pénale qui fait courir le
 délai prévu au premier alinéa de l'article L. 11-6 du code de la route.
@@ -51645,23 +51790,19 @@ délai prévu au premier alinéa de l'article L. 11-6 du code de la route.
 
 	  - Décret n°58-358 1958-04-02
 
-	**Créé par**:
-
-	  - Décret n°2001-71 du 29 janvier 2001 - art. 2 () JORF 30 janvier 2001
-
 	**Cité par**:
 
 	  - Décret n°2001-71 du 29 janvier 2001 - art. 7 (V)
 	  - Code de procédure pénale - art. R251 (VT)
 
-	**Cite**:
+	**Modifié par**:
 
-	  - Code de la route L1, L11-6
+	  - Décret n°2004-1021 du 27 septembre 2004 - art. 5 () JORF 29 septembre 2004
 
 
 ###### Article R15-33-60
 
-Si des poursuites sont engagées dans les cas prévus par le onzième alinéa de l'article 41-2, le dossier concernant cette
+Si des poursuites sont engagées dans les cas prévus par le vingtième alinéa de l'article 41-2, le dossier concernant cette
 procédure et dans lequel sont, le cas échéant, précisées les mesures exécutées en tout ou partie par la personne est
 communiqué à la juridiction de jugement, afin qu'elle puisse en tenir compte, en cas de condamnation, dans le prononcé de sa
 décision.
@@ -51672,13 +51813,9 @@ décision.
 
 	  - Décret n°58-358 1958-04-02
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2001-71 du 29 janvier 2001 - art. 2 () JORF 30 janvier 2001
-
-	**Cite**:
-
-	  - CODE DE PROCEDURE PENALE - art. 41-2 (M)
+	  - Décret n°2004-1021 du 27 septembre 2004 - art. 5 () JORF 29 septembre 2004
 
 
 ### Titre II : Des enquêtes
@@ -52555,7 +52692,7 @@ consignations.
 	  - Code de procédure pénale - art. R369 (V)
 
 
-###### Article R24
+###### Article R23-1
 
 Lorsque le juge d'instruction ordonne que la partie du cautionnement affectée à la garantie des droits de la victime ou du
 créancier d'une dette alimentaire soit versée à ceux-ci par provision, il leur en est donné avis.
@@ -52571,25 +52708,14 @@ somme correspondante, aux fins de versement aux ayants droit.
 
 	**Modifié par**:
 
-	  - Décret n°70-1223 1970-12-23 art. 1 JORF 25 décembre 1970
-	  - Décret n°83-455 1983-06-02 art. 3 JORF 8 juin 1983 en vigueur le 1er octobre 1983
-
-	**Transféré par**:
-
 	  - Décret n°2004-1021 du 27 septembre 2004 - art. 8 () JORF 29 septembre 2004
 
-	**Nouveaux textes**:
+	**Anciens textes**:
 
-	  - CODE DE PROCEDURE PENALE - art. R23-1 (Ab)
-	  - CODE DE PROCEDURE PENALE - art. R23-1 (V)
-
-	**Cité par**:
-
-	  - CODE DE PROCEDURE PENALE - art. R368 (V)
-	  - CODE DE PROCEDURE PENALE - art. R369 (V)
+	  - CODE DE PROCEDURE PENALE - art. R24 (T)
 
 
-###### Article R25
+###### Article R23-2
 
 Le ministère public, d'office ou à la demande des parties civiles, produit aux services du Trésor qui assurent au titre des
 produits divers du budget le recouvrement de la fraction du cautionnement acquise à l'Etat dans le cas prévu par l'article
@@ -52608,27 +52734,405 @@ de l'exécution du jugement ou de l'arrêt.
 
 	  - Décret n°58-358 1958-04-02
 
+	**Créé par**:
+
+	  - Décret n°2004-1021 du 27 septembre 2004 - art. 8 () JORF 29 septembre 2004
+
+	**Anciens textes**:
+
+	  - CODE DE PROCEDURE PENALE - art. R25 (M)
+	  - CODE DE PROCEDURE PENALE - art. R25 (T)
+
+	**Cité par**:
+
+	  - Code de procédure pénale - art. R371 (V)
+
+	**Cite**:
+
+	  - Code de procédure pénale 142-2 al. 2, 142-3 al. 2 et 372
+
+
+###### Article R23-3
+
+En cas de condamnation définitive de la personne poursuivie au paiement de dommages et intérêts, le procureur de la
+République informe la partie civile de l'existence du cautionnement et lui indique les formalités à accomplir pour obtenir le
+versement par la Caisse des dépôts et consignations des sommes qui lui sont dues, augmentées, le cas échéant, des intérêts
+échus.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°58-358 1958-04-02
+
+	**Créé par**:
+
+	  - Décret n°2004-1021 du 27 septembre 2004 - art. 8 () JORF 29 septembre 2004
+
+
+###### Article R23-4
+
+Dans les cas prévus au premier alinéa de l'article 142-2 et au premier alinéa de l'article 142-3, les sommes restituées à la
+personne poursuivie sont augmentées, le cas échéant, des intérêts échus.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°58-358 1958-04-02
+
+	**Créé par**:
+
+	  - Décret n°2004-1021 du 27 septembre 2004 - art. 8 () JORF 29 septembre 2004
+
+
+##### Paragraphe 4 : De la constitution de sûretés
+
+###### Article R24
+
+En application du 15° de l'article 138, le juge d'instruction peut ordonner à la personne mise en examen de constituer, dans
+un délai qu'il détermine, une ou plusieurs sûretés personnelles ou réelles destinées à garantir les droits respectifs des
+victimes identifiées ou identifiables et du Trésor public.
+
+Le juge fixe la durée pour laquelle la sûreté doit être constituée et le montant de la somme ainsi garantie. En présence de
+plusieurs victimes identifiées ou identifiables, il peut pour chacune préciser le montant de la somme garantie par la sûreté.
+
+Lorsqu'il s'agit d'une sûreté réelle, le juge désigne, en outre, les biens constituant l'assiette de la sûreté, la nature de
+cette dernière et il précise, le cas échéant, son rang.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°58-358 1958-04-02
+
 	**Modifié par**:
-
-	  - Décret n°2002-801 du 3 mai 2002 - art. 8 () JORF 5 mai 2002
-
-	**Transféré par**:
 
 	  - Décret n°2004-1021 du 27 septembre 2004 - art. 8 () JORF 29 septembre 2004
 
 	**Nouveaux textes**:
 
-	  - CODE DE PROCEDURE PENALE - art. R23-2 (V)
+	  - CODE DE PROCEDURE PENALE - art. R23-1 (V)
 
 	**Cité par**:
 
+	  - CODE DE PROCEDURE PENALE - art. R368 (V)
 	  - CODE DE PROCEDURE PENALE - art. R369 (V)
-	  - CODE DE PROCEDURE PENALE - art. R371 (V)
-	  - Code de procédure pénale - art. R265 (V)
+
+
+###### Article R24-1
+
+Si le juge d'instruction a décidé que la ou les sûretés garantiront en totalité les droits d'une ou plusieurs parties
+civiles, elles sont constituées au bénéfice de celles-ci.
+
+Si le juge d'instruction a décidé que la ou les sûretés garantiront en totalité la représentation de la personne et le
+paiement des amendes, elles sont constituées au bénéfice du Trésor public.
+
+Si le juge d'instruction a décidé que la ou les sûretés garantiront les droits et objectifs mentionnés aux deux alinéas
+précédents, elles sont constituées au bénéfice des parties civiles et du Trésor public.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°58-358 1958-04-02
+
+	**Créé par**:
+
+	  - Décret n°2004-1021 du 27 septembre 2004 - art. 8 () JORF 29 septembre 2004
+
+
+###### Article R24-2
+
+Lorsque les sûretés garantissent, en partie ou en totalité, les droits d'une ou plusieurs victimes qui ne sont pas encore
+identifiées ou qui ne se sont pas encore constituées partie civile, elles sont établies au nom d'un bénéficiaire provisoire
+agissant pour le compte de ces victimes et, le cas échéant, du Trésor public.
+
+Le bénéficiaire provisoire est choisi parmi les personnes exerçant une activité réglementée par l'autorité publique et
+soumise à une obligation d'assurance professionnelle. Il est proposé par la personne mise en examen et accepté par le juge
+d'instruction.
+
+Le bénéficiaire provisoire s'engage à transférer la ou les sûretés aux victimes et, le cas échéant, au Trésor public, en cas
+de condamnation à leur profit de la personne mise en examen.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°58-358 1958-04-02
+
+	**Créé par**:
+
+	  - Décret n°2004-1021 du 27 septembre 2004 - art. 8 () JORF 29 septembre 2004
+
+	**Cité par**:
+
+	  - Code de procédure pénale - art. R249-2 (VD)
+
+
+###### Article R24-3
+
+Dans le délai imparti par le juge d'instruction, la personne mise en examen constitue et, le cas échéant, publie la sûreté
+demandée, conformément aux lois et règlements applicables à cette sûreté.
+
+Cette personne peut toutefois demander au juge d'instruction à bénéficier d'un délai supplémentaire pour constituer ou
+publier la sûreté en justifiant des formalités déjà accomplies à cette fin.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°58-358 1958-04-02
+
+	**Créé par**:
+
+	  - Décret n°2004-1021 du 27 septembre 2004 - art. 8 () JORF 29 septembre 2004
+
+
+###### Article R24-4
+
+Les actes constitutifs de la sûreté établie au nom d'un bénéficiaire provisoire ainsi que, le cas échéant, les actes assurant
+sa publicité précisent que le bénéficiaire provisoire agit, soit pour garantir les droits du Trésor public et ceux de la ou
+des victimes, soit pour garantir les droits de la ou des victimes, selon la décision prise par le juge d'instruction, dont
+les références sont mentionnées dans ces actes.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°58-358 1958-04-02
+
+	**Créé par**:
+
+	  - Décret n°2004-1021 du 27 septembre 2004 - art. 8 () JORF 29 septembre 2004
+
+
+###### Article R24-5
+
+Les documents attestant de la constitution et, le cas échéant, de la publicité de la sûreté sont adressés en triple
+exemplaire, en original ou en copie, par la personne mise en examen au greffier du juge d'instruction et sont versés au
+dossier de la procédure.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°58-358 1958-04-02
+
+	**Créé par**:
+
+	  - Décret n°2004-1021 du 27 septembre 2004 - art. 8 () JORF 29 septembre 2004
+
+
+###### Article R24-6
+
+Lorsqu'une sûreté réelle est retenue, l'ordonnance de placement sous contrôle judiciaire précise que la personne mise en
+examen ainsi que, selon les cas, le bénéficiaire provisoire, le Trésor public ou la ou les parties civiles qui sont parties à
+la constitution de la sûreté sont tenues d'informer le juge d'instruction de l'aliénation du bien grevé ou du versement d'une
+indemnité résultant de sa destruction. Si l'instruction est terminée, l'information est communiquée au procureur de la
+République.
+
+L'ordonnance indique, en outre, que les sommes d'argent perçues à ces occasions feront l'objet d'un cautionnement selon les
+modalités prévues à l'article R. 24-7.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°58-358 1958-04-02
+
+	**Créé par**:
+
+	  - Décret n°2004-1021 du 27 septembre 2004 - art. 8 () JORF 29 septembre 2004
 
 	**Cite**:
 
-	  - Code de procédure pénale 142-2 al. 2, 142-3 al. 2 et 372
+	  - CODE DE PROCEDURE PENALE - art. R24-7 (V)
+
+	**Cité par**:
+
+	  - Code de procédure pénale - art. R249-2 (VD)
+
+
+###### Article R24-7
+
+Lorsque survient un événement mentionné à l'article R. 24-6, le juge d'instruction ou le procureur de la République ordonne
+le versement des sommes perçues, à titre de cautionnement, au régisseur de recettes dans les conditions définies aux articles
+R. 19 et R. 21.
+
+En fonction de la décision initiale qui a conduit à la constitution de la sûreté, il est indiqué que ces sommes garantissent
+soit exclusivement les droits des victimes identifiées, soit, en proportion des montants recouvrés, les intérêts pris en
+compte par les 1° et 2° de l'article 142. Les sommes sont versées par le régisseur à la Caisse des dépôts et consignations
+dans les conditions prévues aux articles R. 23-2 et R. 23-3.
+
+A l'issue de la procédure, il est fait application des dispositions des articles R. 23-2 et R. 23-3. Si les conditions
+prévues par l'article 142-1 sont remplies, le juge d'instruction ou le procureur de la République peut ordonner le versement
+à la victime de tout ou partie des sommes reçues.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°58-358 1958-04-02
+
+	**Créé par**:
+
+	  - Décret n°2004-1021 du 27 septembre 2004 - art. 8 () JORF 29 septembre 2004
+
+	**Cité par**:
+
+	  - CODE DE PROCEDURE PENALE - art. R24-6 (V)
+
+
+###### Article R24-8
+
+Lorsqu'une sûreté garantit la représentation de la personne, il ne peut être fait application des dispositions du deuxième
+alinéa de l'article 142-2 que s'il est constaté, soit dans le jugement de condamnation, soit dans une décision rendue par la
+juridiction mentionnée à l'article 710, que les conditions prévues par cet alinéa sont remplies. La juridiction ordonne alors
+qu'il soit procédé par le Trésor public au recouvrement de la créance garantie par la première partie de la sûreté.
+
+Le procureur de la République adresse une copie des documents attestant de la constitution de la sûreté aux services du
+Trésor public chargés de l'exécution de cette décision.
+
+Lorsque la sûreté a été constituée au nom d'un bénéficiaire provisoire, le Trésor public, bénéficiaire définitif de la sûreté
+établie à son profit, en informe celui-ci et, le cas échéant, la caution ou le détenteur du bien objet de la sûreté.
+
+Les formalités de publicité modificatives sont accomplies à la diligence du Trésor public.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°58-358 1958-04-02
+
+	**Créé par**:
+
+	  - Décret n°2004-1021 du 27 septembre 2004 - art. 8 () JORF 29 septembre 2004
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. 142-2 (M)
+	  - CODE DE PROCEDURE PENALE - art. 710 (M)
+
+	**Cité par**:
+
+	  - CODE DE PROCEDURE PENALE - art. R24-11 (V)
+
+
+###### Article R24-9
+
+En cas de condamnation définitive de la personne poursuivie au paiement de dommages et intérêts, le procureur de la
+République adresse à chacune des parties civiles une copie des documents attestant de la constitution et, le cas échéant, de
+la publicité des sûretés.
+
+Lorsque les sûretés ont été constituées au nom d'un bénéficiaire provisoire, la ou les parties civiles, bénéficiaires
+définitives des sûretés établies à leur profit, en informent celui-ci et, le cas échéant, la caution ou le détenteur du bien
+objet de la sûreté.
+
+Les formalités de publicité modificatives sont accomplies à la diligence des parties civiles.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°58-358 1958-04-02
+
+	**Créé par**:
+
+	  - Décret n°2004-1021 du 27 septembre 2004 - art. 8 () JORF 29 septembre 2004
+
+
+###### Article R24-10
+
+En cas de condamnation définitive de la personne poursuivie à une peine d'amende, le procureur de la République adresse au
+Trésor public une copie des documents attestant de la constitution de la sûreté.
+
+Lorsque la sûreté a été constituée au nom d'un bénéficiaire provisoire, le Trésor public, bénéficiaire définitif de la sûreté
+établie à son profit, en informe celui-ci et, le cas échéant, la caution ou le détenteur du bien objet de la sûreté.
+
+Les formalités de publicité modificatives sont accomplies à la diligence du Trésor public.
+
+En cas de condamnation définitive de la personne poursuivie au paiement de dommages et intérêts ou, le cas échéant, de la
+dette alimentaire et à une peine d'amende, le Trésor public informe la ou les parties civiles ou le bénéficiaire provisoire
+au nom duquel la sûreté a été constituée, ainsi que la caution ou le détenteur du bien objet de la sûreté, du rang
+prioritaire accordé à la ou aux parties civiles. Les formalités de publicité rectificatives nécessaires accomplies à la
+diligence du Trésor public font état de ce rang prioritaire.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°58-358 1958-04-02
+
+	**Créé par**:
+
+	  - Décret n°2004-1021 du 27 septembre 2004 - art. 8 () JORF 29 septembre 2004
+
+
+###### Article R24-11
+
+Dans les cas et selon les distinctions prévus par le premier alinéa de l'article 142-2 et le troisième alinéa de l'article
+142-3, la radiation de la sûreté réelle est obtenue par la personne poursuivie sur présentation de l'une des décisions
+suivantes ayant acquis un caractère définitif attesté par une copie, délivrée par le greffe de la juridiction qui a rendu la
+décision, revêtue de la formule exécutoire :
+
+a) Décision de non-lieu, de relaxe ou d'acquittement ;
+
+b) Décision de condamnation dès lors que celle-ci ne prononce pas de peine d'amende ferme ni n'ordonne le versement de
+dommages et intérêts à la partie civile ;
+
+c) Décision juridictionnelle constatant qu'il n'a pas été fait application des dispositions de l'article R. 24-8.
+
+Lorsqu'une sûreté personnelle a été constituée, la libération de la caution résulte de l'une des décisions définitives
+mentionnées ci-dessus.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°58-358 1958-04-02
+
+	**Créé par**:
+
+	  - Décret n°2004-1021 du 27 septembre 2004 - art. 8 () JORF 29 septembre 2004
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. 142-2 (M)
+	  - CODE DE PROCEDURE PENALE - art. 142-3 (M)
+	  - CODE DE PROCEDURE PENALE - art. R24-8 (V)
+
+
+###### Article R24-12
+
+La rémunération du bénéficiaire provisoire incombe à la personne mise en examen, pour un montant fixé par les parties au
+contrat constitutif de la sûreté.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°58-358 1958-04-02
+
+	**Créé par**:
+
+	  - Décret n°2004-1021 du 27 septembre 2004 - art. 8 () JORF 29 septembre 2004
+
+
+###### Article R24-13
+
+Les dispositions des articles R. 24 à R. 24-12 sont applicables aux sûretés constituées par une personne morale en
+application des dispositions du 2° de l'article 706-45.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°58-358 1958-04-02
+
+	**Créé par**:
+
+	  - Décret n°2004-1021 du 27 septembre 2004 - art. 8 () JORF 29 septembre 2004
 
 
 ##### Sous-section 2 : De la réparation à raison d'une détention provisoire
@@ -53614,175 +54118,6 @@ Draguignan (à titre temporaire)
 	**Modifié par**:
 
 	  - Décret n°2001-742 du 23 août 2001 - art. 1 () JORF 25 août 2001 en vigueur le 1er janvier 2002
-
-
-#### Chapitre III : De la composition de la cour d'assises
-
-###### Article R41-1
-
-La liste des jurés suppléants prévue par l'article 264 comprend :
-
-1° Sept cents jurés pour les cours d'assises de Paris et de la Seine-Saint-Denis ;
-
-2° Six cents jurés pour la cour d'assises du Val-de-Marne ;
-
-3° Quatre cent cinquante jurés pour les cours d'assises des Bouches-du-Rhône, de la Gironde, du Nord et des Yvelines ;
-
-4° (alinéa supprimé)
-
-5° Deux cent cinquante jurés pour les cours d'assises des Alpes-Maritimes, de la Corse-du-Sud, de la Haute-Corse, de
-l'Essonne, des Hauts-de-Seine, d'Ille-et-Vilaine, de la Loire-Atlantique, du Pas-de-Calais, du Rhône, de la Seine-Maritime,
-de Seine-et-Marne, du Val-d'Oise et du Var ;
-
-6° Deux cents jurés pour les cours d'assises de la Marne et de la Réunion ;
-
-7° Cent cinquante jurés pour les cours d'assises de l'Aisne, de l'Ardèche, du Calvados, de la Côte-d'Or, de l'Eure, du
-Finistère, du Gard, de la Guadeloupe, de la Haute-Garonne, de la Haute-Savoie, de l'Hérault, de l'Isère, de Maine-et-Loire,
-de Meurthe-et-Moselle, de la Meuse, de la Moselle, de l'Oise, des Pyrénées-Atlantiques, des Pyrénées-Orientales, du Bas-Rhin,
-du Haut-Rhin, de la Sarthe, de la Savoie, de la Somme, de Vaucluse, des Vosges et de l'Yonne ;
-
-8° Soixante-dix jurés pour la cour d'assises de la Polynésie française ;
-
-9° Cinquante jurés pour la cour d'assises de la Nouvelle-Calédonie ;
-
-10° Cent jurés pour les autres cours d'assises.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°59-318 1959-02-23
-
-	**Modifié par**:
-
-	  - Décret n°2004-243 du 17 mars 2004 - art. 7 () JORF 20 mars 2004
-
-	**Abrogé par**:
-
-	  - Décret n°2004-1021 du 27 septembre 2004 - art. 14 () JORF 29 septembre 2004
-
-	**Cite**:
-
-	  - CODE DE PROCEDURE PENALE - art. 264 (M)
-
-	**Cité par**:
-
-	  - CODE DE PROCEDURE PENALE - art. R50 (M)
-	  - Nouveau code de procédure civile - art. 852-1 (M)
-
-
-###### Article R41-1-A
-
-En application des dispositions du deuxième alinéa de l'article 260, le nombre des jurés figurant sur les listes annuelles
-établies dans le ressort des cours d'assises énumérées ci-dessous est fixé comme suit :
-
-Cours d'assises
-
-- DÉPARTEMENTS
-
-- NOMBRE DE JURÉS figurant sur la liste annuelle
-
-Alpes-Maritimes
-
-1 000 
-
-Ardèche
-
-420 
-
-Bouches-du-Rhône
-
-2 000 
-
-Charente
-
-300 
-
-Côte-d'Or
-
-600 
-
-Dordogne
-
-400 
-
-Eure
-
-500 
-
-Guadeloupe
-
-450 
-
-Haute-Marne
-
-300 
-
-Haute-Savoie
-
-600 
-
-Ille-et-Vilaine
-
-900 
-
-Indre
-
-230 
-
-Mayenne
-
-300 
-
-Nièvre
-
-230 
-
-Paris
-
-2 300 
-
-Savoie
-
-390 
-
-Seine-Saint-Denis
-
-2 000
-
-Val-de-Marne
-
-1 700 
-
-Var
-
-1 000 
-
-Yonne
-
-350 
-
-Les dispositions du présent article cessent d'être applicables si, en raison de l'évolution officiellement constatée du
-nombre des habitants du ressort de la cour d'assises, le nombre des jurés résultant des dispositions du premier alinéa de
-l'article 260 dépasse celui fixé ci-dessus.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°59-318 1959-02-23
-
-	**Modifié par**:
-
-	  - Décret n°2004-243 du 17 mars 2004 - art. 7 () JORF 20 mars 2004
-
-	**Abrogé par**:
-
-	  - Décret n°2004-1021 du 27 septembre 2004 - art. 14 () JORF 29 septembre 2004
-
-	**Cite**:
-
-	  - CODE DE PROCEDURE PENALE - art. 260 (M)
 
 
 ### Titre II : Du jugement des délits
@@ -57531,8 +57866,10 @@ relevant pas de la compétence de la juridiction de proximité.
 
 ###### Article R53-41
 
-La juridiction de proximité peut valider les compositions pénales prévues aux articles 41-2 et 41-3 par application des
-dispositions du deuxième alinéa de l'article 706-72.
+En application des dispositions du deuxième alinéa de l'article 706-72, la juridiction de proximité peut, par délégation du
+président du tribunal de grande instance, valider les compositions pénales proposées, sur le fondement des articles 41-2 et
+41-3, aux auteurs de délits ou contraventions entrant dans la compétence territoriale du procureur de la République près ce
+tribunal.
 
 **Liens relatifs à cet article**
 
@@ -57540,15 +57877,44 @@ dispositions du deuxième alinéa de l'article 706-72.
 
 	  - Décret n°59-318 1959-02-23
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2003-542 du 23 juin 2003 - art. 27 () JORF 25 juin 2003 en vigueur le 15 septembre 2003
+	  - Décret n°2004-1021 du 27 septembre 2004 - art. 11 () JORF 29 septembre 2004
+
+	**Abrogé par**:
+
+	  - Décret n°2005-284 du 25 mars 2005 - art. 6 () JORF 30 mars 2005 en vigueur le 1er avril 2005
 
 	**Cite**:
 
 	  - CODE DE PROCEDURE PENALE - art. 41-2 (M)
 	  - CODE DE PROCEDURE PENALE - art. 41-3 (M)
 	  - CODE DE PROCEDURE PENALE - art. 706-72 (M)
+
+
+###### Article R53-42
+
+Le droit fixe de procédure institué par l'article 1018 A du code général des impôts, applicable devant la juridiction de
+proximité statuant en matière contraventionnelle, est celui prévu par le 2° de cet article pour les décisions du tribunal de
+police.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 1018 A
+
+	**Codifié par**:
+
+	  - Décret n°59-318 1959-02-23
+
+	**Créé par**:
+
+	  - Décret n°2004-1021 du 27 septembre 2004 - art. 12 () JORF 29 septembre 2004
+
+	**Abrogé par**:
+
+	  - Décret n°2005-284 du 25 mars 2005 - art. 6 () JORF 30 mars 2005 en vigueur le 1er avril 2005
 
 
 ## Livre V : Des procédures d'exécution.
@@ -61420,11 +61786,12 @@ En sus du remboursement de leurs frais de déplacement, calculés dans les condi
 fonctionnaires du groupe II, il est alloué aux délégués et aux médiateurs du procureur de la République :
 
 1° Pour une mission tendant à procéder au rappel des obligations résultant de la loi en application des dispositions du 1° de
-l'article 41-1 : 7,62 euros ;
+l'article 41-1 ou à notifier une ordonnance pénale en application des dispositions de l'article 495-3 : 7,62 euros ;
 
 2° Pour une mission tendant à favoriser la réparation du dommage, la régularisation d'une situation ou l'orientation vers une
-structure sanitaire, sociale ou professionnelle en application des dispositions des 2°, 3° et 4° de l'article 41-1 : 15,24
-euros ;
+structure sanitaire, sociale ou professionnelle en application des dispositions des 2°, 3° et 4° de l'article 41-1 et à
+vérifier le respect par la personne de ses engagements, ainsi que pour une mission de contrôle de la mise en oeuvre de la
+peine de stage de citoyenneté : 15,24 euros ;
 
 3° Pour une mission de médiation en application des dispositions du 5° de l'article 41-1 : 38,87 euros ;
 
@@ -61432,9 +61799,10 @@ euros ;
 
 a) Pour la notification des mesures proposées et le recueil de l'accord de la personne : 15,24 euros ;
 
-b) Pour le contrôle de l'exécution des mesures décidées : 7,62 euros lorsqu'il s'agit des mesures prévues aux 1°, 2° ou 3° de
-l'article 41-2 ; 15, 24 euros lorsqu'est également décidée la mesure prévue au 4° de l'article 41-2 ou celle prévue au
-sixième alinéa de cet article.
+b) Pour le contrôle de l'exécution des mesures décidées : 7,62 euros lorsqu'il s'agit d'une des mesures prévues aux 1° à 5°
+et 8° à 12° de l'article 41-2 ; 15,24 euros lorsqu'est également décidée une des mesures prévues aux 6°, 7° et 13° de
+l'article 41-2 ou celle prévue au quinzième alinéa de cet article. Le montant cumulé des sommes ainsi allouées ne peut
+toutefois excéder celui dû pour quatre de ces mesures.
 
 Lorsque la personne habilitée est une association qui a passé une convention avec le premier président et le procureur
 général de la cour d'appel dans le ressort de laquelle est situé son siège, l'indemnité prévue au 1° est portée à 11,43
@@ -61446,25 +61814,29 @@ portées à 30,49, 15,24 et 30,49 euros.
 Lorsque les mesures prévues aux 1° à 3° ci-dessus concernent un mineur, le délégué ou le Médiateur du procureur qui doit
 procéder à l'audition des responsables légaux du mineur se voit allouer une indemnité supplémentaire de 7,62 euros.
 
+L'indemnité prévue au 1° pour les rappels des obligations résultant de la loi n'est pas cumulable avec celles prévues aux 2°,
+3° ou 4°.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°59-318 1959-02-23
 
-	**Modifié par**:
-
-	  - Ordonnance 2000-916 2000-09-19 annexe JORF 22 septembre 2000 en vigueur le 1er janvier 2002
-
 	**Cité par**:
 
 	  - Décret n°2001-71 du 29 janvier 2001 - art. 7 (V)
 	  - CODE DE PROCEDURE PENALE - art. A43-4 (V)
 
+	**Modifié par**:
+
+	  - Décret n°2004-1021 du 27 septembre 2004 - art. 17 () JORF 29 septembre 2004
+
 	**Cite**:
 
 	  - CODE DE PROCEDURE PENALE - art. 41-1 (M)
 	  - CODE DE PROCEDURE PENALE - art. 41-2 (M)
+	  - CODE DE PROCEDURE PENALE - art. 495-3 (M)
 
 
 ###### Article R121-3
@@ -61570,6 +61942,35 @@ Les interprètes traducteurs ont droit aux indemnités de voyage et de séjour p
 	**Liens**:
 
 	  - TXT_SOURCE: CODE DE PROCEDURE PENALE - art. 800 (M)
+
+
+###### Article R122-1
+
+La somme fixée au premier alinéa de l'article R. 122 est majorée de 50 % lorsqu'il s'agit de la traduction d'un mandat
+d'arrêt européen devant être effectuée dans un délai inférieur à 48 heures, quelle que soit la langue utilisée.
+
+**Nota:**
+
+Décret n° 2008-764 du 30 juillet 2008 article 15 II : Les dispositions résultant des articles 8, 9, 11, 12, 13 et 14 du
+présent décret entreront en vigueur à la date fixée par les arrêtés prévus par ces dispositions.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-318 1959-02-23
+
+	**Créé par**:
+
+	  - Décret n°2004-1021 du 27 septembre 2004 - art. 18 () JORF 29 septembre 2004
+
+	**Abrogé par**:
+
+	  - Décret n°2008-764 du 30 juillet 2008 - art. 11
+
+	**Cite**:
+
+	  - Code de procédure pénale - art. R122
 
 
 ##### Section 3 : Des indemnités qui peuvent être accordées aux témoins et aux jurés
@@ -61727,7 +62128,7 @@ prévues à l'article R. 123 a été requise.
 Les témoins âgés de seize ans ou plus, appelés à déposer soit à l'instruction, soit devant les cours et tribunaux statuant en
 matière criminelle, correctionnelle ou de police reçoivent une indemnité de comparution déterminée par la formule suivante :
 
-I = 10 + (S x 4) dans laquelle :
+I = 1,5 + (S x 4) dans laquelle :
 
 I est le montant de l'indemnité forfaitaire exprimée en euros ;
 
@@ -61746,10 +62147,6 @@ D la durée horaire de comparution, celle-ci ne pouvant excéder huit heures par
 
 	  - Décret n°59-318 1959-02-23
 
-	**Modifié par**:
-
-	  - Ordonnance 2000-916 2000-09-19 annexe JORF 22 septembre 2000 en vigueur le 1er janvier 2002
-
 	**Cité par**:
 
 	  - Décret n°2004-593 du 17 juin 2004 - art. 33 (V)
@@ -61760,6 +62157,10 @@ D la durée horaire de comparution, celle-ci ne pouvant excéder huit heures par
 	  - Code de procédure pénale - art. R132 (V)
 	  - Code de procédure pénale - art. R249-2 (VD)
 	  - Code de procédure pénale - art. R324 (V)
+
+	**Modifié par**:
+
+	  - Décret n°2004-1021 du 27 septembre 2004 - art. 20 () JORF 29 septembre 2004
 
 	**Liens**:
 
@@ -62055,9 +62456,8 @@ Il est accordé aux membres du jury criminel, s'ils le requièrent et quand il y
 
 ###### Article R140
 
-Il est accordé aux jurés, pendant la durée de la session, une indemnité journalière déterminée par la formule suivante :
-
-I = 40 + (S x 8), dans laquelle :
+Il est accordé aux jurés, pendant la durée de la session, une indemnité journalière déterminée par la formule suivante : I =
+6 + (S x 8), dans laquelle :
 
 I est le montant de l'indemnité forfaitaire exprimé en euros ;
 
@@ -62078,7 +62478,7 @@ D la durée horaire de l'audience, celle-ci ne pouvant excéder huit heures par 
 
 	**Modifié par**:
 
-	  - Ordonnance 2000-916 2000-09-19 annexe JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+	  - Décret n°2004-1021 du 27 septembre 2004 - art. 20 () JORF 29 septembre 2004
 
 	**Cité par**:
 
@@ -62692,7 +63092,7 @@ Chaque huissier de justice audiencier reçoit une indemnité de :
 
 2° 10 euros pour le service d'une audience du tribunal correctionnel ou du tribunal pour enfants ;
 
-3° 7,5 euros pour le service d'une audience du tribunal de police.
+3° 7,5 euros pour le service d'une audience du tribunal de police ou de la juridiction de proximité.
 
 **Liens relatifs à cet article**
 
@@ -62702,7 +63102,7 @@ Chaque huissier de justice audiencier reçoit une indemnité de :
 
 	**Modifié par**:
 
-	  - Ordonnance 2000-916 2000-09-19 annexe JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+	  - Décret n°2004-1021 du 27 septembre 2004 - art. 12 () JORF 29 septembre 2004
 
 	**Cité par**:
 
@@ -64229,23 +64629,33 @@ décision est devenue définitive.
 L'indemnité prévue par l'article 800-2 comporte l'indemnisation des frais d'avocat exposés par la personne poursuivie, dont
 le montant ne peut excéder la contribution de l'Etat à la rétribution de l'avocat qui aurait prêté son concours à l'intéressé
 au titre de l'aide juridictionnelle pour l'ensemble de la procédure ayant abouti à la décision de non-lieu, de relaxe ou
-d'acquittement.
+d'acquittement. 
 
 Cette indemnité comporte également, sauf si la personne poursuivie était en détention provisoire lors de ses comparutions
-devant les juridictions d'instruction ou de jugement :
+devant les juridictions d'instruction ou de jugement : 
 
 1° Pour les interrogatoires de la personne devant le juge d'instruction, la chambre de l'instruction ou un magistrat d'une
 juridiction de jugement chargé d'un supplément d'information, sa comparution devant le tribunal ou le juge pour enfants, le
-tribunal de police, le tribunal correctionnel ou la chambre des appels correctionnels, des indemnités de comparution ne
-pouvant excéder celles calculées dans les conditions fixées aux articles R. 129, R. 130 et R. 131 ;
+tribunal de police ou la juridiction de proximité, le tribunal correctionnel ou la chambre des appels correctionnels, des
+indemnités de comparution ne pouvant excéder celles calculées dans les conditions fixées aux articles R. 129, R. 130 et R.
+131 ; 
 
 2° En cas de comparution devant la cour d'assises, des indemnités journalières ne pouvant excéder celles calculées dans les
-conditions fixées à l'article R. 140 ;
+conditions fixées à l'article R. 140 ; 
 
-3° Des indemnités de transport ne pouvant excéder celles calculées dans les conditions fixées aux articles R. 133 et R. 138 ;
+3° Des indemnités de transport ne pouvant excéder celles calculées dans les conditions fixées aux articles R. 133 et R.
+138 ; 
 
 4° Si l'intéressé a été retenu hors de sa résidence du fait de ses comparutions devant les juridictions d'instruction ou de
-jugement, des indemnités de séjour ne pouvant excéder celles calculées dans les conditions fixées à l'article R. 111.
+jugement, des indemnités de séjour ne pouvant excéder celles calculées dans les conditions fixées à l'article R. 111. 
+
+Si la personne poursuivie a constitué une sûreté à l'occasion d'un contrôle judiciaire, en application des dispositions du
+15° de l'article 138, cette indemnité comporte également les frais de constitution, de publicité et de radiation dont le
+tarif est fixé par les textes réglementaires régissant cette sûreté. 
+
+Lorsque la sûreté a été constituée au profit d'un bénéficiaire provisoire en application des dispositions des articles 142 et
+R. 24-2, l'indemnité comporte en outre le remboursement des sommes versées à cette personne, pour un montant qui ne peut
+excéder 150 euros ou, s'il a été fait application des dispositions de l'article R. 24-6,300 euros.
 
 **Liens relatifs à cet article**
 
@@ -64253,20 +64663,22 @@ jugement, des indemnités de séjour ne pouvant excéder celles calculées dans 
 
 	  - Décret n°59-318 1959-02-23
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2001-1321 du 27 décembre 2001 - art. 3 () JORF 29 décembre 2001
+	  - Décret n°2004-1021 du 27 septembre 2004 - art. 12 () JORF 29 septembre 2004
+	  - Décret n°2004-1021 du 27 septembre 2004 - art. 9 () JORF 29 septembre 2004
 
 	**Cite**:
 
-	  - CODE DE PROCEDURE PENALE - art. 800-2 (V)
-	  - CODE DE PROCEDURE PENALE - art. R111 (V)
-	  - CODE DE PROCEDURE PENALE - art. R129 (M)
-	  - CODE DE PROCEDURE PENALE - art. R130 (M)
-	  - CODE DE PROCEDURE PENALE - art. R131 (V)
-	  - CODE DE PROCEDURE PENALE - art. R133 (M)
-	  - CODE DE PROCEDURE PENALE - art. R138 (V)
-	  - CODE DE PROCEDURE PENALE - art. R140 (M)
+	  - Code de procédure pénale - art. 142 (VT)
+	  - Code de procédure pénale - art. 800-2 (V)
+	  - Code de procédure pénale - art. R111 (V)
+	  - Code de procédure pénale - art. R129 (V)
+	  - Code de procédure pénale - art. R133 (V)
+	  - Code de procédure pénale - art. R138 (V)
+	  - Code de procédure pénale - art. R140 (V)
+	  - Code de procédure pénale - art. R24-2 (V)
+	  - Code de procédure pénale - art. R24-6 (V)
 
 	**Cité par**:
 
@@ -64276,20 +64688,22 @@ jugement, des indemnités de séjour ne pouvant excéder celles calculées dans 
 ###### Article R249-3
 
 L'indemnité doit être demandée à la juridiction d'instruction ou de jugement avant que celle-ci ne statue sur l'action
-publique.
+publique. 
 
 La demande fait l'objet d'une requête datée et signée du demandeur ou de son avocat, adressée à la juridiction soit par
-lettre recommandée avec demande d'accusé de réception, soit par remise au greffe contre récépissé :
+lettre recommandée avec demande d'accusé de réception, soit par remise au greffe contre récépissé : 
 
 1° Au plus tard avant l'expiration du délai de vingt jours prévu par l'article 175, si la demande est formée devant le juge
-d'instruction ou la chambre de l'instruction ;
+d'instruction ou la chambre de l'instruction ; 
 
-2° Avant la clôture des débats, si la demande est formée devant une juridiction de jugement.
+2° Avant la clôture des débats, si la demande est formée devant une juridiction de jugement. 
 
 Cette requête indique le montant de l'indemnité demandée pour chacun des frais exposés, conformément aux distinctions prévues
 par l'article R. 249-2. Elle est accompagnée des pièces justificatives des frais exposés, comprenant notamment une
 attestation de l'avocat indiquant soit le montant de ses honoraires, soit le fait que ceux-ci ont dépassé le montant prévu au
-premier alinéa du même article.
+premier alinéa du même article. Lorsque l'indemnité demandée porte également sur les frais prévus par le dernier alinéa de
+l'article R. 249-2, figure en outre parmi les pièces justificatives une attestation du bénéficiaire provisoire indiquant soit
+le montant de sa rémunération, soit que celle-ci était supérieure aux montants prévus au dernier alinéa de cet article.
 
 **Liens relatifs à cet article**
 
@@ -64297,14 +64711,14 @@ premier alinéa du même article.
 
 	  - Décret n°59-318 1959-02-23
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2001-1321 du 27 décembre 2001 - art. 3 () JORF 29 décembre 2001
+	  - Décret n°2004-1021 du 27 septembre 2004 - art. 9 () JORF 29 septembre 2004
 
 	**Cite**:
 
-	  - CODE DE PROCEDURE PENALE - art. 175 (M)
-	  - CODE DE PROCEDURE PENALE - art. R249-2 (M)
+	  - Code de procédure pénale - art. 175 (VT)
+	  - Code de procédure pénale - art. R249-2 (V)
 
 
 ###### Article R249-4
@@ -64360,8 +64774,8 @@ Cet appel est porté :
 
 a) Devant la chambre de l'instruction lorsque la décision a été rendue par le juge d'instruction ;
 
-b) Devant la chambre des appels correctionnels lorsque la décision a été rendue par le tribunal de police, le tribunal des
-enfants ou le tribunal correctionnel, ou par la cour d'assises statuant en premier ressort.
+b) Devant la chambre des appels correctionnels lorsque la décision a été rendue par le tribunal de police ou la juridiction
+de proximité, le tribunal des enfants ou le tribunal correctionnel, ou par la cour d'assises statuant en premier ressort.
 
 L'appel de la décision de non-lieu ou de relaxe par le ministère public vaut également appel de la décision sur la demande
 d'indemnisation. Il en est de même de l'appel de la décision de non-lieu par la partie civile.
@@ -64374,9 +64788,9 @@ Pendant le délai d'appel et durant l'instance d'appel, il est sursis à l'exéc
 
 	  - Décret n°59-318 1959-02-23
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2001-1321 du 27 décembre 2001 - art. 3 () JORF 29 décembre 2001
+	  - Décret n°2004-1021 du 27 septembre 2004 - art. 12 () JORF 29 septembre 2004
 
 	**Cité par**:
 
