@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 1986-09-18
+Version Consolidée au 1986-09-19
 
 # Partie législative
 
@@ -30644,6 +30644,323 @@ immédiatement le comptable direct du Trésor de l'annulation de l'extrait corre
 	**Cite**:
 
 	  - Code de procédure pénale 527 al. 6
+
+
+#### Chapitre II bis : Amende forfaitaire et amende forfaitaire majorée
+
+###### Article R49
+
+Le montant de l'amende forfaitaire prévue par l'article 529 est fixé ainsi qu'il suit :
+
+1° 30 F. pour les contraventions aux dispositions du code de la route commises par les piétons ;
+
+2° 75 F. pour les autres contraventions de la 1er classe ;
+
+3° 230 F. pour les contraventions de la 2e classe ;
+
+4° 450 F. pour les contraventions de la 3e classe ;
+
+5° 900 F. pour les contraventions de la 4e classe.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-318 1959-02-23
+
+	**Créé par**:
+
+	  - Décret n°86-1044 du 18 septembre 1986 - art. 2 () JORF 19 septembre 1986
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°86-1044 du 18 septembre 1986 - art. 6 (V)
+
+	**Cité par**:
+
+	  - Décret n°2011-876 du 25 juillet 2011 (V)
+	  - Décret n°2015-808 du 2 juillet 2015 - art. 15 (VD)
+	  - CODE DE PROCEDURE PENALE - art. R49-12 (V)
+	  - Code de procédure pénale - art. A37-19 (V)
+	  - Code de procédure pénale - art. R272 (VD)
+	  - Code forestier (nouveau) - art. R162-2 (V)
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. 529 (M)
+
+
+###### Article R49-1
+
+Un avis de contravention et une carte de paiement, dont le modèle est fixé par arrêté du garde des sceaux, ministre de la
+justice, sont remis au contrevenant au moment de la constatation de l'infraction. L'avis mentionne le délai et les modalités
+de la requête prévue par le premier alinéa de l'article 529-2, le montant de l'amende forfaitaire ainsi que celui de l'amende
+forfaitaire majorée qui sera due à défaut de paiement ou de présentation d'une requête.
+
+Lorsque les documents mentionnés à l'alinéa 1er ne peuvent être remis au contrevenant, ils sont adressés à son domicile.
+Toutefois, s'il s'agit d'une contravention au code de la route ou de celle qui est prévue à l'article R211-21-5 du code des
+assurances, ces documents sont laissés sur le véhicule ou, en cas d'impossibilité, envoyés au titulaire du certificat
+d'immatriculation.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-318 1959-02-23
+
+	**Créé par**:
+
+	  - Décret n°86-1044 du 18 septembre 1986 - art. 2 () JORF 19 septembre 1986
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°86-1044 du 18 septembre 1986 - art. 6 (V)
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. 529-2 (M)
+	  - Code des assurances - art. R211-21-5 (V)
+
+	**Cité par**:
+
+	  - CODE DE PROCEDURE PENALE - art. R49-14 (V)
+	  - Code de procédure pénale - art. A37-10 (V)
+	  - Code de procédure pénale - art. A37-14 (V)
+	  - Code de procédure pénale - art. A37-15 (VD)
+	  - Code de procédure pénale - art. A37-19 (V)
+	  - Code de procédure pénale - art. A37-20 (V)
+	  - Code de procédure pénale - art. A53-5 (V)
+	  - Code de procédure pénale - art. D45-3 (VD)
+	  - Code de procédure pénale - art. R273 (V)
+	  - Code de procédure pénale - art. R49-10 (V)
+	  - Code forestier (nouveau) - art. R162-2 (V)
+	  - Code forestier - art. R351-1 (Ab)
+	  - Code forestier de Mayotte - art. R*351-1 (Ab)
+
+
+###### Article R49-2
+
+Le montant de l'amende peut être acquitté immédiatement entre les mains de l'agent verbalisateur lorsqu'il est porteur d'un
+carnet de quittances à souches dont le modèle est fixé par arrêté du ministre chargé de l'économie et des finances après avis
+des autres ministres intéressés.
+
+Ce paiement est effectué en espèce ou au moyen d'un chèque et donne lieu à la délivrance immédiate d'une quittance extraite
+du carnet à souches.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-318 1959-02-23
+
+	**Créé par**:
+
+	  - Décret n°86-1044 du 18 septembre 1986 - art. 2 () JORF 19 septembre 1986
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°86-1044 du 18 septembre 1986 - art. 6 (V)
+
+	**Cité par**:
+
+	  - Code de procédure pénale - art. R274 (V)
+	  - Code de procédure pénale - art. R49-3 (VD)
+
+
+###### Article R49-3
+
+Si le montant de l'amende forfaitaire n'est pas acquitté dans les conditions prévues par l'article R. 49-2, le paiement est
+effectué soit par l'apposition sur la carte de paiement, dûment remplie, d'un timbre [*fiscal*] émis à cet effet par le
+ministre chargé de l'économie et des finances, qui en établit le modèle et les modalités de délivrance, soit par l'envoi au
+comptable direct du Trésor d'un chèque joint à la carte de paiement.
+
+Un arrêté du ministre chargé de l'économie et des finances fixe la liste des départements dans lesquels les amendes
+forfaitaires peuvent être acquittées au moyen d'un chèque.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-318 1959-02-23
+
+	**Créé par**:
+
+	  - Décret n°86-1044 du 18 septembre 1986 - art. 2 () JORF 19 septembre 1986
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°86-1044 du 18 septembre 1986 - art. 6 (V)
+
+	**Cité par**:
+
+	  - CODE DE PROCEDURE PENALE - art. A37-8 (T)
+	  - Code de la route. - art. R322-17 (VT)
+	  - Code de procédure pénale - art. A37-12 (VD)
+	  - Code de procédure pénale - art. A37-7 (V)
+	  - Code de procédure pénale - art. D45-8 (VD)
+	  - Code de procédure pénale - art. R49-17 (VD)
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. R49-2 (M)
+
+
+###### Article R49-4
+
+La requête présentée en application de l'article 529-2 est motivée et accompagnée de l'avis de contravention.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-318 1959-02-23
+
+	**Créé par**:
+
+	  - Décret n°86-1044 du 18 septembre 1986 - art. 2 () JORF 19 septembre 1986
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°86-1044 du 18 septembre 1986 - art. 6 (V)
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. 529-2 (M)
+
+
+###### Article R49-5
+
+La majoration de plein droit des amendes forfaitaires prévue par le deuxième alinéa de l'article 529-2 est constatée par
+l'officier du ministère public, qui la mentionne sur un état récapitulatif établi en deux exemplaires.
+
+L'état récapitulatif mentionne l'identité et le domicile du contrevenant, le lieu et la date de la contravention et le
+montant de l'amende forfaitaire majorée.
+
+Le bordereau d'envoi de l'état récapitulatif signé par l'officier du ministère public vaut titre exécutoire. Il est transmis
+au comptable direct du Trésor public.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret du 22 mars 1942 - art. 80-8 (Ab)
+	  - Décret n°64-1333 du 22 décembre 1964 - art. 2 (V)
+	  - Décret n°2016-541 du 3 mai 2016 - art. 26 (V)
+	  - Code de procédure pénale - art. R275 (V)
+	  - Code de procédure pénale - art. R49-6 (V)
+
+	**Codifié par**:
+
+	  - Décret n°59-318 1959-02-23
+
+	**Créé par**:
+
+	  - Décret n°86-1044 du 18 septembre 1986 - art. 2 () JORF 19 septembre 1986
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°86-1044 du 18 septembre 1986 - art. 6 (V)
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. 529-2 (M)
+
+
+###### Article R49-6
+
+Le comptable direct du Trésor adresse au contrevenant un avertissement l'invitant à s'acquitter du montant de l'amende
+forfaitaire majorée. Cet avertissement contient les mentions prévues par le deuxième alinéa de l'article R. 49-5 et indique
+le délai et les modalités de la réclamation prévue par le deuxième alinéa de l'article 530.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret du 22 mars 1942 - art. 80-8 (Ab)
+	  - Décret n°64-1333 du 22 décembre 1964 - art. 2 (V)
+	  - Code de la route. - art. R322-16 (V)
+	  - Code de procédure pénale - art. A37-28 (VD)
+
+	**Codifié par**:
+
+	  - Décret n°59-318 1959-02-23
+
+	**Créé par**:
+
+	  - Décret n°86-1044 du 18 septembre 1986 - art. 2 () JORF 19 septembre 1986
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°86-1044 du 18 septembre 1986 - art. 6 (V)
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. 530 (M)
+	  - CODE DE PROCEDURE PENALE - art. R49-5 (M)
+
+
+###### Article R49-7
+
+Le montant de l'amende forfaitaire majorée est fixé ainsi qu'il suit :
+
+1° 50 F. pour les contraventions aux dispositions du code de la route commises par les piétons ;
+
+2° 220 F. pour les autres contraventions de la 1ere classe ;
+
+3° 500 F. pour les contraventions de la 2e classe ;
+
+4° 1.200 F. pour les contraventions de la 3e classe ;
+
+5° 2.000 F. pour les contraventions de la 4e classe.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret du 22 mars 1942 - art. 80-8 (Ab)
+	  - Code de procédure pénale - art. R276 (V)
+
+	**Codifié par**:
+
+	  - Décret n°59-318 1959-02-23
+
+	**Créé par**:
+
+	  - Décret n°86-1044 du 18 septembre 1986 - art. 2 () JORF 19 septembre 1986
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°86-1044 du 18 septembre 1986 - art. 6 (V)
+
+
+###### Article R49-8
+
+La réclamation faite en application du deuxième alinéa de l'article 530 est motivée et accompagnée de l'avertissement.
+
+L'officier du ministère public saisi d'une réclamation informe sans délai le comptable direct du Trésor de l'annulation du
+titre exécutoire.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret du 22 mars 1942 - art. 80-8 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°59-318 1959-02-23
+
+	**Créé par**:
+
+	  - Décret n°86-1044 du 18 septembre 1986 - art. 2 () JORF 19 septembre 1986
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°86-1044 du 18 septembre 1986 - art. 6 (V)
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. 530 (M)
 
 
 #### Chapitre III : De l'instruction définitive devant le tribunal de police
