@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 2002-02-27
+Version Consolidée au 2002-03-05
 
 # Partie législative
 
@@ -2615,8 +2615,8 @@ infractions à la loi pénale.
 A cette fin, il dirige l'activité des officiers et agents de la police judiciaire dans le ressort de son tribunal.
 
 Le procureur de la République contrôle les mesures de garde à vue. Il visite les locaux de garde à vue chaque fois qu'il
-l'estime nécessaire et au moins une fois par trimestre ; il tient à cet effet un registre répertoriant le nombre et la
-fréquence des contrôles effectués dans ces différents locaux.
+l'estime nécessaire et au moins une fois par an ; il tient à cet effet un registre répertoriant le nombre et la fréquence des
+contrôles effectués dans ces différents locaux.
 
 Il a tous les pouvoirs et prérogatives attachés à la qualité d'officier de police judiciaire prévus par la section II du
 chapitre Ier du titre Ier du présent livre, ainsi que par des lois spéciales.
@@ -2659,7 +2659,7 @@ conventionnement de la part des chefs de la cour d'appel, afin qu'il soit porté
 
 	**Modifié par**:
 
-	  - Loi n°2000-516 du 15 juin 2000 - art. 3 () JORF 16 juin 2000 en vigueur le 1er janvier 2001
+	  - Loi n°2002-307 du 4 mars 2002 - art. 1 () JORF 5 mars 2002
 
 	**Cite**:
 
@@ -3836,8 +3836,8 @@ judiciaire, toutes personnes susceptibles de fournir des renseignements sur les 
 dans les formes prescrites par le présent code, des procès-verbaux qu'ils transmettent à l'officier de police judiciaire
 qu'ils secondent.
 
-Les personnes à l'encontre desquelles il n'existe aucun indice faisant présumer qu'elles ont commis ou tenté de commettre une
-infraction ne peuvent être retenues que le temps strictement nécessaire à leur audition.
+Les personnes à l'encontre desquelles il n'existe aucune raison plausible de soupçonner qu'elles ont commis ou tenté de
+commettre une infraction ne peuvent être retenues que le temps strictement nécessaire à leur audition.
 
 **Liens relatifs à cet article**
 
@@ -3847,7 +3847,7 @@ infraction ne peuvent être retenues que le temps strictement nécessaire à leu
 
 	**Modifié par**:
 
-	  - Loi n°2000-516 du 15 juin 2000 - art. 4 () JORF 16 juin 2000 en vigueur le 1er janvier 2001
+	  - Loi n°2002-307 du 4 mars 2002 - art. 2 () JORF 5 mars 2002
 
 	**Cité par**:
 
@@ -3902,8 +3902,8 @@ siège du service dont ils dépendent.
 ###### Article 63
 
 L'officier de police judiciaire peut, pour les nécessités de l'enquête, placer en garde à vue toute personne à l'encontre de
-laquelle il existe des indices faisant présumer qu'elle a commis ou tenté de commettre une infraction. Il en informe dès le
-début de la garde à vue le procureur de la République.
+laquelle il existe une ou plusieurs raisons plausibles de soupçonner qu'elle a commis ou tenté de commettre une infraction.
+Il en informe dès le début de la garde à vue le procureur de la République.
 
 La personne gardée à vue ne peut être retenue plus de vingt-quatre heures. Toutefois, la garde à vue peut être prolongée pour
 un nouveau délai de vingt-quatre heures au plus, sur autorisation écrite du procureur de la République. Ce magistrat peut
@@ -3915,6 +3915,12 @@ magistrat.
 
 Pour l'application du présent article, les ressorts des tribunaux de grande instance de Paris, Nanterre, Bobigny et Créteil
 constituent un seul et même ressort.
+
+**Nota:**
+
+Dans sa décision n° 2010-14/22 QPC du 30 juillet 2010 (NOR : CSCX1020678S), le Conseil constitutionnel a déclaré contraire à
+la Constitution l'article 63 du code de procédure pénale. Cette déclaration d'inconstitutionnalité prend effet le 1er juillet
+2011 dans les conditions fixées au considérant 30.
 
 **Liens relatifs à cet article**
 
@@ -3943,11 +3949,7 @@ constituent un seul et même ressort.
 
 	**Modifié par**:
 
-	  - Loi n°2000-516 du 15 juin 2000 - art. 5 () JORF 16 juin 2000 en vigueur le 1er janvier 2001
-
-	**Cite**:
-
-	  - CODE DE PROCEDURE PENALE - art. 61 (V)
+	  - Loi n°2002-307 du 4 mars 2002 - art. 2 () JORF 5 mars 2002
 
 
 ###### Article 63-1
@@ -3955,8 +3957,8 @@ constituent un seul et même ressort.
 Toute personne placée en garde à vue est immédiatement informée par un officier de police judiciaire, ou, sous le contrôle de
 celui-ci, par un agent de police judiciaire, de la nature de l'infraction sur laquelle porte l'enquête, des droits mentionnés
 aux articles 63-2, 63-3 et 63-4 ainsi que des dispositions relatives à la durée de la garde à vue prévues par l'article 63.
-Les dispositions de l'article 77-2 sont également portées à sa connaissance. La personne gardée à vue est également
-immédiatement informée qu'elle a le droit de ne pas répondre aux questions qui lui seront posées par les enquêteurs.
+La personne gardée à vue est également immédiatement informée qu'elle a le choix de faire des déclarations, de répondre aux
+questions qui lui seront posées ou de se taire.
 
 Mention de cet avis est portée au procès-verbal et émargée par la personne gardée à vue ; en cas de refus d'émargement, il en
 est fait mention.
@@ -3969,6 +3971,13 @@ langue des signes ou par toute personne qualifiée maîtrisant un langage ou une
 sourds. Il peut également être recouru à tout dispositif technique permettant de communiquer avec une personne atteinte de
 surdité.
 
+Si la personne est remise en liberté à l'issue de la garde à vue sans qu'aucune décision n'ait été prise par le procureur de
+la République sur l'action publique, les dispositions de l'article 77-2 sont portées à sa connaissance.
+
+Sauf en cas de circonstance insurmontable, les diligences résultant pour les enquêteurs de la communication des droits
+mentionnés aux articles 63-2 et 63-3 doivent intervenir au plus tard dans un délai de trois heures à compter du moment où la
+personne a été placée en garde à vue.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
@@ -3977,8 +3986,7 @@ surdité.
 
 	**Modifié par**:
 
-	  - Loi n°2000-516 2000-06-15 art. 7, 8 et 9 JORF 16 juin 2000 en vigueur le 1er janvier 2001
-	  - Loi n°2000-516 du 15 juin 2000 - art. 7 () JORF 16 juin 2000 en vigueur le 1er janvier 2001
+	  - Loi n°2002-307 du 4 mars 2002 - art. 3 () JORF 5 mars 2002
 
 	**Cité par**:
 
@@ -4011,9 +4019,9 @@ surdité.
 
 ###### Article 63-2
 
-Toute personne placée en garde à vue peut, à sa demande, faire prévenir sans délai, par téléphone, une personne avec laquelle
-elle vit habituellement ou l'un de ses parents en ligne directe, l'un de ses frères et soeurs ou son employeur de la mesure
-dont elle est l'objet.
+Toute personne placée en garde à vue peut, à sa demande, faire prévenir dans le délai prévu au dernier alinéa de l'article
+63-1, par téléphone, une personne avec laquelle elle vit habituellement ou l'un de ses parents en ligne directe, l'un de ses
+frères et soeurs ou son employeur de la mesure dont elle est l'objet. 
 
 Si l'officier de police judiciaire estime, en raison des nécessités de l'enquête, ne pas devoir faire droit à cette demande,
 il en réfère sans délai au procureur de la République qui décide, s'il y a lieu, d'y faire droit.
@@ -4026,7 +4034,7 @@ il en réfère sans délai au procureur de la République qui décide, s'il y a 
 
 	**Modifié par**:
 
-	  - Loi n°2000-516 du 15 juin 2000 - art. 10 () JORF 16 juin 2000 en vigueur le 1er janvier 2001 rectificatif JORF 8 juillet 2000
+	  - Loi n°2002-307 du 4 mars 2002 - art. 3 () JORF 5 mars 2002
 
 	**Cité par**:
 
@@ -4707,9 +4715,9 @@ juge des libertés et de la détention ne constitue pas une cause de nullité de
 ###### Article 77
 
 L'officier de police judiciaire peut, pour les nécessités de l'enquête, garder à sa disposition toute personne à l'encontre
-de laquelle il existe des indices faisant présumer qu'elle a commis ou tenté de commettre une infraction. Il en informe dès
-le début de la garde à vue le procureur de la République. La personne gardée à vue ne peut être retenue plus de vingt-quatre
-heures.
+de laquelle il existe une ou plusieurs raisons plausibles de soupçonner qu'elle a commis ou tenté de commettre une
+infraction. Il en informe dès le début de la garde à vue le procureur de la République. La personne gardée à vue ne peut être
+retenue plus de vingt-quatre heures.
 
 Le procureur de la République peut, avant l'expiration du délai de vingt-quatre heures, prolonger la garde à vue d'un nouveau
 délai de vingt-quatre heures au plus. Cette prolongation ne peut être accordée qu'après présentation préalable de la personne
@@ -4726,6 +4734,10 @@ constituent un seul et même ressort.
 
 Les dispositions des articles 63-1, 63-2, 63-3, 63-4, 64 et 65 sont applicables aux gardes à vue exécutées dans le cadre du
 présent chapitre.
+
+**Nota:**
+
+La présente version de cet article est en vigueur jusqu'au 1er juin 2008.
 
 **Liens relatifs à cet article**
 
@@ -4746,7 +4758,7 @@ présent chapitre.
 
 	**Modifié par**:
 
-	  - Loi n°2000-516 du 15 juin 2000 - art. 13 () JORF 16 juin 2000 en vigueur le 1er janvier 2001
+	  - Loi n°2002-307 du 4 mars 2002 - art. 1 () JORF 5 mars 2002
 
 	**Cite**:
 
@@ -4876,8 +4888,8 @@ Les personnes convoquées par un officier de police judiciaire pour les nécessi
 elles ne satisfont pas à cette obligation, avis en est donné au procureur de la République qui peut les y contraindre par la
 force publique.
 
-Les personnes à l'encontre desquelles n'existent pas d'indices faisant présumer qu'elles ont commis ou tenté de commettre une
-infraction ne peuvent être retenues que le temps strictement nécessaire à leur audition.
+Les personnes à l'encontre desquelles il n'existe aucune raison plausible de soupçonner qu'elles ont commis ou tenté de
+commettre une infraction ne peuvent être retenues que le temps strictement nécessaire à leur audition.
 
 L'officier de police judiciaire dresse procès-verbal de leurs déclarations. Les agents de police judiciaire désignés à
 l'article 20 peuvent également, sous le contrôle d'un officier de police judiciaire, entendre les personnes convoquées.
@@ -4889,6 +4901,10 @@ Les procès-verbaux sont dressés dans les conditions prévues par les articles 
 	**Codifié par**:
 
 	  - Loi n°57-1426 1957-12-31
+
+	**Modifié par**:
+
+	  - Loi n°2002-307 du 4 mars 2002 - art. 2 () JORF 5 mars 2002
 
 	**Cité par**:
 
@@ -4904,10 +4920,6 @@ Les procès-verbaux sont dressés dans les conditions prévues par les articles 
 	  - CODE DE PROCEDURE PENALE - art. 20 (M)
 	  - CODE DE PROCEDURE PENALE - art. 62 (M)
 	  - CODE DE PROCEDURE PENALE - art. 62-1 (M)
-
-	**Modifié par**:
-
-	  - Loi n°95-73 1995-01-27 art. 27 JORF 24 janvier 1995
 
 
 #### Chapitre III : Des contrôles, des vérifications et des relevés d'identité
@@ -8963,7 +8975,12 @@ cas ci-après énumérés :
 
 Toutefois, la détention provisoire ne peut être ordonnée ou prolongée que si la peine encourue est supérieure ou égale à cinq
 ans d'emprisonnement, s'il est reproché à la personne mise en examen un délit prévu par le livre III du code pénal et que
-cette personne n'a pas déjà été condamnée à une peine privative de liberté sans sursis supérieure à un an.
+cette personne n'a pas déjà été condamnée à une peine privative de liberté sans sursis supérieure à un an. La détention
+provisoire peut également être ordonnée ou prolongée à l'égard d'une personne mise en examen pour un délit prévu par le livre
+III du code pénal et puni d'une peine égale ou supérieure à trois ans d'emprisonnement si, dans les six mois qui précèdent,
+cette personne a déjà fait l'objet pour un délit puni d'une peine supérieure ou égale à deux ans d'emprisonnement et dans une
+procédure dont la copie est jointe au dossier de l'information, soit d'une des mesures prévues aux articles 41-1 ou 41-2,
+soit d'une poursuite pénale qui n'a pas été clôturée par une décision de non-lieu, de relaxe ou d'acquittement.
 
 La détention provisoire peut également être ordonnée dans les conditions prévues à l'article 141-2 lorsque la personne mise
 en examen se soustrait volontairement aux obligations du contrôle judiciaire.
@@ -8974,14 +8991,16 @@ en examen se soustrait volontairement aux obligations du contrôle judiciaire.
 
 	  - Loi n°57-1426 1957-12-31
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2000-516 du 15 juin 2000 - art. 57 () JORF 16 juin 2000 en vigueur le 1er janvier 2001
+	  - Loi n°2002-307 du 4 mars 2002 - art. 5 () JORF 5 mars 2002
 
 	**Cite**:
 
 	  - CODE DE PROCEDURE PENALE - art. 137 (M)
 	  - CODE DE PROCEDURE PENALE - art. 141-2 (M)
+	  - CODE DE PROCEDURE PENALE - art. 41-1 (M)
+	  - CODE DE PROCEDURE PENALE - art. 41-2 (M)
 
 	**Cité par**:
 
@@ -9364,10 +9383,12 @@ Lorsqu'il infirme la décision du juge d'instruction, le président de la chambr
 
 ###### Article 145-5
 
-Le placement en détention provisoire ou la prolongation de la détention provisoire d'une personne faisant connaître qu'elle
-exerce l'autorité parentale sur un enfant de moins de dix ans ayant chez elle sa résidence habituelle ne peut être ordonné
-sans que l'un des services ou l'une des personnes visés au septième alinéa de l'article 81 ait été au préalable chargé de
-rechercher et de proposer toutes mesures propres à éviter la détention de l'intéressé ou à y mettre fin.
+Le placement en détention provisoire d'une personne faisant connaître, lors de son interrogatoire par le juge d'instruction
+préalable à la saisine du juge des libertés et de la détention, qu'elle exerce à titre exclusif l'autorité parentale sur un
+mineur de seize ans au plus ayant chez elle sa résidence ne peut être ordonné sans que l'un des services ou l'une des
+personnes visés au septième alinéa de l'article 81 ait été chargé au préalable de rechercher et de proposer toutes mesures
+propres à éviter que la santé, la sécurité et la moralité du mineur ne soient en danger ou que les conditions de son
+éducation ne soient gravement compromises.
 
 Les dispositions du présent article ne sont pas applicables en cas de crime, en cas de délit commis contre un mineur ou en
 cas de non-respect des obligations du contrôle judiciaire.
@@ -9378,9 +9399,9 @@ cas de non-respect des obligations du contrôle judiciaire.
 
 	  - Loi n°57-1426 1957-12-31
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2000-516 du 15 juin 2000 - art. 60 () JORF 16 juin 2000 en vigueur le 1er janvier 2001
+	  - Loi n°2002-307 du 4 mars 2002 - art. 6 () JORF 5 mars 2002
 
 	**Cite**:
 
@@ -10056,11 +10077,11 @@ mises en examen. Ils ne peuvent procéder à l'audition des parties civiles ou d
 ###### Article 153
 
 Tout témoin cité pour être entendu au cours de l'exécution d'une commission rogatoire est tenu de comparaître, de prêter
-serment et de déposer. Lorsqu'il n'existe aucun indice faisant présumer qu'il a commis ou tenté de commettre une infraction,
-il ne peut être retenu que le temps strictement nécessaire à son audition.
+serment et de déposer. Lorsqu'il n'existe aucune raison plausible de soupçonner qu'il a commis ou tenté de commettre une
+infraction, il ne peut être retenu que le temps strictement nécessaire à son audition.
 
 S'il ne satisfait pas à cette obligation, avis en est donné au magistrat mandant qui peut le contraindre à comparaître par la
-force publique et prendre contre lui les sanctions prévues aux troisième et quatrième alinéas de l'article 109.
+force publique. Le témoin qui ne comparaît pas encourt l'amende prévue par l'article 434-15-1 du code pénal.
 
 **Liens relatifs à cet article**
 
@@ -10080,11 +10101,11 @@ force publique et prendre contre lui les sanctions prévues aux troisième et qu
 
 	**Modifié par**:
 
-	  - Loi n°2001-1062 du 15 novembre 2001 - art. 57 () JORF 16 novembre 2001
+	  - Loi n°2002-307 du 4 mars 2002 - art. 2 () JORF 5 mars 2002
 
 	**Cite**:
 
-	  - CODE DE PROCEDURE PENALE - art. 109 (M)
+	  - Code pénal - art. 434-15-1 (MMN)
 
 	**Cité par**:
 
@@ -10101,9 +10122,10 @@ force publique et prendre contre lui les sanctions prévues aux troisième et qu
 ###### Article 154
 
 Lorsque l'officier de police judiciaire est amené, pour les nécessités de l'exécution de la commission rogatoire, à garder à
-sa disposition une personne à l'encontre de laquelle il existe des indices faisant présumer qu'elle a commis ou tenté de
-commettre une infraction, il en informe dès le début de cette mesure le juge d'instruction saisi des faits. Ce dernier
-contrôle la mesure de garde à vue. L'officier de police judiciaire ne peut retenir la personne plus de vingt-quatre heures.
+sa disposition une personne à l'encontre de laquelle il existe une ou plusieurs raisons plausibles de soupçonner qu'elle a
+commis ou tenté de commettre une infraction, il en informe dès le début de cette mesure le juge d'instruction saisi des
+faits. Ce dernier contrôle la mesure de garde à vue. L'officier de police judiciaire ne peut retenir la personne plus de
+vingt-quatre heures.
 
 La personne doit être présentée avant l'expiration du délai de vingt-quatre heures à ce magistrat ou, si la commission
 rogatoire est exécutée dans un autre ressort que celui de son siège, au juge d'instruction du lieu d'exécution de la mesure.
@@ -10118,6 +10140,10 @@ Les dispositions des articles 63-1, 63-2, 63-3, 63-4, 64 et 65 sont applicables 
 la présente section. Les pouvoirs conférés au procureur de la République par les articles 63-2 et 63-3 sont alors exercés par
 le juge d'instruction. L'information prévue au troisième alinéa de l'article 63-4 précise que la garde à vue intervient dans
 le cadre d'une commission rogatoire.
+
+**Nota:**
+
+La présente version de cet article est en vigueur jusqu'au 1er juin 2008.
 
 **Liens relatifs à cet article**
 
@@ -10140,7 +10166,7 @@ le cadre d'une commission rogatoire.
 
 	**Modifié par**:
 
-	  - Loi n°2000-516 du 15 juin 2000 - art. 5 () JORF 16 juin 2000 en vigueur le 1er janvier 2001
+	  - Loi n°2002-307 du 4 mars 2002 - art. 2 () JORF 5 mars 2002
 
 	**Cite**:
 
@@ -10899,9 +10925,10 @@ les autres cas, il le transmet au procureur général qui procède ainsi qu'il e
 
 Sous peine d'irrecevabilité, la personne mise en examen doit faire état des moyens pris de la nullité des actes accomplis
 avant son interrogatoire de première comparution ou de cet interrogatoire lui-même dans un délai de six mois à compter de la
-notification de sa mise en examen, sauf dans le cas où elle n'aurait pu les connaître.
+notification de sa mise en examen, sauf dans le cas où elle n'aurait pu les connaître. Il en est de même s'agissant des
+moyens pris de la nullité des actes accomplis avant chacun de ses interrogatoires ultérieurs.
 
-Il en est de même pour la partie civile à compter de sa première audition.
+Il en est de même pour la partie civile à compter de sa première audition puis de ses auditions ultérieures.
 
 **Liens relatifs à cet article**
 
@@ -10909,9 +10936,9 @@ Il en est de même pour la partie civile à compter de sa première audition.
 
 	  - Loi n°57-1426 1957-12-31
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2000-516 du 15 juin 2000 - art. 29 () JORF 16 juin 2000 en vigueur le 1er janvier 2001
+	  - Loi n°2002-307 du 4 mars 2002 - art. 7 () JORF 5 mars 2002
 
 	**Cité par**:
 
@@ -15629,6 +15656,11 @@ contentieux visés à l'article 316.
 
 L'arrêt sur le fond doit toujours être prononcé en audience publique.
 
+Les dispositions du présent article sont applicables devant la cour d'assises des mineurs si la personne poursuivie, mineure
+au moment des faits, est devenue majeure au jour de l'ouverture des débats et qu'elle en fait la demande, sauf s'il existe un
+autre accusé qui est toujours mineur ou qui, mineur au moment des faits et devenu majeur au jour de l'ouverture des débats,
+s'oppose à cette demande.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
@@ -15637,7 +15669,7 @@ L'arrêt sur le fond doit toujours être prononcé en audience publique.
 
 	**Modifié par**:
 
-	  - Loi n°92-1336 du 16 décembre 1992 - art. 19 () JORF 23 décembre 1992 en vigueur le 1er mars 1994
+	  - Loi n°2002-307 du 4 mars 2002 - art. 9 () JORF 5 mars 2002
 
 	**Cite**:
 
@@ -17671,35 +17703,6 @@ au réexamen de l'affaire selon les modalités et dans les conditions prévues p
 	  - Code de procédure pénale - art. 706-75-2 (V)
 
 
-###### Article 380-2
-
-La faculté d'appeler appartient :
-
-1° A l'accusé ;
-
-2° Au ministère public ;
-
-3° A la personne civilement responsable, quant à ses intérêts civils ;
-
-4° A la partie civile, quant à ses intérêts civils ;
-
-5° En cas d'appel du ministère public, aux administrations publiques, dans les cas où celles-ci exercent l'action publique.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance 58-1296 1958-12-23
-
-	**Créé par**:
-
-	  - Loi n°2000-516 du 15 juin 2000 - art. 81 () JORF 16 juin 2000 en vigueur le 1er janvier 2001
-
-	**Cité par**:
-
-	  - Loi n°2000-516 du 15 juin 2000 - art. 140 (M)
-
-
 ###### Article 380-4
 
 Pendant les délais d'appel et durant l'instance d'appel, il est sursis à l'exécution de l'arrêt sur l'action publique.
@@ -17754,67 +17757,40 @@ dernier a pris la fuite et n'a pas pu être retrouvé avant l'ouverture de l'aud
 	  - CODE DE PROCEDURE PENALE - art. 380-13 (M)
 
 
-###### Article 380-12
-
-La déclaration d'appel doit être faite au greffe de la cour d'assises qui a rendu la décision attaquée.
-
-Elle doit être signée par le greffier et par l'appelant lui-même, par un avocat, par un avoué près la cour d'appel, ou par un
-fondé de pouvoir spécial ; dans ce dernier cas, le pouvoir est annexé à l'acte dressé par le greffier. Si l'appelant ne peut
-signer, il en sera fait mention par le greffier.
-
-Elle est inscrite sur un registre public à ce destiné et toute personne a le droit de s'en faire délivrer une copie.
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Ordonnance n°45-2658 du 2 novembre 1945 - art. 35 bis (Ab)
-	  - Ordonnance n°2000-371 du 26 avril 2000 - art. 48 (V)
-	  - Ordonnance n°2000-372 du 26 avril 2000 - art. 50 (V)
-	  - Ordonnance n°2000-373 du 26 avril 2000 - art. 48 (M)
-	  - Ordonnance n°2002-388 du 20 mars 2002 - art. 50 (M)
-	  - Code de l'entrée et du séjour des étrangers et ... - art. L555-2 (V)
-	  - Code de procédure pénale - art. 380-13 (V)
-
-	**Codifié par**:
-
-	  - Ordonnance 58-1296 1958-12-23
-
-	**Créé par**:
-
-	  - Loi n°2000-516 du 15 juin 2000 - art. 81 () JORF 16 juin 2000 en vigueur le 1er janvier 2001
-
-
-###### Article 380-13
-
-Lorsque l'appelant est détenu, l'appel peut être fait au moyen d'une déclaration auprès du chef de l'établissement
-pénitentiaire.
-
-Cette déclaration est constatée, datée et signée par le chef de l'établissement pénitentiaire. Elle est également signée par
-l'appelant ; si celui-ci ne peut signer, il en est fait mention par le chef de l'établissement.
-
-Ce document est adressé sans délai, en original ou en copie, au greffe de la cour d'assises qui a rendu la décision
-attaquée ; il est transcrit sur le registre prévu par le troisième alinéa de l'article 380-11 et annexé à l'acte dressé par
-le greffier.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance 58-1296 1958-12-23
-
-	**Créé par**:
-
-	  - Loi n°2000-516 du 15 juin 2000 - art. 81 () JORF 16 juin 2000 en vigueur le 1er janvier 2001
-
-	**Cite**:
-
-	  - CODE DE PROCEDURE PENALE - art. 380-11 (M)
-
-
 #### Chapitre IX : De l'appel des décisions rendues par la cour d'assises en premier ressort
 
 ##### Section 1 : Dispositions générales
+
+###### Article 380-2
+
+La faculté d'appeler appartient :
+
+1° A l'accusé ;
+
+2° Au ministère public ;
+
+3° A la personne civilement responsable, quant à ses intérêts civils ;
+
+4° A la partie civile, quant à ses intérêts civils ;
+
+5° En cas d'appel du ministère public, aux administrations publiques, dans les cas où celles-ci exercent l'action publique.
+
+Le procureur général peut également faire appel des arrêts d'acquittement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 58-1296 1958-12-23
+
+	**Cité par**:
+
+	  - Loi n°2000-516 du 15 juin 2000 - art. 140 (M)
+
+	**Modifié par**:
+
+	  - Loi n°2002-307 du 4 mars 2002 - art. 8 () JORF 5 mars 2002
+
 
 ###### Article 380-3
 
@@ -17972,6 +17948,68 @@ interjeter appel.
 	**Créé par**:
 
 	  - Loi n°2000-516 du 15 juin 2000 - art. 81 () JORF 16 juin 2000 en vigueur le 1er janvier 2001
+
+
+###### Article 380-12
+
+La déclaration d'appel doit être faite au greffe de la cour d'assises qui a rendu la décision attaquée.
+
+Elle doit être signée par le greffier et par l'appelant lui-même, par un avocat, par un avoué près la cour d'appel, ou par un
+fondé de pouvoir spécial ; dans ce dernier cas, le pouvoir est annexé à l'acte dressé par le greffier. Si l'appelant ne peut
+signer, il en sera fait mention par le greffier.
+
+Elle est inscrite sur un registre public à ce destiné et toute personne a le droit de s'en faire délivrer une copie.
+
+Lorsque l'appel est formé par le procureur général et que le siège de la cour d'assises n'est pas celui de la cour d'appel,
+la déclaration d'appel, signée par le procureur général, est adressée sans délai, en original ou en copie, au greffe de la
+cour d'assises ; elle est transcrite sur le registre prévu à l'alinéa précédent et annexée à l'acte dressé par le greffier.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Ordonnance n°45-2658 du 2 novembre 1945 - art. 35 bis (Ab)
+	  - Ordonnance n°2000-371 du 26 avril 2000 - art. 48 (V)
+	  - Ordonnance n°2000-372 du 26 avril 2000 - art. 50 (V)
+	  - Ordonnance n°2000-373 du 26 avril 2000 - art. 48 (M)
+	  - Ordonnance n°2002-388 du 20 mars 2002 - art. 50 (M)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. L555-2 (V)
+	  - Code de procédure pénale - art. 380-13 (V)
+
+	**Codifié par**:
+
+	  - Ordonnance 58-1296 1958-12-23
+
+	**Modifié par**:
+
+	  - Loi n°2002-307 du 4 mars 2002 - art. 8 () JORF 5 mars 2002
+
+
+###### Article 380-13
+
+Lorsque l'appelant est détenu, l'appel peut être fait au moyen d'une déclaration auprès du chef de l'établissement
+pénitentiaire. 
+
+Cette déclaration est constatée, datée et signée par le chef de l'établissement pénitentiaire. Elle est également signée par
+l'appelant ; si celui-ci ne peut signer, il en est fait mention par le chef de l'établissement. 
+
+Ce document est adressé sans délai, en original ou en copie, au greffe de la cour d'assises qui a rendu la décision
+attaquée ; il est transcrit sur le registre prévu par le troisième alinéa de l'article 380-12 et annexé à l'acte dressé par
+le greffier.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 58-1296 1958-12-23
+
+	**Modifié par**:
+
+	  - Loi n°2002-307 du 4 mars 2002 - art. 8 () JORF 5 mars 2002
+
+	**Cite**:
+
+	  - Code de procédure pénale - art. 380-12 (V)
 
 
 ##### Section 3 : Désignation de la cour d'assises statuant en appel
@@ -19259,6 +19297,11 @@ incidents ou exceptions ainsi qu'il est dit à l'article 459, alinéa 4.
 
 Le jugement sur le fond doit toujours être prononcé en audience publique.
 
+Les dispositions du présent article sont applicables devant le tribunal pour enfants si la personne poursuivie, mineure au
+moment des faits, est devenue majeure au jour de l'ouverture des débats et qu'elle en fait la demande, sauf s'il existe un
+autre prévenu qui est toujours mineur ou qui, mineur au moment des faits et devenu majeur au jour de l'audience, s'oppose à
+cette demande.
+
 **Liens relatifs à cet article**
 
 	**Cité par**:
@@ -19275,6 +19318,10 @@ Le jugement sur le fond doit toujours être prononcé en audience publique.
 	**Codifié par**:
 
 	  - Ordonnance 58-1296 1958-12-23
+
+	**Modifié par**:
+
+	  - Loi n°2002-307 du 4 mars 2002 - art. 10 () JORF 5 mars 2002
 
 	**Cite**:
 
@@ -26480,8 +26527,9 @@ Le réexamen peut être demandé par :
 
 La demande en réexamen est adressée à une commission composée de sept magistrats de la Cour de cassation, désignés par
 l'assemblée générale de cette juridiction ; chacune des chambres est représentée par un de ses membres, à l'exception de la
-chambre criminelle qui est représentée par deux magistrats, l'un d'entre eux assurant la présidence de la commission. Les
-fonctions du ministère public sont exercées par le parquet général de la Cour de cassation.
+chambre criminelle qui est représentée par deux magistrats, l'un d'entre eux assurant la présidence de la commission. Sept
+magistrats suppléants sont désignés dans les mêmes conditions. Les fonctions du ministère public sont exercées par le parquet
+général de la Cour de cassation.
 
 La demande en réexamen doit être formée dans un délai d'un an à compter de la décision de la Cour européenne des droits de
 l'homme.
@@ -26494,11 +26542,15 @@ susceptible de recours.
 
 	**Codifié par**:
 
-	  - Ordonnance 58-1296 1958-12-23
+	  - Ordonnance n°58-1296 du 23 décembre 1958
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2000-516 du 15 juin 2000 - art. 89 (V) JORF 16 juin 2000
+	  - Loi n°2002-307 du 4 mars 2002 - art. 11 () JORF 5 mars 2002
+
+	**Abrogé par**:
+
+	  - Loi n°2014-640 du 20 juin 2014 - art. 3
 
 
 ###### Article 626-4
@@ -30270,6 +30322,70 @@ le juge d'instruction prononce le renvoi de l'affaire devant le tribunal de poli
 	  - CODE DE PROCEDURE PENALE - art. 704 (M)
 
 
+### Titre XIII bis : De la poursuite, de l'instruction et du jugement des infractions en matière sanitaire
+
+###### Article 706-2
+
+I. - La compétence territoriale d'un tribunal de grande instance peut être étendue au ressort d'une ou de plusieurs cours
+d'appel pour la poursuite, l'instruction et, s'il s'agit de délits, le jugement des infractions définies ci-après dans les
+affaires relatives à un produit de santé tel que défini par l'article L. 5311-1 du code de la santé publique ou un produit
+destiné à l'alimentation de l'homme ou de l'animal qui sont ou apparaîtraient d'une grande complexité :
+
+- atteintes à la personne humaine, au sens du titre II du livre II du code pénal ;
+
+- infractions prévues par le code de la santé publique ;
+
+- infractions prévues par le code rural ou le code de la consommation.
+
+Les dispositions des deux derniers alinéas de l'article 704 et de l'article 705 sont applicables aux formations d'instruction
+et de jugement spécialisées prévues au présent titre.
+
+II. - Dans les conditions prévues par l'article 706, peuvent exercer des fonctions d'assistant spécialisé en matière
+sanitaire les fonctionnaires de catégorie A ou B relevant des ministres chargés de la santé, de la recherche et de
+l'agriculture ainsi que les personnes justifiant d'une qualification professionnelle définie par décret et d'une expérience
+professionnelle minimale de quatre années.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 58-1296 1958-12-23
+
+	**Modifié par**:
+
+	  - Loi n°2002-303 du 4 mars 2002 - art. 33 () JORF 5 mars 2002
+
+	**Cité par**:
+
+	  - Loi n°2002-303 du 4 mars 2002 - art. 127 (V)
+	  - Décret n°2002-599 du 22 avril 2002 - art. 1 (Ab)
+	  - Décret n°2002-599 du 22 avril 2002 - art. Annexe (Ab)
+	  - Loi n°2016-731 du 3 juin 2016 - art. 102
+	  - Loi n°2016-1547 du 18 novembre 2016 - art. 25 (V)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L650-1 (Ab)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L650-2 (Ab)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L650-3 (Ab)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L650-4 (Ab)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L650-5 (Ab)
+	  - CODE DE PROCEDURE PENALE - art. 28-1 (M)
+	  - CODE DE PROCEDURE PENALE - art. 567-1 (M)
+	  - CODE DE PROCEDURE PENALE - art. 862-1 (V)
+	  - CODE DE PROCEDURE PENALE - art. D15-4-5 (VD)
+	  - Code de procédure pénale - art. 48-1 (V)
+	  - Code de procédure pénale - art. 706-2-1 (V)
+	  - Code de procédure pénale - art. D47-5 (V)
+	  - Code de procédure pénale - art. D47-6 (V)
+	  - Code de procédure pénale - art. R15-33-66-8 (V)
+	  - Code du sport. - art. L232-14-4 (V)
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. 704 (M)
+	  - CODE DE PROCEDURE PENALE - art. 705 (M)
+	  - CODE DE PROCEDURE PENALE - art. 706 (Ab)
+	  - Code de la santé publique - art. L5311-1 (M)
+
+
 ### Titre XIV : Du recours en indemnité ouvert à certaines victimes de dommages résultant d'une infraction
 
 ###### Article 706-3
@@ -31649,13 +31765,14 @@ l'article 148-1.
 	  - Code de procédure pénale - art. 706-26 (V)
 
 
-### Titre XVII : De la poursuite, de l'instruction et du jugement des infractions en matière de proxénétisme
+### Titre XVII : De la poursuite, de l'instruction et du jugement des infractions en matière de proxénétisme ou de recours à la prostitution des mineurs
 
 ###### Article 706-34
 
-Les infractions prévues par les articles 225-5 à 225-10 du code pénal, ainsi que le délit de participation à une association
-de malfaiteurs prévu par l'article 450-1 du même code lorsqu'il a pour objet de préparer l'une de ces infractions, sont
-poursuivies, instruites et jugées selon les règles du présent code, sous réserve des dispositions du présent titre.
+Les infractions prévues par les articles 225-5 à 225-12-4 du code pénal, ainsi que le délit de participation à une
+association de malfaiteurs prévu par l'article 450-1 du même code lorsqu'il a pour objet de préparer l'une de ces
+infractions, sont poursuivies, instruites et jugées selon les règles du présent code, sous réserve des dispositions du
+présent titre.
 
 **Liens relatifs à cet article**
 
@@ -31663,14 +31780,18 @@ poursuivies, instruites et jugées selon les règles du présent code, sous rés
 
 	  - Ordonnance 58-1296 1958-12-23
 
-	**Créé par**:
+	**Liens**:
 
-	  - Loi n°92-1336 du 16 décembre 1992 - art. 77 () JORF 23 décembre 1992 en vigueur le 1er mars 1994
+	  - SPEC_APPLI: Loi n°2002-305 2002-03-04 art. 19
+
+	**Modifié par**:
+
+	  - Loi n°2002-305 du 4 mars 2002 - art. 13 (V) JORF 5 mars 2002
 
 	**Cite**:
 
 	  - Code pénal - art. 450-1 (M)
-	  - Code pénal 225-5 à 225-10, 450-1
+	  - Code pénal 225-5 à 225-12-4, 450-1
 
 	**Cité par**:
 
@@ -31694,18 +31815,18 @@ constatation des infractions visées à l'article 706-34.
 
 	  - Ordonnance 58-1296 1958-12-23
 
-	**Créé par**:
+	**Liens**:
 
-	  - Loi n°92-1336 du 16 décembre 1992 - art. 77 () JORF 23 décembre 1992 en vigueur le 1er mars 1994
+	  - SPEC_APPLI: Loi n°2002-305 2002-03-04 art. 19
+
+	**Modifié par**:
+
+	  - Loi n°2002-305 du 4 mars 2002 - art. 13 (V) JORF 5 mars 2002
 
 	**Cite**:
 
 	  - CODE DE PROCEDURE PENALE - art. 59 (M)
 	  - CODE DE PROCEDURE PENALE - art. 706-34 (M)
-
-	**Anciens textes**:
-
-	  - CODE PENAL - art. 335-4 (Ab)
 
 
 ###### Article 706-36
@@ -31738,9 +31859,13 @@ l'article 148-1.
 
 	  - Ordonnance 58-1296 1958-12-23
 
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°2002-305 2002-03-04 art. 19
+
 	**Modifié par**:
 
-	  - Loi n°2000-516 du 15 juin 2000 - art. 83 () JORF 16 juin 2000 en vigueur le 1er janvier 2001
+	  - Loi n°2002-305 du 4 mars 2002 - art. 13 (V) JORF 5 mars 2002
 
 	**Cite**:
 
@@ -31770,17 +31895,17 @@ intervenue. Les modalités d'application du présent article sont déterminées 
 
 	  - Ordonnance 58-1296 1958-12-23
 
-	**Créé par**:
+	**Liens**:
 
-	  - Loi n°92-1336 du 16 décembre 1992 - art. 77 () JORF 23 décembre 1992 en vigueur le 1er mars 1994
+	  - SPEC_APPLI: Loi n°2002-305 2002-03-04 art. 19
+
+	**Modifié par**:
+
+	  - Loi n°2002-305 du 4 mars 2002 - art. 13 (V) JORF 5 mars 2002
 
 	**Cite**:
 
 	  - Code pénal - art. 225-10 (M)
-
-	**Anciens textes**:
-
-	  - CODE PENAL - art. 335-1 ter (Ab)
 
 
 ###### Article 706-38
@@ -31801,18 +31926,18 @@ code pénal.
 
 	  - Ordonnance 58-1296 1958-12-23
 
-	**Créé par**:
+	**Liens**:
 
-	  - Loi n°92-1336 du 16 décembre 1992 - art. 77 () JORF 23 décembre 1992 en vigueur le 1er mars 1994
+	  - SPEC_APPLI: Loi n°2002-305 2002-03-04 art. 19
+
+	**Modifié par**:
+
+	  - Loi n°2002-305 du 4 mars 2002 - art. 13 (V) JORF 5 mars 2002
 
 	**Cite**:
 
 	  - Code pénal - art. 225-10 (M)
 	  - Code pénal - art. 225-22 (V)
-
-	**Anciens textes**:
-
-	  - CODE PENAL - art. 335-1 quater (Ab)
 
 
 ###### Article 706-39
@@ -31830,9 +31955,13 @@ tous les droits du propriétaire du fonds.
 
 	  - Ordonnance 58-1296 1958-12-23
 
-	**Créé par**:
+	**Liens**:
 
-	  - Loi n°92-1336 du 16 décembre 1992 - art. 77 () JORF 23 décembre 1992 en vigueur le 1er mars 1994
+	  - SPEC_APPLI: Loi n°2002-305 2002-03-04 art. 19
+
+	**Modifié par**:
+
+	  - Loi n°2002-305 du 4 mars 2002 - art. 13 (V) JORF 5 mars 2002
 
 	**Cite**:
 
@@ -31858,9 +31987,13 @@ bailleurs de ces locaux sont informés, à la diligence du ministère public, qu
 
 	  - Ordonnance 58-1296 1958-12-23
 
-	**Créé par**:
+	**Liens**:
 
-	  - Loi n°92-1336 du 16 décembre 1992 - art. 77 () JORF 23 décembre 1992 en vigueur le 1er mars 1994
+	  - SPEC_APPLI: Loi n°2002-305 2002-03-04 art. 19
+
+	**Modifié par**:
+
+	  - Loi n°2002-305 du 4 mars 2002 - art. 13 (V) JORF 5 mars 2002
 
 	**Cite**:
 
@@ -32443,10 +32576,10 @@ ans d'emprisonnement et 30 000 euros d'amende.
 
 ###### Article 706-57
 
-Les personnes à l'encontre desquelles il n'existe aucun indice faisant présumer qu'elles ont commis ou tenté de commettre une
-infraction et qui sont susceptibles d'apporter des éléments de preuve intéressant la procédure peuvent, sur autorisation du
-procureur de la République ou du juge d'instruction, déclarer comme domicile l'adresse du commissariat ou de la brigade de
-gendarmerie.
+Les personnes à l'encontre desquelles il n'existe aucune raison plausible de soupçonner qu'elles ont commis ou tenté de
+commettre une infraction et qui sont susceptibles d'apporter des éléments de preuve intéressant la procédure peuvent, sur
+autorisation du procureur de la République ou du juge d'instruction, déclarer comme domicile l'adresse du commissariat ou de
+la brigade de gendarmerie.
 
 L'adresse de ces personnes est alors inscrite sur un registre coté et paraphé, qui est ouvert à cet effet.
 
@@ -32456,13 +32589,13 @@ L'adresse de ces personnes est alors inscrite sur un registre coté et paraphé,
 
 	  - Ordonnance 58-1296 1958-12-23
 
-	**Modifié par**:
-
-	  - Loi n°2001-1062 du 15 novembre 2001 - art. 57 () JORF 16 novembre 2001
-
 	**Liens**:
 
 	  - SPEC_APPLI: Loi n°2001-1062 du 15 novembre 2001 - art. 71 (M)
+
+	**Modifié par**:
+
+	  - Loi n°2002-307 du 4 mars 2002 - art. 2 () JORF 5 mars 2002
 
 	**Cité par**:
 
@@ -33820,6 +33953,60 @@ l'article 132-27 du code pénal, cette décision peut être modifiée dans les c
 	  - Code de procédure pénale - art. 720 (Ab)
 	  - Code de procédure pénale - art. D149-3 (V)
 	  - Code de procédure pénale - art. D340 (Ab)
+
+
+###### Article 720-1-1
+
+La suspension peut également être ordonnée, quelle que soit la nature de la peine ou la durée de la peine restant à subir, et
+pour une durée qui n'a pas à être déterminée, pour les condamnés dont il est établi qu'ils sont atteints d'une pathologie
+engageant le pronostic vital ou que leur état de santé est durablement incompatible avec le maintien en détention, hors les
+cas d'hospitalisation des personnes détenues en établissement de santé pour troubles mentaux.
+
+La suspension ne peut être ordonnée que si deux expertises médicales distinctes établissent de manière concordante que le
+condamné se trouve dans l'une des situations énoncées à l'alinéa précédent.
+
+Lorsque la peine privative de liberté prononcée est d'une durée inférieure ou égale à dix ans ou que, quelle que soit la
+peine initialement prononcée, la durée de détention restant à subir est inférieure ou égale à trois ans, cette suspension est
+ordonnée par le juge de l'application des peines selon les modalités prévues par l'article 722.
+
+Dans les autres cas, elle est prononcée par la juridiction régionale de la libération conditionnelle selon les modalités
+prévues par l'article 722-1.
+
+Le juge de l'application des peines peut à tout moment ordonner une expertise médicale à l'égard d'un condamné ayant
+bénéficié d'une mesure de suspension de peine en application du présent article et ordonner qu'il soit mis fin à la
+suspension si les conditions de celle-ci ne sont plus remplies.
+
+Les dispositions de l'article 720-2 ne sont pas applicables lorsqu'il est fait application des dispositions du présent
+article.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 58-1296 1958-12-23
+
+	**Créé par**:
+
+	  - Loi n°2002-303 du 4 mars 2002 - art. 10 () JORF 5 mars 2002
+
+	**Cité par**:
+
+	  - Loi n°2002-303 du 4 mars 2002 - art. 127 (V)
+	  - Code de la route. - art. R234-5 (V)
+	  - Code de procédure pénale - art. 712-23 (V)
+	  - Code de procédure pénale - art. 729 (VD)
+	  - Code de procédure pénale - art. D147-1 (V)
+	  - Code de procédure pénale - art. D147-2 (V)
+	  - Code de procédure pénale - art. D147-4 (V)
+	  - Code de procédure pénale - art. D147-5 (V)
+	  - Code de procédure pénale - art. D340 (Ab)
+	  - Code de procédure pénale - art. D49-23 (V)
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. 720-2 (M)
+	  - CODE DE PROCEDURE PENALE - art. 722 (M)
+	  - CODE DE PROCEDURE PENALE - art. 722-1 (MMN)
 
 
 ##### Section 3 : De la période de sûreté
