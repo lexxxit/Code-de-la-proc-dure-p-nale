@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 1999-02-07
+Version Consolidée au 1999-03-20
 
 # Partie législative
 
@@ -42921,9 +42921,7 @@ dans les conditions prévues aux articles R. 121 et R. 121-1 du présent code.
 4° Les indemnités qui peuvent être accordées aux témoins, aux jurés par application des articles R. 123 à R. 146 et aux
 parties civiles par application des articles 375-1 et 422.
 
-5° Les frais de saisie ou de mise sous séquestre ou en fourrière, les frais en matière de scellés et ceux de l'immobilisation
-décidée en application de l'article 43-3 (3° bis) du code pénal [* article(s) abrogé(s), cf. article(s) 131-6, 131-7 et 131-9
-du nouveau code pénal *].
+5° Les frais de saisie ou de mise sous séquestre ou en fourrière, ainsi que les frais en matière de scellés.
 
 6° Les frais d'enquête sociale et d'expertise engagés en matière d'exécution ou d'application des peines et en matière de
 grâces.
@@ -42955,15 +42953,37 @@ pièces à l'autorité judiciaire dans le cadre d'une procédure pénale.
 17° Les frais et dépens mis à la charge du Trésor public en cas de décision juridictionnelle rectifiant ou interprétant une
 précédente décision en matière pénale.
 
+18° Les frais de recherche et de délivrance de reproductions de tous documents imprimés ;
+
+19° Les frais de remise ou de mise en oeuvre des conventions secrètes de moyens ou prestations de cryptologie engagés à la
+demande des autorités judiciaires par les organismes agréés mentionnés à l'article 28 de la loi n° 90-1170 du 29 décembre
+1990 sur la réglementation des télécommunications ;
+
+20° Les indemnités et vacations qui peuvent être accordées aux membres titulaires et suppléants de la formation de jugement
+de la Cour de justice de la République selon les modalités prévues au décret n° 95-692 du 9 mai 1995.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°59-318 1959-02-23
 
+	**Cite**:
+
+	  - Loi n°90-1170 1990-12-29 art. 28
+	  - Décret n°95-692 1995-05-09
+	  - CODE DE PROCEDURE PENALE - art. 149 (M)
+	  - CODE DE PROCEDURE PENALE - art. 150 (M)
+	  - CODE DE PROCEDURE PENALE - art. 375-1 (V)
+	  - CODE DE PROCEDURE PENALE - art. 422 (V)
+	  - CODE DE PROCEDURE PENALE - art. 706-4 (M)
+	  - CODE DE PROCEDURE PENALE - art. R121 (M)
+	  - CODE DE PROCEDURE PENALE - art. R121-1 (M)
+	  - Code de procédure pénale R121, R121-1, R123 à R146, 375-1, 422, 149, 150, 706-4
+
 	**Modifié par**:
 
-	  - Décret n°93-867 du 28 juin 1993 - art. 3 () JORF 29 juin 1993
+	  - Décret n°99-203 du 18 mars 1999 - art. 2 () JORF 20 mars 1999
 
 	**Cité par**:
 
@@ -42987,19 +43007,6 @@ précédente décision en matière pénale.
 	  - Code de procédure pénale - art. R224-1 (V)
 	  - Code de procédure pénale - art. R91 (V)
 	  - Code de procédure pénale - art. R93 (V)
-
-	**Cite**:
-
-	  - Code pénal 43-3
-	  - CODE DE PROCEDURE PENALE - art. 149 (M)
-	  - CODE DE PROCEDURE PENALE - art. 150 (M)
-	  - CODE DE PROCEDURE PENALE - art. 375-1 (V)
-	  - CODE DE PROCEDURE PENALE - art. 422 (V)
-	  - CODE DE PROCEDURE PENALE - art. 706-4 (M)
-	  - CODE DE PROCEDURE PENALE - art. R121 (M)
-	  - CODE DE PROCEDURE PENALE - art. R121-1 (M)
-	  - CODE DE PROCEDURE PENALE - art. R210 (M)
-	  - Code de procédure pénale R121, R121-1, R123 à R146, 375-1, 422, R210, 149, 150, 706-4
 
 
 ###### Article R93
@@ -43053,8 +43060,11 @@ ne relevant pas de l'administration pénitentiaire.
 
 18° Des frais des mesures d'instruction prévues à l'article L. 332-2 du code de la consommation.
 
-19° Les frais d'impression, d'insertion et de publication des arrêts, jugements et ordonnances de justice selon les
-dispositions des articles R. 210 et suivants.
+19° Les frais d'impression, d'insertion, de publication et de diffusion audiovisuelle des arrêts, jugements et ordonnances de
+justice en application de l'article 131-35 du code pénal.
+
+20° Les frais d'une immobilisation décidée en application du 5° de l'article 131-6 et du 2° de l'article 131-14 du code
+pénal.
 
 **Liens relatifs à cet article**
 
@@ -43093,14 +43103,16 @@ dispositions des articles R. 210 et suivants.
 	  - Loi n°67-563 du 13 juillet 1967 - art. 94 (Ab)
 	  - Loi n°85-98 1985-01-25 art. 215
 	  - Code de la consommation - art. L332-2 (M)
+	  - Code pénal - art. 131-14 (M)
+	  - Code pénal - art. 131-35 (M)
 	  - CODE DE PROCEDURE PENALE - art. 16-2 (V)
-	  - CODE DE PROCEDURE PENALE - art. R210 (M)
 	  - CODE DE PROCEDURE PENALE - art. R92 (M)
+	  - Code de procédure pénale 16-2, R92, 131-6
 	  - Nouveau code de procédure civile 696
 
 	**Modifié par**:
 
-	  - Décret n°95-660 du 9 mai 1995 - art. 33 () JORF 10 mai 1995
+	  - Décret n°99-203 du 18 mars 1999 - art. 3 () JORF 20 mars 1999
 
 	**Liens**:
 
@@ -43557,14 +43569,15 @@ inscription ni, le cas échéant, lors d'une nouvelle inscription après radiati
 
 ###### Article R107
 
-Lorsque le montant prévu de ses frais et honoraires dépasse 1.000 F, l'expert désigné doit, avant de commencer ses travaux,
+Lorsque le montant prévu de ses frais et honoraires dépasse 3 000 F, l'expert désigné doit, avant de commencer ses travaux,
 en informer la juridiction qui l'a commis.
 
-Au-dessus de ce montant et sauf cas d'urgence, la demande de l'expert est communiquée au ministère public qui peut, dans le
-délai de trois jours, présenter ses observations. S'il n'en est pas tenu compte, le ministère public peut saisir, par
-l'intermédiaire du procureur général, le président de la chambre d'accusation ou le président de la chambre de contrôle de
-l'instruction de la Cour de sûreté de l'Etat. La décision de ce magistrat doit intervenir dans les huit jours [*délai*] et
-elle ne peut faire l'objet de recours.
+Sauf urgence, cette estimation est communiquée au ministère public qui présente ses observations dans le délai de cinq jours,
+après avoir fait procéder si nécessaire à des vérifications de toute nature sur les éléments de l'estimation présentée par
+l'expert.
+
+S'il n'est pas tenu compte de ses observations, le ministère public peut saisir, par l'intermédiaire du procureur général, le
+président de la chambre d'accusation, qui statue dans les huit jours par une décision qui ne peut faire l'objet de recours.
 
 **Liens relatifs à cet article**
 
@@ -43572,13 +43585,9 @@ elle ne peut faire l'objet de recours.
 
 	  - Décret n°59-318 1959-02-23
 
-	**Créé par**:
-
-	  - Décret n°59-318 1959-02-23 JORF 25 février 1959 en vigueur le 2 mars 1959 rectificatif JORF 13 juin 1959
-
 	**Modifié par**:
 
-	  - Décret n°74-88 1974-02-04 art. 1 JORF 6 février 1974
+	  - Décret n°99-203 du 18 mars 1999 - art. 4 () JORF 20 mars 1999
 
 	**Liens**:
 
@@ -43727,16 +43736,20 @@ Lorsque les experts sont entendus, soit devant les cours ou tribunaux, soit deva
 de la mission qui leur est confiée, il leur est alloué, outre leurs frais de déplacement et de séjour s'il y a lieu, une
 indemnité déterminée par la formule suivante : I = 20 + (S x 4), dans laquelle :
 
-I est le montant de l'indemnité forfaitaire exprimée en francs ;
+I est le montant de l'indemnité forfaitaire exprimée en francs (1) ;
 
 S le salaire minimum interprofessionnel de croissance tel qu'il est fixé au 1er janvier de l'année en cours.
 
-Les experts qui justifient d'une perte de salaire ou de traitement, au moyen d'une attestation délivrée par leur employeur ou
-chef de service, ont droit, en outre, à une indemnité supplémentaire calculée suivant la formule I = S x D, dans laquelle :
+Les experts qui justifient d'une perte d'une partie du revenu tiré de leur activité professionnelle, ont droit, en outre, à
+une indemnité supplémentaire calculée suivant la formule I = S x D, dans laquelle :
 
 S est le salaire minimum interprofessionnel de croissance déterminé comme ci-dessus ;
 
 D la durée horaire de comparution, celle-ci ne pouvant excéder huit heures par jour ouvrable.
+
+**Nota:**
+
+(1) : Conformément à l'article L111-1 du code monétaire et financier, il convient de lire "euros" au lieu de "francs".
 
 **Liens relatifs à cet article**
 
@@ -43744,14 +43757,9 @@ D la durée horaire de comparution, celle-ci ne pouvant excéder huit heures par
 
 	  - Décret n°59-318 1959-02-23
 
-	**Créé par**:
-
-	  - Décret n°59-318 1959-02-23 JORF 25 février 1959 en vigueur le 2 mars 1959 rectificatif JORF 13 juin 1959
-
 	**Modifié par**:
 
-	  - Décret n°67-62 1967-01-14 art. 1 JORF 20 janvier 1967
-	  - Décret n°72-436 1972-05-29 art. 1 JORF 30 mai 1972
+	  - Décret n°99-203 du 18 mars 1999 - art. 5 () JORF 20 mars 1999
 
 	**Liens**:
 
@@ -43939,15 +43947,18 @@ Lorsque ces opérations sont effectuées par l'expert qui procède ultérieureme
 6° Pour autopsie de cadavre de nouveau-né après exhumation ou autopsie de cadavre de nouveau-né en état de décomposition
 avancée ... Cs 5
 
-7° Pour une expertise psychologique comportant un ou plusieurs examens :
+7° Pour une expertise médico-psychologique comportant un ou plusieurs examens, pratiquée par un médecin ayant également la
+qualité de psychologue, intervenant en qualité d'expert unique :
 
-- pratiquée par un médecin ... K 36
+CNPSY 5 ;
 
-- pratiquée par un psychologue agréé ... 50 % du tarif ci-dessus
+8° Pour la partie médicale de l'expertise médico-psychologique pratiquée par un médecin et un psychologue mentionnée au 2° de
+l'article R. 120-2 : C 3,5 ;
 
-8° Pour une expertise médico-psychologique comportant un ou plusieurs examens ... CNPSY 5
+9° Pour une expertise psychiatrique comportant un ou plusieurs examens : CNPSY 6 ;
 
-9° Pour une expertise psychiatrique comportant un ou plusieurs examens ... CNPSY 5.
+10° Pour une expertise psychiatrique comportant un ou plusieurs examens et concernant une personne poursuivie ou condamnée
+pour infraction sexuelle : CNPSY 6,5.
 
 **Liens relatifs à cet article**
 
@@ -43957,7 +43968,7 @@ avancée ... Cs 5
 
 	**Modifié par**:
 
-	  - Décret n°97-525 du 26 mai 1997 - art. 1 () JORF 28 mai 1997
+	  - Décret n°99-203 du 18 mars 1999 - art. 6 () JORF 20 mars 1999
 
 	**Cité par**:
 
@@ -43978,6 +43989,7 @@ avancée ... Cs 5
 	**Cite**:
 
 	  - CODE DE PROCEDURE PENALE - art. 706-29 (M)
+	  - CODE DE PROCEDURE PENALE - art. R120-2 (V)
 	  - Code des débits de boissons R20 à R25
 
 	**Liens**:
@@ -44151,6 +44163,34 @@ indemnité autre que les indemnités de transport et de séjour :
 	  - Décret n°81-70 1981-01-28 art. 3 JORF 30 janvier 1981
 
 
+##### g) Psychologie légale
+
+###### Article R120-2
+
+Il est alloué à chaque expert régulièrement requis ou commis :
+
+1° Pour une expertise psychologique comportant un ou plusieurs examens : K 90 ;
+
+2° Pour la partie psychologique d'une expertise médico-psychologique pratiquée par un médecin et un psychologue : K 90.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-318 1959-02-23
+
+	**Créé par**:
+
+	  - Décret n°99-203 du 18 mars 1999 - art. 7 () JORF 20 mars 1999
+
+	**Cité par**:
+
+	  - Décret n°2004-530 du 10 juin 2004 - art. 16 (V)
+	  - CODE DE PROCEDURE PENALE - art. R117 (M)
+	  - Code de procédure pénale - art. A43-6 (V)
+	  - Code de procédure pénale - art. R251 (VT)
+
+
 ##### Paragraphe 2 : Des personnes chargées des enquêtes sociales et de personnalité ou contribuant au contrôle judiciaire
 
 ###### Article R121
@@ -44252,7 +44292,7 @@ respectivement à 1.000 F, 1.670 F et 2.670 F.
 
 ###### Article R122
 
-Les traductions par écrit sont payées 60 F la page de texte français.
+Les traductions par écrit sont payées 73 F la page de texte français.
 
 Lorsque les interprètes traducteurs sont appelés devant le procureur de la République, les officiers de police judiciaire ou
 leurs auxiliaires, devant les juges d'instruction ou devant les juridictions répressives pour faire les traductions orales,
@@ -44260,11 +44300,11 @@ il leur est alloué :
 
 1° Pour la première heure de présence, qui est toujours due en entier :
 
-A Paris et dans les départements des Hauts-de-Seine, de la Seine-Saint-Denis et du Val-de-Marne : 80 F ;
+A Paris et dans les départements des Hauts-de-Seine, de la Seine-Saint-Denis et du Val-de-Marne : 97 F ;
 
-Dans les autres départements : 72 F ;
+Dans les autres départements : 87 F ;
 
-2° Par demi-heure supplémentaire, due en entier dès qu'elle est commencée : 40 F ou 36 F suivant la distinction ci-dessus.
+2° Par demi-heure supplémentaire, due en entier dès qu'elle est commencée : 48 F ou 44 F suivant la distinction ci-dessus.
 
 Les sommes fixées par le présent article sont majorées de 25 % lorsque la traduction porte sur une langue autre que
 l'anglais, l'allemand, l'espagnol ou l'italien.
@@ -44276,18 +44316,6 @@ Les interprètes traducteurs ont droit aux indemnités de voyage et de séjour p
 	**Codifié par**:
 
 	  - Décret n°59-318 1959-02-23
-
-	**Créé par**:
-
-	  - Décret n°59-318 1959-02-23 JORF 25 février 1959 en vigueur le 2 mars 1959 rectificatif JORF 13 juin 1959
-
-	**Modifié par**:
-
-	  - Décret n°61-448 1961-05-08 art. 1 JORF 9 mai 1961
-	  - Décret n°67-62 1967-01-14 art. 1 JORF 20 janvier 1967
-	  - Décret n°74-88 1974-02-04 art. 1 JORF 6 février 1974
-	  - Décret n°81-70 1981-01-28 art. 4 JORF 30 janvier 1981
-	  - Décret n°84-289 1984-04-19 art. 1 JORF 20 avril 1984
 
 	**Cité par**:
 
@@ -44304,6 +44332,10 @@ Les interprètes traducteurs ont droit aux indemnités de voyage et de séjour p
 	  - Code de procédure pénale - art. R93-3 (V)
 	  - Code des tribunaux administratifs et des cours adm - art. R241-18 (Ab)
 	  - Nouveau code de procédure civile - art. 178-1 (V)
+
+	**Modifié par**:
+
+	  - Décret n°99-203 du 18 mars 1999 - art. 8 () JORF 20 mars 1999
 
 	**Liens**:
 
@@ -44362,8 +44394,7 @@ Il peut être accordé aux témoins, s'ils le requièrent :
 ###### Article R124
 
 Les indemnités accordées aux témoins ne sont payées par le Trésor qu'en tant qu'ils ont été cités ou appelés, soit à la
-requête du ministère public, soit en vertu d'une ordonnance rendue d'office dans les cas prévus aux articles 283 et 310 et à
-l'article 30 de la loi du 22 janvier 1851 sur l'assistance judiciaire.
+requête du ministère public, soit en vertu d'une ordonnance rendue d'office dans les cas prévus aux articles 283 et 310.
 
 **Liens relatifs à cet article**
 
@@ -44378,11 +44409,12 @@ l'article 30 de la loi du 22 janvier 1851 sur l'assistance judiciaire.
 
 	**Modifié par**:
 
-	  - Décret n°93-867 du 28 juin 1993 - art. 7 () JORF 29 juin 1993
+	  - Décret n°99-203 du 18 mars 1999 - art. 9 () JORF 20 mars 1999
 
 	**Cite**:
 
-	  - Loi n°1851-01-22 art. 30, art. 283 et art. 310
+	  - Code de procédure pénale - art. 283 (V)
+	  - Code de procédure pénale - art. 310 (V)
 
 
 ###### Article R125
@@ -44476,8 +44508,8 @@ I est le montant de l'indemnité forfaitaire exprimée en francs ;
 
 S le salaire minimum interprofessionnel de croissance tel qu'il est fixé au 1er janvier de l'année en cours.
 
-Les témoins qui justifient d'une perte de salaire ou de traitement, au moyen d'une attestation délivrée par leur employeur ou
-chef de service, ont droit, en outre, à une indemnité supplémentaire calculée suivant la formule I = S x D dans laquelle :
+Les témoins qui justifient d'une perte d'une partie du revenu tiré de leur activité professionnelle, ont droit, en outre, à
+une indemnité supplémentaire calculée suivant la formule I = S x D dans laquelle :
 
 S est le salaire minimum interprofessionnel de croissance déterminé comme ci-dessus ;
 
@@ -44489,15 +44521,9 @@ D la durée horaire de comparution, celle-ci ne pouvant excéder huit heures par
 
 	  - Décret n°59-318 1959-02-23
 
-	**Créé par**:
-
-	  - Décret n°59-318 1959-02-23 JORF 25 février 1959 en vigueur le 2 mars 1959 rectificatif JORF 13 juin 1959
-
 	**Modifié par**:
 
-	  - Décret n°61-448 1961-05-08 art. 1 JORF 9 mai 1961
-	  - Décret n°67-62 1967-01-14 art. 1 JORF 20 janvier 1967
-	  - Décret n°72-436 1972-05-29 art. 1 JORF 30 mai 1972
+	  - Décret n°99-203 du 18 mars 1999 - art. 5 () JORF 20 mars 1999
 
 	**Cité par**:
 
@@ -44816,9 +44842,8 @@ I est le montant de l'indemnité forfaitaire exprimé en francs ;
 
 S le salaire minimum interprofessionnel de croissance tel qu'il est fixé au 1er janvier de l'année en cours.
 
-Les jurés qui justifient d'une perte de salarié ou traitement, au moyen d'une attestation délivrée par leur employeur ou chef
-de service, ont droit, en outre, à une indemnité supplémentaire calculée suivant la formule suivante : I = S x D, dans
-laquelle :
+Les jurés qui justifient d'une perte d'une partie du revenu tiré de leur activité professionnelle, ont droit, en outre, à une
+indemnité supplémentaire calculée suivant la formule suivante : I = S x D, dans laquelle :
 
 S est le salaire minimum interprofessionnel de croissance déterminé comme ci-dessus ;
 
@@ -44830,15 +44855,9 @@ D la durée horaire de l'audience, celle-ci ne pouvant excéder huit heures par 
 
 	  - Décret n°59-318 1959-02-23
 
-	**Créé par**:
-
-	  - Décret n°59-318 1959-02-23 JORF 25 février 1959 en vigueur le 2 mars 1959 rectificatif JORF 13 juin 1959
-
 	**Modifié par**:
 
-	  - Décret n°61-448 1961-05-08 art. 1 JORF 9 mai 1961
-	  - Décret n°67-62 1967-01-14 art. 1 JORF 20 janvier 1967
-	  - Décret n°72-436 1972-05-29 art. 1 JORF 30 mai 1972
+	  - Décret n°99-203 du 18 mars 1999 - art. 5 () JORF 20 mars 1999
 
 	**Cité par**:
 
@@ -45061,8 +45080,14 @@ Dans les autres localités : 2 F ;
 
 Le premier mois écoulé, ces indemnités sont réduites de moitié.
 
-Lorsque les scellés sont apposés sur des véhicules automobiles, les tarifs des frais de garde sont fixés ainsi qu'il est
-prévu par l'article R. 289 du code de la route.
+Lorsque les scellés sont apposés sur des véhicules automobiles, les tarifs des frais de garde journalière sont fixés ainsi
+qu'il suit :
+
+Pour les véhicules poids lourds d'un poids total autorisé en charge supérieur à 3,5 tonnes : 40 F ;
+
+Pour les voitures particulières et les autres véhicules poids lourds : 21 F ;
+
+Pour les autres véhicules immatriculés : 16 F.
 
 **Liens relatifs à cet article**
 
@@ -45072,7 +45097,7 @@ prévu par l'article R. 289 du code de la route.
 
 	**Modifié par**:
 
-	  - Décret n°88-600 du 6 mai 1988 - art. 6 () JORF 8 mai 1988 en vigueur le 1er octobre 1988
+	  - Décret n°99-203 du 18 mars 1999 - art. 10 () JORF 20 mars 1999
 
 	**Cite**:
 
@@ -45080,7 +45105,6 @@ prévu par l'article R. 289 du code de la route.
 	  - CODE DE PROCEDURE PENALE - art. 54 (V)
 	  - CODE DE PROCEDURE PENALE - art. 56 (M)
 	  - CODE DE PROCEDURE PENALE - art. 97 (M)
-	  - Code de la route R289
 
 	**Liens**:
 
@@ -45095,7 +45119,7 @@ prévu par l'article R. 289 du code de la route.
 ###### Article R147-1
 
 Le tarif des frais de garde entraînés par l'immobilisation d'un véhicule décidée en application des articles 131-6 (5°) et
-131-14 (2°) du Code pénal est celui qui est fixé conformément à l'article R. 289 du Code de la route.
+131-14 (2°) du Code pénal est celui qui est fixé conformément au dernier alinéa de l'article précédent.
 
 **Liens relatifs à cet article**
 
@@ -45110,13 +45134,13 @@ Le tarif des frais de garde entraînés par l'immobilisation d'un véhicule déc
 
 	**Modifié par**:
 
-	  - Décret n°94-167 du 25 février 1994 - art. 15 () JORF 26 février 1994 en vigueur le 1er mars 1994
+	  - Décret n°99-203 du 18 mars 1999 - art. 11 () JORF 20 mars 1999
 
 	**Cite**:
 
 	  - Code pénal - art. 131-14 (M)
 	  - Code pénal - art. 131-6 (M)
-	  - Code de la route R289
+	  - CODE DE PROCEDURE PENALE - art. R147 (M)
 
 
 ###### Article R148
@@ -45444,43 +45468,6 @@ d'office ou désigné au titre de l'aide judiciaire ou lorsque la gratuité est 
 	**Liens**:
 
 	  - TXT_SOURCE: CODE DE PROCEDURE PENALE - art. 800 (M)
-
-
-##### c) Expéditions délivrées par les surveillants chefs des maisons d'arrêt.
-
-###### Article R166
-
-Il est alloué un droit fixe de 0,50 F au surveillant chef de la maison d'arrêt pour l'expédition de l'acte d'écrou qui doit
-être jointe au dossier, soit dans le cas prévu à l'article 583, soit pour assurer l'exécution des dispositions de la loi du
-17 juillet 1970 relative à la tutelle pénale.
-
-**Nota:**
-
-NOTA : La loi 81-82 du 2 février 1981 art. 70 a supprimé la tutelle pénale.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°59-318 1959-02-23
-
-	**Créé par**:
-
-	  - Décret n°59-318 1959-02-23 JORF 25 février 1959 en vigueur le 2 mars 1959 rectificatif JORF 13 juin 1959
-
-	**Modifié par**:
-
-	  - Décret n°67-62 1967-01-14 art. 1 JORF 20 janvier 1967
-	  - Décret n°74-88 1974-02-04 art. 1 JORF 6 février 1974
-
-	**Abrogé par**:
-
-	  - Décret n°99-203 du 18 mars 1999 - art. 12 () JORF 20 mars 1999
-
-	**Cite**:
-
-	  - CODE DE PROCEDURE PENALE - art. 583 (M)
-	  - Loi n°1970-07-17
 
 
 ##### Section 6 : Des émoluments et indemnités alloués aux huissiers de justice et aux agents de la force publique
@@ -46051,19 +46038,18 @@ Il est alloué aux magistrats et aux personnels exerçant les fonctions de greff
 séjour nécessités :
 
 1° Par les transports effectués en matière criminelle, correctionnelle ou de police, dans les cas prévus par le Code de
-procédure pénale, notamment aux articles 54, 56, 62, 63, 68, 69, 72, 74, 92, 93, 112, 151, 205, 654, 680 et 713 ou par des
-lois spéciales ;
+procédure pénale ou par des lois spéciales ;
 
 2° Par les transports du président de la chambre d'accusation à l'effet de s'assurer du bon fonctionnement des cabinets
 d'instruction du ressort de la cour d'appel, conformément aux dispositions de l'article 220 ;
 
 3° (dispositions abrogées)
 
-4° Par les transports des magistrats de la cour d'appel qui siègent comme présidents ou assesseurs dans une cour d'assises
-tenue hors du chef-lieu du ressort, et du procureur général ou de ses substituts qui vont y porter la parole, sans qu'il y
-ait lieu de distinguer entre les sessions ordinaires et extraordinaires, ainsi que du procureur de la République lorsqu'il
-occupe le siège du ministère public devant les tribunaux d'instance de son ressort, en application de l'article 45 du présent
-code ou de l'article 4 de l'ordonnance n° 58-1273 du 22 décembre 1958 ;
+4° Par les transports des magistrats du ressort de la cour d'appel qui siègent comme présidents ou assesseurs dans une cour
+d'assises tenue hors du chef-lieu du ressort, et du procureur général ou de ses substituts qui vont y porter la parole, sans
+qu'il y ait lieu de distinguer entre les sessions ordinaires et extraordinaires, ainsi que du procureur de la République
+lorsqu'il occupe le siège du ministère public devant les tribunaux d'instance de son ressort, en application de l'article 45
+du présent code ou de l'article 4 de l'ordonnance n° 58-1273 du 22 décembre 1958 ;
 
 5° Par les transports des commissaires de police, ou des officiers de police désignés par le procureur général, conformément
 aux articles 46 et 48, pour occuper le siège du ministère public près le tribunal de police d'une autre ville que celle où
@@ -46076,26 +46062,10 @@ ils exercent leurs fonctions ;
 	**Cite**:
 
 	  - Ordonnance 58-1273 1958-12-22 art. 4
-	  - CODE DE PROCEDURE PENALE - art. 112 (M)
-	  - CODE DE PROCEDURE PENALE - art. 151 (V)
-	  - CODE DE PROCEDURE PENALE - art. 205 (M)
 	  - CODE DE PROCEDURE PENALE - art. 220 (M)
 	  - CODE DE PROCEDURE PENALE - art. 45 (M)
 	  - CODE DE PROCEDURE PENALE - art. 46 (M)
 	  - CODE DE PROCEDURE PENALE - art. 48 (M)
-	  - CODE DE PROCEDURE PENALE - art. 54 (V)
-	  - CODE DE PROCEDURE PENALE - art. 56 (M)
-	  - CODE DE PROCEDURE PENALE - art. 62 (M)
-	  - CODE DE PROCEDURE PENALE - art. 63 (M)
-	  - CODE DE PROCEDURE PENALE - art. 654 (V)
-	  - CODE DE PROCEDURE PENALE - art. 68 (V)
-	  - CODE DE PROCEDURE PENALE - art. 680 (Ab)
-	  - CODE DE PROCEDURE PENALE - art. 69 (M)
-	  - CODE DE PROCEDURE PENALE - art. 713 (Ab)
-	  - CODE DE PROCEDURE PENALE - art. 72 (M)
-	  - CODE DE PROCEDURE PENALE - art. 74 (M)
-	  - CODE DE PROCEDURE PENALE - art. 92 (M)
-	  - CODE DE PROCEDURE PENALE - art. 93 (M)
 
 	**Codifié par**:
 
@@ -46103,7 +46073,7 @@ ils exercent leurs fonctions ;
 
 	**Modifié par**:
 
-	  - Décret n°88-600 du 6 mai 1988 - art. 20 (V) JORF 8 mai 1988 en vigueur le 1er octobre 1988
+	  - Décret n°99-203 du 18 mars 1999 - art. 13 () JORF 20 mars 1999
 
 	**Cité par**:
 
@@ -46143,11 +46113,13 @@ des établissements publics nationaux à caractère administratif et de certains
 	  - Code de procédure pénale - art. R200
 
 
-###### Article R202
+##### Section 8 : Des frais de mise en oeuvre des conventions secrètes de cryptologie
 
-Dans les cas prévus à l'article R. 200 (1°) les indemnités allouées par les articles R. 203, R. 204 et R. 205 sont dues, soit
-que le transport ait été effectué spontanément ou par délégation en exécution d'une commission rogatoire, soit qu'il s'agisse
-d'une information régulière ou d'une enquête officieuse ordonnée par l'autorité supérieure compétente.
+###### Article R208
+
+Pour chaque remise ou mise en oeuvre, à la demande des autorités judiciaires dans les conditions fixées par le II de
+l'article 28 de la loi n° 90-1170 du 29 décembre 1990 sur la réglementation des télécommunications, des conventions secrètes
+de moyens ou prestations de cryptologie, il est alloué une somme de 400 F à chaque organisme agréé.
 
 **Liens relatifs à cet article**
 
@@ -46155,24 +46127,13 @@ d'une information régulière ou d'une enquête officieuse ordonnée par l'autor
 
 	  - Décret n°59-318 1959-02-23
 
-	**Créé par**:
-
-	  - Décret n°59-318 1959-02-23 JORF 25 février 1959 en vigueur le 2 mars 1959 rectificatif JORF 13 juin 1959
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°59-318 1959-02-23 art. 5
-
-	**Abrogé par**:
-
-	  - Décret n°99-203 du 18 mars 1999 - art. 14 (V) JORF 20 mars 1999
-
 	**Cite**:
 
-	  - CODE DE PROCEDURE PENALE - art. R203 (Ab)
-	  - CODE DE PROCEDURE PENALE - art. R204 (Ab)
-	  - CODE DE PROCEDURE PENALE - art. R205 (Ab)
-	  - Code de procédure pénale R200 (1°), R203, R204, R205
+	  - Loi n°90-1170 1990-12-29 art. 28
+
+	**Modifié par**:
+
+	  - Décret n°99-203 du 18 mars 1999 - art. 15 () JORF 20 mars 1999
 
 
 ##### Section 9 : Des frais d'impression
@@ -46181,7 +46142,8 @@ d'une information régulière ou d'une enquête officieuse ordonnée par l'autor
 
 Les seules impressions qui doivent être payées à titre de frais de justice sont :
 
-1° Celles des jugements et arrêts dont l'affichage ou l'insertion ont été ordonnés par la cour ou le tribunal ;
+1° Celle des publications ou insertions de communiqué, relatives à des décisions de non-lieu, qui sont ordonnées par le juge
+d'instruction ou la chambre d'accusation en application des articles 177-1 et 212-1 ;
 
 2° Celles des signalements individuels de personnes arrêtées dans les cas exceptionnels où l'envoi de ces signalements aurait
 été reconnu indispensable ;
@@ -46195,18 +46157,20 @@ l'article 626, alinéas 9 et 10.
 
 	  - Décret n°59-318 1959-02-23
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°59-318 1959-02-23 JORF 25 février 1959 en vigueur le 2 mars 1959 rectificatif JORF 13 juin 1959
+	  - Décret n°99-203 du 18 mars 1999 - art. 16 () JORF 20 mars 1999
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. 177-1 (M)
+	  - CODE DE PROCEDURE PENALE - art. 212-1 (M)
+	  - CODE DE PROCEDURE PENALE - art. 626 (M)
 
 	**Cité par**:
 
 	  - CODE DE PROCEDURE PENALE - art. R93 (M)
 	  - Code de procédure pénale - art. R92 (V)
-
-	**Cite**:
-
-	  - Code de procédure pénale 626 al. 9 et al. 10
 
 
 ###### Article R211
@@ -46256,6 +46220,25 @@ imprimés joignent à chaque article de leur mémoire un exemplaire de l'objet i
 
 	  - Code de procédure pénale - art. R348 (V)
 	  - Code de procédure pénale - art. R421 (Ab)
+
+
+##### Section 10 : Des frais de recherche et de délivrance de reproductions des documents imprimés
+
+###### Article R213
+
+Il est alloué à chaque propriétaire ou dépositaire de documents imprimés, conservés sur support de quelque nature que ce
+soit, une indemnité de 25 F par réquisition pour l'ensemble des recherches d'archives nécessaires auxquelles il procède et
+une indemnité de 0,50 F par page pour les reproductions délivrées de ces documents.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-318 1959-02-23
+
+	**Modifié par**:
+
+	  - Décret n°99-203 du 18 mars 1999 - art. 17 () JORF 20 mars 1999
 
 
 #### Chapitre III : Des dépenses assimilées à celles de l'instruction des procès criminels
@@ -46760,6 +46743,9 @@ Un recours contre l'ordonnance de taxe peut être formé devant la chambre d'acc
 du comptable assignataire, dans un délai d'un mois à compter du versement de la pièce de dépense par le régisseur entre les
 mains de ce comptable.
 
+En matière d'aide juridictionnelle, le délai d'un mois court à compter de la transmission qui est faite par le greffe au
+comptable assignataire de l'ordonnance de taxe.
+
 Le refus motivé du ministère public d'exercer le recours est porté à la connaissance du Trésor public. Dans ce cas, le
 comptable assignataire exécute l'ordonnance de taxe.
 
@@ -46771,7 +46757,7 @@ comptable assignataire exécute l'ordonnance de taxe.
 
 	**Modifié par**:
 
-	  - Décret n°93-867 du 28 juin 1993 - art. 12 () JORF 29 juin 1993
+	  - Décret n°99-203 du 18 mars 1999 - art. 18 () JORF 20 mars 1999
 
 	**Cité par**:
 
@@ -46863,6 +46849,9 @@ somme, ou le comptable assignataire, dans le délai d'un mois à compter du vers
 entre les mains de ce comptable, peuvent adresser une réclamation au ministère public qui saisit de ses réquisitions le
 magistrat taxateur.
 
+En matière d'aide juridictionnelle, le délai d'un mois imparti au comptable assignataire court à compter de la transmission
+qui lui est faite par le greffe du mémoire ou de l'état certifié.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
@@ -46871,7 +46860,7 @@ magistrat taxateur.
 
 	**Modifié par**:
 
-	  - Décret n°93-867 du 28 juin 1993 - art. 12 () JORF 29 juin 1993
+	  - Décret n°99-203 du 18 mars 1999 - art. 19 () JORF 20 mars 1999
 
 	**Cité par**:
 
