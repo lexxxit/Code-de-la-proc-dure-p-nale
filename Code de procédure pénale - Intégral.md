@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 2005-04-01
+Version Consolidée au 2005-04-07
 
 # Partie législative
 
@@ -93444,6 +93444,11 @@ Quartier centre de détention du centre pénitentiaire de Maubeuge (Nord).
 
 Centre de détention de Mauzac (Dordogne).
 
+Quartier centre de détention de Chauconin-Neufmontiers du centre pénitentiaire de Meaux - Chauconin-Neufmontiers (Seine-et-
+Marne).
+
+Quartier centre de détention de Meaux du centre pénitentiaire de Meaux - Chauconin-Neufmontiers (Seine-et-Marne).
+
 Centre de détention de Melun (Seine-et-Marne).
 
 Centre de détention de Montmédy (Meuse).
@@ -93498,7 +93503,7 @@ Centre de détention de Villenauxe-la-Grande (Aube).
 
 	**Modifié par**:
 
-	  - Arrêté 2004-10-01 art. 1 JORF 20 octobre 2004
+	  - Arrêté 2005-03-30 art. 1 JORF 7 avril 2005
 
 	**Cite**:
 
@@ -93751,30 +93756,6 @@ la qualité de leur expéditeur.
 
 ###### Article A41
 
-Le montant de la participation des détenus aux frais de leur entretien sur le produit de leur travail, prévu à l'article D.
-112 du code de procédure pénale est porté à 45 euros par mois, soit 1,5 euro par jour.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Arrêté 1959-02-27
-
-	**Modifié par**:
-
-	  - Arrêté 2001-07-20 art. 1 JORF 8 août 2001 en vigueur le 1er   janvier 2002
-
-	**Abrogé par**:
-
-	  - Arrêté 2005-03-30 art. 3 JORF 7 avril 2005
-
-	**Cite**:
-
-	  - CODE DE PROCEDURE PENALE - art. D112 (Ab)
-
-
-###### Article A41-1
-
 La somme prévue à l'article D. 324 du code de procédure pénale à partir de laquelle les dépôts sur livrets de caisse
 d'épargne doivent être effectués est fixée à 229 euros.
 
@@ -93786,43 +93767,15 @@ d'épargne doivent être effectués est fixée à 229 euros.
 
 	**Modifié par**:
 
-	  - Arrêté 2001-07-20 art. 1 JORF 8 août 2001 en vigueur le 1er janvier 2002
-
-	**Transféré par**:
-
 	  - Arrêté 2005-03-30 art. 3 JORF 7 avril 2005
 
 	**Cite**:
 
-	  - CODE DE PROCEDURE PENALE - art. D324. (M)
+	  - Code de procédure pénale - art. D324 (V)
 
-	**Nouveaux textes**:
+	**Anciens textes**:
 
-	  - Code de procédure pénale A 41
-
-
-###### Article A42
-
-La somme mensuelle prévue au premier alinéa de l'article D 329 du code de procédure pénale est fixée à 183 euros. Cette somme
-est doublée à l'occasion des fêtes de fin d'année.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Arrêté 1959-02-27
-
-	**Modifié par**:
-
-	  - Arrêté 2001-07-20 art. 1 JORF 8 août 2001 en vigueur le 1er janvier 2002
-
-	**Abrogé par**:
-
-	  - Arrêté 2005-03-30 art. 3 JORF 7 avril 2005
-
-	**Cite**:
-
-	  - Code de procédure pénale D329 al. 1
+	  - Code de procédure pénale A 41-1
 
 
 ###### Article A42-1
