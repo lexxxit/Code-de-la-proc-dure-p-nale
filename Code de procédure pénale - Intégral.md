@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 1986-09-04
+Version Consolidée au 1986-09-10
 
 # Partie législative
 
@@ -6856,6 +6856,60 @@ d'accusation connaît des demandes de mise en liberté.
 	  - Code de procédure pénale - art. 706-36 (V)
 
 
+###### Article 148-2
+
+Toute juridiction appelée à statuer, en application des articles 141-1 et 148-1, sur une demande de mainlevée totale ou
+partielle du contrôle judiciaire ou sur une demande de mise en liberté se prononce après audition du ministère public, du
+prévenu ou de son conseil ; le prévenu non détenu et son conseil sont convoqués, par lettre recommandée, quarante-huit heures
+au moins avant la date de l'audience.
+
+La juridiction saisie, selon qu'elle est du premier ou du second degré, rend sa décision dans les dix jours ou dans les vingt
+jours de la réception de la demande ; toutefois, lorsqu'au jour de la réception de cette demande, il n'a pas encore été
+statué sur une précédente demande de mise en liberté ou sur l'appel d'une précédente décision de refus de mise en liberté, le
+délai de dix ou vingt jours ne commence à courir qu'à compter de la décision rendue par la juridiction compétente ; faute de
+décision à l'expiration de ce délai, il est mis fin au contrôle judiciaire ou à la détention provisoire, le prévenu, s'il
+n'est pas détenu pour autre cause, étant mis d'office en liberté.
+
+La décision du tribunal est immédiatement exécutoire nonobstant appel ; lorsque le prévenu est maintenu en détention, la cour
+se prononce dans les vingt jours de l'appel, faute de quoi le prévenu, s'il n'est pas détenu pour autre cause, est mis
+d'office en liberté.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°57-1426 1957-12-31
+
+	**Créé par**:
+
+	  - Loi n°70-643 du 17 juillet 1970 - art. 1 () JORF 19 juillet 1970
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°83-466 1983-06-10 art. 43
+
+	**Modifié par**:
+
+	  - Loi n°83-466 du 10 juin 1983 - art. 22 () JORF 11 juin 1983 en vigueur le 27 juin 1983
+	  - Loi n°86-1019 du 9 septembre 1986 - art. 17 () JORF 10 septembre 1986
+
+	**Cité par**:
+
+	  - CODE DE PROCEDURE PENALE - art. 143 (V)
+	  - CODE DE PROCEDURE PENALE - art. 367 (V)
+	  - CODE DE PROCEDURE PENALE - art. 465 (M)
+	  - CODE DE PROCEDURE PENALE - art. 501 (V)
+	  - CODE DE PROCEDURE PENALE - art. 626-5 (V)
+	  - Code de procédure pénale - art. 142-12 (V)
+	  - Code de procédure pénale - art. 142-4 (V)
+	  - Code de procédure pénale - art. 194-1 (V)
+	  - Code de procédure pénale - art. 397-4 (V)
+
+	**Cite**:
+
+	  - Code de procédure pénale 141-1 et 148-1
+
+
 ###### Article 148-3
 
 Préalablement à sa mise en liberté, l'inculpé doit faire, auprès du juge d'instruction ou du chef de l'établissement
@@ -12442,6 +12496,53 @@ La citation est délivrée dans des délais et formes prévus par les articles 5
 	  - Code de procédure pénale - art. 533 (VD)
 
 
+###### Article 390-1
+
+Vaut citation à personne la convocation en justice notifiée au prévenu, sur instructions du procureur de la République et
+dans les délais prévus par l'article 552, soit par un greffier ou un officier ou agent de police judiciaire, soit, si le
+prévenu est détenu, par le chef de l'établissement pénitentiaire.
+
+La convocation énonce le fait poursuivi, vise le texte de loi qui le réprime et indique le tribunal saisi, le lieu, la date
+et l'heure de l'audience. Elle précise, en outre, que le prévenu peut se faire assister d'un avocat.
+
+Elle est constatée par un procès-verbal signé par le prévenu qui en reçoit copie.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Ordonnance n°45-174 du 2 février 1945 - art. 8-3 (V)
+	  - Ordonnance n°2017-157 du 9 février 2017 - art. 12 (VD)
+	  - CODE DE PROCEDURE PENALE - art. 560 (V)
+	  - Code de commerce - art. L470-4-3 (T)
+	  - Code de procédure pénale - art. 388-4 (V)
+	  - Code de procédure pénale - art. 388-5 (V)
+	  - Code de procédure pénale - art. 390-2 (V)
+	  - Code de procédure pénale - art. 495-15-1 (V)
+	  - Code de procédure pénale - art. 77-2 (V)
+	  - Code de procédure pénale - art. D594-9 (V)
+
+	**Codifié par**:
+
+	  - Ordonnance 58-1296 1958-12-23
+
+	**Créé par**:
+
+	  - Loi n°85-1407 1985-12-30 art. 41, art. 94 JORF 31 décembre 1985 en vigueur le 1er février 1986
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°85-1407 1985-12-30 art. 94
+
+	**Modifié par**:
+
+	  - Loi n°86-1019 du 9 septembre 1986 - art. 5 () JORF 10 septembre 1986
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. 552 (M)
+
+
 ###### Article 391
 
 Toute personne ayant porté plainte est avisée par le parquet de la date de l'audience.
@@ -12828,6 +12929,51 @@ est notifiée verbalement au prévenu et mentionnée au procès-verbal dont copi
 	  - Code de procédure pénale - art. D32-20 (V)
 
 
+###### Article 395
+
+Si le maximum de l'emprisonnement prévu par la loi est au moins égal à deux ans sans excéder cinq ans, le procureur de la
+République, lorsqu'il lui apparaît que les charges réunies sont suffisantes et que l'affaire est en l'état d'être jugée,
+peut, s'il estime que les éléments de l'espèce justifient une comparution immédiate, traduire le prévenu sur-le-champ devant
+le tribunl.
+
+En cas de délit flagrant, si le maximum de l'emprisonnement prévu par la loi est au moins égal à un an sans excéder cinq ans,
+le procureur de la République, s'il estime que les éléments de l'espèce justifient une comparution immédiate, peut traduire
+le prévenu sur-le-champ devant le tribunal.
+
+Le prévenu est retenu jusqu'à sa comparution qui doit avoir lieu le jour même ; il est conduit sous escorte devant le
+tribunal.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 58-1296 1958-12-23
+
+	**Modifié par**:
+
+	  - Loi n°75-701 1975-08-06 art. 11 JORF 7 août 1975 en vigueur le 1er janvier 1976
+	  - Loi n°81-82 1981-02-02 art. 51-I JORF 3 février 1981
+	  - Loi n°83-466 du 10 juin 1983 - art. 25 () JORF 11 juin 1983 en vigueur le 27 juin 1983
+	  - Loi n°86-1019 du 9 septembre 1986 - art. 5 () JORF 10 septembre 1986
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°83-466 1983-06-10 art. 43
+
+	**Cité par**:
+
+	  - Arrêté du 23 novembre 2011 - art. 1 (V)
+	  - CODE DE PROCEDURE PENALE - art. 396 (MMN)
+	  - CODE DE PROCEDURE PENALE - art. 495-12 (V)
+	  - Code de l'éducation - art. L472-1 (V)
+	  - Code de procédure pénale - art. 397 (V)
+	  - Code de procédure pénale - art. 397-3 (V)
+	  - Code de procédure pénale - art. 397-3-1 (V)
+	  - Code de procédure pénale - art. 397-4 (V)
+	  - Code de procédure pénale - art. 41 (V)
+	  - Code de procédure pénale - art. 495-10 (VD)
+
+
 ###### Article 397-1
 
 Si le prévenu ne consent pas à être jugé séance tenante ou si l'affaire ne paraît pas en état d'être jugée, le tribunal après
@@ -12856,6 +13002,44 @@ cinquième et au plus tard le trentième jour suivant.
 
 	  - Code de procédure pénale - art. 397-3 (V)
 	  - Code de procédure pénale - art. 706-106 (VT)
+
+
+###### Article 397-2
+
+A la demande des parties ou d'office, le tribunal peut commettre par jugement l'un de ses membres ou l'un des juges
+d'instruction de la juridiction désigné dans les conditions de l'article 83 pour procéder à un supplément d'information ; les
+dispositions de l'article 463 sont applicables.
+
+Le tribunal peut, dans les mêmes conditions, s'il estime que la complexité de l'affaire nécessite des investigations
+supplémentaires approfondies, renvoyer le dossier au procureur de la République.
+
+Le tribunal statue au préalable sur le maintien du prévenu en détention provisoire jusqu'à sa comparution devant un juge
+d'instruction. Cette comparution doit avoir lieu le jour même, à défaut de quoi le prévenu est remis en liberté d'office.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 58-1296 1958-12-23
+
+	**Créé par**:
+
+	  - loi 81-82 1981-02-02 art. 51-I JORF 3 février 1981
+
+	**Modifié par**:
+
+	  - Loi n°83-466 du 10 juin 1983 - art. 25 () JORF 11 juin 1983 en vigueur le 27 juin 1983
+	  - Loi n°86-1019 du 9 septembre 1986 - art. 9 () JORF 10 septembre 1986
+
+	**Cité par**:
+
+	  - Loi n°83-466 du 10 juin 1983 - art. 43 (V)
+	  - CODE DE PROCEDURE PENALE - art. D15-4-2 (VD)
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. 463 (M)
+	  - CODE DE PROCEDURE PENALE - art. 83 (M)
 
 
 ##### Section 2 : De la composition du tribunal et de la tenue des audiences
@@ -15280,6 +15464,31 @@ sur le fond la représentation des objets restitués.
 	**Codifié par**:
 
 	  - Ordonnance 58-1296 1958-12-23
+
+
+###### Article 481
+
+Si le tribunal estime que les objets placés sous la main de la justice sont utiles à la manifestation de la vérité ou
+susceptibles de confiscation, il surseoit à statuer jusqu'à sa décision sur le fond.
+
+Dans ce cas, le jugement n'est susceptible d'aucun recours.
+
+Le tribunal peut refuser la restitution lorsque celle-ci présente un danger pour les personnes ou les biens.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: Ordonnance 58-1273 1958-12-22 art. 18
+	  - SPEC_APPLI: Ordonnance n°58-1296 du 23 décembre 1958 - art. 10, v. init.
+
+	**Codifié par**:
+
+	  - Ordonnance 58-1296 1958-12-23
+
+	**Modifié par**:
+
+	  - Loi n°86-1019 du 9 septembre 1986 - art. 18 () JORF 10 septembre 1986
 
 
 ###### Article 482
@@ -22830,6 +23039,444 @@ desdites dispositions et qu'elles remplissent les conditions fixées par cet acc
 	  - CODE DE PROCEDURE PENALE - art. 706-3 (M)
 
 
+### Titre XV : Des infractions en relation avec une entreprise individuelle ou collective ayant pour but de troubler gravement l'ordre public par l'intimidation ou la terreur
+
+###### Article 706-16
+
+Lorsqu'elles sont en relation avec une entreprise individuelle ou collective ayant pour but de troubler gravement l'ordre
+public par l'intimidation ou la terreur, sont poursuivies, instruites et jugées selon les règles du présent code, sous
+réserve des dispositions du présent titre, les infractions définies par :
+
+1° Les articles 257-3, 265 à 267, 295 à 298, 301, 303 à 305, 310, 311, les troisième (2°) et quatrième (3°) alinéas de
+l'article 312, les articles 341 à 344, 354, 355, 379, les troisième à septième alinéas de l'article 382, l'article 384, le
+premier alinéa de l'article 400, les deuxième à cinquième alinéas de l'article 434, les articles 435 à 437 et 462 du code
+pénal ;
+
+2° L'article 3 de la loi du 19 juin 1871 qui abroge le décret du 4 septembre 1870 sur la fabrication des armes de guerre ;
+
+3° L'article 6 de la loi n° 70-575 du 3 juillet 1970 portant réforme du régime des poudres et substances explosives ;
+
+4° L'article 38 et, en ce qui concerne les armes et munitions des première et quatrième catégories, les articles 31 et 32 du
+décret-loi du 18 avril 1939 fixant le régime des matériels de guerre, armes et munitions ;
+
+5° Les articles 1er et 4 de la loi n° 72-467 du 9 juin 1972 interdisant la mise au point, la fabrication, la détention, le
+stockage, l'acquisition et la cession d'armes biologiques ou à base de toxines ;
+
+6° Les articles 16 et 17 de la loi du 15 juillet 1845 sur la police des chemins de fer.
+
+Les dispositions du présent article sont également applicables aux infractions connexes.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 58-1296 1958-12-23
+
+	**Cite**:
+
+	  - Loi n°70-575 du 3 juillet 1970 - art. 6 (M)
+	  - Loi n°72-467 du 9 juin 1972 - art. 1 (Ab)
+	  - Loi n°72-467 du 9 juin 1972 - art. 4 (M)
+	  - Code pénal 435 à 437, 462
+	  - CODE DE PROCEDURE PENALE - art. 301 (V)
+	  - CODE DE PROCEDURE PENALE - art. 310 (V)
+	  - CODE DE PROCEDURE PENALE - art. 311 (V)
+	  - CODE DE PROCEDURE PENALE - art. 312 (M)
+	  - CODE DE PROCEDURE PENALE - art. 354 (M)
+	  - CODE DE PROCEDURE PENALE - art. 355 (V)
+	  - CODE DE PROCEDURE PENALE - art. 379 (V)
+	  - CODE DE PROCEDURE PENALE - art. 38 (V)
+	  - CODE DE PROCEDURE PENALE - art. 382 (M)
+	  - CODE DE PROCEDURE PENALE - art. 384 (V)
+	  - CODE DE PROCEDURE PENALE - art. 400 (M)
+	  - CODE DE PROCEDURE PENALE - art. 434 (M)
+	  - CODE DE PROCEDURE PENALE 257-3, 265 à 267, 295 à 298, 301, 303 à 305, 310, 311, 312, 341 à 344, 354, 355, 379, 382, 384, 400, 434, 38
+	  - Décret n°1870-09-04
+	  - Décret-loi 1939-04-18 art. 31, art. 32
+	  - Loi n°1845-07-15 art. 16, art. 17
+	  - Loi n°1871-06-19 art. 3
+
+	**Créé par**:
+
+	  - Loi n°86-1020 du 9 septembre 1986 - art. 1 () JORF 10 septembre 1986
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°86-1020 du 9 septembre 1986 - art. 10 (M)
+	  - TXT_ASSOCIE: Décret n°1939-04-18 du 18 avril 1939 - art. 31 (M)
+
+	**Cité par**:
+
+	  - Loi n°86-1020 du 9 septembre 1986 - art. 10 (V)
+	  - Loi n°88-828 du 20 juillet 1988 - art. 29 (V)
+	  - Loi n°95-884 du 3 août 1995 - art. 25 (V)
+	  - Loi n°2002-1062 du 6 août 2002 - art. 14 (V)
+	  - Arrêté du 26 décembre 2003 - art. 4 (Ab)
+	  - Décret n°2003-1284 du 26 décembre 2003 - art. 1 (V)
+	  - Arrêté du 17 septembre 2004 - art. 4 (Ab)
+	  - Arrêté du 8 septembre 2005 - art. 4 (Ab)
+	  - Arrêté du 19 décembre 2005 - art. 2 (V)
+	  - Arrêté du 7 février 2007 - art. 4 (Ab)
+	  - Arrêté du 19 décembre 2008 - art. 4 (Ab)
+	  - Arrêté du 3 mars 2010 - art. 4 (Ab)
+	  - Décret n°2011-1713 du 1er décembre 2011 (V)
+	  - CODE DE PROCEDURE PENALE - art. 706-24-1 (Ab)
+	  - Code de procédure pénale - art. 2-9 (V)
+	  - Code de procédure pénale - art. 7 (V)
+	  - Code de procédure pénale - art. 706-17 (VT)
+	  - Code de procédure pénale - art. 706-17-1 (V)
+	  - Code de procédure pénale - art. 706-18 (MMN)
+	  - Code de procédure pénale - art. 706-19 (MMN)
+	  - Code de procédure pénale - art. 706-22-1 (V)
+	  - Code de procédure pénale - art. 706-24 (V)
+	  - Code de procédure pénale - art. 706-24-2 (V)
+	  - Code de procédure pénale - art. 706-25 (MMN)
+	  - Code de procédure pénale - art. 706-25-1 (Ab)
+	  - Code de procédure pénale - art. 706-25-2 (V)
+	  - Code de procédure pénale - art. 8 (V)
+	  - Code de procédure pénale - art. D49-75 (V)
+	  - Code de procédure pénale - art. D49-78 (V)
+	  - Code pénal - art. 133-2 (V)
+	  - Code pénal - art. 133-3 (V)
+
+
+###### Article 706-17
+
+Pour la poursuite, l'instruction et le jugement des infractions entrant dans le champ d'application de l'article 706-16, le
+procureur de la République, le juge d'instruction, le tribunal correctionnel et la cour d'assises de Paris exercent une
+compétence concurrente à celle qui résulte de l'application des articles 43, 52, 382 et du second alinéa de l'article 663.
+
+En ce qui concerne les mineurs, le procureur de la République, le juge d'instruction, le juge des enfants, le tribunal pour
+enfants et la cour d'assises des mineurs de Paris exercent une compétence concurrente à celle qui résulte de l'application
+des dispositions de l'ordonnance n° 45-174 du 2 février 1945 relative à l'enfance délinquante.
+
+Lorsqu'ils sont compétents pour la poursuite et l'instruction des infractions entrant dans le champ d'application de
+l'article 706-16, le procureur de la République et le juge d'instruction de Paris exercent leurs attributions sur toute
+l'étendue du territoire national.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Ordonnance 45-174 1945-02-02
+	  - CODE DE PROCEDURE PENALE - art. 382 (M)
+	  - CODE DE PROCEDURE PENALE - art. 43 (M)
+	  - CODE DE PROCEDURE PENALE - art. 52 (M)
+	  - CODE DE PROCEDURE PENALE - art. 706-16 (M)
+	  - Code de procédure pénale 43, 52, 382, 663 al. 2, 706-16
+
+	**Codifié par**:
+
+	  - Ordonnance 58-1296 1958-12-23
+
+	**Créé par**:
+
+	  - Loi n°86-1020 du 9 septembre 1986 - art. 1 () JORF 10 septembre 1986
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°86-1020 du 9 septembre 1986 - art. 10 (M)
+
+	**Cité par**:
+
+	  - Loi n°2016-1547 du 18 novembre 2016 - art. 25 (V)
+	  - CODE DE PROCEDURE PENALE - art. D15-4-5 (VD)
+	  - Code de l'organisation judiciaire - art. L254-1 (V)
+	  - Code de procédure pénale - art. 48-1 (V)
+	  - Code de procédure pénale - art. 693 (V)
+	  - Code de procédure pénale - art. 706-22-1 (V)
+	  - Code de procédure pénale - art. 706-42 (VD)
+	  - Code de procédure pénale - art. R15-33-66-8 (V)
+
+
+#### Section 1 : Compétence
+
+###### Article 706-18
+
+Le procureur de la République près un tribunal de grande instance autre que celui de Paris peut, pour les infractions entrant
+dans le champ d'application de l'article 706-16, requérir le juge d'instruction de se dessaisir au profit de la juridiction
+d'instruction de Paris. L'inculpé et la partie civile sont préalablement avisés et invités à faire connaître leurs
+observations ; l'ordonnance est rendue huit jours au plus tôt après cet avis.
+
+L'ordonnance par laquelle le juge d'instruction se dessaisit ne prend effet qu'à compter du délai de cinq jours prévu par
+l'article 706-22 ; lorsqu'un recours est exercé en application de cet article, le juge d'instruction demeure saisi jusqu'à ce
+que l'arrêt de la chambre criminelle de la Cour de cassation soit porté à sa connaissance.
+
+Dès que l'ordonnance est devenue définitive, le procureur de la République adresse le dossier de la procédure au procureur de
+la République de Paris.
+
+Les dispositions du présent article sont applicables devant la chambre de l'instruction.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 58-1296 1958-12-23
+
+	**Créé par**:
+
+	  - Loi n°86-1020 du 9 septembre 1986 - art. 1 () JORF 10 septembre 1986
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°86-1020 du 9 septembre 1986 - art. 10 (M)
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. 706-16 (M)
+
+	**Cité par**:
+
+	  - Code de procédure pénale - art. 706-19 (MMN)
+	  - Code de procédure pénale - art. 706-21 (V)
+	  - Code de procédure pénale - art. 706-22 (MMN)
+
+
+###### Article 706-19
+
+Lorsqu'il apparaît au juge d'instruction de Paris que les faits dont il a été saisi ne constituent pas une des infractions
+entrant dans le champ d'application de l'article 706-16 et ne relèvent pas de sa compétence à un autre titre, ce magistrat se
+déclare incompétent, soit sur requête du procureur de la République, soit, après avis de ce dernier, d'office ou sur requête
+de l'inculpé ou de la partie civile. Les parties qui n'ont pas présenté requête sont préalablement avisées et invitées à
+faire connaître leurs observations ; l'ordonnance est rendue au plus tôt huit jours après cet avis.
+
+Les dispositions du deuxième alinéa de l'article 706-18 sont applicables à l'ordonnance par laquelle le juge d'instruction de
+Paris se déclare incompétent.
+
+Dès que l'ordonnance est devenue définitive, le procureur de la République de Paris adresse le dossier de la procédure au
+procureur de la République territorialement compétent.
+
+Les dispositions du présent article sont applicables lorsque la chambre de l'instruction de la cour d'appel de Paris statue
+sur sa compétence.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 58-1296 1958-12-23
+
+	**Créé par**:
+
+	  - Loi n°86-1020 du 9 septembre 1986 - art. 1 () JORF 10 septembre 1986
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°86-1020 du 9 septembre 1986 - art. 10 (M)
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. 706-16 (M)
+	  - CODE DE PROCEDURE PENALE - art. 706-18 (M)
+
+	**Cité par**:
+
+	  - CODE DE PROCEDURE PENALE - art. 706-21 (M)
+	  - Code de procédure pénale - art. 706-20 (V)
+	  - Code de procédure pénale - art. 706-22 (MMN)
+
+
+###### Article 706-20
+
+Lorsque le tribunal correctionnel ou le tribunal pour enfants de Paris se déclare incompétent pour les motifs prévus par
+l'article 706-19, il renvoie le ministère public à se pourvoir ainsi qu'il avisera ; il peut, le ministère public entendu,
+décerner, par la même décision, mandat de dépôt ou d'arrêt contre le prévenu.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 58-1296 1958-12-23
+
+	**Créé par**:
+
+	  - Loi n°86-1020 du 9 septembre 1986 - art. 1 () JORF 10 septembre 1986
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°86-1020 du 9 septembre 1986 - art. 10 (M)
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. 706-19 (M)
+
+	**Cité par**:
+
+	  - CODE DE PROCEDURE PENALE - art. 706-21 (M)
+
+
+###### Article 706-21
+
+Dans les cas prévus par les articles 706-18 à 706-20, le mandat de dépôt ou d'arrêt conserve sa force exécutoire ; les actes
+de poursuite ou d'instruction et les formalités intervenus avant que la décision de dessaisissement ou d'incompétence soit
+devenue définitive n'ont pas à être renouvelés.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 58-1296 1958-12-23
+
+	**Créé par**:
+
+	  - Loi n°86-1020 du 9 septembre 1986 - art. 1 () JORF 10 septembre 1986
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°86-1020 du 9 septembre 1986 - art. 10 (M)
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. 706-18 (M)
+	  - CODE DE PROCEDURE PENALE - art. 706-19 (M)
+	  - CODE DE PROCEDURE PENALE - art. 706-20 (M)
+
+
+###### Article 706-22
+
+Toute ordonnance rendue sur le fondement de l'article 706-18 ou de l'article 706-19 par laquelle un juge d'instruction statue
+sur son dessaisissement ou le juge d'instruction de Paris statue sur sa compétence peut, à l'exclusion de toute autre voie de
+recours, être déférée dans les cinq jours de sa notification,
+
+à la requête du ministère public, de l'inculpé ou de la partie civile, à la chambre criminelle de la Cour de cassation qui
+désigne, dans les huit jours suivant la date de réception du dossier, le juge d'instruction chargé de poursuivre
+l'information.
+
+La chambre criminelle qui constate que le juge d'instruction du tribunal de grande instance de Paris n'est pas compétent peut
+néanmoins, dans l'intérêt d'une bonne administration de la justice, décider que l'information sera poursuivie à ce tribunal.
+
+L'arrêt de la chambre criminelle est porté à la connaissance du juge d'instruction ainsi qu'au ministère public et signifié à
+l'inculpé et à la partie civile.
+
+Les dispositions du présent article sont applicables à l'arrêt rendu sur le fondement du dernier alinéa des articles 706-18
+et 706-19 par lequel une chambre de l'instruction statue sur son dessaisissement ou sa compétence.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 58-1296 1958-12-23
+
+	**Créé par**:
+
+	  - Loi n°86-1020 du 9 septembre 1986 - art. 1 () JORF 10 septembre 1986
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°86-1020 du 9 septembre 1986 - art. 10 (M)
+
+	**Cité par**:
+
+	  - Loi n°2016-1547 du 18 novembre 2016 - art. 25 (V)
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. 706-19 (M)
+
+
+#### Section 2 : Procédure
+
+###### Article 706-23
+
+Pour l'application des articles 63, 77 et 154, si les nécessités de l'enquête ou de l'instruction relatives à l'une des
+infractions entrant dans le champ d'application de l'article 706-16 l'exigent, la garde à vue d'une personne majeure peut
+faire l'objet d'une prolongation supplémentaire de quarante-huit heures.
+
+Cette prolongation est autorisée soit, à la requête du procureur de la République, par le président du tribunal dans le
+ressort duquel s'exerce la garde à vue ou le juge délégué par lui, soit, dans les cas prévus par les articles 72 et 154, par
+le juge d'instruction.
+
+L'intéressé doit être présenté à l'autorité qui statue sur la prolongation préalablement à sa décision.
+
+Dans le cas où la prolongation est décidée, un examen médical est de droit. Le procureur de la République ou, dans les cas
+prévus par les articles 72 et 154, le juge d'instruction est compétent pour désigner le médecin chargé de cet examen.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 58-1296 1958-12-23
+
+	**Créé par**:
+
+	  - Loi n°86-1020 du 9 septembre 1986 - art. 1 () JORF 10 septembre 1986
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°86-1020 du 9 septembre 1986 - art. 10 (M)
+
+	**Cité par**:
+
+	  - Loi n°2016-731 du 3 juin 2016 - art. 18
+	  - CODE DE PROCEDURE PENALE - art. 865 (M)
+	  - Code pénal - art. 421-2-5-1 (V)
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. 63 (M)
+	  - CODE DE PROCEDURE PENALE - art. 72 (M)
+	  - CODE DE PROCEDURE PENALE - art. 77 (M)
+	  - Code de procédure pénale 63, 72, 77, 154 et 706-16
+
+
+###### Article 706-24
+
+Par dérogation aux dispositions de l'article 76, si les nécessités de l'enquête relatives à l'une des infractions entrant
+dans le champ d'application de l'article 706-16 l'exigent, le président du tribunal de grande instance ou le juge délégué par
+lui peut, à la requête du procureur de la République, décider que les perquisitions, visites domiciliaires et saisies de
+pièces à conviction pourront être faites sans l'assentiment de la personne chez laquelle elles ont lieu.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 58-1296 1958-12-23
+
+	**Créé par**:
+
+	  - Loi n°86-1020 du 9 septembre 1986 - art. 1 () JORF 10 septembre 1986
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°86-1020 du 9 septembre 1986 - art. 10 (M)
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. 706-16 (M)
+	  - CODE DE PROCEDURE PENALE - art. 76 (M)
+
+	**Cité par**:
+
+	  - CODE DE PROCEDURE PENALE - art. 706-24-1 (Ab)
+	  - Code de procédure pénale - art. R50-29 (VD)
+
+
+###### Article 706-25
+
+Pour le jugement des accusés majeurs, la cour d'assises est composée conformément aux dispositions de l'article 698-6.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 58-1296 1958-12-23
+
+	**Créé par**:
+
+	  - Loi n°86-1020 du 9 septembre 1986 - art. 1 () JORF 10 septembre 1986
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°86-1020 du 9 septembre 1986 - art. 10 (M)
+
+	**Cité par**:
+
+	  - Loi n°86-1020 du 9 septembre 1986 - art. 10 (V)
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. 698-6 (M)
+
+
 ## Livre V : Des procédures d'exécution
 
 ### Titre Ier : De l'exécution des sentences pénales
@@ -23605,6 +24252,71 @@ de sûreté pour la durée maximale applicable à la détention restant à subir
 	  - CODE DE PROCEDURE PENALE - art. 729-1 (M)
 	  - CODE DE PROCEDURE PENALE - art. 729-2 (Ab)
 	  - Code de procédure pénale - art. 720-1-1 (VD)
+
+
+###### Article 720-4
+
+Lorsque le condamné présente des gages sérieux de réadaptation sociale, le juge de l'application des peines peut, dans les
+conditions de l'article 722, saisir la juridiction du lieu de détention, de m^eme degré que celle qui a prononcé la
+condamnation pour qu'il soit mis fin à l'application de tout ou partie des dispositions de l'article 720-2 ou pour que la
+durée de la période de s^ureté soit réduite. Si la condamnation a été prononcée par une cour d'assises, la juridiction
+compétente pour statuer sur la demande est la chambre de l'instruction dans le ressort de laquelle le condamné est détenu.
+Toutefois, lorsqu'il a été fait application du 1° de l'article 720-2, la chambre de l'instruction ne peut être saisie
+qu'après que le condamné a subi une incarcération d'une durée au moins égale au deux tiers de la période de sûreté.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 58-1296 1958-12-23
+
+	**Créé par**:
+
+	  - loi 78-1097 1978-11-22 art. 1 JORF 23 novembre 1978
+
+	**Modifié par**:
+
+	  - loi 83-466 1983-06-10 art. 6-IV JORF 11 juin 1983 en vigueur le 27 juin 1983
+	  - Loi n°86-1019 du 9 septembre 1986 - art. 12 () JORF 10 septembre 1986
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°86-1019 du 9 septembre 1986 - art. 19 (V)
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. 720-2 (M)
+	  - CODE DE PROCEDURE PENALE - art. 722 (M)
+
+	**Cité par**:
+
+	  - Code de procédure pénale - art. 720-4-1 (V)
+	  - Code de procédure pénale - art. 720-5 (V)
+
+
+###### Article 720-5
+
+En cas de condamnation à la réclusion criminelle à perpétuité assortie d'une période de sûreté d'une durée supérieure à
+quinze ans, aucune libération conditionnelle ne pourra être accordée avant que le condamné ait été placé pendant une période
+d'un an à trois ans sous le régime de la semi-liberté. Le ministre de la justice, sur proposition établie par le juge de
+l'application des peines après avis de la commission de l'application des peines, décide du placement en semi-liberté et fixe
+la durée de celle-ci. "
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 58-1296 1958-12-23
+
+	**Créé par**:
+
+	  - Loi n°86-1019 du 9 septembre 1986 - art. 14 () JORF 10 septembre 1986
+
+	**Cité par**:
+
+	  - Décret n°2016-1455 du 28 octobre 2016 (V)
+	  - Code de procédure pénale - art. D527-2 (V)
+	  - Code de procédure pénale - art. D541 (V)
 
 
 ###### Article 721
