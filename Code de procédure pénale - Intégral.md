@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 1989-12-01
+Version Consolidée au 1989-12-09
 
 # Partie législative
 
@@ -57683,7 +57683,7 @@ d'épargne doivent être effectués est fixée à 1.000 F.
 
 ###### Article A41-2
 
-Le plafond des subsides pouvant être reçus chaque mois par les condamnés en application de l'article D. 422 est fixé à 1000
+Le plafond des subsides pouvant être reçus chaque mois par les condamnés en application de l'article D 422 est fixé à 1 200
 F.
 
 **Liens relatifs à cet article**
@@ -57694,7 +57694,11 @@ F.
 
 	**Modifié par**:
 
-	  - Arrêté 1987-08-07 art. 1 JORF 25 août 1987
+	  - Arrêté 1989-11-29 art. 1 JORF 9 décembre 1989
+
+	**Abrogé par**:
+
+	  - Arrêté 2000-07-13 art. 1 JORF 27 juillet 2000
 
 	**Cite**:
 
@@ -57703,8 +57707,8 @@ F.
 
 ###### Article A42
 
-La somme prévue au premier alinéa de l'article D. 329 du Code de procédure pénale est fixée à 1000 F par mois. Cette somme es
-doublée à l'occasion des fêtes de fin d'année.
+La somme mensuelle prévue au premier alinéa de l'article D 329 du code de procédure pénale est fixée à 1 200 F.  Cette somme
+est doublée à l'occasion des fêtes de fin d'année.
 
 **Liens relatifs à cet article**
 
@@ -57714,7 +57718,7 @@ doublée à l'occasion des fêtes de fin d'année.
 
 	**Modifié par**:
 
-	  - Arrêté 1987-08-07 art. 2 JORF 25 août 1987
+	  - Arrêté 1989-11-29 art. 2 JORF 9 décembre 1989
 
 	**Cite**:
 
