@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 1983-02-08
+Version Consolidée au 1983-06-27
 
 # Partie législative
 
@@ -85,6 +85,55 @@ représentant légal.
 	**Cite**:
 
 	  - Code pénal 332, 333, 333-1
+
+
+###### Article 2-4
+
+Toute association régulièrement déclarée depuis au moins cinq ans qui se propose, par ses statuts, de combattre les crimes
+contre l'humanité ou les crimes de guerre ou de défendre les intérêts moraux et l'honneur de la Résistance ou des déportés
+peut exercer les droits reconnus à la partie civile en ce qui concerne les crimes de guerre et les crimes contre l'humanité.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°57-1426 1957-12-31
+
+	**Créé par**:
+
+	  - Loi n°81-82 du 2 février 1981 - art. 88 () JORF 3 février 1981
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°83-466 1983-06-10 art. 43
+
+	**Cité par**:
+
+	  - Code de l'urbanisme - art. L430-4-2 (Ab)
+	  - Code de l'urbanisme - art. L480-4 (M)
+
+
+###### Article 2-5
+
+Toute association régulièrement déclarée depuis au moins cinq ans à la date des faits qui se propose, par ses statuts, de
+défendre les intérêts moraux et l'honneur de la Résistance ou des déportés peut exercer les droits reconnus à la partie
+civile en ce qui concerne soit l'apologie des crimes de guerre ou des crimes ou délits de collaboration avec l'ennemi, soit
+les destructions ou dégradations de monuments ou les violations de sépultures, soit les délits de diffamation ou injures, qui
+ont causé un préjudice direct ou indirect à la mission qu'elle remplit.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°57-1426 1957-12-31
+
+	**Créé par**:
+
+	  - Loi n°83-466 1983-06-10 art. 36-II JORF 11 juin 1983 en vigueur le 27 juin 1983
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°83-466 1983-06-10 art. 43
 
 
 ###### Article 3
@@ -1767,6 +1816,38 @@ Les formalités mentionnées aux articles 56, 57 et au présent article sont pre
 	  - CODE DE PROCEDURE PENALE - art. 57 (V)
 
 
+###### Article 61
+
+L'officier de police judiciaire peut défendre à toute personne de s'éloigner du lieu de l'infraction jusqu'à la clôture de
+ses opérations.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°57-1426 1957-12-31
+
+	**Modifié par**:
+
+	  - Ordonnance 61-112 1961-02-02 art. 1 JORF 3 février 1961
+	  - Loi n°81-82 du 2 février 1981 - art. 79 () JORF 3 février 1982
+	  - Loi n°83-466 du 10 juin 1983 - art. 17 () JORF 11 juin 1983 en vigueur le 27 juin 1983
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°83-466 1983-06-10 art. 43
+
+	**Cité par**:
+
+	  - Ordonnance n°91-245 du 25 février 1991 - art. 21 (V)
+	  - CODE DE PROCEDURE PENALE - art. 63 (M)
+	  - Code de justice militaire - art. 82 (Ab)
+	  - Code de justice militaire. - art. L211-3 (VD)
+	  - Code de procédure pénale - art. 62 (VT)
+	  - Code de procédure pénale - art. 78 (M)
+	  - Décret du 20 mai 1903 - art. 119 (Ab)
+
+
 ###### Article 62
 
 L'officier de police judiciaire peut appeler et entendre toutes les personnes susceptibles de fournir des renseignements sur
@@ -1862,49 +1943,6 @@ L'officier de police judiciaire avise de ce droit la personne gardée à vue.
 	  - CODE DE PROCEDURE PENALE - art. 64 (M)
 
 
-###### Article 63-1
-
-**Nota:**
-
-Nota : Articles 63-1 et 64-1 abrogés, loi 83-466 du 10 juin 1983 art. 17.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°57-1426 1957-12-31
-
-	**Créé par**:
-
-	  - Loi n°81-82 1981-02-02 art. 39-I JORF 3 février 1981
-
-	**Abrogé par**:
-
-	  - Loi n°83-466 du 10 juin 1983 - art. 17 () JORF 27 juin 1983
-
-	**Cité par**:
-
-	  - CODE DE PROCEDURE PENALE - art. 171 (M)
-	  - Code de procédure pénale - art. 141-4 (V)
-	  - Code de procédure pénale - art. 154 (V)
-	  - Code de procédure pénale - art. 62 (V)
-	  - Code de procédure pénale - art. 627-5 (V)
-	  - Code de procédure pénale - art. 63 (VD)
-	  - Code de procédure pénale - art. 63-2 (VD)
-	  - Code de procédure pénale - art. 63-4-1 (VD)
-	  - Code de procédure pénale - art. 65 (VD)
-	  - Code de procédure pénale - art. 695-27 (VD)
-	  - Code de procédure pénale - art. 696-10 (VD)
-	  - Code de procédure pénale - art. 706-88 (VD)
-	  - Code de procédure pénale - art. 706-88-1 (VD)
-	  - Code de procédure pénale - art. 712-16-3 (V)
-	  - Code de procédure pénale - art. 77 (VT)
-	  - Code de procédure pénale - art. D15-6 (V)
-	  - Code de procédure pénale - art. D594 (V)
-	  - Code des douanes - art. 323-6 (VD)
-	  - Code des douanes de Mayotte - art. 193-6 (VD)
-
-
 ###### Article 64
 
 Tout officier de police judiciaire doit mentionner sur le procès-verbal d'audition de toute personne gardée à vue la durée
@@ -1948,36 +1986,6 @@ cet avis sera portée au procès-verbal et émargée par la personne intéressé
 	**Modifié par**:
 
 	  - Loi n°81-82 1981-02-02 art. 39-II JORF 3 février 1981
-
-
-###### Article 64-1
-
-**Nota:**
-
-Nota : Articles 63-1 et 64-1 abrogés, loi 83-466 du 10 juin 1983 art. 17.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°57-1426 1957-12-31
-
-	**Créé par**:
-
-	  - Loi n°81-82 1981-02-02 art. 39-III JORF 3 février 1981
-
-	**Abrogé par**:
-
-	  - Loi n°83-466 du 10 juin 1983 - art. 17 () JORF 27 juin 1983
-
-	**Cité par**:
-
-	  - Loi n°2007-291 du 5 mars 2007 - art. 30 (V)
-	  - Arrêté du 14 avril 2008 (V)
-	  - CODE DE PROCEDURE PENALE - art. 154 (VD)
-	  - CODE DE PROCEDURE PENALE - art. A36-11 (V)
-	  - Code de procédure pénale - art. 67 (V)
-	  - Code de procédure pénale - art. D15-6 (V)
 
 
 ###### Article 65
@@ -2346,6 +2354,31 @@ Les gardes à vue sont mentionnées dans les formes prévues aux articles 64 et 
 	**Liens**:
 
 	  - SPEC_APPLI: Loi n°57-1426 1957-12-31art. 18
+
+
+#### Chapitre III : Des contrôles d'identité
+
+###### Article 78-4
+
+La durée de la rétention prévue par l'article précédent s'impute, s'il y a lieu, sur celle de la garde à vue.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°57-1426 1957-12-31
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°83-466 1983-6-10 art. 43
+
+	**Créé par**:
+
+	  - Loi n°83-466 du 10 juin 1983 - art. 21 () JORF 11 juin 1983 en vigueur le 27 juin 1983
+
+	**Cité par**:
+
+	  - CODE DE PROCEDURE PENALE - art. 78-4 (M)
 
 
 ### Titre III : Des juridictions d'instruction
@@ -3708,144 +3741,6 @@ l'objet, ordonne l'apport des pièces, met l'affaire en état et la soumet avec 
 	  - Ordonnance n°58-1296 du 23 décembre 1958 - art. 1 () JORF 24 décembre 1958 en vigueur le 2 mars 1959
 
 
-###### Article 196-1
-
-[*Note : articles 196-1 à 196-6 abrogés, loi 83-466 1983-06-10 art. 17.*]
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°57-1426 1957-12-31
-
-	**Créé par**:
-
-	  - Loi n°81-82 1982-02-02 art. 56 JORF 3 février 1981
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°83-466 1983-06-10 art. 43 al. 4
-
-	**Abrogé par**:
-
-	  - Loi n°83-466 du 10 juin 1983 - art. 17 () JORF 11 juin 1983 en vigueur le 27 juin 1983
-
-
-###### Article 196-2
-
-[*Note : articles 196-1 à 196-6 abrogés, loi 83-466 1983-06-10 art. 17.*]
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°57-1426 1957-12-31
-
-	**Créé par**:
-
-	  - Loi n°81-82 1982-02-02 art. 56 JORF 3 février 1981
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°83-466 1983-06-10 art. 43 al. 4
-
-	**Abrogé par**:
-
-	  - Loi n°83-466 du 10 juin 1983 - art. 17 () JORF 11 juin 1983 en vigueur le 27 juin 1983
-
-
-###### Article 196-3
-
-[*Note : articles 196-1 à 196-6 abrogés, loi 83-466 1983-06-10 art. 17.*]
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°57-1426 1957-12-31
-
-	**Créé par**:
-
-	  - Loi n°81-82 1982-02-02 art. 56 JORF 3 février 1981
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°83-466 1983-06-10 art. 43 al. 4
-
-	**Abrogé par**:
-
-	  - Loi n°83-466 du 10 juin 1983 - art. 17 () JORF 11 juin 1983 en vigueur le 27 juin 1983
-
-
-###### Article 196-4
-
-[*Note : articles 196-1 à 196-6 abrogés, loi 83-466 1983-06-10 art. 17.*]
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°57-1426 1957-12-31
-
-	**Créé par**:
-
-	  - Loi n°81-82 1982-02-02 art. 56 JORF 3 février 1981
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°83-466 1983-06-10 art. 43 al. 4
-
-	**Abrogé par**:
-
-	  - Loi n°83-466 du 10 juin 1983 - art. 17 () JORF 11 juin 1983 en vigueur le 27 juin 1983
-
-
-###### Article 196-5
-
-[*Note : articles 196-1 à 196-6 abrogés, loi 83-466 1983-06-10 art. 17.*]
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°57-1426 1957-12-31
-
-	**Créé par**:
-
-	  - Loi n°81-82 1982-02-02 art. 56 JORF 3 février 1981
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°83-466 1983-06-10 art. 43 al. 4
-
-	**Abrogé par**:
-
-	  - Loi n°83-466 du 10 juin 1983 - art. 17 () JORF 11 juin 1983 en vigueur le 27 juin 1983
-
-
-###### Article 196-6
-
-[*Note : articles 196-1 à 196-6 abrogés, loi 83-466 1983-06-10 art. 17.*]
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°57-1426 1957-12-31
-
-	**Créé par**:
-
-	  - Loi n°81-82 1982-02-02 art. 56 JORF 3 février 1981
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°83-466 1983-06-10 art. 43 al. 4
-
-	**Abrogé par**:
-
-	  - Loi n°83-466 du 10 juin 1983 - art. 17 () JORF 11 juin 1983 en vigueur le 27 juin 1983
-
-
 ###### Article 203
 
 Les infractions sont connexes soit lorsqu'elles ont été commises en même temps par plusieurs personnes réunies, soit
@@ -4310,6 +4205,35 @@ En aucun cas l'interdiction de communiquer ne s'applique au conseil de l'inculp�
 	  - SPEC_APPLI: Ordonnance 58-1296 art. 10
 
 
+###### Article 117
+
+L'inculpé et la partie civile peuvent à tout moment de l'information faire connaître au juge d'instruction le nom du conseil
+choisi par eux ; s'ils désignent plusieurs conseils, ils doivent faire connaître celui d'entre eux auquel seront adressées
+les convocations et notifications ; à défaut de ce choix, celles-ci seront adressées au conseil le premier choisi ainsi qu'au
+deuxième conseil lorsque ce dernier n'est pas inscrit au même barreau que le premier.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°57-1426 1957-12-31
+
+	**Modifié par**:
+
+	  - Ordonnance n°58-1296 du 23 décembre 1958 - art. 1 () JORF 24 décembre 1958
+	  - ordonnance 60-529 1960-06-04 art. 8 JORF 8 juin 1960
+	  - loi 72-1226 1972-12-29 art. 14 JORF 30 décembre 1972
+	  - loi 83-466 1983-06-10 art. 29-I JORF 11 juin 1983 en vigueur le 27 juin 1983
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°83-466 1983-06-10 art. 43
+
+	**Cité par**:
+
+	  - CODE DE PROCEDURE PENALE - art. 104 (M)
+
+
 ###### Article 119
 
 Le procureur de la République peut assister aux interrogatoires et confrontations de l'inculpé et aux auditions de la partie
@@ -4545,6 +4469,73 @@ Les conditions d'application du présent article sont fixées par un décret en 
 
 
 ##### Sous-section 2 : De la détention provisoire
+
+###### Article 144
+
+En matière correctionnelle, si la peine encourue est égale ou supérieure à deux ans d'emprisonnement et si les obligations du
+contrôle judiciaire sont insuffisantes au regard des fonctions définies à l'article 137, la détention provisoire peut être
+ordonnée ou maintenue :
+
+1° Lorsque la détention provisoire de l'inculpé est l'unique moyen de conserver les preuves ou les indices matériels ou
+d'empêcher soit une pression sur les témoins ou les victimes, soit une concertation frauduleuse entre inculpés et complices ;
+
+2° Lorsque cette détention est nécessaire pour préserver l'ordre public du trouble causé par l'infraction ou pour protéger
+l'inculpé, pour mettre fin à l'infraction ou prévenir son renouvellement ou pour garantir le maintien de l'inculpé à la
+disposition de la justice.
+
+La détention provisoire peut également être ordonnée, dans les conditions prévues par l'article 141-2, lorsque l'inculpé se
+soustrait volontairement aux obligations du contrôle judiciaire.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Ordonnance n°45-174 du 2 février 1945 - art. 11 (V)
+	  - Ordonnance n°45-174 du 2 février 1945 - art. 14-2 (V)
+	  - Loi n°95-1 du 2 janvier 1995 - art. 14 (V)
+	  - CODE DE PROCEDURE PENALE - art. 137-1 (MMN)
+	  - CODE DE PROCEDURE PENALE - art. 144-2 (V)
+	  - CODE DE PROCEDURE PENALE - art. 145 (M)
+	  - CODE DE PROCEDURE PENALE - art. 145-2 (V)
+	  - CODE DE PROCEDURE PENALE - art. 187-1 (MMN)
+	  - CODE DE PROCEDURE PENALE - art. 187-3 (V)
+	  - CODE DE PROCEDURE PENALE - art. 215-2 (Ab)
+	  - CODE DE PROCEDURE PENALE - art. 220 (V)
+	  - CODE DE PROCEDURE PENALE - art. 367 (M)
+	  - Code de justice militaire - art. 134 (Ab)
+	  - Code de procédure pénale - art. 135-2 (VD)
+	  - Code de procédure pénale - art. 137-4 (V)
+	  - Code de procédure pénale - art. 144-1 (VT)
+	  - Code de procédure pénale - art. 145-1 (V)
+	  - Code de procédure pénale - art. 147-1 (VD)
+	  - Code de procédure pénale - art. 148 (VT)
+	  - Code de procédure pénale - art. 179 (VD)
+	  - Code de procédure pénale - art. 181 (VT)
+	  - Code de procédure pénale - art. 396 (V)
+	  - Code de procédure pénale - art. 397-3 (V)
+	  - Code de procédure pénale - art. 397-3-1 (V)
+	  - Code de procédure pénale - art. 803-7 (V)
+	  - Code de procédure pénale - art. 82 (V)
+
+	**Codifié par**:
+
+	  - Loi n°57-1426 1957-12-31
+
+	**Modifié par**:
+
+	  - Loi n°81-82 du 2 février 1981 - art. 40 () JORF 3 février 1981
+	  - Loi n°83-466 1983-06-10 art. 19-I et 19-II JORF 11 juin 1983 en vigueur le 27 juin 1983
+	  - Loi n°70-463 1970-07-17 art. 1 JORF 19 juillet 1970
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°83-466 1983-06-10 art. 43
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. 137 (M)
+	  - CODE DE PROCEDURE PENALE - art. 141-2 (M)
+
 
 ###### Article 148-1
 
@@ -5310,6 +5301,39 @@ de grande instance désigné par le président de ce tribunal.
 
 
 ##### Section 2 : Des pouvoirs propres du président de la chambre d'accusation
+
+###### Article 220
+
+Le président de la chambre d'accusation s'assure du bon fonctionnement des cabinets d'instruction du ressort de la cour
+d'appel. Il vérifie notamment les conditions d'application des alinéas 4 et 5 de l'article 81 et s'emploie à ce que les
+procédures ne subissent aucun retard injustifié.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°57-1426 1957-12-31
+
+	**Modifié par**:
+
+	  - Ordonnance 60-529 1960-06-04 art. 8 JORF 8 juin 1960
+	  - Loi n°81-82 1981-02-02 art. 55-I JORF 3 février 1981
+	  - Loi n°83-466 du 10 juin 1983 - art. 17 () JORF 11 juin 1983 en vigueur le 27 juin 1983
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°85-1303 1985-12-10 art. 42
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. 81 (M)
+
+	**Cité par**:
+
+	  - Code de procédure pénale - art. D43-2 (V)
+	  - Code de procédure pénale - art. D43-3 (V)
+	  - Code de procédure pénale - art. R200 (Ab)
+
 
 ###### Article 222
 
@@ -6895,6 +6919,40 @@ où il juge que leur déclaration peut être utile pour la découverte de la vé
 	  - Code de procédure pénale - art. 329 (V)
 
 
+###### Article 282
+
+La liste des jurés de session telle qu'elle a été arrêtée conformément aux prescriptions de l'article 266 est signifiée à
+chaque accusé au plus tard l'avant-veille de l'ouverture des débats.
+
+Cette liste doit contenir des indications suffisantes pour permettre l'identification des jurés, à l'exception de celles
+concernant leur domicile ou résidence. Toutefois, ces dernières indications doivent être communiquées au conseil de chacun
+des accusés dès qu'il en ferait la demande.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 58-1296 1958-12-23
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°83-466 1983-06-10 art. 43
+
+	**Modifié par**:
+
+	  - Loi n°83-466 du 10 juin 1983 - art. 31 () JORF 11 juin 1983 en vigueur le 27 juin 1983
+	  - Ordonnance 60-529 1960-06-08 art. 8 JORF 8 juin 1960
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. 266 (M)
+
+	**Cité par**:
+
+	  - CODE DE PROCEDURE PENALE - art. 706-1 (M)
+	  - Code de procédure pénale - art. 698-6 (V)
+
+
 ##### Section 2 : Des actes facultatifs ou exceptionnels
 
 ###### Article 283
@@ -7243,6 +7301,72 @@ Une carte portant leur nom est déposée dans une urne.
 	**Cité par**:
 
 	  - Code de procédure pénale - art. 698-6 (V)
+
+
+###### Article 296
+
+Le jury de jugement est formé de neuf jurés.
+
+La cour doit , par arrêt, ordonner, avant le tirage de la liste des jurés, qu'indépendamment des neuf jurés, il soit tiré au
+sort un ou plusieurs jurés supplémentaires qui assistent aux débats.
+
+Dans le cas où l'un ou plusieurs des neuf jurés seraient empêchés de suivre les débats jusqu'au prononcé de l'arrêt de la
+cour d'assises, ils sont remplacés par les jurés supplémentaires.
+
+Le remplacement se fait suivant l'ordre dans lequel les jurés supplémentaires ont été appelés par le sort.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 58-1296 1958-12-23
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°83-466 1983-06-10 art. 43
+
+	**Modifié par**:
+
+	  - Loi n°83-466 du 10 juin 1983 - art. 32 () JORF 11 juin 1983 en vigueur le 27 juin 1983
+
+	**Cité par**:
+
+	  - CODE DE PROCEDURE PENALE - art. 921 (V)
+	  - Code de procédure pénale - art. 297 (V)
+
+
+###### Article 297
+
+L'accusé ou son conseil d'abord, le ministère public ensuite, récusent tels jurés qu'ils jugent à propos, à mesure que leurs
+noms sortent de l'urne, sauf la limitation exprimée à l'article 298.
+
+L'accusé, son conseil, ni le ministère public ne peuvent exposer leur motifs de récusation.
+
+Le jury de jugement est formé à l'instant où sont sortis de l'urne neuf noms de jurés non récusés et les noms des jurés
+supplémentaires prévus par l'article 296.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 58-1296 1958-12-23
+
+	**Modifié par**:
+
+	  - Loi n°83-466 du 10 juin 1983 - art. 32 () JORF 11 juin 1983 en vigueur le 27 juin 1983
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. 296 (M)
+	  - CODE DE PROCEDURE PENALE - art. 298 (M)
+
+	**Cité par**:
+
+	  - CODE DE PROCEDURE PENALE - art. 921 (V)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°83-466 1983-06-20 art. 43
 
 
 ###### Article 298
@@ -9384,6 +9508,42 @@ d'office, soit sur réquisition du ministère public, ou à la requête d'une de
 	  - Ordonnance 58-1296 1958-12-23
 
 
+###### Article 388
+
+Le tribunal correctionnel est saisi des infractions de sa compétence soit par la comparution volontaire des parties, soit par
+la citation, soit par la convocation par procès-verbal, soit par la comparution immédiate, soit enfin par le renvoi ordonné
+par la juridiction d'instruction.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Loi n°1908-08-05 du 5 août 1908 - art. 2 (V)
+	  - Ordonnance n°45-2138 du 19 septembre 1945 - art. 20 (V)
+	  - Loi n°46-942 du 7 mai 1946 - art. 7 (M)
+	  - CODE DE PROCEDURE PENALE - art. 495-12 (V)
+	  - Code de l'environnement - art. L428-33 (M)
+	  - Code de la santé publique - art. L375 (Ab)
+	  - Code de la santé publique - art. L4161-4 (V)
+	  - Code de procédure pénale - art. 9-2 (V)
+	  - Code rural - art. L228-41 (Ab)
+	  - Code rural ancien - art. 389 (Ab)
+
+	**Codifié par**:
+
+	  - Ordonnance 58-1296 1958-12-23
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°83-466 1983-06-10 art. 43
+
+	**Modifié par**:
+
+	  - Loi n°83-466 du 10 juin 1983 - art. 23 () JORF 11 juin 1983 en vigueur le 27 juin 1983
+	  - Loi n°75-701 1975-02-01 art. 8 JORF 7 août 1975 en vigueur le 1er janvier 1976
+	  - Loi n°81-82 1982-02-02 art. 48 JORF 3 février 1981
+
+
 ##### Paragraphe 2 : De la comparution volontaire et de la citation
 
 ###### Article 389
@@ -9472,11 +9632,105 @@ domicile dans le ressort du tribunal saisi, à moins qu'elle n'y soit domicilié
 	  - Ordonnance 58-1296 1958-12-23
 
 
-##### Paragraphe 3 : De la convocation par procès-verbal et de la compuration immédiate
+##### Paragraphe 3 : De la convocation par procès-verbal et de la comparution immédiate
 
-###### Article 397-7
+###### Article 393
 
-*Article abrogé*.
+En matière correctionnelle, après avoir constaté l'identité de la personne qui lui est déférée, lui avoir fait connaître les
+faits qui lui sont reprochés et avoir recueilli ses déclarations si elle en fait la demande, le procureur de la République
+peut, s'il estime qu'une information n'est pas nécessaire, procéder comme il est dit aux articles 394 à 396.
+
+Le procureur de la République informe alors la personne déférée devant lui qu'elle a le droit à l'assistance d'un conseil de
+son choix ou commis d'office. L'avocat choisi ou, dans le cas d'une demande de commission d'office, le bâtonnier de l'Ordre
+des avocats, en est avisé sans délai.
+
+L'avocat peut consulter sur-le-champ le dossier et communiquer librement avec le prévenu.
+
+Mention de ces formalités est faite au procès-verbal à peine de nullité de la procédure.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Ordonnance n°45-174 du 2 février 1945 - art. 5 (V)
+	  - Ordonnance n°45-1484 du 30 juin 1945 - art. 20 (Ab)
+	  - Ordonnance n°58-1331 du 23 décembre 1958 - art. 11 (V)
+	  - Loi n°91-647 du 10 juillet 1991 - art. 64-1-2 (V)
+	  - Décret n°2015-271 du 11 mars 2015 (V)
+	  - CODE DE PROCEDURE PENALE - art. 393-1 (V)
+	  - CODE DE PROCEDURE PENALE - art. 495-12 (V)
+	  - CODE PENAL - art. 108 (Ab)
+	  - Code de procédure pénale - art. 397-6 (V)
+	  - Code de procédure pénale - art. 397-7 (V)
+	  - Code de procédure pénale - art. 495-7 (V)
+	  - Code de procédure pénale - art. 706-106 (VT)
+	  - Code de procédure pénale - art. 77-2 (V)
+	  - Code de procédure pénale - art. D45-19 (VD)
+	  - Code de procédure pénale - art. D594 (V)
+
+	**Codifié par**:
+
+	  - Ordonnance 58-1296 1958-12-23
+
+	**Modifié par**:
+
+	  - Loi n°75-701 1975-08-06 art. 9 JORF 7 août 1975 en vigueur le 1er janvier 1976
+	  - Loi n°81-82 1981-02-02 art. 51-I JORF 3 février 1981
+	  - Loi n°83-466 du 10 juin 1983 - art. 25 () JORF 11 juin 1983 en vigueur le 27 juin 1983
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°83-466 1983-06-10 art. 43
+
+	**Cite**:
+
+	  - Code de procédure pénale 394 à 396
+
+
+###### Article 397
+
+Lorsque le tribunal est saisi en application des articles 395 et 396, troisième alinéa, le président constate l'identité du
+prévenu, son conseil ayant été avisé. Il avertit le prévenu qu'il ne peut être jugé le jour même qu'avec son accord ;
+toutefois, cet accord ne peut être recueilli qu'en présence de son avocat ou, si celui-ci n'est pas présent, d'un avocat
+désigné d'office sur sa demande par le bâtonnier.
+
+Si le prévenu consent à être jugé séance tenante, mention en est faite dans les notes d'audience.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 58-1296 1958-12-23
+
+	**Modifié par**:
+
+	  - Loi n°70-643 du 17 juillet 1970 - art. 9 () JORF 19 juillet 1970
+	  - Loi n°75-701 1975-08-06 art. 13 JORF 7 août 1975 en vigueur le 1er janvier 1976
+	  - Loi n°81-82 1981-02-02 art. 51-I JORF 3 février 1981
+	  - Loi n°83-466 du 10 juin 1983 - art. 25 () JORF 11 juin 1983 en vigueur le 27 juin 1983
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°83-466 1983-06-10 art. 43
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. 395 (M)
+	  - Code de procédure pénale 395, 396 al. 3
+
+
+###### Article 397-4
+
+Dans le cas où le prévenu est condamné à un emprisonnement sans sursis, le tribunal saisi en application des articles 395 et
+suivants peut, quelle que soit la durée de la peine, ordonner, d'après les éléments de l'espèce, le placement ou le maintien
+en détention par décision spécialement motivée. Les dispositions des articles 148-2 et 471, deuxième alinéa, sont
+applicables.
+
+La cour statue dans les quatre mois de l'appel du jugement rendu sur le fond interjeté par le prévenu détenu, faute de quoi
+celui-ci, s'il n'est pas détenu pour une autre cause, est mis d'office en liberté.
+
+Si la juridiction estime devoir décerner un mandat d'arrêt, les dispositions de l'article 465 sont applicables, quelle que
+soit la durée de la peine prononcée.
 
 **Liens relatifs à cet article**
 
@@ -9492,13 +9746,161 @@ domicile dans le ressort du tribunal saisi, à moins qu'elle n'y soit domicilié
 
 	  - SPEC_APPLI: Loi n°83-466 1983-06-10 art. 43
 
-	**Abrogé par**:
+	**Modifié par**:
+
+	  - Loi n°83-466 du 10 juin 1983 - art. 25 () JORF 11 juin 1983 en vigueur le 27 juin 1983
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. 148-2 (M)
+	  - CODE DE PROCEDURE PENALE - art. 395 (M)
+	  - CODE DE PROCEDURE PENALE - art. 465 (M)
+	  - CODE DE PROCEDURE PENALE - art. 471 (M)
+
+	**Cité par**:
+
+	  - Code pénal - art. 132-25 (V)
+	  - Code pénal - art. 132-26-1 (V)
+
+
+###### Article 397-5
+
+Dans tous les cas prévus par le présent paragraphe et par dérogation aux dispositions des articles 550 et suivants, les
+témoins peuvent être cités sans délai et par tout moyen. Lorsqu'ils sont requis verbalement par un officier de police
+judiciaire ou un agent de la force publique, ils sont tenus de comparaître sous les sanctions portées aux articles 438 à 441.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 58-1296 1958-12-23
+
+	**Créé par**:
+
+	  - Loi n°81-82 1981-02-02 art. 51-I JORF 3 février 1981
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°83-466 1983-06-10 art. 43
+
+	**Modifié par**:
+
+	  - Loi n°83-466 du 10 juin 1983 - art. 25 () JORF 11 juin 1983 en vigueur le 27 juin 1983
+
+	**Cite**:
+
+	  - Code de procédure pénale - art. 438 (V)
+	  - Code de procédure pénale - art. 550 (V)
+
+
+###### Article 397-6
+
+Les dispositions des articles 393 à 397-5 ne sont applicables ni aux mineurs, ni en matière de délits de presse, de délits
+politiques ou d'infractions dont la procédure de poursuite est prévue par une loi spéciale.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 58-1296 1958-12-23
+
+	**Créé par**:
+
+	  - Loi n°81-82 1981-02-02 art. 51-I JORF 3 février 1981
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°83-466 1983-06-10 art. 43
+
+	**Modifié par**:
+
+	  - Loi n°83-466 du 10 juin 1983 - art. 25 () JORF 11 juin 1983 en vigueur le 27 juin 1983
+
+	**Cite**:
+
+	  - Code de procédure pénale - art. 393 (V)
+
+
+##### Paragraphe 3 : De la convocation par procès-verbal et de la compuration immédiate
+
+###### Article 394
+
+Le procureur de la République peut inviter la personne déférée à comparaître devant le tribunal dans un délai qui ne peut
+être inférieur à dix jours, sauf renonciation expresse de l'intéressé en présence de son avocat, ni supérieur à deux mois. Il
+lui notifie les faits retenus à son encontre ainsi que le lieu, la date et l'heure de l'audience. Cette notification,
+mentionnée au procès-verbal dont copie est remise sur-le-champ au prévenu, vaut citation à personne.
+
+L'avocat choisi ou le bâtonnier est informé, par tout moyen et sans délai, de la date et de l'heure de l'audience ; mention
+de cet avis est portée au procès-verbal. Le conseil peut, à tout moment, consulter le dossier.
+
+Si le procureur de la République estime nécessaire de soumettre le prévenu jusqu'à sa comparution devant le tribunal à une ou
+plusieurs obligations du contrôle judiciaire, il le traduit sur-le-champ devant le président du tribunal ou le juge délégué
+par lui, statuant en chambre du conseil avec l'assistance d'un greffier. Ce magistrat peut, après audition du prévenu, son
+conseil ayant été avisé et entendu en ses observations, s'il le demande, prononcer cette mesure dans les conditions et
+suivant les modalités prévues par les articles 138, 139, premier et deuxième alinéas, et 141, alinéa premier. Cette décision
+est notifiée verbalement au prévenu et mentionnée au procès-verbal dont copie lui est remise sur-le-champ.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 58-1296 1958-12-23
+
+	**Modifié par**:
+
+	  - Loi n°75-701 1975-08-06 art. 10 JORF 7 août 1975 en vigueur le 1er janvier 1976
+	  - Loi n°81-82 1981-02-02 art. 51-I JORF 3 février 1981
+	  - Loi n°83-466 du 10 juin 1983 - art. 25 () JORF 11 juin 1983 en vigueur le 27 juin 1983
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°83-466 1983-06-10 art. 43
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. 138 (M)
+	  - CODE DE PROCEDURE PENALE - art. 139 (M)
+	  - CODE DE PROCEDURE PENALE - art. 141 (Ab)
+
+	**Cité par**:
+
+	  - Code de procédure pénale - art. 393 (V)
+	  - Code de procédure pénale - art. 393-1 (V)
+	  - Code de procédure pénale - art. 396 (M)
+	  - Code de procédure pénale - art. 397-7 (V)
+	  - Code de procédure pénale - art. 495-10 (VD)
+	  - Code de procédure pénale - art. 80 (VT)
+	  - Code de procédure pénale - art. D32-20 (V)
+
+
+###### Article 397-1
+
+Si le prévenu ne consent pas à être jugé séance tenante ou si l'affaire ne paraît pas en état d'être jugée, le tribunal après
+avoir recueilli les observations des parties et de leur conseil, renvoie à une prochaine audience fixée au plus tôt le
+cinquième et au plus tard le trentième jour suivant.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 58-1296 1958-12-23
+
+	**Créé par**:
+
+	  - loi 81-82 1981-02-02 art. 51-I JORF 3 février 1981
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°83-466 1983-06-10 art. 43
+
+	**Modifié par**:
 
 	  - Loi n°83-466 du 10 juin 1983 - art. 25 () JORF 11 juin 1983 en vigueur le 27 juin 1983
 
 	**Cité par**:
 
-	  - CODE DE PROCEDURE PENALE - art. D15-4-2 (VD)
+	  - Code de procédure pénale - art. 397-3 (V)
+	  - Code de procédure pénale - art. 706-106 (VT)
 
 
 ##### Section 2 : De la composition du tribunal et de la tenue des audiences
@@ -9636,6 +10038,38 @@ ses substituts ; celles du greffe par un greffier du tribunal de grande instance
 	**Nouveaux textes**:
 
 	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L881-4 (Ab)
+
+
+###### Article 399
+
+Le nombre des audiences correctionnelles est déterminé à la fin de chaque année judiciaire pour l'année judiciaire suivante
+par l'assemblée générale du tribunal.
+
+Il peut être modifié dans les mêmes conditions en cours d'année, suivant les nécessités.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Ordonnance n°45-174 du 2 février 1945 - art. 13-1 (V)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R*761-24 (Ab)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R*761-26 (Ab)
+	  - CODE DE PROCEDURE PENALE - art. 926 (V)
+	  - Code de procédure pénale - art. 838 (V)
+	  - Code de procédure pénale - art. 877 (V)
+
+	**Codifié par**:
+
+	  - Ordonnance 58-1296 1958-12-23
+
+	**Modifié par**:
+
+	  - Loi n°81-82 du 2 février 1981 - art. 42 () JORF 3 février 1981
+	  - Loi n°83-466 du 10 juin 1983 - art. 18 () JORF 11 juin 1983 en vigueur le 27 juin 1983
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°83-466 1983-06-10 art. 43
 
 
 ##### Section 3 : De la publicité et de la police de l'audience
@@ -11442,6 +11876,55 @@ ou qu'il n'est pas imputable au prévenu, il renvoie celui-ci des fins de la pou
 	  - Code de procédure pénale - art. 472 (V)
 
 
+###### Article 471
+
+Nonobstant appel, le prévenu détenu qui n'a pas été condamné à une peine d'emprisonnement sans sursis est mis en liberté
+immédiatement après le jugement.
+
+Il en est de même en cas de condamnation à une peine d'emprisonnement, lorsque la détention provisoire a été ordonnée ou
+maintenue en application de l'article 464-1 ou de l'article 465, premier alinéa, aussitôt que la durée de la détention a
+atteint celle de la peine prononcée.
+
+Le contrôle judiciaire prend fin sauf si le tribunal en décide autrement lorsqu'il prononce une condamnation à
+l'emprisonnement sans sursis ou assorti du sursis avec mise à l'épreuve.
+
+Les sanctions pénales prononcées en application des articles 43-1 à 43-4 du Code pénal peuvent être déclarées exécutoires par
+provision.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 58-1296 1958-12-23
+
+	**Modifié par**:
+
+	  - Loi n°70-643 du 17 juillet 1970 - art. 12 () JORF 19 juillet 1970
+	  - Loi n°75-624 du 11 juillet 1975 - art. 26 () JORF 13 juillet 1975 en vigueur le 1er janvier 1976
+	  - Loi n°83-466 1983-06-10 art. 35-I JORF 11 juin 1983 en vigueur le 27 juin 1983
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°83-466 1983-06-10 art. 43
+
+	**Cite**:
+
+	  - Code pénal 43-1 à 43-4
+	  - CODE DE PROCEDURE PENALE - art. 464-1 (V)
+	  - Code de procédure pénale 464-1, 465 al. 1
+
+	**Cité par**:
+
+	  - CODE DE PROCEDURE PENALE - art. 506 (V)
+	  - CODE DE PROCEDURE PENALE - art. R121-3 (V)
+	  - Code de procédure pénale - art. 397-4 (V)
+	  - Code de procédure pénale - art. R121-1 (V)
+	  - Code de procédure pénale - art. R92 (V)
+	  - Code du travail - art. R8211-2 (V)
+	  - Code du travail - art. R8211-3 (V)
+	  - Code du travail - art. R8211-4 (V)
+
+
 ###### Article 472
 
 Dans le cas prévu par l'article 470, lorsque la partie civile a elle-même mis en mouvement l'action publique, le tribunal
@@ -12232,6 +12715,42 @@ substituts ; celles du greffe par un greffier de la cour d'appel.
 	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L224-1 (Ab)
 
 
+###### Article 511
+
+Le nombre des audiences correctionnelles est déterminé à la fin de chaque année judiciaire pour l'année judiciaire suivante
+par l'assemblée générale de la cour.
+
+Il peut être modifié dans les mêmes conditions en cours d'année, suivant les nécessités.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 58-1296 1958-12-23
+
+	**Modifié par**:
+
+	  - Loi n°81-82 du 2 février 1981 - art. 43 () JORF 3 février 1981
+	  - Loi n°83-466 du 10 juin 1983 - art. 18 () JORF 11 juin 1983 en vigueur le 27 juin 1983
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°83-466 1983-06-10 art. 43
+
+	**Cité par**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L224-1 (Ab)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R*761-23 (Ab)
+	  - CODE DE PROCEDURE PENALE - art. 926 (M)
+	  - CODE DE PROCEDURE PENALE - art. 928-1 (V)
+	  - Code de l'organisation judiciaire - art. R312-42 (V)
+	  - Code de procédure pénale - art. 549 (VD)
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L224-1 (Ab)
+
+
 ##### Section 3 : De la procédure devant la chambre des appels correctionnels
 
 ###### Article 512
@@ -12444,6 +12963,49 @@ Si le jugement est annulé pour violation ou omission non réparée de formes pr
 ### Titre III : Du jugement des contraventions
 
 #### Chapitre Ier : De la compétence du tribunal de police
+
+###### Article 522
+
+Est compétent le tribunal de police du lieu de commission ou de constatation de la contravention ou celui de la résidence du
+prévenu.
+
+Est également compétent le tribunal de police du siège de l'entreprise détentrice du véhicule en cas de contravention, soit
+aux règles relatives au chargement ou à l'équipement de ce véhicule, soit aux conditions de travail dans les transports
+routiers, soit à la coordination des transports.
+
+Les articles 383 à 387 sont applicables au jugement des infractions de la compétence du tribunal de police.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: Ordonnance 58-1273 1958-12-22 art. 18
+	  - SPEC_APPLI: Ordonnance n°58-1296 du 23 décembre 1958 - art. 10, v. init.
+	  - SPEC_APPLI: Loi n°83-466 1983-06-10 art. 43
+
+	**Codifié par**:
+
+	  - Ordonnance 58-1296 1958-12-23
+
+	**Modifié par**:
+
+	  - Loi n°83-466 du 10 juin 1983 - art. 37 () JORF 11 juin 1983 en vigueur le 27 juin 1983
+
+	**Cité par**:
+
+	  - CODE DE PROCEDURE PENALE - art. 706-2 (Ab)
+	  - Code de procédure pénale - art. 43 (V)
+	  - Code de procédure pénale - art. 705 (MMN)
+	  - Code de procédure pénale - art. 705-5 (V)
+	  - Code de procédure pénale - art. 706-109 (MMN)
+	  - Code de procédure pénale - art. 706-178 (V)
+	  - Code de procédure pénale - art. 706-76 (MMN)
+	  - Décret-loi du 30 octobre 1935 - art. 76 (MMN)
+
+	**Cite**:
+
+	  - Code de procédure pénale 383 à 387
+
 
 ###### Article 523
 
@@ -18615,6 +19177,142 @@ du conseil lorsque l'exécution de la peine doit être interrompue pendant plus 
 	  - Code de procédure pénale - art. D340 (Ab)
 
 
+###### Article 720-2
+
+En cas de condamnation à une peine privative de liberté, non assortie du sursis, dont la durée est égale ou supérieure à dix
+ans, prononcée en application des articles 302 (alinéa 1), 303 et 304, 310 à 312, 334-1 à 335, 341 (1°, 2° et 3°) et 342 à
+344, 382, troisième à septième alinéas, 384 et 462 du Code pénal ou de l'article L. 627 du Code de la santé publique, le
+condamné ne peut bénéficier pendant une période de sûreté des dispositions concernant la suspension ou le fractionnement de
+la peine, le placement à l'extérieur, les permissions de sortir, la semi-liberté et la libération conditionnelle. La durée de
+la période de sûreté est de la moitié de la peine ou, s'il s'agit d'une condamnation à la réclusion criminelle à perpétuité,
+de quinze ans. La cour d'assises ou le tribunal peut toutefois, par décision spéciale, soit porter ces durées jusqu'aux deux
+tiers de la peine ou, s'il s'agit d'une condamnation à la réclusion criminelle à perpétuité, jusqu'à dix-huit ans, soit
+exceptionnellement décider de réduire ces durées.
+
+Dans les autres cas, lorsqu'elle prononce une peine privative de liberté d'une durée supérieure à trois ans, non assortie du
+sursis, la juridiction peut fixer une période de sûreté pendant laquelle le condamné ne peut bénéficier d'aucune des
+modalités d'exécution de la peine mentionnées au premier alinéa. La durée de cette période de sûreté ne peut excéder les deux
+tiers de la peine prononcée ou dix-huit ans en cas de condamnation à la réclusion criminelle à perpétuité.
+
+Les réductions de peine accordées pendant la période de sûreté ne seront imputées que sur la partie de la peine excédant
+cette durée.
+
+Sauf s'il en est décidé autrement par le décret de grâce, la commutation ou la remise d'une peine au moins égale à dix ans
+d'incarcération sanctionnant une infraction mentionnée au premier alinéa entraîne de plein droit l'application de la période
+de sûreté pour la durée maximale applicable à la détention restant à subir.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: Ordonnance 58-1273 1958-12-22 art. 18
+	  - SPEC_APPLI: Ordonnance n°58-1296 du 23 décembre 1958 - art. 10, v. init.
+	  - SPEC_APPLI: Loi n°83-466 1983-06-10 art. 43
+
+	**Codifié par**:
+
+	  - Ordonnance 58-1296 1958-12-23
+
+	**Créé par**:
+
+	  - loi 78-1097 1978-11-22 art. 1 JORF 23 novembre 1978
+
+	**Modifié par**:
+
+	  - Loi n°81-82 du 2 février 1981 - art. 35 () JORF 3 février 1981
+	  - loi 83-466 1983-06-10 art. 6-I JORF 11 juin 1983 en vigueur le 27 juin 1983
+
+	**Cite**:
+
+	  - Code pénal 301 al. 1, 303, 304, 310 à 312, 334-1 à 335, 341 (1°, 2°, 3°), 342 à 344, 382 al. 3 et al. 7, 384, 462
+	  - Code de la santé publique - art. L627 (M)
+
+	**Cité par**:
+
+	  - CODE DE PROCEDURE PENALE - art. 720-3 (Ab)
+	  - CODE DE PROCEDURE PENALE - art. 720-4 (M)
+	  - CODE DE PROCEDURE PENALE - art. 729-1 (M)
+	  - CODE DE PROCEDURE PENALE - art. 729-2 (Ab)
+	  - Code de procédure pénale - art. 720-1-1 (VD)
+
+
+###### Article 722
+
+Auprès de chaque établissement pénitentiaire, le juge de l'application des peines détermine pour chaque condamné les
+principales modalités du traitement pénitentiaire. Dans les limites et conditions prévues par la loi, il accorde les
+placements à l'extérieur, la semi-liberté, les réductions, fractionnements et suspensions de peines, les autorisations de
+sortie sous escorte, les permissions de sortir, la libération conditionnelle ou il saisit la juridiction compétente pour
+aménager l'exécution de la peine. Sauf urgence, il statue après avis de la commission de l'application des peines.
+
+Cette commission est réputée avoir rendu son avis si celui-ci n'est pas intervenu dans le délai d'un mois à compter du jour
+de sa saisine.
+
+Le juge de l'application des peines donne en outre son avis, sauf urgence, sur le transfert des condamnés d'un établissement
+à un autre.
+
+La commission de l'application des peines est présidée par le juge de l'application des peines ; le procureur de la
+République et le chef de l'établissement en sont membres de droit.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 58-1296 1958-12-23
+
+	**Modifié par**:
+
+	  - loi 72-1226 1972-12-29 art. 37 JORF 30 décembre 1972
+	  - loi 78-788 1978-07-28 art. 25-I et art. 25-II JORF 29 juillet 1978
+	  - loi 78-1097 1978-11-22 art. 2 JORF 23 novembre 1978
+	  - loi 81-82 1981-02-02 art. 36-I et art. 86-II JORF 3 février 1981
+	  - loi 83-466 1983-06-10 art. 6-I et 6-II JORF 11 juin 1982 en vigueur le 27 juin 1983
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°83-466 1983-06-10 art. 43
+
+	**Cité par**:
+
+	  - Loi n°2000-516 du 15 juin 2000 - art. 140 (V)
+	  - Décret n°2000-1388 du 30 décembre 2000 - art. 1 (V)
+	  - Décret n°2000-1388 du 30 décembre 2000 - art. 4 (V)
+	  - Décret n°2000-1388 du 30 décembre 2000 - art. 5 (V)
+	  - Décret n°2000-1388 du 30 décembre 2000 - art. 6 (V)
+	  - Décret n°2001-52 du 17 janvier 2001 - art. 3 (V)
+	  - Loi n°2004-204 du 9 mars 2004 - art. 207 (V)
+	  - Décret n°2004-837 du 20 août 2004 - art. 11 (V)
+	  - Décret n°2004-837 du 20 août 2004 - art. 15 (V)
+	  - Décret n°2004-837 du 20 août 2004 - art. 7 (V)
+	  - CODE DE PROCEDURE PENALE - art. 720-1 (M)
+	  - CODE DE PROCEDURE PENALE - art. 720-1-1 (M)
+	  - CODE DE PROCEDURE PENALE - art. 720-4 (M)
+	  - CODE DE PROCEDURE PENALE - art. 722-2 (Ab)
+	  - CODE DE PROCEDURE PENALE - art. 730 (M)
+	  - CODE DE PROCEDURE PENALE - art. 733-1 (Ab)
+	  - CODE DE PROCEDURE PENALE - art. D116 (M)
+	  - CODE DE PROCEDURE PENALE - art. D116-1 (M)
+	  - CODE DE PROCEDURE PENALE - art. D116-10 (Ab)
+	  - CODE DE PROCEDURE PENALE - art. D116-12 (Ab)
+	  - CODE DE PROCEDURE PENALE - art. D116-13 (Ab)
+	  - CODE DE PROCEDURE PENALE - art. D116-16-1 (Ab)
+	  - CODE DE PROCEDURE PENALE - art. D116-2 (M)
+	  - CODE DE PROCEDURE PENALE - art. D116-4 (V)
+	  - CODE DE PROCEDURE PENALE - art. D116-5 (Ab)
+	  - CODE DE PROCEDURE PENALE - art. D116-6 (Ab)
+	  - CODE DE PROCEDURE PENALE - art. D116-7 (Ab)
+	  - CODE DE PROCEDURE PENALE - art. D116-8 (Ab)
+	  - CODE DE PROCEDURE PENALE - art. D116-9 (Ab)
+	  - CODE DE PROCEDURE PENALE - art. D117-1 (M)
+	  - CODE DE PROCEDURE PENALE - art. D117-2 (M)
+	  - CODE DE PROCEDURE PENALE - art. D124 (M)
+	  - CODE DE PROCEDURE PENALE - art. D145 (M)
+	  - CODE DE PROCEDURE PENALE - art. D147-2 (M)
+	  - CODE DE PROCEDURE PENALE - art. D147-4 (M)
+	  - CODE DE PROCEDURE PENALE - art. D49-1 (M)
+	  - CODE DE PROCEDURE PENALE - art. D519 (M)
+	  - CODE DE PROCEDURE PENALE - art. R200 (M)
+
+
 ###### Article 723-2
 
 Lorsqu'il a été fait application des dispositions de l'article précédent, si les conditions qui ont permis au tribunal de
@@ -18679,38 +19377,6 @@ lui permettre d'accomplir une obligation exigeant sa présence.
 	  - Code de procédure pénale - art. D365 (V)
 	  - Code de procédure pénale - art. D425 (Ab)
 	  - Code de procédure pénale - art. D508 (V)
-
-
-###### Article 723-4
-
-[Article abrogé].
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance 58-1296 1958-12-23
-
-	**Créé par**:
-
-	  - loi 78-1097 1978-11-22 art. 4 JORF 23 novembre 1978
-
-	**Modifié par**:
-
-	  - Loi n°81-82 du 2 février 1981 - art. 37 () JORF 3 février 1981
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°83-466 1983-06-10 art. 43
-
-	**Abrogé par**:
-
-	  - Loi n°83-466 du 10 juin 1983 - art. 6 () JORF 11 juin 1983 en vigueur le 27 juin 1983
-
-	**Cité par**:
-
-	  - Code de la route. - art. R234-5 (V)
-	  - Code de procédure pénale - art. 720 (Ab)
 
 
 ###### Article 723-5
@@ -20027,6 +20693,278 @@ possibilité qu'il aurait, à l'inverse, de voir déclarer sa condamnation non a
 	**Cite**:
 
 	  - Code pénal 57, 58
+
+
+#### Chapitre III : Du sursis assorti de l'obligation d'accomplir un travail d'intérêt général
+
+###### Article 747-1
+
+Le tribunal peut, dans les conditions prévues par l'article 738, alinéa premier, prévoir que le condamné accomplira, au
+profit d'une collectivité publique ou d'un établissement public ou d'une association, un travail d'intérêt général non
+rémunéré et d'une durée qui ne pourra être inférieure à quarante heures ni supérieure à deux cent quarante heures.
+
+Il ne peut être fait application du présent article que lorsque le prévenu est présent. Le président du tribunal, avant le
+prononcé du jugement, informe le prévenu du droit de refuser l'accomplissement d'un travail d'intérêt général et reçoit sa
+réponse.
+
+Le tribunal fixe, dans la limite de dix-huit mois, le délai pendant lequel le travail doit être accompli. Ce délai prend fin
+dès l'accomplissement de la totalité du travail d'intérêt général, la condamnation étant alors considérée comme non avenue ;
+il peut être suspendu provisoirement pour motif grave d'ordre médical, familial, professionnel ou social.
+
+Les modalités d'exécution de l'obligation d'accomplir un travail d'intérêt général et la suspension du délai prévu par
+l'alinéa précédent sont décidées par le juge de l'application des peines.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 58-1296 1958-12-23
+
+	**Créé par**:
+
+	  - Loi n°81-82 du 2 février 1981 - art. 9 () JORF 3 février 1981
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°83-466 1983-06-10 art. 43
+
+	**Modifié par**:
+
+	  - Loi n°83-466 du 10 juin 1983 - art. 4 () JORF 11 juin 1983 en vigueur le 27 juin 1983
+
+	**Cité par**:
+
+	  - Décret n°84-65 du 25 janvier 1984 - art. 1 (Ab)
+	  - Arrêté du 25 janvier 1984 - art. 1 (Ab)
+	  - CODE DE PROCEDURE PENALE - art. 747-2 (M)
+	  - CODE DE PROCEDURE PENALE - art. 747-3 (M)
+	  - Code de la sécurité sociale. - art. D412-72 (M)
+
+	**Cite**:
+
+	  - Code de procédure pénale 738 al. 1
+
+
+###### Article 747-2
+
+Au cours du délai fixé en application de l'article 747-1, troisième alinéa, outre l'obligation d'accomplir un travail
+d'intérêt général, le condamné doit satisfaire à l'ensemble des mesures de contrôle et d'assistance prévues par un décret en
+Conseil d'Etat ainsi que, le cas échéant, à celles des obligations particulières également prévues par un décret en Conseil
+d'Etat que le tribunal lui a spécialement imposées.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 58-1296 1958-12-23
+
+	**Créé par**:
+
+	  - Loi n°81-82 du 2 février 1981 - art. 9 () JORF 3 février 1981
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°83-466 1983-06-10 art. 43
+
+	**Modifié par**:
+
+	  - Loi n°83-466 du 10 juin 1983 - art. 4 () JORF 11 juin 1983 en vigueur le 27 juin 1983
+
+	**Cité par**:
+
+	  - Arrêté du 25 janvier 1984 - art. 1 (Ab)
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. 747-1 (M)
+
+
+###### Article 747-3
+
+A l'exception des articles 738, deuxième et troisième alinéas, 743 et 745, deuxième alinéa, les dispositions du chapitre II
+ci-dessus sont applicables, l'obligation définie par l'article 747-1 et le délai fixé en application du même article étant
+respectivement assimilés à une obligation particulière et au délai d'épreuve ; toutefois, le délai prévu par l'article 742-1
+est ramené à dix-huit mois.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 58-1296 1958-12-23
+
+	**Créé par**:
+
+	  - Loi n°81-82 du 2 février 1981 - art. 9 () JORF 3 février 1981
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°83-466 1983-06-10 art. 43
+
+	**Modifié par**:
+
+	  - Loi n°83-466 du 10 juin 1983 - art. 4 () JORF 11 juin 1983 en vigueur le 27 juin 1983
+
+	**Cité par**:
+
+	  - Loi n°95-884 du 3 août 1995 - art. 7 (V)
+	  - Arrêté du 25 janvier 1984 - art. 1 (Ab)
+	  - Code de procédure pénale - art. 469-1 (V)
+	  - Code de procédure pénale - art. 539 (VD)
+	  - Code de procédure pénale - art. 716-4 (V)
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. 742-1 (M)
+	  - CODE DE PROCEDURE PENALE - art. 743 (M)
+	  - CODE DE PROCEDURE PENALE - art. 747-1 (M)
+	  - Code de procédure pénale 738 al. 2 et al. 3, 743, 745 al. 2, 747-1, 742-1
+
+
+###### Article 747-4
+
+Les prescriptions du code du travail relatives au travail de nuit, à l'hygiène, à la sécurité, ainsi qu'au travail des femmes
+et des jeunes travailleurs sont applicables au travail d'intérêt général.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 58-1296 1958-12-23
+
+	**Créé par**:
+
+	  - Loi n°81-82 du 2 février 1981 - art. 9 () JORF 3 février 1981
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°83-466 1983-06-10 art. 43
+
+	**Modifié par**:
+
+	  - Loi n°83-466 du 10 juin 1983 - art. 4 () JORF 11 juin 1983 en vigueur le 27 juin 1983
+
+	**Cité par**:
+
+	  - Ordonnance n°91-245 du 25 février 1991 - art. 19 (V)
+	  - Arrêté du 25 janvier 1984 - art. 1 (Ab)
+	  - CODE DE PROCEDURE PENALE - art. 539 (M)
+	  - Code de procédure pénale - art. 469-1 (V)
+
+
+###### Article 747-5
+
+L'Etat répond du dommage ou de la part du dommage causé à autrui par un condamné et qui résulte directement de l'application
+d'une décision emportant l'obligation d'accomplir un travail d'intérêt général.
+
+L'Etat est subrogé de plein droit dans les droits de la victime.
+
+L'action en responsabilité et l'action récursoire sont portées devant les tribunaux de l'ordre judiciaire.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 58-1296 1958-12-23
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°83-466 1983-06-10 art. 43
+
+	**Créé par**:
+
+	  - Loi n°83-466 du 10 juin 1983 - art. 4 () JORF 11 juin 1983 en vigueur le 27 juin 1983
+
+	**Abrogé par**:
+
+	  - Loi n°92-1336 du 16 décembre 1992 - art. 111 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
+
+	**Cité par**:
+
+	  - Arrêté du 25 janvier 1984 - art. 1 (Ab)
+
+
+###### Article 747-6
+
+Les dispositions des articles 747-1 à 747-5 ci-dessus sont applicables aux mineurs de seize à dix-huit ans. Toutefois, la
+durée du travail d'intérêt général ne pourra être inférieure à vingt heures ni supérieure à cent vingt heures, et le délai
+pendant lequel le travail doit être accompli ne pourra excéder un an.
+
+Les attributions du juge de l'application des peines prévues par les articles 747-1 et 747-7 sont dévolues au juge des
+enfants. Pour l'application de l'article 747-1, alinéa premier, les travaux d'intérêt général doivent être adaptés aux
+mineurs et présenter un caractère formateur ou de nature à favoriser l'insertion sociale des jeunes condamnés.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 58-1296 1958-12-23
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°83-466 1983-06-10 art. 43
+
+	**Créé par**:
+
+	  - Loi n°83-466 du 10 juin 1983 - art. 4 () JORF 11 juin 1983 en vigueur le 27 juin 1983
+
+	**Abrogé par**:
+
+	  - Loi n°92-1336 du 16 décembre 1992 - art. 111 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
+
+	**Cité par**:
+
+	  - Arrêté du 25 janvier 1984 - art. 1 (Ab)
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. 747-7 (Ab)
+	  - Code de procédure pénale 747-1 à 747-5, 747-7
+
+
+###### Article 747-7
+
+Un décret en Conseil d'Etat détermine les modalités d'application du présent chapitre. Il établit les conditions dans
+lesquelles s'exécutera l'activité des condamnés, ainsi que la nature des travaux proposés.
+
+En outre, le décret détermine les conditions dans lesquelles :
+
+1° Le juge de l'application des peines établit, après avis du ministère public et consultation de tout organisme public
+compétent en matière de prévention de la délinquance, la liste des travaux d'intérêt général susceptibles d'être accomplis
+dans son ressort ;
+
+2° Le travail d'intérêt général peut, pour les condamnés salariés, se cumuler avec la durée légale du travail ;
+
+3° Sont habilitées les associations mentionnées au premier alinéa de l'article 747-1.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 58-1296 1958-12-23
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°83-466 1983-06-10 art. 43
+
+	**Créé par**:
+
+	  - Loi n°83-466 du 10 juin 1983 - art. 4 () JORF 11 juin 1983 en vigueur le 27 juin 1983
+
+	**Abrogé par**:
+
+	  - Loi n°92-1336 du 16 décembre 1992 - art. 111 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
+
+	**Cité par**:
+
+	  - Arrêté du 25 janvier 1984 - art. 1 (Ab)
+	  - CODE DE PROCEDURE PENALE - art. 747-6 (Ab)
+	  - CODE DE PROCEDURE PENALE - art. R61-1 (M)
+	  - CODE DE PROCEDURE PENALE - art. R61-29 (Ab)
+	  - CODE DE PROCEDURE PENALE - art. R61-6 (M)
+
+	**Cite**:
+
+	  - Code de procédure pénale 747-1 al. 1
 
 
 ### Titre V : De la reconnaissance de l'identité des individus condamnés
