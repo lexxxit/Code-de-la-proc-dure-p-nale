@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 1964-03-19
+Version Consolidée au 1964-05-16
 
 # Partie législative
 
@@ -18718,6 +18718,146 @@ Un conseil supérieur de l'administration pénitentiaire siège auprès du minis
 	**Abrogé par**:
 
 	  - Décret n°2006-672 du 8 juin 2006 - art. 17 (V), art. 18 (V)
+
+
+###### Article D235
+
+Le conseil supérieur de l'administration pénitentiaire délibère soit en commission, soit en assemblée générale sur les
+questions relevant de la compétence de la direction de l'administration pénitentiaire et qui sont soumises à son examen par
+le ministre de la justice.
+
+Il formule des avis et établit des rapports soumis à l'agrément du ministre de la justice.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-322 1959-02-23
+
+	**Modifié par**:
+
+	  - Décret n°64-421 1964-05-14 art. 1 JORF 16 mai 1964
+
+	**Abrogé par**:
+
+	  - Décret n°2006-672 du 8 juin 2006 - art. 17 (V), art. 18 (V)
+
+	**Liens**:
+
+	  - TXT_SOURCE: Code de procédure pénale 714 à 728
+
+
+###### Article D236
+
+Le conseil supérieur de l'administration pénitentiaire est composé :
+
+Du garde des sceaux, ministre de la justice, président ;
+
+Du directeur de l'administration pénitentiaire, rapporteur général ;
+
+De membres de droit ;
+
+De membres désignés ;
+
+D'un secrétaire choisi parmi les magistrats en fonctions à la direction de l'administration pénitentiaire.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-322 1959-02-23
+
+	**Liens**:
+
+	  - TXT_SOURCE: Code de procédure pénale 714 à 728
+
+	**Modifié par**:
+
+	  - Décret n°64-421 1964-05-14 art. 1 JORF 16 mai 1964
+
+	**Abrogé par**:
+
+	  - Décret n°2006-672 du 8 juin 2006 - art. 17 (V), art. 18 (V)
+
+
+###### Article D238
+
+Un arrêté du ministre de la justice désigne le président et les membres du conseil supérieur de l'administration
+pénitentiaire, siégeant en commission, ainsi que le secrétaire.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-322 1959-02-23
+
+	**Modifié par**:
+
+	  - Décret n°64-421 1964-05-14 art. 1 JORF 16 mai 1964
+
+	**Abrogé par**:
+
+	  - Décret n°2006-672 du 8 juin 2006 - art. 17 (V), art. 18 (V)
+
+	**Liens**:
+
+	  - TXT_SOURCE: Code de procédure pénale 714 à 728
+
+
+###### Article D239
+
+Le conseil supérieur se réunit en assemblée générale au moins une fois par an au ministère de la justice, sur convocation de
+son président.
+
+Il est convoqué en commission au moins une fois par semestre, par le ministère de la justice, sur la proposition soit du
+président de commission, soit du rapporteur général.
+
+Ses avis et rapports sont adoptés à la majorité des membres présents. En cas de partage, la voix du président est
+prépondérante.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-322 1959-02-23
+
+	**Abrogé par**:
+
+	  - Décret n°2006-672 du 8 juin 2006 - art. 17 (V), art. 18 (V)
+
+	**Liens**:
+
+	  - TXT_SOURCE: Code de procédure pénale 714 à 728
+
+	**Modifié par**:
+
+	  - Décret n°64-421 1964-05-14 art. 1 JORF 16 mai 1964
+
+
+###### Article D240
+
+Le secrétariat du conseil supérieur de l'administration pénitentiaire est chargé de l'organisation des réunions du conseil
+supérieur siégeant en assemblée générale ou en commission.
+
+Il établit les procès-verbaux et en assure la diffusion.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-322 1959-02-23
+
+	**Modifié par**:
+
+	  - Décret n°64-421 1964-05-14 art. 1 JORF 16 mai 1964
+
+	**Abrogé par**:
+
+	  - Décret n°2006-672 du 8 juin 2006 - art. 17 (V), art. 18 (V)
+
+	**Liens**:
+
+	  - TXT_SOURCE: Code de procédure pénale 714 à 728
 
 
 #### Chapitre V : De la discipline et de la sécurité des prisons
