@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 2003-05-27
+Version Consolidée au 2003-06-13
 
 # Partie législative
 
@@ -2769,7 +2769,9 @@ préalablement à sa décision sur l'action publique, directement ou par délég
 
 1° Procéder au rappel auprès de l'auteur des faits des obligations résultant de la loi ;
 
-2° Orienter l'auteur des faits vers une structure sanitaire, sociale ou professionnelle ;
+2° Orienter l'auteur des faits vers une structure sanitaire, sociale ou professionnelle en cas d'infraction commise à
+l'occasion de la conduite d'un véhicule terrestre à moteur, cette mesure peut consister dans l'accomplissement, par l'auteur
+des faits, à ses frais, d'un stage de sensibilisation à la sécurité routière ;
 
 3° Demander à l'auteur des faits de régulariser sa situation au regard de la loi ou des règlements ;
 
@@ -2808,13 +2810,9 @@ La procédure prévue au présent article suspend la prescription de l'action pu
 
 	  - Loi n°57-1426 1957-12-31
 
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°85-1407 1985-12-30 art. 94
-
 	**Modifié par**:
 
-	  - Loi n°99-515 du 23 juin 1999 - art. 1 () JORF 24 juin 1999
+	  - Loi n°2003-495 du 12 juin 2003 - art. 6 () JORF 13 juin 2003
 
 
 ###### Article 41-2
@@ -19774,9 +19772,9 @@ Sont jugés dans les conditions prévues au troisième alinéa de l'article 398 
 relatif aux cartes de paiement ;
 
 2° Les délits prévus par le code de la route ainsi que, lorsqu'ils sont commis à l'occasion de la conduite d'un véhicule, par
-les articles 222-19, 222-20, 223-1 et 434-10 du code pénal ;
+les articles 222-19-1, 222-20-1, 223-1 et 434-10 du code pénal ;
 
-3° Les délits en matière de coordination des transports ;
+3° Les délits en matière de réglementations relatives aux transports terrestres ;
 
 4° Les délits prévus par le 2° de l'article 32 du décret-loi du 18 avril 1939 fixant le régime des matériels de guerre, armes
 et munitions ;
@@ -19803,9 +19801,14 @@ jugement des délits prévus au présent article lorsque ces délits sont connex
 
 	  - Ordonnance 58-1296 1958-12-23
 
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°2003-495 2003-06-12 art. 42 : application à Mayotte
+
 	**Modifié par**:
 
-	  - Loi n°2002-1138 du 9 septembre 2002 - art. 41 () JORF 10 septembre 2002
+	  - Loi n°2003-495 du 12 juin 2003 - art. 3 (V) JORF 13 juin 2003
+	  - Loi n°2003-495 du 12 juin 2003 - art. 33 () JORF 13 juin 2003
 
 	**Cité par**:
 
@@ -19821,8 +19824,8 @@ jugement des délits prévus au présent article lorsque ces délits sont connex
 
 	**Cite**:
 
-	  - Code pénal - art. 222-19 (M)
-	  - Code pénal - art. 222-20 (M)
+	  - Code pénal - art. 222-19-1 (V)
+	  - Code pénal - art. 222-20-1 (V)
 	  - Code pénal - art. 223-1 (M)
 	  - Code pénal - art. 434-10 (M)
 	  - CODE DE PROCEDURE PENALE 398, 222-11, 222-12, 222-13, 222-16, 222-17, 222-18, 222-32, 227-3 à 227-11, 311-3, 311-4, 313-5, 314-5, 314-6, 321-1, 322-1 à 322-4, 322-12, 322-13, 322-14, 433-3
@@ -23746,18 +23749,12 @@ Est compétent le tribunal de police du lieu de commission ou de constatation de
 prévenu.
 
 Est également compétent le tribunal de police du siège de l'entreprise détentrice du véhicule en cas de contravention, soit
-aux règles relatives au chargement ou à l'équipement de ce véhicule, soit aux conditions de travail dans les transports
-routiers, soit à la coordination des transports.
+aux règles relatives au chargement ou à l'équipement de ce véhicule, soit aux réglementations relatives aux transports
+terrestres.
 
 Les articles 383 à 387 sont applicables au jugement des infractions de la compétence du tribunal de police.
 
 **Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - SPEC_APPLI: Ordonnance 58-1273 1958-12-22 art. 18
-	  - SPEC_APPLI: Ordonnance n°58-1296 du 23 décembre 1958 - art. 10, v. init.
-	  - SPEC_APPLI: Loi n°83-466 1983-06-10 art. 43
 
 	**Codifié par**:
 
@@ -23765,7 +23762,7 @@ Les articles 383 à 387 sont applicables au jugement des infractions de la comp�
 
 	**Modifié par**:
 
-	  - Loi n°83-466 du 10 juin 1983 - art. 37 () JORF 11 juin 1983 en vigueur le 27 juin 1983
+	  - Loi n°2003-495 du 12 juin 2003 - art. 33 () JORF 13 juin 2003
 
 	**Cité par**:
 
@@ -24132,7 +24129,8 @@ cet envoi.
 
 Dans le délai prévu par l'article précédent, le contrevenant doit s'acquitter du montant de l'amende forfaitaire, à moins
 qu'il ne formule dans le même délai une requête tendant à son exonération auprès du service indiqué dans l'avis de
-contravention. Cette requête est transmise au ministère public.
+contravention. Dans les cas prévus par l'article 529-10, cette requête doit être accompagnée de l'un des documents exigés par
+cet article. Cette requête est transmise au ministère public.
 
 A défaut de paiement ou d'une requête présentée dans le délai de trente jours, l'amende forfaitaire est majorée de plein
 droit et recouvrée au profit du Trésor public en vertu d'un titre rendu exécutoire par le ministère public.
@@ -24143,18 +24141,9 @@ droit et recouvrée au profit du Trésor public en vertu d'un titre rendu exécu
 
 	  - Ordonnance 58-1296 1958-12-23
 
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°85-1407 1985-12-30 art. 94
-	  - SPEC_APPLI: Loi n°99-515 du 23 juin 1999 - art. 9 (V)
-
 	**Modifié par**:
 
-	  - Loi n°99-515 du 23 juin 1999 - art. 9 (V) JORF 24 juin 1999
-
-	**Cite**:
-
-	  - CODE DE PROCEDURE PENALE - art. 529-1 (M)
+	  - Loi n°2003-495 du 12 juin 2003 - art. 8 () JORF 13 juin 2003
 
 	**Cité par**:
 
@@ -24380,8 +24369,8 @@ règle le montant dans les conditions prévues par l'article 529-8.
 ###### Article 529-8
 
 Le montant de l'amende forfaitaire minorée peut être acquitté soit entre les mains de l'agent verbalisateur au moment de la
-constatation de l'infraction, soit dans un délai de trois jours à compter de la constatation de l'infraction ou, si cet avis
-est ultérieurement envoyé à l'intéressé, dans les sept jours qui suivent cet envoi.
+constatation de l'infraction, soit dans un délai de trois jours à compter de la constatation de l'infraction ou, si l'avis de
+contravention est ultérieurement envoyé à l'intéressé, dans les sept jours qui suivent cet envoi.
 
 En cas de non-paiement de l'amende forfaitaire minorée dans les conditions prévues ci-dessus, le contrevenant est redevable
 de l'amende forfaitaire.
@@ -24392,9 +24381,9 @@ de l'amende forfaitaire.
 
 	  - Ordonnance 58-1296 1958-12-23
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°89-469 du 10 juillet 1989 - art. 1 () JORF 11 juillet 1989 en vigueur le 1er janvier 1990
+	  - Loi n°2003-495 du 12 juin 2003 - art. 8 () JORF 13 juin 2003
 
 	**Cité par**:
 
@@ -24443,6 +24432,112 @@ applicables.
 	  - PILOTE_SUIVEUR: Code de la route. - art. L121-5 (M)
 
 
+###### Article 529-10
+
+Lorsque l'avis d'amende forfaitaire concernant une des contraventions mentionnées à l'article L. 121-3 du code de la route a
+été adressé au titulaire du certificat d'immatriculation ou aux personnes visées aux deuxième et troisième alinéas de
+l'article L. 121-2 de ce code, la requête en exonération prévue par l'article 529-2 ou la réclamation prévue par l'article
+530 n'est recevable que si elle est adressée par lettre recommandée avec demande d'avis de réception et si elle est
+accompagnée :
+
+1° Soit de l'un des documents suivants :
+
+a) Le récépissé du dépôt de plainte pour vol ou destruction du véhicule, ou une copie de la déclaration de destruction de
+véhicule établie conformément aux dispositions du code de la route ;
+
+b) Une lettre signée de l'auteur de la requête ou de la réclamation précisant l'identité, l'adresse, ainsi que la référence
+du permis de conduire de la personne qui était présumée conduire le véhicule lorsque la contravention a été constatée ;
+
+2° Soit d'un document démontrant qu'il a été acquitté une consignation préalable d'un montant égal à celui de l'amende
+forfaitaire dans le cas prévu par le premier alinéa de l'article 529-2, ou à celui de l'amende forfaitaire majorée dans le
+cas prévu par le deuxième alinéa de l'article 530 ; cette consignation n'est pas assimilable au paiement de l'amende
+forfaitaire et ne donne pas lieu au retrait des points du permis de conduire prévu par le quatrième alinéa de l'article L.
+223-1 du code de la route.
+
+L'officier du ministère public vérifie si les conditions de recevabilité de la requête ou de la réclamation prévues par le
+présent article sont remplies.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 58-1296 1958-12-23
+
+	**Créé par**:
+
+	  - Loi n°2003-495 du 12 juin 2003 - art. 8 () JORF 13 juin 2003
+
+	**Cité par**:
+
+	  - Loi n°2003-495 du 12 juin 2003 - art. 29 (V)
+	  - Arrêté du 13 octobre 2004 - art. 3 (V)
+	  - Arrêté du 22 octobre 2015 (V)
+	  - Arrêté du 20 mars 2017 (V)
+	  - CODE DE PROCEDURE PENALE - art. 529-2 (V)
+	  - CODE DE PROCEDURE PENALE - art. 530-2-1 (V)
+	  - CODE DE PROCEDURE PENALE - art. R49-14 (V)
+	  - CODE DE PROCEDURE PENALE - art. R49-15 (V)
+	  - CODE DE PROCEDURE PENALE - art. R49-16 (V)
+	  - Code de la route. - art. L223-9 (V)
+	  - Code de la route. - art. L322-1 (VD)
+	  - Code de la route. - art. L344-2 (V)
+	  - Code de la route. - art. R322-18 (V)
+	  - Code de procédure pénale - art. 530 (V)
+	  - Code de procédure pénale - art. 530-1 (V)
+	  - Code de procédure pénale - art. 530-4 (V)
+	  - Code de procédure pénale - art. A37-12 (VD)
+	  - Code de procédure pénale - art. A37-13 (V)
+	  - Code de procédure pénale - art. A37-7 (V)
+	  - Code de procédure pénale - art. A37-8 (V)
+	  - Code de procédure pénale - art. R49-18 (VD)
+	  - Code de procédure pénale - art. R49-19 (V)
+	  - Code de procédure pénale - art. R55-3 (V)
+
+	**Liens**:
+
+	  - PILOTE_SUIVEUR: Code de la route. - art. L121-5 (M)
+
+	**Cite**:
+
+	  - Code de la route. - art. L121-2 (M)
+	  - Code de la route. - art. L121-3 (M)
+	  - Code de la route. - art. L223-1 (M)
+
+
+###### Article 529-11
+
+L'avis de contravention prévu par les articles 529-1 et 529-8 peut être envoyé à la suite de la constatation d'une
+contravention au code de la route réalisée grâce à un appareil homologué de contrôle automatique. En cas de réclamation
+portée devant le tribunal de police, le procès-verbal ou le rapport de l'officier ou de l'agent de police judiciaire faisant
+état du résultat de ce contrôle est alors dressé.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 58-1296 1958-12-23
+
+	**Créé par**:
+
+	  - Loi n°2003-495 du 12 juin 2003 - art. 8 () JORF 13 juin 2003
+
+	**Cité par**:
+
+	  - Loi n°2003-495 du 12 juin 2003 - art. 29 (V)
+	  - Code de procédure pénale - art. 804 (M)
+	  - Code de procédure pénale - art. A37-14 (VD)
+	  - Code de procédure pénale - art. A37-9 (V)
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. 529-1 (M)
+	  - CODE DE PROCEDURE PENALE - art. 529-8 (M)
+
+	**Liens**:
+
+	  - PILOTE_SUIVEUR: Code de la route. - art. L121-5 (M)
+
+
 ##### Section 3 : Dispositions communes
 
 ###### Article 530
@@ -24454,9 +24549,14 @@ de la signature par le ministère public du titre exécutoire, qui peut être in
 Dans les trente jours de l'envoi de l'avis invitant le contrevenant à payer l'amende forfaitaire majorée, l'intéressé peut
 former auprès du ministère public une réclamation motivée qui a pour effet d'annuler le titre exécutoire en ce qui concerne
 l'amende contestée. Cette réclamation reste recevable tant que la peine n'est pas prescrite, s'il ne résulte pas d'un acte
-d'exécution ou de tout autre moyen de preuve que l'intéressé a eu connaissance de l'amende forfaitaire majorée.
+d'exécution ou de tout autre moyen de preuve que l'intéressé a eu connaissance de l'amende forfaitaire majorée. S'il s'agit
+d'une contravention au code de la route, la réclamation n'est toutefois plus recevable à l'issue d'un délai de trois mois
+lorsque l'avis d'amende forfaitaire majorée est envoyé par lettre recommandée à l'adresse figurant sur le certificat
+d'immatriculation du véhicule, sauf si le contrevenant justifie qu'il a, avant l'expiration de ce délai, déclaré son
+changement d'adresse au service d'immatriculation des véhicules.
 
-La réclamation doit être accompagnée de l'avis correspondant à l'amende considérée.
+La réclamation doit être accompagnée de l'avis correspondant à l'amende considérée ainsi que, dans le cas prévu par l'article
+529-10, de l'un des documents exigés par cet article, à défaut de quoi elle n'a pas pour effet d'annuler le titre exécutoire.
 
 **Liens relatifs à cet article**
 
@@ -24489,7 +24589,7 @@ La réclamation doit être accompagnée de l'avis correspondant à l'amende cons
 
 	**Modifié par**:
 
-	  - Loi n°93-2 du 4 janvier 1993 - art. 154 () JORF 5 janvier 1993
+	  - Loi n°2003-495 du 12 juin 2003 - art. 8 () JORF 13 juin 2003
 
 	**Cite**:
 
@@ -24513,6 +24613,11 @@ les cas prévus par le premier alinéa de l'article 529-2 et le premier alinéa 
 montant de l'amende forfaitaire majorée dans les cas prévus par le second alinéa de l'article 529-2 et le second alinéa de
 l'article 529-5.
 
+Dans les cas prévus par l'article 529-10, en cas de classement sans suite ou de relaxe, s'il a été procédé à la consignation
+prévue par cet article, le montant de la consignation est reversé, à sa demande, à la personne à qui avait été adressé l'avis
+de paiement de l'amende forfaitaire ou ayant fait l'objet des poursuites. En cas de condamnation, l'amende prononcée ne peut
+être inférieure au montant prévu à l'alinéa précédent augmenté d'une somme de 10 %.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
@@ -24521,15 +24626,16 @@ l'article 529-5.
 
 	**Modifié par**:
 
-	  - Loi n°93-2 du 4 janvier 1993 - art. 155 () JORF 5 janvier 1993
+	  - Loi n°2003-495 du 12 juin 2003 - art. 8 () JORF 13 juin 2003
 
 	**Cite**:
 
+	  - CODE DE PROCEDURE PENALE - art. 529-10 (M)
 	  - CODE DE PROCEDURE PENALE - art. 529-2 (M)
 	  - CODE DE PROCEDURE PENALE - art. 529-5 (M)
 	  - CODE DE PROCEDURE PENALE - art. 530 (M)
 	  - CODE DE PROCEDURE PENALE - art. 531 (M)
-	  - Code de procédure pénale 530, 524 à 528-2, 531, 529-2, 529-5
+	  - CODE DE PROCEDURE PENALE 529-2, 529-5, 530, 524 à 528-2, 531, 529-10
 
 	**Liens**:
 
@@ -24568,6 +24674,45 @@ comporter sont déférés au tribunal de police, qui statue conformément aux di
 	**Cite**:
 
 	  - CODE DE PROCEDURE PENALE - art. 711 (M)
+
+
+###### Article 530-2-1
+
+Lorsque les avis de contravention ou d'amende forfaitaire majorée sont adressés à une personne résidant à l'étranger, les
+délais prévus par les articles 529-1, 529-2, 529-8, 529-9 et 530 sont augmentés d'un mois.
+
+Les dispositions des articles 529-10 et 530 du présent code et des articles L. 121-2 et L. 121-3 du code de la route
+relatives aux titulaires du certificat d'immatriculation du véhicule sont applicables aux personnes dont l'identité figure
+sur les documents équivalents délivrés par des autorités étrangères.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 58-1296 1958-12-23
+
+	**Créé par**:
+
+	  - Loi n°2003-495 du 12 juin 2003 - art. 8 () JORF 13 juin 2003
+
+	**Cité par**:
+
+	  - Loi n°2003-495 du 12 juin 2003 - art. 29 (V)
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. 529-1 (M)
+	  - CODE DE PROCEDURE PENALE - art. 529-10 (M)
+	  - CODE DE PROCEDURE PENALE - art. 529-2 (M)
+	  - CODE DE PROCEDURE PENALE - art. 529-8 (M)
+	  - CODE DE PROCEDURE PENALE - art. 529-9 (M)
+	  - CODE DE PROCEDURE PENALE - art. 530 (M)
+	  - Code de la route. - art. L121-2 (M)
+	  - Code de la route. - art. L121-3 (M)
+
+	**Liens**:
+
+	  - PILOTE_SUIVEUR: Code de la route. - art. L121-5 (M)
 
 
 ###### Article 530-3
@@ -34112,6 +34257,11 @@ les mesures de composition pénale prévues aux articles 41-2 et 41-3.
 Pour le jugement des contraventions mentionnées au premier alinéa et relevant des quatre premières classes, les fonctions du
 ministère public sont exercées par un officier du ministère public, conformément aux dispositions des articles 45 à 48.
 
+Pour le jugement des contraventions mentionnées au premier alinéa, et notamment des contraventions au code de la route, la
+compétence territoriale des juridictions de proximité est celle des tribunaux de police, y compris des tribunaux d'instance
+ayant compétence exclusive en matière pénale en application des dispositions de l'article L. 623-2 du code de l'organisation
+judiciaire.
+
 **Liens relatifs à cet article**
 
 	**Cité par**:
@@ -34131,15 +34281,16 @@ ministère public sont exercées par un officier du ministère public, conformé
 
 	  - Ordonnance 58-1296 1958-12-23
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2002-1138 du 9 septembre 2002 - art. 10 () JORF 10 septembre 2002
+	  - Loi n°2003-495 du 12 juin 2003 - art. 8 () JORF 13 juin 2003
 
 	**Cite**:
 
 	  - CODE DE PROCEDURE PENALE - art. 41-2 (M)
 	  - CODE DE PROCEDURE PENALE - art. 41-3 (M)
 	  - Code de procédure pénale 521 à 549, 41-2, 41-3, 45 à 48
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L623-2 (V)
 
 
 ## Livre V : Des procédures d'exécution
@@ -34187,54 +34338,6 @@ par le percepteur.
 
 	  - CODE DE PROCEDURE PENALE - art. 707-1 (M)
 	  - CODE DE PROCEDURE PENALE - art. 707-1 (V)
-
-
-###### Article 708
-
-L'exécution à la requête du ministère public a lieu lorsque la décision est devenue définitive.
-
-Toutefois, le délai d'appel accordé au procureur général par les articles 505 et 548 ne fait point obstacle à l'exécution de
-la peine.
-
-L'exécution d'une peine de police ou d'une peine correctionnelle non privative de liberté peut être suspendue ou fractionnée
-pour motifs graves d'ordre médical, familial, professionnel ou social. La décision est prise soit par le ministère public,
-soit, sur la proposition du ministère public, par le tribunal correctionnel ou de police statuant en chambre du conseil,
-selon que l'exécution de la peine doit être suspendue pendant moins ou plus de trois mois.
-
-Lorsque l'exécution fractionnée d'une peine d'amende, de jours-amende ou de suspension du permis de conduire a été décidée
-par la juridiction de jugement en application de l'article 132-28 du code pénal, cette décision peut être modifiée dans les
-conditions prévues à l'alinéa précédent.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance 58-1296 1958-12-23
-
-	**Cité par**:
-
-	  - Décret n°64-1333 du 22 décembre 1964 - art. 2 (V)
-	  - CODE DE PROCEDURE PENALE - art. 506 (V)
-	  - Code de procédure pénale - art. D115 (V)
-	  - Code de procédure pénale - art. D115-2 (V)
-	  - Code de procédure pénale - art. D50 (V)
-	  - Code du travail - art. R8211-2 (V)
-	  - Code pénal - art. 132-41 (V)
-
-	**Modifié par**:
-
-	  - Loi n°92-1336 du 16 décembre 1992 - art. 79 () JORF 23 décembre 1992 en vigueur le 1er mars 1994
-
-	**Cite**:
-
-	  - Code pénal - art. 132-28 (M)
-	  - CODE DE PROCEDURE PENALE - art. 505 (V)
-	  - CODE DE PROCEDURE PENALE - art. 548 (V)
-
-	**Liens**:
-
-	  - TXT_SOURCE: CODE DE PROCEDURE PENALE - art. D48 (V)
-	  - TXT_SOURCE: CODE DE PROCEDURE PENALE - art. D49-1 (V)
 
 
 ###### Article 713-1
@@ -34461,6 +34564,57 @@ privative de liberté prononcée par une juridiction étrangère.
 
 
 #### Chapitre Ier : Dispositions générales
+
+###### Article 708
+
+L'exécution à la requête du ministère public a lieu lorsque la décision est devenue définitive.
+
+Toutefois, le délai d'appel accordé au procureur général par les articles 505 et 548 ne fait point obstacle à l'exécution de
+la peine.
+
+L'exécution d'une peine de police ou d'une peine correctionnelle non privative de liberté peut être suspendue ou fractionnée
+pour motifs graves d'ordre médical, familial, professionnel ou social. La décision est prise soit par le ministère public,
+soit, sur la proposition du ministère public, par le tribunal correctionnel ou de police statuant en chambre du conseil,
+selon que l'exécution de la peine doit être suspendue pendant moins ou plus de trois mois. La suspension ou le fractionnement
+de la peine de suspension de permis de conduire n'est toutefois pas possible en cas de délits ou de contraventions pour
+lesquels la loi ou le règlement prévoit que cette peine ne peut pas être limitée à la conduite en dehors de l'activité
+professionnelle.
+
+Lorsque l'exécution fractionnée d'une peine d'amende, de jours-amende ou de suspension du permis de conduire a été décidée
+par la juridiction de jugement en application de l'article 132-28 du code pénal, cette décision peut être modifiée dans les
+conditions prévues à l'alinéa précédent.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 58-1296 1958-12-23
+
+	**Cité par**:
+
+	  - Décret n°64-1333 du 22 décembre 1964 - art. 2 (V)
+	  - CODE DE PROCEDURE PENALE - art. 506 (V)
+	  - Code de procédure pénale - art. D115 (V)
+	  - Code de procédure pénale - art. D115-2 (V)
+	  - Code de procédure pénale - art. D50 (V)
+	  - Code du travail - art. R8211-2 (V)
+	  - Code pénal - art. 132-41 (V)
+
+	**Modifié par**:
+
+	  - Loi n°2003-495 du 12 juin 2003 - art. 5 () JORF 13 juin 2003
+
+	**Cite**:
+
+	  - Code pénal - art. 132-28 (M)
+	  - CODE DE PROCEDURE PENALE - art. 505 (V)
+	  - CODE DE PROCEDURE PENALE - art. 548 (V)
+
+	**Liens**:
+
+	  - TXT_SOURCE: CODE DE PROCEDURE PENALE - art. D48 (V)
+	  - TXT_SOURCE: CODE DE PROCEDURE PENALE - art. D49-1 (V)
+
 
 ###### Article 709
 
@@ -38469,7 +38623,8 @@ considérées comme non avenues ;
 définitive ;
 
 5° Les condamnations pour contravention, à l'expiration d'un délai de trois ans à compter du jour où ces condamnations sont
-devenues définitives ;
+devenues définitives ; ce délai est porté à quatre ans lorsqu'il s'agit d'une contravention dont la récidive constitue un
+délit ;
 
 6° Les mentions relatives à la composition pénale, à l'expiration d'un délai de trois ans à compter du jour où l'exécution de
 la mesure a été constatée, si la personne n'a pas, pendant ce délai, soit subi de condamnation à une peine criminelle ou
@@ -38480,14 +38635,6 @@ correctionnelle, soit exécuté une nouvelle composition pénale.
 	**Codifié par**:
 
 	  - Ordonnance 58-1296 1958-12-23
-
-	**Cite**:
-
-	  - Loi n°85-98 du 25 janvier 1985 - art. 192 (M)
-	  - Code pénal - art. 133-13 (M)
-	  - Code pénal - art. 133-14 (AbD)
-	  - CODE DE PROCEDURE PENALE - art. 713-3 (T)
-	  - CODE DE PROCEDURE PENALE - art. 713-6 (T)
 
 	**Cité par**:
 
@@ -38510,7 +38657,14 @@ correctionnelle, soit exécuté une nouvelle composition pénale.
 
 	**Modifié par**:
 
-	  - Loi n°2002-1138 du 9 septembre 2002 - art. 36 () JORF 10 septembre 2002
+	  - Loi n°2003-495 du 12 juin 2003 - art. 4 () JORF 13 juin 2003
+
+	**Cite**:
+
+	  - Code pénal - art. 133-13 (M)
+	  - Code pénal - art. 133-14 (AbD)
+	  - CODE DE PROCEDURE PENALE - art. 713-3 (T)
+	  - CODE DE PROCEDURE PENALE - art. 713-6 (T)
 
 
 ###### Article 769-1
@@ -40932,7 +41086,8 @@ relatif aux cartes de paiement ;
 2° Les délits prévus par les dispositions applicables localement en matière de circulation routière ainsi que, lorsqu'ils
 sont commis à l'occasion de la conduite d'un véhicule, par les articles 222-19, 222-20, 223-1 et 434-10 du code pénal ;
 
-3° Les délits prévus par les dispositions applicables localement en matière de coordination des transports ;
+3° Les délits prévus par les dispositions applicables localement en matière de réglementations relatives aux transports
+terrestres ;
 
 4° Les délits prévus par les articles 222-11, 222-12 (1° à 10°), 222-13 (1° à 10°), 222-16, 222-17, 222-18, 222-32, 227-3 à
 227-11, 311-3, 311-4 (1° à 8°), 313-5, 314-5, 314-6, 321-1, 322-1 à 322-4, 322-12, 322-13, 322-14, 433-5 et 521-1 du code
@@ -40962,7 +41117,8 @@ relatif aux cartes de paiement ;
 2° Les délits prévus par les dispositions applicables localement en matière de circulation routière ainsi que, lorsqu'ils
 sont commis à l'occasion de la conduite d'un véhicule, par les articles 222-19, 222-20, 223-1 et 434-10 du code pénal ;
 
-3° Les délits prévus par les dispositions applicables localement en matière de coordination des transports ;
+3° Les délits prévus par les dispositions applicables localement en matière de réglementations relatives aux transports
+terrestres ;
 
 4° Les délits prévus par les dispositions applicables localement en matière de chasse, de pêche, de protection de la faune et
 de la flore et en matière de pêche maritime.
@@ -41011,7 +41167,7 @@ jugement des délits prévus au présent article lorsque ces délits sont connex
 
 	**Modifié par**:
 
-	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+	  - Loi n°2003-495 du 12 juin 2003 - art. 44 () JORF 13 juin 2003
 
 
 ###### Article 838
