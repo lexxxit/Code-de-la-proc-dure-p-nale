@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 1991-12-20
+Version Consolidée au 1992-01-01
 
 # Partie législative
 
@@ -12600,8 +12600,10 @@ dépens que si elle a, elle-même, mis en mouvement l'action publique. Toutefois
 circonstances de la cause, être déchargée de la totalité ou d'une partie de ces dépens, par décision spéciale et motivée de
 la cour.
 
-Lorsqu'il apparaît inéquitable de laisser à la charge de la partie civile les sommes exposées par elle et non comprises dans
-les frais et dépens, le juge peut condamner l'auteur de l'infraction à lui payer le montant qu'il détermine.
+La cour condamne l'auteur de l'infraction à payer à la partie civile la somme qu'elle détermine, au titre des frais exposés
+par celle-ci et non compris dans les dépens. La cour tient compte de l'équité ou de la situation économique de la partie
+condamnée. Elle peut, même d'office, pour des raisons tirées des mêmes considérations, dire qu'il n'y a pas lieu à cette
+condamnation.
 
 **Liens relatifs à cet article**
 
@@ -12611,7 +12613,7 @@ les frais et dépens, le juge peut condamner l'auteur de l'infraction à lui pay
 
 	**Modifié par**:
 
-	  - Loi n°81-82 du 2 février 1981 - art. 83 () JORF 3 février 1981
+	  - Loi n°91-647 1991-07-10 art. 75 JORF 13 juillet 1991 en vigueur le 1er janvier 1992
 
 	**Cité par**:
 
@@ -16136,8 +16138,10 @@ Le tribunal peut toutefois, par décision spéciale et motivée, l'en décharger
 
 ###### Article 475-1
 
-Lorsqu'il apparaît inéquitable de laisser à la charge de la partie civile les sommes exposées par elle et non comprises dans
-les frais et dépens, le juge peut condamner l'auteur de l'infraction à lui payer le montant qu'il détermine.
+Le tribunal condamne l'auteur de l'infraction à payer à la partie civile la somme qu'il détermine, au titre des frais exposés
+par celle-ci et non compris dans les dépens. Le tribunal tient compte de l'équité ou de la situation économique de la partie
+condamnée. Il peut, même d'office, pour des raisons tirées des mêmes considérations, dire qu'il n'y a pas lieu à cette
+condamnation.
 
 **Liens relatifs à cet article**
 
@@ -16145,9 +16149,9 @@ les frais et dépens, le juge peut condamner l'auteur de l'infraction à lui pay
 
 	  - Ordonnance 58-1296 1958-12-23
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°81-82 du 2 février 1981 - art. 91 () JORF 3 février 1981
+	  - Loi n°91-647 1991-07-10 art. 75 JORF 13 juillet 1991 en vigueur le 1er janvier 1992
 
 	**Cité par**:
 
@@ -24495,9 +24499,9 @@ toute personne intéressée pendant deux ans à compter de la date à partir de 
 Toute personne qui, victime d'un vol, d'une escroquerie ou d'un abus de confiance, ne peut obtenir à un titre quelconque une
 réparation ou une indemnisation effective et suffisante de son préjudice, et se trouve de ce fait dans une situation
 matérielle grave, peut obtenir une indemnité dans les conditions prévues par les articles 706-3 (3° et dernier alinéa) à
-706-12, lorsque ses ressources sont inférieures au plafond prévu par les troisième et quatrième alinéas de l'article 2 de la
-loi n° 72-11 du 3 janvier 1972 relative à l'aide judiciaire et à l'indemnisation des commissions et désignations d'office
-pour bénéficier de l'aide judiciaire partielle, compte tenu, le cas échéant, de ses charges de famille.
+706-12, lorsque ses ressources sont inférieures au plafond prévu par l'article 4 de la loi n° 91-647 du 10 juillet 1991
+relative à l'aide juridique pour béneficier de l'aide juridictionnelle partielle, compte tenu, le cas échéant, de ses charges
+de famille.
 
 L'indemnité est au maximum égale au triple du montant mensuel de ce plafond de ressources.
 
@@ -24510,12 +24514,6 @@ générateurs de celui-ci ayant entraîné une incapacité totale de travail inf
 	**Codifié par**:
 
 	  - Ordonnance 58-1296 1958-12-23
-
-	**Cite**:
-
-	  - Loi n°72-11 1972-01-03 art. 2 al. 3 et 4
-	  - CODE DE PROCEDURE PENALE - art. 706-3 (M)
-	  - Code de procédure pénale 706-3 à 706-12, 706-3
 
 	**Cité par**:
 
@@ -24534,9 +24532,14 @@ générateurs de celui-ci ayant entraîné une incapacité totale de travail inf
 	  - Code de procédure pénale - art. 900 (V)
 	  - Code de procédure pénale - art. R50-10 (V)
 
+	**Cite**:
+
+	  - Loi n°91-647 1991-07-10 art. 4
+	  - Code de procédure pénale 706-3 à 706-12
+
 	**Modifié par**:
 
-	  - Loi n°90-589 du 6 juillet 1990 - art. 10 () JORF 11 juillet 1990 en vigueur le 1er janvier 1991
+	  - Loi n°91-647 du 10 juillet 1991 - art. 74 () JORF 13 juillet 1991 en vigueur le 1er janvier 1992
 
 
 ### Titre XV : Des infractions en relation avec une entreprise individuelle ou collective ayant pour but de troubler gravement l'ordre public par l'intimidation ou la terreur
@@ -36520,7 +36523,7 @@ application de l'article 215 de la loi n° 85-98 du 25 janvier 1985.
 8° Des frais de copie, droits, redevances et émoluments dus aux greffiers des tribunaux de commerce à l'occasion de toute
 procédure pour la délivrance des pièces à l'autorité judiciaire.
 
-9° De l'aide judiciaire et de l'indemnisation des commissions et désignations d'office.
+9° De la contribution versée par l'Etat au titre de l'aide juridictionnelle.
 
 10° Des frais et dépens mis à la charge du Trésor public soit en application d'une disposition législative ou réglementaire,
 soit en cas de décision juridictionnelle rectifiant ou interprétant une précédente décision.
@@ -36545,11 +36548,6 @@ ne relevant pas de l'administration pénitentiaire.
 
 18° Des frais de l'appel aux créanciers prévu à l'article 11 de la loi n° 89-1010 du 31 décembre 1989 relative à la
 prévention et au règlement des difficultés liées au surendettement des particuliers et des familles.
-
-**Nota:**
-
-[* Les mots : " aide judiciaire " ou " commissions et désignations d'office " sont remplacés par ceux de " aide
-juridictionnelle " par l'article 159 du décret n° 91-1266 du 19 décembre 1991 paru au Journal officiel du 20 décembre 1991.*]
 
 **Liens relatifs à cet article**
 
@@ -36595,7 +36593,7 @@ juridictionnelle " par l'article 159 du décret n° 91-1266 du 19 décembre 1991
 
 	**Modifié par**:
 
-	  - Décret n°90-226 1990-03-13 art. 1 JORF 15 mars 1990
+	  - Décret n°91-1266 du 19 décembre 1991 - art. 162 () JORF 20 décembre 1991 en vigueur le 1er janvier 1992
 
 	**Liens**:
 
@@ -40139,7 +40137,7 @@ La procédure de certification est applicable aux frais suivants énumérés à 
 
 1. Indemnités accordées aux témoins ;
 
-2. Indemnités forfaitaires en matière d'aide judiciaire et de commissions et désignations d'office ;
+2. Part contributive de l'Etat à la rétribution des auxiliaires de justice en matière d'aide juridictionnelle.
 
 3. Indemnités de transport et de séjour des magistrats, des greffiers et des secrétaires des juridictions de l'ordre
 judiciaire ;
@@ -40148,20 +40146,15 @@ judiciaire ;
 
 5. Frais tarifés des actes faits d'office en matière de mesures conservatoires prises après l'ouverture d'une succession.
 
-**Nota:**
-
-[* Les mots : " aide judiciaire " ou " commissions et désignations d'office " sont remplacés par ceux de " aide
-juridictionnelle " par l'article 159 du décret n° 91-1266 du 19 décembre 1991 paru au Journal officiel du 20 décembre 1991.*]
-
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°59-318 1959-02-23
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°88-600 du 6 mai 1988 - art. 14 () JORF 8 mai 1988 en vigueur le 1er octobre 1988
+	  - Décret n°91-1266 du 19 décembre 1991 - art. 162 () JORF 20 décembre 1991 en vigueur le 1er janvier 1992
 
 	**Cité par**:
 
@@ -40727,7 +40720,7 @@ Sont déclarés dans tous les cas à la charge de l'Etat et sans recours envers 
 1° Les frais de voyage et de séjour des magistrats délégués pour la tenue des cours d'assises ;
 
 2° Les honoraires et indemnités des interprètes désignés pour assister les inculpés, prévenus et accusés dans les conditions
-prévues par les articles 102, 121, 272, 344, 407, 408 et 443 du présent code ;
+prévues par les articles 102, 121, 272, 344, 407, 408 et 443 du présent code.
 
 3° Toutes les indemnités payées aux jurés ;
 
@@ -40736,11 +40729,13 @@ prévues par les articles 102, 121, 272, 344, 407, 408 et 443 du présent code ;
 5° Les indemnités et les frais payés aux enquêteurs de personnalité et aux personnes physiques ou représentants de personnes
 morales désignés par le juge d'instruction pour l'application du contrôle judiciaire ;
 
-6° Les frais et dépens engagés en cas de décision juridictionnelle rectifiant ou interprétant une précédente décision ;
+6° Les frais et dépens engagés en cas de décision juridictionnelle rectifiant ou interprétant une précédente décision.
 
 7° Les frais exposés devant la commission prévue à l'article 16-2.
 
-[*8° abrogé*]
+8° La contribution versée par l'Etat au titre de l'aide juridictionnelle à l'avocat du condamné et, le cas échéant, celle
+versée dans le cadre de la même procédure à l'avocat du témoin assisté ou de l'inculpé ayant bénéficié d'une décision de non-
+lieu, de relaxe ou d'acquittement.
 
 **Liens relatifs à cet article**
 
@@ -40750,7 +40745,7 @@ morales désignés par le juge d'instruction pour l'application du contrôle jud
 
 	**Modifié par**:
 
-	  - Décret n°88-600 du 6 mai 1988 - art. 16 () JORF 8 mai 1988 en vigueur le 1er octobre 1988
+	  - Décret n°91-1266 du 19 décembre 1991 - art. 162 () JORF 20 décembre 1991 en vigueur le 1er janvier 1992
 
 	**Cite**:
 
