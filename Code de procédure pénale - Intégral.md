@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 1959-02-25
+Version Consolidée au 1959-02-28
 
 # Partie législative
 
@@ -3092,5 +3092,85 @@ qualité d'officier de police judiciaire, et, éventuellement, toutes propositio
 	**Cité par**:
 
 	  - Code de procédure pénale - art. A10 (M)
+
+
+## Livre V : Des procédures d'exécution
+
+### Titre IV : Du sursis
+
+#### Chapitre II : Du sursis avec mise à l'épreuve
+
+##### Section 2 : Des autorités chargées de contrôler le régime de la mise à l'épreuve
+
+##### Paragraphe 3 : Des associations placées auprès des comités
+
+###### Article A50
+
+Les statuts de l'association sont conformes à un type commun établi par le ministre de la justice.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Arrêté 1959-02-27
+
+	**Abrogé par**:
+
+	  - Arrêté 2001-04-18 art. 3 JORF 9 juin 2001
+
+
+###### Article A51
+
+Le contrôle du fonctionnement de l'association et de sa gestion financière est assuré, soit sur pièces par le ministre de la
+justice, soit sur place par les autorités judiciaires ou les représentants dûment habilités à cet effet du ministre de la
+justice.
+
+Ce contrôle doit comporter notamment la vérification de la comptabilité de l'association et de l'utilisation de ses
+ressources.
+
+Les magistrats et fonctionnaires habilités par le ministre de la justice peuvent procéder à toutes vérifications de caisse et
+de comptabilité. Tous registres et dossiers, ainsi que tous documents relatifs au fonctionnement de l'association doivent
+leur être communiqués.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Arrêté 1959-02-27
+
+	**Abrogé par**:
+
+	  - Arrêté 2001-04-18 art. 3 JORF 9 juin 2001
+
+
+## Livre VI : Modalités d'application en ce qui concerne les départements de la Guadeloupe, de la Guyane, de la Martinique et de la Réunion
+
+###### Article A56
+
+L'enquête prévue à l'article D. 81 sur la situation du condamné avant son incarcération est demandée au service social de
+l'administration pénitentiaire ou à défaut aux services sociaux locaux, par le fonctionnaire visé à l'article A. 54.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Arrêté 1959-02-27
+
+	**Cite**:
+
+	  - Code de procédure pénale - art. A54 (V)
+	  - Code de procédure pénale - art. D81 (V)
+
+
+###### Article A57
+
+Les attributions dévolues au directeur régional des services pénitentiaires par le présent code sont exercées, dans le
+département de la Réunion, par le fonctionnaire assurant les fonctions de directeur des prisons de ce département.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Arrêté 1959-02-27
 
 
