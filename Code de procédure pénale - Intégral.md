@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 1999-03-21
+Version Consolidée au 1999-04-14
 
 # Partie législative
 
@@ -50243,8 +50243,8 @@ Le chef d'établissement constitue un dossier d'orientation pour chaque condamn�
 d'incarcération d'une durée supérieure à un an. Pour les condamnés mineurs, le dossier d'orientation est constitué si le
 temps d'incarcération restant à subir est d'une durée supérieure à trois mois. Ce dossier comprend les renseignements
 relatifs à la situation pénale et pénitentiaire du condamné, les éléments afférents aux conditions de prise en charge
-sanitaire et l'avis du service socio-éducatif de l'établissement, l'avis du juge de l'application des peines et celui du juge
-des enfants s'il y a lieu, ainsi que la proposition du chef d'établissement.
+sanitaire et l'avis du service pénitentiaire d'insertion et de probation compétent auprès de l'établissement, l'avis du juge
+de l'application des peines et celui du juge des enfants s'il y a lieu, ainsi que la proposition du chef d'établissement.
 
 Les condamnés ayant à subir un temps d'incarcération d'une durée inférieure ou égale à un an pour les majeurs, et à trois
 mois pour les mineurs, peuvent faire l'objet d'un dossier d'orientation selon les mêmes modalités lorsque le chef
@@ -50264,7 +50264,11 @@ lorsque celle-ci relève de sa compétence ou communique le dossier assorti de s
 
 	**Modifié par**:
 
-	  - Décret n°98-1099 du 8 décembre 1998 - art. 2 () JORF 9 décembre 1998
+	  - Décret n°99-276 du 13 avril 1999 - art. 2 () JORF 14 avril 1999
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°99-276 du 13 avril 1999 - art. 37 (V)
 
 	**Cité par**:
 
@@ -50278,10 +50282,6 @@ lorsque celle-ci relève de sa compétence ou communique le dossier assorti de s
 	**Cite**:
 
 	  - CODE DE PROCEDURE PENALE - art. D77 (M)
-
-	**Liens**:
-
-	  - TXT_SOURCE: Code de procédure pénale 714 à 728
 
 
 ###### Article D77
@@ -50376,9 +50376,9 @@ est détenu.
 ###### Article D79
 
 Afin de compléter le dossier mentionné à l'article D. 76, le ministre de la justice, ou le directeur régional, peut procéder
-ou faire procéder, notamment par un service socio-éducatif des services déconcentrés, à toute enquête sur la situation
-familiale et sociale d'un condamné. Le chef d'établissement peut également faire procéder à une telle enquête par le service
-socio-éducatif de son établissement.
+ou faire procéder, notamment par l'un des services pénitentiaires d'insertion et de probation, à toute enquête sur la
+situation familiale et sociale d'un condamné. Le chef d'établissement peut également faire procéder à une telle enquête par
+le service pénitentiaire d'insertion et de probation compétent auprès de son établissement.
 
 **Liens relatifs à cet article**
 
@@ -50388,12 +50388,12 @@ socio-éducatif de son établissement.
 
 	**Liens**:
 
-	  - SPEC_APPLI: Décret n°59-322 1959-02-23 art. 6
+	  - SPEC_APPLI: Décret n°59-322 1959-02-23 art. 6 Décret 99-276 1999-04-13 art. 37
 	  - TXT_SOURCE: Code de procédure pénale 714 à 728
 
 	**Modifié par**:
 
-	  - Décret n°98-1099 du 8 décembre 1998 - art. 2 () JORF 9 décembre 1998
+	  - Décret n°99-276 du 13 avril 1999 - art. 3 () JORF 14 avril 1999
 
 	**Cité par**:
 
@@ -50402,7 +50402,7 @@ socio-éducatif de son établissement.
 
 	**Cite**:
 
-	  - CODE DE PROCEDURE PENALE - art. D76 (M)
+	  - Code de procédure pénale - art. D76 (V)
 
 
 ##### Paragraphe 3 : La décision d'affectation
@@ -50961,8 +50961,8 @@ difficultés particulières, il doit adresser dans les plus brefs délais un rap
 ###### Article D94
 
 Dans chaque maison centrale ou centre de détention la prise en charge des détenus est effectuée, à leur arrivée, par le chef
-d'établissement et les différents personnels visés à l'article D. 285, en particulier par les membres du personnel socio-
-éducatif.
+d'établissement et les différents personnels visés à l'article D. 285, en particulier par les membres du service
+pénitentiaire d'insertion et de probation compétent auprès de l'établissement.
 
 A cette occasion, les condamnés sont informés du régime intérieur de l'établissement et du projet d'exécution de leur peine,
 dont les modalités sont examinées avec eux, ainsi qu'il est prévu à l'article D. 74.
@@ -50976,9 +50976,14 @@ excéder  quinze jours.
 
 	  - Décret n°59-322 1959-02-23
 
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°99-276 du 13 avril 1999 - art. 37 (V)
+	  - TXT_SOURCE: Code de procédure pénale 714 à 728
+
 	**Modifié par**:
 
-	  - Décret n°98-1099 du 8 décembre 1998 - art. 10 () JORF 9 décembre 1998
+	  - Décret n°99-276 du 13 avril 1999 - art. 4 () JORF 14 avril 1999
 
 	**Cité par**:
 
@@ -50988,10 +50993,6 @@ excéder  quinze jours.
 
 	  - CODE DE PROCEDURE PENALE - art. D285. (M)
 	  - CODE DE PROCEDURE PENALE - art. D74 (M)
-
-	**Liens**:
-
-	  - TXT_SOURCE: Code de procédure pénale 714 à 728
 
 
 ###### Article D95
@@ -53262,17 +53263,18 @@ encourager les efforts des détenus en vue de leur réinsertion sociale.
 
 ###### Article D162
 
-La troisième partie du dossier visé à l'article D. 156 correspond au dossier destiné au service socio-éducatif.
+La troisième partie du dossier visé à l'article D. 156 correspond au dossier destiné aux membres du service pénitentiaire
+d'insertion et de probation compétent auprès de l'établissement.
 
 Contenant des éléments ou documents recueillis par les travailleurs sociaux ou qui leur ont été fournis, ce dossier leur
 permet de suivre l'évolution du détenu et, ainsi, de mieux individualiser sa situation pénale et la préparation de sa
 libération. Il a aussi pour objet de leur permettre de renseigner l'autorité judiciaire qui en fait la demande, en
-application de l'article D. 462.
+application de l'article D. 461.
 
-Les documents couverts par le secret professionnel ne peuvent être consultés que par un membre d'un service socio-éducatif.
-En cas de transfèrement, le service socio-éducatif transmet ces documents sous pli fermé au service correspondant de
-l'établissement de destination ou, en cas de libération et s'il y a lieu, au comité de probation et d'assistance aux libérés
-du lieu de résidence où l'intéressé a déclaré se retirer.
+Les documents couverts par le secret professionnel ne peuvent être consultés que par un membre d'un service pénitentiaire
+d'insertion et de probation. En cas de transfèrement, le service pénitentiaire d'insertion et de probation transmet ces
+documents sous pli fermé au service compétent auprès de l'établissement de destination ou, en cas de libération et s'il y a
+lieu, au service pénitentiaire d'insertion et de probation du lieu de résidence de l'intéressé.
 
 **Liens relatifs à cet article**
 
@@ -53280,22 +53282,22 @@ du lieu de résidence où l'intéressé a déclaré se retirer.
 
 	  - Décret n°59-322 1959-02-23
 
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°99-276 du 13 avril 1999 - art. 37 (V)
+	  - TXT_SOURCE: Code de procédure pénale 714 à 728
+
 	**Modifié par**:
 
-	  - Décret n°98-1099 1998-12-08 art. 40, 43 et 47 JORF 9 décembre 1998
-	  - Décret n°98-1099 du 8 décembre 1998 - art. 40 () JORF 9 décembre 1998
+	  - Décret n°99-276 du 13 avril 1999 - art. 5 () JORF 14 avril 1999
 
 	**Cite**:
 
-	  - CODE DE PROCEDURE PENALE - art. D462 (M)
+	  - CODE DE PROCEDURE PENALE - art. D461 (M)
 
 	**Cité par**:
 
 	  - Code de procédure pénale - art. D156 (V)
-
-	**Liens**:
-
-	  - TXT_SOURCE: Code de procédure pénale 714 à 728
 
 
 ###### Article D163
@@ -54108,6 +54110,27 @@ Personnel infirmier : corps interministériel des infirmières et infirmiers de 
 	  - TXT_SOURCE: Code de procédure pénale 714 à 728
 
 
+###### Article D196-1
+
+Dans le présent livre, les termes "travailleurs sociaux des services pénitentiaires d'insertion et de probation" s'appliquent
+indifféremment aux personnels d'insertion et de probation, aux assistants sociaux et aux conseillers techniques de service
+social.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-322 1959-02-23
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°99-276 du 13 avril 1999 - art. 37 (V)
+
+	**Créé par**:
+
+	  - Décret n°99-276 du 13 avril 1999 - art. 6 () JORF 14 avril 1999
+
+
 ###### Article D197
 
 Dans chaque région et dans chaque établissement pénitentiaire, la composition du personnel est déterminée par le ministère de
@@ -54131,7 +54154,7 @@ l'administration pénitentiaire.
 
 Les agents visés à l'article D. 196, 1°, exercent les fonctions définies par le statut spécial des fonctionnaires des
 services déconcentrés de l'administration pénitentiaire et par les textes relatifs à l'organisation et à la gestion des
-établissements.
+services de l'administration pénitentiaire. 
 
 Les agents visés à l'article D. 196, 2°, 3°, 4° et 5° exercent leurs fonctions dans les conditions et sous les obligations
 particulières résultant des dispositions législatives et réglementaires régissant le service public pénitentiaire.
@@ -54142,17 +54165,18 @@ particulières résultant des dispositions législatives et réglementaires rég
 
 	  - Décret n°59-322 1959-02-23
 
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°99-276 du 13 avril 1999 - art. 37 (V)
+	  - TXT_SOURCE: Code de procédure pénale 714 à 728
+
 	**Modifié par**:
 
-	  - Décret n°98-1099 du 8 décembre 1998 - art. 105 () JORF 9 décembre 1998
+	  - Décret n°99-276 du 13 avril 1999 - art. 7 () JORF 14 avril 1999
 
 	**Cite**:
 
-	  - CODE DE PROCEDURE PENALE - art. D196. (M)
-
-	**Liens**:
-
-	  - TXT_SOURCE: Code de procédure pénale 714 à 728
+	  - Code de procédure pénale - art. D196 (V)
 
 
 ##### Paragraphe 2 : Dispositions générales
@@ -54262,7 +54286,8 @@ Les membres du personnel doivent, en toute circonstance, se conduire et accompli
 exemple ait une bonne influence sur les détenus et suscite leur respect.
 
 Ils doivent s'abstenir de tout acte, de tout propos ou de tout écrit qui serait de nature à porter atteinte à la sécurité et
-au bon ordre des établissements.
+au bon ordre des établissements et doivent remplir leurs fonctions dans des conditions telles que celles-ci ne puissent
+préjudicier à la bonne marche des procédures judiciaires.
 
 Ils sont tenus de se porter mutuellement aide et assistance chaque fois que les circonstances le requièrent.
 
@@ -54275,7 +54300,12 @@ Ils sont tenus de se porter mutuellement aide et assistance chaque fois que les 
 	**Liens**:
 
 	  - SPEC_APPLI: Décret n°59-322 1959-02-23 art. 6
+	  - SPEC_APPLI: Décret n°99-276 du 13 avril 1999 - art. 37 (V)
 	  - TXT_SOURCE: Code de procédure pénale 714 à 728
+
+	**Modifié par**:
+
+	  - Décret n°99-276 du 13 avril 1999 - art. 8 () JORF 14 avril 1999
 
 
 ###### Article D220
@@ -55959,10 +55989,21 @@ susceptible de présenter une telle mesure pour sa réinsertion.
 
 Dans chaque établissement pénitentiaire un règlement intérieur détermine le contenu du régime propre à l'établissement.
 
-Le règlement intérieur établi par le chef d'établissement, ainsi que toute modification apportée à ce document, sont transmis
-pour approbation au directeur régional, après avoir été soumis pour avis au juge de l'application des peines.
+Le règlement intérieur est établi par le chef d'établissement, en liaison notamment avec le service pénitentiaire d'insertion
+et de probation pour les domaines relevant de la compétence de ce service. Le règlement intérieur ainsi que toute
+modification apportée à ce document sont transmis pour approbation au directeur régional, après avoir été soumis pour avis au
+juge de l'application des peines.
 
 Le règlement intérieur, ainsi que les modifications qui lui sont apportées, sont communiqués à la commission de surveillance.
+
+**Nota:**
+
+Décret n° 2010-1635 du 23 décembre 2010 article 48 : L'abrogation des articles D. 255 à D. 257 entre en vigueur à compter de
+l'entrée en vigueur du décret en Conseil d'Etat relatif aux règlements intérieurs types des établissements pénitentiaires
+dans les conditions prévues à l'article 728 du code de procédure pénale.
+
+Le décret n° 2013-368 fixe en son annexe le règlement intérieur type des établissements pénitentiaires qui est annexé à
+l'article R. 57-6-18 du code de procédure pénale, il entre en vigueur le 4 mai 2013.
 
 **Liens relatifs à cet article**
 
@@ -55970,13 +56011,18 @@ Le règlement intérieur, ainsi que les modifications qui lui sont apportées, s
 
 	  - Décret n°59-322 1959-02-23
 
-	**Modifié par**:
-
-	  - Décret n°98-1099 du 8 décembre 1998 - art. 190 () JORF 9 décembre 1998
-
 	**Liens**:
 
+	  - SPEC_APPLI: Décret n°99-276 du 13 avril 1999 - art. 37 (V)
 	  - TXT_SOURCE: Code de procédure pénale 714 à 728
+
+	**Modifié par**:
+
+	  - Décret n°99-276 du 13 avril 1999 - art. 9 () JORF 14 avril 1999
+
+	**Abrogé par**:
+
+	  - Décret n°2010-1635 du 23 décembre 2010 - art. 46
 
 
 ###### Article D256
@@ -57092,8 +57138,7 @@ chef de l'établissement ou par un de ses subordonnés immédiats.
 
 Dans les délais les plus brefs, le détenu est soumis à un examen médical dans les conditions prévues à l'article D. 381.
 
-Le détenu est également visité, dès que possible, par un membre du service socio-éducatif, conformément aux dispositions de
-l'article D. 464.
+Le détenu est également visité, dès que possible, par un membre du service pénitentiaire d'insertion et de probation.
 
 Le détenu qui manifeste son intention de pratiquer sa religion peut être visité par le ministre du culte, conformément aux
 dispositions de l'article D. 436.
@@ -57106,7 +57151,12 @@ dispositions de l'article D. 436.
 
 	**Modifié par**:
 
-	  - Décret n°98-1099 du 8 décembre 1998 - art. 69 () JORF 9 décembre 1998
+	  - Décret n°99-276 du 13 avril 1999 - art. 10 () JORF 14 avril 1999
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°99-276 du 13 avril 1999 - art. 37 (V)
+	  - TXT_SOURCE: Code de procédure pénale 714 à 728
 
 	**Cité par**:
 
@@ -57117,11 +57167,6 @@ dispositions de l'article D. 436.
 
 	  - CODE DE PROCEDURE PENALE - art. D381 (M)
 	  - CODE DE PROCEDURE PENALE - art. D436 (V)
-	  - CODE DE PROCEDURE PENALE - art. D464 (M)
-
-	**Liens**:
-
-	  - TXT_SOURCE: Code de procédure pénale 714 à 728
 
 
 ###### Article D287
@@ -60819,11 +60864,11 @@ Des locaux spécialement aménagés sont réservés à l'accueil des mères ayan
 prévenues, elles ne peuvent être transférées dans un établissement doté de tels locaux qu'après accord du magistrat saisi du
 dossier de l'information.
 
-Il appartient au service socio-éducatif de l'établissement pénitentiaire, en liaison avec les services compétents en matière
-d'enfance et de famille et avec les titulaires de l'autorité parentale, d'organiser le séjour de l'enfant auprès de sa mère
-détenue et les sorties de celui-ci à l'extérieur de l'établissement pénitentiaire, et de préparer, le cas échéant, la
-séparation de l'enfant d'avec sa mère, au mieux de son intérêt. Durant les six mois suivant son départ, l'enfant peut être
-admis à séjourner pour de courtes périodes auprès de sa mère.
+Il appartient au service pénitentiaire d'insertion et de probation compétent auprès de l'établissement pénitentiaire, en
+liaison avec les services compétents en matière d'enfance et de famille et avec les titulaires de l'autorité parentale,
+d'organiser le séjour de l'enfant auprès de sa mère détenue et les sorties de celui-ci à l'extérieur de l'établissement
+pénitentiaire, et de préparer, le cas échéant, la séparation de l'enfant d'avec sa mère, au mieux de son intérêt. Durant les
+six mois suivant son départ, l'enfant peut être admis à séjourner pour de courtes périodes auprès de sa mère.
 
 **Liens relatifs à cet article**
 
@@ -60833,16 +60878,17 @@ admis à séjourner pour de courtes périodes auprès de sa mère.
 
 	**Modifié par**:
 
-	  - Décret n°98-1099 du 8 décembre 1998 - art. 90 () JORF 9 décembre 1998
+	  - Décret n°99-276 du 13 avril 1999 - art. 11 () JORF 14 avril 1999
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°99-276 du 13 avril 1999 - art. 37 (V)
+	  - TXT_SOURCE: Code de procédure pénale 714 à 728
 
 	**Cité par**:
 
 	  - Décret n°2014-1279 du 23 octobre 2014 - art. (VD)
 	  - CODE DE PROCEDURE PENALE - art. D401-1 (M)
-
-	**Liens**:
-
-	  - TXT_SOURCE: Code de procédure pénale 714 à 728
 
 
 ###### Article D401-1
@@ -61727,8 +61773,8 @@ Il est délivré aux détenus qui en font la demande, soit au cours de leur inca
 soit même après, un certificat attestant leur présence ou la durée de leur présence en établissement pénitentiaire sans en
 préciser le motif, et mentionnant s'il y a lieu leur affiliation à la sécurité sociale.
 
-Ce certificat peut également être délivré à un membre du service socio-éducatif en vue de permettre le paiement des
-prestations dues par les caisses d'allocations familiales.
+Ce certificat peut également être délivré à un membre du service pénitentiaire d'insertion et de probation compétent auprès
+de l'établissement pénitentiaire en vue de permettre le paiement des prestations dues par les organismes sociaux.
 
 Il ne doit comporter en aucun cas d'appréciation sur l'intéressé.
 
@@ -61736,15 +61782,20 @@ Il ne doit comporter en aucun cas d'appréciation sur l'intéressé.
 
 	**Codifié par**:
 
-	  - Décret n°59-322 1959-02-23
+	  - Décret n°59-322 du 23 février 1959
 
 	**Modifié par**:
 
-	  - Décret n°85-836 1985-08-06 art. 9-9° JORF 8 août 1985
+	  - Décret n°99-276 du 13 avril 1999 - art. 12 () JORF 14 avril 1999
 
 	**Liens**:
 
+	  - SPEC_APPLI: Décret n°99-276 du 13 avril 1999 - art. 37 (V)
 	  - TXT_SOURCE: Code de procédure pénale 714 à 728
+
+	**Abrogé par**:
+
+	  - Décret n°2013-368 du 30 avril 2013 - art. 2
 
 
 #### Chapitre X : Des actions de préparation à la réinsertion des détenus
@@ -62246,27 +62297,36 @@ associations sont susceptibles de lui offrir.
 Au sein des établissements pénitentiaires, toutes dispositions sont prises pour assurer la formation professionnelle des
 personnes incarcérées qui le souhaitent.
 
+Le service pénitentiaire d'insertion et de probation détermine, en liaison avec les chefs des établissements auprès desquels
+il intervient, les actions de formation professionnelle au bénéfice des personnes placées sous main de justice dans les
+conditions fixées par l'article D. 573.
+
 Le détenu susceptible de profiter d'une formation professionnelle peut être transféré dans l'établissement pénitentiaire où
 elle est assurée, à condition que sa situation pénale le permette.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Décret n°59-322 1959-02-23
-
 	**Liens**:
 
-	  - SPEC_APPLI: Décret n°59-322 1959-02-23 art. 6
+	  - SPEC_APPLI: Décret n°59-322 1959-02-23 art. 6 Décret 99-276 1999-04-13 art. 37
+	  - TRANSFERE: Décret n°2010-1635 du 23 décembre 2010 - art. 36
 	  - TXT_SOURCE: Code de procédure pénale 714 à 728
+
+	**Codifié par**:
+
+	  - Décret n°59-322 du 23 février 1959
 
 	**Modifié par**:
 
-	  - Décret n°98-1099 du 8 décembre 1998 - art. 123 () JORF 9 décembre 1998
+	  - Décret n°99-276 du 13 avril 1999 - art. 17 () JORF 14 avril 1999
 
 	**Cité par**:
 
 	  - CODE DE PROCEDURE PENALE - art. D573 (V)
+
+	**Nouveaux textes**:
+
+	  - Code de procédure pénale - art. D438 (V)
 
 
 ###### Article D458
@@ -62352,8 +62412,8 @@ des intéressés.
 Des activités socioculturelles sont organisées dans chaque établissement pénitentiaire. Elles ont notamment pour objet de
 développer les moyens d'expression, les connaissances et les aptitudes des détenus.
 
-Le service socio-éducatif recherche à cet effet le concours d'intervenants extérieurs auxquels peut être confiée l'animation
-de certaines activités.
+Le service pénitentiaire d'insertion et de probation recherche à cet effet le concours d'intervenants extérieurs auxquels
+peut être confiée l'animation de certaines activités.
 
 L'emploi du temps hebdomadaire doit permettre à tout détenu qui le souhaite de participer à ces activités.
 
@@ -62365,7 +62425,7 @@ L'emploi du temps hebdomadaire doit permettre à tout détenu qui le souhaite de
 
 	**Modifié par**:
 
-	  - Décret n°98-1099 du 8 décembre 1998 - art. 115 () JORF 9 décembre 1998
+	  - Décret n°99-276 du 13 avril 1999 - art. 13 () JORF 14 avril 1999
 
 
 ##### Paragraphe 2 : L'action culturelle
@@ -62390,8 +62450,8 @@ Ce programme a pour objectif de développer les moyens d'expression et les conna
 
 ###### Article D441-1
 
-Le service socio-éducatif, sous l'autorité du chef d'établissement, est plus particulièrement chargé d'organiser la
-programmation culturelle de l'établissement.
+Le service pénitentiaire d'insertion et de probation, en liaison avec le chef d'établissement, est chargé de définir et
+d'organiser la programmation culturelle de l'établissement.
 
 A cet effet, il sélectionne et met en oeuvre, avec l'appui des services compétents de l'Etat et des collectivités
 territoriales, des projets proposés par des organismes ou des opérateurs culturels.
@@ -62402,9 +62462,9 @@ territoriales, des projets proposés par des organismes ou des opérateurs cultu
 
 	  - Décret n°59-322 1959-02-23
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°98-1099 du 8 décembre 1998 - art. 117 () JORF 9 décembre 1998
+	  - Décret n°99-276 du 13 avril 1999 - art. 14 () JORF 14 avril 1999
 
 	**Cité par**:
 
@@ -62417,18 +62477,22 @@ Chaque établissement possède une bibliothèque dont les ouvrages sont mis grat
 
 Sa localisation doit permettre un accès direct et régulier des détenus à l'ensemble des documents.
 
-Un bibliothécaire ou, à défaut, le service socio-éducatif assure les achats, organise la formation et encadre les détenus qui
-en assurent la gestion quotidienne.
+Un bibliothécaire ou, à défaut, le service pénitentiaire d'insertion et de probation assure les achats, organise la formation
+et encadre les détenus qui en assurent la gestion quotidienne.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°59-322 1959-02-23
+	  - Décret n°59-322 du 23 février 1959
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°98-1099 du 8 décembre 1998 - art. 117 () JORF 9 décembre 1998
+	  - Décret n°99-276 du 13 avril 1999 - art. 15 () JORF 14 avril 1999
+
+	**Abrogé par**:
+
+	  - Décret n°2010-1635 du 23 décembre 2010 - art. 46
 
 
 ##### Paragraphe 3 : L'association socioculturelle et sportive
@@ -62569,11 +62633,11 @@ nationale ou locale.
 
 Pour l'animation d'activités par des personnes extérieures, l'autorisation est donnée par le chef d'établissement.
 
-Sous le contrôle du service socio-éducatif, des détenus peuvent être associés à l'organisation de ces activités et certains
-d'entre eux chargés de les préparer et de les animer.
+Sous le contrôle du service pénitentiaire d'insertion et de probation, des détenus peuvent être associés à l'organisation de
+ces activités et certains d'entre eux chargés de les préparer et de les animer.
 
 La liste des détenus autorisés à participer à ces activités est établie par le chef d'établissement après concertation avec
-le service socio-éducatif et, éventuellement, avec l'animateur extérieur.
+le service pénitentiaire d'insertion et de probation et, éventuellement, avec l'animateur extérieur.
 
 **Liens relatifs à cet article**
 
@@ -62583,15 +62647,15 @@ le service socio-éducatif et, éventuellement, avec l'animateur extérieur.
 
 	**Modifié par**:
 
-	  - Décret n°98-1099 du 8 décembre 1998 - art. 119 () JORF 9 décembre 1998
+	  - Décret n°99-276 du 13 avril 1999 - art. 16 () JORF 14 avril 1999
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°99-276 du 13 avril 1999 - art. 37 (V)
 
 	**Cité par**:
 
 	  - Code de procédure pénale - art. D83 (V)
-
-	**Liens**:
-
-	  - TXT_SOURCE: Code de procédure pénale 714 à 728
 
 
 ###### Article D447
@@ -62691,15 +62755,22 @@ détenus.
 La pratique des activités physiques et sportives s'effectue en liaison avec les services compétents des ministères chargés de
 l'éducation nationale et de la jeunesse et des sports.
 
+Le service pénitentiaire d'insertion et de probation contribue, en liaison avec le chef d'établissement et les services
+compétents, à l'élaboration de la programmation des activités sportives de l'établissement.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°59-322 1959-02-23
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°98-1099 du 8 décembre 1998 - art. 132 () JORF 9 décembre 1998
+	  - Décret n°99-276 du 13 avril 1999 - art. 18 () JORF 14 avril 1999
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°99-276 du 13 avril 1999 - art. 37 (V)
 
 	**Cité par**:
 
@@ -62751,27 +62822,16 @@ disciplinaires, le chef d'établissement peut en écarter tout autre détenu pou
 	  - Code de procédure pénale - art. D83 (V)
 
 
-##### Section 5 : Du service socio-éducatif
+##### Section 5 : De l'intervention socio-éducative
 
 ###### Article D460
 
-Au sein de chaque établissement pénitentiaire est institué un service socio-éducatif qui comprend des assistants de service
-social et des conseillers d'insertion et de probation.
+Auprès de chaque établissement pénitentiaire, le service pénitentiaire d'insertion et de probation a pour mission de
+participer à la prévention des effets désocialisants de l'emprisonnement sur les détenus, de favoriser le maintien des liens
+sociaux et familiaux et de les aider à préparer leur réinsertion sociale.
 
-Dans le présent titre, le terme de travailleur social [*définition*] s'applique indifféremment aux assistants de service
-social et aux conseillers d'insertion et de probation.
-
-Dans les établissements pénitentiaires les plus importants, le service socio-éducatif est dirigé par un personnel d'insertion
-et de probation ou un personnel de service social.
-
-Afin de coordonner, de développer et d'orienter l'action de l'ensemble des travailleurs sociaux en milieu ouvert et en milieu
-fermé, un travailleur social est affecté au siège de chaque direction régionale des services pénitentiaires.
-
-Des travailleurs sociaux sont affectés à l'administration centrale pour participer à l'élaboration de la politique socio-
-éducative et à sa mise en oeuvre.
-
-Des visiteurs de prison, bénévoles, ont pour mission d'aider dans leur tâche les membres du service socio-éducatif qui, dans
-chaque établissement, coordonnent leur action.
+Il assure les liaisons avec les divers services sociaux, éducatifs, médico-sociaux et prend tous contacts qu'il juge
+nécessaires pour la réinsertion des détenus.
 
 **Liens relatifs à cet article**
 
@@ -62781,27 +62841,29 @@ chaque établissement, coordonnent leur action.
 
 	**Modifié par**:
 
-	  - Décret n°98-1099 du 8 décembre 1998 - art. 131 () JORF 9 décembre 1998
+	  - Décret n°99-276 du 13 avril 1999 - art. 19 () JORF 14 avril 1999
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°99-276 du 13 avril 1999 - art. 37 (V)
 
 	**Cité par**:
 
 	  - CODE DE PROCEDURE PENALE - art. D472 (M)
 	  - Code de procédure pénale - art. D514-1 (V)
 
-	**Liens**:
-
-	  - TXT_SOURCE: Code de procédure pénale 714 à 728
-
-
-##### Paragraphe 1er : Travailleurs sociaux
 
 ###### Article D461
 
-Le service socio-éducatif a pour mission de participer à la prévention des effets désocialisants de l'emprisonnement sur les
-détenus, de favoriser le maintien de leurs liens sociaux et familiaux et de les aider à préparer leur réinsertion sociale.
+Le service pénitentiaire d'insertion et de probation est chargé de rechercher les moyens propres à favoriser
+l'individualisation de la situation pénale des détenus, notamment dans le cadre des orientations données par le juge de
+l'application des peines.
 
-Les travailleurs sociaux assurent les liaisons avec les divers services sociaux, éducatifs, médico-sociaux locaux et prennent
-tous contacts qu'ils jugent nécessaires pour la réinsertion des détenus.
+Chaque fois que la demande leur en est faite ou à leur initiative, les travailleurs sociaux du service pénitentiaire
+d'insertion et de probation fournissent à l'autorité judiciaire et aux services de l'administration pénitentiaire les
+éléments permettant de mieux individualiser l'exécution de la mesure privative de liberté de chaque détenu ; ils élaborent
+notamment des avis ou rapports sur les détenus provisoires ou ceux dont la situation pénale est examinée en commission de
+l'application des peines.
 
 **Liens relatifs à cet article**
 
@@ -62811,7 +62873,11 @@ tous contacts qu'ils jugent nécessaires pour la réinsertion des détenus.
 
 	**Modifié par**:
 
-	  - Décret n°98-1099 du 8 décembre 1998 - art. 131 () JORF 9 décembre 1998
+	  - Décret n°99-276 du 13 avril 1999 - art. 19 () JORF 14 avril 1999
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°99-276 du 13 avril 1999 - art. 37 (V)
 
 	**Cité par**:
 
@@ -62821,12 +62887,8 @@ tous contacts qu'ils jugent nécessaires pour la réinsertion des détenus.
 
 ###### Article D462
 
-Dans le cadre des dispositions légales et sous réserve des liaisons établies conformément à l'article D. 461, les
-travailleurs sociaux sont tenus à l'égard des tiers au secret en tout ce qui concerne les informations qu'ils ont pu
-recueillir dans l'exercice de leurs fonctions [*obligations*].
-
-Chaque fois que la demande leur en est faite ou à leur initiative, ils fournissent à l'autorité judiciaire ou à
-l'administration pénitentiaire les éléments permettant de mieux individualiser la situation pénale des détenus.
+Le service pénitentiaire d'insertion et de probation est systématiquement avisé de l'identité et de la situation pénale de
+tout détenu venant d'être écroué. Il a accès au dossier individuel de tout détenu.
 
 **Liens relatifs à cet article**
 
@@ -62836,25 +62898,25 @@ l'administration pénitentiaire les éléments permettant de mieux individualise
 
 	**Modifié par**:
 
-	  - Décret n°98-1099 du 8 décembre 1998 - art. 131 () JORF 9 décembre 1998
+	  - Décret n°99-276 du 13 avril 1999 - art. 19 () JORF 14 avril 1999
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°99-276 du 13 avril 1999 - art. 37 (V)
 
 	**Cité par**:
 
 	  - CODE DE PROCEDURE PENALE - art. D162 (M)
 	  - Code de procédure pénale - art. D49-63 (V)
 
-	**Cite**:
-
-	  - CODE DE PROCEDURE PENALE - art. D461 (M)
-
 
 ###### Article D463
 
-Les travailleurs sociaux doivent remplir leurs fonctions dans des conditions telles que celles-ci ne puissent préjudicier à
-la sécurité et à la discipline de l'établissement non plus qu'à la bonne marche des procédures judiciaires.
+Les travailleurs sociaux du service pénitentiaire d'insertion et de probation ont libre accès, aux heures de service de jour,
+aux locaux de détention pour les besoins de leur service.
 
-Plus généralement, ils doivent se conformer aux interdictions visées à l'article D. 220, qui sont imposées à toutes les
-personnes accomplissant des fonctions ou un service quelconque dans un établissement pénitentiaire.
+Les entretiens avec les détenus ont lieu, dans des conditions garantissant la confidentialité, soit dans un parloir ou
+bureau, soit dans la cellule du détenu et, s'il se trouve au quartier disciplinaire, dans un local spécial.
 
 **Liens relatifs à cet article**
 
@@ -62864,130 +62926,18 @@ personnes accomplissant des fonctions ou un service quelconque dans un établiss
 
 	**Modifié par**:
 
-	  - Décret n°98-1099 du 8 décembre 1998 - art. 131 () JORF 9 décembre 1998
-
-	**Cite**:
-
-	  - CODE DE PROCEDURE PENALE - art. D220. (M)
+	  - Décret n°99-276 du 13 avril 1999 - art. 19 () JORF 14 avril 1999
 
 	**Liens**:
 
+	  - SPEC_APPLI: Décret n°99-276 du 13 avril 1999 - art. 37 (V)
 	  - TXT_SOURCE: Code de procédure pénale 714 à 728
 
-
-##### A : Rôle des travailleurs sociaux à l'égard des détenus
 
 ###### Article D464
 
-Le travailleur social s'entretient avec les entrants dès que possible. A cet effet, il est systématiquement avisé de
-l'identité et de la situation pénale de tout détenu venant d'être écroué.
-
-En vue de prendre toutes mesures utiles relevant de sa compétence, le travailleur social examine la situation personnelle,
-sociale et administrative de l'intéressé ainsi que les conséquences de l'incarcération sur les conditions de vie de sa
-famille.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°59-322 1959-02-23
-
-	**Modifié par**:
-
-	  - Décret n°98-1099 du 8 décembre 1998 - art. 131 () JORF 9 décembre 1998
-
-	**Cité par**:
-
-	  - CODE DE PROCEDURE PENALE - art. D285 (M)
-
-	**Liens**:
-
-	  - TXT_SOURCE: Code de procédure pénale 714 à 728
-
-
-###### Article D465
-
-Les travailleurs sociaux affectés dans les établissements pénitentiaires interviennent auprès des détenus lors d'entretiens
-individuels ou à l'occasion d'animations ou de réunions de groupes.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°59-322 1959-02-23
-
-	**Modifié par**:
-
-	  - Décret n°98-1099 du 8 décembre 1998 - art. 131 () JORF 9 décembre 1998
-
-	**Liens**:
-
-	  - TXT_SOURCE: Code de procédure pénale 714 à 728
-
-
-###### Article D466
-
-Le travailleur social doit être régulièrement informé par le chef d'établissement de la situation pénale du détenu et, avant
-la libération de ce dernier, avoir un entretien avec lui pour examiner les mesures susceptibles d'améliorer les conditions de
-sa sortie.
-
-Le travailleur social prend les dispositions qui lui paraissent utiles pour la réinsertion du libéré, notamment en l'aidant à
-se procurer un travail, un hébergement ou en le secondant dans ses diverses démarches.
-
-A cette fin, il prend tous contacts utiles avec le comité de probation et d'assistance aux libérés dans le ressort duquel
-l'intéressé a déclaré vouloir se rendre.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°59-322 1959-02-23
-
-	**Modifié par**:
-
-	  - Décret n°98-1099 du 8 décembre 1998 - art. 131 () JORF 9 décembre 1998
-
-	**Abrogé par**:
-
-	  - Décret n°99-276 du 13 avril 1999 - art. 36 (V) JORF 14 avril 1999
-
-
-##### B : Moyens d'action des travailleurs sociaux
-
-###### Article D467
-
-Les travailleurs sociaux ont libre accès aux heures du service de jour, aux locaux de détention pour les besoins de leur
-service. Toutefois, l'accès aux ateliers ou aux dortoirs en commun est subordonné à l'autorisation du chef d'établissement.
-
-Sous cette réserve, les entretiens avec les détenus ont lieu dans les conditions fixées à l'article D. 437, alinéa 2.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°59-322 1959-02-23
-
-	**Modifié par**:
-
-	  - Décret n°98-1099 du 8 décembre 1998 - art. 131 () JORF 9 décembre 1998
-
-	**Abrogé par**:
-
-	  - Décret n°99-276 du 13 avril 1999 - art. 36 (V) JORF 14 avril 1999
-
-	**Cite**:
-
-	  - CODE DE PROCEDURE PENALE - art. D437 (V)
-
-	**Liens**:
-
-	  - TXT_SOURCE: Code de procédure pénale 714 à 728
-
-
-###### Article D468
-
-Pendant toute la durée de leur incarcération, les détenus peuvent être reçus par un travailleur social, soit à la suite de
-leur demande, soit sur convocation.
+Pendant toute la durée de leur incarcération, les détenus peuvent être reçus par un travailleur social du service
+pénitentiaire d'insertion et de probation soit à la suite de leur demande, soit sur convocation.
 
 Le travailleur social apprécie l'opportunité de recevoir un détenu ou d'effectuer les démarches qu'il sollicite.
 
@@ -62999,24 +62949,25 @@ Le travailleur social apprécie l'opportunité de recevoir un détenu ou d'effec
 
 	**Modifié par**:
 
-	  - Décret n°98-1099 du 8 décembre 1998 - art. 131 () JORF 9 décembre 1998
-
-	**Abrogé par**:
-
-	  - Décret n°99-276 du 13 avril 1999 - art. 36 (V) JORF 14 avril 1999
+	  - Décret n°99-276 du 13 avril 1999 - art. 19 () JORF 14 avril 1999
 
 	**Liens**:
 
+	  - SPEC_APPLI: Décret n°99-276 du 13 avril 1999 - art. 37 (V)
 	  - TXT_SOURCE: Code de procédure pénale 714 à 728
 
+	**Cité par**:
 
-###### Article D469
+	  - CODE DE PROCEDURE PENALE - art. D285 (M)
+
+
+###### Article D465
 
 La correspondance échangée entre les détenus et les travailleurs sociaux appartenant à l'un des services du ministère de la
 justice se fait librement et sous pli fermé.
 
-Les lettres adressées par les détenus à d'autres travailleurs sociaux peuvent être transmises sous pli fermé sous le contrôle
-du travailleur social de l'établissement ou, en son absence, du chef d'établissement.
+Les lettres adressées par les détenus à d'autres services sociaux peuvent être transmises sous pli fermé, sous le contrôle du
+service pénitentiaire d'insertion et de probation.
 
 **Liens relatifs à cet article**
 
@@ -63026,85 +62977,21 @@ du travailleur social de l'établissement ou, en son absence, du chef d'établis
 
 	**Modifié par**:
 
-	  - Décret n°98-1099 du 8 décembre 1998 - art. 131 () JORF 9 décembre 1998
-
-	**Abrogé par**:
-
-	  - Décret n°99-276 du 13 avril 1999 - art. 36 (V) JORF 14 avril 1999
-
-	**Cité par**:
-
-	  - Code de procédure pénale - art. D416 (Ab)
+	  - Décret n°99-276 du 13 avril 1999 - art. 19 () JORF 14 avril 1999
 
 	**Liens**:
 
+	  - SPEC_APPLI: Décret n°99-276 du 13 avril 1999 - art. 37 (V)
 	  - TXT_SOURCE: Code de procédure pénale 714 à 728
 
 
-###### Article D470
-
-Par dérogation aux dispositions des articles D. 467 à D. 469, les prévenus auxquels il est interdit de communiquer par
-application des dispositions du premier alinéa de l'article 145-4 ne peuvent ni correspondre avec le travailleur social, ni
-recevoir sa visite, à moins que celui-ci ne soit en possession d'une autorisation du magistrat saisi du dossier de
-l'information.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°59-322 1959-02-23
-
-	**Modifié par**:
-
-	  - Décret n°98-1099 du 8 décembre 1998 - art. 131 () JORF 9 décembre 1998
-
-	**Abrogé par**:
-
-	  - Décret n°99-276 du 13 avril 1999 - art. 36 (V) JORF 14 avril 1999
-
-	**Cite**:
-
-	  - CODE DE PROCEDURE PENALE - art. 145-4 (M)
-	  - Code de procédure pénale D467 à D469, 145-4
-
-	**Liens**:
-
-	  - TXT_SOURCE: Code de procédure pénale 714 à 728
-
-
-###### Article D471
-
-A la fin de chaque année, un rapport sur le fonctionnement du service socio-éducatif est établi par le chef de service ou, à
-défaut, par le ou les travailleurs sociaux en fonction dans l'établissement.
-
-Ce rapport est adressé par la voie hiérarchique à l'administration centrale ainsi qu'au juge de l'application des peines.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°59-322 1959-02-23
-
-	**Modifié par**:
-
-	  - Décret n°98-1099 du 8 décembre 1998 - art. 131 () JORF 9 décembre 1998
-
-	**Abrogé par**:
-
-	  - Décret n°99-276 du 13 avril 1999 - art. 36 (V) JORF 14 avril 1999
-
-	**Liens**:
-
-	  - TXT_SOURCE: Code de procédure pénale 714 à 728
-
-
-##### Paragraphe 2 : Visiteurs de prison
+##### Section 6 : Des visiteurs de prison
 
 ###### Article D472
 
 Les visiteurs de prison contribuent, bénévolement et en fonction de leurs aptitudes particulières, à la prise en charge des
-détenus signalés par le service socio-éducatif, en vue de préparer leur réinsertion en leur apportant notamment aide et
-soutien pendant leur incarcération. Ils peuvent participer à des actions d'animation collective.
+détenus signalés par le service pénitentiaire d'insertion et de probation, en vue de préparer leur réinsertion en leur
+apportant notamment aide et soutien pendant leur incarcération. Ils peuvent participer à des actions d'animation collective.
 
 **Liens relatifs à cet article**
 
@@ -63120,11 +63007,11 @@ soutien pendant leur incarcération. Ils peuvent participer à des actions d'ani
 
 	**Modifié par**:
 
-	  - Décret n°98-1099 du 8 décembre 1998 - art. 131 () JORF 9 décembre 1998
+	  - Décret n°99-276 du 13 avril 1999 - art. 20 () JORF 14 avril 1999
 
 	**Liens**:
 
-	  - TXT_SOURCE: Code de procédure pénale 714 à 728
+	  - SPEC_APPLI: Décret n°99-276 du 13 avril 1999 - art. 37 (V)
 
 
 ###### Article D473
@@ -63132,10 +63019,10 @@ soutien pendant leur incarcération. Ils peuvent participer à des actions d'ani
 Les visiteurs de prison sont agréés, pour une période de deux ans renouvelable, aux fins d'accès auprès des détenus d'un ou
 de plusieurs établissements déterminés.
 
-L'agrément est accordé par le directeur régional, après avis du préfet et du juge de l'application des peines.
+L'agrément est accordé par le directeur régional, après avis du préfet.
 
-L'agrément est retiré par le directeur régional soit d'office après avoir recueilli l'avis du juge de l'application des
-peines, soit à la demande de ce dernier ou du procureur de la République.
+L'agrément est retiré par le directeur régional soit d'office, soit à la demande du juge de l'application des peines ou du
+procureur de la République.
 
 En cas d'urgence, et pour des motifs graves, l'agrément peut être suspendu par le chef d'établissement, qui en avise sans
 délai le directeur régional, pour décision.
@@ -63148,7 +63035,12 @@ délai le directeur régional, pour décision.
 
 	**Modifié par**:
 
-	  - Décret n°98-1099 du 8 décembre 1998 - art. 131 () JORF 9 décembre 1998
+	  - Décret n°99-276 1999-04-13 art. 20, 21 et 23 JORF 14 avril 1999
+	  - Décret n°99-276 du 13 avril 1999 - art. 20 () JORF 14 avril 1999
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°99-276 du 13 avril 1999 - art. 37 (V)
 
 	**Cité par**:
 
@@ -63156,15 +63048,11 @@ délai le directeur régional, pour décision.
 	  - Code de la sécurité sociale. - art. D412-79 (M)
 	  - Code de procédure pénale - art. D187 (V)
 
-	**Liens**:
-
-	  - TXT_SOURCE: Code de procédure pénale 714 à 728
-
 
 ###### Article D474
 
-Les visiteurs de prison interviennent en collaboration avec le service socio-éducatif qui a pour tâche de coordonner leurs
-actions. Ils sont réunis chaque trimestre en présence du chef d'établissement.
+Les visiteurs de prison interviennent en collaboration avec le service pénitentiaire d'insertion et de probation qui a pour
+tâche de coordonner leurs actions. Ils sont réunis chaque trimestre en présence du chef d'établissement.
 
 Les visiteurs de prison s'engagent au respect des dispositions du présent titre et du règlement intérieur de l'établissement
 relatives à la discipline et à la sécurité, ainsi qu'aux obligations particulières résultant de leur qualité et de leur rôle,
@@ -63178,16 +63066,17 @@ portées à leur connaissance lors de leur prise de fonction.
 
 	**Modifié par**:
 
-	  - Décret n°98-1099 du 8 décembre 1998 - art. 131 () JORF 9 décembre 1998
+	  - Décret n°99-276 1999-04-13 art. 20, 21 et 24 JORF 14 avril 1999
+	  - Décret n°99-276 du 13 avril 1999 - art. 20 () JORF 14 avril 1999
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°99-276 du 13 avril 1999 - art. 37 (V)
 
 	**Cité par**:
 
 	  - Arrêté du 29 décembre 2016 - art. 4 (V)
 	  - Code de la sécurité sociale. - art. D412-79 (M)
-
-	**Liens**:
-
-	  - TXT_SOURCE: Code de procédure pénale 714 à 728
 
 
 ###### Article D475
@@ -63206,7 +63095,12 @@ dans le cas où ces derniers font l'objet de l'interdiction de communiquer prév
 
 	**Modifié par**:
 
-	  - Décret n°98-1099 du 8 décembre 1998 - art. 131 () JORF 9 décembre 1998
+	  - Décret n°99-276 du 13 avril 1999 - art. 20 () JORF 14 avril 1999
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°99-276 du 13 avril 1999 - art. 37 (V)
+	  - TXT_SOURCE: Code de procédure pénale 714 à 728
 
 	**Cité par**:
 
@@ -63216,10 +63110,6 @@ dans le cas où ces derniers font l'objet de l'interdiction de communiquer prév
 	**Cite**:
 
 	  - CODE DE PROCEDURE PENALE - art. 145-4 (M)
-
-	**Liens**:
-
-	  - TXT_SOURCE: Code de procédure pénale 714 à 728
 
 
 ###### Article D476
@@ -63239,15 +63129,20 @@ Les visites ont lieu aux jours et heures fixés par le chef de l'établissement 
 
 	**Modifié par**:
 
-	  - Décret n°98-1099 du 8 décembre 1998 - art. 131 () JORF 9 décembre 1998
+	  - Décret n°99-276 du 13 avril 1999 - art. 20 () JORF 14 avril 1999
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°99-276 du 13 avril 1999 - art. 37 (V)
+	  - TXT_SOURCE: Code de procédure pénale 714 à 728
+
+	**Abrogé par**:
+
+	  - Décret n°2013-368 du 30 avril 2013 - art. 2
 
 	**Cité par**:
 
 	  - Code de la sécurité sociale. - art. D412-79 (M)
-
-	**Liens**:
-
-	  - TXT_SOURCE: Code de procédure pénale 714 à 728
 
 
 ###### Article D477
@@ -63258,7 +63153,7 @@ Les visiteurs peuvent correspondre avec les détenus dont ils s'occupent sous pl
 
 	**Codifié par**:
 
-	  - Décret n°59-322 1959-02-23
+	  - Décret n°59-322 du 23 février 1959
 
 	**Cité par**:
 
@@ -63267,25 +63162,28 @@ Les visiteurs peuvent correspondre avec les détenus dont ils s'occupent sous pl
 
 	**Modifié par**:
 
-	  - Décret n°98-1099 du 8 décembre 1998 - art. 131 () JORF 9 décembre 1998
+	  - Décret n°99-276 du 13 avril 1999 - art. 20 () JORF 14 avril 1999
 
 	**Liens**:
 
+	  - SPEC_APPLI: Décret n°99-276 du 13 avril 1999 - art. 37 (V)
 	  - TXT_SOURCE: Code de procédure pénale 714 à 728
 
+	**Abrogé par**:
 
-##### Section 6 : De l'aide à la libération
+	  - Décret n°2013-368 du 30 avril 2013 - art. 2
+
+
+##### Section 7 : De l'aide à la libération
 
 ###### Article D478
 
 Le service public pénitentiaire doit permettre au détenu de préparer sa libération dans les meilleures conditions.
 
-Le service socio-éducatif, en liaison avec les services de l'Etat, des collectivités territoriales et de tous organismes
-publics ou privés, favorise l'accès de chaque personne libérée aux droits sociaux et aux dispositifs d'insertion et de santé.
-Il s'assure que la personne libérée bénéficie d'un hébergement dans les premiers temps de sa libération.
-
-Les détenus sont informés, au moment de leur libération, du rôle du comité de probation et d'assistance aux libérés de leur
-résidence.
+Le service pénitentiaire d'insertion et de probation, en liaison avec les services de l'Etat, des collectivités territoriales
+et de tous organismes publics ou privés, favorise l'accès de chaque personne libérée aux droits sociaux et aux dispositifs
+d'insertion et de santé. Il s'assure que la personne libérée bénéficie d'un hébergement dans les premiers temps de sa
+libération.
 
 **Liens relatifs à cet article**
 
@@ -63295,10 +63193,11 @@ résidence.
 
 	**Modifié par**:
 
-	  - Décret n°98-1099 du 8 décembre 1998 - art. 131 () JORF 9 décembre 1998
+	  - Décret n°99-276 du 13 avril 1999 - art. 25 () JORF 14 avril 1999
 
 	**Liens**:
 
+	  - SPEC_APPLI: Décret n°99-276 du 13 avril 1999 - art. 37 (V)
 	  - TXT_SOURCE: Code de procédure pénale 714 à 728
 
 
@@ -63310,7 +63209,8 @@ Le billet de sortie remis à chaque libéré dans les conditions visées à l'ar
 dont le détenu dispose à sa sortie et les secours, sous les diverses formes, dont il a pu éventuellement bénéficier à sa
 libération.
 
-Il comporte l'adresse du comité de probation et d'assistance aux libérés du lieu de sa résidence.
+Il comporte l'adresse du service pénitentiaire d'insertion et de probation ou de l'antenne locale du lieu de résidence de la
+personne libérée.
 
 **Liens relatifs à cet article**
 
@@ -63320,15 +63220,16 @@ Il comporte l'adresse du comité de probation et d'assistance aux libérés du l
 
 	**Modifié par**:
 
-	  - Décret n°98-1099 du 8 décembre 1998 - art. 131 () JORF 9 décembre 1998
+	  - Décret n°99-276 du 13 avril 1999 - art. 25 () JORF 14 avril 1999
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°99-276 du 13 avril 1999 - art. 37 (V)
+	  - TXT_SOURCE: Code de procédure pénale 714 à 728
 
 	**Cite**:
 
 	  - CODE DE PROCEDURE PENALE - art. D288 (V)
-
-	**Liens**:
-
-	  - TXT_SOURCE: Code de procédure pénale 714 à 728
 
 
 ###### Article D480
@@ -63340,19 +63241,24 @@ sortie.
 
 	**Codifié par**:
 
-	  - Décret n°59-322 1959-02-23
+	  - Décret n°59-322 du 23 février 1959
 
 	**Modifié par**:
 
-	  - Décret n°98-1099 du 8 décembre 1998 - art. 131 () JORF 9 décembre 1998
+	  - Décret n°99-276 du 13 avril 1999 - art. 25 () JORF 14 avril 1999
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°99-276 du 13 avril 1999 - art. 37 (V)
+	  - TXT_SOURCE: Code de procédure pénale 714 à 728
+
+	**Abrogé par**:
+
+	  - Décret n°2013-368 du 30 avril 2013 - art. 2
 
 	**Cité par**:
 
 	  - CODE DE PROCEDURE PENALE - art. D288 (V)
-
-	**Liens**:
-
-	  - TXT_SOURCE: Code de procédure pénale 714 à 728
 
 
 ##### Paragraphe 2 : Aide aux détenus dépourvus de ressources à leur libération
@@ -63370,37 +63276,42 @@ permettre de subvenir à leurs besoins pendant le temps nécessaire pour rejoind
 
 	**Modifié par**:
 
-	  - Décret n°98-1099 du 8 décembre 1998 - art. 131 () JORF 9 décembre 1998
+	  - Décret n°99-276 du 13 avril 1999 - art. 25 () JORF 14 avril 1999
 
 	**Liens**:
 
+	  - SPEC_APPLI: Décret n°99-276 du 13 avril 1999 - art. 37 (V)
 	  - TXT_SOURCE: Code de procédure pénale 714 à 728
 
 
 ###### Article D482
 
-En accord avec le chef de l'établissement, le service socio-éducatif se préoccupe, dans toute la mesure du possible, de
-pourvoir de vêtements les détenus libérables qui n'en posséderaient pas et seraient dépourvus de ressources suffisantes pour
-s'en procurer.
+L'établissement pénitentiaire pourvoit, dans toute la mesure possible, de vêtements les détenus libérables qui n'en
+posséderaient pas et seraient dépourvus de ressources suffisantes pour s'en procurer.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°59-322 1959-02-23
+	  - Décret n°59-322 du 23 février 1959
 
 	**Modifié par**:
 
-	  - Décret n°98-1099 du 8 décembre 1998 - art. 131 () JORF 9 décembre 1998
+	  - Décret n°99-276 du 13 avril 1999 - art. 25 () JORF 14 avril 1999
 
 	**Liens**:
 
+	  - SPEC_APPLI: Décret n°99-276 du 13 avril 1999 - art. 37 (V)
 	  - TXT_SOURCE: Code de procédure pénale 714 à 728
+
+	**Abrogé par**:
+
+	  - Décret n°2013-368 du 30 avril 2013 - art. 2
 
 
 ###### Article D483
 
-L'administration pénitentiaire peut procéder ou participer à l'acquisition d'un titre de transport pour les détenus qui, à
+L'établissement pénitentiaire peut procéder ou participer à l'acquisition d'un titre de transport pour les détenus qui, à
 leur libération, n'auraient pas un compte nominatif suffisant pour rejoindre le lieu où ils ont déclaré se rendre.
 
 **Liens relatifs à cet article**
@@ -63411,11 +63322,11 @@ leur libération, n'auraient pas un compte nominatif suffisant pour rejoindre le
 
 	**Modifié par**:
 
-	  - Décret n°98-1099 1998-12-08 art. 131, 141 et 142 JORF 9 décembre 1998
-	  - Décret n°98-1099 du 8 décembre 1998 - art. 131 () JORF 9 décembre 1998
+	  - Décret n°99-276 du 13 avril 1999 - art. 25 () JORF 14 avril 1999
 
 	**Liens**:
 
+	  - SPEC_APPLI: Décret n°99-276 du 13 avril 1999 - art. 37 (V)
 	  - TXT_SOURCE: Code de procédure pénale 714 à 728
 
 
@@ -63427,18 +63338,22 @@ immédiat.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Décret n°59-322 1959-02-23
-
 	**Liens**:
 
-	  - SPEC_APPLI: Décret n°59-322 1959-02-23 art. 6
+	  - SPEC_APPLI: Décret n°59-322 1959-02-23 art. 6 Décret 99-276 1999-04-13 art. 37
 	  - TXT_SOURCE: Code de procédure pénale 714 à 728
+
+	**Codifié par**:
+
+	  - Décret n°59-322 du 23 février 1959
 
 	**Modifié par**:
 
-	  - Décret n°98-1099 du 8 décembre 1998 - art. 131 () JORF 9 décembre 1998
+	  - Décret n°99-276 du 13 avril 1999 - art. 25 () JORF 14 avril 1999
+
+	**Abrogé par**:
+
+	  - Décret n°2013-368 du 30 avril 2013 - art. 2
 
 	**Cité par**:
 
@@ -64451,9 +64366,8 @@ décision qui les prescrit.
 Les mesures d'aide ont pour objet de susciter et de seconder les efforts du condamné en vue de sa réinsertion sociale,
 familiale et professionnelle.
 
-Elle s'exerce sous la forme d'aide psychologique et, s'il y a lieu, matérielle apportée par le comité de probation et
-d'assistance aux libérés, ou sur intervention de celui-ci, par tout organisme d'assistance ou d'aide sociale, et notamment
-par les oeuvres privées habilitées à cet effet.
+Elles sont mises en oeuvre par le service pénitentiaire d'insertion et de probation en liaison et avec la participation, le
+cas échéant, des autres services de l'Etat, des collectivités territoriales et de tous organismes publics ou privés.
 
 **Liens relatifs à cet article**
 
@@ -64463,10 +64377,11 @@ par les oeuvres privées habilitées à cet effet.
 
 	**Modifié par**:
 
-	  - Décret n°98-1099 du 8 décembre 1998 - art. 177 () JORF 9 décembre 1998
+	  - Décret n°99-276 du 13 avril 1999 - art. 30 () JORF 14 avril 1999
 
 	**Liens**:
 
+	  - SPEC_APPLI: Décret n°99-276 du 13 avril 1999 - art. 37 (V)
 	  - TXT_SOURCE: Code de procédure pénale 729 à 733-1
 
 
@@ -64476,13 +64391,16 @@ Les mesures de contrôle auxquelles le condamné doit se soumettre sont les suiv
 
 1° Résider au lieu fixé par la décision de libération ;
 
-2° Répondre aux convocations du juge de l'application des peines ou de l'agent de probation compétent ;
+2° Répondre aux convocations du juge de l'application des peines ou du travailleur social du service pénitentiaire
+d'insertion et de probation ;
 
-3° Recevoir les visites de l'agent de probation et lui communiquer les renseignements ou documents de nature à permettre le
-contrôle de ses moyens d'existence et de l'exécution de ses obligations ;
+3° Recevoir les visites du travailleur social du service pénitentiaire d'insertion et de probation et lui communiquer les
+renseignements ou documents de nature à permettre le contrôle de ses moyens d'existence et de l'exécution de ses
+obligations ;
 
-4° Prévenir l'agent de probation de ses changements d'emploi et, lorsqu'ils sont de nature à mettre obstacle à l'exécution de
-ses obligations, obtenir une autorisation préalable du juge de l'application des peines.
+4° Prévenir le travailleur social du service pénitentiaire d'insertion et de probation de ses changements d'emploi et,
+lorsqu'ils sont de nature à mettre obstacle à l'exécution de ses obligations, obtenir une autorisation préalable du juge de
+l'application des peines.
 
 **Liens relatifs à cet article**
 
@@ -64492,12 +64410,11 @@ ses obligations, obtenir une autorisation préalable du juge de l'application de
 
 	**Modifié par**:
 
-	  - Décret n°73-281 1973-03-07 art. 1 JORF 16 mars 1973 rectificatif JORF le 7 avril 1973
-	  - Décret n°85-836 1985-08-06 art. 1 JORF 8 août 1985
-	  - Décret n°86-462 1986-03-14 art. 9 JORF 16 mars 1986
+	  - Décret n°99-276 du 13 avril 1999 - art. 31 () JORF 14 avril 1999
 
 	**Liens**:
 
+	  - SPEC_APPLI: Décret n°99-276 du 13 avril 1999 - art. 37 (V)
 	  - TXT_SOURCE: Code de procédure pénale 729 à 733-1
 
 
@@ -64543,8 +64460,8 @@ l'une des conditions suivantes :
 1° Avoir satisfait à une épreuve de semi-liberté ou de placement à l'extérieur sans surveillance dont les modalités sont
 déterminées par ladite décision ;
 
-2° Remettre tout ou partie de son compte nominatif au comité de probation et d'assistance aux libérés, à charge par ledit
-comité de restitution par fractions ;
+2° Remettre tout ou partie de son compte nominatif au service pénitentiaire d'insertion et de probation, à charge pour ledit
+service de restitution par fractions ;
 
 3° S'engager dans les armées de terre, de mer ou de l'air dans les cas où la loi l'autorise, ou rejoindre une formation des
 forces armées s'il s'agit d'un détenu appartenant à un contingent d'âge présent ou appelé sous les drapeaux, ou s'il s'agit
@@ -64561,7 +64478,12 @@ territoire national et n'y plus paraître.
 
 	**Modifié par**:
 
-	  - Décret n°98-1099 du 8 décembre 1998 - art. 178 () JORF 9 décembre 1998
+	  - Décret n°99-276 du 13 avril 1999 - art. 32 () JORF 14 avril 1999
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°99-276 du 13 avril 1999 - art. 37 (V)
+	  - TXT_SOURCE: Code de procédure pénale 729 à 733-1
 
 	**Cité par**:
 
@@ -64570,10 +64492,6 @@ territoire national et n'y plus paraître.
 	  - Code de procédure pénale - art. D143 (V)
 	  - Code de procédure pénale - art. D145 (M)
 	  - Code de procédure pénale - art. D523 (V)
-
-	**Liens**:
-
-	  - TXT_SOURCE: Code de procédure pénale 729 à 733-1
 
 
 ###### Article D536
@@ -64641,7 +64559,7 @@ héberger à son domicile ;
 
 ###### Article D542
 
-Les comités de probation et d'assistance aux libérés sont chargés d'assurer la prise en charge des interdits de séjour
+Les services pénitentiaires d'insertion et de probation sont chargés d'assurer la prise en charge des interdits de séjour
 faisant l'objet des mesures d'assistance visées à l'article 131-31 du code pénal.
 
 **Liens relatifs à cet article**
@@ -64652,23 +64570,25 @@ faisant l'objet des mesures d'assistance visées à l'article 131-31 du code pé
 
 	**Modifié par**:
 
-	  - Décret n°96-651 du 22 juillet 1996 - art. 3 () JORF 23 juillet 1996
+	  - Décret n°99-276 du 13 avril 1999 - art. 33 () JORF 14 avril 1999
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°99-276 du 13 avril 1999 - art. 37 (V)
+	  - TXT_SOURCE: Code de procédure pénale 729 à 733-1
 
 	**Cite**:
 
 	  - Code pénal - art. 131-31 (V)
 
-	**Liens**:
-
-	  - TXT_SOURCE: Code de procédure pénale 729 à 733-1
-
 
 ###### Article D544
 
-Tout sortant de prison peut, à sa demande, bénéficier de l'aide du comité de probation de sa résidence. Cette aide s'exerce
-en liaison et avec la participation, le cas échéant, de tous organismes publics ou privés.
+Pendant les six mois suivant sa date de libération, toute personne peut bénéficier, à sa demande, de l'aide du service
+pénitentiaire d'insertion et de probation du lieu de sa résidence.
 
-L'attribution de secours ne peut être accordée que pendant les six premiers mois [*durée*] suivant la date de la libération.
+Cette aide s'exerce en liaison et avec la participation, le cas échéant, des autres services de l'Etat, des collectivités
+territoriales et de tous organismes publics ou privés.
 
 **Liens relatifs à cet article**
 
@@ -64678,17 +64598,18 @@ L'attribution de secours ne peut être accordée que pendant les six premiers mo
 
 	**Modifié par**:
 
-	  - Décret n°85-836 1985-08-06 art. 1 JORF 8 août 1985
+	  - Décret n°99-276 du 13 avril 1999 - art. 34 () JORF 14 avril 1999
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°99-276 du 13 avril 1999 - art. 37 (V)
+	  - TXT_SOURCE: Code de procédure pénale 729 à 733-1
 
 	**Cité par**:
 
 	  - CODE DE PROCEDURE PENALE - art. D576 (M)
 	  - Code de procédure pénale - art. D578 (V)
 	  - Code de procédure pénale - art. D582 (V)
-
-	**Liens**:
-
-	  - TXT_SOURCE: Code de procédure pénale 729 à 733-1
 
 
 #### Chapitre VI : Des recours contre les mesures d'administration judiciaire
@@ -65017,12 +64938,20 @@ Le ministère public près la juridiction qui a prononcé la condamnation assure
 	  - CODE DE PROCEDURE PENALE - art. 762-5 (M)
 
 
-### Titre XI : Le comité de probation et d'assistance aux libérés
+### Titre XI : Le service pénitentiaire d'insertion et de probation
+
+#### Chapitre Ier : Les missions du service pénitentiaire d'insertion et de probation
 
 ###### Article D572
 
-Chaque tribunal de grande instance comprend un comité de probation et d'assistance aux libérés chargé d'exécuter les missions
-prévues par les articles D. 574 à D. 577.
+Dans chaque département, est créé un service pénitentiaire d'insertion et de probation, service déconcentré de
+l'administration pénitentiaire, chargé d'exécuter les missions prévues par les articles D. 573 à D. 574.
+
+Le directeur du service pénitentiaire d'insertion et de probation est placé sous l'autorité du directeur régional des
+services pénitentiaires.
+
+Le siège du service pénitentiaire d'insertion et de probation et la liste des antennes locales d'insertion et de probation
+sont fixés par arrêté du ministre de la justice.
 
 **Liens relatifs à cet article**
 
@@ -65030,9 +64959,13 @@ prévues par les articles D. 574 à D. 577.
 
 	  - Décret n°59-322 1959-02-23
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°86-462 1986-03-14 art. 11 JORF 16 mars 1986 en vigueur le 1er juin 1986
+	  - Décret n°99-276 du 13 avril 1999 - art. 35 () JORF 14 avril 1999
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°99-276 du 13 avril 1999 - art. 37 (V)
 
 	**Cité par**:
 
@@ -65041,19 +64974,19 @@ prévues par les articles D. 574 à D. 577.
 
 	**Cite**:
 
-	  - Code de procédure pénale D574 à D577
+	  - Code de procédure pénale D573 à D574
 
 
 ###### Article D573
 
-Le comité de probation agit sous l'autorité du juge de l'application des peines qui :
+Le service pénitentiaire d'insertion et de probation, avec la participation, le cas échéant, des autres services de l'Etat,
+des collectivités territoriales et de tous organismes publics ou privés, favorise l'accès aux droits et aux dispositifs
+d'insertion de droit commun des détenus et personnes qui lui sont confiées par les autorités judiciaires.
 
-1° Lui donne, en liaison avec les autres magistrats intéressés, les directives générales relatives au fonctionnement du
-service et à l'exécution des missions que lui confient ces magistrats ;
+Il s'assure en particulier pour les personnes libérées de la continuité des actions d'insertion engagées en vertu des
+dispositions des articles D. 441-1, D. 457 et D. 459.
 
-2° Contrôle son activité.
-
-Le juge de l'application des peines définit les critères d'utilisation des fonds affectés au comité de probation.
+Il peut également apporter une aide matérielle aux personnes qui lui sont confiées par les autorités judiciaires.
 
 **Liens relatifs à cet article**
 
@@ -65061,9 +64994,18 @@ Le juge de l'application des peines définit les critères d'utilisation des fon
 
 	  - Décret n°59-322 1959-02-23
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°86-462 1986-03-14 art. 11 JORF 16 mars 1986 en vigueur le 1er juin 1986
+	  - Décret n°99-276 du 13 avril 1999 - art. 35 () JORF 14 avril 1999
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°99-276 du 13 avril 1999 - art. 37 (V)
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. D441-1 (M)
+	  - CODE DE PROCEDURE PENALE - art. D459 (M)
 
 	**Cité par**:
 
@@ -65073,18 +65015,21 @@ Le juge de l'application des peines définit les critères d'utilisation des fon
 	  - Code de procédure pénale - art. D572 (V)
 
 
-#### Chapitre Ier : Les missions du comité de probation et d'assistance aux libérés
-
 ###### Article D574
 
-Le comité de probation et d'assistance aux libérés met en oeuvre les mesures de contrôle et veille au respect des obligations
-ou conditions imposées aux condamnés à l'emprisonnement avec sursis et mise à l'épreuve ou au travail d'intérêt général, aux
-libérés conditionnels, aux interdits de séjour et aux personnes visées à l'article L. 51 du Code du service national.
+Le service pénitentiaire d'insertion et de probation concourt, sur saisine des autorités judiciaires, à la préparation des
+décisions de justice à caractère pénal ; il peut être chargé de l'exécution des enquêtes et des mesures préalables au
+jugement. A cet effet, il effectue les vérifications sur la situation matérielle, familiale et sociale des personnes faisant
+l'objet d'enquêtes ou de poursuites judiciaires afin de permettre une meilleure individualisation des mesures ou peines et de
+favoriser l'insertion des intéressés.
 
-Il effectue les investigations qui lui sont demandées pour l'exécution des peines privatives de liberté.
+Il assure le suivi et le contrôle des personnes placées sous contrôle judiciaire. Il effectue les investigations qui lui sont
+demandées préalablement à l'exécution des peines privatives de liberté.
 
-Il peut également être chargé de l'exécution de mesures préalables au jugement, notamment d'enquêtes de personnalité et de
-contrôles judiciaires.
+Le service pénitentiaire d'insertion et de probation met en oeuvre les mesures de contrôle et veille au respect des
+obligations imposées aux condamnés à l'emprisonnement avec sursis avec mise à l'épreuve ou à un travail d'intérêt général,
+aux personnes faisant l'objet d'une mesure d'ajournement de peine avec mise à l'épreuve, aux libérés conditionnels, aux
+interdits de séjour et aux personnes visées à l'article L. 51 du code du service national.
 
 **Liens relatifs à cet article**
 
@@ -65092,9 +65037,13 @@ contrôles judiciaires.
 
 	  - Décret n°59-322 1959-02-23
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°86-462 1986-03-14 art. 11 JORF 16 mars 1986 en vigueur le 1er juin 1986
+	  - Décret n°99-276 du 13 avril 1999 - art. 35 () JORF 14 avril 1999
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°99-276 du 13 avril 1999 - art. 37 (V)
 
 	**Cité par**:
 
@@ -65112,76 +65061,16 @@ contrôles judiciaires.
 
 ###### Article D575
 
-Le comité de probation et d'assistance aux libérés met en oeuvre, avec la participation, le cas échéant, de tous organismes
-publics ou privés, des mesures d'aide propres à favoriser la réinsertion sociale des personnes prises en charge.
+Sous l'autorité du directeur du service pénitentiaire d'insertion et de probation, les travailleurs sociaux s'assurent que la
+personne confiée au service se soumet aux mesures de contrôle et respecte les obligations qui lui sont imposées.
 
-Ces mesures s'exercent notamment sous forme d'une aide à caractère sociale et, s'il y a lieu, d'une aide matérielle.
+Ils mettent en oeuvre les mesures propres à favoriser sa réinsertion sociale. Ils fournissent au magistrat mandant, à sa
+demande ou de leur propre initiative, tous éléments d'information lui permettant de prendre en compte les mesures adaptées à
+la situation de la personne.
 
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°59-322 1959-02-23
-
-	**Créé par**:
-
-	  - Décret n°86-462 1986-03-14 art. 11 JORF 16 mars 1986 en vigueur le 1er juin 1986
-
-	**Cité par**:
-
-	  - Décret n°2014-442 du 29 avril 2014 (V)
-
-
-###### Article D576
-
-Le comité de probation et d'assistance aux libérés apporte aux sortants de prison, à leur demande, une aide dans les
-conditions prévues par l'article D. 544.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°59-322 1959-02-23
-
-	**Créé par**:
-
-	  - Décret n°86-462 1986-03-14 art. 11 JORF 16 mars 1986 en vigueur le 1er juin 1986
-
-	**Cite**:
-
-	  - CODE DE PROCEDURE PENALE - art. D544 (M)
-
-
-###### Article D577
-
-Le comité de probation et d'assistance aux libérés assure une permanence pour répondre aux demandes de la juridiction et à
-toutes mesures d'urgence nécessitées par la situation des personnes visées aux articles D. 574 à D. 576.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°59-322 1959-02-23
-
-	**Créé par**:
-
-	  - Décret n°86-462 1986-03-14 art. 11 JORF 16 mars 1986 en vigueur le 1er juin 1986
-
-	**Cite**:
-
-	  - Code de procédure pénale D574 à D576
-
-
-#### Chapitre II : L'organisation du comité de probation et d'assistance aux libérés
-
-###### Article D578
-
-Le comité de probation et d'assistance aux libérés comprend un ou plusieurs agents de probation désignés par le ministre de
-la justice parmi les assistants de service social du ministère de la justice et les conseillers d'insertion et de probation
-des services déconcentrés de l'administration pénitentiaire.
-
-En outre, des délégués vacataires peuvent, en tant que de besoin, être nommés par le directeur régional, sur proposition du
-juge de l'application des peines, après avis du directeur de probation.
+Ils proposent les aménagements ou modifications des mesures de contrôle, obligations ou conditions, et rendent compte de
+leurs violations. Ils lui adressent chaque semestre à compter de la saisine du service et à l'issue de la mesure de suivi un
+rapport d'évaluation.
 
 **Liens relatifs à cet article**
 
@@ -65191,14 +65080,30 @@ juge de l'application des peines, après avis du directeur de probation.
 
 	**Modifié par**:
 
-	  - Décret n°98-1099 du 8 décembre 1998 - art. 180 () JORF 9 décembre 1998
+	  - Décret n°99-276 du 13 avril 1999 - art. 35 () JORF 14 avril 1999
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°99-276 du 13 avril 1999 - art. 37 (V)
+
+	**Cité par**:
+
+	  - Décret n°2014-442 du 29 avril 2014 (V)
 
 
-###### Article D579
+#### Chapitre II : Les attributions du juge de l'application des peines et des autres magistrats mandants
 
-Pour compléter l'action du comité de probation, il peut être fait appel à des personnes bénévoles qui, après avis du
-directeur de probation, sont agréées par le juge de l'application des peines, dans des conditions fixées par arrêté du
-ministre de la justice. Ce magistrat peut retirer ou suspendre son agrément.
+###### Article D576
+
+Le juge de l'application des peines :
+
+1° Détermine les orientations générales relatives à l'exécution des mesures confiées au service pénitentiaire d'insertion et
+de probation ;
+
+2° Evalue leur mise en oeuvre par le service.
+
+Le juge de l'application des peines exerce ces attributions en concertation avec les autres magistrats mandants. Les chefs de
+juridiction organisent cette concertation.
 
 **Liens relatifs à cet article**
 
@@ -65206,9 +65111,86 @@ ministre de la justice. Ce magistrat peut retirer ou suspendre son agrément.
 
 	  - Décret n°59-322 1959-02-23
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°86-462 1986-03-14 art. 11 JORF 16 mars 1986 en vigueur le 1er juin 1986
+	  - Décret n°99-276 du 13 avril 1999 - art. 35 () JORF 14 avril 1999
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°99-276 du 13 avril 1999 - art. 37 (V)
+
+
+###### Article D577
+
+Le juge de l'application des peines et les autres magistrats concernés communiquent, le cas échéant, pour chaque dossier dont
+ils saisissent le service, des instructions particulières pour le suivi de la mesure.
+
+Le magistrat mandant peut demander par un écrit motivé au directeur du service pénitentiaire d'insertion et de probation de
+désigner un autre travailleur social, s'il constate que celui qui a été chargé de la mesure ne remplit pas les diligences
+prévues.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-322 1959-02-23
+
+	**Modifié par**:
+
+	  - Décret n°99-276 du 13 avril 1999 - art. 35 () JORF 14 avril 1999
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°99-276 du 13 avril 1999 - art. 37 (V)
+
+
+###### Article D578
+
+Le juge de l'application des peines et le directeur du service pénitentiaire d'insertion et de probation visitent chaque
+année les divers foyers ou organismes d'hébergement accueillant les personnes visées aux articles D. 544 et D. 574.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-322 1959-02-23
+
+	**Modifié par**:
+
+	  - Décret n°99-276 du 13 avril 1999 - art. 35 () JORF 14 avril 1999
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°99-276 du 13 avril 1999 - art. 37 (V)
+
+	**Cite**:
+
+	  - Code de procédure pénale - art. D544 (V)
+	  - Code de procédure pénale - art. D574 (V)
+
+
+#### Chapitre III : L'organisation et le fonctionnement du service pénitentiaire d'insertion et de probation
+
+###### Article D579
+
+Le directeur du service pénitentiaire d'insertion et de probation s'assure du suivi de chaque mesure dont le service est
+saisi et de l'exécution des instructions données par les magistrats mandants.
+
+Il vérifie que les rapports sont régulièrement adressés aux magistrats.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-322 1959-02-23
+
+	**Modifié par**:
+
+	  - Décret n°99-276 du 13 avril 1999 - art. 35 () JORF 14 avril 1999
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°99-276 du 13 avril 1999 - art. 37 (V)
 
 	**Cité par**:
 
@@ -65217,9 +65199,18 @@ ministre de la justice. Ce magistrat peut retirer ou suspendre son agrément.
 
 ###### Article D580
 
-Un ou plusieurs fonctionnaires peuvent être affectés au comité de probation en qualité de chef de service de probation. Ils
-sont désignés par le ministre de la justice parmi les conseillers techniques de service social du ministère de la justice ou
-les chefs de service d'insertion et de probation des services déconcentrés de l'administration pénitentiaire.
+Au sein du service, il est tenu un dossier pour chaque personne faisant l'objet d'une mesure visée à l'article D. 574. Ce
+dossier comprend les pièces d'ordre judiciaire nécessaires au suivi de la mesure, les éléments relatifs au contrôle des
+obligations ou conditions imposées ainsi que la copie des rapports adressés au magistrat mandant. 
+
+Les documents couverts par le secret professionnel ne peuvent être consultés que par un membre du service pénitentiaire
+d'insertion et de probation. 
+
+En cas de changement de résidence de la personne suivie, le service transmet sous pli fermé ces documents au service
+compétent du lieu de la nouvelle résidence. 
+
+Le dossier est communiqué à sa demande au magistrat qui a saisi le service, sauf pour les renseignements recueillis par voie
+de confidences auprès des personnes prises en charge.
 
 **Liens relatifs à cet article**
 
@@ -65229,20 +65220,33 @@ les chefs de service d'insertion et de probation des services déconcentrés de 
 
 	**Modifié par**:
 
-	  - Décret n°98-1099 du 8 décembre 1998 - art. 181 () JORF 9 décembre 1998
+	  - Décret n°99-276 du 13 avril 1999 - art. 35 () JORF 14 avril 1999
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°99-276 du 13 avril 1999 - art. 37 (V)
 
 	**Cité par**:
 
 	  - CODE DE PROCEDURE PENALE - art. D581 (M)
 
+	**Cite**:
+
+	  - Code de procédure pénale - art. D574 (V)
+
 
 ###### Article D581
 
-Un directeur de probation est désigné par le ministre de la justice parmi les personnels mentionnés à l'article D. 580 ou,
-lorsque l'importance du service le justifie, parmi les membres du personnel de direction des services déconcentrés de
-l'administration pénitentiaire ayant une expérience professionnelle dans le domaine socio-éducatif.
+Les membres du service pénitentiaire d'insertion et de probation sont tenus au secret professionnel dans les conditions
+prévues par les articles 226-13 et 226-14 du code pénal. 
 
-Il exerce l'autorité hiérarchique sur les personnels du comité de probation et d'assistance aux libérés.
+Chaque fois que la demande leur en est faite ou à leur initiative, ils fournissent à l'autorité judiciaire ou aux services de
+l'administration pénitentiaire les éléments permettant de mieux individualiser la situation des personnes placées sous main
+de justice. 
+
+Dans le cadre de l'exécution des mesures visées à l'article D. 574, les membres du service pénitentiaire d'insertion et de
+probation ne peuvent opposer le secret professionnel aux autorités judiciaires, sauf pour les renseignements recueillis par
+voie de confidences auprès des personnes prises en charge.
 
 **Liens relatifs à cet article**
 
@@ -65252,18 +65256,22 @@ Il exerce l'autorité hiérarchique sur les personnels du comité de probation e
 
 	**Modifié par**:
 
-	  - Décret n°98-1099 du 8 décembre 1998 - art. 186 () JORF 9 décembre 1998
+	  - Décret n°99-276 du 13 avril 1999 - art. 35 () JORF 14 avril 1999
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°99-276 du 13 avril 1999 - art. 37 (V)
 
 	**Cite**:
 
-	  - CODE DE PROCEDURE PENALE - art. D580 (M)
+	  - Code pénal - art. 226-13 (V)
+	  - Code de procédure pénale - art. D574 (V)
 
 
 ###### Article D582
 
-Le secrétariat du juge de l'application des peines et du comité de probation est tenu par un ou plusieurs agents désignés
-parmi les personnels affectés au secrétariat-greffe du tribunal ou, dans les juridictions qui en sont dotées, au secrétariat
-autonome du parquet.
+Le service pénitentiaire d'insertion et de probation assure une permanence pour répondre aux demandes de la juridiction et à
+toutes mesures d'urgence nécessitées par la situation des personnes visées aux articles D. 544 et D. 574.
 
 **Liens relatifs à cet article**
 
@@ -65271,30 +65279,27 @@ autonome du parquet.
 
 	  - Décret n°59-322 1959-02-23
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°86-462 1986-03-14 art. 11 JORF 16 mars 1986 en vigueur le 1er juin 1986
+	  - Décret n°99-276 du 13 avril 1999 - art. 35 () JORF 14 avril 1999
 
+	**Liens**:
 
-#### Chapitre III : Le fonctionnement du comité de probation et d'assistance aux libérés
+	  - SPEC_APPLI: Décret n°99-276 du 13 avril 1999 - art. 37 (V)
+
+	**Cite**:
+
+	  - Code de procédure pénale - art. D544 (V)
+	  - Code de procédure pénale - art. D574 (V)
+
 
 ###### Article D583
 
-Dans le cadre des directives prévues par l'article D. 573, le directeur de probation est chargé :
+A titre exceptionnel, il peut être fait appel à des personnes bénévoles, agréées par le directeur du service après avis du
+juge de l'application des peines, dans des conditions fixées par arrêté du ministre de la justice.
 
-1° D'organiser et de gérer le comité de probation ;
-
-2° D'animer son action dans les conditions prévues par l'article D. 584 ;
-
-3° D'assurer toutes liaisons utiles avec les organismes publics ou privés qui participent à l'action du comité de probation ;
-
-4° De passer les actes nécessaires au fonctionnement du service.
-
-Pour l'exécution de chaque mesure confiée au comité de probation, il désigne, en fonction de l'organisation du service, un
-agent de probation.
-
-Dans le cas où un ou plusieurs chefs de service de probation sont affectés au comité, le directeur de probation détermine les
-attributions qu'il leur délègue.
+Le directeur du service peut retirer ou suspendre son agrément soit d'office, soit à la demande du juge de l'application des
+peines ou du procureur de la République.
 
 **Liens relatifs à cet article**
 
@@ -65302,9 +65307,13 @@ attributions qu'il leur délègue.
 
 	  - Décret n°59-322 1959-02-23
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°86-462 1986-03-14 art. 11 JORF 16 mars 1986 en vigueur le 1er juin 1986
+	  - Décret n°99-276 du 13 avril 1999 - art. 35 () JORF 14 avril 1999
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°99-276 du 13 avril 1999 - art. 37 (V)
 
 	**Cité par**:
 
@@ -65312,39 +65321,12 @@ attributions qu'il leur délègue.
 	  - Code de procédure pénale - art. A45 (V)
 	  - Code de procédure pénale - art. A46 (V)
 
-	**Cite**:
-
-	  - Code de procédure pénale D573 et D584
-
 
 ###### Article D584
 
-Le directeur de probation s'assure que, pour chaque mesure l'agent de probation désigné respecte les instructions données par
-le magistrat qui a saisi le comité et poursuit des objectifs adaptés à l'exécution des missions du service. Il lui apporte
-aide et conseil technique. Il vérifie que les rapports sont régulièrement adressés au juge de l'application des peines et aux
-autres magistrats mandants.
-
-Le directeur de probation veille à l'harmonisation des méthodes de travail et à la coordination de l'action des agents de
-probation.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°59-322 1959-02-23
-
-	**Créé par**:
-
-	  - Décret n°86-462 1986-03-14 art. 11 JORF 16 mars 1986 en vigueur le 1er juin 1986
-
-
-###### Article D585
-
-Le directeur de probation rend compte régulièrement au juge de l'application des peines du fonctionnement du comité de
-probation et de l'exécution de ses missions.
-
-Il établit chaque année un rapport d'activité, qu'il transmet au juge de l'application des peines et au directeur régional
-des services pénitentiaires.
+Chaque année, le directeur du service pénitentiaire d'insertion et de probation transmet un rapport d'activité au directeur
+régional des services pénitentiaires, au président du tribunal de grande instance et au procureur de la République près ledit
+tribunal ainsi qu'au juge de l'application des peines.
 
 **Liens relatifs à cet article**
 
@@ -65354,7 +65336,33 @@ des services pénitentiaires.
 
 	**Modifié par**:
 
-	  - Décret n°98-1099 du 8 décembre 1998 - art. 182 () JORF 9 décembre 1998
+	  - Décret n°99-276 du 13 avril 1999 - art. 35 () JORF 14 avril 1999
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°99-276 du 13 avril 1999 - art. 37 (V)
+
+
+###### Article D585
+
+Le directeur du service pénitentiaire d'insertion et de probation est consulté sur les demandes d'agrément formulées,
+conformément à la législation relative à l'aide sociale, par les organismes hébergeant les libérés.
+
+Ses avis sont transmis par le ministre de la justice au ministre chargé de la santé.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-322 1959-02-23
+
+	**Modifié par**:
+
+	  - Décret n°99-276 du 13 avril 1999 - art. 35 () JORF 14 avril 1999
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°99-276 du 13 avril 1999 - art. 37 (V)
 
 	**Cité par**:
 
@@ -65364,10 +65372,8 @@ des services pénitentiaires.
 
 ###### Article D586
 
-Dans le cas où il n'est pas affecté de directeur au comité de probation, le juge de l'application des peines exerce la
-direction du service. Toutefois, le ministre de la justice peut charger un agent de probation des attributions prévues par
-les articles D. 583 (alinéa 1er, 1° et 4°) et D. 585. Cet agent est désigné sur proposition du juge de l'application des
-peines, après avis du directeur régional des services pénitentiaires.
+Les modalités du fonctionnement financier et comptable du service pénitentiaire d'insertion et de probation sont fixées par
+arrêté conjoint du ministre de la justice et du ministre chargé du budget.
 
 **Liens relatifs à cet article**
 
@@ -65381,32 +65387,18 @@ peines, après avis du directeur régional des services pénitentiaires.
 
 	**Modifié par**:
 
-	  - Décret n°98-1099 du 8 décembre 1998 - art. 182 () JORF 9 décembre 1998
+	  - Décret n°99-276 du 13 avril 1999 - art. 35 () JORF 14 avril 1999
 
-	**Cite**:
+	**Liens**:
 
-	  - CODE DE PROCEDURE PENALE - art. D583 (M)
-	  - CODE DE PROCEDURE PENALE - art. D585 (M)
+	  - SPEC_APPLI: Décret n°99-276 du 13 avril 1999 - art. 37 (V)
 
 
 ###### Article D587
 
-L'agent de probation exécute pour chacune des mesures qui lui sont confiées les instructions données par le magistrat qui a
-saisi le comité de probation.
-
-Il vérifie que le condamné se soumet aux mesures de contrôle et respecte les obligations ou conditions qui lui sont imposées.
-Il met en oeuvre toutes mesures d'aide propres à favoriser sa réinsertion sociale.
-
-Il fournit au juge de l'application des peines, à la demande de celui-ci ou de sa propre initiative, tous éléments
-d'information lui permettant de prendre les mesures adaptées à la situation du condamné, notamment en lui adressant, un
-rapport semestriel. Il lui propose les aménagements ou modifications des mesures de contrôle, des obligations ou conditions
-particulières, et il lui rend compte de leurs violations.
-
-L'agent de probation chargé d'une enquête ou d'un contrôle judiciaire rend compte au magistrat mandant de toutes difficultés
-rencontrées dans le cadre de leur exécution.
-
-Le juge de l'application des peines ou tout magistrat mandant, s'il constate qu'un agent de probation n'accomplit pas les
-diligences prévues par le présent article, peut le faire décharger de la mesure par le directeur de probation.
+En l'absence du chef de service, le directeur du service pénitentiaire d'insertion et de probation délègue sa signature à un
+travailleur social du service pénitentiaire d'insertion et de probation pour ordonner les dépenses courantes nécessaires au
+fonctionnement du service.
 
 **Liens relatifs à cet article**
 
@@ -65414,302 +65406,18 @@ diligences prévues par le présent article, peut le faire décharger de la mesu
 
 	  - Décret n°59-322 1959-02-23
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°86-462 1986-03-14 art. 11 JORF 16 mars 1986 en vigueur le 1er juin 1986
+	  - Décret n°99-276 du 13 avril 1999 - art. 35 () JORF 14 avril 1999
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°99-276 du 13 avril 1999 - art. 37 (V)
 
 	**Cité par**:
 
 	  - CODE DE PROCEDURE PENALE - art. D590 (Ab)
 	  - CODE DE PROCEDURE PENALE - art. D593 (Ab)
-
-
-###### Article D588
-
-Chaque agent de probation assure les liaisons avec les divers services sociaux, éducatifs, médico-sociaux locaux et prend
-tous contacts nécessaires à l'accomplissement de sa mission.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°59-322 1959-02-23
-
-	**Créé par**:
-
-	  - Décret n°86-462 1986-03-14 art. 11 JORF 16 mars 1986 en vigueur le 1er juin 1986
-
-	**Abrogé par**:
-
-	  - Décret n°99-276 du 13 avril 1999 - art. 36 (V) JORF 14 avril 1999
-
-	**Cité par**:
-
-	  - Code de procédure pénale - art. D147-18 (V)
-
-
-###### Article D589
-
-Dans le cadre du contrôle de l'activité du service, le juge de l'application des peines adresse au ministre de la justice le
-rapport annuel d'activité du service, assorti de ses observations, et, le cas échéant, de l'avis des autres magistrats
-intéressés.
-
-Le juge de l'application des peines fait chaque année à l'assemblée générale des magistrats du siège et du parquet le bilan
-de l'activité du comité de probation. Le directeur de probation peut être entendu par cette assemblée.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°59-322 1959-02-23
-
-	**Créé par**:
-
-	  - Décret n°86-462 1986-03-14 art. 11 JORF 16 mars 1986 en vigueur le 1er juin 1986
-
-	**Abrogé par**:
-
-	  - Décret n°99-276 du 13 avril 1999 - art. 36 (V) JORF 14 avril 1999
-
-
-###### Article D590
-
-Il est tenu au comité de probation un dossier pour chaque personne prise en charge. Ce dossier comprend notamment les pièces
-d'ordre judiciaire, les éléments relatifs au contrôle des obligations ou conditions imposées ainsi que les rapports
-semestriels prévus par l'article D. 587.
-
-Le dossier est communiqué, à sa demande, au magistrat qui a saisi le comité de probation.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°59-322 1959-02-23
-
-	**Créé par**:
-
-	  - Décret n°86-462 1986-03-14 art. 11 JORF 16 mars 1986 en vigueur le 1er juin 1986
-
-	**Abrogé par**:
-
-	  - Décret n°99-276 du 13 avril 1999 - art. 36 (V) JORF 14 avril 1999
-
-	**Cite**:
-
-	  - CODE DE PROCEDURE PENALE - art. D587 (M)
-
-
-###### Article D591
-
-Le secrétariat du comité de probation assure notamment la conservation des dossiers et la tenue du fichier des personnes
-visées aux articles D. 574 à D. 576.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°59-322 1959-02-23
-
-	**Créé par**:
-
-	  - Décret n°86-462 1986-03-14 art. 11 JORF 16 mars 1986 en vigueur le 1er juin 1986
-
-	**Abrogé par**:
-
-	  - Décret n°99-276 du 13 avril 1999 - art. 36 (V) JORF 14 avril 1999
-
-	**Cité par**:
-
-	  - CODE DE PROCEDURE PENALE - art. D31-1 (V)
-	  - Code de procédure pénale - art. D40 (V)
-	  - Code de procédure pénale - art. D40-2 (V)
-	  - Code de procédure pénale - art. D592 (V)
-	  - Code de procédure pénale - art. D593 (V)
-
-	**Cite**:
-
-	  - Code de procédure pénale D574 à D576
-
-
-###### Article D592
-
-Les dépenses de matériel, d'entretien et de documentation font partie des dépenses du tribunal de grande instance.
-
-Les règles régissant les personnels des services déconcentrés du ministère de la justice sont applicables aux dépenses
-entraînées par les missions, tournées et transports des agents de probation pour les besoins de leur service.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°59-322 1959-02-23
-
-	**Modifié par**:
-
-	  - Décret n°98-1099 du 8 décembre 1998 - art. 186 () JORF 9 décembre 1998
-
-	**Abrogé par**:
-
-	  - Décret n°99-276 du 13 avril 1999 - art. 36 (V) JORF 14 avril 1999
-
-
-#### Chapitre IV : Dispositions diverses
-
-###### Article D593
-
-Dans le cas où il existe plusieurs juges de l'application des peines dans un tribunal de grande instance, le président
-désigne, après avis de l'assemblée générale des magistrats du siège, celui de ces magistrats qui exerce, en liaison avec les
-autres juges de l'application des peines, les attributions mentionnées au présent titre, à l'exception de celles prévues par
-l'article D. 587.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°59-322 1959-02-23
-
-	**Créé par**:
-
-	  - Décret n°86-462 1986-03-14 art. 11 JORF 16 mars 1986 en vigueur le 1er juin 1986
-
-	**Abrogé par**:
-
-	  - Décret n°99-276 du 13 avril 1999 - art. 36 (V) JORF 14 avril 1999
-
-	**Cite**:
-
-	  - CODE DE PROCEDURE PENALE - art. D587 (M)
-
-
-###### Article D594
-
-Les agents de probation sont tenus au secret professionnel dans les conditions prévues par les articles 226-13 et 226-14 du
-Code pénal.
-
-L'obligation de secret s'étend aux autres membres du comité de probation pour tous les faits qu'ils ont pu connaître à
-l'occasion ou dans l'exercice de leurs fonctions.
-
-Toutefois, les membres du comité de probation ne peuvent opposer le secret à l'autorité judiciaire, sauf pour les
-renseignements recueillis par voie de confidences auprès des personnes prises en charge.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°59-322 1959-02-23
-
-	**Liens**:
-
-	  - SPEC_APPLI: Ordonnance n°96-267 du 28 mars 1996 - art. 13 (M)
-
-	**Modifié par**:
-
-	  - Décret n°98-1099 du 8 décembre 1998 - art. 183 () JORF 9 décembre 1998
-
-	**Abrogé par**:
-
-	  - Décret n°99-276 du 13 avril 1999 - art. 36 (V) JORF 14 avril 1999
-
-	**Cite**:
-
-	  - Code pénal - art. 226-13 (M)
-	  - Code pénal - art. 226-14 (M)
-
-
-###### Article D595
-
-Pour prolonger son action, le comité de probation fait appel à des associations intervenant notamment dans les domaines de
-l'accueil, de l'hébergement et de l'insertion socio-professionnelle des personnes en difficulté.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°59-322 1959-02-23
-
-	**Créé par**:
-
-	  - Décret n°86-462 1986-03-14 art. 11 JORF 16 mars 1986 en vigueur le 1er juin 1986
-
-	**Abrogé par**:
-
-	  - Décret n°99-276 du 13 avril 1999 - art. 36 (V) JORF 14 avril 1999
-
-
-###### Article D596
-
-Le juge de l'application des peines et le directeur de probation visitent chaque année les divers foyers ou organismes
-d'hébergement accueillant les personnes visées aux articles D. 574 à D. 576. Ils consignent leurs observations dans le
-rapport d'activité prévu par l'article D. 585.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°59-322 1959-02-23
-
-	**Créé par**:
-
-	  - Décret n°86-462 1986-03-14 art. 11 JORF 16 mars 1986 en vigueur le 1er juin 1986
-
-	**Abrogé par**:
-
-	  - Décret n°99-276 du 13 avril 1999 - art. 36 (V) JORF 14 avril 1999
-
-	**Cite**:
-
-	  - CODE DE PROCEDURE PENALE - art. D585 (M)
-	  - Code de procédure pénale D574 à D576, D585
-
-
-###### Article D597
-
-Le juge de l'application des peines est consulté sur les demandes d'agrément formulées conformément à la législation relative
-à l'aide sociale par les oeuvres hébergeant des libérés.
-
-Ses avis sont transmis par le ministre de la justice au ministre chargé de la santé.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°59-322 1959-02-23
-
-	**Modifié par**:
-
-	  - Décret n°98-1099 du 8 décembre 1998 - art. 184 () JORF 9 décembre 1998
-
-	**Abrogé par**:
-
-	  - Décret n°99-276 du 13 avril 1999 - art. 36 (V) JORF 14 avril 1999
-
-	**Anciens textes**:
-
-	  - CODE DE PROCEDURE PENALE - art. D541 (M)
-
-
-###### Article D598
-
-Les modalités du fonctionnement financier et comptable du comité sont fixées par arrêté conjoint du ministre de la justice et
-du ministre chargé du budget.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°59-322 1959-02-23
-
-	**Modifié par**:
-
-	  - Décret n°98-1099 du 8 décembre 1998 - art. 185 () JORF 9 décembre 1998
-
-	**Abrogé par**:
-
-	  - Décret n°99-276 du 13 avril 1999 - art. 36 (V) JORF 14 avril 1999
-
-	**Anciens textes**:
-
-	  - CODE DE PROCEDURE PENALE - art. D566 (Ab)
 
 
 ### Titre XII : Dispositions générales
