@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 1983-09-01
+Version Consolidée au 1983-10-01
 
 # Partie législative
 
@@ -24058,6 +24058,77 @@ Lorsque le juge d'instruction fait application des mesures prévues par le 13° 
 
 ##### Paragraphe 3 : Du cautionnement
 
+###### Article R19
+
+Le cautionnement prévu au 11° de l'article 138 (alinéa 2) est versé au régisseur de recettes installé auprès du secrétariat-
+greffe de la juridiction compétente auquel le chef de ce service adresse copie de l'ordonnance rendue par le juge
+d'instruction.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°58-358 1958-04-02
+
+	**Modifié par**:
+
+	  - Décret n°83-455 1983-06-02 art. 1 JORF 8 juin 1983 en vigueur le 1er octobre 1983
+	  - Décret n°70-1223 1970-12-23 art. 1 JORF 25 décembre 1970
+
+	**Cité par**:
+
+	  - Code de l'organisation judiciaire - art. R123-24 (V)
+	  - Code de procédure pénale - art. D548 (V)
+	  - Code de procédure pénale - art. R264 (V)
+	  - Code de procédure pénale - art. R367 (V)
+
+	**Cite**:
+
+	  - Code de procédure pénale 138 al. 2 11°
+
+
+###### Article R20
+
+Les récépissés constatant le versement ou les versements partiels du cautionnement sont détachés d'un carnet à souches tenu
+par le régisseur de recettes.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°58-358 1958-04-02
+
+	**Cité par**:
+
+	  - Code de procédure pénale - art. R368 (V)
+
+	**Modifié par**:
+
+	  - Décret n°70-1223 1970-12-23 art. 1 JORF 25 décembre 1970
+	  - Décret n°83-455 1983-06-02 art. 2 et art. 3 JORF 8 juin 1983 en vigueur le 1er octobre 1983
+
+
+###### Article R21
+
+Lorsque le cautionnement est fourni par chèque, celui-ci doit être certifié et établi au nom du régisseur de recettes de la
+juridiction compétente.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°58-358 1958-04-02
+
+	**Cité par**:
+
+	  - CODE DE PROCEDURE PENALE - art. R368 (V)
+
+	**Modifié par**:
+
+	  - Décret n°70-1223 1970-12-23 art. 1 JORF 25 décembre 1970
+	  - Décret n°83-455 1983-06-02 art. 3 JORF 8 juin 1983 en vigueur le 1er octobre 1983
+
+
 ###### Article R22
 
 Il est donné avis au juge d'instruction par le greffier des défauts ou retards de versement du cautionnement.
@@ -24085,9 +24156,13 @@ contrôle judiciaire est subordonnée à ce versement dans les conditions prévu
 	  - Décret n°70-1223 1970-12-23 art. 1 JORF 25 décembre 1970
 
 
-###### Article R23-1
+###### Article R23
 
-[Article abrogé].
+Les espèces ou valeurs de caisse remises au régisseur de recettes pour un cautionnement doivent être versées à la Caisse des
+dépôts et consignations dans le délai de deux jours.
+
+Le greffier est responsable de la conservation de ces espèces ou valeurs avant leur versement à la Caisse des dépôts et
+consignations.
 
 **Liens relatifs à cet article**
 
@@ -24095,17 +24170,48 @@ contrôle judiciaire est subordonnée à ce versement dans les conditions prévu
 
 	  - Décret n°58-358 1958-04-02
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - CODE DE PROCEDURE PENALE - art. R24 (T)
-
-	**Créé par**:
-
+	  - Décret n°83-455 1983-06-02 art. 3 JORF 8 juin 1983 en vigueur le 1er octobre 1983
 	  - Décret n°70-1223 1970-12-23 art. 1 JORF 25 décembre 1970
 
-	**Abrogé par**:
+	**Cité par**:
 
-	  - Décret n°83-455 1983-06-02 art. 2 JORF 8 juin 1983 en vigueur le 1er octobre 1983
+	  - Code de procédure pénale - art. R369 (V)
+
+
+###### Article R24
+
+Lorsque le juge d'instruction ordonne que la partie du cautionnement affectée à la garantie des droits de la victime ou du
+créancier d'une dette alimentaire soit versée à ceux-ci par provision, il leur en est donné avis.
+
+La Caisse des dépôts et consignations, sur les diligences du régisseur de recettes, crédite le compte de ce dernier de la
+somme correspondante, aux fins de versement aux ayants droit.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°58-358 1958-04-02
+
+	**Modifié par**:
+
+	  - Décret n°70-1223 1970-12-23 art. 1 JORF 25 décembre 1970
+	  - Décret n°83-455 1983-06-02 art. 3 JORF 8 juin 1983 en vigueur le 1er octobre 1983
+
+	**Transféré par**:
+
+	  - Décret n°2004-1021 du 27 septembre 2004 - art. 8 () JORF 29 septembre 2004
+
+	**Nouveaux textes**:
+
+	  - CODE DE PROCEDURE PENALE - art. R23-1 (Ab)
+	  - CODE DE PROCEDURE PENALE - art. R23-1 (V)
+
+	**Cité par**:
+
+	  - CODE DE PROCEDURE PENALE - art. R368 (V)
+	  - CODE DE PROCEDURE PENALE - art. R369 (V)
 
 
 ###### Article R25
@@ -24449,6 +24555,31 @@ La décision de la commission comporte exécution forcée pour le paiement des d
 	**Créé par**:
 
 	  - Décret n°78-50 1978-01-09 art. 1 JORF 9 janvier 1978
+
+
+###### Article R39
+
+Si la commission accorde une provision ou une indemnité, le paiement de l'indemnité et le remboursement des frais de copie de
+pièces exposées par le demandeur sont faits à ce dernier par le comptable direct du Trésor de Paris chargé du paiement des
+frais de justice, sur un exécutoire établi par le président de la commission.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°78-50 1978-01-09 art. 1 JORF 9 janvier 1978
+
+	**Modifié par**:
+
+	  - Décret n°83-455 1983-06-02 art. 4 JORF 8 juin 1983 en vigueur le 1er octobre 1983
+
+	**Cité par**:
+
+	  - CODE DE PROCEDURE PENALE - art. R40-17 (V)
+
+	**Codifié par**:
+
+	  - Décret n°58-358 1958-04-22
 
 
 ###### Article R40
@@ -26164,6 +26295,133 @@ national de la statistique et des études économiques.
 
 ### Titre X : Des frais de justice
 
+#### Chapitre Ier : Dispositions préliminaires
+
+###### Article R91
+
+Les comptables directs du Trésor font l'avance des frais de justice criminelle, correctionnelle et de police. Ils poursuivent
+le recouvrement de ceux desdits frais qui ne sont point à la charge de l'Etat, le tout dans la forme et selon les règles
+établies par le présent titre.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-318 1959-02-23
+
+	**Créé par**:
+
+	  - Décret n°59-318 1959-02-23 JORF 25 février 1959 en vigueur le 2 mars 1959 rectificatif JORF 13 juin 1959
+
+	**Modifié par**:
+
+	  - Décret n°74-88 1974-02-04 art. 1 JORF 6 février 1974
+	  - Décret n°83-455 1983-06-02 art. 6 JORF 8 juin 1983 en vigueur le 1er octobre 1983
+
+	**Liens**:
+
+	  - TXT_SOURCE: CODE DE PROCEDURE PENALE - art. 800 (M)
+
+	**Cité par**:
+
+	  - Code de la sécurité sociale. - art. D311-1 (V)
+
+
+###### Article R93
+
+Sont, en outre, assimilés aux frais de justice criminelle, correctionnelle et de police, en ce qui concerne l'imputation, le
+paiement et la liquidation, les dépenses qui résultent :
+
+1° Des procédures suivies en application des lois concernant l'enfance délinquante et des lois concernant la protection de
+l'enfance en danger ;
+
+2° De l'application de la législation sur le régime des aliénés ;
+
+3° Des procédures suivies en application de la législation en matière de tutelle des mineurs, de tutelle ou de curatelle des
+majeurs et de sauvegarde de justice ;
+
+6° Des poursuites d'office en matière civile ;
+
+7° Des inscriptions hypothécaires requises par le ministère public ;
+
+8° Des avances faites en matière de règlement judiciaire ou de liquidation des biens dans les cas prévus à l'article 94 de la
+loi n° 67-563 du 13 juillet 1967 ;
+
+9° Des dispositions de la loi n° 72-11 du 3 janvier 1972 instituant l'aide judiciaire ;
+
+10° Du transport des greffes ou des archives des cours ou tribunaux ;
+
+11° De lois spéciales ou de règlements d'administration publique et dont l'avance doit être faite par le comptable direct du
+trésor ;
+
+12° Des frais exposés devant la commission prévue à l'article 16-2 ;
+
+13° Des enquêtes ordonnées en matière de divorce et de séparation de corps en application de l'article 287-1 du Code civil ;
+
+14° Des indemnités de transport et de séjour des magistrats et des secrétaires des juridictions de l'ordre judiciaire, sans
+préjudice des dispositions de l'article R. 92 ;
+
+15° Des frais postaux des secrétariats-greffes des juridictions civiles nécessités par les actes et procédures ainsi que par
+l'envoi des bulletins de casier judiciaire ;
+
+16° Des actes faits d'office en matière de scellés.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-318 1959-02-23
+
+	**Créé par**:
+
+	  - Décret n°59-318 1959-02-23 JORF 25 février 1959 en vigueur le 2 mars 1959 rectificatif JORF 13 juin 1959
+
+	**Cité par**:
+
+	  - Décret n°59-1095 du 21 septembre 1959 - art. 13 (Ab)
+	  - Décret n°64-1333 du 22 décembre 1964 - art. 10-2 (V)
+	  - Décret n°73-216 du 1 mars 1973 - art. 5-1 (Ab)
+	  - Décret n°75-1339 du 31 décembre 1975 - art. 21 (V)
+	  - Décret n°84-406 du 30 mai 1984 - art. 80 (Ab)
+	  - Décret n°2004-1211 du 9 novembre 2004 - art. 22 (VT)
+	  - Décret n°2011-54 du 13 janvier 2011 (V)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R*814-4 (Ab)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R123-23 (V)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R946-6 (Ab)
+	  - Code de commerce - art. R123-165 (V)
+	  - Code de procédure civile - art. 1252 (V)
+	  - Code de procédure civile - art. 1256 (V)
+	  - Code de procédure civile - art. 670-3 (V)
+	  - Code de procédure pénale - art. R214 (V)
+	  - Code de procédure pénale - art. R224-2 (V)
+	  - Code de procédure pénale - art. R310 (V)
+	  - Code de procédure pénale - art. R395 (Ab)
+	  - Code de procédure pénale - art. R91 (V)
+	  - Code de procédure pénale - art. R93-1 (V)
+	  - Code de procédure pénale - art. R93-2 (V)
+	  - Code de procédure pénale - art. R93-3 (V)
+	  - Code des procédures civiles d'exécution - art. R213-7 (V)
+
+	**Cite**:
+
+	  - Loi n°67-563 1967-07-13
+	  - Loi n°72-11 1972-01-03
+	  - Code civil - art. 287-1 (M)
+	  - CODE DE PROCEDURE PENALE - art. 16-2 (V)
+	  - CODE DE PROCEDURE PENALE - art. R92 (M)
+
+	**Modifié par**:
+
+	  - Décret n°75-1338 1975-12-31 art. 4 JORF 3 janvier 1976
+	  - Décret n°78-62 1978-01-20 art. 1 et art. 11 1° JORF 24 janvier 1978
+	  - Décret n°83-455 1983-06-02 art. 7 et art. 8 JORF 8 juin 1983 en vigueur le 1er octobre 1983
+	  - Décret n°68-1116 1968-12-05 art. 1 JORF 14 décembre 1968
+
+	**Liens**:
+
+	  - TXT_SOURCE: CODE DE PROCEDURE PENALE - art. 800 (M)
+
+
 #### Chapitre II : Tarif des frais
 
 ##### Section 1 : Des frais de translation des personnes, de transport des procédures et des pièces à conviction
@@ -26543,6 +26801,37 @@ indemnités de voyage et de séjour allouées aux témoins.
 
 	  - Code de procédure pénale - art. 642 (V)
 	  - Code de procédure pénale - art. 645 (V)
+
+
+###### Article R105
+
+Les frais de location de coffres destinés à mettre en sûreté les valeurs mobilières, bijoux et objets précieux sont payés par
+le régisseur nommé dans chaque secrétariat greffe, soit au moyen de l'avance consentie par le comptable direct du Trésor,
+soit par prélèvement autorisé sur la somme consignée par la partie civile constituée par acte initial.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-318 1959-02-23
+
+	**Créé par**:
+
+	  - Décret n°59-318 1959-02-23 JORF 25 février 1959 en vigueur le 2 mars 1959 rectificatif JORF 13 juin 1959
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°59-318 1959-02-23 art. 5
+	  - TXT_SOURCE: CODE DE PROCEDURE PENALE - art. 800 (M)
+
+	**Modifié par**:
+
+	  - Décret n°83-455 1983-06-02 art. 9 JORF 8 juin 1983 en vigueur le 1er octobre 1983
+
+	**Cité par**:
+
+	  - Code de procédure pénale - art. R316 (V)
+	  - Code de procédure pénale - art. R404 (V)
 
 
 ##### Section 2 : Honoraires et indemnités des experts, des interprètes et des personnes chargées des enquêtes sociales et de personnalité
@@ -27622,6 +27911,47 @@ contraire, qu'ils ne bénéficient pas d'autres avantages que ceux dont il est f
 	  - TXT_SOURCE: CODE DE PROCEDURE PENALE - art. 800 (M)
 
 
+###### Article R134
+
+Lorsqu'un témoin se trouve hors d'état de subvenir aux frais de son déplacement, il lui est délivré, s'il le requiert et sur
+présentation d'une ordonnance rendue par le président du tribunal d'instance de sa résidence, un acompte sur l'indemnité qui
+lui sera due.
+
+Cet acompte peut être égal au prix d'un billet aller et retour quand le voyage s'effectue par un service de transport qui
+délivre des billets d'aller et retour payables intégralement au moment du départ ; dans les autres cas, il ne doit pas
+excéder la moitié du montant de l'indemnité.
+
+Le régisseur d'avances qui paie cet acompte en fait mention en marge ou au bas soit de la copie de la citation, soit de
+l'avertissement remis au témoin.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-318 1959-02-23
+
+	**Créé par**:
+
+	  - Décret n°59-318 1959-02-23 JORF 25 février 1959 en vigueur le 2 mars 1959 rectificatif JORF 13 juin 1959
+
+	**Modifié par**:
+
+	  - Décret n°74-88 1974-02-04 art. 1 JORF 6 février 1974
+	  - Décret n°83-455 1983-06-02 art. 10 JORF 8 juin 1983 en vigueur le 1er octobre 1983
+
+	**Liens**:
+
+	  - TXT_SOURCE: CODE DE PROCEDURE PENALE - art. 800 (M)
+
+	**Cité par**:
+
+	  - Code de procédure pénale - art. R146 (V)
+	  - Code de procédure pénale - art. R329 (V)
+	  - Code de procédure pénale - art. R330 (V)
+	  - Code de procédure pénale - art. R414 (V)
+	  - Code de procédure pénale - art. R415 (V)
+
+
 ###### Article R135
 
 Les témoins retenus en dehors de leur résidence par l'accomplissement de leurs obligations ont droit à une indemnité
@@ -27930,6 +28260,43 @@ l'article 267 pour être ensuite déduite de l'ordonnance de taxe définitive.
 	  - CODE DE PROCEDURE PENALE - art. R412 (V)
 
 
+###### Article R146
+
+Lorsqu'un juré se trouve hors d'état de subvenir aux frais de son déplacement, il lui est délivré, s'il le requiert et sur
+présentation d'une ordonnance rendue par le président du tribunal d'instance de sa résidence un acompte sur l'indemnité qui
+lui sera due. Le montant de cet acompte est déterminé conformément aux dispositions du deuxième alinéa de l'article R. 134. 
+
+Le régisseur d'avances, qui paie cet acompte, en fait mention en marge et au bas de la notification délivrée au juré.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-318 1959-02-23
+
+	**Créé par**:
+
+	  - Décret n°59-318 1959-02-23 JORF 25 février 1959 en vigueur le 2 mars 1959 rectificatif JORF 13 juin 1959
+
+	**Modifié par**:
+
+	  - Décret n°74-88 1974-02-04 art. 1 JORF 6 février 1974
+	  - Décret n°83-455 1983-06-02 art. 11 JORF 8 juin 1983 en vigueur le 1er octobre 1983
+
+	**Liens**:
+
+	  - TXT_SOURCE: CODE DE PROCEDURE PENALE - art. 800 (M)
+
+	**Cité par**:
+
+	  - CODE DE PROCEDURE PENALE - art. R415 (V)
+	  - Code de procédure pénale - art. R146-6 (Ab)
+
+	**Cite**:
+
+	  - Code de procédure pénale - art. R134 (V)
+
+
 ##### Section 4 : Des frais de garde des scellés, de mise en fourrière et de l'immobilisation décidée en application de l'article 43-3-3° bis du code pénal
 
 ###### Article R147
@@ -28002,6 +28369,46 @@ de la vente par privilège et de préférence à tous autres.
 
 	  - SPEC_APPLI: Décret n°59-318 1959-02-23 art. 5
 	  - TXT_SOURCE: CODE DE PROCEDURE PENALE - art. 800 (M)
+
+
+###### Article R149
+
+La mainlevée provisoire de la mise sous séquestre des animaux et des objets périssables est ordonnée par le président du
+tribunal d'instance ou par le juge d'instruction, moyennant caution et paiement des frais de fourrière et de séquestre.
+
+Si lesdits animaux ou objets doivent être vendus, la vente est ordonnée par les mêmes magistrats.
+
+Cette vente est faite à l'enchère au marché le plus voisin à la diligence du comptable des impôts.
+
+Le jour de la vente est indiqué par affiche, vingt-quatre heures à l'avance, à moins que la modicité de l'objet ne détermine
+le magistrat à en ordonner la vente sans formalité, ce qu'il exprime dans son ordonnance.
+
+Le produit de la vente est versé dans la caisse du comptable direct du Trésor, pour en être disposé, ainsi qu'il est ordonné
+par le jugement définitif.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-318 1959-02-23
+
+	**Créé par**:
+
+	  - Décret n°59-318 1959-02-23 JORF 25 février 1959 en vigueur le 2 mars 1959 rectificatif JORF 13 juin 1959
+
+	**Modifié par**:
+
+	  - Décret n°83-455 1983-06-02 art. 8 JORF 8 juin 1983 en vigueur le 1er octobre 1983
+
+	**Liens**:
+
+	  - TXT_SOURCE: CODE DE PROCEDURE PENALE - art. 800 (M)
+
+	**Cité par**:
+
+	  - CODE DE PROCEDURE PENALE - art. R92 (M)
+	  - Code de procédure pénale - art. R333 (Ab)
+	  - Code de procédure pénale - art. R417 (V)
 
 
 ##### Section 5 : Des frais de copie
@@ -29067,6 +29474,32 @@ correctionnelle ou de police dans les conditions fixées et d'après le tarif é
 	  - Décret n°59-318 1959-02-23 JORF 25 février 1959 en vigueur le 2 mars 1959 rectificatif JORF 13 juin 1959
 
 
+###### Article R209
+
+Les frais postaux ou télégraphiques sont payés par le régisseur d'avances, soit au moyen de l'avance consentie par le
+comptable direct du Trésor, soit par prélèvement autorisé sur la somme consignée par la partie civile constituée par acte
+initial.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-318 1959-02-23
+
+	**Créé par**:
+
+	  - Décret n°59-318 1959-02-23 JORF 25 février 1959 en vigueur le 2 mars 1959 rectificatif JORF 13 juin 1959
+
+	**Modifié par**:
+
+	  - Décret n°67-903 1967-10-12 art. 1 JORF 17 octobre 1967
+	  - Décret n°83-455 1983-06-02 art. 12 JORF 8 juin 1983 en vigueur le 1er octobre 1983
+
+	**Abrogé par**:
+
+	  - Décret n°93-867 du 28 juin 1993 - art. 20 (V) JORF 29 juin 1993
+
+
 ##### Section 9 : Des frais d'impression
 
 ###### Article R210
@@ -29184,6 +29617,30 @@ leurs veuves et à leurs orphelins, jusqu'à l'âge de douze ans.
 
 ##### Section 1 : Règles générales
 
+###### Article R214
+
+Dans les procédures assimilées, au point de vue des dépenses, aux procès criminels, correctionnels et de police, les frais
+sont avancés par les régisseurs d'avances, conformément aux dispositions du présent titre, mais ils sont taxés et liquidés
+d'après le tarif et suivant les règles de chaque juridiction compétente.
+
+Leur mode de paiement est celui du présent titre.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-318 1959-02-23
+
+	**Créé par**:
+
+	  - Décret n°59-318 1959-02-23 JORF 25 février 1959 en vigueur le 2 mars 1959 rectificatif JORF 13 juin 1959
+
+	**Modifié par**:
+
+	  - Décret n°74-88 1974-02-04 art. 1 JORF 6 février 1974
+	  - Décret n°83-455 1983-06-02 art. 15 JORF 8 juin 1983 en vigueur le 1er octobre 1983
+
+
 ###### Article R215
 
 Par dérogation à la règle établie à l'article précédent, sont payés conformément au tarif fixé par le présent titre, les
@@ -29216,6 +29673,102 @@ civil, et sur la célébration des mariages, dans le cas prévu à l'article 192
 
 
 ##### Section 2 : Règles spéciales
+
+##### Paragraphe 1 : Aide judiciaire.
+
+###### Article R216
+
+En matière d'aide judiciaire, les frais qui sont exposés dans les instances portées devant les juridictions administratives
+sont admis en dépense par le ministre de la Justice.
+
+Si au cours de l'instance suivie avec le bénéfice de l'aide judiciaire devant un tribunal administratif, des témoins sont
+appelés à déposer, l'indemnité qui leur est allouée, après taxation régulière par le président du tribunal administratif, est
+acquittée provisoirement et sans délai par le comptable direct du Trésor.
+
+**Nota:**
+
+[Les mots : " aide judiciaire " ou " commissions et désignations d'office " sont remplacés par ceux de " aide
+juridictionnelle " par l'article 159 du décret n° 91-1266 du 19 décembre 1991 paru au Journal officiel du 20 décembre 1991.]
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-318 1959-02-23
+
+	**Créé par**:
+
+	  - Décret n°59-318 1959-02-23 JORF 25 février 1959 en vigueur le 2 mars 1959 rectificatif JORF 13 juin 1959
+
+	**Modifié par**:
+
+	  - Décret n°74-88 1974-02-04 art. 1 JORF 6 février 1974
+	  - Décret n°81-70 1981-01-28 art. 6 JORF 30 janvier 1981
+	  - Décret n°83-455 1983-06-02 art. 8 JORF 8 juin 1983 en vigueur le 1er octobre 1983
+
+	**Abrogé par**:
+
+	  - Décret n°91-1266 1991-12-19 art. 171 JORF 20 décembre 1991 en vigueur le 1er janvier 1992
+
+	**Cité par**:
+
+	  - Décret n°99-818 du 16 septembre 1999 - art. 8-1 (V)
+	  - CODE DE PROCEDURE PENALE - art. A43-8 (V)
+
+
+##### Paragraphe 3 : Frais engagés d'office en matière de scellés.
+
+###### Article R218
+
+Les frais engagés d'office en matière de scellés sont à la charge de la succession, et le recouvrement en est poursuivi
+conformément à la loi du 5 septembre 1807 relative au mode de recouvrement des frais de justice au profit du Trésor public en
+matière criminelle, correctionnelle et de police.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-318 1959-02-23
+
+	**Créé par**:
+
+	  - Décret n°83-455 1983-06-02 art. 14 JORF 8 juin 1983 en vigueur le 1er octobre 1983
+
+	**Cité par**:
+
+	  - Code de procédure pénale - art. R350 (V)
+
+	**Cite**:
+
+	  - Loi n°1807-09-05
+
+
+##### Paragraphe 4 : Inscriptions hypothécaires requises par le ministère public
+
+###### Article R219
+
+Les frais des inscriptions hypothécaires prises d'office par le ministère public sont avancés par les régisseurs d'avances,
+sauf recouvrement ultérieur contre les intéressés.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-318 1959-02-23
+
+	**Créé par**:
+
+	  - Décret n°59-318 1959-02-23 JORF 25 février 1959 en vigueur le 2 mars 1959 rectificatif JORF 13 juin 1959
+
+	**Modifié par**:
+
+	  - Décret n°83-455 1983-06-02 art. 15 JORF 8 juin 1983 en vigueur le 1er octobre 1983
+
+	**Cité par**:
+
+	  - Code de procédure pénale - art. R351 (VT)
+	  - Code de procédure pénale - art. R422 (V)
+
 
 ##### Paragraphe 5 : Recouvrement des amendes
 
@@ -29421,8 +29974,7 @@ Lorsque les réquisitions du ministère public tendent à ce que la demande de l
 modification, l'ordonnance de taxe n'est susceptible d'aucun recours si le montant de la somme allouée est conforme à ladite
 demande.
 
-Sous réserve des dispositions de l'article R. 232, alinéa 1er, le mémoire taxé est adressé avec la mention " taxe définitive
-" à la partie prenante par le secrétaire-greffier.
+Dans ce cas, le mémoire est revêtu par le chef du secrétariat-greffe de la mention Taxe définitive.
 
 **Liens relatifs à cet article**
 
@@ -29430,13 +29982,13 @@ Sous réserve des dispositions de l'article R. 232, alinéa 1er, le mémoire tax
 
 	  - Décret n°59-318 1959-02-23
 
+	**Modifié par**:
+
+	  - Décret n°83-455 1983-06-02 art. 16 JORF 8 juin 1983 en vigueur le 1er octobre 1983
+
 	**Cité par**:
 
 	  - CODE DE PROCEDURE PENALE - art. R229-1 (Ab)
-
-	**Cite**:
-
-	  - CODE DE PROCEDURE PENALE - art. R232 (M)
 
 
 ###### Article R228
@@ -29574,9 +30126,14 @@ prononcé la condamnation, dans les conditions prévues aux articles 710 et suiv
 
 ##### Paragraphe 2 : Paiement.
 
-###### Article R234
+###### Article R233
 
-[Article abrogé].
+Toutes les fois qu'il y a partie civile en cause et que celle-ci n'a pas obtenu le bénéfice de l'aide judiciaire, les
+ordonnances de taxe concernant les frais d'instruction, expédition et signification des jugements sont décernées contre la
+partie civile s'il y a consignation.
+
+Dans tous les cas où la consignation n'a pas été faite ou si elle est insuffisante, les ordonnances sont notifiées pour
+exécution au comptable direct du Trésor.
 
 **Liens relatifs à cet article**
 
@@ -29588,14 +30145,69 @@ prononcé la condamnation, dans les conditions prévues aux articles 710 et suiv
 
 	  - Décret n°59-318 1959-02-23 JORF 25 février 1959 en vigueur le 2 mars 1959 rectificatif JORF 13 juin 1959
 
-	**Abrogé par**:
+	**Modifié par**:
 
-	  - Décret n°83-455 1983-06-02 art. 2 JORF 8 juin 1983 en vigueur le 1er octobre 1983
+	  - Décret n°74-88 1974-02-04 art. 1 JORF 6 février 1974
+	  - Décret n°83-455 1983-06-02 art. 18 JORF 8 juin 1983 en vigueur le 1er octobre 1983
 
 	**Cité par**:
 
-	  - Code de procédure pénale - art. R357 (VT)
-	  - Code de procédure pénale - art. R427 (V)
+	  - CODE DE PROCEDURE PENALE - art. R40-1 (M)
+	  - Code de procédure pénale - art. R214 (V)
+	  - Code de procédure pénale - art. R40-20 (V)
+
+
+##### Section 1 : Du paiement des frais
+
+##### Paragraphe 4 : Voies de recours.
+
+###### Article R232
+
+Lorsque la taxe est définitive, quel que soit le mode de paiement choisi par la partie prenante, l'état ou le mémoire est
+transmis par le chef du secrétariat-greffe au régisseur d'avances qui effectue le paiement au bénéfice de la partie prenante
+ou de son mandataire.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-318 1959-02-23
+
+	**Créé par**:
+
+	  - Décret n°59-318 1959-02-23 JORF 25 février 1959 en vigueur le 2 mars 1959 rectificatif JORF 13 juin 1959
+
+	**Modifié par**:
+
+	  - Décret n°74-88 1974-02-04 art. 1 JORF 6 février 1974
+	  - Décret n°83-455 1983-06-02 art. 17 JORF 8 juin 1983 en vigueur le 1er octobre 1983
+
+	**Cité par**:
+
+	  - CODE DE PROCEDURE PENALE - art. R227 (M)
+
+
+###### Article R235
+
+Dans les ordonnances de taxe notifiées pour exécution au comptable direct du Trésor, pour les frais avancés par le Trésor et
+qui ne restent pas définitivement à la charge de l'Etat, il doit être mentionné qu'il n'y a pas de partie civile en cause,
+que la partie civile a obtenu le bénéfice de l'aide judiciaire ou qu'il n'y a pas eu de consignation suffisante
+[*obligation*].
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-318 1959-02-23
+
+	**Créé par**:
+
+	  - Décret n°59-318 1959-02-23 JORF 25 février 1959 en vigueur le 2 mars 1959 rectificatif JORF 13 juin 1959
+
+	**Modifié par**:
+
+	  - Décret n°74-88 1974-02-04 art. 1 JORF 6 février 1974
+	  - Décret n°83-455 1983-06-02 art. 19 JORF 8 juin 1983 en vigueur le 1er octobre 1983
 
 
 ##### Section 2 : De la consignation par la partie civile pour frais de procédure
@@ -29631,28 +30243,14 @@ Il ne peut être exigé aucune rétribution pour la garde de ce dépôt, à pein
 	  - Décret n°74-88 1974-02-04 art. 1 JORF 6 février 1974
 
 
-###### Article R237
+###### Article R239
 
-[Article abrogé].
+Les sommes non employées sont remises, sur simple récépissé, à la partie civile, lorsque l'affaire est terminée par une
+décision qui, à l'égard de la partie civile, a force de chose jugée.
 
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°59-318 1959-02-23
-
-	**Créé par**:
-
-	  - Décret n°59-318 1959-02-23 JORF 25 février 1959 en vigueur le 2 mars 1959 rectificatif JORF 13 juin 1959
-
-	**Abrogé par**:
-
-	  - Décret n°83-455 1983-06-02 art. 2 JORF 8 juin 1983 en vigueur le 1er octobre 1983
-
-
-###### Article R238
-
-[Article abrogé].
+Toutefois, lorsque la partie civile a succombé, elle ne peut obtenir le remboursement des sommes non employées qu'après avoir
+justifié du paiement des frais mis à sa charge ou après avoir autorisé le chef du secrétariat-greffe à faire payer par le
+régisseur lesdits frais par prélèvement sur la consignation.
 
 **Liens relatifs à cet article**
 
@@ -29664,13 +30262,47 @@ Il ne peut être exigé aucune rétribution pour la garde de ce dépôt, à pein
 
 	  - Décret n°59-318 1959-02-23 JORF 25 février 1959 en vigueur le 2 mars 1959 rectificatif JORF 13 juin 1959
 
-	**Liens**:
+	**Modifié par**:
 
-	  - SPEC_APPLI: Décret n°59-318 1959-02-23 art. 5
+	  - Décret n°74-88 1974-02-04 art. 1 JORF 6 février 1974
+	  - Décret n°83-455 1983-06-02 art. 20 JORF 8 juin 1983 en vigueur le 1er octobre 1983
 
 	**Abrogé par**:
 
-	  - Décret n°83-455 1983-06-02 art. 2 JORF 8 juin 1983 en vigueur le 1er octobre 1983
+	  - Décret n°93-867 du 28 juin 1993 - art. 20 (V) JORF 29 juin 1993
+
+
+###### Article R240
+
+Pour obtenir le remboursement des sommes qui ont servi à solder les frais de la procédure, la partie civile qui n'a pas
+succombé ou la partie civile de bonne foi qui a été déchargée de la totalité ou d'une partie des frais, doit établir un
+mémoire qui est taxé par le président de la cour d'assises, par le président de la cour d'appel ou du tribunal dans les
+conditions prévues pour la taxe aux articles R222 et suivants.
+
+Ce mémoire est payé comme les autres frais de justice criminelle, correctionnelle ou de police par le régisseur d'avances.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-318 1959-02-23
+
+	**Créé par**:
+
+	  - Décret n°59-318 1959-02-23 JORF 25 février 1959 en vigueur le 2 mars 1959 rectificatif JORF 13 juin 1959
+
+	**Modifié par**:
+
+	  - Décret n°74-88 1974-02-04 art. 1 JORF 6 février 1974
+	  - Décret n°83-455 1983-06-02 art. 21 JORF 8 juin 1983 en vigueur le 1er octobre 1983
+
+	**Abrogé par**:
+
+	  - Décret n°93-867 du 28 juin 1993 - art. 20 (V) JORF 29 juin 1993
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. R222 (M)
 
 
 ##### Section 3 : De la liquidation et du recouvrement des frais
@@ -29909,9 +30541,11 @@ délits commis contre leurs domaines publics ou privés.
 
 ##### Paragraphe 3 : Régularisation des dépenses - Recouvrement
 
-###### Article R248
+###### Article R249
 
-[Article abrogé].
+Le recouvrement des frais de justice payés par les régisseurs d'avances qui ne restent pas définitivement à la charge de
+l'Etat est poursuivi à la diligence des comptables du Trésor par toutes voies de droit et notamment celle de la contrainte
+judiciaire s'il y a lieu.
 
 **Liens relatifs à cet article**
 
@@ -29923,9 +30557,10 @@ délits commis contre leurs domaines publics ou privés.
 
 	  - Décret n°59-318 1959-02-23 JORF 25 février 1959 en vigueur le 2 mars 1959 rectificatif JORF 13 juin 1959
 
-	**Abrogé par**:
+	**Modifié par**:
 
-	  - Décret n°83-455 1983-06-02 art. 2 JORF 8 juin 1983 en vigueur le 1er octobre 1983
+	  - Décret n°74-88 1974-02-04 art. 1 JORF 6 février 1974
+	  - Décret n°83-455 1983-06-02 art. 22 JORF 8 juin 1983 en vigueur le 1er octobre 1983
 
 
 ## Dispositions générales
