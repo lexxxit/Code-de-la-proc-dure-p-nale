@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 2003-10-02
+Version Consolidée au 2003-10-29
 
 # Partie législative
 
@@ -79884,10 +79884,9 @@ Au recto, sur la partie gauche, sont portées les mentions relatives au service 
 date de la contravention ainsi que les références des textes réprimant ladite contravention et, le cas échéant, sont précisés
 les éléments d'identification du véhicule et l'obligation de procéder à l'échange du permis de conduire.
 
-Un emplacement est réservé pour faire figurer la perte de point(s) que la contravention relevée est susceptible d'entraîner.
-
-Sur la partie droite, figurent les précisions nécessaires à l'information du contrevenant prévue par le premier alinéa de
-l'article L. 11-3 du code de la route.
+Un emplacement est réservé pour informer l'auteur de la contravention qu'il encourt un retrait de points du permis de
+conduire si la réalité de l'infraction est établie ; il est également informé de l'existence d'un traitement automatisé de
+ces points et de la possibilité pour lui d'exercer le droit d'accès.
 
 De même, y figurent les mentions utiles à l'information du contrevenant sur les dispositions de l'article 34 de la loi n°
 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux libertés.
@@ -79900,9 +79899,9 @@ Un emplacement est destiné, en cas de non-paiement par chèque, à l'apposition
 
 	  - Arrêté 1958-12-23
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Arrêté 1999-10-05 art. 1 JORF 7 novembre 1999
+	  - Arrêté 2003-10-24 art. 2 JORF 29 octobre 2003
 
 	**Cite**:
 
@@ -79921,7 +79920,7 @@ Un emplacement est destiné, en cas de non-paiement par chèque, à l'apposition
 
 Le troisième volet, de format 100 mm x 186 mm et de couleur rose, constitue le procès-verbal de contravention qui est
 conservé par le service auquel appartient l'agent verbalisateur ou adressé à l'unité de gendarmerie ou de police compétente,
-quand les agents verbalisateurs sont ceux visés aux articles R. 250-1 et au 4° de l'article R. 251 du code de la route.
+quand les agents verbalisateurs sont ceux visés aux 2° et au 8° de l'article L. 130-4 du code de la route.
 
 Au recto, sur la partie gauche, sont portées les mentions prévues par les deuxième et troisième alinéas de l'article A. 37-2,
 qui sont établies par duplication de la partie gauche du deuxième volet.
@@ -79943,14 +79942,14 @@ certificat d'immatriculation.
 
 	  - Arrêté 1958-12-23
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Arrêté 1999-10-05 art. 1 JORF 7 novembre 1999
+	  - Arrêté 2003-10-24 art. 3 JORF 29 octobre 2003
 
 	**Cite**:
 
 	  - CODE DE PROCEDURE PENALE - art. A37-2 (M)
-	  - Code de la route R251, R250-1
+	  - Code de la route. - art. L130-4 (MMN)
 
 	**Cité par**:
 
@@ -79959,10 +79958,11 @@ certificat d'immatriculation.
 
 ###### Article A37-4
 
-Par dérogation aux articles A. 37 à A 37-3, le relevé des contraventions réprimées par l'article R. 232 (2°) du code de la
-route (dépassement de la vitesse maximale autorisée pour les véhicules à moteur), lorsqu'elles sont soumises à la procédure
-de l'amende forfaitaire et qu'elles ne sont pas payées immédiatement entre les mains de l'agent verbalisateur, s'effectue au
-moyen de formulaires simplifiés, d'un format identique à ceux des formulaires décrits aux articles précités, mais dont les
+Par dérogation aux articles A. 37 à A 37-3, le relevé des contraventions réprimées par les articles R. 413-14 et R. 413-17 du
+code de la route, en ce qu'ils concernent les dépassements de la vitesse maximale autorisée de moins de 50 km/h (dépassement
+de la vitesse maximale autorisée pour les véhicules à moteur), lorsqu'elles sont soumises à la procédure de l'amende
+forfaitaire et qu'elles ne sont pas payées immédiatement entre les mains de l'agent verbalisateur, s'effectue au moyen de
+formulaires simplifiés, d'un format identique à ceux des formulaires décrits aux articles précités, mais dont les
 caractéristiques diffèrent de la manière suivante :
 
 - avis de contravention : outre les mentions prévues à l'article A. 37-2, figurent les indications relatives à la vitesse
@@ -79978,9 +79978,9 @@ recto, sur la partie gauche, les informations obtenues par duplication du second
 
 	  - Arrêté 1958-12-23
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Arrêté 1999-10-05 art. 1 JORF 7 novembre 1999
+	  - Arrêté 2003-10-24 art. 4 JORF 29 octobre 2003
 
 	**Cité par**:
 
@@ -79996,7 +79996,8 @@ recto, sur la partie gauche, les informations obtenues par duplication du second
 
 	  - CODE DE PROCEDURE PENALE - art. A37-2 (M)
 	  - Code de procédure pénale A37 à A37-3, A37-2
-	  - Code de la route R232
+	  - Code de la route. - art. R413-14 (M)
+	  - Code de la route. - art. R413-17 (V)
 
 
 ###### Article A37-5
@@ -80032,10 +80033,10 @@ reconnaît pas l'infraction, sa signature et celle de l'enquêteur.
 ###### Article A37-6
 
 Par dérogation aux articles A. 37 à A. 37-3, le relevé des contraventions à l'arrêt ou au stationnement des véhicules qui
-sont réprimées par l'article R. 233-1 du code de la route, à l'exclusion du premier alinéa, lorsqu'elles sont soumises à la
-procédure de l'amende forfaitaire et qu'elles ne sont pas payées immédiatement entre les mains de l'agent verbalisateur,
-s'effectue au moyen de formulaires simplifiés, d'un format identique à ceux décrits par les articles précités mais dont les
-caractéristiques diffèrent de la manière suivante :
+sont réprimées par les articles R. 417-1 à R. 417-6 et R. 417-10 à R. 417-13 du code de la route, à l'exclusion du premier
+alinéa, lorsqu'elles sont soumises à la procédure de l'amende forfaitaire et qu'elles ne sont pas payées immédiatement entre
+les mains de l'agent verbalisateur, s'effectue au moyen de formulaires simplifiés, d'un format identique à ceux décrits par
+les articles précités mais dont les caractéristiques diffèrent de la manière suivante :
 
 - avis de contravention : n'y figurent pas les mentions prévues par les alinéas 3 et 4 de l'article A. 37-2 ; y figurent deux
 emplacements pour mentionner, d'une part, si une demande d'enlèvement a été formulée et, d'autre part, si l'infraction a été
@@ -80050,41 +80051,18 @@ recto, sur la partie gauche, les informations obtenues par duplication du second
 
 	  - Arrêté 1958-12-23
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Arrêté 1999-10-05 art. 1 JORF 7 novembre 1999
+	  - Arrêté 2003-10-24 art. 5 JORF 29 octobre 2003
 
 	**Cite**:
 
 	  - CODE DE PROCEDURE PENALE - art. A37-2 (M)
 	  - Code de procédure pénale A37 à A37-3, A37-2
-	  - Code de la route. - art. R233-1 (M)
+	  - Code de la route R417-1 à R417-6, R417-10 à R417-13
 
 
 ###### Article A37-7
-
-Les trois modèles de formulaire de la carte de paiement (premier volet), de l'avis de contravention (second volet) et du
-procès-verbal de contravention (troisième volet), correspondant aux documents CERFA n° 11317* 01-CCTA Rose, n° 11316*01-CCTA
-Jaune, n° 11318* 01-CCTA Vert, ainsi que les fiches techniques d'impression afférentes à chacun de ces modèles, peuvent être
-consultés sur le site internet d'admifrance [http://www.admifrance.gouv.fr/].
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Arrêté 1958-12-23
-
-	**Créé par**:
-
-	  - Arrêté 1999-10-05 art. 1 JORF 7 novembre 1999
-
-	**Cité par**:
-
-	  - Code de procédure pénale - art. A37-11 (VD)
-	  - Code de procédure pénale - art. A37-13 (V)
-
-
-###### Article A37-8
 
 Dans le cas prévu par l'article R. 49-14, la consignation s'effectue par l'apposition, sur le formulaire de requête en
 exonération, du timbre prévu au premier alinéa de l'article R. 49-3.
@@ -80100,13 +80078,9 @@ adressée au ministère public.
 
 	  - Arrêté 1958-12-23
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Arrêté 2003-07-11 art. 1 JORF 12 juillet 2003
-
-	**Transféré par**:
-
-	  - Arrêté 2003-10-24 art. 6 JORF 29 octobre 2003
+	  - Arrêté 2003-10-29 art. 6 JORF 29 octobre 2003
 
 	**Cite**:
 
@@ -80114,9 +80088,108 @@ adressée au ministère public.
 	  - CODE DE PROCEDURE PENALE - art. R49-15 (V)
 	  - CODE DE PROCEDURE PENALE - art. R49-3 (M)
 
-	**Nouveaux textes**:
+	**Cité par**:
 
-	  - Code de procédure pénale R37-7
+	  - Code de procédure pénale - art. A37-11 (VD)
+	  - Code de procédure pénale - art. A37-13 (V)
+
+	**Anciens textes**:
+
+	  - Code de procédure pénale R37-8
+
+
+###### Article A37-8
+
+Par dérogation aux articles A. 37-1, A. 37-2 et A. 37-4, lorsque les contraventions mentionnées à l'article L. 121-3 du code
+de la route sont constatées sans interception du véhicule et à l'aide d'un système de contrôle automatisé enregistrant les
+données en numérique, les mentions exigées par les articles A. 37-2 et A. 37-4 relatives à l'avis de contravention figurent
+sur le recto et le verso d'un formulaire unique d'avis de contravention, de format 210 mm x 297 mm, de couleur verte, qui
+comprend en bas de page une partie détachable, de format 100 mm x 186 mm, de couleur blanche intitulée "carte de paiement",
+sur laquelle sont reproduites au recto et au verso les mentions exigées par l'article A. 37-1.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Arrêté 1958-12-23
+
+	**Modifié par**:
+
+	  - Arrêté 2003-10-24 art. 7 JORF 29 octobre 2003
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. A37-1 (V)
+	  - CODE DE PROCEDURE PENALE - art. A37-2 (M)
+	  - CODE DE PROCEDURE PENALE - art. A37-4 (M)
+	  - Code de la route. - art. L121-3 (M)
+
+
+###### Article A37-9
+
+Par dérogation à l'article A. 37-3, le procès-verbal du formulaire d'avis de contravention prévu par l'article précédent,
+lorsqu'il est dressé conformément aux dispositions de l'article 529-11, reproduit les mentions exigées par les articles A.
+37-3 et le dernier alinéa de l'article A. 37-4, dans un format 210 mm x 297 mm, et sur un support de couleur blanche.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Arrêté 1958-12-23
+
+	**Créé par**:
+
+	  - Arrêté 2003-10-24 art. 7 JORF 29 octobre 2003
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. 529-11 (M)
+	  - CODE DE PROCEDURE PENALE - art. A37-3 (M)
+	  - CODE DE PROCEDURE PENALE - art. A37-4 (M)
+
+	**Cité par**:
+
+	  - Code de procédure pénale - art. A37-10 (VD)
+	  - Code de procédure pénale - art. A37-11 (VD)
+	  - Code de procédure pénale - art. A37-16 (V)
+	  - Code de procédure pénale - art. A37-27 (V)
+	  - Code de procédure pénale - art. A37-27-2 (VD)
+	  - Code de procédure pénale - art. A37-27-3 (VD)
+
+
+###### Article A37-10
+
+Les trois modèles de formulaires de la carte de paiement (premier volet), de l'avis de contravention (second volet) et du
+procès-verbal de contravention (troisième volet), correspondant au document CERFA n° 11317*02 - CCTA rose fixé par les
+articles A. 37-1, A. 37-2 et A. 37-3, au document CERFA n° 11316*02 - CCTA jaune fixé par l'article A. 37-4 et au document
+CERFA n° 11318*02 - CCTA vert fixé par l'article A. 37-6, et le formulaire unique d'avis de contravention, fixé par l'article
+A. 37-8, correspondant au document CERFA n° 12291*01 - vert, ainsi que les fiches techniques d'impression afférents à chacun
+de ces modèles peuvent être consultés sur le site internet :
+
+http://www.service.public.gouv.fr.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Arrêté 1958-12-23
+
+	**Créé par**:
+
+	  - Arrêté 2003-10-24 art. 7 JORF 29 octobre 2003
+
+	**Abrogé par**:
+
+	  - Arrêté 2007-07-25 art. 7 JORF 9 août 2007
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. A37-4 (M)
+
+	**Cité par**:
+
+	  - Code de procédure pénale - art. A37-11 (VD)
+	  - Code de procédure pénale - art. A37-14 (VD)
 
 
 ## Livre IV
