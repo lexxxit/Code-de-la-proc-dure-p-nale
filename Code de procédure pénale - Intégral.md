@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 1989-10-01
+Version Consolidée au 1989-12-01
 
 # Partie législative
 
@@ -1933,9 +1933,12 @@ chapitre Ier du titre Ier du présent livre, ainsi que par des lois spéciales.
 
 En cas d'infractions flagrantes, il exerce les pouvoirs qui lui sont attribués par l'article 68.
 
-Le procureur de la République peut également confier aux personnes habilitées dans les conditions prévues par l'article 81,
-sixième alinéa, le soin de vérifier la situation matérielle, familiale ou sociale des personnes faisant l'objet d'une
-enquête.
+Le procureur de la République peut également requérir, suivant les cas, le comité de probation et d'assistance aux libérés,
+le service compétent de l'éducation surveillée ou toute personne habilitée dans les conditions prévues par l'article 81,
+sixième alinéa, de vérifier la situation matérielle, familiale et sociale d'une personne faisant l'objet d'une enquête et de
+l'informer sur les mesures propres à favoriser l'insertion sociale de l'intéressé. En cas de poursuites contre un majeur âgé
+de moins de vingt et un ans au moment de la commission de l'infraction, lorsque la peine encourue n'excède pas cinq ans
+d'emprisonnement, ces diligences doivent être prescrites avant toute réquisition de placement en détention provisoire.
 
 **Liens relatifs à cet article**
 
@@ -1945,8 +1948,7 @@ enquête.
 
 	**Modifié par**:
 
-	  - Ordonnance n°58-1296 du 23 décembre 1958 - art. 1 () JORF 24 décembre 1958 en vigueur le 2 mars 1959
-	  - Loi n°81-82 du 2 février 1981 - art. 38 () JORF 3 février 1981
+	  - Loi n°89-461 du 6 juillet 1989 - art. 1 () JORF 8 juillet 1989 en vigueur le 1er décembre 1989
 
 	**Cité par**:
 
@@ -5431,12 +5433,11 @@ suffisantes.
 
 ###### Article 183
 
-Les décisions et ordonnances de règlement sont portées à la connaissance de l'inculpé et les décisions et ordonnances de
-renvoi ou de transmission des pièces au procureur général à la connaissance de la partie civile ; la notification est
-effectuée dans les délais les plus brefs soit verbalement, avec émargement au dossier de la procédure, soit par lettre
-recommandée.
+Les ordonnances de règlement sont portées à la connaissance de l'inculpé et les ordonnances de renvoi ou de transmission des
+pièces au procureur général à la connaissance de la partie civile ; la notification est effectuée dans les délais les plus
+brefs soit verbalement, avec émargement au dossier de la procédure, soit par lettre recommandée.
 
-Sous réserve de l'application du premier alinéa de l'article 145, les décisions et ordonnances qui sont susceptibles de faire
+Sous réserve de l'application de l'article 145, premier et deuxième alinéas, les décisions qui sont susceptibles de faire
 l'objet de voies de recours de la part de l'inculpé, de la partie civile ou d'un tiers conformément aux articles 99, 186 et
 186-1 leur sont notifiées dans les délais les plus brefs soit verbalement, avec émargement au dossier de la procédure, soit
 par lettre recommandée. Si l'inculpé est détenu, elles peuvent, également être portées à sa connaissance par les soins du
@@ -5463,13 +5464,9 @@ application du présent article ainsi que des formes utilisées.
 
 	  - Loi n°57-1426 1957-12-31
 
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°85-1407 1985-12-30 art. 87 et art. 94
-
 	**Modifié par**:
 
-	  - Loi n°85-1407 1985-12-30 art. 87-I-2 JORF 31 décembre 1985 en vigueur le 1er mars 1988
+	  - Loi n°89-461 du 6 juillet 1989 - art. 10 () JORF 8 juillet 1989 en vigueur le 1er décembre 1989
 
 	**Cite**:
 
@@ -5789,6 +5786,14 @@ par toute personne habilitée dans des conditions fixées par décret en Conseil
 inculpés, ainsi que sur leur situation matérielle, familiale ou sociale. Toutefois, en matière de délit, cette enquête est
 facultative.
 
+Le juge d'instruction peut également commettre, suivant les cas, le comité de probation et d'assistance aux libérés, le
+service compétent de l'éducation surveillée ou toute personne habilitée en application de l'alinéa qui précède à l'effet de
+vérifier la situation matérielle, familiale et sociale d'un inculpé et de l'informer sur les mesures propres à favoriser
+l'insertion sociale de l'intéressé. A moins qu'elles n'aient été déjà prescrites par le ministère public, ces diligences
+doivent être prescrites par le juge d'instruction chaque fois qu'il envisage de placer en détention provisoire un majeur âgé
+de moins de vingt et un ans au moment de la commission de l'infraction lorsque la peine encourue n'excède pas cinq ans
+d'emprisonnement.
+
 Le juge d'instruction peut prescrire un examen médical, confier à un médecin le soin de procéder à un examen médico-
 psychologique ou ordonner toutes autres mesures utiles. Si ces examens sont demandés par l'inculpé ou son conseil, il ne peut
 les refuser que par ordonnance motivée.
@@ -5798,12 +5803,6 @@ les refuser que par ordonnance motivée.
 	**Codifié par**:
 
 	  - Loi n°57-1426 1957-12-31
-
-	**Modifié par**:
-
-	  - ordonnance 60-529 1960-06-04 art. 2 JORF 8 juin 1960
-	  - Loi n°83-466 du 10 juin 1983 - art. 28 () JORF 11 juin 1983
-	  - Loi n°84-576 du 9 juillet 1984 - art. 18 () JORF 10 juillet 1984 en vigueur le 1er janvier 1985
 
 	**Cité par**:
 
@@ -5859,6 +5858,10 @@ les refuser que par ordonnance motivée.
 	  - SPEC_APPLI: Loi n°84-576 du 9 juillet 1984 - art. 19 ()
 	  - TXT_SOURCE: CODE DE PROCEDURE PENALE - art. D17 (M)
 	  - TXT_SOURCE: CODE DE PROCEDURE PENALE - art. D25 (V)
+
+	**Modifié par**:
+
+	  - Loi n°89-461 du 6 juillet 1989 - art. 1 () JORF 8 juillet 1989 en vigueur le 1er décembre 1989
 
 	**Cite**:
 
@@ -6902,9 +6905,9 @@ Elle est néanmoins toujours restituée en cas de non-lieu, d'absolution ou d'ac
 
 ###### Article 144
 
-En matière correctionnelle, si la peine encourue est égale ou supérieure à deux ans d'emprisonnement et si les obligations du
-contrôle judiciaire sont insuffisantes au regard des fonctions définies à l'article 137, la détention provisoire peut être
-ordonnée ou maintenue :
+En matière criminelle et en matière correctionnelle, si la peine encourue est égale ou supérieure à deux ans d'emprisonnement
+et si les obligations du contrôle judiciaire sont insuffisantes au regard des fonctions définies à l'article 137, la
+détention provisoire peut être ordonnée ou maintenue :
 
 1° Lorsque la détention provisoire de l'inculpé est l'unique moyen de conserver les preuves ou les indices matériels ou
 d'empêcher soit une pression sur les témoins ou les victimes, soit une concertation frauduleuse entre inculpés et complices ;
@@ -6957,13 +6960,66 @@ soustrait volontairement aux obligations du contrôle judiciaire.
 
 	**Modifié par**:
 
-	  - Loi n°87-1062 du 30 décembre 1987 - art. 4 () JORF 31 décembre 1987 en vigueur le 1er septembre 1989
-	  - Loi n°89-146 1989-07-06 art. 21 JORF 8 juillet 1989
+	  - Loi n°89-461 du 6 juillet 1989 - art. 4 () JORF 8 juillet 1989 en vigueur le 1er décembre 1989
 
 	**Cite**:
 
 	  - CODE DE PROCEDURE PENALE - art. 137 (M)
 	  - CODE DE PROCEDURE PENALE - art. 141-2 (M)
+
+
+###### Article 145-1
+
+En matière correctionnelle, la détention ne peut excéder quatre mois. Toutefois, à l'expiration de ce délai, le juge
+d'instruction peut la prolonger par une ordonnance motivée comme il est dit à l'article 145, alinéa premier. Aucune
+prolongation ne peut être prescrite pour une durée de plus de quatre mois.
+
+Lorsque l'inculpé n'a pas déjà été condamné pour crime ou délit de droit commun, soit à une peine criminelle, soit à une
+peine d'emprisonnement sans sursis d'une durée supérieure à un an et lorsqu'il n'encourt pas une peine d'emprisonnement
+supérieure à cinq ans, la prolongation de la détention prévue à l'alinéa précédent ne peut être ordonnée qu'une fois et pour
+une durée n'excédant pas deux mois.
+
+Dans les autres cas, l'inculpé ne peut être maintenu en détention au-delà d'un an. Toutefois, à titre exceptionnel, le juge
+d'instruction peut, à l'expiration de ce délai, décider de prolonger la détention pour une durée qui ne peut être supérieure
+à quatre mois par une ordonnance motivée, rendue conformément aux dispositions de l'article 145, premier et cinquième
+alinéas, qui peut être renouvelée selon la même procédure.
+
+Les ordonnances visées aux premier et deuxième alinéas du présent article sont rendues après avis du procureur de la
+République et, s'il y a lieu, observations de l'inculpé ou de son conseil.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Ordonnance n°45-174 du 2 février 1945 - art. 11 (V)
+	  - Loi n°96-1235 du 30 décembre 1996 - art. 18 (V)
+	  - CODE DE PROCEDURE PENALE - art. 141-3 (V)
+	  - CODE DE PROCEDURE PENALE - art. 146 (M)
+	  - CODE DE PROCEDURE PENALE - art. 396 (M)
+	  - CODE DE PROCEDURE PENALE - art. 397-3 (M)
+	  - CODE DE PROCEDURE PENALE - art. 50-1 (MMN)
+	  - Code de procédure pénale - art. 145 (VT)
+	  - Code de procédure pénale - art. 186 (VD)
+	  - Code de procédure pénale - art. 186-5 (V)
+	  - Code de procédure pénale - art. 706-24-3 (V)
+	  - Code de procédure pénale - art. D32-21 (V)
+
+	**Codifié par**:
+
+	  - Loi n°57-1426 1957-12-31
+
+	**Créé par**:
+
+	  - Loi n°84-576 du 9 juillet 1984 - art. 10 () JORF 10 juillet 1984 en vigueur le 1er janvier 1985
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°84-576 du 9 juillet 1984 - art. 19 ()
+
+	**Modifié par**:
+
+	  - Loi n°87-1062 du 30 décembre 1987 - art. 7 () JORF 31 décembre 1987 en vigueur le 1er septembre 1989
+	  - Loi n°89-461 du 6 juillet 1989 - art. 6 () JORF 8 juillet 1989 en vigueur le 1er décembre 1989
 
 
 ###### Article 148-1
@@ -7525,6 +7581,49 @@ information sauf décision contraire à la chambre d'accusation.
 	  - Loi n°87-1062 du 30 décembre 1987 - art. 9 () JORF 31 décembre 1987 en vigueur le 1er septembre 1989
 
 
+#### Chapitre Ier : De la chambre d'instruction et du juge d'instruction : juridictions d'instruction du premier degré
+
+##### Section 7 : Du contrôle judiciaire et de la détention provisoire
+
+##### Sous-section 1 : Du contrôle judiciaire
+
+###### Article 145-2
+
+En matière criminelle, l'inculpé ne peut être maintenu en détention au-delà d'un an. Toutefois, le juge d'instruction peut, à
+l'expiration de ce délai, décider de prolonger la détention pour une durée qui ne peut être supérieure à un an par une
+ordonnance rendue conformément aux dispositions de l'article 145, cinquième alinéa, qui peut être renouvelée selon la même
+procédure ; cette ordonnance doit comporter, par référence aux dispositions des 1° et 2° de l'article 144, l'énoncé des
+considérations de droit et de fait qui constituent le fondement de la décision.
+
+Les dispositions du présent article sont applicables jusqu'à l'ordonnance de règlement.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Ordonnance n°45-174 du 2 février 1945 - art. 11 (V)
+	  - CODE DE PROCEDURE PENALE - art. 141-3 (V)
+	  - CODE DE PROCEDURE PENALE - art. 144-2 (V)
+	  - CODE DE PROCEDURE PENALE - art. 145 (AbD)
+	  - CODE DE PROCEDURE PENALE - art. 186 (V)
+
+	**Codifié par**:
+
+	  - Loi n°57-1426 1957-12-31
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°89-461 du 6 juillet 1989 - art. 25 (M)
+
+	**Créé par**:
+
+	  - Loi n°89-461 du 6 juillet 1989 - art. 6 () JORF 8 juillet 1989 en vigueur le 1er décembre 1989
+
+	**Cite**:
+
+	  - Code de procédure pénale 144 et 145 al. 5
+
+
 #### Chapitre II : De la chambre d'accusation : juridiction d'instruction du second degré
 
 ##### Section 1 : Dispositions générales
@@ -7708,12 +7807,25 @@ l'heure du dépôt.
 
 ###### Article 199
 
-Les débats se déroulent et l'arrêt est rendu en chambre du conseil. 
+Les débats se déroulent et l'arrêt est rendu en chambre du conseil.
 
 Après le rapport du conseiller, le procureur général et les conseils des parties qui en ont fait la demande présentent des
-observations sommaires. 
+observations sommaires.
 
 La chambre d'accusation peut ordonner la comparution personnelle des parties ainsi que l'apport des pièces à conviction.
+
+En matière de détention provisoire, la comparution personnelle de l'inculpé est de droit si celui-ci ou son conseil en fait
+la demande ; cette requête doit, à peine d'irrecevabilité, être présentée en même temps que la déclaration d'appel ou que la
+demande de mise en liberté adressée à la chambre d'accusation. Par dérogation aux dispositions du premier alinéa, en cas de
+comparution personnelle d'un inculpé majeur au moment de la commission de l'infraction, lorsque l'inculpé ou son conseil en
+fait la demande dès l'ouverture des débats, ceux-ci se déroulent et l'arrêt est rendu en audience publique sauf si la
+publicité est de nature à nuire au bon déroulement de l'information, aux intérêts d'un tiers, à l'ordre public ou aux bonnes
+moeurs ; la chambre d'accusation statue sur cette demande, après avoir recueilli les observations du procureur général et, le
+cas échéant, des conseils des autres parties, par un arrêt rendu en chambre du conseil qui n'est susceptible de pourvoi en
+cassation qu'en même temps que l'arrêt portant sur la demande principale.
+
+En cas de comparution personnelle de l'inculpé, le délai maximum prévu au deuxième alinéa de l'article 194 est prolongé de
+cinq jours.
 
 **Liens relatifs à cet article**
 
@@ -7724,6 +7836,10 @@ La chambre d'accusation peut ordonner la comparution personnelle des parties ain
 	**Liens**:
 
 	  - SPEC_APPLI: Loi n°57-1426 1957-12-31 art. 18
+
+	**Modifié par**:
+
+	  - Loi n°89-461 du 6 juillet 1989 - art. 7 () JORF 8 juillet 1989 en vigueur le 1er décembre 1989
 
 	**Cité par**:
 
@@ -7736,6 +7852,10 @@ La chambre d'accusation peut ordonner la comparution personnelle des parties ain
 	  - Code de procédure pénale - art. 696-19 (V)
 	  - Code de procédure pénale - art. 696-20 (VD)
 	  - Code de procédure pénale - art. 728-69 (VD)
+
+	**Cite**:
+
+	  - Code de procédure pénale 194 al. 2
 
 
 ###### Article 200
@@ -26114,7 +26234,7 @@ les termes des articles 57 et 58 du Code pénal.
 Le sursis avec mise à l'épreuve est applicable aux condamnations à l'emprisonnement prononcées pour crime ou délit de droit
 commun. La condamnation peut être déclarée exécutoire par provision.
 
-Le tribunal fixe le délai d'épreuve qui ne peut être inférieur à trois années ni supérieur à cinq années.
+Le tribunal fixe le délai d'épreuve qui ne peut être inférieur à dix-huit mois ni supérieur à trois années.
 
 Il peut décider que le sursis ne s'appliquera à l'exécution de l'emprisonnement que pour une part dont il détermine la durée.
 
@@ -26131,14 +26251,17 @@ Il peut décider que le sursis ne s'appliquera à l'exécution de l'emprisonneme
 	  - Loi n°88-828 du 20 juillet 1988 - art. 7 (V)
 	  - Loi n°95-884 du 3 août 1995 - art. 7 (V)
 
-	**Modifié par**:
-
-	  - Loi n°70-643 du 17 juillet 1970 - art. 29 () JORF 19 juillet 1970
-	  - Loi n°75-624 du 11 juillet 1975 - art. 31 () JORF 13 juillet 1975 en vigueur le 1er janvier 1976
-
 	**Liens**:
 
-	  - SPEC_APPLI: Loi n°75-624 1975-07-11 décret fixant la date d'entrée en vigueur - absence
+	  - SPEC_APPLI: Loi n°89-461 1989-07-06 art. 19 IV
+
+	**Modifié par**:
+
+	  - Loi n°89-461 du 6 juillet 1989 - art. 19 (V) JORF 8 juillet 1989 en vigueur le 1er décembre 1989
+
+	**Abrogé par**:
+
+	  - Loi n°92-1336 du 16 décembre 1992 - art. 99 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
 
 
 ###### Article 739
@@ -26388,23 +26511,27 @@ une partie dont il détermine la durée.
 
 ###### Article 742-1
 
-Lorsque le tribunal correctionnel prolonge le délai d'épreuve, ce délai ne peut au total être supérieur à cinq années. Le
+Lorsque le tribunal correctionnel prolonge le délai d'épreuve, ce délai ne peut au total être supérieur à trois années. Le
 tribunal peut, en outre, par décision spéciale et motivée, ordonner l'exécution provisoire de cette mesure.
 
 **Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance 58-1296 1958-12-23
-
-	**Créé par**:
-
-	  - Loi n°70-643 du 17 juillet 1970 - art. 29 () JORF 19 juillet 1970
 
 	**Cité par**:
 
 	  - CODE DE PROCEDURE PENALE - art. 747-1 (M)
 	  - CODE DE PROCEDURE PENALE - art. 747-3 (M)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°89--461 1989-07-06 art. 19 IV
+
+	**Codifié par**:
+
+	  - Ordonnance 58-1296 1958-12-23
+
+	**Modifié par**:
+
+	  - Loi n°89-461 du 6 juillet 1989 - art. 19 (V) JORF 8 juillet 1989 en vigueur le 1er décembre 1989
 
 
 ###### Article 742-2
@@ -26480,8 +26607,8 @@ Si le condamné satisfait aux mesures d'assistance et de surveillance et aux obl
 de l'article 739 et si son reclassement paraît acquis, le tribunal correctionnel peut déclarer non avenue la condamnation
 prononcée à son encontre.
 
-Le tribunal ne peut être saisi à cette fin avant l'expiration d'un délai de deux ans à dater du jour où la condamnation est
-devenue définitive.
+Le tribunal ne peut être saisi à cette fin avant l'expiration d'un délai d'un an à dater du jour où la condamnation est
+devenue définitive. 
 
 La décision du tribunal peut être frappée d'appel par le ministère public et par le condamné.
 
@@ -26490,10 +26617,6 @@ La décision du tribunal peut être frappée d'appel par le ministère public et
 	**Codifié par**:
 
 	  - Ordonnance 58-1296 1958-12-23
-
-	**Modifié par**:
-
-	  - Loi n°70-643 du 17 juillet 1970 - art. 29 () JORF 19 juillet 1970
 
 	**Cité par**:
 
@@ -26505,6 +26628,10 @@ La décision du tribunal peut être frappée d'appel par le ministère public et
 	  - CODE DE PROCEDURE PENALE - art. 747-3 (M)
 	  - Code de procédure pénale - art. 746 (VD)
 	  - Code pénal - art. 132-53 (M)
+
+	**Modifié par**:
+
+	  - Loi n°89-461 du 6 juillet 1989 - art. 19 (V) JORF 8 juillet 1989 en vigueur le 1er décembre 1989
 
 	**Cite**:
 
