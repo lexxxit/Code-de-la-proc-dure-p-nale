@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 1999-08-27
+Version Consolidée au 1999-08-31
 
 # Partie législative
 
@@ -38865,9 +38865,9 @@ police urbaine des circonscriptions de sécurité publique sont compétents pour
 gares, arrêts et couloirs affectés aux transports collectifs de voyageurs dans leur département d'affectation et dans les
 départements limitrophes.
 
-Toutefois, les officiers et agents de police judiciaire appartenant au service parisien de sécurité du métropolitain de la
-direction de la sécurité publique de la préfecture de police sont compétents pour opérer sur l'ensemble des lignes, stations,
-gares, arrêts et couloirs du métropolitain et du réseau express régional.
+Toutefois, les officiers et agents de police judiciaire appartenant au service de la préfecture de police chargé de la
+surveillance du métropolitain et du réseau express régional sont compétents pour opérer sur l'ensemble des lignes, stations,
+gares, arrêts et couloirs de ceux-ci.
 
 **Liens relatifs à cet article**
 
@@ -38875,9 +38875,9 @@ gares, arrêts et couloirs du métropolitain et du réseau express régional.
 
 	  - Décret n°58-358 1958-04-02
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°95-661 du 9 mai 1995 - art. 2 () JORF 10 mai 1995
+	  - Décret n°99-737 du 27 août 1999 - art. 1 () JORF 31 août 1999
 
 	**Cité par**:
 
