@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 1975-05-27
+Version Consolidée au 1975-07-13
 
 # Partie législative
 
@@ -14635,6 +14635,40 @@ encombrement temporaire ou des nécessités d'organisation du travail.
 	  - CODE DE PROCEDURE PENALE - art. 720-1-A (T)
 
 
+###### Article 720
+
+Les condamnés à des peines privatives de liberté pour des faits qualifiés crimes ou délits de droit commun sont astreints au
+travail.
+
+Les règles relatives à la répartition des produits du travail des détenus sont fixées par décret.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 58-1296 1958-12-23
+
+	**Modifié par**:
+
+	  - Loi n°75-624 du 11 juillet 1975 - art. 61 () JORF 13 juillet 1975
+
+	**Cité par**:
+
+	  - Loi n°83-520 du 27 juin 1983 - art. 58 (V)
+	  - Loi n°88-82 du 22 janvier 1988 - art. 145 (V)
+	  - CODE DE PROCEDURE PENALE - art. 712-16 (V)
+	  - CODE DE PROCEDURE PENALE - art. D103 (V)
+	  - CODE DE PROCEDURE PENALE - art. D49-64 (VD)
+	  - CODE DE PROCEDURE PENALE - art. D49-67 (V)
+	  - CODE DE PROCEDURE PENALE - art. D49-68 (V)
+	  - CODE DE PROCEDURE PENALE - art. D49-69 (V)
+	  - CODE DE PROCEDURE PENALE - art. D49-72 (V)
+
+	**Nouveaux textes**:
+
+	  - CODE DE PROCEDURE PENALE - art. 717-3 (V)
+
+
 ###### Article 723-2
 
 Lorsqu'il a été fait application des dispositions de l'article précédent, si les conditions qui ont permis au tribunal de
@@ -15964,6 +15998,48 @@ des articles 769 et 770.
 	**Cite**:
 
 	  - Code de procédure pénale - art. 769 (V)
+
+
+###### Article 775-1
+
+Le tribunal qui prononce une condamnation peut exclure expressément sa mention au bulletin n. 2 soit dans le jugement de
+condamnation, soit par jugement rendu postérieurement sur la requête du condamné instruite et jugée selon les règles de
+compétence et procédure fixées par les articles 55-1 (alinéa 2) du code pénal et 703 du présent code.
+
+L'exclusion de la mention d'une condamnation au bulletin n. 2 emporte relèvement de toutes les interdictions, déchéances ou
+incapacités de quelque nature qu'elles soient résultant de cette condamnation.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 58-1296 1958-12-23
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°75-624 1975-07-11 décret fixant la date d'entrée en vigueur - absence
+
+	**Créé par**:
+
+	  - Loi n°75-624 du 11 juillet 1975 - art. 51 () JORF 13 juillet 1975 en vigueur le 1er janvier 1976
+
+	**Cité par**:
+
+	  - ORDONNANCE n°2015-899 du 23 juillet 2015 - art. 45 (V)
+	  - Ordonnance n°2016-65 du 29 janvier 2016 - art. 39 (VD)
+	  - CODE DE PROCEDURE PENALE - art. R81 (M)
+	  - Code civil - art. 21-27 (V)
+	  - Code de procédure pénale - art. 11-2 (V)
+	  - Code de procédure pénale - art. 775 (VD)
+	  - Code de procédure pénale - art. 775-1 A (V)
+	  - Code de procédure pénale - art. 777-1 (VD)
+	  - Code de procédure pénale - art. D47-32 (V)
+	  - Code de procédure pénale - art. R69 (V)
+
+	**Cite**:
+
+	  - Code pénal 55-1 al. 2
+	  - CODE DE PROCEDURE PENALE - art. 703 (M)
 
 
 ###### Article 778
