@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 1980-06-08
+Version Consolidée au 1980-07-09
 
 # Partie législative
 
@@ -18832,6 +18832,61 @@ l'interprétation d'une loi d'amnistie, dans les termes de l'article 769, aliné
 	**Cite**:
 
 	  - CODE DE PROCEDURE PENALE - art. 769 (M)
+
+
+###### Article 779
+
+Un décret en Conseil d'Etat détermine les mesures nécessaires à l'exécution des articles 768 à 778, et notamment les
+conditions dans lesquelles doivent être demandés, établis et délivrés les bulletins n° 1, 2 et 3 du casier judiciaire. 
+
+Ce règlement détermine également les conditions dans lesquelles les informations enregistrées par le casier judiciaire
+national automatisé peuvent être utilisées pour l'exécution des sentences pénales. 
+
+Le décret en Conseil d'Etat susvisé est pris après avis de la commission nationale de l'informatique et des libertés.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 58-1296 1958-12-23
+
+	**Cité par**:
+
+	  - Loi n°66-396 du 17 juin 1966 - art. 4 (V)
+	  - Loi n°80-2 du 4 janvier 1980  - art. 7 (V)
+	  - Loi n°80-2 du 4 janvier 1980  - art. 8 (V)
+	  - Code de procédure pénale - art. 776 (VD)
+	  - Code de procédure pénale - art. R81 (V)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°80-2 1980-01-04 art. 10 automatisation du casier judiciaire - entrée en vigueur progressive - décrets multiples
+	  - TXT_SOURCE: CODE DE PROCEDURE PENALE - art. R75 (M)
+	  - TXT_SOURCE: CODE DE PROCEDURE PENALE - art. R75-1 (V)
+	  - TXT_SOURCE: CODE DE PROCEDURE PENALE - art. R76 (V)
+	  - TXT_SOURCE: CODE DE PROCEDURE PENALE - art. R77 (V)
+	  - TXT_SOURCE: CODE DE PROCEDURE PENALE - art. R78 (V)
+	  - TXT_SOURCE: CODE DE PROCEDURE PENALE - art. R78-1 (M)
+	  - TXT_SOURCE: CODE DE PROCEDURE PENALE - art. R79 (M)
+	  - TXT_SOURCE: CODE DE PROCEDURE PENALE - art. R80 (V)
+	  - TXT_SOURCE: CODE DE PROCEDURE PENALE - art. R80-1 (V)
+	  - TXT_SOURCE: CODE DE PROCEDURE PENALE - art. R81 (M)
+	  - TXT_SOURCE: CODE DE PROCEDURE PENALE - art. R82 (V)
+	  - TXT_SOURCE: CODE DE PROCEDURE PENALE - art. R83 (M)
+	  - TXT_SOURCE: CODE DE PROCEDURE PENALE - art. R84 (M)
+	  - TXT_SOURCE: CODE DE PROCEDURE PENALE - art. R85 (V)
+	  - TXT_SOURCE: CODE DE PROCEDURE PENALE - art. R86 (V)
+	  - TXT_SOURCE: CODE DE PROCEDURE PENALE - art. R87 (V)
+	  - TXT_SOURCE: CODE DE PROCEDURE PENALE - art. R88 (V)
+	  - TXT_SOURCE: CODE DE PROCEDURE PENALE - art. R90 (V)
+
+	**Modifié par**:
+
+	  - Loi n°80-2 1980-01-04 art. 7 et art. 8 JORF 5 janvier 1980
+
+	**Cite**:
+
+	  - Code de procédure pénale 768 à 778
 
 
 ###### Article 780
