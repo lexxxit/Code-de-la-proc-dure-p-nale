@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 1960-08-25
+Version Consolidée au 1960-10-07
 
 # Partie législative
 
@@ -4904,6 +4904,41 @@ discrétionnaire du président.
 	  - Ordonnance 60-529 1960-06-04 art. 8 JORF 8 juin 1960
 
 
+###### Article 331
+
+Les témoins déposent séparément l'un de l'autre, dans l'ordre établi par le président.
+
+Les témoins doivent sur la demande du président, faire connaître leurs nom, prénoms, âge, profession, leur domicile ou
+résidence, s'ils connaissaient l'accusé avant le fait mentionné dans l'arrêt de renvoi, s'ils sont parents ou alliés, soit de
+l'accusé, soit de la partie civile, et à quel degré. Le président leur demande encore s'ils ne sont pas attachés au service
+de l'un ou de l'autre.
+
+Avant de commencer leur déposition, les témoins prêtent le serment "de parler sans haine et sans crainte, de dire toute la
+vérité, rien que la vérité". Cela fait, les témoins déposent oralement.
+
+Sous réserve des dispositions de l'article 309, les témoins ne sont pas interrompus dans leur déposition.
+
+Les témoins déposent uniquement, soit sur les faits reprochés à l'accusé, soit sur sa personnalité et sur sa moralité.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 58-1296 1958-12-23
+
+	**Modifié par**:
+
+	  - Ordonnance 60-1067 1960-10-06 art. 1 JORF 7 octobre 1960
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. 309 (M)
+
+	**Cité par**:
+
+	  - Code de procédure pénale - art. D47-20 (V)
+
+
 ###### Article 332
 
 Après chaque déposition, le président peut poser des questions aux témoins.
@@ -7005,6 +7040,28 @@ sont applicables.
 
 	  - CODE DE PROCEDURE PENALE - art. 407 (M)
 	  - CODE DE PROCEDURE PENALE - art. 408 (M)
+
+
+###### Article 444
+
+Les témoins déposent ensuite séparément, soit sur les faits reprochés au prévenu, soit sur sa personnalité et sur sa
+moralité.
+
+Parmi les témoins cités, ceux qui sont produits par les parties poursuivantes sont entendus les premiers, sauf pour le
+président à régler lui-même souverainement l'ordre d'audition des témoins.
+
+Peuvent également, avec l'autorisation du tribunal, être admises à témoigner, les personnes, proposées par les parties, qui
+sont présentes à l'ouverture des débats sans avoir été régulièrement citées.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 58-1296 1958-12-23
+
+	**Modifié par**:
+
+	  - Ordonnance 60-1067 1960-10-06 art. 2 JORF 7 octobre 1960
 
 
 ###### Article 445
