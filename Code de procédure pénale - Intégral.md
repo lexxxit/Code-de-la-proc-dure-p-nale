@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 1987-08-06
+Version Consolidée au 1987-08-25
 
 # Partie législative
 
@@ -57081,7 +57081,8 @@ d'épargne doivent être effectués est fixée à 1.000 F.
 
 ###### Article A41-2
 
-Le plafond des subsides pouvant être reçus chaque mois par les condamnés en application de l'article D. 422 est fixé à 900 F.
+Le plafond des subsides pouvant être reçus chaque mois par les condamnés en application de l'article D. 422 est fixé à 1000
+F.
 
 **Liens relatifs à cet article**
 
@@ -57089,15 +57090,9 @@ Le plafond des subsides pouvant être reçus chaque mois par les condamnés en a
 
 	  - Arrêté 1959-02-27
 
-	**Créé par**:
-
-	  - Arrêté 1979-07-09 art. 2 JORF 21 juillet 1979 en vigueur le 1er septembre 1979
-
 	**Modifié par**:
 
-	  - Arrêté 1981-01-14 art. 1 JORF 27 janvier 1981
-	  - Arrêté 1982-10-22 art. 1 JORF 2 novembre 1982
-	  - Arrêté 1985-08-06 art. 1 JORF 8 août 1985
+	  - Arrêté 1987-08-07 art. 1 JORF 25 août 1987
 
 	**Cite**:
 
@@ -57106,7 +57101,7 @@ Le plafond des subsides pouvant être reçus chaque mois par les condamnés en a
 
 ###### Article A42
 
-La somme prévue au premier alinéa de l'article D. 329 du Code de procédure pénale est fixée à 900 F par mois. Cette somme est
+La somme prévue au premier alinéa de l'article D. 329 du Code de procédure pénale est fixée à 1000 F par mois. Cette somme es
 doublée à l'occasion des fêtes de fin d'année.
 
 **Liens relatifs à cet article**
@@ -57117,10 +57112,7 @@ doublée à l'occasion des fêtes de fin d'année.
 
 	**Modifié par**:
 
-	  - Arrêté 1979-07-09 art. 1 JORF 21 juillet 1979 en vigueur le 1er septembre 1979
-	  - Arrêté 1981-01-14 art. 2 JORF 27 janvier 1981
-	  - Arrêté 1982-10-22 art. 2 JORF 2 novembre 1982
-	  - Arrêté 1985-08-06 art. 2 JORF 8 août 1985
+	  - Arrêté 1987-08-07 art. 2 JORF 25 août 1987
 
 	**Cite**:
 
