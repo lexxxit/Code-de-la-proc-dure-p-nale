@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 2002-04-17
+Version Consolidée au 2002-04-28
 
 # Partie législative
 
@@ -58343,6 +58343,9 @@ Afin de déterminer les modalités d'exécution de la peine en considération de
 l'application des peines peut, d'office, à la demande de l'intéressé ou sur réquisitions du procureur de la République, et
 selon la procédure prévue par le sixième alinéa de l'article 722, ordonner l'une des mesures mentionnées à cet alinéa.
 
+Toutefois, le juge de l'application des peines peut ordonner l'une de ces mesures sans procéder au débat contradictoire prévu
+par le sixième alinéa de l'article 722 lorsque la mesure envisagée reçoit l'accord du ministère public et du condamné.
+
 A défaut de décision du juge de l'application des peines dans les trois mois suivant la communication visée au premier alinéa
 et même, en cas d'urgence, avant ce terme, la peine peut être ramenée à exécution par le ministère public en la forme
 ordinaire.
@@ -58359,12 +58362,13 @@ ordinaire.
 
 	**Modifié par**:
 
-	  - Décret n°2000-1213 du 13 décembre 2000 - art. 1 () JORF 14 décembre 2000 en vigueur le 1er janvier 2001
+	  - Décret n°2002-619 du 26 avril 2002 - art. 2 () JORF 28 avril 2002
 
 	**Liens**:
 
 	  - TXT_SOURCE: CODE DE PROCEDURE PENALE - art. 707 (T)
-	  - TXT_SOURCE: Code de procédure pénale 707, 708 et 709
+	  - TXT_SOURCE: CODE DE PROCEDURE PENALE - art. 708 (M)
+	  - TXT_SOURCE: CODE DE PROCEDURE PENALE - art. 709 (V)
 
 	**Cite**:
 
@@ -60982,6 +60986,35 @@ puisse excéder un an.
 	  - CODE DE PROCEDURE PENALE - art. D116-7 (M)
 
 
+###### Article D116-10-1
+
+En cas d'absence du condamné au débat contradictoire, et sauf s'il décide de renvoyer ce débat à une date ultérieure, le juge
+de l'application des peines constate, par procès-verbal mentionnant la carence de l'intéressé, qu'il n'y a lieu à statuer.
+Copie de ce procès-verbal est adressée au condamné selon les modalités prévues par le sixième alinéa de l'article D. 116-9.
+Lorsque le débat contradictoire était organisé à la suite d'une demande du condamné en application des dispositions de
+l'article D. 116-10, cette copie est accompagnée de l'information selon laquelle le condamné peut former une nouvelle
+demande.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-322 1959-02-23
+
+	**Créé par**:
+
+	  - Décret n°2002-619 du 26 avril 2002 - art. 3 () JORF 28 avril 2002
+
+	**Abrogé par**:
+
+	  - Décret n°2004-1364 du 13 décembre 2004 - art. 4 () JORF 15 décembre 2004 en vigueur le 1er janvier 2005
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. D116-10 (Ab)
+	  - CODE DE PROCEDURE PENALE - art. D116-9 (M)
+
+
 ###### Article D116-11
 
 Le juge de l'application des peines peut, sans procéder au débat contradictoire prévu à l'article 116-9, constater par
@@ -61178,7 +61211,7 @@ la parole en dernier.
 L'avocat du condamné est convoqué par lettre recommandée ou par télécopie au plus tard quinze jours avant le débat
 contradictoire.
 
-L'arrêt est rendu en chambre du conseil.
+L'arrêt est rendu en chambre du conseil. Il est exécutoire par provision.
 
 Si le président de la chambre des appels correctionnels constate que l'appel n'a manifestement pas été formé dans le délai de
 dix jours, il déclare celui-ci irrecevable.
@@ -61189,13 +61222,39 @@ dix jours, il déclare celui-ci irrecevable.
 
 	  - Décret n°59-322 1959-02-23
 
-	**Créé par**:
-
-	  - Décret n°2000-1213 du 13 décembre 2000 - art. 6 () JORF 14 décembre 2000 en vigueur le 1er janvier 2001
-
 	**Modifié par**:
 
-	  - Décret n°2000-1388 du 30 décembre 2000 - art. 8 () JORF 31 décembre 2000 en vigueur le 1er janvier 2001
+	  - Décret n°2002-619 du 26 avril 2002 - art. 4 () JORF 28 avril 2002
+
+	**Abrogé par**:
+
+	  - Décret n°2004-1364 du 13 décembre 2004 - art. 4 () JORF 15 décembre 2004 en vigueur le 1er janvier 2005
+
+
+###### Article D116-16-1
+
+La chambre des appels correctionnels qui accorde une des mesures visées par le sixième alinéa de l'article 722 en détermine
+les modalités d'application et fixe la date avant laquelle elle doit être mise à exécution. Cette juridiction désigne l'un de
+ses membres ou le juge d'application des peines compétent pour fixer la date effective de mise à exécution de la décision et,
+le cas échéant, notifier au condamné les conditions de la mesure.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-322 1959-02-23
+
+	**Créé par**:
+
+	  - Décret n°2002-619 du 26 avril 2002 - art. 5 () JORF 28 avril 2002
+
+	**Abrogé par**:
+
+	  - Décret n°2004-1364 du 13 décembre 2004 - art. 4 () JORF 15 décembre 2004 en vigueur le 1er janvier 2005
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. 722 (M)
 
 
 ##### Section VII : Du placement à l'extérieur, du régime de semi-liberté et des permissions de sortir.
@@ -62053,6 +62112,139 @@ disponible du condamné ou si l'intéressé ne justifie pas de possibilités lic
 	**Liens**:
 
 	  - TXT_SOURCE: Code de procédure pénale 714 à 728
+
+
+##### Section 8 : De la suspension de peine prévue par l'article 720-1-1
+
+###### Article D147-1
+
+Le condamné dont la peine est suspendue en application de l'article 720-1-1 est placé sous la surveillance du juge de
+l'application des peines territorialement compétent en application des dispositions de l'article D. 116-2, assisté du service
+pénitentiaire d'insertion et de probation.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-322 1959-02-23
+
+	**Créé par**:
+
+	  - Décret n°2002-619 du 26 avril 2002 - art. 1 () JORF 28 avril 2002
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. 720-1-1 (M)
+	  - CODE DE PROCEDURE PENALE - art. D116-2 (M)
+
+
+###### Article D147-2
+
+La juridiction, qui, en application, selon les cas, du sixième alinéa de l'article 722 ou de l'article 722-1, accorde cette
+suspension de peine, peut prévoir que le condamné sera soumis à une ou plusieurs des obligations suivantes, destinées
+notamment à permettre de vérifier que les conditions prévues par le premier alinéa de l'article 720-1-1 demeurent remplies :
+
+1° Etablir sa résidence ou être hospitalisé dans un lieu ou un établissement déterminé par la juridiction ;
+
+2° Tenir le juge de l'application des peines informé de son lieu de résidence ou d'hospitalisation et l'informer de toute
+modification ;
+
+3° Fixer sa résidence ou son lieu d'hospitalisation dans les limites territoriales déterminées par la juridiction ;
+
+4° Ne pas sortir des limites territoriales déterminées par la juridiction et, le cas échéant, remettre son passeport ;
+
+5° Se soumettre à toute expertise médicale ordonnée par le juge de l'application des peines ;
+
+6° Recevoir les visites du travailleur social du service pénitentiaire d'insertion et de probation et lui communiquer les
+renseignements ou documents de nature à permettre le contrôle de l'exécution de ses obligations ;
+
+7° Répondre aux convocations du juge de l'application des peines ou du travailleur du service pénitentiaire d'insertion et de
+probation si son état de santé lui permet de se déplacer ;
+
+8° S'abstenir d'entrer en relation de quelque manière que cela soit avec les victimes de l'infraction pour laquelle il est
+condamné ;
+
+9° Lorsque la condamnation concerne l'une des infractions mentionnées à l'article 706-47, s'abstenir de fréquenter ou
+d'entrer en relation avec certaines personnes ou certaines catégories de personnes et notamment des mineurs, à l'exception,
+le cas échéant, de ceux désignés par la décision.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-322 1959-02-23
+
+	**Créé par**:
+
+	  - Décret n°2002-619 du 26 avril 2002 - art. 1 () JORF 28 avril 2002
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. 706-47 (T)
+	  - CODE DE PROCEDURE PENALE - art. 720-1-1 (M)
+	  - CODE DE PROCEDURE PENALE - art. 722 (M)
+	  - CODE DE PROCEDURE PENALE - art. 722-1 (MMN)
+
+
+###### Article D147-3
+
+Le relèvement ou la modification des obligations peut être ordonné, après avis du service pénitentiaire d'insertion et de
+probation, par le juge de l'application des peines.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-322 1959-02-23
+
+	**Créé par**:
+
+	  - Décret n°2002-619 du 26 avril 2002 - art. 1 () JORF 28 avril 2002
+
+
+###### Article D147-4
+
+En application du cinquième alinéa de l'article 720-1-1, le juge de l'application des peines peut mettre fin à la suspension
+de peine si les obligations fixées par la décision ne sont pas respectées, après le débat contradictoire prévu au sixième
+alinéa de l'article 722.
+
+Il peut délivrer à cette fin les mandats prévus par l'article 722-2.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-322 1959-02-23
+
+	**Créé par**:
+
+	  - Décret n°2002-619 du 26 avril 2002 - art. 1 () JORF 28 avril 2002
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. 720-1-1 (M)
+	  - CODE DE PROCEDURE PENALE - art. 722 (M)
+	  - CODE DE PROCEDURE PENALE - art. 722-2 (Ab)
+
+
+###### Article D147-5
+
+A tout moment, le procureur de la République peut saisir le juge de l'application des peines afin qu'il ordonne une expertise
+médicale pour vérifier si le condamné remplit toujours les critères prévus à l'article 720-1-1.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-322 1959-02-23
+
+	**Créé par**:
+
+	  - Décret n°2002-619 du 26 avril 2002 - art. 1 () JORF 28 avril 2002
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. 720-1-1 (M)
 
 
 ##### Section 4 : Du travail des détenus
@@ -73980,15 +74172,21 @@ juridiction nationale de la libération conditionnelle, par lettre recommandée 
 Les dispositions de l'article D. 116-7, des deuxième et troisième alinéas de l'article D. 116-10 ainsi que celles des
 articles D. 116-11 et D. 116-12 sont applicables aux demandes de libération conditionnelle.
 
+La demande de libération conditionnelle est remise au greffe du juge de l'application des peines dans les conditions prévues
+par le deuxième alinéa de l'article D. 116-7.
+
+Lorsque la demande relève de la compétence de la juridiction régionale de la libération conditionnelle, le greffier du juge
+de l'application des peines la transmet sans délai en copie à cette juridiction.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°59-322 1959-02-23
 
-	**Modifié par**:
+	**Créé par**:
 
-	  - Décret n°2000-1213 du 13 décembre 2000 - art. 14 () JORF 14 décembre 2000 en vigueur le 1er janvier 2001
+	  - Décret n°2002-619 du 26 avril 2002 - art. 6 () JORF 28 avril 2002
 
 	**Cite**:
 
@@ -74145,6 +74343,35 @@ premiers alinéas de l'article D. 116-8, et les dispositions du dernier alinéa 
 	**Liens**:
 
 	  - TXT_SOURCE: Code de procédure pénale 729 à 733-1
+
+
+###### Article D528-1
+
+En cas d'absence du condamné au débat contradictoire, et sauf si la juridiction régionale de la libération conditionnelle
+décide de renvoyer ce débat à une date ultérieure, le président de cette juridiction constate, par procès-verbal mentionnant
+la carence de l'intéressé, qu'il n'y a lieu à statuer. Copie de ce procès-verbal est adressée au condamné selon les modalités
+prévues par le sixième alinéa de l'article D. 116-9. Lorsque le débat contradictoire était organisé à la suite d'une demande
+du condamné en application des dispositions de l'article D. 524, cette copie est accompagnée de l'information selon laquelle
+le condamné peut former une nouvelle demande.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-322 1959-02-23
+
+	**Créé par**:
+
+	  - Décret n°2002-619 du 26 avril 2002 - art. 3 () JORF 28 avril 2002
+
+	**Abrogé par**:
+
+	  - Décret n°2004-1364 du 13 décembre 2004 - art. 19 () JORF 15 décembre 2004 en vigueur le 1er janvier 2005
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. D116-9 (M)
+	  - CODE DE PROCEDURE PENALE - art. D524 (M)
 
 
 ###### Article D529
@@ -74365,7 +74592,7 @@ l'application des peines.
 
 Le juge de l'application des peines peut autoriser le libéré conditionnel à changer de résidence, après avoir consulté le
 juge de l'application des peines du ressort dans lequel le condamné envisage de s'établir et, dans l'hypothèse prévue au
-troisième alinéa de l'article 730, le préfet, si la résidence choisie est située dans un autre département.
+troisième alinéa de l'article 730, le procureur de la République de ce ressort.
 
 Le libéré doit obtenir l'autorisation du juge de l'application des peines préalablement à tout déplacement dont la durée
 excéderait quinze jours, ainsi que pour tout déplacement à l'étranger.
@@ -74379,9 +74606,9 @@ par une modification de ladite décision dans les conditions fixées au 4ème al
 
 	  - Décret n°59-322 1959-02-23
 
-	**Modifié par**:
+	**Créé par**:
 
-	  - Décret n°98-1099 du 8 décembre 1998 - art. 194 () JORF 9 décembre 1998
+	  - Décret n°2002-619 du 26 avril 2002 - art. 7 () JORF 28 avril 2002
 
 	**Cite**:
 
@@ -74544,6 +74771,12 @@ judiciaire, qu'elle fait l'objet d'une arrestation provisoire et qu'elle compara
 les distinctions prévues à l'article précédent, devant la juridiction chargée de statuer sur l'éventuelle révocation de la
 libération conditionnelle.
 
+Lorsqu'un mandat d'arrêt est délivré dans les conditions prévues par le deuxième alinéa de l'article 722-2 à l'encontre d'un
+condamné bénéficiant d'une libération conditionnelle, le délai prévu par l'article 732 est suspendu jusqu'à l'exécution du
+mandat.
+
+Il en est de même pendant la durée de l'arrestation provisoire ordonnée en application du deuxième alinéa de l'article 733.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
@@ -74552,7 +74785,11 @@ libération conditionnelle.
 
 	**Créé par**:
 
-	  - Décret n°2000-1213 du 13 décembre 2000 - art. 16 () JORF 14 décembre 2000 en vigueur le 1er janvier 2001
+	  - Décret n°2002-619 du 26 avril 2002 - art. 8 () JORF 28 avril 2002
+
+	**Abrogé par**:
+
+	  - Décret n°2004-1364 du 13 décembre 2004 - art. 22 () JORF 15 décembre 2004 en vigueur le 1er janvier 2005
 
 	**Cite**:
 
@@ -74561,6 +74798,7 @@ libération conditionnelle.
 	  - CODE DE PROCEDURE PENALE - art. 130 (M)
 	  - CODE DE PROCEDURE PENALE - art. 133 (M)
 	  - CODE DE PROCEDURE PENALE - art. 722-2 (Ab)
+	  - CODE DE PROCEDURE PENALE - art. 732 (M)
 	  - CODE DE PROCEDURE PENALE - art. 733 (M)
 
 	**Nouveaux textes**:
