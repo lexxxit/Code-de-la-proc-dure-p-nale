@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 1989-12-09
+Version Consolidée au 1990-01-01
 
 # Partie législative
 
@@ -2125,6 +2125,51 @@ cas échéant, requérir l'ouverture d'une information.
 
 ##### Section 4 : Du ministère public près le tribunal de police
 
+###### Article 45
+
+Le procureur de la République près le tribunal de grande instance occupe le siège du ministère public devant le tribunal de
+police pour les contraventions lorsque la peine attachée à l'infraction poursuivie excède dix jours d'emprisonnement ou 3.000
+F d'amende. Il peut l'occuper également en toute matière, s'il le juge à propos, au lieu et place du commissaire de police
+qui exerce habituellement ces fonctions.
+
+Toutefois, dans le cas où les infractions forestières sont soumises aux tribunaux de police, les fonctions du ministère
+public sont remplies, soit par un ingénieur des eaux et forêts, soit par un chef de district ou un agent technique, désigné
+par le conservateur des eaux et forêts.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°57-1426 1957-12-31
+
+	**Modifié par**:
+
+	  - Ordonnance n°58-1296 du 23 décembre 1958 - art. 1 () JORF 24 décembre 1958 en vigueur le 2 mars 1959
+	  - Ordonnance 60-529 1960-06-04 art. 2 JORF 8 juin 1960
+	  - Loi n°72-1226 1972-12-29 art. 62 JORF 30 décembre 1972
+	  - Loi n°79-1131 du 28 décembre 1979 - art. 5 () JORF 29 décembre 1979
+	  - Loi n°85-835 du 7 août 1985 - art. 7 (VT) JORF 8 août 1985 en vigueur le 1er octobre 1986
+	  - Loi n°89-469 du 10 juillet 1989 - art. 8 (V) JORF 11 juillet 1989 en vigueur le 1er janvier 1990
+
+	**Cité par**:
+
+	  - Loi n°83-520 du 27 juin 1983 - art. 10 (V)
+	  - Loi n°83-520 du 27 juin 1983 - art. 39 (V)
+	  - Ordonnance n°91-245 du 25 février 1991 - art. 20 (V)
+	  - Arrêté du 20 février 2012 - art. 4 (V)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L623-1 (Ab)
+	  - Code de l'organisation judiciaire - art. L222-3 (VT)
+	  - Code de l'organisation judiciaire - art. L232-3 (VT)
+	  - Code de procédure pénale - art. 39 (VT)
+	  - Code de procédure pénale - art. 810 (V)
+	  - Code de procédure pénale - art. 848 (V)
+	  - Code de procédure pénale - art. R200 (Ab)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°85-835 du 7 août 1985 - art. 10 (V)
+
+
 ###### Article 46
 
 En cas d'empêchement du commissaire de police, le procureur général désigne, pour une année entière, un ou plusieurs
@@ -2390,6 +2435,44 @@ présentes.
 	**Liens**:
 
 	  - SPEC_APPLI: Loi n°57-1426 1957-12-31 art. 18
+
+
+###### Article 55
+
+Dans les lieux où un crime a été commis, il est interdit, sous peine d'une amende de 1.300 F à 3.000 F, à toute personne non
+habilitée, de modifier avant les premières opérations de l'enquête judiciaire l'état des lieux et d'y effectuer des
+prélèvements quelconques.
+
+Toutefois, exception est faite lorsque ces modifications ou ces prélèvements sont commandés par les exigences de la sécurité
+ou de la salubrité publique, ou par les soins à donner aux victimes.
+
+Si les destructions des traces ou si les prélèvements sont effectués en vue d'entraver le fonctionnement de la justice, la
+peine est un emprisonnement de trois mois à trois ans et une amende de 375 F à 15.000 F.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Loi du 17 décembre 1926 - art. 20 (VD)
+	  - Ordonnance n°91-245 du 25 février 1991 - art. 20 (V)
+	  - Code de justice militaire - art. 82 (Ab)
+	  - Code de justice militaire. - art. L211-3 (VD)
+	  - Code disciplinaire et pénal de la marine marcha... - art. 30 (VT)
+	  - Décret du 20 mai 1903 - art. 120 (Ab)
+
+	**Codifié par**:
+
+	  - Loi n°57-1426 1957-12-31
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°85-835 du 7 août 1985 - art. 10 (V)
+
+	**Modifié par**:
+
+	  - Loi n°85-835 du 7 août 1985 - art. 8 (VT) JORF 8 août 1985 en vigueur le 1er octobre 1986
+	  - Décret n°85-956 1985-09-11 art. 2 JORF 12 septembre 1985
+	  - Décret n°89-989 du 29 décembre 1989 - art. 1 (V) JORF 31 décembre 1989 en vigueur le 1er janvier 1990
 
 
 ###### Article 56
@@ -12455,8 +12538,8 @@ greffe de ladite cour.
 
 ###### Article 381
 
-Le tribunal correctionnel connaît des délits.  Sont des délits les infractions que la loi punit d'une peine de plus de deux
-mois d'emprisonnement ou 10.000 F d'amende.
+Le tribunal correctionnel connaît des délits. Sont des délits les infractions que la loi punit d'une peine de plus de deux
+mois d'emprisonnement ou 12 000 F d'amende.
 
 **Liens relatifs à cet article**
 
@@ -12470,7 +12553,7 @@ mois d'emprisonnement ou 10.000 F d'amende.
 
 	**Modifié par**:
 
-	  - Loi n°85-835 du 7 août 1985 - art. 7 (VT) JORF 8 août 1985 en vigueur le 1er octobre 1985
+	  - Loi n°89-469 du 10 juillet 1989 - art. 10 () JORF 11 juillet 1989 en vigueur le 1er janvier 1990
 
 	**Cité par**:
 
@@ -17138,6 +17221,43 @@ Si le jugement est annulé pour violation ou omission non réparée de formes pr
 
 #### Chapitre Ier : De la compétence du tribunal de police
 
+###### Article 521
+
+Le tribunal de police connaît des contraventions.
+
+Sont des contraventions les infractions que la loi punit d'une peine de deux mois d'emprisonnement ou au-dessous, ou 12000 F
+d'amende ou au-dessous, qu'il y ait ou non confiscation des choses saisies et quelle qu'en soit la valeur.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Ordonnance n°45-174 du 2 février 1945 - art. 21 (V)
+	  - Ordonnance n°91-245 du 25 février 1991 - art. 20 (V)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L331-5 (Ab)
+	  - CODE DE PROCEDURE PENALE - art. R41-11 (V)
+	  - CODE DE PROCEDURE PENALE - art. R41-3 (M)
+	  - Code de procédure pénale - art. 529-3 (V)
+	  - Code de procédure pénale - art. 529-6 (V)
+
+	**Codifié par**:
+
+	  - Ordonnance 58-1296 1958-12-23
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°85-835 du 7 août 1985 - art. 10 (V)
+
+	**Modifié par**:
+
+	  - Loi n°85-835 du 7 août 1985 - art. 7 (VT) JORF 8 août 1985 en vigueur le 1er octobre 1985
+	  - Loi n°89-469 du 10 juillet 1989 - art. 8 (V) JORF 11 juillet 1989 en vigueur le 1er janvier 1990
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L623-1 (Ab)
+
+
 ###### Article 522
 
 Est compétent le tribunal de police du lieu de commission ou de constatation de la contravention ou celui de la résidence du
@@ -17214,6 +17334,54 @@ aux articles 45 et suivants, et un greffier.
 
 
 #### Chapitre II : De la procédure simplifiée
+
+###### Article 524
+
+Toute contravention de police même commise en état de récidive, peut être soumise à la procédure simplifiée prévue au présent
+chapitre.
+
+Cette procédure n'est pas applicable :
+
+1° Si la contravention est prévue par le code du travail ;
+
+2° Si le prévenu, auteur d'une contravention punie d'un emprisonnement supérieur à dix jours ou d'une amende excédant 3 000
+était âgé de moins de dix-huit ans au jour de l'infraction.
+
+Cette procédure ne peut plus être poursuivie lorsque la victime du dommage causé par la contravention a fait citer
+directement le prévenu avant qu'ait été rendue l'ordonnance prévue à l'article 525.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Ordonnance n°45-174 du 2 février 1945 - art. 21 (VD)
+	  - Décret n°64-1333 du 22 décembre 1964 - art. 14 (V)
+	  - Ordonnance n°91-245 du 25 février 1991 - art. 20 (V)
+	  - Code de justice militaire - art. 483 (Ab)
+	  - Code de justice militaire. - art. L422-1 (V)
+	  - Code de procédure pénale - art. 530-1 (V)
+	  - Code de procédure pénale - art. R49-18 (VD)
+	  - Code forestier (nouveau) - art. L161-24 (VD)
+
+	**Codifié par**:
+
+	  - Ordonnance 58-1296 1958-12-23
+
+	**Modifié par**:
+
+	  - Loi n°72-5 1972-01-03 art. 1 JORF 5 janvier 1972 en vigueur le 30 juin 1972
+	  - Loi n°72-1226 1972-12-29 art. 62 JORF 30 décembre 1972
+	  - Loi n°85-835 du 7 août 1985 - art. 7 (VT) JORF 8 août 1985 en vigueur le 1er Octobre 1985
+	  - Loi n°89-469 du 10 juillet 1989 - art. 8 (V) JORF 11 juillet 1989 en vigueur le 1er janvier 1990
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°85-835 du 7 août 1985 - art. 10 (V)
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. 525 (M)
+
 
 ###### Article 525
 
@@ -17403,14 +17571,14 @@ l'ordonnance pénale a fait l'objet d'un paiement volontaire.
 
 #### Chapitre II bis : De la procédure de l'amende forfaitaire
 
-##### Section 1 : Dispositions applicables à certaines infractions au code de la route, à la réglementation des transports par route, au code des assurances en ce qui concerne l'assurance obligatoire des véhicules terrestres à moteur et de leurs remorques et semi-remorques ainsi qu'à la réglementation sur les parcs nationaux
+##### Section 1 : Dispositions applicables à certaines infractions à la réglementation des transports par route, au code des assurances en ce qui concerne l'assurance obligatoire des véhicules terrestres à moteur et de leurs remorques et semi-remorques ainsi qu'à la réglementation sur les parcs nationaux
 
 ###### Article 529
 
-Pour les contraventions des quatre premières classes au Code de la route, à la réglementation des transports par route, au
-Code des assurances en ce qui concerne l'assurance obligatoire des véhicules terrestres à moteur et de leurs remorques et
-semi-remorques et à la règlementation sur les parcs nationaux qui sont punies seulement d'une peine d'amende, l'action
-publique est éteinte par le paiement d'une amende forfaitaire qui est exclusive de l'application des règles de la récidive.
+Pour les contraventions des quatre premières classes à la réglementation des transports par route, au Code des assurances en
+ce qui concerne l'assurance obligatoire des véhicules terrestres à moteur et de leurs remorques et semi-remorques et à la
+règlementation sur les parcs nationaux qui sont punies seulement d'une peine d'amende, l'action publique est éteinte par le
+paiement d'une amende forfaitaire qui est exclusive de l'application des règles de la récidive.
 
 Toutefois, la procédure de l'amende forfaitaire n'est pas applicable si plusieurs infractions, dont l'une au moins ne peut
 donner lieu à une amende forfaitaire, ont été constatées simultanément.
@@ -17448,13 +17616,13 @@ donner lieu à une amende forfaitaire, ont été constatées simultanément.
 	  - Code rural - art. L242-28 (Ab)
 	  - Code rural et de la pêche maritime - art. L215-12 (V)
 
-	**Modifié par**:
-
-	  - Loi n°85-1407 1985-12-30 art. 51 et art. 94 JORF 31 décembre 1985 en vigueur le 1er octobre 1986
-
 	**Liens**:
 
 	  - SPEC_APPLI: Loi n°85-1407 1985-12-30 art. 94
+
+	**Modifié par**:
+
+	  - Loi n°89-469 du 10 juillet 1989 - art. 1 () JORF 11 juillet 1989 en vigueur le 1er janvier 1990
 
 
 ###### Article 529-1
@@ -17470,13 +17638,13 @@ cet envoi.
 
 	  - Ordonnance 58-1296 1958-12-23
 
-	**Créé par**:
-
-	  - Loi n°85-1407 1985-12-30 art. 51 et art. 94 JORF 31 décembre 1985 en vigueur le 1er octobre 1986
-
 	**Liens**:
 
 	  - SPEC_APPLI: Loi n°85-1407 1985-12-30 art. 94
+
+	**Modifié par**:
+
+	  - Loi n°89-469 du 10 juillet 1989 - art. 1 () JORF 11 juillet 1989 en vigueur le 1er janvier 1990
 
 	**Cité par**:
 
@@ -17504,13 +17672,13 @@ droit et recouvrée au profit du Trésor public en vertu d'un titre rendu exécu
 
 	  - Ordonnance 58-1296 1958-12-23
 
-	**Créé par**:
-
-	  - Loi n°85-1407 1985-12-30 art. 51 et art. 94 JORF 31 décembre 1985 en vigueur le 1er octobre 1986
-
 	**Liens**:
 
 	  - SPEC_APPLI: Loi n°85-1407 1985-12-30 art. 94
+
+	**Modifié par**:
+
+	  - Loi n°89-469 du 10 juillet 1989 - art. 1 () JORF 11 juillet 1989 en vigueur le 1er janvier 1990
 
 	**Cite**:
 
@@ -17691,6 +17859,142 @@ recouvrée par le Trésor public en vertu d'un titre rendu exécutoire par le mi
 	  - CODE DE PROCEDURE PENALE - art. 529-4 (M)
 
 
+##### Section 2 bis : Dispositions applicables à certaines infractions au code de la route
+
+###### Article 529-6
+
+Pour les contraventions des quatre premières classes au code de la route punies d'une simple peine d'amende, qu'elles
+entraînent ou non une perte des points affectés au permis de conduire, l'action publique est éteinte par le paiement d'une
+amende forfaitaire qui est exclusive de l'application des règles de la récidive.
+
+Toutefois, la procédure de l'amende forfaitaire n'est pas applicable si plusieurs infractions, dont l'une au moins ne peut
+donner lieu à amende forfaitaire, ont été constatées simultanément.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 58-1296 1958-12-23
+
+	**Créé par**:
+
+	  - Loi n°89-469 du 10 juillet 1989 - art. 1 () JORF 11 juillet 1989 en vigueur le 1er janvier 1990
+
+	**Abrogé par**:
+
+	  - Loi n°99-515 du 23 juin 1999 - art. 9 (V) JORF 24 juin 1999
+
+	**Cité par**:
+
+	  - CODE DE PROCEDURE PENALE - art. R49-10 (M)
+	  - CODE DE PROCEDURE PENALE - art. R49-13 (M)
+	  - Code de la route. - art. L121-5 (V)
+	  - Code de procédure pénale - art. 529-11 (VD)
+	  - Code de procédure pénale - art. A37-30 (V)
+	  - Code de procédure pénale - art. A37-31 (V)
+	  - Code de procédure pénale - art. A37-32 (V)
+	  - Code de procédure pénale - art. A37-33 (V)
+	  - Code de procédure pénale - art. R49-8-4-1 (V)
+
+
+###### Article 529-7
+
+Pour les contraventions au code de la route des deuxième, troisième et quatrième classes prévues par l'article 529-6, à
+l'exception de celles relatives au stationnement, l'amende forfaitaire est minorée si le contrevenant en règle le montant
+dans les conditions prévues par l'article 529-8.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 58-1296 1958-12-23
+
+	**Créé par**:
+
+	  - Loi n°89-469 du 10 juillet 1989 - art. 1 () JORF 11 juillet 1989 en vigueur le 1er janvier 1990
+
+	**Cité par**:
+
+	  - CODE DE PROCEDURE PENALE - art. R49-8-5 (V)
+	  - CODE DE PROCEDURE PENALE - art. R49-9 (V)
+	  - Code de la route. - art. L121-5 (V)
+	  - Code des transports - art. L2241-4 (V)
+
+	**Liens**:
+
+	  - PILOTE_SUIVEUR: Code de la route. - art. L121-5 (M)
+
+	**Cite**:
+
+	  - Code de procédure pénale 529-6 et 529-8
+
+
+###### Article 529-8
+
+Le montant de l'amende forfaitaire minorée peut être acquitté soit entre les mains de l'agent verbalisateur au moment de la
+constatation de l'infraction, soit dans un délai de trois jours à compter de la constatation de l'infraction ou, si cet avis
+est ultérieurement envoyé à l'intéressé, dans les sept jours qui suivent cet envoi.
+
+En cas de non-paiement de l'amende forfaitaire minorée dans les conditions prévues ci-dessus, le contrevenant est redevable
+de l'amende forfaitaire.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 58-1296 1958-12-23
+
+	**Créé par**:
+
+	  - Loi n°89-469 du 10 juillet 1989 - art. 1 () JORF 11 juillet 1989 en vigueur le 1er janvier 1990
+
+	**Cité par**:
+
+	  - CODE DE PROCEDURE PENALE - art. 530-2-1 (V)
+	  - CODE DE PROCEDURE PENALE - art. R. 49-3-1 (VD)
+	  - Code de la route. - art. L121-5 (V)
+	  - Code de la voirie routière - art. L118-4 (V)
+	  - Code de procédure pénale - art. 529-11 (VD)
+	  - Code de procédure pénale - art. 529-7 (V)
+	  - Code de procédure pénale - art. 530-5 (V)
+	  - Code de procédure pénale - art. R49-11 (VD)
+
+	**Liens**:
+
+	  - PILOTE_SUIVEUR: Code de la route. - art. L121-5 (M)
+
+
+###### Article 529-9
+
+L'amende forfaitaire doit être versée avant l'expiration de la période de trente jours qui suit la constatation de
+l'infraction ou l'envoi de l'avis de contravention.
+
+Les dispositions de l'article 529-2 relatives à la requête aux fins d'exonération et à la majoration de plein droit sont
+applicables.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 58-1296 1958-12-23
+
+	**Créé par**:
+
+	  - Loi n°89-469 du 10 juillet 1989 - art. 1 () JORF 11 juillet 1989 en vigueur le 1er janvier 1990
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. 529-2 (M)
+
+	**Cité par**:
+
+	  - CODE DE PROCEDURE PENALE - art. 530-2-1 (V)
+
+	**Liens**:
+
+	  - PILOTE_SUIVEUR: Code de la route. - art. L121-5 (M)
+
+
 ##### Section 3 : Dispositions communes
 
 ###### Article 530
@@ -17818,26 +18122,18 @@ comporter sont déférés au tribunal de police, qui statue conformément aux di
 	  - CODE DE PROCEDURE PENALE - art. 711 (M)
 
 
-#### Chapitre II bis : De la procédure de l'amende forfaitaire
-
-##### Section 3 : Dispositions communes
-
 ###### Article 530-3
 
-Un décret en Conseil d'Etat fixe le montant des amendes et indemnités forfaitaires et des amendes forfaitaires majorées ainsi
-que des frais de constitution de dossier et précise les modalités d'application du présent chapitre, en déterminant notamment
-les conditions dans lesquelles les agents habilités à constater les infractions sont assermentés et perçoivent le montant de
-l'amende forfaitaire ou celui de la transaction.
+Un décret en Conseil d'Etat fixe le montant des amendes et indemnités forfaitaires, des amendes forfaitaires minorées et des
+amendes forfaitaires majorées ainsi que des frais de constitution de dossier et précise les modalités d'application du
+présent chapitre, en déterminant notamment les conditions dans lesquelles les agents habilités à constater les infractions
+sont assermentés et perçoivent le montant des amendes forfaitaires et celui des transactions.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Ordonnance 58-1296 1958-12-23
-
-	**Créé par**:
-
-	  - Loi n°85-1407 1985-12-30 art. 51 et art. 94 JORF 31 décembre 1985 en vigueur le 1er octobre 1986
 
 	**Liens**:
 
@@ -17847,6 +18143,10 @@ l'amende forfaitaire ou celui de la transaction.
 	**Cité par**:
 
 	  - Loi n°88-82 du 22 janvier 1988 - art. 71 (Ab)
+
+	**Modifié par**:
+
+	  - Loi n°89-469 du 10 juillet 1989 - art. 2 () JORF 11 juillet 1989 en vigueur le 1er janvier 1990
 
 
 #### Chapitre III : De la saisine du tribunal de police
@@ -26129,6 +26429,54 @@ Le sursis peut être simple ou être assorti du placement du condamné sous le r
 
 #### Chapitre Ier : Du sursis simple
 
+###### Article 734-1
+
+Le sursis simple peut être ordonné lorsque le prévenu n'a pas été condamné au cours des cinq années précédant les faits pour
+crime ou délit de droit commun, soit à une peine criminelle, soit à une peine d'emprisonnement supérieure à deux mois.
+
+Le sursis est applicable aux condamnations à des peines d'emprisonnement ou d'amende prononcées pour crime ou délit, ainsi
+qu'à toutes les condamnations prononcées en application des articles 43-1 à 43-5 du Code pénal, à l'exclusion de la
+confiscation. Il l'est également aux condamnations prononcées pour contravention passible d'une peine supérieure à dix jours
+d'emprisonnement ou à 3.000 F. d'amende.
+
+Le tribunal peut décider que le sursis ne s'appliquera à l'exécution de l'emprisonnement que pour une part dont il détermine
+la durée ou ne s'appliquera au paiement de l'amende que pour une part dont il détermine le montant.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°79-1131 1979-11-28 art. 5 JORF 29 décembre 1979
+	  - Loi n°72-1226 1972-12-29 art. 62 JORF 29 décembre 1972
+	  - Loi n°75-624 du 11 juillet 1975 - art. 28 () JORF 13 juillet 1975
+	  - Loi n°85-835 du 7 août 1985 - art. 7 (VT) JORF 8 août 1985 en vigueur le 1er octobre 1985
+	  - Loi n°89-469 du 10 juillet 1989 - art. 8 (V) JORF 11 juillet 1989 en vigueur le 1er janvier 1990
+
+	**Codifié par**:
+
+	  - Ordonnance 58-1296 1958-12-23
+
+	**Créé par**:
+
+	  - Loi n°70-643 du 17 juillet 1970 - art. 29 () JORF 19 juillet 1970
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°85-835 du 7 août 1985 - art. 10 (V)
+
+	**Cité par**:
+
+	  - Ordonnance n°91-245 du 25 février 1991 - art. 20 (V)
+
+	**Abrogé par**:
+
+	  - Loi n°92-1336 du 16 décembre 1992 - art. 96 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
+
+	**Cite**:
+
+	  - Code pénal 43-1 à 43-5
+
+
 ###### Article 735
 
 Si le condamné bénéficiant du sursis simple à l'emprisonnement n'a pas commis, pendant le délai de cinq ans à compter de la
@@ -27807,6 +28155,95 @@ police, et devenus irrévocables, se prescrivent d'après les règles établies 
 
 ### Titre VIII : Du casier judiciaire
 
+###### Article 768
+
+Le casier judiciaire national automatisé, qui peut comporter un ou plusieurs centres de traitement, est tenu sous l'autorité
+du ministre de la justice. Il reçoit, en ce qui concerne les personnes nées en France et après contrôle de leur identité au
+moyen du répertoire national d'identification des personnes physiques, le numéro d'identification ne pouvant en aucun cas
+servir de base à la vérification de l'identité :
+
+1° Les condamnations contradictoires ou par contumace et les condamnations par défaut non frappées d'opposition, prononcées
+pour crime ou délit par toute juridiction répressive, y compris les condamnations avec sursis, assorties ou non d'une mise à
+l'épreuve, ainsi que les déclarations de culpabilité assorties d'une dispense de peine ou d'un ajournement du prononcé de la
+peine.
+
+2° Les condamnations contradictoires ou par défaut non frappées d'opposition, prononcées pour contravention lorsque la peine
+prévue par la loi est supérieure à dix jours d'emprisonnement ou 3.000 F. d'amende, y compris les condamnations avec sursis
+et les déclarations de culpabilité assorties d'une dispense de peine ou d'un ajournement du prononcé de la peine ;
+
+3° Les décisions prononcées par application des articles 8, 15, 16 et 28 de l'ordonnance n. 45-174 du 2 février 1945,
+modifiée, relative à l'enfance délinquante ;
+
+4° Les décisions disciplinaires prononcées par l'autorité judiciaire ou par une autorité administrative lorsqu'elles
+entraînent ou édictent des incapacités ;
+
+5° En matière de redressement judiciaire, les jugements prononçant la liquidation judiciaire à l'égard d'une personne
+physique, la faillite personnelle ou l'interdiction prévue par l'article 192 de la loi n. 85-98 du 25 janvier 1985 relative
+au redressement et à la liquidation judiciaires des entreprises ;
+
+6° Tous les jugements prononçant la déchéance de l'autorité parentale ou le retrait de tout ou partie des droits y attachés ;
+
+7° Les arrêtés d'expulsion pris contre les étrangers ;
+
+8° Les condamnations prononcées par les juridictions étrangères qui, en application d'une convention ou d'un accord
+internationaux, ont fait l'objet d'un avis aux autorités françaises ou ont été exécutées en France à la suite du
+transfèrement des personnes condamnées.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Ordonnance n°45-174 du 2 février 1945 - art. 15 (M)
+	  - Ordonnance n°45-174 du 2 février 1945 - art. 16 (M)
+	  - Ordonnance n°45-174 du 2 février 1945 - art. 28 (V)
+	  - Ordonnance n°45-174 du 2 février 1945 - art. 8 (M)
+	  - Loi n°85-98 du 25 janvier 1985 - art. 192 (M)
+
+	**Cité par**:
+
+	  - Ordonnance n°45-2658 du 2 novembre 1945 - art. 23 (M)
+	  - Loi n°59-940 du 31 juillet 1959 - art. 13 (V)
+	  - Décret n°67-1120 du 22 décembre 1967 - art. 104 (Ab)
+	  - Loi n°80-2 du 4 janvier 1980  - art. 1 (V)
+	  - Loi n°80-2 du 4 janvier 1980  - art. 10 (V)
+	  - Loi n°83-520 du 27 juin 1983 - art. 80-1 (V)
+	  - Décret n°85-1388 du 27 décembre 1985 - art. 170 (Ab)
+	  - Ordonnance n°91-245 du 25 février 1991 - art. 20 (V)
+	  - Arrêté du 23 février 1994 - art. 2 (V)
+	  - Décret n°2005-1677 du 28 décembre 2005 - art. 325 (Ab)
+	  - Arrêté du 22 février 2008 - art. 6 (V)
+	  - Loi n°2010-853 du 23 juillet 2010 - art. 32 (V)
+	  - CODE DE PROCEDURE PENALE - art. 874 (V)
+	  - Code de commerce - art. R653-3 (V)
+	  - Code de procédure pénale - art. 771 (V)
+	  - Code de procédure pénale - art. 775 (VD)
+	  - Code de procédure pénale - art. 779 (V)
+	  - Code de procédure pénale - art. R65 (V)
+	  - Code de procédure pénale - art. R66 (V)
+	  - Code de procédure pénale - art. R69 (V)
+	  - Décret-loi du 30 octobre 1935 - art. 66 (M)
+
+	**Codifié par**:
+
+	  - Ordonnance 58-1296 1958-12-23
+
+	**Modifié par**:
+
+	  - Loi n°67-563 du 13 juillet 1967 - art. 153 () JORF 14 juillet 1967
+	  - Loi n°72-1226 1972-12-29 art. 62 JORF 30 décembre 1972
+	  - Loi n°75-624 du 11 juillet 1975 - art. 47 () JORF 13 juillet 1975
+	  - Loi n°84-1150 1984-12-21 art. 2 JORF 22 décembre 1984
+	  - Loi n°85-98 1985-01-25 art. 219-I et 243 JORF 26 janvier 1985
+	  - Loi n°85-835 du 7 août 1985 - art. 7 (VT) JORF 8 août 1985 en vigueur le 1er octobre 1985
+	  - Loi n°89-469 du 10 juillet 1989 - art. 8 (V) JORF 11 juillet 1989 en vigueur le 1er janvier 1990
+	  - Loi n°79-1131 1979-12-29 art. 62 JORF 29 décembre 1979
+	  - Loi n°80-2 1980-04-01 art. 1 JORF 5 janvier 1980
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°85-98 1985-08-07 art. 10
+
+
 ###### Article 769
 
 Il est fait mention sur les fiches du casier judiciaire des peines ou dispenses de peines prononcées après ajournement du
@@ -28543,6 +28980,44 @@ a sciemment été la cause de l'inscription d'une condamnation sur le casier jud
 	**Cite**:
 
 	  - Code de procédure pénale 768 à 778
+
+
+###### Article 781
+
+Quiconque en prenant un faux nom ou une fausse qualité, s'est fait délivrer un extrait du casier judiciaire d'un tiers est
+puni de dix jours à deux mois d'emprisonnement et de 2 500 francs à 12 000 d'amende.
+
+Est puni des mêmes peines celui qui aura fourni des renseignements d'identité imaginaires qui ont provoqué ou auraient pu
+provoquer des mentions erronées au casier judiciaire.
+
+Est puni des mêmes peines celui qui se sera fait délivrer par l'intéressé tout ou partie des mentions du relevé intégral visé
+à l'article 777-2 du présent code.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 58-1296 1958-12-23
+
+	**Cité par**:
+
+	  - Loi n°80-2 du 4 janvier 1980  - art. 9 (V)
+	  - Code de la route - art. L41 (Ab)
+	  - Code de la route. - art. L225-8 (V)
+	  - Code de la route. - art. L330-7 (V)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°85-835 du 7 août 1985 - art. 10 (V)
+
+	**Modifié par**:
+
+	  - Loi n°85-835 du 7 août 1985 - art. 7 (VT) JORF 8 août 1985 en vigueur le 1er octobre 1985
+	  - Loi n°89-469 du 10 juillet 1989 - art. 8 (V) JORF 11 juillet 1989 en vigueur le 1er janvier 1990
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. 777-2 (M)
 
 
 ### Titre IX : De la réhabilitation des condamnés
@@ -31961,7 +32436,7 @@ le délai et les modalités de la réclamation prévue par le deuxième alinéa 
 
 Le montant de l'amende forfaitaire majorée est fixé ainsi qu'il suit :
 
-1° 50 F. pour les contraventions aux dispositions du code de la route commises par les piétons ;
+1° 50 F. pour les contraventions aux dispositions du Code de la route commises par les piétons ;
 
 2° 220 F. pour les autres contraventions de la 1ere classe ;
 
@@ -31969,7 +32444,7 @@ Le montant de l'amende forfaitaire majorée est fixé ainsi qu'il suit :
 
 4° 1.200 F. pour les contraventions de la 3e classe ;
 
-5° 2.000 F. pour les contraventions de la 4e classe.
+5° 2.500 F. pour les contraventions de la 4e classe.
 
 **Liens relatifs à cet article**
 
@@ -31982,13 +32457,13 @@ Le montant de l'amende forfaitaire majorée est fixé ainsi qu'il suit :
 
 	  - Décret n°59-318 1959-02-23
 
-	**Créé par**:
-
-	  - Décret n°86-1044 du 18 septembre 1986 - art. 2 () JORF 19 septembre 1986
-
 	**Liens**:
 
 	  - SPEC_APPLI: Décret n°86-1044 du 18 septembre 1986 - art. 6 (V)
+
+	**Modifié par**:
+
+	  - Décret n°89-989 du 29 décembre 1989 - art. 4 () JORF 31 décembre 1989
 
 
 ###### Article R49-8
@@ -57656,7 +58131,7 @@ Le montant de la participation des détenus aux frais de leur entretien sur le p
 ###### Article A41-1
 
 La somme prévue à l'article D. 324 du code de procédure pénale à partir de laquelle les dépôts sur livrets de caisse
-d'épargne doivent être effectués est fixée à 1.000 F.
+d'épargne doivent être effectués est fixée à 1 500 F.
 
 **Liens relatifs à cet article**
 
@@ -57664,17 +58139,9 @@ d'épargne doivent être effectués est fixée à 1.000 F.
 
 	  - Arrêté 1959-02-27
 
-	**Créé par**:
-
-	  - Arrêté 1975-03-21 art. 1 et art. 2 JORF 26 mars 1975 en vigueur le 1er avril 1975
-
 	**Modifié par**:
 
-	  - Arrêté 1979-07-09 art. 1 et art. 3 JORF 21 juillet 1979 en vigueur le 1er septembre 1979
-
-	**Liens**:
-
-	  - SPEC_APPLI: Arrêté 1979-07-09 art. 3
+	  - Arrêté 1989-11-07 art. 1 JORF 29 novembre 1989 en vigueur le 1er janvier 1990
 
 	**Cite**:
 
