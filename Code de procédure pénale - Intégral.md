@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 1994-10-01
+Version Consolidée au 1994-10-22
 
 # Partie législative
 
@@ -36216,10 +36216,10 @@ percepteurs ;
 greffier de la juridiction qui a statué ;
 
 8° Pour les décisions prises en application des articles 132-21 du code pénal, 702-1, 775-1 et 777-1 du code de procédure
-pénale, par le greffier de la juridiction qui a statué.
+pénale, par le greffier de la juridiction qui a statué ;
 
-Les homologations de concordat sont également enregistrées d'après l'avis qui en est donné par le greffier de la juridiction
-qui a prononcé.
+9° Pour les décisions visées à l'article 768 5°, par le greffier de la juridiction qui a statué après visa du ministère
+public.
 
 Ces avis peuvent être adressés au service du casier judiciaire national automatisé sous la forme d'un support magnétique ou
 par téléinformatique.
@@ -36232,12 +36232,13 @@ par téléinformatique.
 
 	**Modifié par**:
 
-	  - Décret n°94-167 du 25 février 1994 - art. 6 () JORF 26 février 1994 en vigueur le 1er mars 1994
+	  - Décret n°94-910 du 21 octobre 1994 - art. 124 () JORF 22 octobre 1994
 
 	**Cite**:
 
 	  - Code pénal 55-1
 	  - CODE DE PROCEDURE PENALE - art. 702-1 (M)
+	  - CODE DE PROCEDURE PENALE - art. 768 (M)
 	  - CODE DE PROCEDURE PENALE - art. 769 (M)
 	  - CODE DE PROCEDURE PENALE - art. 769-1 (V)
 	  - CODE DE PROCEDURE PENALE - art. 775-1 (M)
@@ -36254,10 +36255,6 @@ par téléinformatique.
 	  - Code de procédure pénale - art. R297 (V)
 	  - Code de procédure pénale - art. R383 (Ab)
 	  - Code de procédure pénale - art. R72 (V)
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°81-1003 1981-06-11 art. 25
 
 
 ###### Article R70
