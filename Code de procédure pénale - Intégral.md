@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 1985-12-31
+Version Consolidée au 1986-01-01
 
 # Partie législative
 
@@ -651,6 +651,123 @@ La police judiciaire comprend :
 
 ##### Section 2 : Des officiers de police judiciaire
 
+###### Article 16
+
+Ont la qualité d'officier de police judiciaire :
+
+1° Les maires et leurs adjoints ;
+
+2° Les officiers et les gradés de la gendarmerie, les gendarmes comptant au moins cinq ans de service dans la gendarmerie,
+nominativement désignés par arrêté des ministres de la justice et des armées, après avis conforme d'une commission ;
+
+3° Les inspecteurs généraux, les sous-directeurs de police active, les contrôleurs généraux, les commissaires de police ; les
+fonctionnaires du corps des inspecteurs de police de la police nationale comptant au moins deux ans de services effectifs
+dans ce corps en qualité de titulaires, nominativement désignés par arrêté des ministres de la justice et de l'intérieur,
+après avis conforme d'une commission.
+
+La composition des commissions prévues aux 2° et 3° sera déterminée par un décret en Conseil d'Etat pris sur le rapport du
+ministre de la justice et des ministres intéressés.
+
+Ont également la qualité d'officier de police judiciaire les personnes exerçant des fonctions de directeur ou sous-directeur
+de la police judiciaire relevant du ministre de l'intérieur et de directeur ou sous-directeur de la gendarmerie au ministère
+d'Etat chargé de la défense nationale.
+
+Les fonctionnaires mentionnés aux 2° et 3° ci-dessus ne peuvent exercer effectivement les attributions attachées à leur
+qualité d'officier de police judiciaire ni se prévaloir de cette qualité que s'ils sont affectés à un emploi comportant cet
+exercice et en vertu d'une décision du procureur général près la cour d'appel les y habilitant personnellement. L'exercice de
+ces attributions est momentanément suspendu pendant le temps où ils participent, en unité constituée, à une opération de
+maintien de l'ordre. Lorsqu'ils appartiennent à un service dont la compétence excède le ressort de la cour d'appel, la
+décision d'habilitation est prise par le procureur général près la cour d'appel du siège de leur fonction.
+
+Les conditions d'octroi, de retrait et de suspension pour une durée déterminée de l'habilitation prévue par le précédent
+alinéa sont fixées par décret en Conseil d'Etat pris sur le rapport du ministre de la justice et des ministres intéressés.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°54-538 du 26 mai 1954 - art. 1 (M)
+	  - Loi n°55-385 du 3 avril 1955 - art. 8-1 (V)
+	  - Loi n°76-629 du 10 juillet 1976 - art. 29 (Ab)
+	  - Loi n°80-532 du 15 juillet 1980 - art. 3 (Ab)
+	  - Loi n°82-847 du 6 octobre 1982 - art. 29 (Ab)
+	  - Décret n°93-1147 du 30 septembre 1993 - art. 1 (V)
+	  - Arrêté du 15 novembre 1994 - art. 1 (V)
+	  - Loi n°95-125 du 8 février 1995 - art. 53 (V)
+	  - Décret n°95-655 du 9 mai 1995 - art. 16 (Ab)
+	  - Décret n°95-656 du 9 mai 1995 - art. 28 (Ab)
+	  - Arrêté du 23 août 1995 - art. 2 (V)
+	  - Décret n°96-48 du 22 janvier 1996 - art. 2 (V)
+	  - Arrêté du 20 janvier 2000 - art. 1 (V)
+	  - Arrêté du 20 janvier 2000 - art. Annexe (V)
+	  - Arrêté du 20 janvier 2000 - art. Annexe (VT)
+	  - Décret n°2005-716 du 29 juin 2005 - art. 27 (Ab)
+	  - Arrêté du 6 mars 2006 - art. 9 (VT)
+	  - Décret n°2009-898 du 24 juillet 2009 - art. 10 (V)
+	  - Décret n°2009-898 du 24 juillet 2009 - art. 8 (V)
+	  - Décret n°2010-773 du 8 juillet 2010 - art. 8 (V)
+	  - Arrêté du 3 janvier 2011 - art. 11 (VT)
+	  - Décret n°2016-1261 du 27 septembre 2016 - art. 1 (VD)
+	  - CODE DE PROCEDURE PENALE - art. D44 (V)
+	  - CODE DE PROCEDURE PENALE - art. R15-33-76 (V)
+	  - CODE DE PROCEDURE PENALE - art. R48-1 (AbD)
+	  - CODE DE PROCEDURE PENALE - art. R92 (M)
+	  - CODE DES COMMUNES. - art. L122-24 (Ab)
+	  - Code de justice militaire - art. 82 (Ab)
+	  - Code de justice militaire. - art. L211-3 (VD)
+	  - Code de l'aviation civile - art. L150-14 (VT)
+	  - Code de l'environnement - art. L172-4 (V)
+	  - Code de l'environnement - art. L332-20 (V)
+	  - Code de l'environnement - art. L415-1 (V)
+	  - Code de l'environnement - art. L437-1 (V)
+	  - Code de l'environnement - art. L521-13 (M)
+	  - Code de la consommation - art. L215-1 (M)
+	  - Code de la route - art. L23-1 (Ab)
+	  - Code de la route. - art. L130-1 (V)
+	  - Code de la route. - art. L130-2 (V)
+	  - Code de la santé publique - art. L1515-6 (V)
+	  - Code de procédure pénale - art. 62-1 (V)
+	  - Code de procédure pénale - art. A18 (V)
+	  - Code de procédure pénale - art. A22 (V)
+	  - Code de procédure pénale - art. A34 (VD)
+	  - Code de procédure pénale - art. A35 (V)
+	  - Code de procédure pénale - art. R13 (V)
+	  - Code de procédure pénale - art. R15-3 (V)
+	  - Code de procédure pénale - art. R3 (VD)
+	  - Code de procédure pénale - art. R8 (V)
+	  - Code des communes de la Nouvelle-Calédonie - art. L122-24 (V)
+	  - Code des transports - art. L6232-9 (VD)
+	  - Code du patrimoine. - art. L114-4 (V)
+	  - Code général des collectivités territoriales - art. L2122-31 (V)
+	  - Code rural - art. L215-5 (Ab)
+	  - Code rural - art. L237-1 (Ab)
+	  - Code rural - art. L242-24 (Ab)
+	  - Code rural ancien - art. 445 (Ab)
+	  - Code rural et de la pêche maritime - art. L671-1 (V)
+	  - Décret du 20 mai 1903 - art. 145 (Ab)
+	  - Décret n°1919-01-22 du 22 janvier 1919 - art. 4 (Ab)
+
+	**Codifié par**:
+
+	  - Loi n°57-1426 1957-12-31
+
+	**Modifié par**:
+
+	  - Loi n°66-493 1966-07-09 art. 1 JORF 10 juillet 1966
+	  - Loi n°72-1226 1972-12-29 art. 17 JORF 30 décembre 1972
+	  - Loi n°75-701 1975-08-06 art. 20 JORF 7 août 1975
+	  - Loi n°78-788 1978-07-28 art. 2 JORF 29 juillet 1978
+	  - Loi n°85-1196 1985-11-18 art. 1 et 8 JORF 19 novembre 1985 en vigueur le 1er janvier 1986
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°85-1196 1985-11-18 art. 8
+	  - TXT_SOURCE: CODE DE PROCEDURE PENALE - art. R1 (V)
+	  - TXT_SOURCE: CODE DE PROCEDURE PENALE - art. R1-1 (V)
+	  - TXT_SOURCE: CODE DE PROCEDURE PENALE - art. R2 (V)
+	  - TXT_SOURCE: CODE DE PROCEDURE PENALE - art. R2-1 (V)
+
+
 ###### Article 16-1
 
 Dans le mois qui suit la notification de la décision de suspension ou de retrait d'habilitation, l'officier de police
@@ -783,6 +900,64 @@ Ils ont le droit de requérir directement le concours de la force publique pour 
 	  - Code de procédure pénale - art. 75 (V)
 
 
+###### Article 18
+
+Les officiers de police judiciaire ont compétence dans les limites territoriales où ils exercent leurs fonctions habituelles.
+Dans les circonscriptions urbaines divisées en commissariats subdivisionnaires ou en bureaux de police, les officiers de
+police judiciaire qui exercent leurs fonctions habituelles dans l'un d'entre eux ont compétence sur toute l'étendue de la
+circonscription.
+
+Les officiers de police judiciaire qui n'exercent pas leurs fonctions habituelles dans l'ensemble du ressort du tribunal de
+grande instance auquel ils sont rattachés peuvent, en cas d'urgence ou de crime ou délit flagrant, opérer dans toute
+l'étendue de ce ressort à l'effet d'y poursuivre leurs investigations et de procéder à des auditions, perquisitions et
+saisies.
+
+En cas de crime ou délit flagrant, les officiers de police judiciaire peuvent se transporter dans le ressort des tribunaux de
+grande instance limitrophes du tribunal ou des tribunaux auxquels ils sont rattachés, à l'effet d'y poursuivre leurs
+investigations et de procéder à des auditions, perquisitions et saisies. Pour l'application du présent alinéa, les ressorts
+des tribunaux de grande instance de Paris, Nanterre, Bobigny et Créteil sont considérés comme un seul et même ressort.
+
+En cas d'urgence, les officiers de police judiciaire peuvent, sur commission rogatoire expresse du juge d'instruction ou sur
+réquisitions du procureur de la République prises au cours d'une enquête de flagrant délit, procéder aux opérations
+prescrites par ces magistrats sur toute l'étendue du territoire national. Ils doivent être assistés d'un officier de police
+judiciaire exerçant ses fonctions dans la circonscription intéressée. Le procureur de la République territorialement
+compétent en est informé par le magistrat ayant prescrit l'opération.
+
+Ils peuvent, sur proposition des autorités administratives dont ils dépendent et par habilitation du procureur général,
+recevoir compétence dans les limites territoriales de la circonscription des officiers de police judiciaire qu'ils sont
+appelés à suppléer en cas de besoin.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°57-1426 1957-12-31
+
+	**Modifié par**:
+
+	  - Ordonnance n°58-1296 du 23 décembre 1958 - art. 1 () JORF 24 décembre 1958 en vigueur le 2 mars 1959
+	  - Ordonnance 60-529 1960-06-04 art. 2 JORF 8 juin 1960
+	  - Loi n°72-1226 1972-12-29 art. 18 JORF 30 décembre 1972
+	  - Loi n°75-285 1975-04-24 art. 2 JORF 25 avril 1975
+	  - Loi n°78-788 1978-07-28 art. 3 JORF 29 juillet 1978
+	  - Loi n°85-1196 1985-11-18 art. 2 et 8 JORF 19 novembre 1985 en vigueur le 1er janvier 1986
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°85-1196 1985-11-18 art. 8
+
+	**Cité par**:
+
+	  - Arrêté du 23 août 1995 - art. 2 (V)
+	  - Décret n°96-48 du 22 janvier 1996 - art. 2 (V)
+	  - Arrêté du 24 août 2009 (V)
+	  - CODE DE PROCEDURE PENALE - art. 171 (M)
+	  - CODE PENAL - art. D4 (Ab)
+	  - Code de procédure pénale - art. 21-1 (V)
+	  - Code de procédure pénale - art. 70 (V)
+	  - Code de procédure pénale - art. D12 (V)
+
+
 ###### Article 19
 
 Les officiers de police judiciaire sont tenus d'informer sans délai le procureur de la République des crimes, délits et
@@ -808,6 +983,297 @@ Les procès-verbaux doivent énoncer la qualité d'officier de police judiciaire
 	  - Code de justice militaire. - art. L211-3 (VD)
 	  - Code de procédure pénale - art. D14 (V)
 	  - Code de procédure pénale - art. D15 (V)
+
+
+##### Section 3 : Des agents de police judiciaire
+
+###### Article 20
+
+Sont agents de police judiciaire :
+
+1° Les gendarmes n'ayant pas la qualité d'officier de police judiciaire ;
+
+2° Les inspecteurs de police de la police nationale titulaires ne remplissant pas les conditions énoncées à l'article 16,
+alinéa 1er, 3° ;
+
+3° Les enquêteurs de la police nationale remplissant les conditions d'aptitude qui seront fixées par décret en Conseil d'Etat
+et comptant au moins trois ans de services effectifs en qualité de titulaires ;
+
+4° Sans préjudice des dispositions de l'article L. 23-1 du code de la route, les personnels en tenue des services actifs de
+la police nationale, titulaires et remplissant les conditions d'aptitude qui seront fixées par décret en Conseil d'Etat.
+
+Toutefois, les fonctionnaires mentionnés aux 1° à 4° ci-dessus ne peuvent exercer effectivement les attributions attachées à
+leur qualité d'agent de police judiciaire et se prévaloir de cette qualité que s'ils sont affectés à un emploi comportant cet
+exercice ; l'exercice de ces attributions est momentanément suspendu pendant le temps où ils participent, en unité
+constituée, à une opération de maintien de l'ordre.
+
+Les agents de police judiciaire ont pour mission :
+
+De seconder, dans l'exercice de leurs fonctions, les officiers de police judiciaire ;
+
+De constater les crimes, délits ou contraventions et d'en dresser procès-verbal ;
+
+De recevoir par procès-verbal les déclarations qui leur sont faites par toutes personnes susceptibles de leur fournir des
+indices, preuves et renseignements sur les auteurs et complices de ces infractions.
+
+Les agents de police judiciaire n'ont pas qualité pour décider des mesures de garde à vue.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Ordonnance n°45-2658 du 2 novembre 1945 - art. 8 (Ab)
+	  - Ordonnance n°45-2658 du 2 novembre 1945 - art. 8-2 (Ab)
+	  - Loi n°55-385 du 3 avril 1955 - art. 8-1 (V)
+	  - Loi n°75-633 du 15 juillet 1975 - art. 26 (Ab)
+	  - Loi n°76-629 du 10 juillet 1976 - art. 29 (Ab)
+	  - Loi n°79-1150 du 29 décembre 1979 - art. 36 (Ab)
+	  - Loi n°80-531 du 15 juillet 1980 - art. 10 (VT)
+	  - Loi n°80-532 du 15 juillet 1980 - art. 3 (Ab)
+	  - Loi n°82-847 du 6 octobre 1982 - art. 29 (Ab)
+	  - Décret n°93-1147 du 30 septembre 1993 - art. 1 (V)
+	  - Décret n°95-656 du 9 mai 1995 - art. 28 (Ab)
+	  - Décret n°95-657 du 9 mai 1995 - art. 29 (Ab)
+	  - Arrêté du 23 août 1995 - art. 2 (V)
+	  - Arrêté du 9 août 1995 - art. 36 (V)
+	  - Décret n°96-48 du 22 janvier 1996 - art. 2 (V)
+	  - Décret n°98-115 du 27 février 1998 - art. 2 (M)
+	  - Ordonnance n°2000-373 du 26 avril 2000 - art. 10-2 (VT)
+	  - Ordonnance n°2000-373 du 26 avril 2000 - art. 8 (VT)
+	  - Ordonnance n°2000-371 du 26 avril 2000 - art. 8 (V)
+	  - Ordonnance n°2000-372 du 26 avril 2000 - art. 9 (V)
+	  - Ordonnance n°2002-388 du 20 mars 2002 - art. 9 (V)
+	  - Arrêté du 18 mars 2004 - art. 38 (Ab)
+	  - Décret n°2005-716 du 29 juin 2005 - art. 27 (Ab)
+	  - Arrêté du 18 octobre 2005 - art. 37 (V)
+	  - Arrêté du 12 décembre 2008 (V)
+	  - CODE DE PROCEDURE PENALE - art. 78 (M)
+	  - CODE DE PROCEDURE PENALE - art. 78-2-1 (M)
+	  - CODE DE PROCEDURE PENALE - art. 879-1 (V)
+	  - Code de justice militaire - art. 169 (Ab)
+	  - Code de justice militaire - art. 83 (Ab)
+	  - Code de justice militaire. - art. L211-4 (VD)
+	  - Code de justice militaire. - art. L212-5 (V)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. L611-1 (V)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. L611-8 (V)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. R611-5 (V)
+	  - Code de l'environnement - art. L172-4 (V)
+	  - Code de l'environnement - art. L332-20 (V)
+	  - Code de l'environnement - art. L415-1 (V)
+	  - Code de l'environnement - art. L437-1 (V)
+	  - Code de l'environnement - art. L541-44 (V)
+	  - Code de l'environnement - art. L581-40 (VD)
+	  - Code de la consommation - art. L215-1 (M)
+	  - Code de la route - art. L23-1 (Ab)
+	  - Code de la route. - art. L130-3 (V)
+	  - Code de la santé publique - art. L1515-6 (M)
+	  - Code de la santé publique - art. L3421-5 (V)
+	  - Code de la santé publique - art. L5411-1 (M)
+	  - Code de la santé publique - art. L5414-2 (M)
+	  - Code de la santé publique - art. L617-22 (Ab)
+	  - Code de procédure pénale - art. 21 (VD)
+	  - Code de procédure pénale - art. 61 (M)
+	  - Code de procédure pénale - art. 62 (VT)
+	  - Code de procédure pénale - art. 75 (VD)
+	  - Code de procédure pénale - art. 78-2 (V)
+	  - Code de procédure pénale - art. D11 (V)
+	  - Code de procédure pénale - art. D13 (V)
+	  - Code de procédure pénale - art. D14 (V)
+	  - Code de procédure pénale - art. R15-17 (V)
+	  - Code du patrimoine. - art. L114-4 (V)
+	  - Code rural - art. L215-5 (Ab)
+	  - Code rural - art. L237-1 (Ab)
+	  - Code rural - art. L242-24 (Ab)
+	  - Code rural - art. L671-1 (V)
+	  - Code rural ancien - art. 445 (Ab)
+	  - Décret du 20 mai 1903 - art. 146 (Ab)
+	  - Décret n°1919-01-22 du 22 janvier 1919 - art. 4 (Ab)
+
+	**Codifié par**:
+
+	  - Loi n°57-1426 1957-12-31
+
+	**Modifié par**:
+
+	  - Ordonnance 60-529 1960-06-04 art. 2 JORF 8 juin 1960
+	  - Loi n°72-1226 1972-12-29 art. 19 JORF 30 décembre 1972
+	  - Loi n°78-788 1978-07-28 art. 4 JORF 29 juillet 1978
+	  - Loi n°85-1196 1985-11-18 art. 3-I, 3-II et 8 JORF 19 novembre 1985 en vigueur le 1er janvier 1986
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°85-1196 1985-11-18 art. 8
+
+
+###### Article 21
+
+Sont agents de police judiciaire adjoints :
+
+1° Les fonctionnaires des services actifs de police nationale ne remplissant pas les conditions prévues par l'article 20 ;
+
+2° Les agents de police municipale.
+
+Ils ont pour mission :
+
+De seconder, dans l'exercice de leurs fonctions, les officiers de police judiciaire ;
+
+De rendre compte à leurs chefs hiérarchiques de tous crimes, délits ou contraventions dont ils ont connaissance ;
+
+De constater, en se conformant aux ordres de leurs chefs, les infractions à la loi pénale et de recueillir tous les
+renseignements en vue de découvrir les auteurs de ces infractions, le tout dans le cadre et dans les formes prévues par les
+lois organiques ou spéciales qui leur sont propres.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Ordonnance n°45-2658 du 2 novembre 1945 - art. 8 (Ab)
+	  - Ordonnance n°45-2658 du 2 novembre 1945 - art. 8-2 (Ab)
+	  - Loi n°55-385 du 3 avril 1955 - art. 8-1 (V)
+	  - Loi n°75-633 du 15 juillet 1975 - art. 26 (Ab)
+	  - Loi n°76-629 du 10 juillet 1976 - art. 29 (Ab)
+	  - Loi n°79-1150 du 29 décembre 1979 - art. 36 (Ab)
+	  - Loi n°80-532 du 15 juillet 1980 - art. 3 (Ab)
+	  - Arrêté du 9 août 1995 - art. 36 (V)
+	  - Ordonnance n°2000-373 du 26 avril 2000 - art. 10-2 (VT)
+	  - Ordonnance n°2000-373 du 26 avril 2000 - art. 8 (VT)
+	  - Ordonnance n°2000-371 du 26 avril 2000 - art. 8 (V)
+	  - Ordonnance n°2000-372 du 26 avril 2000 - art. 9 (V)
+	  - Décret n°2000-800 du 24 août 2000 - art. 2 (VT)
+	  - Loi n°2001-1062 du 15 novembre 2001 - art. 71 (V)
+	  - Décret n°2002-362 du 12 mars 2002 - art. 1 (V)
+	  - Décret n°2002-363 du 12 mars 2002 - art. 1 (V)
+	  - Ordonnance n°2002-388 du 20 mars 2002 - art. 9 (V)
+	  - Loi n°2003-239 du 18 mars 2003 - art. 4-3 (VT)
+	  - Arrêté du 18 mars 2004 - art. 38 (Ab)
+	  - Décret n°2005-1122 du 6 septembre 2005 - art. 13 (VT)
+	  - Décret n°2005-1123 du 6 septembre 2005 - art. 10 (VT)
+	  - Arrêté du 18 octobre 2005 - art. 37 (V)
+	  - Arrêté du 6 juin 2006 - art. 132-2 (V)
+	  - Décret n°2009-481 du 28 avril 2009 - art. 1 (Ab)
+	  - Décret n°2009-481 du 28 avril 2009 - art. 3 (Ab)
+	  - Décret n°2012-686 du 7 mai 2012 (V)
+	  - Décret n°2014-623 du 17 juin 2014 (V)
+	  - Décret n°2015-413 du 13 avril 2015 - art. 1 (V)
+	  - Décret n°2016-1199 du 5 septembre 2016 - art. 2
+	  - CODE DE PROCEDURE PENALE - art. 76-1 (Ab)
+	  - CODE DE PROCEDURE PENALE - art. 78-2-1 (M)
+	  - CODE DE PROCEDURE PENALE - art. 809-2 (V)
+	  - CODE DE PROCEDURE PENALE - art. 879-1 (V)
+	  - CODE DES COMMUNES. - art. L131-15 (Ab)
+	  - Code de commerce. - art. L123-30 (V)
+	  - Code de justice militaire - art. 169 (Ab)
+	  - Code de justice militaire. - art. L212-5 (V)
+	  - Code de l'aviation civile - art. L282-8 (VT)
+	  - Code de l'entrée et du séjour des étrangers et du  - art. L611-1 (V)
+	  - Code de l'entrée et du séjour des étrangers et du  - art. L611-8 (V)
+	  - Code de l'environnement - art. L172-4 (V)
+	  - Code de l'environnement - art. L332-20 (V)
+	  - Code de l'environnement - art. L362-5 (V)
+	  - Code de l'environnement - art. L415-1 (V)
+	  - Code de l'environnement - art. L437-1 (V)
+	  - Code de l'environnement - art. L541-44 (VD)
+	  - Code de l'environnement - art. L581-40 (V)
+	  - Code de la route - art. L1 (Ab)
+	  - Code de la route - art. R249-1 (Ab)
+	  - Code de la route. - art. L130-5 (V)
+	  - Code de la route. - art. L224-1 (V)
+	  - Code de la route. - art. L234-4 (V)
+	  - Code de la route. - art. L234-9 (V)
+	  - Code de la route. - art. L235-2 (V)
+	  - Code de la route. - art. L344-1 (V)
+	  - Code de la route. - art. R130-1-1 (V)
+	  - Code de la route. - art. R130-1-2 (V)
+	  - Code de la route. - art. R130-2 (M)
+	  - Code de la route. - art. R325-3 (V)
+	  - Code de la route. - art. R344-2 (V)
+	  - Code de la santé publique - art. L3421-5 (V)
+	  - Code de la sécurité intérieure - art. L411-10 (V)
+	  - Code de la sécurité intérieure - art. L511-1 (V)
+	  - Code de la sécurité intérieure - art. L522-3 (VD)
+	  - Code de la sécurité intérieure - art. L546-6 (VD)
+	  - Code de la sécurité intérieure - art. R511-1 (VD)
+	  - Code de la sécurité intérieure - art. R622-34 (V)
+	  - Code de procédure pénale - art. 21-2 (V)
+	  - Code de procédure pénale - art. 78-2 (V)
+	  - Code de procédure pénale - art. 78-2-2 (V)
+	  - Code de procédure pénale - art. 78-2-3 (V)
+	  - Code de procédure pénale - art. 78-2-4 (M)
+	  - Code de procédure pénale - art. 78-6 (M)
+	  - Code de procédure pénale - art. D15 (V)
+	  - Code de procédure pénale - art. R15-33-29-3 (V)
+	  - Code des communes de la Nouvelle-Calédonie - art. L132-3 (VT)
+	  - Code des ports maritimes - art. L321-5 (VT)
+	  - Code des ports maritimes - art. L323-5 (M)
+	  - Code des ports maritimes - art. L324-5 (Ab)
+	  - Code des transports - art. L5332-6 (V)
+	  - Code des transports - art. L5531-24 (VD)
+	  - Code des transports - art. L5531-27 (VD)
+	  - Code des transports - art. L6342-2 (V)
+	  - Code des transports - art. L6342-4 (V)
+	  - Code du patrimoine. - art. L114-4 (V)
+	  - Code général des collectivités territoriales - art. L2212-5 (V)
+	  - Code général des collectivités territoriales - art. L2213-19 (VT)
+	  - Code général des collectivités territoriales - art. R2212-15 (VT)
+	  - Code rural - art. L215-5 (Ab)
+	  - Code rural - art. L237-1 (Ab)
+	  - Code rural - art. L242-24 (Ab)
+	  - Code rural ancien - art. 445 (Ab)
+
+	**Codifié par**:
+
+	  - Loi n°57-1426 1957-12-31
+
+	**Modifié par**:
+
+	  - Loi n°66-493 1966-07-09 art. 2 JORF 10 juillet 1966
+	  - Loi n°78-788 1978-07-28 art. 5 JORF 29 juillet 1978
+	  - Loi n°85-1196 1985-11-18 art. 4 et 8 JORF 19 novembre 1985 en vigueur le 1er janvier 1986
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°85-1196 1985-11-18 art. 8
+	  - TXT_SOURCE: Décret n°2002-1256 du 15 octobre 2002
+	  - TXT_SOURCE: Décret n°2002-1256 du 15 octobre 2002 - art. 1 (V)
+	  - TXT_SOURCE: Décret n°2002-1256 du 15 octobre 2002 - art. 9 (V)
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. 20 (M)
+
+
+###### Article 21-1
+
+Les agents de police judiciaire et agents de police judiciaire adjoints ont compétence dans les limites territoriales où ils
+exercent leurs fonctions habituelles ainsi que dans celles où l'officier de police judiciaire responsable du service de la
+police nationale ou de l'unité de gendarmerie auprès duquel ils ont été nominativement mis à disposition temporaire exerce
+ses fonctions. Lorsqu'ils secondent un officier de police judiciaire, ils ont compétence dans les limites territoriales où ce
+dernier exerce ses attributions en application des dispositions de l'article 18.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°57-1426 1957-12-31
+
+	**Créé par**:
+
+	  - Loi n°85-1196 1985-11-18 art. 5 et 8 JORF 19 novembre 1985 en vigueur le 1er janvier 1986
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°85-1196 1985-11-18 art. 8
+
+	**Cité par**:
+
+	  - Arrêté du 23 août 1995 - art. 2 (V)
+	  - Décret n°96-48 du 22 janvier 1996 - art. 2 (V)
+	  - Arrêté du 6 juin 2006 - art. 143-23 (V)
+	  - CODE DE PROCEDURE PENALE - art. 171 (M)
+
+	**Cite**:
+
+	  - Code de procédure pénale - art. 18 (V)
 
 
 ##### Section 4 : Des fonctionnaires et agents chargés de certaines fonctions de police judiciaire
@@ -2360,6 +2826,43 @@ Le procureur de la République peut aussi requérir information pour recherche d
 
 #### Chapitre II : De l'enquête préliminaire
 
+###### Article 75
+
+Les officiers de police judiciaire et, sous le contrôle de ceux-ci, les agents de police judiciaire désignés à l'article 20
+procèdent à des enquêtes préliminaires soit sur les instructions du procureur de la République, soit d'office.
+
+Ces opérations relèvent de la surveillance du procureur général.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Loi du 17 décembre 1926 - art. 20 (VD)
+	  - Loi n°67-563 du 13 juillet 1967 - art. 10 (Ab)
+	  - Loi n°93-1252 du 23 novembre 1993 - art. 15 (V)
+	  - CODE DE PROCEDURE PENALE - art. 40-1 (T)
+	  - Code de procédure pénale - art. 17 (V)
+	  - Code de procédure pénale - art. 40-4 (V)
+	  - Code disciplinaire et pénal de la marine marcha... - art. 30 (VT)
+
+	**Codifié par**:
+
+	  - Loi n°57-1426 1957-12-31
+
+	**Modifié par**:
+
+	  - Ordonnance 60-529 1960-06-04 art. 1 JORF 8 juin 1960
+	  - Loi n°85-1196 1985-11-18 art. 6 et art. 8 JORF 19 novembre 1985 en vigueur le 1er janvier 1986
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°85-1196 1985-11-18 art. 8
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. 20 (M)
+
+
 ###### Article 76
 
 Les perquisitions, visites domiciliaires et saisies de pièces à conviction ne peuvent être effectuées sans l'assentiment
@@ -2876,6 +3379,55 @@ citation, le juge d'instruction peut prononcer contre ce témoin l'amende prévu
 
 
 ##### Section 5 : Des interrogatoires et confrontations
+
+###### Article 118
+
+L'inculpé et la partie civile ne peuvent être entendus ou confrontés, à moins qu'ils n'y renoncent expressément, qu'en
+présence de leurs avocats ou eux dûment appelés.
+
+Au plus tard quatre jours ouvrables avant l'interrogatoire, l'avocat est convoqué par lettre recommandée ou par un avis qui
+lui est remis contre récépissé.
+
+La procédure doit être mise à la disposition de l'avocat de l'inculpé deux jours ouvrables au plus tard avant chaque
+interrogatoire. Elle doit également être mise à la disposition de l'avocat de la partie civile deux jours ouvrables au plus
+tard avant les auditions de cette dernière.
+
+Lorsque la procédure est mise à sa disposition dans les conditions prévues par le présent article, l'avocat de l'inculpé ou
+de la partie civile peut se faire délivrer, à ses frais, copie de tout ou partie de la procédure, pour son usage exclusif et
+sans pouvoir en établir de reproduction.
+
+Il peut, en outre, à tout moment, se faire délivrer, dans les mêmes conditions, la copie du procès-verbal d'audition ou
+d'interrogatoire de la partie qu'il assiste, ou du procès-verbal des confrontations auxquelles elle a participé.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°57-1426 1957-12-31
+
+	**Modifié par**:
+
+	  - loi 72-1226 1972-12-29 art. 15 JORF 30 décembre 1972
+	  - loi 83-466 1983-06-10 art. 29-II et 29-III, JORF 11 juin 1983
+	  - loi 85-1407 1985-12-30 art. 86-I et 86-II JORF 31 décembre 1986 en vigueur le 1er janvier 1986
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°85-1407 1985-12-30 art. 86 et art. 94
+
+	**Abrogé par**:
+
+	  - Loi n°93-2 du 4 janvier 1993 - art. 37 (V) JORF 5 janvier 1993 en vigueur le 1er mars 1993
+
+	**Cité par**:
+
+	  - Loi n°2007-291 du 5 mars 2007 - art. 30 (V)
+	  - CODE DE PROCEDURE PENALE - art. 104 (M)
+	  - CODE DE PROCEDURE PENALE - art. 167 (M)
+	  - CODE DE PROCEDURE PENALE - art. 170 (M)
+	  - CODE DE PROCEDURE PENALE - art. D31-2 (VD)
+	  - Code de justice militaire - art. 116 (Ab)
+
 
 ###### Article 121
 
