@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 1975-10-14
+Version Consolidée au 1975-10-24
 
 # Partie législative
 
@@ -23689,6 +23689,39 @@ disponible du condamné ou si l'intéressé ne justifie pas de possibilités lic
 
 ##### Paragraphe 1er : Principes
 
+###### Article D99
+
+De même que les prévenus, les condamnés de police, les condamnés bénéficiant du régime visé à l'article D493 et les détenus
+pour dettes peuvent demander qu'il leur soit donné du travail.
+
+Dans cette hypothèse, ils sont assujettis aux mêmes règles que les condamnés pour l'organisation et la discipline du travail.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-322 1959-02-23
+
+	**Modifié par**:
+
+	  - Décret n°72-852 1972-09-12 art. 1 JORF 20 septembre 1972 rectificatif JORF 14 octobre 1972
+	  - Décret n°75-972 1975-10-23 art. 3 JORF 24 octobre 1975
+
+	**Cité par**:
+
+	  - CODE DE PROCEDURE PENALE - art. D489 (Ab)
+	  - CODE DE PROCEDURE PENALE - art. D570 (M)
+	  - CODE DE PROCEDURE PENALE - art. D62 (V)
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. D493 (M)
+
+	**Liens**:
+
+	  - TXT_SOURCE: Code de procédure pénale 714 à 728
+
+
 ###### Article D100
 
 Les dispositions nécessaires doivent être prises pour qu'un travail productif et suffisant pour occuper la durée normale
@@ -29334,9 +29367,11 @@ détenus.
 
 ##### Section 2 : Des détenus bénéficiant d'un régime spécial
 
-###### Article D496
+###### Article D491
 
-[Article abrogé].
+L'admission au régime spécial des personnes qui satisfont à l'une des conditions visées à l'article D. 490 a lieu d'office
+sur l'indication que le ministère public près la juridiction saisie ou la juridiction de condamnation donne au chef de
+l'établissement d'incarcération.
 
 **Liens relatifs à cet article**
 
@@ -29347,15 +29382,103 @@ détenus.
 	**Modifié par**:
 
 	  - Décret n°60-898 1960-08-24 art. 1 JORF 25 août 1960
+	  - Décret n°75-972 1975-10-23 art. 1 JORF 24 octobre 1975
 	  - Décret n°71-769 1971-09-16 art. 1 JORF 19 septembre 1971
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. D490 (M)
 
 	**Liens**:
 
 	  - TXT_SOURCE: Code de procédure pénale 714 à 728
 
-	**Abrogé par**:
 
+###### Article D492
+
+Le bénéfice du régime spécial cesse d'être applicable aux détenus qui ne remplissent plus les conditions prévues à l'article
+D. 490.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-322 1959-02-23
+
+	**Modifié par**:
+
+	  - Décret n°60-898 1960-08-24 art. 1 JORF 25 août 1960
 	  - Décret n°75-972 1975-10-23 art. 1 JORF 24 octobre 1975
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. D490 (M)
+
+	**Liens**:
+
+	  - TXT_SOURCE: Code de procédure pénale 714 à 728
+
+
+###### Article D494
+
+Les détenus bénéficiaires du régime spécial, même dans les établissements pénitentiaires dont le régime ne comporte pas de
+telles particularités, et sauf instructions contraires du juge d'instruction en application des articles 116 et D. 56, ont la
+faculté d'être réunis aux heures de la journée fixées par le chef d'établissement et de recevoir, en présence d'un
+surveillant, des visites dans un parloir sans dispositif de séparation.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-322 1959-02-23
+
+	**Modifié par**:
+
+	  - Décret n°60-898 1960-08-24 art. 1 JORF 25 août 1960
+	  - Décret n°75-972 1975-10-23 art. 1 JORF 24 octobre 1975
+
+	**Cité par**:
+
+	  - CODE DE PROCEDURE PENALE - art. D495 (M)
+
+	**Cite**:
+
+	  - Code de procédure pénale 116 et D56
+
+	**Liens**:
+
+	  - TXT_SOURCE: Code de procédure pénale 714 à 728
+
+
+###### Article D495
+
+Tout détenu bénéficiaire du régime spécial est soumis aux mesures réglementaires prévues pour assurer l'ordre et la sécurité
+dans les établissements pénitentiaires. Il peut notamment faire l'objet des sanctions disciplinaires prévues au présent
+titre.
+
+En outre, tout ou partie des avantages visés à l'article D. 494, peut être retiré à titre temporaire ou définitif au détenu
+qui, par l'usage qu'il en fait, porte atteinte à l'ordre ou à la sécurité de l'établissement.
+
+Cette décision est prise, sur proposition du chef d'établissement, par le ministre de la justice.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-322 1959-02-23
+
+	**Modifié par**:
+
+	  - Décret n°60-898 1960-08-24 art. 1 JORF 25 août 1960
+	  - Décret n°75-972 1975-10-23 art. 1 JORF 24 octobre 1975
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. D494 (M)
+
+	**Liens**:
+
+	  - TXT_SOURCE: Code de procédure pénale 714 à 728
 
 
 ###### Article D497
