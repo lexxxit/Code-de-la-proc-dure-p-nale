@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 1965-02-24
+Version Consolidée au 1966-09-07
 
 # Partie législative
 
@@ -23219,6 +23219,35 @@ qualité d'officier de police judiciaire, et, éventuellement, toutes propositio
 
 
 ## Livre V : Des procédures d'exécution
+
+### Titre II : De la détention
+
+#### Chapitre IV : De l'administration des établissements pénitentiaires
+
+##### Section 1 : Du rôle et de l'organisation générale de l'administration pénitentiaire
+
+###### Article A40
+
+[Article abrogé].
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Arrêté 1959-02-27
+
+	**Modifié par**:
+
+	  - Arrêté 1964-02-27 art. 3 JORF 19 mars 1964
+
+	**Abrogé par**:
+
+	  - Arrêté 1973-03-07 art. 3 JORF 21 mars 1973
+
+	**Cité par**:
+
+	  - Arrêté du 25 avril 2008 - art. 2 (V)
+
 
 ### Titre IV : Du sursis
 
