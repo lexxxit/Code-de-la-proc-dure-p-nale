@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 1998-07-25
+Version Consolidée au 1998-08-22
 
 # Partie législative
 
@@ -33638,9 +33638,9 @@ Le fait de se soustraire à l'obligation définie au précédent alinéa est pun
 
 	  - Ordonnance 96-268 1996-03-28
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°96-268 du 28 mars 1996 - art. 1 () JORF 31 mars 1996 en vigueur le 1er mai 1996
+	  - Ordonnance n°98-729 du 20 août 1998 - art. 2 () JORF 22 août 1998
 
 	**Cite**:
 
@@ -33661,9 +33661,9 @@ publique.
 
 	  - Ordonnance 96-268 1996-03-28
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°96-268 du 28 mars 1996 - art. 1 () JORF 31 mars 1996 en vigueur le 1er mai 1996
+	  - Ordonnance n°98-729 du 20 août 1998 - art. 2 () JORF 22 août 1998
 
 	**Cite**:
 
@@ -33676,12 +33676,12 @@ publique.
 
 ###### Article 814
 
-Dans le territoire de la Nouvelle-Calédonie, lorsque la garde à vue se déroule en dehors des communes de Nouméa, Mont-Doré,
-Dumbea et Paita et que le déplacement d'un avocat paraît matériellement impossible, l'entretien prévu au premier alinéa de
-l'article 63-4 peut avoir lieu avec une personne choisie par la personne gardée à vue, qui n'est pas mise en cause pour les
-mêmes faits ou pour des faits connexes et qui n'a fait l'objet d'aucune condamnation, incapacité ou déchéance mentionnée au
-bulletin n° 2 du casier judiciaire. Les dispositions des deuxième et quatrième alinéas de l'article 63-4 sont applicables à
-la personne choisie, qui en est informée par l'officier de police judiciaire.
+En Nouvelle-Calédonie, lorsque la garde à vue se déroule en dehors des communes de Nouméa, Mont-Doré, Dumbea et Paita et que
+le déplacement d'un avocat paraît matériellement impossible, l'entretien prévu au premier alinéa de l'article 63-4 peut avoir
+lieu avec une personne choisie par la personne gardée à vue, qui n'est pas mise en cause pour les mêmes faits ou pour des
+faits connexes et qui n'a fait l'objet d'aucune condamnation, incapacité ou déchéance mentionnée au bulletin n° 2 du casier
+judiciaire. Les dispositions des deuxième et quatrième alinéas de l'article 63-4 sont applicables à la personne choisie, qui
+en est informée par l'officier de police judiciaire.
 
 Le fait pour une personne, qui a été appelée à intervenir dans les conditions prévues à l'alinéa précédent, de faire état
 auprès de quiconque de cet entretien dans le but d'entraver le cours de la justice est puni d'un an d'emprisonnement et 100
@@ -33707,9 +33707,9 @@ qui en est informée par l'officier de police judiciaire.
 
 	  - Ordonnance 96-268 1996-03-28
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°96-268 du 28 mars 1996 - art. 1 () JORF 31 mars 1996 en vigueur le 1er mai 1996
+	  - Ordonnance n°98-729 du 20 août 1998 - art. 2 () JORF 22 août 1998
 
 	**Cite**:
 
@@ -33728,9 +33728,9 @@ Par dérogation à l'article 236, la tenue des assises a lieu chaque fois qu'il 
 
 	  - Ordonnance 96-268 1996-03-28
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°96-268 du 28 mars 1996 - art. 1 () JORF 31 mars 1996 en vigueur le 1er mai 1996
+	  - Ordonnance n°98-729 du 20 août 1998 - art. 2 () JORF 22 août 1998
 
 	**Cite**:
 
@@ -33749,9 +33749,9 @@ dans le grade le plus élevé de ce tribunal.
 
 	  - Ordonnance 96-268 1996-03-28
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°96-268 du 28 mars 1996 - art. 1 () JORF 31 mars 1996 en vigueur le 1er mai 1996
+	  - Ordonnance n°98-729 du 20 août 1998 - art. 2 () JORF 22 août 1998
 
 	**Cite**:
 
@@ -33770,9 +33770,9 @@ des assesseurs.
 
 	  - Ordonnance 96-268 1996-03-28
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°96-268 du 28 mars 1996 - art. 1 () JORF 31 mars 1996 en vigueur le 1er mai 1996
+	  - Ordonnance n°98-729 du 20 août 1998 - art. 2 () JORF 22 août 1998
 
 	**Cite**:
 
@@ -33793,9 +33793,9 @@ Le 8° de l'article 256 est rédigé comme suit :
 
 	  - Ordonnance 96-268 1996-03-28
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°96-268 du 28 mars 1996 - art. 1 () JORF 31 mars 1996 en vigueur le 1er mai 1996
+	  - Ordonnance n°98-729 du 20 août 1998 - art. 2 () JORF 22 août 1998
 
 	**Cite**:
 
@@ -33817,9 +33817,9 @@ subdivision administratives.
 
 	  - Ordonnance 96-268 1996-03-28
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°96-268 du 28 mars 1996 - art. 1 () JORF 31 mars 1996 en vigueur le 1er mai 1996
+	  - Ordonnance n°98-729 du 20 août 1998 - art. 2 () JORF 22 août 1998
 
 	**Cite**:
 
@@ -33837,9 +33837,9 @@ Futuna.
 
 	  - Ordonnance 96-268 1996-03-28
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°96-268 du 28 mars 1996 - art. 1 () JORF 31 mars 1996 en vigueur le 1er mai 1996
+	  - Ordonnance n°98-729 du 20 août 1998 - art. 2 () JORF 22 août 1998
 
 	**Cite**:
 
@@ -33858,9 +33858,9 @@ administrative.
 
 	  - Ordonnance 96-268 1996-03-28
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°96-268 du 28 mars 1996 - art. 1 () JORF 31 mars 1996 en vigueur le 1er mai 1996
+	  - Ordonnance n°98-729 du 20 août 1998 - art. 2 () JORF 22 août 1998
 
 	**Cite**:
 
@@ -33892,7 +33892,7 @@ II. - Dans le territoire des îles Wallis-et-Futuna, la commission prévue à l'
 
 	**Modifié par**:
 
-	  - Loi n°96-1240 du 30 décembre 1996 - art. 21 () JORF 1er janvier 1997
+	  - Ordonnance n°98-729 du 20 août 1998 - art. 2 () JORF 22 août 1998
 
 	**Cite**:
 
@@ -33911,9 +33911,9 @@ Futuna.
 
 	  - Ordonnance 96-268 1996-03-28
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°96-268 du 28 mars 1996 - art. 1 () JORF 31 mars 1996 en vigueur le 1er mai 1996
+	  - Ordonnance n°98-729 du 20 août 1998 - art. 2 () JORF 22 août 1998
 
 	**Cite**:
 
@@ -33931,20 +33931,727 @@ d'arrêt.
 
 	  - Ordonnance 96-268 1996-03-28
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°96-268 du 28 mars 1996 - art. 1 () JORF 31 mars 1996 en vigueur le 1er mai 1996
+	  - Ordonnance n°98-729 du 20 août 1998 - art. 2 () JORF 22 août 1998
 
 	**Cite**:
 
 	  - CODE DE PROCEDURE PENALE - art. 269 (M)
 
 
-## Livre VI : Dispositions applicables dans les territoires de la Nouvelle-Calédonie, de la Polynésie française et des îles Wallis-et-Futuna et dans la collectivité territoriale de Mayotte
+### Titre III : Dispositions particulières à la collectivité territoriale de Saint-Pierre-et-Miquelon
+
+#### Chapitre Ier : Dispositions générales
+
+###### Article 903
+
+Le tribunal supérieur d'appel exerce les compétences attribuées par le présent code à la cour d'appel et à la chambre de
+l'instruction.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 96-268 1996-03-28
+
+	**Créé par**:
+
+	  - Ordonnance n°98-729 du 20 août 1998 - art. 3 () JORF 22 août 1998
+
+
+###### Article 904
+
+Les compétences attribuées par le présent code au tribunal de grande instance, à la cour d'assises, au premier président de
+la cour d'appel et au juge du tribunal d'instance sont exercées respectivement par le tribunal de première instance, le
+tribunal criminel, le président du tribunal supérieur d'appel et par un juge du tribunal de première instance. Les
+compétences attribuées au procureur de la République et au procureur général près la cour d'appel sont exercées par le
+procureur de la République près le tribunal supérieur d'appel.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 96-268 1996-03-28
+
+	**Créé par**:
+
+	  - Ordonnance n°98-729 du 20 août 1998 - art. 3 () JORF 22 août 1998
+
+	**Cité par**:
+
+	  - Loi n°2004-204 du 9 mars 2004 - art. 220 (V)
+
+
+###### Article 905
+
+Les attributions dévolues par le présent code aux avocats et aux conseils des parties peuvent être exercées par des personnes
+agréées dans la collectivité territoriale par le président du tribunal supérieur d'appel. Ces personnes sont dispensées de
+justifier d'un mandat.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 96-268 1996-03-28
+
+	**Créé par**:
+
+	  - Ordonnance n°98-729 du 20 août 1998 - art. 3 () JORF 22 août 1998
+
+	**Cité par**:
+
+	  - Loi n°2004-204 du 9 mars 2004 - art. 220 (V)
+	  - Décret n°2005-163 du 23 février 2005 - art. 2 (V)
+	  - Décret n°2006-385 du 30 mars 2006 - art. 23 (V)
+	  - CODE DE PROCEDURE PENALE - art. 917 (V)
+
+
+#### Chapitre II : De l'exercice de l'action publique
+
+###### Article 906
+
+Par dérogation à l'article 193, le tribunal supérieur d'appel, en tant que chambre de l'instruction, ne se réunit que sur
+convocation de son président ou à la demande du procureur de la République, toutes les fois qu'il est nécessaire.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 96-268 1996-03-28
+
+	**Créé par**:
+
+	  - Ordonnance n°98-729 du 20 août 1998 - art. 3 () JORF 22 août 1998
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. 193 (M)
+
+
+###### Article 907
+
+Les articles L. 952-11 et L. 952-12 du code de l'organisation judiciaire relatifs au remplacement du président du tribunal
+supérieur d'appel et des assesseurs et aux modalités particulières d'exercice des fonctions juridictionnelles sont
+applicables à la chambre de l'instruction et à son président.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 96-268 1996-03-28
+
+	**Créé par**:
+
+	  - Ordonnance n°98-729 du 20 août 1998 - art. 3 () JORF 22 août 1998
+
+	**Cite**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L952-11 (M)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L952-12 (Ab)
+
+
+#### Chapitre III : Des juridictions de jugement
+
+##### Section 1 : Du jugement des crimes
+
+###### Article 908
+
+Les articles 233, 245, 261 et 261-1 du présent code ne sont pas applicables.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 96-268 1996-03-28
+
+	**Créé par**:
+
+	  - Ordonnance n°98-729 du 20 août 1998 - art. 3 () JORF 22 août 1998
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. 233 (V)
+	  - CODE DE PROCEDURE PENALE - art. 245 (V)
+	  - CODE DE PROCEDURE PENALE - art. 261 (V)
+	  - CODE DE PROCEDURE PENALE - art. 261-1 (V)
+
+
+###### Article 909
+
+Pour l'application de l'article 236, le président du tribunal supérieur d'appel convoque, en cas de besoin, le tribunal
+criminel par ordonnance prise après avis du procureur de la République.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 96-268 1996-03-28
+
+	**Créé par**:
+
+	  - Ordonnance n°98-729 du 20 août 1998 - art. 3 () JORF 22 août 1998
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. 236 (M)
+
+
+###### Article 910
+
+Pour l'application de l'article 240, le tribunal criminel est composé du tribunal proprement dit et du jury.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 96-268 1996-03-28
+
+	**Créé par**:
+
+	  - Ordonnance n°98-729 du 20 août 1998 - art. 3 () JORF 22 août 1998
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. 240 (V)
+
+
+###### Article 911
+
+Pour l'application de l'article 243, le tribunal proprement dit comprend le président et les assesseurs.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 96-268 1996-03-28
+
+	**Créé par**:
+
+	  - Ordonnance n°98-729 du 20 août 1998 - art. 3 () JORF 22 août 1998
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. 243 (V)
+
+
+###### Article 912
+
+Pour l'application de l'article 244, le tribunal criminel est présidé par le président du tribunal supérieur d'appel.
+
+En cas de vacance de poste, d'absence, d'empêchement ou d'incompatibilité légale, les fonctions de président du tribunal
+supérieur d'appel sont exercées par un magistrat du siège désigné par le premier président de la cour d'appel de Paris sur
+une liste arrêtée par lui pour chaque année civile.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 96-268 1996-03-28
+
+	**Créé par**:
+
+	  - Ordonnance n°98-729 du 20 août 1998 - art. 3 () JORF 22 août 1998
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. 244 (V)
+
+
+###### Article 913
+
+Pour l'application de l'article 249, les conditions que doivent remplir les assesseurs au tribunal criminel sont celles
+énoncées à l'article L. 951-2 du code de l'organisation judiciaire.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 96-268 1996-03-28
+
+	**Créé par**:
+
+	  - Ordonnance n°98-729 du 20 août 1998 - art. 3 () JORF 22 août 1998
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. 249 (V)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L951-2 (Ab)
+
+
+###### Article 914
+
+Pour l'application de l'article 250, les assesseurs sont désignés par ordonnance du président du tribunal supérieur d'appel,
+après avis du procureur de la République.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 96-268 1996-03-28
+
+	**Créé par**:
+
+	  - Ordonnance n°98-729 du 20 août 1998 - art. 3 () JORF 22 août 1998
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. 250 (V)
+
+
+###### Article 915
+
+Pour l'application de l'article 251, en cas d'empêchement survenu avant ou au cours de la session, les assesseurs sont
+remplacés par ordonnance du président du tribunal supérieur d'appel.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 96-268 1996-03-28
+
+	**Créé par**:
+
+	  - Ordonnance n°98-729 du 20 août 1998 - art. 3 () JORF 22 août 1998
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. 251 (V)
+
+
+###### Article 916
+
+Pour l'application de l'alinéa 1er de l'article 260, le nombre des jurés ne peut être inférieur à trente-quatre.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 96-268 1996-03-28
+
+	**Créé par**:
+
+	  - Ordonnance n°98-729 du 20 août 1998 - art. 3 () JORF 22 août 1998
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. 260 (M)
+
+
+###### Article 917
+
+Pour l'application de l'article 262, la commission comprend :
+
+- le président du tribunal supérieur d'appel, président ;
+
+- le président du tribunal de première instance ;
+
+- le procureur de la République ou son suppléant ;
+
+- une personne agréée dans les conditions définies à l'article 905 et désignée par le président du tribunal supérieur
+d'appel ;
+
+- trois conseillers généraux désignés chaque année par le conseil général ;
+
+- trois conseillers municipaux désignés chaque année par les conseils municipaux, à raison de deux pour la commune de Saint-
+Pierre et un pour la commune de Miquelon-Langlade.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 96-268 1996-03-28
+
+	**Créé par**:
+
+	  - Ordonnance n°98-729 du 20 août 1998 - art. 3 () JORF 22 août 1998
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. 262 (V)
+	  - CODE DE PROCEDURE PENALE - art. 905 (M)
+
+
+###### Article 918
+
+Pour l'application de l'article 264, une liste spéciale de dix jurés suppléants est formée chaque année, en dehors de la
+liste annuelle du jury et dans les mêmes conditions que celle-ci.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 96-268 1996-03-28
+
+	**Créé par**:
+
+	  - Ordonnance n°98-729 du 20 août 1998 - art. 3 () JORF 22 août 1998
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. 264 (M)
+
+
+###### Article 919
+
+Pour l'application de l'article 266, seize jurés, dont les noms sont tirés sur la liste annuelle, forment la liste de la
+session. En outre, les noms de trois jurés suppléants sont tirés sur la liste spéciale.
+
+Si par suite des décès, des incapacités ou des incompatibilités légales survenues depuis l'établissement des listes, le
+nombre des citoyens parmi lesquels les jurés de la session doivent être tirés au sort est inférieur à trente, la commission
+chargée de dresser la liste annuelle des jurés est réunie de nouveau pour compléter la liste principale et former une
+nouvelle liste spéciale de dix citoyens.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 96-268 1996-03-28
+
+	**Créé par**:
+
+	  - Ordonnance n°98-729 du 20 août 1998 - art. 3 () JORF 22 août 1998
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. 266 (M)
+
+
+###### Article 920
+
+Pour l'application du premier alinéa de l'article 289-1, si, à la suite des absences ou des radiations, il reste moins de
+quatorze jurés sur la liste, ce nombre est complété par les jurés suppléants, suivant l'ordre de leur inscription ; en cas
+d'insuffisance, par des jurés tirés au sort, en audience publique, parmi les jurés inscrits sur la liste spéciale.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 96-268 1996-03-28
+
+	**Créé par**:
+
+	  - Ordonnance n°98-729 du 20 août 1998 - art. 3 () JORF 22 août 1998
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. 289-1 (M)
+
+
+###### Article 921
+
+Pour l'application des articles 296 et 297, le jury de jugement est formé de quatre jurés.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 96-268 1996-03-28
+
+	**Créé par**:
+
+	  - Ordonnance n°98-729 du 20 août 1998 - art. 3 () JORF 22 août 1998
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. 296 (M)
+	  - CODE DE PROCEDURE PENALE - art. 297 (M)
+
+
+###### Article 922
+
+Pour l'application de l'article 298, l'accusé et le ministère public ne peuvent récuser chacun plus de quatre jurés.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 96-268 1996-03-28
+
+	**Créé par**:
+
+	  - Ordonnance n°98-729 du 20 août 1998 - art. 3 () JORF 22 août 1998
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. 298 (M)
+
+
+###### Article 923
+
+Pour l'application des articles 359 et 360, la majorité de cinq voix suffit.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 96-268 1996-03-28
+
+	**Créé par**:
+
+	  - Ordonnance n°98-729 du 20 août 1998 - art. 3 () JORF 22 août 1998
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. 359 (M)
+	  - CODE DE PROCEDURE PENALE - art. 360 (M)
+
+
+##### Section 2 : Du jugement des délits
+
+###### Article 924
+
+Pour l'application de l'article 398, le tribunal correctionnel est toujours composé du président ou d'un juge du tribunal de
+première instance.
+
+Les articles L. 952-6 et L. 952-7 du code de l'organisation judiciaire relatifs au remplacement de ces magistrats et aux
+modalités particulières d'exercice des fonctions juridictionnelles sont applicables au tribunal correctionnel.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 96-268 1996-03-28
+
+	**Créé par**:
+
+	  - Ordonnance n°98-729 du 20 août 1998 - art. 3 () JORF 22 août 1998
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. 398 (M)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L952-6 (Ab)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L952-7 (V)
+
+
+###### Article 925
+
+Les articles 398-1 et 398-2 du présent code ne sont pas applicables.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 96-268 1996-03-28
+
+	**Créé par**:
+
+	  - Ordonnance n°98-729 du 20 août 1998 - art. 3 () JORF 22 août 1998
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. 398-1 (M)
+	  - CODE DE PROCEDURE PENALE - art. 398-2 (M)
+
+
+###### Article 926
+
+Pour l'application de l'alinéa 1er des articles 399 et 511, le président du tribunal supérieur d'appel, après avis du
+procureur de la République, fixe par ordonnance, pendant la première quinzaine du mois de décembre, le nombre des audiences
+correctionnelles pour l'année judiciaire suivante.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 96-268 1996-03-28
+
+	**Créé par**:
+
+	  - Ordonnance n°98-729 du 20 août 1998 - art. 3 () JORF 22 août 1998
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. 399 (M)
+	  - CODE DE PROCEDURE PENALE - art. 511 (M)
+
+
+###### Article 927
+
+Pour l'application des articles 491 et 492, les délais d'opposition sont de dix jours si le prévenu réside dans la
+collectivité territoriale et d'un mois s'il réside en dehors de celle-ci.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 96-268 1996-03-28
+
+	**Créé par**:
+
+	  - Ordonnance n°98-729 du 20 août 1998 - art. 3 () JORF 22 août 1998
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. 491 (V)
+	  - CODE DE PROCEDURE PENALE - art. 492 (M)
+
+
+###### Article 928
+
+Pour l'application de l'article 510, la chambre des appels correctionnels est composée du président du tribunal supérieur
+d'appel ainsi que de deux assesseurs figurant sur la liste prévue à l'article L. 951-3 du code de l'organisation judiciaire.
+
+Les articles L. 952-10 et L. 952-11 du code de l'organisation judiciaire relatifs au remplacement du président du tribunal
+supérieur d'appel et des assesseurs et aux modalités particulières d'exercice des fonctions juridictionnelles sont
+applicables à la chambre des appels correctionnels.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 96-268 1996-03-28
+
+	**Créé par**:
+
+	  - Ordonnance n°98-729 du 20 août 1998 - art. 3 () JORF 22 août 1998
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. 510 (V)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L951-3 (V)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L952-10 (Ab)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L952-11 (M)
+
+
+###### Article 929
+
+Pour l'application de l'article 513, l'appel est jugé sur le rapport oral du président.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 96-268 1996-03-28
+
+	**Créé par**:
+
+	  - Ordonnance n°98-729 du 20 août 1998 - art. 3 () JORF 22 août 1998
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. 513 (M)
+
+
+##### Section 3 : Du jugement des contraventions
+
+###### Article 930
+
+Pour l'application de l'article 523, le procureur de la République occupe le siège du ministère public devant le tribunal de
+police.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 96-268 1996-03-28
+
+	**Créé par**:
+
+	  - Ordonnance n°98-729 du 20 août 1998 - art. 3 () JORF 22 août 1998
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. 523 (M)
+
+
+###### Article 931
+
+Les articles L. 952-6 et L. 952-7 du code de l'organisation judiciaire relatifs au remplacement des magistrats du tribunal de
+première instance et aux modalités particulières d'exercice des fonctions juridictionnelles sont applicables au tribunal de
+police.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 96-268 1996-03-28
+
+	**Créé par**:
+
+	  - Ordonnance n°98-729 du 20 août 1998 - art. 3 () JORF 22 août 1998
+
+	**Cite**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L952-6 (Ab)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L952-7 (V)
+
+
+##### Section 4 : Des citations et significations
+
+###### Article 932
+
+Le délai prévu au premier alinéa de l'article 552 s'applique lorsque la partie citée réside dans la collectivité
+territoriale. Le délai est augmenté d'un mois si la partie citée réside en tout autre lieu du territoire de la République.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 96-268 1996-03-28
+
+	**Créé par**:
+
+	  - Ordonnance n°98-729 du 20 août 1998 - art. 3 () JORF 22 août 1998
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. 552 (M)
+
+
+##### Section 5 : Des recours en indemnité
+
+###### Article 933
+
+Par dérogation aux dispositions des deuxième et troisième alinéas de l'article 706-4, le président du tribunal de première
+instance exerce les attributions dévolues à la commission d'indemnisation.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 96-268 1996-03-28
+
+	**Créé par**:
+
+	  - Ordonnance n°98-729 du 20 août 1998 - art. 3 () JORF 22 août 1998
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. 706-4 (M)
+
+
+##### Section 6 : De l'exécution des sentences pénales
+
+###### Article 934
+
+Par dérogation aux dispositions des deuxième et troisième alinéas de l'article 709-1, le président du tribunal de première
+instance exerce les fonctions de juge de l'application des peines.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 96-268 1996-03-28
+
+	**Créé par**:
+
+	  - Ordonnance n°98-729 du 20 août 1998 - art. 3 () JORF 22 août 1998
+
+	**Cité par**:
+
+	  - Décret n°2006-385 du 30 mars 2006 - art. 23 (V)
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. 709-1 (M)
+
+
+## Livre VI : Dispositions relatives aux territoires d'outre mer et aux collectivités territoriales de Mayotte et Saint-Pierre-et-Miquelon
 
 ### Titre Ier : Dispositions applicables dans les territoires de la Nouvelle-Calédonie, de la Polynésie française et dans les îles Wallis-et-Futuna
 
-#### Chapitre Ier : Dispositions générales.
+#### Chapitre Ier : Dispositions générales
 
 ###### Article 804
 
@@ -33958,9 +34665,9 @@ prévues au présent titre.
 
 	  - Ordonnance 96-268 1996-03-28
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°96-268 du 28 mars 1996 - art. 1 () JORF 31 mars 1996 en vigueur le 1er mai 1996
+	  - Ordonnance n°98-729 du 20 août 1998 - art. 2 () JORF 22 août 1998
 
 	**Cite**:
 
@@ -33985,9 +34692,9 @@ dispositions applicables localement ayant le même objet.
 
 	  - Ordonnance 96-268 1996-03-28
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°96-268 du 28 mars 1996 - art. 1 () JORF 31 mars 1996 en vigueur le 1er mai 1996
+	  - Ordonnance n°98-729 du 20 août 1998 - art. 2 () JORF 22 août 1998
 
 	**Cité par**:
 
@@ -34006,16 +34713,16 @@ locale, compte tenu de la contre-valeur du franc métropolitain dans cette monna
 
 	  - Ordonnance 96-268 1996-03-28
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°96-268 du 28 mars 1996 - art. 1 () JORF 31 mars 1996 en vigueur le 1er mai 1996
+	  - Ordonnance n°98-729 du 20 août 1998 - art. 2 () JORF 22 août 1998
 
 	**Cité par**:
 
 	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 16 (V)
 
 
-#### Chapitre II : De l'action publique et de l'action civile.
+#### Chapitre II : De l'action publique et de l'action civile
 
 ###### Article 807
 
@@ -34033,9 +34740,9 @@ matière de droit du travail. "
 
 	  - Ordonnance 96-268 1996-03-28
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°96-268 du 28 mars 1996 - art. 1 () JORF 31 mars 1996 en vigueur le 1er mai 1996
+	  - Ordonnance n°98-729 du 20 août 1998 - art. 2 () JORF 22 août 1998
 
 	**Cite**:
 
@@ -34059,16 +34766,16 @@ l'accessibilité des locaux d'habitation, des lieux de travail ou des établisse
 
 	  - Ordonnance 96-268 1996-03-28
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°96-268 du 28 mars 1996 - art. 1 () JORF 31 mars 1996 en vigueur le 1er mai 1996
+	  - Ordonnance n°98-729 du 20 août 1998 - art. 2 () JORF 22 août 1998
 
 	**Cite**:
 
 	  - CODE DE PROCEDURE PENALE - art. 2-8 (M)
 
 
-#### Chapitre III : De la police judiciaire.
+#### Chapitre III : De la police judiciaire
 
 ###### Article 809
 
@@ -34088,9 +34795,9 @@ prêtent serment devant le tribunal de première instance.
 
 	  - Ordonnance 96-268 1996-03-28
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°96-268 du 28 mars 1996 - art. 1 () JORF 31 mars 1996 en vigueur le 1er mai 1996
+	  - Ordonnance n°98-729 du 20 août 1998 - art. 2 () JORF 22 août 1998
 
 	**Cité par**:
 
@@ -34113,9 +34820,9 @@ des gardes particuliers assermentés.
 
 	  - Ordonnance 96-268 1996-03-28
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°96-268 du 28 mars 1996 - art. 1 () JORF 31 mars 1996 en vigueur le 1er mai 1996
+	  - Ordonnance n°98-729 du 20 août 1998 - art. 2 () JORF 22 août 1998
 
 	**Cite**:
 
@@ -34143,7 +34850,7 @@ le chef de la circonscription ou de la subdivision administrative où siège le 
 
 	**Modifié par**:
 
-	  - Loi n°96-1240 du 30 décembre 1996 - art. 20 () JORF 1er janvier 1997
+	  - Ordonnance n°98-729 du 20 août 1998 - art. 2 () JORF 22 août 1998
 
 	**Cite**:
 
@@ -34155,7 +34862,7 @@ le chef de la circonscription ou de la subdivision administrative où siège le 
 	  - CODE DE PROCEDURE PENALE - art. 848 (M)
 
 
-#### Chapitre V : Des juridictions d'instruction.
+#### Chapitre V : Des juridictions d'instruction
 
 ###### Article 815
 
@@ -34168,9 +34875,9 @@ applicable localement.
 
 	  - Ordonnance 96-268 1996-03-28
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°96-268 du 28 mars 1996 - art. 1 () JORF 31 mars 1996 en vigueur le 1er mai 1996
+	  - Ordonnance n°98-729 du 20 août 1998 - art. 2 () JORF 22 août 1998
 
 	**Cite**:
 
@@ -34188,9 +34895,9 @@ territoires d'outre-mer, d'une adresse située dans le territoire où se déroul
 
 	  - Ordonnance 96-268 1996-03-28
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°96-268 du 28 mars 1996 - art. 1 () JORF 31 mars 1996 en vigueur le 1er mai 1996
+	  - Ordonnance n°98-729 du 20 août 1998 - art. 2 () JORF 22 août 1998
 
 	**Cite**:
 
@@ -34208,9 +34915,9 @@ en usage dans le territoire. Il est, dans ce cas, dispensé du serment.
 
 	  - Ordonnance 96-268 1996-03-28
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°96-268 du 28 mars 1996 - art. 1 () JORF 31 mars 1996 en vigueur le 1er mai 1996
+	  - Ordonnance n°98-729 du 20 août 1998 - art. 2 () JORF 22 août 1998
 
 	**Cite**:
 
@@ -34228,9 +34935,9 @@ l'article 116 s'entend d'une adresse située dans le territoire où se déroule 
 
 	  - Ordonnance 96-268 1996-03-28
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°96-268 du 28 mars 1996 - art. 1 () JORF 31 mars 1996 en vigueur le 1er mai 1996
+	  - Ordonnance n°98-729 du 20 août 1998 - art. 2 () JORF 22 août 1998
 
 	**Cite**:
 
@@ -34248,9 +34955,9 @@ juge d'instruction saisi.
 
 	  - Ordonnance 96-268 1996-03-28
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°96-268 du 28 mars 1996 - art. 1 () JORF 31 mars 1996 en vigueur le 1er mai 1996
+	  - Ordonnance n°98-729 du 20 août 1998 - art. 2 () JORF 22 août 1998
 
 	**Cite**:
 
@@ -34270,9 +34977,9 @@ a lieu, sur la durée de la peine.
 
 	  - Ordonnance 96-268 1996-03-28
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°96-268 du 28 mars 1996 - art. 1 () JORF 31 mars 1996 en vigueur le 1er mai 1996
+	  - Ordonnance n°98-729 du 20 août 1998 - art. 2 () JORF 22 août 1998
 
 	**Cite**:
 
@@ -34291,9 +34998,9 @@ territoire d'outre-mer.
 
 	  - Ordonnance 96-268 1996-03-28
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°96-268 du 28 mars 1996 - art. 1 () JORF 31 mars 1996 en vigueur le 1er mai 1996
+	  - Ordonnance n°98-729 du 20 août 1998 - art. 2 () JORF 22 août 1998
 
 	**Cite**:
 
@@ -34310,9 +35017,9 @@ Pour l'application des articles 128 et 132, la personne peut être retenue dans 
 
 	  - Ordonnance 96-268 1996-03-28
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°96-268 du 28 mars 1996 - art. 1 () JORF 31 mars 1996 en vigueur le 1er mai 1996
+	  - Ordonnance n°98-729 du 20 août 1998 - art. 2 () JORF 22 août 1998
 
 	**Cite**:
 
@@ -34333,9 +35040,9 @@ Le délai prévu au deuxième alinéa de l'article 187-1 est également porté �
 
 	  - Ordonnance 96-268 1996-03-28
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°96-268 du 28 mars 1996 - art. 1 () JORF 31 mars 1996 en vigueur le 1er mai 1996
+	  - Ordonnance n°98-729 du 20 août 1998 - art. 2 () JORF 22 août 1998
 
 	**Cite**:
 
@@ -34360,16 +35067,16 @@ le premier président.
 
 	  - Ordonnance 96-268 1996-03-28
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°96-268 du 28 mars 1996 - art. 1 () JORF 31 mars 1996 en vigueur le 1er mai 1996
+	  - Ordonnance n°98-729 du 20 août 1998 - art. 2 () JORF 22 août 1998
 
 	**Cite**:
 
 	  - CODE DE PROCEDURE PENALE - art. 191 (M)
 
 
-#### Chapitre VII : Du jugement des délits.
+#### Chapitre VII : Du jugement des délits
 
 ###### Article 835
 
@@ -34382,9 +35089,9 @@ vigueur localement.
 
 	  - Ordonnance 96-268 1996-03-28
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°96-268 du 28 mars 1996 - art. 1 () JORF 31 mars 1996 en vigueur le 1er mai 1996
+	  - Ordonnance n°98-729 du 20 août 1998 - art. 2 () JORF 22 août 1998
 
 	**Cite**:
 
@@ -34405,9 +35112,9 @@ magistrat du siège et de deux assesseurs, dans les conditions prévues au code 
 
 	  - Ordonnance 96-268 1996-03-28
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°96-268 du 28 mars 1996 - art. 1 () JORF 31 mars 1996 en vigueur le 1er mai 1996
+	  - Ordonnance n°98-729 du 20 août 1998 - art. 2 () JORF 22 août 1998
 
 
 ###### Article 837
@@ -34501,9 +35208,9 @@ jugement des délits prévus au présent article lorsque ces délits sont connex
 
 	  - Ordonnance 96-268 1996-03-28
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°96-268 du 28 mars 1996 - art. 1 () JORF 31 mars 1996 en vigueur le 1er mai 1996
+	  - Ordonnance n°98-729 du 20 août 1998 - art. 2 () JORF 22 août 1998
 
 
 ###### Article 838
@@ -34516,9 +35223,9 @@ Dans le territoire des îles Wallis-et-Futuna, l'avis prévu par l'article 399 e
 
 	  - Ordonnance 96-268 1996-03-28
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°96-268 du 28 mars 1996 - art. 1 () JORF 31 mars 1996 en vigueur le 1er mai 1996
+	  - Ordonnance n°98-729 du 20 août 1998 - art. 2 () JORF 22 août 1998
 
 	**Cite**:
 
@@ -34538,9 +35245,9 @@ S'il existe un interprète officiel permanent, celui-ci ne prête serment qu'à 
 
 	  - Ordonnance 96-268 1996-03-28
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°96-268 du 28 mars 1996 - art. 1 () JORF 31 mars 1996 en vigueur le 1er mai 1996
+	  - Ordonnance n°98-729 du 20 août 1998 - art. 2 () JORF 22 août 1998
 
 	**Cite**:
 
@@ -34562,9 +35269,9 @@ fait à partir ou à destination d'un territoire d'outre-mer.
 
 	  - Ordonnance 96-268 1996-03-28
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°96-268 du 28 mars 1996 - art. 1 () JORF 31 mars 1996 en vigueur le 1er mai 1996
+	  - Ordonnance n°98-729 du 20 août 1998 - art. 2 () JORF 22 août 1998
 
 	**Cite**:
 
@@ -34583,9 +35290,9 @@ cinq ans.
 
 	  - Ordonnance 96-268 1996-03-28
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°96-268 du 28 mars 1996 - art. 1 () JORF 31 mars 1996 en vigueur le 1er mai 1996
+	  - Ordonnance n°98-729 du 20 août 1998 - art. 2 () JORF 22 août 1998
 
 	**Cite**:
 
@@ -34612,9 +35319,9 @@ prévues au dernier alinéa de l'article 814.
 
 	  - Ordonnance 96-268 1996-03-28
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°96-268 du 28 mars 1996 - art. 1 () JORF 31 mars 1996 en vigueur le 1er mai 1996
+	  - Ordonnance n°98-729 du 20 août 1998 - art. 2 () JORF 22 août 1998
 
 	**Cite**:
 
@@ -34633,9 +35340,9 @@ commun des tribunaux d'instance de la métropole en matière civile.
 
 	  - Ordonnance 96-268 1996-03-28
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°96-268 du 28 mars 1996 - art. 1 () JORF 31 mars 1996 en vigueur le 1er mai 1996
+	  - Ordonnance n°98-729 du 20 août 1998 - art. 2 () JORF 22 août 1998
 
 	**Cite**:
 
@@ -34655,9 +35362,9 @@ décision non susceptible de recours, devant la juridiction civile compétente.
 
 	  - Ordonnance 96-268 1996-03-28
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°96-268 du 28 mars 1996 - art. 1 () JORF 31 mars 1996 en vigueur le 1er mai 1996
+	  - Ordonnance n°98-729 du 20 août 1998 - art. 2 () JORF 22 août 1998
 
 	**Cite**:
 
@@ -34675,9 +35382,9 @@ dans l'île où siège le tribunal et d'un mois s'il réside hors de cette île.
 
 	  - Ordonnance 96-268 1996-03-28
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°96-268 du 28 mars 1996 - art. 1 () JORF 31 mars 1996 en vigueur le 1er mai 1996
+	  - Ordonnance n°98-729 du 20 août 1998 - art. 2 () JORF 22 août 1998
 
 	**Cite**:
 
@@ -34700,9 +35407,9 @@ juridiction qui a rendu la décision attaquée a son siège.
 
 	  - Ordonnance 96-268 1996-03-28
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°96-268 du 28 mars 1996 - art. 1 () JORF 31 mars 1996 en vigueur le 1er mai 1996
+	  - Ordonnance n°98-729 du 20 août 1998 - art. 2 () JORF 22 août 1998
 
 	**Cite**:
 
@@ -34727,9 +35434,9 @@ cette lettre, le greffier dresse l'acte d'appel et y annexe la lettre de l'appel
 
 	  - Ordonnance 96-268 1996-03-28
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°96-268 du 28 mars 1996 - art. 1 () JORF 31 mars 1996 en vigueur le 1er mai 1996
+	  - Ordonnance n°98-729 du 20 août 1998 - art. 2 () JORF 22 août 1998
 
 	**Cite**:
 
@@ -34740,7 +35447,7 @@ cette lettre, le greffier dresse l'acte d'appel et y annexe la lettre de l'appel
 	  - Code de procédure pénale 502, annexe, 498, 500, 846
 
 
-#### Chapitre VIII : Du jugement des contraventions.
+#### Chapitre VIII : Du jugement des contraventions
 
 ###### Article 848
 
@@ -34757,9 +35464,9 @@ chargé du service de la section ou le juge forain, un officier du ministère pu
 
 	  - Ordonnance 96-268 1996-03-28
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°96-268 du 28 mars 1996 - art. 1 () JORF 31 mars 1996 en vigueur le 1er mai 1996
+	  - Ordonnance n°98-729 du 20 août 1998 - art. 2 () JORF 22 août 1998
 
 	**Cite**:
 
@@ -34779,9 +35486,9 @@ porté à deux mois si le prévenu réside hors de l'île où la juridiction qui
 
 	  - Ordonnance 96-268 1996-03-28
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°96-268 du 28 mars 1996 - art. 1 () JORF 31 mars 1996 en vigueur le 1er mai 1996
+	  - Ordonnance n°98-729 du 20 août 1998 - art. 2 () JORF 22 août 1998
 
 	**Cite**:
 
@@ -34808,9 +35515,9 @@ l'application des règles de la récidive. "
 
 	  - Ordonnance 96-268 1996-03-28
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°96-268 du 28 mars 1996 - art. 1 () JORF 31 mars 1996 en vigueur le 1er mai 1996
+	  - Ordonnance n°98-729 du 20 août 1998 - art. 2 () JORF 22 août 1998
 
 	**Cite**:
 
@@ -34828,9 +35535,9 @@ tribunal de police.
 
 	  - Ordonnance 96-268 1996-03-28
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°96-268 du 28 mars 1996 - art. 1 () JORF 31 mars 1996 en vigueur le 1er mai 1996
+	  - Ordonnance n°98-729 du 20 août 1998 - art. 2 () JORF 22 août 1998
 
 	**Cite**:
 
@@ -34851,9 +35558,9 @@ compétentes en matière d'eaux et forêts.
 
 	  - Ordonnance 96-268 1996-03-28
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°96-268 du 28 mars 1996 - art. 1 () JORF 31 mars 1996 en vigueur le 1er mai 1996
+	  - Ordonnance n°98-729 du 20 août 1998 - art. 2 () JORF 22 août 1998
 
 	**Cite**:
 
@@ -34871,9 +35578,9 @@ les jugements de police.
 
 	  - Ordonnance 96-268 1996-03-28
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°96-268 du 28 mars 1996 - art. 1 () JORF 31 mars 1996 en vigueur le 1er mai 1996
+	  - Ordonnance n°98-729 du 20 août 1998 - art. 2 () JORF 22 août 1998
 
 	**Cite**:
 
@@ -34882,7 +35589,7 @@ les jugements de police.
 	  - CODE DE PROCEDURE PENALE - art. 846 (M)
 
 
-#### Chapitre IX : Des citations et significations.
+#### Chapitre IX : Des citations et significations
 
 ###### Article 854
 
@@ -34896,16 +35603,16 @@ mois si la partie citée réside dans une autre île de ce territoire ou en tout
 
 	  - Ordonnance 96-268 1996-03-28
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°96-268 du 28 mars 1996 - art. 1 () JORF 31 mars 1996 en vigueur le 1er mai 1996
+	  - Ordonnance n°98-729 du 20 août 1998 - art. 2 () JORF 22 août 1998
 
 	**Cite**:
 
 	  - CODE DE PROCEDURE PENALE - art. 552 (M)
 
 
-#### Chapitre X : Du pourvoi en cassation.
+#### Chapitre X : Du pourvoi en cassation
 
 ###### Article 855
 
@@ -34918,9 +35625,9 @@ l'île où la juridiction qui a rendu la décision attaquée a son siège.
 
 	  - Ordonnance 96-268 1996-03-28
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°96-268 du 28 mars 1996 - art. 1 () JORF 31 mars 1996 en vigueur le 1er mai 1996
+	  - Ordonnance n°98-729 du 20 août 1998 - art. 2 () JORF 22 août 1998
 
 	**Cite**:
 
@@ -34946,9 +35653,9 @@ demandeur en cassation est tenu de confirmer son pourvoi à la mairie ou à la g
 
 	  - Ordonnance 96-268 1996-03-28
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°96-268 du 28 mars 1996 - art. 1 () JORF 31 mars 1996 en vigueur le 1er mai 1996
+	  - Ordonnance n°98-729 du 20 août 1998 - art. 2 () JORF 22 août 1998
 
 	**Cite**:
 
@@ -34976,9 +35683,9 @@ Dans ce dernier cas, l'opposition peut être également faite dans les formes pr
 
 	  - Ordonnance 96-268 1996-03-28
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°96-268 du 28 mars 1996 - art. 1 () JORF 31 mars 1996 en vigueur le 1er mai 1996
+	  - Ordonnance n°98-729 du 20 août 1998 - art. 2 () JORF 22 août 1998
 
 	**Cite**:
 
@@ -34997,9 +35704,9 @@ a rendu la décision attaquée a son siège.
 
 	  - Ordonnance 96-268 1996-03-28
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°96-268 du 28 mars 1996 - art. 1 () JORF 31 mars 1996 en vigueur le 1er mai 1996
+	  - Ordonnance n°98-729 du 20 août 1998 - art. 2 () JORF 22 août 1998
 
 	**Cite**:
 
@@ -35017,9 +35724,9 @@ articles 855 et 856.
 
 	  - Ordonnance 96-268 1996-03-28
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°96-268 du 28 mars 1996 - art. 1 () JORF 31 mars 1996 en vigueur le 1er mai 1996
+	  - Ordonnance n°98-729 du 20 août 1998 - art. 2 () JORF 22 août 1998
 
 	**Cite**:
 
@@ -35028,7 +35735,7 @@ articles 855 et 856.
 	  - CODE DE PROCEDURE PENALE - art. 856 (M)
 
 
-#### Chapitre XI : De quelques procédures particulières.
+#### Chapitre XI : De quelques procédures particulières
 
 ###### Article 860
 
@@ -35042,9 +35749,9 @@ diligence du chef de circonscription administrative.
 
 	  - Ordonnance 96-268 1996-03-28
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°96-268 du 28 mars 1996 - art. 1 () JORF 31 mars 1996 en vigueur le 1er mai 1996
+	  - Ordonnance n°98-729 du 20 août 1998 - art. 2 () JORF 22 août 1998
 
 	**Cite**:
 
@@ -35062,9 +35769,9 @@ Le délai prévu au troisième alinéa de l'article 662 est de deux mois.
 
 	  - Ordonnance 96-268 1996-03-28
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°96-268 du 28 mars 1996 - art. 1 () JORF 31 mars 1996 en vigueur le 1er mai 1996
+	  - Ordonnance n°98-729 du 20 août 1998 - art. 2 () JORF 22 août 1998
 
 	**Cite**:
 
@@ -35076,15 +35783,27 @@ Le délai prévu au troisième alinéa de l'article 662 est de deux mois.
 Dans le territoire des îles Wallis-et-Futuna, le président du tribunal de première instance exerce les attributions dévolues
 à la commission mentionnée à l'article 706-4.
 
+relative à la Nouvelle-Calédonie dispose :
+
+"IV. - Dans toutes les dispositions législatives et réglementaires en vigueur :
+
+1° La référence au territoire de la Nouvelle-Calédonie est remplacée par la référence à la Nouvelle-Calédonie ;
+
+2° La référence à l'assemblée territoriale de la Nouvelle-Calédonie est remplacée par la référence au congrès de la Nouvelle-
+Calédonie ;
+
+3° La référence à l'exécutif de la Nouvelle-Calédonie est remplacée par la référence au gouvernement de la Nouvelle-
+Calédonie.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Ordonnance 96-268 1996-03-28
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°96-268 du 28 mars 1996 - art. 1 () JORF 31 mars 1996 en vigueur le 1er mai 1996
+	  - Ordonnance n°98-729 du 20 août 1998 - art. 2 () JORF 22 août 1998
 
 	**Cite**:
 
@@ -35124,17 +35843,17 @@ Les sommes allouées sont versées par le fonds de garantie des victimes des act
 
 	  - Ordonnance 96-268 1996-03-28
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°96-268 du 28 mars 1996 - art. 1 () JORF 31 mars 1996 en vigueur le 1er mai 1996
+	  - Ordonnance n°98-729 du 20 août 1998 - art. 2 () JORF 22 août 1998
 
 
 ###### Article 864
 
 Le premier alinéa de l'article 706-14 est ainsi rédigé :
 
-Toute personne qui, victime d'un vol, d'une escroquerie ou d'un abus de confiance, ne peut obtenir à un titre quelconque une
-réparation ou une indemnisation effective et suffisante de son préjudice, et se trouve de ce fait dans une situation
+" Toute personne qui, victime d'un vol, d'une escroquerie ou d'un abus de confiance, ne peut obtenir à un titre quelconque
+une réparation ou une indemnisation effective et suffisante de son préjudice, et se trouve de ce fait dans une situation
 matérielle grave, peut obtenir une indemnité dans les conditions prévues par les articles 706-3 (troisième et dernier alinéa)
 (1) à 706-12, lorsque ses ressources sont inférieures au plafond pour bénéficier de l'aide juridictionnelle partielle,
 affectée le cas échéant de correctif pour charges de famille, prévu par l'article 3 de l'ordonnance n° 92-1147 du 12 octobre
@@ -35156,9 +35875,9 @@ affectée le cas échéant de correctif pour charges de famille, prévu par l'ar
 
 	  - Ordonnance 96-268 1996-03-28
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°96-268 du 28 mars 1996 - art. 1 () JORF 31 mars 1996 en vigueur le 1er mai 1996
+	  - Ordonnance n°98-729 du 20 août 1998 - art. 2 () JORF 22 août 1998
 
 
 ###### Article 865
@@ -35172,9 +35891,9 @@ les conditions définies à l'article 813.
 
 	  - Ordonnance 96-268 1996-03-28
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°96-268 du 28 mars 1996 - art. 1 () JORF 31 mars 1996 en vigueur le 1er mai 1996
+	  - Ordonnance n°98-729 du 20 août 1998 - art. 2 () JORF 22 août 1998
 
 	**Cite**:
 
@@ -35199,9 +35918,9 @@ de procédure civile, des mesures conservatoires sur les biens de la personne mi
 
 	  - Ordonnance 96-268 1996-03-28
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°96-268 du 28 mars 1996 - art. 1 () JORF 31 mars 1996 en vigueur le 1er mai 1996
+	  - Ordonnance n°98-729 du 20 août 1998 - art. 2 () JORF 22 août 1998
 
 	**Cite**:
 
@@ -35210,7 +35929,7 @@ de procédure civile, des mesures conservatoires sur les biens de la personne mi
 	  - CODE DE PROCEDURE PENALE - art. 706-30 (MMN)
 
 
-#### Chapitre XII : Des procédures d'exécution.
+#### Chapitre XII : Des procédures d'exécution
 
 ###### Article 867
 
@@ -35223,9 +35942,9 @@ vertu de la réglementation applicable dans le territoire.
 
 	  - Ordonnance 96-268 1996-03-28
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°96-268 du 28 mars 1996 - art. 1 () JORF 31 mars 1996 en vigueur le 1er mai 1996
+	  - Ordonnance n°98-729 du 20 août 1998 - art. 2 () JORF 22 août 1998
 
 	**Cite**:
 
@@ -35242,9 +35961,9 @@ Les personnes visées à l'article 714 peuvent être détenues dans un local aut
 
 	  - Ordonnance 96-268 1996-03-28
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°96-268 du 28 mars 1996 - art. 1 () JORF 31 mars 1996 en vigueur le 1er mai 1996
+	  - Ordonnance n°98-729 du 20 août 1998 - art. 2 () JORF 22 août 1998
 
 	**Cite**:
 
@@ -35262,9 +35981,9 @@ dans le territoire.
 
 	  - Ordonnance 96-268 1996-03-28
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°96-268 du 28 mars 1996 - art. 1 () JORF 31 mars 1996 en vigueur le 1er mai 1996
+	  - Ordonnance n°98-729 du 20 août 1998 - art. 2 () JORF 22 août 1998
 
 	**Cite**:
 
@@ -35291,9 +36010,9 @@ La preuve que le condamné est en réalité solvable peut être rapportée par t
 
 	  - Ordonnance 96-268 1996-03-28
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°96-268 du 28 mars 1996 - art. 1 () JORF 31 mars 1996 en vigueur le 1er mai 1996
+	  - Ordonnance n°98-729 du 20 août 1998 - art. 2 () JORF 22 août 1998
 
 	**Cite**:
 
@@ -35312,9 +36031,9 @@ L'article 758 est ainsi rédigé :
 
 	  - Ordonnance 96-268 1996-03-28
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°96-268 du 28 mars 1996 - art. 1 () JORF 31 mars 1996 en vigueur le 1er mai 1996
+	  - Ordonnance n°98-729 du 20 août 1998 - art. 2 () JORF 22 août 1998
 
 	**Cite**:
 
@@ -35332,9 +36051,9 @@ dévolues à celui-ci par la réglementation applicable au territoire.
 
 	  - Ordonnance 96-268 1996-03-28
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°96-268 du 28 mars 1996 - art. 1 () JORF 31 mars 1996 en vigueur le 1er mai 1996
+	  - Ordonnance n°98-729 du 20 août 1998 - art. 2 () JORF 22 août 1998
 
 	**Cite**:
 
@@ -35355,9 +36074,9 @@ crime ou ses héritiers directs. "
 
 	  - Ordonnance 96-268 1996-03-28
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°96-268 du 28 mars 1996 - art. 1 () JORF 31 mars 1996 en vigueur le 1er mai 1996
+	  - Ordonnance n°98-729 du 20 août 1998 - art. 2 () JORF 22 août 1998
 
 	**Cite**:
 
@@ -35378,16 +36097,16 @@ psychologique adapté."
 
 	  - Ordonnance 96-268 1996-03-28
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°98-468 du 17 juin 1998 - art. 40 () JORF 18 juin 1998
+	  - Ordonnance n°98-729 du 20 août 1998 - art. 2 () JORF 22 août 1998
 
 	**Cite**:
 
 	  - CODE DE PROCEDURE PENALE - art. 763-7 (M)
 
 
-#### Chapitre XIII : Du casier judiciaire.
+#### Chapitre XIII : Du casier judiciaire
 
 ###### Article 874
 
@@ -35402,9 +36121,9 @@ vérification de leur identité aux registres de l'état civil, des fiches const
 
 	  - Ordonnance 96-268 1996-03-28
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°96-268 du 28 mars 1996 - art. 1 () JORF 31 mars 1996 en vigueur le 1er mai 1996
+	  - Ordonnance n°98-729 du 20 août 1998 - art. 2 () JORF 22 août 1998
 
 	**Cite**:
 
@@ -35430,9 +36149,9 @@ constatant les condamnations et déclarations mentionnées aux 1° à 4° dudit 
 
 	  - Ordonnance 96-268 1996-03-28
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°96-268 du 28 mars 1996 - art. 1 () JORF 31 mars 1996 en vigueur le 1er mai 1996
+	  - Ordonnance n°98-729 du 20 août 1998 - art. 2 () JORF 22 août 1998
 
 	**Cite**:
 
@@ -35452,9 +36171,9 @@ L'article 773 est ainsi rédigé :
 
 	  - Ordonnance 96-268 1996-03-28
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°96-268 du 28 mars 1996 - art. 1 () JORF 31 mars 1996 en vigueur le 1er mai 1996
+	  - Ordonnance n°98-729 du 20 août 1998 - art. 2 () JORF 22 août 1998
 
 	**Cite**:
 
@@ -35463,7 +36182,7 @@ L'article 773 est ainsi rédigé :
 
 ### Titre II : Dispositions applicables dans la collectivité territoriale de Mayotte
 
-#### Chapitre Ier : Dispositions générales.
+#### Chapitre Ier : Dispositions générales
 
 ###### Article 877
 
@@ -35477,9 +36196,9 @@ adaptations prévues au présent titre.
 
 	  - Ordonnance 96-268 1996-03-28
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°96-268 du 28 mars 1996 - art. 1 () JORF 31 mars 1996 en vigueur le 1er mai 1996
+	  - Ordonnance n°98-729 du 20 août 1998 - art. 2 () JORF 22 août 1998
 
 	**Cite**:
 
@@ -35507,8 +36226,9 @@ Les termes : "cour d'assises" ou : "la cour et le jury" sont remplacés par les 
 
 Le terme : "département" est remplacé par les termes : "collectivité territoriale" ;
 
-Le terme : "préfet" est remplacé par les termes : "représentant du Gouvernement" et les termes : "arrêté préfectoral" par les
-termes :  "arrêté du représentant du Gouvernement".
+Le terme : "préfet" est remplacé par les termes : "représentant du Gouvernement" et les termes : "arrêté préfectoral" par 
+
+les termes : "arrêté du représentant du Gouvernement".
 
 De même, les références à des dispositions non applicables dans la collectivité territoriale sont remplacées par les
 références aux dispositions applicables localement ayant le même objet.
@@ -35523,9 +36243,9 @@ sont exercées par un magistrat du siège du tribunal de première instance.
 
 	  - Ordonnance 96-268 1996-03-28
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°96-268 du 28 mars 1996 - art. 1 () JORF 31 mars 1996 en vigueur le 1er mai 1996
+	  - Ordonnance n°98-729 du 20 août 1998 - art. 2 () JORF 22 août 1998
 
 	**Cité par**:
 
@@ -35553,12 +36273,12 @@ agréées par le président du tribunal supérieur d'appel. Ces personnes sont d
 
 	  - Ordonnance 96-268 1996-03-28
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°96-268 du 28 mars 1996 - art. 1 () JORF 31 mars 1996 en vigueur le 1er mai 1996
+	  - Ordonnance n°98-729 du 20 août 1998 - art. 2 () JORF 22 août 1998
 
 
-#### Chapitre II : Des enquêtes.
+#### Chapitre II : Des enquêtes
 
 ###### Article 880
 
@@ -35578,9 +36298,9 @@ auprès de quiconque de cet entretien dans le but d'entraver le cours de la just
 
 	  - Ordonnance 96-268 1996-03-28
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°96-268 du 28 mars 1996 - art. 1 () JORF 31 mars 1996 en vigueur le 1er mai 1996
+	  - Ordonnance n°98-729 du 20 août 1998 - art. 2 () JORF 22 août 1998
 
 	**Cite**:
 
@@ -35588,7 +36308,7 @@ auprès de quiconque de cet entretien dans le but d'entraver le cours de la just
 	  - CODE DE PROCEDURE PENALE - art. 879 (M)
 
 
-#### Chapitre III : Des juridictions d'instruction.
+#### Chapitre III : Des juridictions d'instruction
 
 ###### Article 881
 
@@ -35601,9 +36321,9 @@ adresse située dans la collectivité territoriale.
 
 	  - Ordonnance 96-268 1996-03-28
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°96-268 du 28 mars 1996 - art. 1 () JORF 31 mars 1996 en vigueur le 1er mai 1996
+	  - Ordonnance n°98-729 du 20 août 1998 - art. 2 () JORF 22 août 1998
 
 	**Cite**:
 
@@ -35621,9 +36341,9 @@ l'article 116 s'entend d'une adresse située dans la collectivité territoriale.
 
 	  - Ordonnance 96-268 1996-03-28
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°96-268 du 28 mars 1996 - art. 1 () JORF 31 mars 1996 en vigueur le 1er mai 1996
+	  - Ordonnance n°98-729 du 20 août 1998 - art. 2 () JORF 22 août 1998
 
 	**Cite**:
 
@@ -35641,9 +36361,9 @@ collectivité territoriale.
 
 	  - Ordonnance 96-268 1996-03-28
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°96-268 du 28 mars 1996 - art. 1 () JORF 31 mars 1996 en vigueur le 1er mai 1996
+	  - Ordonnance n°98-729 du 20 août 1998 - art. 2 () JORF 22 août 1998
 
 	**Cite**:
 
@@ -35661,16 +36381,16 @@ convocation de son président ou à la demande du procureur de la République à
 
 	  - Ordonnance 96-268 1996-03-28
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°96-268 du 28 mars 1996 - art. 1 () JORF 31 mars 1996 en vigueur le 1er mai 1996
+	  - Ordonnance n°98-729 du 20 août 1998 - art. 2 () JORF 22 août 1998
 
 	**Cite**:
 
 	  - CODE DE PROCEDURE PENALE - art. 193 (M)
 
 
-#### Chapitre IV : De la cour criminelle.
+#### Chapitre IV : De la cour criminelle
 
 ###### Article 885
 
@@ -35691,9 +36411,9 @@ que pour sa désignation initiale.
 
 	  - Ordonnance 96-268 1996-03-28
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°96-268 du 28 mars 1996 - art. 1 () JORF 31 mars 1996 en vigueur le 1er mai 1996
+	  - Ordonnance n°98-729 du 20 août 1998 - art. 2 () JORF 22 août 1998
 
 
 ###### Article 886
@@ -35707,9 +36427,9 @@ prêtent le serment prévu au deuxième alinéa du même article.
 
 	  - Ordonnance 96-268 1996-03-28
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°96-268 du 28 mars 1996 - art. 1 () JORF 31 mars 1996 en vigueur le 1er mai 1996
+	  - Ordonnance n°98-729 du 20 août 1998 - art. 2 () JORF 22 août 1998
 
 	**Cite**:
 
@@ -35726,9 +36446,9 @@ Le président de la cour criminelle exerce les attributions dévolues à la cour
 
 	  - Ordonnance 96-268 1996-03-28
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°96-268 du 28 mars 1996 - art. 1 () JORF 31 mars 1996 en vigueur le 1er mai 1996
+	  - Ordonnance n°98-729 du 20 août 1998 - art. 2 () JORF 22 août 1998
 
 	**Cite**:
 
@@ -35748,9 +36468,9 @@ La majorité de huit voix prévue par les articles 359 et 362, deuxième alinéa
 
 	  - Ordonnance 96-268 1996-03-28
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°96-268 du 28 mars 1996 - art. 1 () JORF 31 mars 1996 en vigueur le 1er mai 1996
+	  - Ordonnance n°98-729 du 20 août 1998 - art. 2 () JORF 22 août 1998
 
 	**Cite**:
 
@@ -35758,7 +36478,7 @@ La majorité de huit voix prévue par les articles 359 et 362, deuxième alinéa
 	  - CODE DE PROCEDURE PENALE - art. 362 (M)
 
 
-#### Chapitre V : Du jugement des délits.
+#### Chapitre V : Du jugement des délits
 
 ###### Article 889
 
@@ -35770,9 +36490,9 @@ Le tribunal correctionnel est composé d'un magistrat du siège du tribunal de p
 
 	  - Ordonnance 96-268 1996-03-28
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°96-268 du 28 mars 1996 - art. 1 () JORF 31 mars 1996 en vigueur le 1er mai 1996
+	  - Ordonnance n°98-729 du 20 août 1998 - art. 2 () JORF 22 août 1998
 
 
 ###### Article 890
@@ -35787,9 +36507,9 @@ décision peut être modifiée dans les mêmes conditions en cours d'année.
 
 	  - Ordonnance 96-268 1996-03-28
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°96-268 du 28 mars 1996 - art. 1 () JORF 31 mars 1996 en vigueur le 1er mai 1996
+	  - Ordonnance n°98-729 du 20 août 1998 - art. 2 () JORF 22 août 1998
 
 
 ###### Article 891
@@ -35803,9 +36523,9 @@ quinze jours si ce transfèrement est fait à partir ou à destination de la col
 
 	  - Ordonnance 96-268 1996-03-28
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°96-268 du 28 mars 1996 - art. 1 () JORF 31 mars 1996 en vigueur le 1er mai 1996
+	  - Ordonnance n°98-729 du 20 août 1998 - art. 2 () JORF 22 août 1998
 
 	**Cite**:
 
@@ -35823,9 +36543,9 @@ dans la collectivité territoriale, et d'un mois s'il réside en dehors de celle
 
 	  - Ordonnance 96-268 1996-03-28
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°96-268 du 28 mars 1996 - art. 1 () JORF 31 mars 1996 en vigueur le 1er mai 1996
+	  - Ordonnance n°98-729 du 20 août 1998 - art. 2 () JORF 22 août 1998
 
 	**Cite**:
 
@@ -35848,9 +36568,9 @@ territoriale.
 
 	  - Ordonnance 96-268 1996-03-28
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°96-268 du 28 mars 1996 - art. 1 () JORF 31 mars 1996 en vigueur le 1er mai 1996
+	  - Ordonnance n°98-729 du 20 août 1998 - art. 2 () JORF 22 août 1998
 
 	**Cite**:
 
@@ -35874,12 +36594,12 @@ en cours d'année.
 
 	  - Ordonnance 96-268 1996-03-28
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°96-268 du 28 mars 1996 - art. 1 () JORF 31 mars 1996 en vigueur le 1er mai 1996
+	  - Ordonnance n°98-729 du 20 août 1998 - art. 2 () JORF 22 août 1998
 
 
-#### Chapitre VI : Du jugement des contraventions.
+#### Chapitre VI : Du jugement des contraventions
 
 ###### Article 895
 
@@ -35892,9 +36612,9 @@ prévenu ne réside pas dans la collectivité territoriale.
 
 	  - Ordonnance 96-268 1996-03-28
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°96-268 du 28 mars 1996 - art. 1 () JORF 31 mars 1996 en vigueur le 1er mai 1996
+	  - Ordonnance n°98-729 du 20 août 1998 - art. 2 () JORF 22 août 1998
 
 	**Cite**:
 
@@ -35911,9 +36631,9 @@ Les articles 892 et 893 sont applicables devant le tribunal de police.
 
 	  - Ordonnance 96-268 1996-03-28
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°96-268 du 28 mars 1996 - art. 1 () JORF 31 mars 1996 en vigueur le 1er mai 1996
+	  - Ordonnance n°98-729 du 20 août 1998 - art. 2 () JORF 22 août 1998
 
 	**Cite**:
 
@@ -35921,7 +36641,7 @@ Les articles 892 et 893 sont applicables devant le tribunal de police.
 	  - CODE DE PROCEDURE PENALE - art. 893 (M)
 
 
-#### Chapitre VII : Des citations et des significations.
+#### Chapitre VII : Des citations et des significations
 
 ###### Article 897
 
@@ -35934,16 +36654,16 @@ territoriale. Ce délai est augmenté d'un mois si la partie citée réside en t
 
 	  - Ordonnance 96-268 1996-03-28
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°96-268 du 28 mars 1996 - art. 1 () JORF 31 mars 1996 en vigueur le 1er mai 1996
+	  - Ordonnance n°98-729 du 20 août 1998 - art. 2 () JORF 22 août 1998
 
 	**Cite**:
 
 	  - CODE DE PROCEDURE PENALE - art. 552 (M)
 
 
-#### Chapitre VIII : De quelques procédures particulières.
+#### Chapitre VIII : De quelques procédures particulières
 
 ###### Article 898
 
@@ -35956,9 +36676,9 @@ commission mentionnée à l'article 706-4.
 
 	  - Ordonnance 96-268 1996-03-28
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°96-268 du 28 mars 1996 - art. 1 () JORF 31 mars 1996 en vigueur le 1er mai 1996
+	  - Ordonnance n°98-729 du 20 août 1998 - art. 2 () JORF 22 août 1998
 
 	**Cite**:
 
@@ -35998,9 +36718,9 @@ Les sommes allouées sont versées par le fonds de garantie des victimes des act
 
 	  - Ordonnance 96-268 1996-03-28
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°96-268 du 28 mars 1996 - art. 1 () JORF 31 mars 1996 en vigueur le 1er mai 1996
+	  - Ordonnance n°98-729 du 20 août 1998 - art. 2 () JORF 22 août 1998
 
 
 ###### Article 900
@@ -36026,12 +36746,12 @@ relative à l'aide juridictionnelle en matière pénale dans la collectivité te
 
 	  - Ordonnance 96-268 1996-03-28
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°96-268 du 28 mars 1996 - art. 1 () JORF 31 mars 1996 en vigueur le 1er mai 1996
+	  - Ordonnance n°98-729 du 20 août 1998 - art. 2 () JORF 22 août 1998
 
 
-#### Chapitre IX : Des procédures d'exécution.
+#### Chapitre IX : Des procédures d'exécution
 
 ###### Article 901
 
@@ -36045,9 +36765,9 @@ L'article 758 est ainsi rédigé :
 
 	  - Ordonnance 96-268 1996-03-28
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°96-268 du 28 mars 1996 - art. 1 () JORF 31 mars 1996 en vigueur le 1er mai 1996
+	  - Ordonnance n°98-729 du 20 août 1998 - art. 2 () JORF 22 août 1998
 
 	**Cite**:
 
@@ -36068,9 +36788,9 @@ psychologique adapté."
 
 	  - Ordonnance 96-268 1996-03-28
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°98-468 du 17 juin 1998 - art. 42 () JORF 18 juin 1998
+	  - Ordonnance n°98-729 du 20 août 1998 - art. 2 () JORF 22 août 1998
 
 	**Cite**:
 
