@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 1970-06-20
+Version Consolidée au 1970-07-19
 
 # Partie législative
 
@@ -2746,6 +2746,71 @@ Elle examine s'il existe contre l'inculpé des charges suffisantes.
 	  - CODE DE PROCEDURE PENALE - art. 706-127 (V)
 
 
+###### Article 213
+
+Si la chambre de l'instruction estime que les faits constituent un délit ou une contravention, elle prononce le renvoi de
+l'affaire, dans le premier cas devant le tribunal correctionnel, dans le second cas devant le tribunal de police.
+
+Le prévenu détenu est immédiatement remis en liberté et le contrôle judiciaire prend fin. Toutefois, la chambre de
+l'instruction peut faire application, par un arrêt spécialement motivé, des dispositions prévues aux troisième et quatrième
+alinéas de l'article 179.
+
+En cas de renvoi devant le tribunal de police, le prévenu détenu est immédiatement remis en liberté ; le contrôle judiciaire
+prend fin.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°57-1426 1957-12-31
+
+	**Modifié par**:
+
+	  - Ordonnance n°58-1296 du 23 décembre 1958 - art. 1 () JORF 24 décembre 1958
+	  - Loi n°70-643 du 17 juillet 1970 - art. 6 () JORF 19 juillet 1970
+
+	**Cité par**:
+
+	  - Code de procédure pénale - art. 142-12 (V)
+	  - Code de procédure pénale - art. D150 (V)
+
+	**Cite**:
+
+	  - Code de procédure pénale 179 al. 3 et 4
+
+
+###### Article 215-1
+
+L'accusé qui se trouve en liberté doit se constituer prisonnier au plus tard la veille de l'audience de la cour d'assises.
+Jusqu'à ce qu'il se constitue prisonnier, le contrôle judiciaire continue à produire ses effets.
+
+L'ordonnance de prise de corps est exécutée si, dûment convoqué par la voie administrative au greffe de la cour d'assises et
+sans motif légitime d'excuse, l'accusé ne se présente pas au jour fixé pour être interrogé par le président de la cour
+d'assises. Il en est de même dans le cas prévu à l'article 141-2.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°57-1426 1957-12-31
+
+	**Créé par**:
+
+	  - Loi n°70-643 du 17 juillet 1970 - art. 7 () JORF 19 juillet 1970
+
+	**Abrogé par**:
+
+	  - Loi n°2000-516 du 15 juin 2000 - art. 82 (V) JORF 16 juin 2000 en vigueur le 1er janvier 2001
+
+	**Cité par**:
+
+	  - Loi n°2000-516 du 15 juin 2000 - art. 82 (V)
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. 141-2 (M)
+
+
 #### Chapitre Ier : Du juge d'instruction : juridiction d'instruction du premier degré
 
 ##### Section 2 : De la constitution de la partie civile et de ses effets
@@ -4187,6 +4252,40 @@ Les pièces à conviction sont également transportées au greffe de ce tribunal
 	**Codifié par**:
 
 	  - Ordonnance 58-1296 1958-12-23
+
+
+###### Article 272
+
+Le président de la cour d'assises interroge l'accusé dans le plus bref délai, après l'arrivée de ce dernier à la maison
+d'arrêt et la remise des pièces au greffe.
+
+Si l'accusé est en liberté, il est procédé comme il est dit à l'article 215-1, deuxième alinéa.
+
+Le président peut déléguer un de ses assesseurs afin de procéder à cet interrogatoire.
+
+Il doit être fait appel à un interprète si l'accusé ne parle ou ne comprend pas la langue française.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 58-1296 1958-12-23
+
+	**Modifié par**:
+
+	  - Loi n°70-643 du 17 juillet 1970 - art. 8 () JORF 19 juillet 1970
+
+	**Cité par**:
+
+	  - CODE DE PROCEDURE PENALE - art. R241 (M)
+	  - Code de procédure pénale - art. 276 (V)
+	  - Code de procédure pénale - art. 380-11 (V)
+	  - Code de procédure pénale - art. 706-71 (VD)
+	  - Code de procédure pénale - art. D594 (V)
+
+	**Cite**:
+
+	  - Code de procédure pénale 215-1 al. 2
 
 
 ###### Article 274
@@ -7703,6 +7802,45 @@ Dans ce dernier cas, le président informe les parties présentes du jour où le
 	  - Code de procédure pénale - art. 568 (V)
 
 
+###### Article 463
+
+S'il y a lieu de procéder à un supplément d'information, le tribunal commet par jugement un de ses membres qui dispose des
+pouvoirs prévus aux articles 151 à 155. Dans le cas où la tutelle pénale est encourue, le juge commis procède ou fait
+procéder à tous les actes nécessaires au prononcé de cette mesure et, notamment, à l'enquête et à l'examen médico-
+psychologique prévus à l'article 81 (sixième et septième alinéas).
+
+Ce supplément d'information obéit aux règles édictées par les articles 118 à 121.
+
+Le procureur de la République peut obtenir, au besoin par voie de réquisitions, la communication du dossier de la procédure à
+toute époque du supplément d'information, à charge de rendre les pièces dans les vingt-quatre heures.
+
+**Nota:**
+
+
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 58-1296 1958-12-23
+
+	**Modifié par**:
+
+	  - Loi n°70-643 du 17 juillet 1970 - art. 39 () JORF 19 juillet 1970
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. 81 (M)
+	  - Code de procédure pénale 81, 118 à 121, 151 à 155
+
+	**Cité par**:
+
+	  - Code de procédure pénale - art. 388-5 (V)
+	  - Code de procédure pénale - art. 394 (V)
+	  - Code de procédure pénale - art. 397-2 (MMN)
+	  - Code de procédure pénale - art. 538 (VD)
+
+
 ###### Article 464
 
 Si le tribunal estime que le fait constitue un délit, il prononce la peine.
@@ -7732,6 +7870,32 @@ une provision, exécutoire nonobstant opposition ou appel.
 	  - Code de procédure pénale - art. 469-1 (V)
 	  - Code de procédure pénale - art. 539 (VT)
 	  - Code de procédure pénale - art. D47-6-3 (V)
+
+
+###### Article 464-1
+
+A l'égard du prévenu détenu, le tribunal peut, en tout état de cause, par décision spéciale et motivée, lorsque les éléments
+de l'espèce justifient la prolongation d'une mesure particulière de sûreté, maintenir la détention. Pour l'exécution de cette
+décision, le mandat continue à produire ses effets.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Ordonnance n°45-174 du 2 février 1945 - art. 22 (V)
+	  - CODE DE PROCEDURE PENALE - art. 471 (V)
+	  - CODE DE PROCEDURE PENALE - art. 506 (V)
+	  - Code de procédure pénale - art. 397-3 (V)
+	  - Code de procédure pénale - art. 569 (V)
+	  - Code de procédure pénale - art. D150 (V)
+
+	**Codifié par**:
+
+	  - Ordonnance 58-1296 1958-12-23
+
+	**Créé par**:
+
+	  - Loi n°70-643 du 17 juillet 1970 - art. 10 () JORF 19 juillet 1970
 
 
 ###### Article 466
@@ -8431,6 +8595,36 @@ dans le délai de deux mois à compter du jour du prononcé du jugement.
 	  - Code de procédure pénale - art. 549 (VD)
 	  - Code de procédure pénale - art. 708 (VD)
 	  - Code de procédure pénale - art. D50 (V)
+
+
+###### Article 506
+
+Pendant les délais d'appel et durant l'instance d'appel, il est sursis à l'exécution du jugement, sous réserve des
+dispositions des articles 464 (deuxième et troisième alinéas), 464-1, 471, 507, 508 et 708.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: Ordonnance 58-1273 1958-12-22 art. 18
+	  - SPEC_APPLI: Ordonnance n°58-1296 du 23 décembre 1958 - art. 10, v. init.
+
+	**Codifié par**:
+
+	  - Ordonnance 58-1296 1958-12-23
+
+	**Modifié par**:
+
+	  - Loi n°70-643 du 17 juillet 1970 - art. 14 () JORF 19 juillet 1970
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. 464-1 (V)
+	  - CODE DE PROCEDURE PENALE - art. 471 (M)
+	  - CODE DE PROCEDURE PENALE - art. 507 (V)
+	  - CODE DE PROCEDURE PENALE - art. 508 (V)
+	  - CODE DE PROCEDURE PENALE - art. 708 (M)
+	  - Code de procédure pénale 464 al. 2 et 3, 464-1, 471, 507, 508, 708
 
 
 ###### Article 507
@@ -9561,6 +9755,43 @@ qui suit la signification.
 	  - Code de procédure pénale 410, 411 al. 1 et al. 4, 462 al. 2
 
 
+###### Article 569
+
+Pendant les délais du recours en cassation et, s'il y a eu recours, jusqu'au prononcé de l'arrêt de la Cour de cassation, il
+est sursis à l'exécution de l'arrêt de la cour d'appel, sauf en ce qui concerne les condamnations civiles, et à moins que la
+cour d'appel ne confirme le mandat décerné par le tribunal en application de l'article 464-1 ou de l'article 465, premier
+alinéa, ou ne décerne elle-même mandat sous les mêmes conditions et selon les mêmes règles.
+
+Le contrôle judiciaire prend fin, sauf si la cour d'appel en décide autrement, lorsqu'elle prononce une condamnation à
+l'emprisonnement sans sursis ou assorti du sursis avec mise à l'épreuve.
+
+En cas d'acquittement, d'absolution ou de condamnation soit à l'emprisonnement assorti du sursis simple ou du sursis avec
+mise à l'épreuve, soit à l'amende, le prévenu détenu est, nonobstant pourvoi, mis en liberté immédiatement après l'arrêt.
+
+Il en est de même en cas de condamnation à une peine d'emprisonnement, lorsque la détention provisoire a été ordonnée ou
+maintenue dans les conditions prévues par l'alinéa Ier aussitôt que la durée de la détention aura atteint celle de la peine
+prononcée.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 58-1296 1958-12-23
+
+	**Modifié par**:
+
+	  - Loi n°70-643 du 17 juillet 1970 - art. 15 () JORF 19 juillet 1970
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. 464-1 (V)
+	  - Code de procédure pénale 464-1, 465 al. 1
+
+	**Cité par**:
+
+	  - Code de procédure pénale - art. D150 (V)
+
+
 ###### Article 570
 
 Lorsque le tribunal ou la cour d'appel statue par jugement ou arrêt distinct de l'arrêt sur le fond, le pourvoi en cassation
@@ -9705,6 +9936,43 @@ qu'il présente des dispositions définitives que le tribunal, saisi de la prév
 	**Cité par**:
 
 	  - CODE DE PROCEDURE PENALE - art. 684 (Ab)
+
+
+###### Article 575
+
+La partie civile ne peut se pourvoir en cassation contre les arrêts de la chambre de l'instruction que s'il y a pourvoi du
+ministère public. 
+
+Toutefois, son seul pourvoi est recevable dans les cas suivants :
+
+1° Lorsque l'arrêt de la chambre de l'instruction a dit n'y avoir lieu à informer ; 
+
+2° Lorsque l'arrêt a déclaré l'irrecevabilité de l'action de la partie civile ; 
+
+3° Lorsque l'arrêt a admis une exception mettant fin à l'action publique ; 
+
+4° Lorsque l'arrêt a, d'office ou sur déclinatoire des parties, prononcé l'incompétence de la juridiction saisie ; 
+
+5° Lorsque l'arrêt a omis de statuer sur un chef d'inculpation. 
+
+6° Lorsque l'arrêt ne satisfait pas, en la forme, aux conditions essentielles de son existence légale ; 
+
+7° En matière d'atteintes aux droits individuels telles que définies aux articles 114 à 122 et 341 à 344 du code pénal.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 58-1296 1958-12-23
+
+	**Modifié par**:
+
+	  - Ordonnance 60-529 1960-06-04 art. 2 JORF 8 juin 1960
+	  - Loi n°70-643 du 17 juillet 1970 - art. 18 () JORF 19 juillet 1970
+
+	**Cite**:
+
+	  - Code pénal 114 à 122, 341 à 344
 
 
 #### Chapitre II : Des formes du pourvoi
@@ -12505,6 +12773,41 @@ accordées aux inculpés, prévenus et accusés pour l'exercice de leur défense
 
 #### Chapitre II : De l'exécution des peines privatives de liberté
 
+###### Article 717
+
+Les condamnés à la réclusion criminelle à perpétuité ou à temps purgent leur peine dans une maison centrale. Il en est de
+même des condamnés à l'emprisonnement auxquels il reste à subir une peine d'une durée supérieure à un an, ou plusieurs peines
+dont le total est supérieur à un an, après le moment où leur condamnation, ou la dernière de leurs condamnations, est devenue
+définitive.
+
+Les autres condamnés à l'emprisonnement correctionnel sont détenus dans une maison de correction.
+
+Les condamnés à l'emprisonnement de police sont incarcérés dans un quartier distinct de la maison d'arrêt.
+
+Un même établissement peut servir à la fois de maison d'arrêt et de maison de correction.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 58-1296 1958-12-23
+
+	**Modifié par**:
+
+	  - Loi n°70-643 du 17 juillet 1970 - art. 24 () JORF 19 juillet 1970
+
+	**Cité par**:
+
+	  - Loi n°83-520 du 27 juin 1983 - art. 58 (V)
+	  - Arrêté du 6 octobre 2009 (V)
+	  - Décret n°2014-1279 du 23 octobre 2014 - art. (VD)
+	  - CODE DE PROCEDURE PENALE - art. D488 (Ab)
+	  - CODE DE PROCEDURE PENALE - art. D72 (M)
+	  - Code de procédure pénale - art. 877 (MMN)
+	  - Code de procédure pénale - art. D70 (V)
+	  - Code de procédure pénale - art. D73 (Ab)
+
+
 ###### Article 718
 
 La répartition des condamnés dans les prisons établies pour peines s'effectue compte tenu de leur catégorie pénale, de leur
@@ -12584,6 +12887,53 @@ encombrement temporaire ou des nécessités d'organisation du travail.
 
 #### Chapitre III : Des dispositions communes aux différents établissements pénitentiaires
 
+###### Article 724
+
+Les établissements pénitentiaires reçoivent les personnes en détention provisoire ou condamnées à une peine privative de
+liberté.
+
+Un acte d'écrou est dressé pour toute personne qui est conduite dans un établissement pénitentiaire ou qui s'y présente
+librement.
+
+Les conditions d'application du présent article sont fixées par décret.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 58-1296 1958-12-23
+
+	**Modifié par**:
+
+	  - Loi n°70-643 du 17 juillet 1970 - art. 28 () JORF 19 juillet 1970
+
+	**Cité par**:
+
+	  - Code de procédure pénale - art. 725 (V)
+
+
+###### Article 725
+
+Nul agent de l'administration pénitentiaire ne peut, à peine d'être poursuivi et puni comme coupable de détention arbitraire,
+recevoir ni retenir aucune personne qu'en vertu d'un arrêt ou jugement de condamnation, d'une ordonnance de prise de corps,
+d'un mandat de dépôt ou d'arrêt, d'un mandat d'amener lorsque ce mandat doit être suivi d'incarcération provisoire, ou d'un
+ordre d'arrestation établi conformément à la loi, et sans qu'ait été donné l'acte d'écrou prévu à l'article 724.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 58-1296 1958-12-23
+
+	**Modifié par**:
+
+	  - Loi n°70-643 du 17 juillet 1970 - art. 28 () JORF 19 juillet 1970
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. 724 (V)
+
+
 ###### Article 726
 
 Si quelque détenu use de menaces, injures ou violences ou commet une infraction à la discipline, il peut être enfermé seul
@@ -12635,6 +12985,515 @@ leur reclassement social.
 	  - Décret n°2010-1635 du 23 décembre 2010 - art. 48 (V)
 	  - CODE DE PROCEDURE PENALE - art. R57-9-2 (V)
 	  - Code de procédure pénale - art. D189 (Ab)
+
+
+### Titre IV : Du sursis
+
+###### Article 734
+
+Le tribunal ou la cour qui prononce une condamnation à l'emprisonnement ou à l'amende peut, dans les cas et selon les
+conditions prévues ci-après, ordonner qu'il sera sursis à l'exécution de cette peine.
+
+Le sursis peut être simple ou être assorti du placement du condamné sous le régime de la mise à l'épreuve.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 58-1296 1958-12-23
+
+	**Modifié par**:
+
+	  - Loi n°70-643 du 17 juillet 1970 - art. 29 () JORF 19 juillet 1970
+
+	**Cité par**:
+
+	  - Code de justice militaire - art. 369 (M)
+	  - Code de l'environnement - art. L428-12 (V)
+	  - Code général des impôts, CGI. - art. 1801 (V)
+	  - Code rural - art. L228-19 (Ab)
+	  - Décret-loi du 30 octobre 1935 - art. 68 (M)
+
+
+#### Chapitre Ier : Du sursis simple
+
+###### Article 736
+
+La suspension de la peine ne s'étend pas au paiement des frais du procès et des dommages-intérêts.
+
+Elle ne s'étend pas non plus aux peines accessoires et aux incapacités résultant de la condamnation.
+
+Toutefois, les peines accessoires et les incapacités cesseront d'avoir effet du jour où, par application des dispositions de
+l'article 735, la condamnation aura été réputée non avenue.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 58-1296 1958-12-23
+
+	**Modifié par**:
+
+	  - Loi n°70-643 du 17 juillet 1970 - art. 29 () JORF 19 juillet 1970
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. 735 (M)
+
+
+#### Chapitre II : Du sursis avec mise à l'épreuve
+
+###### Article 739
+
+Lorsqu'une condamnation est assortie du sursis avec mise à l'épreuve, le condamné est placé sous le contrôle du juge de
+l'application des peines dans le ressort duquel il a sa résidence habituelle ou, s'il n'a pas en France de résidence
+habituelle, sous le contrôle du juge de l'application des peines dans le ressort duquel la juridiction qui a prononcé la
+condamnation a son siège.
+
+Au cours du délai d'épreuve, le condamné doit satisfaire à l'ensemble des mesures de surveillance et d'assistance qui sont
+prévues par un décret en Conseil d'Etat et à celles des obligations particulières, également prévues par ce décret en Conseil
+d'Etat, qui lui sont spécialement imposées soit par la décision de condamnation, soit par une décision que peut, à tout
+moment, prendre le juge de l'application des peines.
+
+Lorsqu'une obligation particulière est ordonnée par le juge de l'application des peines, cette décision est exécutoire par
+provision. Toutefois, elle peut être soumise par le condamné, dans le délai d'un mois à compter de la notification qui lui en
+est faite, à l'examen du tribunal correctionnel qui peut la valider, la rapporter ou la modifier. Si le tribunal impose une
+obligation différente de celle qu'avait prévue le juge de l'application des peines, sa décision se substitue à celle du juge
+de l'application des peines à compter du jour où elle est notifiée à l'intéressé.
+
+Le juge de l'application des peines peut, en outre, à tout moment, par une décision immédiatement exécutoire, aménager ou
+supprimer les obligations particulières auxquelles a été soumis le condamné.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 58-1296 1958-12-23
+
+	**Modifié par**:
+
+	  - Loi n°70-643 du 17 juillet 1970 - art. 29 () JORF 19 juillet 1970
+
+	**Cité par**:
+
+	  - Loi n°92-1336 du 16 décembre 1992 - art. 337 (V)
+	  - CODE DE PROCEDURE PENALE - art. 741-2 (Ab)
+	  - CODE DE PROCEDURE PENALE - art. 742 (M)
+	  - CODE DE PROCEDURE PENALE - art. 743 (M)
+	  - CODE DE PROCEDURE PENALE - art. 744 (M)
+	  - CODE DE PROCEDURE PENALE - art. 745 (Ab)
+	  - CODE DE PROCEDURE PENALE - art. 762-4 (M)
+	  - CODE DE PROCEDURE PENALE - art. 763-3 (M)
+	  - Code de justice militaire - art. 369 (Ab)
+	  - Code de justice militaire. - art. L265-1 (VD)
+
+	**Liens**:
+
+	  - TXT_SOURCE: CODE DE PROCEDURE PENALE - art. R51 (Ab)
+	  - TXT_SOURCE: CODE DE PROCEDURE PENALE - art. R52 (Ab)
+	  - TXT_SOURCE: CODE DE PROCEDURE PENALE - art. R53 (M)
+	  - TXT_SOURCE: CODE DE PROCEDURE PENALE - art. R54 (Ab)
+	  - TXT_SOURCE: CODE DE PROCEDURE PENALE - art. R55 (Ab)
+	  - TXT_SOURCE: CODE DE PROCEDURE PENALE - art. R56 (Ab)
+	  - TXT_SOURCE: CODE DE PROCEDURE PENALE - art. R57 (Ab)
+	  - TXT_SOURCE: CODE DE PROCEDURE PENALE - art. R58 (Ab)
+	  - TXT_SOURCE: CODE DE PROCEDURE PENALE - art. R59 (Ab)
+	  - TXT_SOURCE: CODE DE PROCEDURE PENALE - art. R60 (V)
+	  - TXT_SOURCE: CODE DE PROCEDURE PENALE - art. R61 (M)
+
+
+###### Article 740
+
+Au cours du délai d'épreuve, le juge de l'application des peines sous le contrôle de qui le condamné est placé s'assure, soit
+par lui-même, soit par toute personne qualifiée, de l'exécution des mesures de surveillance et d'assistance et des
+obligations imposées à ce condamné.
+
+Si les actes nécessaires à cette fin doivent être effectués hors des limites de son ressort, il charge d'y procéder ou d'y
+faire procéder le juge de l'application des peines territorialement compétent.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 58-1296 1958-12-23
+
+	**Modifié par**:
+
+	  - Loi n°70-643 du 17 juillet 1970 - art. 29 () JORF 19 juillet 1970
+
+	**Cité par**:
+
+	  - CODE DE PROCEDURE PENALE - art. 469-4 (Ab)
+	  - CODE DE PROCEDURE PENALE - art. 747-4 (M)
+	  - CODE DE PROCEDURE PENALE - art. 763-1 (V)
+	  - Code de procédure pénale - art. R289 (V)
+
+
+###### Article 741
+
+Le condamné est tenu de se présenter, chaque fois qu'il en est requis, devant le juge de l'application des peines sous le
+contrôle duquel il est placé.
+
+Lorsque le condamné ne défère pas à sa réquisition, le magistrat peut, si le condamné se trouve dans son ressort, ordonner
+qu'il sera conduit devant lui par la force publique pour être entendu sans délai. Si le condamné ne se trouve pas dans son
+ressort, le même magistrat peut demander au juge de l'application des peines dans le ressort duquel se trouve ce condamné de
+se le faire présenter par la force publique et de procéder à son audition.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 58-1296 1958-12-23
+
+	**Modifié par**:
+
+	  - Loi n°70-643 du 17 juillet 1970 - art. 29 () JORF 19 juillet 1970
+
+	**Cité par**:
+
+	  - CODE DE PROCEDURE PENALE - art. 469-4 (Ab)
+	  - CODE DE PROCEDURE PENALE - art. 747-3 (V)
+	  - CODE DE PROCEDURE PENALE - art. 762-2 (M)
+	  - CODE DE PROCEDURE PENALE - art. D571-3 (V)
+
+
+###### Article 741-1
+
+Si le condamné est en fuite, le juge de l'application des peines peut décerner un ordre de recherche. Le condamné qui fait
+l'objet de cet ordre est conduit devant le juge de l'application des peines du lieu où il est trouvé ou, si ce magistrat ne
+peut procéder immédiatement à son audition, devant le procureur de la République. Lorsque le condamné n'a pas été conduit
+devant le juge de l'application des peines qui a lui-même ordonné les recherches, un procès-verbal de ses déclarations est
+transmis sans délai à ce magistrat.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 58-1296 1958-12-23
+
+	**Créé par**:
+
+	  - Loi n°70-643 du 17 juillet 1970 - art. 29 () JORF 19 juillet 1970
+
+	**Cité par**:
+
+	  - CODE DE PROCEDURE PENALE - art. 469-4 (Ab)
+	  - CODE DE PROCEDURE PENALE - art. 762-2 (M)
+	  - Code de procédure pénale - art. D545 (V)
+
+
+###### Article 741-2
+
+Lorsque le condamné ne se soumet pas aux mesures de surveillance ou aux obligations particulières imposées en application de
+l'article 739, le juge de l'application des peines, après l'avoir entendu ou fait entendre, peut décider, par ordonnance
+motivée rendue sur les réquisitions du ministère public, que le condamné sera provisoirement incarcéré dans l'établissement
+pénitentiaire le plus proche.
+
+Cette décision peut être prise sur délégation par le juge de l'application des peines dans le ressort duquel le condamné est
+trouvé.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 58-1296 1958-12-23
+
+	**Créé par**:
+
+	  - Loi n°70-643 du 17 juillet 1970 - art. 29 () JORF 19 juillet 1970
+
+	**Cité par**:
+
+	  - CODE DE PROCEDURE PENALE - art. 469-4 (Ab)
+	  - CODE DE PROCEDURE PENALE - art. 716-4 (M)
+	  - CODE DE PROCEDURE PENALE - art. 741-3 (Ab)
+	  - CODE DE PROCEDURE PENALE - art. 744 (M)
+	  - CODE DE PROCEDURE PENALE - art. D514 (M)
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. 739 (M)
+
+
+###### Article 741-3
+
+Les mesures prévues à l'article 741-2 impliquent saisine du tribunal correctionnel pour qu'il soit statué sur l'application
+des dispositions de l'article 742.
+
+L'affaire doit venir à la première audience ou au plus tard dans les cinq jours de l'écrou, faute de quoi le condamné doit
+être mis en liberté d'office. S'il y a lieu à remise, le tribunal doit statuer par décision motivée sur le maintien en
+détention du condamné.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 58-1296 1958-12-23
+
+	**Créé par**:
+
+	  - Loi n°70-643 du 17 juillet 1970 - art. 29 () JORF 19 juillet 1970
+
+	**Cité par**:
+
+	  - CODE DE PROCEDURE PENALE - art. 716-4 (M)
+	  - CODE DE PROCEDURE PENALE - art. 744 (M)
+	  - CODE DE PROCEDURE PENALE - art. 747-3 (M)
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. 741-2 (M)
+	  - CODE DE PROCEDURE PENALE - art. 742 (M)
+
+
+###### Article 742-1
+
+Lorsque le tribunal correctionnel prolonge le délai d'épreuve, ce délai ne peut au total être supérieur à cinq années. Le
+tribunal peut, en outre, par décision spéciale et motivée, ordonner l'exécution provisoire de cette mesure.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 58-1296 1958-12-23
+
+	**Créé par**:
+
+	  - Loi n°70-643 du 17 juillet 1970 - art. 29 () JORF 19 juillet 1970
+
+	**Cité par**:
+
+	  - CODE DE PROCEDURE PENALE - art. 747-1 (M)
+	  - CODE DE PROCEDURE PENALE - art. 747-3 (M)
+
+
+###### Article 742-2
+
+L'exécution partielle de la peine ne peut être ordonnée qu'une fois et pour une durée qui ne peut dépasser deux mois. La
+décision ordonnant cette exécution partielle ne met pas fin au régime de la mise à l'épreuve et n'attache pas à la
+condamnation les effets d'une condamnation sans sursis.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 58-1296 1958-12-23
+
+	**Créé par**:
+
+	  - Loi n°70-643 du 17 juillet 1970 - art. 29 () JORF 19 juillet 1970
+
+	**Abrogé par**:
+
+	  - Loi n°92-1336 du 16 décembre 1992 - art. 103 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
+
+
+###### Article 742-3
+
+Si le tribunal correctionnel ordonne l'exécution de la totalité de la peine et si le sursis avec mise à l'épreuve a été
+accordé après une première condamnation déjà prononcée sous le même bénéfice, la première peine est d'abord exécutée à moins
+que le tribunal, par décision spéciale et motivée, ne dispense le condamné de tout ou partie de son exécution.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 58-1296 1958-12-23
+
+	**Créé par**:
+
+	  - Loi n°70-643 du 17 juillet 1970 - art. 29 () JORF 19 juillet 1970
+
+	**Abrogé par**:
+
+	  - Loi n°92-1336 du 16 décembre 1992 - art. 103 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
+
+
+###### Article 742-4
+
+Lorsque le tribunal correctionnel ordonne l'exécution de la peine en totalité ou en partie, il peut, par décision spéciale et
+motivée, faire incarcérer le condamné.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 58-1296 1958-12-23
+
+	**Créé par**:
+
+	  - Loi n°70-643 du 17 juillet 1970 - art. 29 () JORF 19 juillet 1970
+
+	**Abrogé par**:
+
+	  - Loi n°92-1336 du 16 décembre 1992 - art. 103 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
+
+	**Cité par**:
+
+	  - CODE DE PROCEDURE PENALE - art. 744-1 (M)
+	  - CODE DE PROCEDURE PENALE - art. 744-3 (Ab)
+
+
+###### Article 743
+
+Si le condamné satisfait aux mesures d'assistance et de surveillance et aux obligations particulières imposées en application
+de l'article 739 et si son reclassement paraît acquis, le tribunal correctionnel peut déclarer non avenue la condamnation
+prononcée à son encontre.
+
+Le tribunal ne peut être saisi à cette fin avant l'expiration d'un délai de deux ans à dater du jour où la condamnation est
+devenue définitive.
+
+La décision du tribunal peut être frappée d'appel par le ministère public et par le condamné.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 58-1296 1958-12-23
+
+	**Modifié par**:
+
+	  - Loi n°70-643 du 17 juillet 1970 - art. 29 () JORF 19 juillet 1970
+
+	**Cité par**:
+
+	  - Loi n°88-828 du 20 juillet 1988 - art. 7 (V)
+	  - Loi n°95-884 du 3 août 1995 - art. 7 (V)
+	  - CODE DE PROCEDURE PENALE - art. 744 (M)
+	  - CODE DE PROCEDURE PENALE - art. 745-1 (Ab)
+	  - CODE DE PROCEDURE PENALE - art. 747-1 (M)
+	  - CODE DE PROCEDURE PENALE - art. 747-3 (M)
+	  - Code de procédure pénale - art. 746 (VD)
+	  - Code pénal - art. 132-53 (M)
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. 739 (M)
+
+
+###### Article 744
+
+Le tribunal correctionnel compétent pour statuer dans les cas prévus par les articles 739, troisième alinéa, 741-3, 742 et
+743 est celui dans le ressort duquel le condamné a sa résidence habituelle ou, si le condamné n'a pas en France de résidence
+habituelle, celui dans le ressort duquel la juridiction qui a prononcé la condamnation a son siège. Toutefois, s'il a été
+fait application des dispositions de l'article 741-2, le tribunal compétent pour prendre les mesures prévues à l'article 742
+est celui dans le ressort duquel le condamné a été trouvé.
+
+Le tribunal correctionnel est saisi soit par le juge de l'application des peines, soit par le procureur de la République. Il
+peut également être saisi par la requête du condamné demandant le bénéfice des dispositions de l'article 743.
+
+Le condamné est cité à la requête du ministère public dans les conditions prévues par les articles 550 à 566. Il peut
+également comparaître dans les conditions prévues par l'article 389, premier et troisième alinéas.
+
+Le tribunal statue en chambre du conseil. Lorsque le juge de l'application des peines ne participe pas à la décision, le
+tribunal statue sur son rapport écrit.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 58-1296 1958-12-23
+
+	**Modifié par**:
+
+	  - Loi n°70-643 du 17 juillet 1970 - art. 29 () JORF 19 juillet 1970
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. 739 (M)
+	  - CODE DE PROCEDURE PENALE - art. 741-2 (M)
+	  - CODE DE PROCEDURE PENALE - art. 741-3 (M)
+	  - CODE DE PROCEDURE PENALE - art. 742 (M)
+	  - CODE DE PROCEDURE PENALE - art. 743 (M)
+	  - Code de procédure pénale 739, 741-3, 742, 743, 741-2, 550 à 566, 389 al. 1 et al. 3
+
+	**Cité par**:
+
+	  - CODE DE PROCEDURE PENALE - art. 747-3 (M)
+	  - Code pénal - art. 132-53 (V)
+
+
+###### Article 744-1
+
+Les décisions rendues en application des articles qui précèdent sont susceptibles d'opposition, d'appel ou de pourvoi en
+cassation dans les conditions prévues aux livres II et III du présent code.
+
+Toutefois, la décision prise par le tribunal en application de l'article 742-4 produit effet nonobstant opposition, appel ou
+pourvoi en cassation.
+
+En cas d'opposition, l'affaire doit venir devant le tribunal à la première audience ou, au plus tard, dans la huitaine du
+jour de l'opposition, faute de quoi le condamné doit être remis en liberté d'office. S'il y a lieu à remise, la juridiction
+doit statuer d'office par une décision motivée sur le maintien ou la levée de l'écrou.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 58-1296 1958-12-23
+
+	**Créé par**:
+
+	  - Loi n°70-643 du 17 juillet 1970 - art. 29 () JORF 19 juillet 1970
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. 742-4 (Ab)
+	  - Code de procédure pénale 742-4, 739 à 744
+
+	**Cité par**:
+
+	  - CODE DE PROCEDURE PENALE - art. 744-3 (Ab)
+
+
+###### Article 745-1
+
+Si le sursis avec mise à l'épreuve a été accordé après une première condamnation déjà prononcée sous le même bénéfice, cette
+première condamnation est comme non avenue si la seconde vient elle-même à être déclarée ou réputée non avenue dans les
+conditions et délais prévus aux articles 743 ou 745.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 58-1296 1958-12-23
+
+	**Créé par**:
+
+	  - Loi n°70-643 du 17 juillet 1970 - art. 29 () JORF 19 juillet 1970
+
+	**Abrogé par**:
+
+	  - Loi n°92-1336 du 16 décembre 1992 - art. 106 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. 743 (M)
+	  - CODE DE PROCEDURE PENALE - art. 745 (Ab)
+
+
+###### Article 746
+
+La suspension de la peine ne s'étend pas au paiement des frais du procès et des dommages-intérêts.
+
+Elle ne s'étend pas non plus aux peines accessoires et aux incapacités résultant de la condamnation.
+
+Toutefois, les peines accessoires et les incapacités cesseront d'avoir effet du jour où, par application des dispositions des
+articles 743 et 745, la condamnation aura été déclarée ou réputée non avenue.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 58-1296 1958-12-23
+
+	**Modifié par**:
+
+	  - Loi n°70-643 du 17 juillet 1970 - art. 29 () JORF 19 juillet 1970
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. 743 (M)
+	  - CODE DE PROCEDURE PENALE - art. 745 (Ab)
 
 
 ### Titre V : De la reconnaissance de l'identité des individus condamnés
@@ -12973,6 +13832,48 @@ police, et devenus irrévocables, se prescrivent d'après les règles établies 
 
 ### Titre VIII : Du casier judiciaire
 
+###### Article 770
+
+Lorsque, à la suite d'une décision prise à l'égard d'un mineur de dix-huit ans, la rééducation de ce mineur apparaît comme
+acquise, le tribunal pour enfants peut, après l'expiration d'un délai de trois ans à compter de ladite décision et même si le
+mineur a atteint sa majorité, décider, à sa requête, à celle du ministère public ou d'office, la suppression du casier
+judiciaire de la fiche concernant la décision dont il s'agit. 
+
+Le tribunal pour enfants statue en dernier ressort. Lorsque la suppression de la fiche a été prononcée, la mention de la
+décision initiale ne doit plus figurer au casier judiciaire du mineur. La fiche afférente à ladite décision est détruite. 
+
+Le tribunal de la poursuite initiale, celui du lieu du domicile actuel du mineur et celui du lieu de sa naissance sont
+compétents pour connaître de la requête. 
+
+La suppression de la fiche relative à une condamnation prononcée pour des faits commis par une personne âgée de dix-huit à
+vingt et un ans peut également, si le reclassement du condamné paraît acquis, être prononcée à l'expiration d'un délai de
+trois ans à compter de la condamnation. Cette suppression ne peut cependant intervenir qu'après que les peines privatives de
+liberté ont été subies et que les amendes ont été payées et, si des peines complémentaires ont été prononcées pour une durée
+déterminée, après l'expiration de cette durée. 
+
+Dans le cas prévu à l'alinéa qui précède, la suppression du casier judiciaire de la fiche constatant la condamnation est
+demandée par requête, selon les règles de compétence et de procédure fixées par les deuxième et troisième alinéas de
+l'article 778.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 58-1296 1958-12-23
+
+	**Modifié par**:
+
+	  - Loi n°70-643 du 17 juillet 1970 - art. 31 () JORF 19 juillet 1970
+
+	**Cite**:
+
+	  - Code de procédure pénale - art. 778 (V)
+
+	**Cité par**:
+
+	  - Code de procédure pénale - art. R70 (V)
+
+
 ###### Article 772
 
 Il est donné connaissance aux autorités militaires, par l'envoi d'une copie de la fiche du casier judiciaire, des
@@ -13090,6 +13991,27 @@ a sciemment été la cause de l'inscription d'une condamnation sur le casier jud
 
 
 ### Titre IX : De la réhabilitation des condamnés
+
+###### Article 782
+
+Toute personne condamnée par un tribunal français à une peine criminelle, correctionnelle ou contraventionnelle peut être
+réhabilitée.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 58-1296 1958-12-23
+
+	**Modifié par**:
+
+	  - Loi n°70-643 du 17 juillet 1970 - art. 32 () JORF 19 juillet 1970
+
+	**Cité par**:
+
+	  - Code des transports - art. R3113-30 (VD)
+	  - Code des transports - art. R3211-31 (VD)
+
 
 ###### Article 783
 
@@ -13297,6 +14219,25 @@ renouvelée dès l'expiration de ces délais.
 
 	  - CODE DE PROCEDURE PENALE - art. 798-1 (T)
 	  - Code de procédure pénale - art. 799 (V)
+
+
+###### Article 799
+
+La réhabilitation efface la condamnation, nul ne peut en faire état.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 58-1296 1958-12-23
+
+	**Modifié par**:
+
+	  - Loi n°70-643 du 17 juillet 1970 - art. 32 () JORF 19 juillet 1970
+
+	**Abrogé par**:
+
+	  - Loi n°92-1336 du 16 décembre 1992 - art. 131 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
 
 
 ### Titre X : Des frais de justice
