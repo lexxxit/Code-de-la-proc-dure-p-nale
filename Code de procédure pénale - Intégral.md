@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 1978-01-09
+Version Consolidée au 1978-01-24
 
 # Partie législative
 
@@ -20881,6 +20881,30 @@ Les bulletins n° 2 du casier judiciaire sont délivrés gratuitement.
 	  - TXT_SOURCE: Code de procédure pénale 776 (3°), 779
 
 
+###### Article R87
+
+Les bulletins n° 3 du casier judiciaire sont délivrés gratuitement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-318 1959-02-23
+
+	**Créé par**:
+
+	  - Décret n°59-318 1959-02-23 JORF 25 février 1959 en vigueur le 2 mars 1959 rectificatif JORF 13 juin 1959
+
+	**Liens**:
+
+	  - TXT_SOURCE: CODE DE PROCEDURE PENALE - art. 779 (M)
+	  - TXT_SOURCE: Code de procédure pénale 776 (3°), 779
+
+	**Modifié par**:
+
+	  - Décret n°78-62 1970-01-20 art. 9 JORF 24 janvier 1978
+
+
 ###### Article R90
 
 Les fiches du casier judiciaire, les copies de ces fiches destinées à l'échange international ou au recrutement de l'armée
@@ -22190,33 +22214,6 @@ de la vente par privilège et de préférence à tous autres.
 
 ##### A : Dispositions générales
 
-###### Article R150
-
-[Article abrogé].
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°59-318 1959-02-23
-
-	**Créé par**:
-
-	  - Décret n°59-318 1959-02-23 JORF 25 février 1959 en vigueur le 2 mars 1959 rectificatif JORF 13 juin 1959
-
-	**Abrogé par**:
-
-	  - Décret n°78-62 1978-01-20 art. 11 1° JORF 24 janvier 1978
-
-	**Liens**:
-
-	  - TXT_SOURCE: CODE DE PROCEDURE PENALE - art. 800 (M)
-
-	**Cité par**:
-
-	  - CODE DE PROCEDURE PENALE - art. R92 (M)
-
-
 ###### Article R151
 
 [Article abrogé].
@@ -22234,29 +22231,6 @@ de la vente par privilège et de préférence à tous autres.
 	**Abrogé par**:
 
 	  - Décret n°67-903 1967-10-12 art. 4 JORF 17 octobre 1967
-
-	**Liens**:
-
-	  - TXT_SOURCE: CODE DE PROCEDURE PENALE - art. 800 (M)
-
-
-###### Article R153
-
-[Article abrogé].
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°59-318 1959-02-23
-
-	**Créé par**:
-
-	  - Décret n°59-318 1959-02-23 JORF 25 février 1959 en vigueur le 2 mars 1959 rectificatif JORF 13 juin 1959
-
-	**Abrogé par**:
-
-	  - Décret n°78-62 1978-01-20 art. 11 1° JORF 24 janvier 1978
 
 	**Liens**:
 
@@ -22518,83 +22492,6 @@ NOTA : La loi 81-82 du 2 février 1981 art. 70 a supprimé la tutelle pénale.
 
 	  - CODE DE PROCEDURE PENALE - art. 583 (M)
 	  - Loi n°1970-07-17
-
-
-##### C : Droits forfaitaires
-
-###### Article R168
-
-[Article abrogé].
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°59-318 1959-02-23
-
-	**Créé par**:
-
-	  - Décret n°59-318 1959-02-23 JORF 25 février 1959 en vigueur le 2 mars 1959 rectificatif JORF 13 juin 1959
-
-	**Cité par**:
-
-	  - Décret n°67-902 du 12 octobre 1967 - art. 29 (Ab)
-
-	**Abrogé par**:
-
-	  - Décret n°78-62 1978-01-20 art. 11 1° JORF 24 janvier 1978
-
-	**Liens**:
-
-	  - TXT_SOURCE: CODE DE PROCEDURE PENALE - art. 800 (M)
-
-
-##### D : Droits fixes
-
-###### Article R169
-
-[Article abrogé].
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°59-318 1959-02-23
-
-	**Créé par**:
-
-	  - Décret n°59-318 1959-02-23 JORF 25 février 1959 en vigueur le 2 mars 1959 rectificatif JORF 13 juin 1959
-
-	**Abrogé par**:
-
-	  - Décret n°78-62 1978-01-20 art. 11 1° JORF 24 janvier 1978
-
-	**Liens**:
-
-	  - TXT_SOURCE: CODE DE PROCEDURE PENALE - art. 800 (M)
-
-
-###### Article R170
-
-[article abrogé].
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°59-318 1959-02-23
-
-	**Créé par**:
-
-	  - Décret n°59-318 1959-02-23 JORF 25 février 1959 en vigueur le 2 mars 1959 rectificatif JORF 13 juin 1959
-
-	**Abrogé par**:
-
-	  - Décret n°78-62 1978-01-20 art. 11 1° JORF 24 janvier 1978
-
-	**Liens**:
-
-	  - TXT_SOURCE: CODE DE PROCEDURE PENALE - art. 800 (M)
 
 
 ##### E : Indemnités
@@ -23417,60 +23314,6 @@ leurs veuves et à leurs orphelins, jusqu'à l'âge de douze ans.
 	  - Décret n°88-600 du 6 mai 1988 - art. 20 (V) JORF 8 mai 1988 en vigueur le 1er octobre 1988
 
 
-##### Section 11 : Des frais et droits en matière d'ordonnance pénale
-
-###### Article R213-1
-
-[Article abrogé].
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°59-318 1959-02-23
-
-	**Créé par**:
-
-	  - Décret n°59-318 1959-02-23 JORF 25 février 1959 en vigueur le 2 mars 1959 rectificatif JORF 13 juin 1959
-
-	**Abrogé par**:
-
-	  - Décret n°78-62 1978-01-20 art. 11 1° JORF 24 janvier 1978
-
-	**Cité par**:
-
-	  - Arrêté du 21 août 2013 (V)
-	  - Arrêté du 14 novembre 2016 (V)
-	  - CODE DE PROCEDURE PENALE - art. A43-2 (T)
-	  - CODE DE PROCEDURE PENALE - art. A43-4 (M)
-	  - Code de procédure pénale - art. A43-9 (V)
-	  - Code des postes et des communications électroni... - art. R10-13 (V)
-
-
-###### Article R213-2
-
-(Article abrogé).
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°59-318 1959-02-23
-
-	**Créé par**:
-
-	  - Décret n°59-318 1959-02-23 JORF 25 février 1959 en vigueur le 2 mars 1959 rectificatif JORF 13 juin 1959
-
-	**Abrogé par**:
-
-	  - Décret n°78-62 1978-01-20 art. 11 1° JORF 24 janvier 1978
-
-	**Cité par**:
-
-	  - Arrêté du 14 novembre 2016 (V)
-	  - Code de procédure pénale - art. A43-9 (V)
-
-
 #### Chapitre III : Des dépenses assimilées à celles de l'instruction des procès criminels
 
 ##### Section 1 : Règles générales
@@ -24195,73 +24038,6 @@ délits commis contre leurs domaines publics ou privés.
 	**Abrogé par**:
 
 	  - Décret n°83-455 1983-06-02 art. 2 JORF 8 juin 1983 en vigueur le 1er octobre 1983
-
-
-### Titre X : Des frais de justice A
-
-#### Chapitre II : Tarif des frais
-
-##### Section 5 : Des frais de copie
-
-##### A : Dispositions générales.
-
-###### Article R152
-
-[*Article abrogé*].
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°59-318 1959-02-23
-
-	**Créé par**:
-
-	  - Décret n°59-318 1959-02-23 JORF 25 février 1959 en vigueur le 2 mars 1959 rectificatif JORF 13 juin 1959
-
-	**Abrogé par**:
-
-	  - Décret n°78-62 1978-01-20 art. 11 1° JORF 24 janvier 1978
-
-	**Liens**:
-
-	  - TXT_SOURCE: CODE DE PROCEDURE PENALE - art. 800 (M)
-
-
-### Titre X : Des frais de justice (1)
-
-#### Chapitre II : Tarif des frais
-
-##### Section 5 : Des frais de copie
-
-##### D : Droits fixes.
-
-###### Article R175
-
-[Article abrogé].
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°59-318 1959-02-23
-
-	**Créé par**:
-
-	  - Décret n°59-318 1959-02-23 JORF 25 février 1959 en vigueur le 2 mars 1959 rectificatif JORF 13 juin 1959
-
-	**Cité par**:
-
-	  - Décret n°67-902 du 12 octobre 1967 - art. 30 (Ab)
-	  - Décret n°67-902 du 12 octobre 1967 - art. 33 (Ab)
-
-	**Abrogé par**:
-
-	  - Décret n°78-62 1978-01-20 art. 11 1° JORF 24 janvier 1978
-
-	**Liens**:
-
-	  - TXT_SOURCE: CODE DE PROCEDURE PENALE - art. 800 (M)
 
 
 ## Dispositions générales
