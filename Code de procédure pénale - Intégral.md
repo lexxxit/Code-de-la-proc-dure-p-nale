@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 1966-09-29
+Version Consolidée au 1967-01-20
 
 # Partie législative
 
@@ -14733,6 +14733,33 @@ Pour le calcul des taux journaliers, les jurés sont assimilés aux fonctionnair
 	  - Code de procédure pénale - art. R413 (Ab)
 
 
+###### Article R143
+
+[Article abrogé].
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-318 1959-02-23
+
+	**Créé par**:
+
+	  - Décret n°59-318 1959-02-23 JORF 25 février 1959 en vigueur le 2 mars 1959 rectificatif JORF 13 juin 1959
+
+	**Modifié par**:
+
+	  - Décret n°67-62 1967-01-14 art. 1 JORF 20 janvier 1967
+
+	**Abrogé par**:
+
+	  - Décret n°72-436 1972-05-29 art. 2 JORF 30 mai 1972
+
+	**Liens**:
+
+	  - TXT_SOURCE: CODE DE PROCEDURE PENALE - art. 800 (M)
+
+
 ##### Section 4 : Des frais de garde des scellés, de mise en fourrière et de l'immobilisation décidée en application de l'article 43-3-3° bis du code pénal
 
 ###### Article R148
@@ -14942,6 +14969,92 @@ ministère public, soit par les défenseurs des prévenus ou accusés, mais seul
 	**Liens**:
 
 	  - SPEC_APPLI: Décret n°59-318 1959-02-23 art. 5
+	  - TXT_SOURCE: CODE DE PROCEDURE PENALE - art. 800 (M)
+
+
+##### a) Droits d'expédition et de copie.
+
+###### Article R161
+
+[Article abrogé].
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-318 1959-02-23
+
+	**Créé par**:
+
+	  - Décret n°59-318 1959-02-23 JORF 25 février 1959 en vigueur le 2 mars 1959 rectificatif JORF 13 juin 1959
+
+	**Modifié par**:
+
+	  - Décret n°60-897 1960-08-24 art. 1 JORF 25 août 1960
+	  - Décret n°67-62 1967-01-14 art. 1 et art. 2 JORF 20 janvier 1967
+
+	**Abrogé par**:
+
+	  - Décret n°67-903 1967-10-12 art. 4 JORF 17 octobre 1967
+
+	**Liens**:
+
+	  - TXT_SOURCE: CODE DE PROCEDURE PENALE - art. 800 (M)
+
+
+###### Article R162
+
+[Article abrogé].
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-318 1959-02-23
+
+	**Créé par**:
+
+	  - Décret n°59-318 1959-02-23 JORF 25 février 1959 en vigueur le 2 mars 1959 rectificatif JORF 13 juin 1959
+
+	**Modifié par**:
+
+	  - Décret n°60-897 1960-08-24 art. 1 JORF 25 août 1960
+	  - Décret n°67-62 1967-01-14 art. 1 et art. 2 JORF 20 janvier 1967
+
+	**Abrogé par**:
+
+	  - Décret n°67-903 1967-10-12 art. 4 JORF 17 octobre 1967
+
+	**Liens**:
+
+	  - TXT_SOURCE: CODE DE PROCEDURE PENALE - art. 800 (M)
+
+
+###### Article R163
+
+[Article abrogé].
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-318 1959-02-23
+
+	**Créé par**:
+
+	  - Décret n°59-318 1959-02-23 JORF 25 février 1959 en vigueur le 2 mars 1959 rectificatif JORF 13 juin 1959
+
+	**Modifié par**:
+
+	  - Décret n°60-897 1960-08-24 art. 1 JORF 25 août 1960
+	  - Décret n°67-62 1967-01-14 art. 1 et art. 2 JORF 20 janvier 1967
+
+	**Abrogé par**:
+
+	  - Décret n°67-903 1967-10-12 art. 4 JORF 17 octobre 1967
+
+	**Liens**:
+
 	  - TXT_SOURCE: CODE DE PROCEDURE PENALE - art. 800 (M)
 
 
@@ -16030,6 +16143,38 @@ Les frais de justice criminelle, correctionnelle et de police, sont payés sur l
 
 ##### Section 5 : Des frais de copie
 
+##### B : Expéditions
+
+##### a) Droits d'expédition et de copie.
+
+###### Article R164
+
+[*Article abrogé*].
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-318 1959-02-23
+
+	**Créé par**:
+
+	  - Décret n°59-318 1959-02-23 JORF 25 février 1959 en vigueur le 2 mars 1959 rectificatif JORF 13 juin 1959
+
+	**Modifié par**:
+
+	  - Décret n°60-897 1960-08-24 art. 1 JORF 25 août 1960
+	  - Décret n°67-62 1967-01-14 art. 1 et art. 2 JORF 20 janvier 1967
+
+	**Abrogé par**:
+
+	  - Décret n°67-903 1967-10-12 art. 4 JORF 17 octobre 1967
+
+	**Liens**:
+
+	  - TXT_SOURCE: CODE DE PROCEDURE PENALE - art. 800 (M)
+
+
 ##### D : Droits fixes.
 
 ###### Article R175
@@ -16054,6 +16199,35 @@ Les frais de justice criminelle, correctionnelle et de police, sont payés sur l
 	**Abrogé par**:
 
 	  - Décret n°78-62 1978-01-20 art. 11 1° JORF 24 janvier 1978
+
+	**Liens**:
+
+	  - TXT_SOURCE: CODE DE PROCEDURE PENALE - art. 800 (M)
+
+
+##### E : Indemnités.
+
+###### Article R177
+
+[Article abrogé].
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-318 1959-02-23
+
+	**Créé par**:
+
+	  - Décret n°59-318 1959-02-23 JORF 25 février 1959 en vigueur le 2 mars 1959 rectificatif JORF 13 juin 1959
+
+	**Modifié par**:
+
+	  - Décret n°67-62 1967-01-14 art. 1 et art. 2 JORF 20 janvier 1967
+
+	**Abrogé par**:
+
+	  - Décret n°67-903 1967-10-12 art. 4 JORF 17 octobre 1967
 
 	**Liens**:
 
