@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 1981-08-07
+Version Consolidée au 1981-10-10
 
 # Partie législative
 
@@ -17492,33 +17492,6 @@ lieu les arrêts de la cour d'assises.
 	  - CODE DE PROCEDURE PENALE - art. 756 (Ab)
 	  - CODE DE PROCEDURE PENALE - art. R231 (M)
 	  - Code de procédure pénale - art. R24-8 (V)
-
-
-###### Article 713
-
-**Nota:**
-
-Article abrogé - Cas où la peine prononcée est la mort.
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - SPEC_APPLI: Ordonnance 58-1273 1958-12-22 art. 18
-	  - SPEC_APPLI: Ordonnance n°58-1296 du 23 décembre 1958 - art. 10, v. init.
-
-	**Codifié par**:
-
-	  - Ordonnance 58-1296 1958-12-23
-
-	**Abrogé par**:
-
-	  - Loi n°81-908 du 9 octobre 1981 - art. 4 (V) JORF 10 octobre 1981
-
-	**Cité par**:
-
-	  - Loi n°81-908 du 9 octobre 1981 - art. 4 (V)
-	  - CODE DE PROCEDURE PENALE - art. R200 (M)
 
 
 #### Chapitre Ier : Dispositions générales
