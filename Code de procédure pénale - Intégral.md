@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 2001-12-29
+Version Consolidée au 2002-01-01
 
 # Partie législative
 
@@ -2733,8 +2733,8 @@ articles 28 et 32 du décret-loi du 18 avril 1939 fixant le régime des matérie
 L. 1er du code de la route et par l'article L. 628 du code de la santé publique, qui consiste en une ou plusieurs des mesures
 suivantes :
 
-1° Verser une amende de composition au Trésor public. Le montant de cette amende de composition, qui ne peut excéder ni 25
-000 F ni la moitié du maximum de l'amende encourue, est fixé en fonction de la gravité des faits ainsi que des ressources et
+1° Verser une amende de composition au Trésor public. Le montant de cette amende de composition, qui ne peut excéder ni 3750
+euros ni la moitié du maximum de l'amende encourue, est fixé en fonction de la gravité des faits ainsi que des ressources et
 des charges de la personne. Son versement peut être échelonné, selon un échéancier fixé par le procureur de la République, à
 l'intérieur d'une période qui ne peut être supérieure à un an ;
 
@@ -2837,7 +2837,7 @@ Les modalités d'application du présent article sont fixées par décret en Con
 
 	**Modifié par**:
 
-	  - Loi n°2001-1062 du 15 novembre 2001 - art. 54 () JORF 16 novembre 2001
+	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 	**Liens**:
 
@@ -2867,8 +2867,8 @@ Les modalités d'application du présent article sont fixées par décret en Con
 
 La procédure de composition pénale est également applicable en cas de violences ou de dégradations contraventionnelles.
 
-Le montant maximum de l'amende de composition ne peut alors excéder 5 000 F ni la moitié du maximum de l'amende encourue, la
-durée de la remise du permis de conduire ou du permis de chasser ne peut dépasser deux mois et la durée du travail non
+Le montant maximum de l'amende de composition ne peut alors excéder 750 euros ni la moitié du maximum de l'amende encourue,
+la durée de la remise du permis de conduire ou du permis de chasser ne peut dépasser deux mois et la durée du travail non
 rémunéré ne peut être supérieure à trente heures, dans un délai maximum de trois mois.
 
 La requête en validation est portée devant le juge d'instance.
@@ -2891,9 +2891,9 @@ La requête en validation est portée devant le juge d'instance.
 
 	  - Loi n°57-1426 1957-12-31
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°99-515 du 23 juin 1999 - art. 1 () JORF 24 juin 1999
+	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 
 ###### Article 41-4
@@ -3647,8 +3647,7 @@ article ; au cas de refus, il en est fait mention au procès-verbal.
 
 Sous réserve des nécessités des enquêtes, toute communication ou toute divulgation sans l'autorisation de la personne mise en
 examen ou de ses ayants droit ou du signataire ou du destinataire d'un document provenant d'une perquisition à une personne
-non qualifiée par la loi pour en prendre connaissance est punie de 30.000 F d'amende [* taux *] et de deux ans
-d'emprisonnement.
+non qualifiée par la loi pour en prendre connaissance est punie de 4 500 euros d'amende et de deux ans d'emprisonnement.
 
 **Liens relatifs à cet article**
 
@@ -3667,13 +3666,13 @@ d'emprisonnement.
 	  - Livre des procédures fiscales - art. L16 B (VT)
 	  - Livre des procédures fiscales - art. L38 (VT)
 
-	**Modifié par**:
-
-	  - Loi n°92-1336 du 16 décembre 1992 - art. 322 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
-
 	**Liens**:
 
 	  - SPEC_APPLI: Ordonnance n°96-267 du 28 mars 1996 - art. 13 (M)
+
+	**Modifié par**:
+
+	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 
 ###### Article 59
@@ -5269,7 +5268,7 @@ La durée de la rétention prévue par l'article précédent s'impute, s'il y a 
 
 ###### Article 78-5
 
-Seront punis de trois mois d'emprisonnement et de 25 000 F d'amende ceux qui auront refusé de se prêter aux prises
+Seront punis de trois mois d'emprisonnement et de 3 750 euros d'amende ceux qui auront refusé de se prêter aux prises
 d'empreintes digitales ou de photographies autorisées par le procureur de la République ou le juge d'instruction,
 conformément aux dispositions de l'article 78-3.
 
@@ -5285,11 +5284,11 @@ conformément aux dispositions de l'article 78-3.
 
 	**Modifié par**:
 
-	  - Loi n°99-291 du 15 avril 1999 - art. 15 () JORF 16 avril 1999
+	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 	**Cite**:
 
-	  - CODE DE PROCEDURE PENALE - art. 78-3 (M)
+	  - Code de procédure pénale - art. 78-3 (V)
 
 
 ###### Article 78-6
@@ -6448,8 +6447,8 @@ de pièces suspectés faux, tant que celui-ci est nécessaire à la manifestatio
 
 Sous réserve des nécessités de l'information judiciaire, toute communication ou toute divulgation sans autorisation de la
 personne mise en examen ou de ses ayants droit ou du signataire ou du destinataire d'un document provenant d'une
-perquisition, à une personne non qualifiée par la loi pour en prendre connaissance, est punie de 30 000 F d'amende et de deux
-ans d'emprisonnement.
+perquisition, à une personne non qualifiée par la loi pour en prendre connaissance, est punie de 4 500 euros d'amende et de
+deux ans d'emprisonnement.
 
 **Liens relatifs à cet article**
 
@@ -6457,13 +6456,13 @@ ans d'emprisonnement.
 
 	  - Loi n°57-1426 1957-12-31
 
-	**Modifié par**:
-
-	  - Loi n°92-1336 du 16 décembre 1992 - art. 322 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
-
 	**Liens**:
 
 	  - SPEC_APPLI: Ordonnance n°96-267 du 28 mars 1996 - art. 13 (M)
+
+	**Modifié par**:
+
+	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 
 ###### Article 99
@@ -7462,7 +7461,7 @@ transmettre la reproduction de pièces ou actes de la procédure à son client.
 
 Sous réserve des dispositions du sixième alinéa de l'article 114, le fait, pour une partie à qui une reproduction des pièces
 ou actes d'une procédure d'instruction a été remise en application de cet article, de la diffuser auprès d'un tiers est puni
-de 25 000 F d'amende.
+de 3 750 euros d'amende.
 
 **Liens relatifs à cet article**
 
@@ -7470,9 +7469,9 @@ de 25 000 F d'amende.
 
 	  - Loi n°57-1426 1957-12-31
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°96-1235 du 30 décembre 1996 - art. 2 () JORF 1er janvier 1997 en vigueur le 31 mars 1997
+	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 	**Cité par**:
 
@@ -7687,7 +7686,7 @@ Le procureur de la République peut assister aux interrogatoires et confrontatio
 auditions de la partie civile.
 
 Chaque fois que le procureur de la République a fait connaître au juge d'instruction son intention d'y assister, le greffier
-du juge d'instruction doit, sous peine d'une amende civile de 10 francs prononcée par le président de la chambre de
+du juge d'instruction doit, sous peine d'une amende civile de 1,5 euros prononcée par le président de la chambre de
 l'instruction, l'avertir par simple note, au plus tard, l'avant-veille de l'interrogatoire.
 
 **Liens relatifs à cet article**
@@ -7702,7 +7701,7 @@ l'instruction, l'avertir par simple note, au plus tard, l'avant-veille de l'inte
 
 	**Modifié par**:
 
-	  - Loi n°2000-516 du 15 juin 2000 - art. 83 () JORF 16 juin 2000 en vigueur le 1er janvier 2001
+	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 	**Cité par**:
 
@@ -8250,7 +8249,7 @@ délivre une reconnaissance de cette remise.
 ###### Article 136
 
 L'inobservation des formalités prescrites pour les mandats de comparution, d'amener, de dépôt et d'arrêt est sanctionnée par
-une amende civile de 50 francs prononcée contre le greffier par le président de la chambre de l'instruction ; elle peut
+une amende civile de 7,5 euros prononcée contre le greffier par le président de la chambre de l'instruction ; elle peut
 donner lieu à des sanctions disciplinaires contre le juge d'instruction, le juge des libertés et de la détention ou le
 procureur de la République.
 
@@ -8273,7 +8272,7 @@ collectivité publique ou contre ses agents.
 
 	**Modifié par**:
 
-	  - Loi n°2000-516 du 15 juin 2000 - art. 83 () JORF 16 juin 2000 en vigueur le 1er janvier 2001
+	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 	**Cite**:
 
@@ -11245,7 +11244,7 @@ susceptible d'appel devant la chambre de l'instruction.
 Lorsqu'il rend une ordonnance de non-lieu à l'issue d'une information ouverte sur constitution de partie civile, le juge
 d'instruction peut, sur réquisitions du procureur de la République et par décision motivée, s'il considère que la
 constitution de partie civile a été abusive ou dilatoire, prononcer contre la partie civile une amende civile dont le montant
-ne peut excéder 100 000 F.
+ne peut excéder 15 000 euros.
 
 Cette décision ne peut intervenir qu'à l'issue d'un délai de vingt jours à compter de la communication à la partie civile et
 à son avocat, par lettre recommandée ou par télécopie avec récépissé, des réquisitions du procureur de la République, afin de
@@ -11262,9 +11261,9 @@ les mêmes conditions.
 
 	  - Loi n°57-1426 1957-12-31
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2000-516 du 15 juin 2000 - art. 87 () JORF 16 juin 2000
+	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 	**Cité par**:
 
@@ -15118,8 +15117,8 @@ Le greffier procède à l'appel des jurés inscrits sur la liste établie confor
 La cour statue sur le cas des jurés absents.
 
 Tout juré qui, sans motif légitime, n'a pas déféré à la citation qui lui a été notifiée, est condamné par la cour à une
-amende, laquelle est, pour la première fois, de 100 F, la cour ayant la faculté de la réduire de moitié, pour la seconde
-fois, de 200 F et, pour la troisième fois, de 500 F.
+amende, laquelle est, pour la première fois, de 15 euros, la cour ayant la faculté de la réduire de moitié, pour la seconde
+fois, de 30 euros et, pour la troisième fois, de 75 euros.
 
 Cette dernière fois, il est, de plus, déclaré incapable d'exercer à l'avenir les fonctions de juré.
 
@@ -15146,6 +15145,10 @@ l'expiration de ses fonctions, sans une excuse jugée valable par la cour.
 	**Codifié par**:
 
 	  - Ordonnance 58-1296 1958-12-23
+
+	**Modifié par**:
+
+	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 	**Cite**:
 
@@ -15669,7 +15672,7 @@ Ils peuvent être suspendus pendant le temps nécessaire au repos des juges et d
 ###### Article 308
 
 Dès l'ouverture de l'audience, l'emploi de tout appareil d'enregistrement ou de diffusion sonore, de caméra de télévision ou
-de cinéma, d'appareils photographiques est interdit sous peine de [*taux*] 120.000 F d'amende, qui peut être prononcée dans
+de cinéma, d'appareils photographiques est interdit sous peine de [*taux*] 18000 euros d'amende, qui peut être prononcée dans
 les conditions prévues au titre VIII du livre IV.
 
 Toutefois, le président de la cour d'assises peut ordonner que les débats feront l'objet, sous son contrôle, d'un
@@ -15697,13 +15700,13 @@ Les dispositions ci-dessus ne sont pas prescrites à peine de nullité de la pro
 
 	  - Ordonnance 58-1296 1958-12-23
 
-	**Modifié par**:
-
-	  - Loi n°92-1336 du 16 décembre 1992 - art. 322 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
-
 	**Liens**:
 
 	  - SPEC_APPLI: Ordonnance n°96-267 du 28 mars 1996 - art. 13 (M)
+
+	**Modifié par**:
+
+	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 	**Cite**:
 
@@ -16143,7 +16146,7 @@ témoin soit immédiatement amené par la force publique devant la cour pour y �
 prochaine session.
 
 Dans tous les cas, le témoin qui ne comparaît pas ou qui refuse soit de prêter serment, soit de faire sa déposition peut, sur
-réquisitions du ministère public, être condamné par la cour à une amende de 25 000 F.
+réquisitions du ministère public, être condamné par la cour à une amende de 3 750 euros.
 
 La voie de l'opposition est ouverte au condamné qui n'a pas comparu. L'opposition s'exerce dans les cinq jours de la
 signification de l'arrêt faite à sa personne ou à son domicile. La cour statue sur cette opposition soit pendant la session
@@ -16162,7 +16165,7 @@ en cours, soit au cours d'une session ultérieure.
 
 	**Modifié par**:
 
-	  - Loi n°2000-1354 du 30 décembre 2000 - art. 9 () JORF 31 décembre 2000 en vigueur le 1er janvier 2001
+	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 
 ###### Article 327
@@ -18042,8 +18045,8 @@ de statuer en appel.
 
 Le tribunal correctionnel connaît des délits.
 
-Sont des délits les infractions que la loi punit d'une peine d'emprisonnement ou d'une peine d'amende supérieure ou égale à
-25 000 F.
+Sont des délits les infractions que la loi punit d'une peine d'emprisonnement ou d'une peine d'amende supérieure ou égale à 3
+750 euros.
 
 **Liens relatifs à cet article**
 
@@ -18057,7 +18060,7 @@ Sont des délits les infractions que la loi punit d'une peine d'emprisonnement o
 
 	**Modifié par**:
 
-	  - Loi n°92-1336 du 16 décembre 1992 - art. 30 () JORF 23 décembre 1992 en vigueur le 1er mars 1994
+	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 	**Nouveaux textes**:
 
@@ -18583,12 +18586,12 @@ second alinéa.
 
 Lorsque le tribunal correctionnel, saisi par une citation directe de la partie civile, prononce une relaxe, il peut, par ce
 même jugement, sur réquisitions du procureur de la République, condamner la partie civile au paiement d'une amende civile
-dont le montant ne saurait excéder 100 000 F s'il estime que la citation directe était abusive ou dilatoire. Les réquisitions
-du procureur de la République doivent intervenir avant la clôture des débats, après les plaidoiries de la défense, et la
-partie civile ou son avocat doivent avoir été mis en mesure d'y répliquer. Les dispositions du présent alinéa sont également
-applicables devant la cour d'appel, lorsque le tribunal correctionnel a, en premier ressort, relaxé la personne poursuivie et
-statué sur des réquisitions du procureur de la République tendant à la condamnation de la partie civile en application des
-dispositions du présent alinéa.
+dont le montant ne saurait excéder 15 000 euros s'il estime que la citation directe était abusive ou dilatoire. Les
+réquisitions du procureur de la République doivent intervenir avant la clôture des débats, après les plaidoiries de la
+défense, et la partie civile ou son avocat doivent avoir été mis en mesure d'y répliquer. Les dispositions du présent alinéa
+sont également applicables devant la cour d'appel, lorsque le tribunal correctionnel a, en premier ressort, relaxé la
+personne poursuivie et statué sur des réquisitions du procureur de la République tendant à la condamnation de la partie
+civile en application des dispositions du présent alinéa.
 
 **Liens relatifs à cet article**
 
@@ -18598,7 +18601,7 @@ dispositions du présent alinéa.
 
 	**Modifié par**:
 
-	  - Loi n°2000-516 du 15 juin 2000 - art. 87 () JORF 16 juin 2000
+	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 	**Cité par**:
 
@@ -20314,7 +20317,7 @@ Toute personne citée pour être entendue comme témoin est tenue de comparaîtr
 ###### Article 438
 
 Le témoin qui ne comparaît pas ou qui refuse, soit de prêter serment, soit de faire sa déposition, peut être, sur
-réquisitions du ministère public, condamné par le tribunal à une amende de 25 000 F.
+réquisitions du ministère public, condamné par le tribunal à une amende de 3 750 euros.
 
 **Liens relatifs à cet article**
 
@@ -20329,7 +20332,7 @@ réquisitions du ministère public, condamné par le tribunal à une amende de 2
 
 	**Modifié par**:
 
-	  - Loi n°2000-1354 du 30 décembre 2000 - art. 10 () JORF 31 décembre 2000
+	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 	**Cité par**:
 
@@ -22826,7 +22829,7 @@ Si le jugement est annulé pour violation ou omission non réparée de formes pr
 
 Le tribunal de police connaît des contraventions.
 
-Sont des contraventions les infractions que la loi punit d'une peine d'amende n'excédant pas 20.000 F.
+Sont des contraventions les infractions que la loi punit d'une peine d'amende n'excédant pas 3 000 euros.
 
 **Liens relatifs à cet article**
 
@@ -22846,7 +22849,7 @@ Sont des contraventions les infractions que la loi punit d'une peine d'amende n'
 
 	**Modifié par**:
 
-	  - Loi n°92-1336 du 16 décembre 1992 - art. 43 () JORF 23 décembre 1992 en vigueur le 1er mars 1994
+	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 	**Nouveaux textes**:
 
@@ -24662,7 +24665,7 @@ l'original.
 ###### Article 564
 
 Les huissiers sont tenus de mettre, à la fin de l'original et de la copie de l'exploit, le coût de celui-ci, à peine d'une
-amende civile de 20 à 100 francs ; cette amende est prononcée par le président de la juridiction saisie de l'affaire.
+amende civile de 3 à 15 euros ; cette amende est prononcée par le président de la juridiction saisie de l'affaire.
 
 **Liens relatifs à cet article**
 
@@ -24674,6 +24677,10 @@ amende civile de 20 à 100 francs ; cette amende est prononcée par le présiden
 	**Codifié par**:
 
 	  - Ordonnance 58-1296 1958-12-23
+
+	**Modifié par**:
+
+	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 
 ###### Article 565
@@ -25356,9 +25363,10 @@ Il en est de même pour la déclaration de l'avocat qui se constitue au nom d'un
 
 ###### Article 586
 
-Sous peine d'une amende civile de 50 F prononcée par la Cour de cassation, le greffier, dans le délai maximum de vingt jours
-à dater de la déclaration de pourvoi, cote et paraphe les pièces du dossier, auquel il joint une expédition de la décision
-attaquée, une expédition de l'acte de pourvoi et, s'il y a lieu, le mémoire du demandeur. Du tout, il dresse inventaire.
+Sous peine d'une amende civile de 7,5 euros prononcée par la Cour de cassation, le greffier, dans le délai maximum de vingt
+jours à dater de la déclaration de pourvoi, cote et paraphe les pièces du dossier, auquel il joint une expédition de la
+décision attaquée, une expédition de l'acte de pourvoi et, s'il y a lieu, le mémoire du demandeur. Du tout, il dresse
+inventaire.
 
 **Liens relatifs à cet article**
 
@@ -25370,6 +25378,10 @@ attaquée, une expédition de l'acte de pourvoi et, s'il y a lieu, le mémoire d
 	**Codifié par**:
 
 	  - Ordonnance 58-1296 1958-12-23
+
+	**Modifié par**:
+
+	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 	**Cité par**:
 
@@ -27522,7 +27534,7 @@ en conflit, dans les formes et délais du pourvoi en cassation.
 L'opposition emporte effet suspensif si la chambre criminelle en décide ainsi.
 
 L'opposition est jugée dans les quinze jours de l'arrivée des pièces au greffe de la Cour de cassation. Si l'opposition est
-rejetée, la chambre criminelle peut condamner le demandeur à une amende civile de 100 F.
+rejetée, la chambre criminelle peut condamner le demandeur à une amende civile de 15 euros.
 
 **Liens relatifs à cet article**
 
@@ -27532,7 +27544,7 @@ rejetée, la chambre criminelle peut condamner le demandeur à une amende civile
 
 	**Modifié par**:
 
-	  - Ordonnance 60-529 1960-06-04 art. 2 JORF 8 juin 1960
+	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 
 ### Titre VI : Des renvois d'un tribunal à un autre
@@ -27913,8 +27925,8 @@ laquelle n'est susceptible d'aucune voie de recours. Les dispositions de l'artic
 
 ###### Article 673
 
-Toute ordonnance rejetant une demande de récusation prononce la condamnation du demandeur à une amende civile de 500 à 5 000
-francs.
+Toute ordonnance rejetant une demande de récusation prononce la condamnation du demandeur à une amende civile de 75 à 750
+euros.
 
 **Liens relatifs à cet article**
 
@@ -27930,6 +27942,10 @@ francs.
 	**Codifié par**:
 
 	  - Ordonnance 58-1296 1958-12-23
+
+	**Modifié par**:
+
+	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 
 ###### Article 674
@@ -28841,8 +28857,8 @@ L'autorité militaire visée au premier alinéa du présent article est habilit�
 ###### Article 698-2
 
 L'action civile en réparation du dommage causé par l'une des infractions mentionnées au premier alinéa de l'article 697-1
-appartient à ceux qui ont personnellement souffert du dommage directement causé par l'infraction. Sauf en cas de décès, de
-mutilation ou d'infirmité permanente, la partie lésée ne peut toutefois mettre l'action publique en mouvement.
+appartient à ceux qui ont personnellement souffert du dommage directement causé par l'infraction. L'action publique peut être
+mise en mouvement par la partie lésée dans les conditions déterminées aux articles 85 et suivants.
 
 **Liens relatifs à cet article**
 
@@ -28852,11 +28868,12 @@ mutilation ou d'infirmité permanente, la partie lésée ne peut toutefois mettr
 
 	**Modifié par**:
 
-	  - Loi n°92-1336 du 16 décembre 1992 - art. 65 () JORF 23 décembre 1992 en vigueur le 1er mars 1994
+	  - Loi n°99-929 du 10 novembre 1999 - art. 59 (Ab) JORF 11 novembre 1999 en vigueur le 1er janvier 2002
 
 	**Cite**:
 
-	  - CODE DE PROCEDURE PENALE - art. 697-1 (M)
+	  - Code de procédure pénale - art. 697-1 (V)
+	  - Code de procédure pénale - art. 85 (VT)
 
 
 ###### Article 698-3
@@ -30873,7 +30890,7 @@ définitive.
 
 Par dérogation aux dispositions de l'article 750, la durée de la contrainte judiciaire est fixée à deux années lorsque
 l'amende et les condamnations pécuniaires prononcées pour l'une des infractions mentionnées à l'alinéa précédent ou pour les
-infractions douanières connexes excèdent 500.000 F.
+infractions douanières connexes excèdent 75 000 euros.
 
 **Liens relatifs à cet article**
 
@@ -30883,7 +30900,7 @@ infractions douanières connexes excèdent 500.000 F.
 
 	**Modifié par**:
 
-	  - Loi n°95-125 du 8 février 1995 - art. 52 () JORF 9 février 1995
+	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 	**Cite**:
 
@@ -31571,7 +31588,7 @@ de ce dernier peut toutefois être visionnée par les avocats des parties au pal
 garantissent la confidentialité de cette consultation.
 
 Le fait, pour toute personne, de diffuser un enregistrement ou une copie réalisée en application du présent article est puni
-d'un an d'emprisonnement et de 100 000 F d'amende.
+d'un an d'emprisonnement et de 15 000 euros d'amende.
 
 A l'expiration d'un délai de cinq ans à compter de la date de l'extinction de l'action publique, l'enregistrement et sa copie
 sont détruits dans le délai d'un mois.
@@ -31581,10 +31598,6 @@ sont détruits dans le délai d'un mois.
 	**Codifié par**:
 
 	  - Ordonnance 58-1296 1958-12-23
-
-	**Créé par**:
-
-	  - Loi n°98-468 du 17 juin 1998 - art. 28 () JORF 18 juin 1998
 
 	**Liens**:
 
@@ -31596,6 +31609,10 @@ sont détruits dans le délai d'un mois.
 	  - Loi - art. 37 (V)
 	  - Code de procédure pénale - art. 706-71 (VD)
 	  - Code général des impôts, CGI. - art. 1605 ter (V)
+
+	**Modifié par**:
+
+	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 	**Cite**:
 
@@ -35435,17 +35452,17 @@ Cette durée est déterminée, le cas échéant, en fonction du montant cumulé 
 
 La durée de la contrainte judiciaire est fixée ainsi qu'il suit :
 
-1° A cinq jours, lorsque l'amende et les condamnations pécuniaires sont au moins égales à 1.000 F sans excéder 3.000 F. ;
+1° A cinq jours, lorsque l'amende et les condamnations pécuniaires sont au moins égales à 150 euros sans excéder 450 euros ;
 
-2° A dix jours, lorsque, supérieures à 3.000 F., elles n'excèdent pas 10.000 F. ;
+2° A dix jours, lorsque, supérieures à 450 euros, elles n'excèdent pas 1500 euros ;
 
-3° A vingt jours, lorsque, supérieures à 10.000 F., elles n'excèdent pas 20.000 F. ;
+3° A vingt jours, lorsque, supérieures à 1500 euros, elles n'excèdent pas 3000 euros ;
 
-4° A un mois, lorsque, supérieures à 20.000 F., elles n'excèdent pas 40.000 F. ;
+4° A un mois, lorsque, supérieures à 3000 euros, elles n'excèdent pas 6000 euros ;
 
-5° A deux mois, lorsque, supérieures à 40.000 F., elles n'excèdent pas 80.000 F. ;
+5° A deux mois, lorsque, supérieures à 6000 euros, elles n'excèdent pas 12000 euros ;
 
-6° A quatre mois, lorsqu'elles excèdent 80.000 F.
+6° A quatre mois, lorsqu'elles excèdent 12000 euros.
 
 **Liens relatifs à cet article**
 
@@ -35453,13 +35470,13 @@ La durée de la contrainte judiciaire est fixée ainsi qu'il suit :
 
 	  - Ordonnance 58-1296 1958-12-23
 
-	**Modifié par**:
-
-	  - Loi n°85-1407 1985-12-30 art. 76, art. 94 JORF 31 décembre 1985 en vigueur le 1er février 1986
-
 	**Liens**:
 
 	  - SPEC_APPLI: Loi n°85-1407 1985-12-30 art. 94
+
+	**Modifié par**:
+
+	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 	**Cité par**:
 
@@ -36971,22 +36988,22 @@ incapacités de quelque nature qu'elles soient résultant de cette condamnation.
 ###### Article 775-1 A
 
 Le bulletin n° 2 d'une personne morale est le relevé des fiches qui lui sont applicables, à l'exclusion de celles concernant
-les décisions suivantes :
+les décisions suivantes : 
 
 1° Les condamnations dont la mention sur l'extrait de casier a été expressément exclue, en application de l'article 775-1 ;
 
 2° Les condamnations prononcées pour contravention de police et les condamnations à des peines d'amende d'un montant
-inférieur à 200000 F ;
+inférieur à 30 000 euros ; 
 
-3° Les condamnations assorties du bénéfice du sursis lorsqu'elles doivent être considérées comme non avenues ;
+3° Les condamnations assorties du bénéfice du sursis lorsqu'elles doivent être considérées comme non avenues ; 
 
 4° Les déclarations de culpabilité assorties d'une dispense de peine ou d'un ajournement, avec ou sans injonction, du
-prononcé de la peine ;
+prononcé de la peine ; 
 
-5° Les condamnations prononcées par les juridictions étrangères.
+5° Les condamnations prononcées par les juridictions étrangères. 
 
 Lorsqu'il n'existe pas au casier judiciaire de fiches concernant des décisions à relever sur ce bulletin n° 2, il porte la
-mention "néant".
+mention " Néant ".
 
 **Liens relatifs à cet article**
 
@@ -36994,13 +37011,13 @@ mention "néant".
 
 	  - Ordonnance 58-1296 1958-12-23
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°92-1336 du 16 décembre 1992 - art. 121 () JORF 23 décembre 1992 en vigueur le 1er mars 1994
+	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 	**Cite**:
 
-	  - CODE DE PROCEDURE PENALE - art. 775-1 (M)
+	  - Code de procédure pénale - art. 775-1 (V)
 
 	**Cité par**:
 
@@ -37386,10 +37403,10 @@ Le décret en Conseil d'Etat susvisé est pris après avis de la commission nati
 ###### Article 781
 
 Quiconque en prenant un faux nom ou une fausse qualité, s'est fait délivrer un extrait du casier judiciaire d'un tiers est
-puni de 50.000 francs d'amende.
+puni de 7 500 euros d'amende. 
 
 Est puni des mêmes peines celui qui aura fourni des renseignements d'identité imaginaires qui ont provoqué ou auraient pu
-provoquer des mentions erronées au casier judiciaire.
+provoquer des mentions erronées au casier judiciaire. 
 
 Est puni des mêmes peines celui qui se sera fait délivrer par l'intéressé tout ou partie des mentions du relevé intégral visé
 à l'article 777-2 du présent code.
@@ -37409,11 +37426,11 @@ Est puni des mêmes peines celui qui se sera fait délivrer par l'intéressé to
 
 	**Modifié par**:
 
-	  - Loi n°92-1336 du 16 décembre 1992 - art. 129 () JORF 23 décembre 1992 en vigueur le 1er mars 1994
+	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 	**Cite**:
 
-	  - CODE DE PROCEDURE PENALE - art. 777-2 (M)
+	  - Code de procédure pénale - art. 777-2 (V)
 
 
 ### Titre IX : De la réhabilitation des condamnés
@@ -40217,6 +40234,36 @@ selon les dispositions et dans les conditions prévues par ces articles, aux age
 	  - Code de la route. - art. L142-5 (Ab)
 
 
+#### Chapitre II : Des enquêtes
+
+###### Article 880
+
+Lorsque le déplacement d'un avocat ou d'une personne agréée en application de l'article 879 paraît matériellement impossible,
+l'entretien prévu au premier alinéa de l'article 63-4 peut avoir lieu avec une personne choisie par la personne gardée à vue,
+qui n'est pas mise en cause pour les mêmes faits ou pour des faits connexes et qui n'a fait l'objet d'aucune condamnation,
+incapacité ou déchéance mentionnée au bulletin n° 2 du casier judiciaire. Les dispositions des deuxième au quatrième alinéas
+de l'article 63-4 sont applicables à la personne choisie, qui en est informée par l'officier de police judiciaire.
+
+Le fait pour une personne qui a été appelée à intervenir dans les conditions prévues à l'alinéa précédent, de faire état
+auprès de quiconque de cet entretien dans le but d'entraver le cours de la justice est puni d'un an d'emprisonnement et de 15
+000 euros  d'amende.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 96-268 1996-03-28
+
+	**Modifié par**:
+
+	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. 63-4 (M)
+	  - CODE DE PROCEDURE PENALE - art. 879 (M)
+
+
 #### Chapitre III : Des juridictions d'instruction
 
 ###### Article 881
@@ -41504,40 +41551,6 @@ instance exerce les fonctions de juge de l'application des peines.
 	**Cite**:
 
 	  - CODE DE PROCEDURE PENALE - art. 709-1 (M)
-
-
-## Livre VI : Dispositions relatives aux territoires d'outre-mer, à la Nouvelle-Calédonie et aux collectivités territoriales de Mayotte et Saint-Pierre-et-Miquelon
-
-### Titre II : Dispositions applicables à Mayotte
-
-#### Chapitre II : Des enquêtes
-
-###### Article 880
-
-Lorsque le déplacement d'un avocat ou d'une personne agréée en application de l'article 879 paraît matériellement impossible,
-l'entretien prévu au premier alinéa de l'article 63-4 peut avoir lieu avec une personne choisie par la personne gardée à vue,
-qui n'est pas mise en cause pour les mêmes faits ou pour des faits connexes et qui n'a fait l'objet d'aucune condamnation,
-incapacité ou déchéance mentionnée au bulletin n° 2 du casier judiciaire. Les dispositions des deuxième au quatrième alinéas
-de l'article 63-4 sont applicables à la personne choisie, qui en est informée par l'officier de police judiciaire.
-
-Le fait pour une personne qui a été appelée à intervenir dans les conditions prévues à l'alinéa précédent, de faire état
-auprès de quiconque de cet entretien dans le but d'entraver le cours de la justice est puni d'un an d'emprisonnement et de
-100 000 F d'amende.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance 96-268 1996-03-28
-
-	**Modifié par**:
-
-	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
-
-	**Cite**:
-
-	  - CODE DE PROCEDURE PENALE - art. 63-4 (M)
-	  - CODE DE PROCEDURE PENALE - art. 879 (M)
 
 
 # Partie réglementaire - Décrets en Conseil d'Etat
@@ -44104,7 +44117,7 @@ Lorsque la composition pénale consiste dans le versement d'une amende de compos
 par dérogation à l'article 24 du décret n° 62-1587 du 29 décembre 1962, soit par timbre fiscal, soit, auprès d'un comptable
 du Trésor, par versement d'espèces ou par remise d'un chèque certifié dans les conditions prévues au troisième alinéa de
 l'article 6 du décret-loi du 30 octobre 1935 unifiant le droit en matière de chèques et relatif aux cartes de paiement.
-Jusqu'à 5 000 F, le paiement ne peut s'effectuer que par timbre fiscal.
+Jusqu'à 750 euros, le paiement ne peut s'effectuer que par timbre fiscal.
 
 Lorsque le paiement s'effectue par timbre fiscal, le ou les timbres correspondants au montant de l'amende sont apposés par
 l'intéressé sur un des feuillets du document prévu par l'article R. 15-33-50, que celui-ci retourne au procureur de la
@@ -44122,15 +44135,9 @@ Lorsqu'il est prévu que les versements seront échelonnés, il est remis à l'i
 
 	  - Décret n°58-358 1958-04-02
 
-	**Cite**:
+	**Modifié par**:
 
-	  - Décret n°62-1587 du 29 décembre 1962 - art. 24 (M)
-	  - CODE DE PROCEDURE PENALE - art. R15-33-50 (M)
-	  - Décret-loi 1935-10-30 art. 6
-
-	**Créé par**:
-
-	  - Décret n°2001-71 du 29 janvier 2001 - art. 2 () JORF 30 janvier 2001
+	  - Décret n°2001-373 du 27 avril 2001 - art. 1 (V) JORF 29 avril 2001 en vigueur le 1er janvier 2002
 
 	**Cité par**:
 
@@ -46283,41 +46290,90 @@ Une copie de la décision est également adressée au procureur général près 
 Le siège des cours d'assises énumérées ci-dessous est exceptionnellement fixé dans une ville autre que le chef-lieu de la
 cour d'appel s'il en existe une ou dans le cas contraire autre que le chef-lieu du département.
 
-COUR D'ASSISES :
+COUR D'ASSISES : 
 
-Département : Charente-Maritime.
+<table>
+  <tbody>
+    <tr>
+      <td width="188">
 
-Siège : Saintes.
+DEPARTEMENTS
 
-Département : Manche.
+</td>
+      <td width="268">
 
-Siège : Coutances.
+SIEGES
 
-Département : Pas-de-Calais.
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="188">
 
-Siège : Saint-Omer.
+Charente-Maritime
 
-Département : Saône-et-Loire.
+</td>
+      <td width="268" valign="top">
 
-Siège : Chalon-sur-Saône.
+Saintes
 
-Département : VAR.
+</td>
+    </tr>
+    <tr>
+      <td width="188" valign="top">
 
-Siège : Draguignan (à titre temporaire).
+Manche
 
-Département : Vaucluse.
+</td>
+      <td width="268" valign="top">
 
-Siège : Carpentras (à titre temporaire).
+Coutances
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="188">
+
+Pas-de-Calais
+
+</td>
+      <td valign="top" width="268">
+
+Saint-Omer
+
+</td>
+    </tr>
+    <tr>
+      <td width="188" valign="top">
+
+Saône-et-Loire
+
+</td>
+      <td width="268" valign="top">
+
+Chalon-sur-Saône
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="188">
+
+Var
+
+</td>
+      <td width="268" valign="top">
+
+Draguignan (à titre temporaire)
+
+</td>
+    </tr>
+  </tbody>
+</table>
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°59-318 1959-02-23
-
-	**Créé par**:
-
-	  - Décret n°59-318 1959-02-23 JORF 25 février 1959 en vigueur le 2 mars 1959 rectificatif JORF 13 juin 1959
 
 	**Liens**:
 
@@ -46326,8 +46382,7 @@ Siège : Carpentras (à titre temporaire).
 
 	**Modifié par**:
 
-	  - Décret n°68-329 1968-04-05 art. 1 JORF 13 avril 1968
-	  - Décret n°75-929 1975-10-07 art. 1 et art. 2 JORF 14 octobre 1975
+	  - Décret n°2001-742 du 23 août 2001 - art. 1 () JORF 25 août 2001 en vigueur le 1er janvier 2002
 
 
 #### Chapitre III : De la composition de la cour d'assises
@@ -46622,15 +46677,15 @@ compter de la date d'envoi de la lettre recommandée prévue à l'article R. 42,
 
 Le montant de l'amende forfaitaire prévue par l'article 529 est fixé ainsi qu'il suit :
 
-1° 30 F. pour les contraventions aux dispositions du code de la route commises par les piétons ;
+1° 4 euros pour les contraventions aux dispositions du code de la route commises par les piétons ;
 
-2° 75 F. pour les autres contraventions de la 1er classe ;
+2° 11 euros pour les autres contraventions de la 1ère classe ;
 
-3° 230 F. pour les contraventions de la 2e classe ;
+3° 35 euros pour les contraventions de la 2e classe ;
 
-4° 450 F. pour les contraventions de la 3e classe ;
+4° 68 euros pour les contraventions de la 3e classe ;
 
-5° 900 F. pour les contraventions de la 4e classe.
+5° 135 euros pour les contraventions de la 4e classe.
 
 **Liens relatifs à cet article**
 
@@ -46638,13 +46693,13 @@ Le montant de l'amende forfaitaire prévue par l'article 529 est fixé ainsi qu'
 
 	  - Décret n°59-318 1959-02-23
 
-	**Créé par**:
-
-	  - Décret n°86-1044 du 18 septembre 1986 - art. 2 () JORF 19 septembre 1986
-
 	**Liens**:
 
 	  - SPEC_APPLI: Décret n°86-1044 du 18 septembre 1986 - art. 6 (V)
+
+	**Modifié par**:
+
+	  - Décret n°2001-373 du 27 avril 2001 - art. 1 (V) JORF 29 avril 2001 en vigueur le 1er janvier 2002
 
 	**Cité par**:
 
@@ -46871,15 +46926,15 @@ deuxième et troisième alinéas de l'article 530.
 
 Le montant de l'amende forfaitaire majorée est fixé ainsi qu'il suit :
 
-1° 50 F. pour les contraventions aux dispositions du Code de la route commises par les piétons ;
+1° 7 euros pour les contraventions aux dispositions du code de la route commises par les piétons ;
 
-2° 220 F. pour les autres contraventions de la 1ere classe ;
+2° 33 euros pour les autres contraventions de la première classe ;
 
-3° 500 F. pour les contraventions de la 2e classe ;
+3° 75 euros pour les contraventions de la deuxième classe ;
 
-4° 1.200 F. pour les contraventions de la 3e classe ;
+4° 180 euros pour les contraventions de la troisième classe ;
 
-5° 2.500 F. pour les contraventions de la 4e classe.
+5° 375 euros pour les contraventions de la quatrième classe.
 
 **Liens relatifs à cet article**
 
@@ -46898,7 +46953,7 @@ Le montant de l'amende forfaitaire majorée est fixé ainsi qu'il suit :
 
 	**Modifié par**:
 
-	  - Décret n°89-989 du 29 décembre 1989 - art. 4 () JORF 31 décembre 1989
+	  - Décret n°2001-373 du 27 avril 2001 - art. 1 (V) JORF 29 avril 2001 en vigueur le 1er janvier 2002
 
 
 ###### Article R49-8
@@ -47070,11 +47125,11 @@ L'agent justifie en cas de besoin de l'agrément mentionné au premier alinéa d
 
 Le montant de l'amende forfaitaire minorée prévue par l'article 529-7 est fixé ainsi qu'il suit :
 
-1° 150 F pour les contraventions de la 2e classe ;
+1° 22 euros pour les contraventions de la deuxième classe ;
 
-2° 300 F pour les contraventions de la 3e classe ;
+2° 45 euros pour les contraventions de la troisième classe ;
 
-3° 600 F pour les contraventions de la 4e classe.
+3° 90 euros pour les contraventions de la quatrième classe.
 
 **Liens relatifs à cet article**
 
@@ -47084,7 +47139,7 @@ Le montant de l'amende forfaitaire minorée prévue par l'article 529-7 est fix�
 
 	**Modifié par**:
 
-	  - Décret n°2000-1136 du 24 novembre 2000 - art. 1 () JORF 26 novembre 2000
+	  - Décret n°2001-373 du 27 avril 2001 - art. 1 (V) JORF 29 avril 2001 en vigueur le 1er janvier 2002
 
 	**Cite**:
 
@@ -51358,7 +51413,7 @@ inscription ni, le cas échéant, lors d'une nouvelle inscription après radiati
 
 ###### Article R107
 
-Lorsque le montant prévu de ses frais et honoraires dépasse 3 000 F, l'expert désigné doit, avant de commencer ses travaux,
+Lorsque le montant prévu de ses frais et honoraires dépasse 460 euros, l'expert désigné doit, avant de commencer ses travaux,
 en informer la juridiction qui l'a commis.
 
 Sauf urgence, cette estimation est communiquée au ministère public qui présente ses observations dans le délai de cinq jours,
@@ -51377,8 +51432,7 @@ recours.
 
 	**Modifié par**:
 
-	  - Décret n°2001-475 du 30 mai 2001 - art. 3 () JORF 3 juin 2001
-	  - Décret n°2001-709 du 31 juillet 2001 - art. 5 () JORF 3 août 2001
+	  - Décret n°2001-373 du 27 avril 2001 - art. 2 () JORF 29 avril 2001 en vigueur le 1er janvier 2002
 
 	**Liens**:
 
@@ -51928,12 +51982,10 @@ Il est alloué à chaque expert, pour une expertise mécanique complète portant
 ordonnée par une juridiction siégeant à Paris ou dans les départements des Hauts-de-Seine, de la Seine-Saint-Denis ou du Val-
 de-Marne, à la suite d'accident de la circulation, à l'exclusion des examens simples ne portant que sur des organes
 déterminés du véhicule, et à l'exclusion de toute indemnité d'établissement de plans, prise de photographies et frais de
-séjour : [*francs*] 330 F.
+séjour : 50,31 euros.
 
 Pour une expertise ordonnée dans les mêmes conditions, par les juridictions des autres départements, à l'exclusion de toute
-indemnité autre que les indemnités de transport et de séjour :
-
-300 F.
+indemnité autre que les indemnités de transport et de séjour : 45,73 euros.
 
 **Liens relatifs à cet article**
 
@@ -51946,15 +51998,9 @@ indemnité autre que les indemnités de transport et de séjour :
 	  - SPEC_APPLI: Décret n°59-318 1959-02-23 art. 5
 	  - TXT_SOURCE: CODE DE PROCEDURE PENALE - art. 800 (M)
 
-	**Créé par**:
-
-	  - Décret n°61-448 1961-05-08 art. 1 JORF 9 mai 1961
-
 	**Modifié par**:
 
-	  - Décret n°67-62 1967-01-14 art. 1 JORF 20 janvier 1967
-	  - Décret n°74-88 1974-02-04 art. 1 JORF 6 février 1974
-	  - Décret n°81-70 1981-01-28 art. 3 JORF 30 janvier 1981
+	  - Ordonnance 2000-916 2000-09-19 annexe JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 
 ##### g) Psychologie légale
@@ -52077,11 +52123,64 @@ respectivement à 1.000 F, 1.670 F et 2.670 F.
 	  - TXT_SOURCE: CODE DE PROCEDURE PENALE - art. 800 (M)
 
 
+###### Article R121-2
+
+En sus du remboursement de leurs frais de déplacement, calculés dans les conditions fixées pour les déplacements des
+fonctionnaires du groupe II, il est alloué aux délégués et aux médiateurs du procureur de la République :
+
+1° Pour une mission tendant à procéder au rappel des obligations résultant de la loi en application des dispositions du 1° de
+l'article 41-1 : 7,62 euros ;
+
+2° Pour une mission tendant à favoriser la réparation du dommage, la régularisation d'une situation ou l'orientation vers une
+structure sanitaire, sociale ou professionnelle en application des dispositions des 2°, 3° et 4° de l'article 41-1 : 15,24
+euros ;
+
+3° Pour une mission de médiation en application des dispositions du 5° de l'article 41-1 : 38,87 euros ;
+
+4° Pour une composition pénale :
+
+a) Pour la notification des mesures proposées et le recueil de l'accord de la personne : 15,24 euros ;
+
+b) Pour le contrôle de l'exécution des mesures décidées : 7,62 euros lorsqu'il s'agit des mesures prévues aux 1°, 2° ou 3° de
+l'article 41-2 ; 15, 24 euros lorsqu'est également décidée la mesure prévue au 4° de l'article 41-2 ou celle prévue au
+sixième alinéa de cet article.
+
+Lorsque la personne habilitée est une association qui a passé une convention avec le premier président et le procureur
+général de la cour d'appel dans le ressort de laquelle est situé son siège, l'indemnité prévue au 1° est portée à 11,43
+euros, l'indemnité prévue au 2° à 30,49 euros, l'indemnité prévue au 3° est portée à 76,22 euros lorsque la durée de la
+mission est inférieure ou égale à un mois, 152,45 euros lorsque cette durée est supérieure à un mois et inférieure ou égale à
+trois mois et 304,90 euros lorsqu'elle est supérieure à trois mois, et les indemnités prévues au 4° sont respectivement
+portées à 30,49, 15,24 et 30,49 euros.
+
+Lorsque les mesures prévues aux 1° à 3° ci-dessus concernent un mineur, le délégué ou le Médiateur du procureur qui doit
+procéder à l'audition des responsables légaux du mineur se voit allouer une indemnité supplémentaire de 7,62 euros.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-318 1959-02-23
+
+	**Modifié par**:
+
+	  - Ordonnance 2000-916 2000-09-19 annexe JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+
+	**Cité par**:
+
+	  - Décret n°2001-71 du 29 janvier 2001 - art. 7 (V)
+	  - CODE DE PROCEDURE PENALE - art. A43-4 (V)
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. 41-1 (M)
+	  - CODE DE PROCEDURE PENALE - art. 41-2 (M)
+
+
 ##### Paragraphe 3 : Des interprètes traducteurs
 
 ###### Article R122
 
-Les traductions par écrit sont payées 73 F la page de texte français.
+Les traductions par écrit sont payées 11, 13 euros la page de texte français.
 
 Lorsque les interprètes traducteurs sont appelés devant le procureur de la République, les officiers de police judiciaire ou
 leurs auxiliaires, devant les juges d'instruction ou devant les juridictions répressives pour faire les traductions orales,
@@ -52089,11 +52188,12 @@ il leur est alloué :
 
 1° Pour la première heure de présence, qui est toujours due en entier :
 
-A Paris et dans les départements des Hauts-de-Seine, de la Seine-Saint-Denis et du Val-de-Marne : 97 F ;
+A Paris et dans les départements des Hauts-de-Seine, de la Seine-Saint-Denis et du Val-de-Marne : 14,79 euros ;
 
-Dans les autres départements : 87 F ;
+Dans les autres départements : 13,26 euros ;
 
-2° Par demi-heure supplémentaire, due en entier dès qu'elle est commencée : 48 F ou 44 F suivant la distinction ci-dessus.
+2° Par demi-heure supplémentaire, due en entier dès qu'elle est commencée : 7,32 ou 6,71 euros suivant la distinction ci-
+dessus.
 
 Les sommes fixées par le présent article sont majorées de 25 % lorsque la traduction porte sur une langue autre que
 l'anglais, l'allemand, l'espagnol ou l'italien.
@@ -52124,16 +52224,11 @@ Les interprètes traducteurs ont droit aux indemnités de voyage et de séjour p
 
 	**Modifié par**:
 
-	  - Décret n°99-203 du 18 mars 1999 - art. 8 () JORF 20 mars 1999
+	  - Ordonnance 2000-916 2000-09-19 annexe JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 	**Liens**:
 
 	  - TXT_SOURCE: CODE DE PROCEDURE PENALE - art. 800 (M)
-
-	**Cite**:
-
-	  - CODE DE PROCEDURE PENALE - art. R110 (V)
-	  - CODE DE PROCEDURE PENALE - art. R111 (V)
 
 
 ##### Section 3 : Des indemnités qui peuvent être accordées aux témoins et aux jurés
@@ -52293,7 +52388,7 @@ matière criminelle, correctionnelle ou de police reçoivent une indemnité de c
 
 I = 10 + (S x 4) dans laquelle :
 
-I est le montant de l'indemnité forfaitaire exprimée en francs ;
+I est le montant de l'indemnité forfaitaire exprimée en euros ;
 
 S le salaire minimum interprofessionnel de croissance tel qu'il est fixé au 1er janvier de l'année en cours.
 
@@ -52312,7 +52407,7 @@ D la durée horaire de comparution, celle-ci ne pouvant excéder huit heures par
 
 	**Modifié par**:
 
-	  - Décret n°99-203 du 18 mars 1999 - art. 5 () JORF 20 mars 1999
+	  - Ordonnance 2000-916 2000-09-19 annexe JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 	**Cité par**:
 
@@ -52429,7 +52524,7 @@ retour ;
 2° Si le voyage est fait par un autre service de transport en commun, l'indemnité est égale au prix d'un voyage, d'après le
 tarif de ce service, tant à l'aller qu'au retour ;
 
-3° Si le voyage n'est pas fait par l'un des moyens visés ci-dessus, l'indemnité est fixé à 0,38 F par kilomètre parcouru,
+3° Si le voyage n'est pas fait par l'un des moyens visés ci-dessus, l'indemnité est fixé à 0,06 euro par kilomètre parcouru,
 tant à l'aller qu'au retour ;
 
 4° Si le voyage est fait par mer, il est accordé, sur le vu du duplicata du billet de voyage délivré par la compagnie de
@@ -52450,16 +52545,6 @@ contraire, qu'ils ne bénéficient pas d'autres avantages que ceux dont il est f
 
 	  - Décret n°59-318 1959-02-23
 
-	**Créé par**:
-
-	  - Décret n°59-318 1959-02-23 JORF 25 février 1959 en vigueur le 2 mars 1959 rectificatif JORF 13 juin 1959
-
-	**Modifié par**:
-
-	  - Décret n°67-62 1967-01-14 art. 1 JORF 20 janvier 1967
-	  - Décret n°72-436 1972-05-29 art. 1 JORF 30 mai 1972
-	  - Décret n°61-448 1981-05-08 art. 1 JORF 9 mai 1961
-
 	**Cité par**:
 
 	  - Décret n°91-1266 du 19 décembre 1991 - art. 119-1 (V)
@@ -52470,6 +52555,10 @@ contraire, qu'ils ne bénéficient pas d'autres avantages que ceux dont il est f
 	  - Code de procédure pénale - art. R249-2 (VD)
 	  - Code de procédure pénale - art. R325 (V)
 	  - Code de procédure pénale - art. R409 (V)
+
+	**Modifié par**:
+
+	  - Ordonnance 2000-916 2000-09-19 annexe JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 	**Liens**:
 
@@ -52629,7 +52718,7 @@ Il est accordé aux jurés, pendant la durée de la session, une indemnité jour
 
 I = 40 + (S x 8), dans laquelle :
 
-I est le montant de l'indemnité forfaitaire exprimé en francs ;
+I est le montant de l'indemnité forfaitaire exprimé en euros ;
 
 S le salaire minimum interprofessionnel de croissance tel qu'il est fixé au 1er janvier de l'année en cours.
 
@@ -52648,7 +52737,7 @@ D la durée horaire de l'audience, celle-ci ne pouvant excéder huit heures par 
 
 	**Modifié par**:
 
-	  - Décret n°99-203 du 18 mars 1999 - art. 5 () JORF 20 mars 1999
+	  - Ordonnance 2000-916 2000-09-19 annexe JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 	**Cité par**:
 
@@ -53262,11 +53351,11 @@ de la partie, soit par la partie elle-même si celle-ci n'est pas représentée 
 
 Chaque huissier de justice audiencier reçoit une indemnité de :
 
-1° 100 F pour le service d'une audience de cour d'assises et de la Cour de cassation ;
+1° 15 euros pour le service d'une audience de cour d'assises et de la Cour de cassation ;
 
-2° 70 F pour le service d'une audience du tribunal correctionnel ou du tribunal pour enfants ;
+2° 10 euros pour le service d'une audience du tribunal correctionnel ou du tribunal pour enfants ;
 
-3° 50 F pour le service d'une audience du tribunal de police.
+3° 7,5 euros pour le service d'une audience du tribunal de police.
 
 **Liens relatifs à cet article**
 
@@ -53274,17 +53363,9 @@ Chaque huissier de justice audiencier reçoit une indemnité de :
 
 	  - Décret n°59-318 1959-02-23
 
-	**Créé par**:
-
-	  - Décret n°59-318 1959-02-23 JORF 25 février 1959 en vigueur le 2 mars 1959 rectificatif JORF 13 juin 1959
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°59-318 1959-02-23 art. 5
-
 	**Modifié par**:
 
-	  - Décret n°88-600 du 6 mai 1988 - art. 7 () JORF 8 mai 1988 en vigueur le 1er octobre 1988
+	  - Ordonnance 2000-916 2000-09-19 annexe JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 	**Cité par**:
 
@@ -53345,7 +53426,7 @@ d'affranchissement.
 
 ###### Article R182
 
-Dans les cas prévus à l'article précédent, il est alloué, en outre, aux huissiers de justice une somme de 45 F. si la
+Dans les cas prévus à l'article précédent, il est alloué, en outre, aux huissiers de justice une somme de 6,86 euros si la
 délivrance de l'acte a été faite à personne.
 
 **Liens relatifs à cet article**
@@ -53356,7 +53437,7 @@ délivrance de l'acte a été faite à personne.
 
 	**Modifié par**:
 
-	  - Décret n°88-600 du 6 mai 1988 - art. 8 () JORF 8 mai 1988 en vigueur le 1er octobre 1988
+	  - Ordonnance 2000-916 2000-09-19 annexe JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 	**Cite**:
 
@@ -53417,7 +53498,7 @@ Les copies de tous actes, jugements et pièces à signifier sont toujours faites
 ###### Article R185
 
 Lorsqu'il doit être donné copie de certaines pièces, il est alloué, quel que soit le nombre de pages copiées, une somme
-forfaitaire de 6 F en matière de police et de 9 F en matière correctionnelle et criminelle.
+forfaitaire de 0,91 euro en matière de police et de 1,37 euro en matière correctionnelle et criminelle.
 
 **Liens relatifs à cet article**
 
@@ -53425,16 +53506,9 @@ forfaitaire de 6 F en matière de police et de 9 F en matière correctionnelle e
 
 	  - Décret n°59-318 1959-02-23
 
-	**Créé par**:
-
-	  - Décret n°59-318 1959-02-23 JORF 25 février 1959 en vigueur le 2 mars 1959 rectificatif JORF 13 juin 1959
-
 	**Modifié par**:
 
-	  - Décret n°67-62 1967-01-14 art. 1 et art. 2 JORF 20 janvier 1967
-	  - Décret n°74-88 1974-02-04 art. 1 JORF 6 février 1974
-	  - Décret n°78-263 1978-03-09 art. 9 JORF 10 mars 1978
-	  - Décret n°84-289 1984-04-19 art. 4 JORF 20 avril 1984
+	  - Ordonnance 2000-916 2000-09-19 annexe JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 	**Cité par**:
 
@@ -53544,7 +53618,7 @@ ordonnances de prise de corps, arrêts ou jugements de condamnations.
 ###### Article R190
 
 Il est alloué aux personnes mentionnées à l'article R188, pour l'exécution des mandats d'amener ou des mesures de contrainte
-exercées contre les témoins défaillants en vertu des articles 109, 110 et 153, une prime de 5 F.
+exercées contre les témoins défaillants en vertu des articles 109, 110 et 153, une prime de 0,76 euro.
 
 **Liens relatifs à cet article**
 
@@ -53552,20 +53626,15 @@ exercées contre les témoins défaillants en vertu des articles 109, 110 et 153
 
 	  - Décret n°59-318 1959-02-23
 
-	**Créé par**:
-
-	  - Décret n°59-318 1959-02-23 JORF 25 février 1959 en vigueur le 2 mars 1959 rectificatif JORF 13 juin 1959
-
 	**Modifié par**:
 
-	  - Décret n°67-62 1967-01-14 art. 1 JORF 20 janvier 1967
-	  - Décret n°74-88 1974-02-04 art. 1 JORF 6 février 1974
+	  - Ordonnance 2000-916 2000-09-19 annexe JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 	**Cite**:
 
-	  - CODE DE PROCEDURE PENALE - art. 109 (M)
-	  - CODE DE PROCEDURE PENALE - art. 110 (M)
-	  - Code de procédure pénale 109, 110, 153 et R188
+	  - Code de procédure pénale - art. 109 (V)
+	  - Code de procédure pénale - art. 153 (V)
+	  - Code de procédure pénale - art. R188 (V)
 
 	**Cité par**:
 
@@ -53574,28 +53643,25 @@ exercées contre les témoins défaillants en vertu des articles 109, 110 et 153
 
 ###### Article R191
 
-Il est alloué aux personnes mentionnées à l'article R. 188, pour capture ou saisie de la personne, en exécution :
+Il est alloué aux personnes mentionnées à l'article R. 188, pour capture ou saisie de la personne, en exécution : 
 
 1° D'un jugement de police ou d'un jugement ou arrêt correctionnel prononçant une peine d'emprisonnement n'excédant pas dix
-jours : 5 F.
+jours : 0,76 euro. 
 
 2° D'un mandat d'arrêt ou d'un jugement ou arrêt en matière correctionnelle emportant peine d'emprisonnement de plus de dix
-jours : 7 F.
+jours : 1,07 euro. 
 
 3° D'une ordonnance de prise de corps ou d'un arrêt de condamnation à une peine de réclusion criminelle à temps n'excédant
-pas dix ans : 10 F.
+pas dix ans : 1,52 euro. 
 
-4° D'un arrêt de condamnation à une peine de réclusion criminelle à temps excédant dix ans ou à une peine plus forte : 20 F.
+4° D'un arrêt de condamnation à une peine de réclusion criminelle à temps excédant dix ans ou à une peine plus forte : 3,05
+euros.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°59-318 1959-02-23
-
-	**Créé par**:
-
-	  - Décret n°59-318 1959-02-23 JORF 25 février 1959 en vigueur le 2 mars 1959 rectificatif JORF 13 juin 1959
 
 	**Cité par**:
 
@@ -53603,12 +53669,11 @@ pas dix ans : 10 F.
 
 	**Modifié par**:
 
-	  - Décret n°67-62 1967-01-14 art. 1 JORF 20 janvier 1967
-	  - Décret n°74-88 1974-02-04 art. 1 JORF 6 février 1974
+	  - Ordonnance 2000-916 2000-09-19 annexe JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 	**Cite**:
 
-	  - CODE DE PROCEDURE PENALE - art. R188 (V)
+	  - Code de procédure pénale - art. R188 (V)
 
 
 ##### Paragraphe 4 : Exécution des arrêts de contumace
@@ -53616,7 +53681,7 @@ pas dix ans : 10 F.
 ###### Article R192
 
 Pour les affiches de l'ordonnance qui, aux termes des articles 627 et 628, doit être rendue et publiée contre les contumax, y
-compris le procès-verbal de la publication, il est alloué aux huissiers de justice une indemnité de 7,50 F.
+compris le procès-verbal de la publication, il est alloué aux huissiers de justice une indemnité de 1,14 euro.
 
 **Liens relatifs à cet article**
 
@@ -53624,25 +53689,20 @@ compris le procès-verbal de la publication, il est alloué aux huissiers de jus
 
 	  - Décret n°59-318 1959-02-23
 
-	**Créé par**:
-
-	  - Décret n°59-318 1959-02-23 JORF 25 février 1959 en vigueur le 2 mars 1959 rectificatif JORF 13 juin 1959
-
 	**Modifié par**:
 
-	  - Décret n°67-62 1967-01-14 art. 1 JORF 20 janvier 1967
-	  - Décret n°74-88 1974-02-04 art. 1 JORF 6 février 1974
+	  - Ordonnance 2000-916 2000-09-19 annexe JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 	**Cite**:
 
-	  - Code de procédure pénale 627 et 628
+	  - Code de procédure pénale - art. 627 (V)
 
 
 ###### Article R193
 
 Il est alloué aux huissiers de justice pour l'apposition de chacun des trois extraits de l'arrêt de condamnation par
 contumace qui doit être affiché, conformément à l'article 634, et pour la rédaction du procès-verbal constatant
-l'accomplissement de cette formalité, un droit de 3,75 F.
+l'accomplissement de cette formalité, un droit de 0,57 euro.
 
 **Liens relatifs à cet article**
 
@@ -53650,18 +53710,13 @@ l'accomplissement de cette formalité, un droit de 3,75 F.
 
 	  - Décret n°59-318 1959-02-23
 
-	**Créé par**:
-
-	  - Décret n°59-318 1959-02-23 JORF 25 février 1959 en vigueur le 2 mars 1959 rectificatif JORF 13 juin 1959
-
 	**Modifié par**:
 
-	  - Décret n°67-62 1967-01-14 art. 1 JORF 20 janvier 1967
-	  - Décret n°74-88 1974-02-04 art. 1 JORF 6 février 1974
+	  - Ordonnance 2000-916 2000-09-19 annexe JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 	**Cite**:
 
-	  - CODE DE PROCEDURE PENALE - art. 634 (M)
+	  - Code de procédure pénale - art. 634 (Ab)
 
 
 ##### Paragraphe 5 : Frais de voyage et de séjour
@@ -53707,9 +53762,9 @@ Il n'est dû aucun transport dans les limites des villes ou chefs-lieux de commu
 
 ###### Article R195
 
-Il est alloué, à compter du second jour, une indemnité de 30 F par jour aux huissiers de justice retenus en dehors de leur
-résidence soit par l'accomplissement de leurs fonctions, soit en raison de la durée du déplacement, soit par un cas de force
-majeure dûment constatée.
+Il est alloué, à compter du second jour, une indemnité de 4,57 euros par jour aux huissiers de justice retenus en dehors de
+leur résidence soit par l'accomplissement de leurs fonctions, soit en raison de la durée du déplacement, soit par un cas de
+force majeure dûment constatée.
 
 **Liens relatifs à cet article**
 
@@ -53717,14 +53772,9 @@ majeure dûment constatée.
 
 	  - Décret n°59-318 1959-02-23
 
-	**Créé par**:
-
-	  - Décret n°59-318 1959-02-23 JORF 25 février 1959 en vigueur le 2 mars 1959 rectificatif JORF 13 juin 1959
-
 	**Modifié par**:
 
-	  - Décret n°67-62 1967-01-14 art. 1 JORF 20 janvier 1967
-	  - Décret n°74-88 1974-02-04 art. 1 JORF 6 février 1974
+	  - Ordonnance 2000-916 2000-09-19 annexe JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 	**Cité par**:
 
@@ -53911,7 +53961,7 @@ des établissements publics nationaux à caractère administratif et de certains
 
 Pour chaque remise ou mise en oeuvre, à la demande des autorités judiciaires dans les conditions fixées par le II de
 l'article 28 de la loi n° 90-1170 du 29 décembre 1990 sur la réglementation des télécommunications, des conventions secrètes
-de moyens ou prestations de cryptologie, il est alloué une somme de 400 F à chaque organisme agréé.
+de moyens ou prestations de cryptologie, il est alloué une somme de 60,98 euros à chaque organisme agréé.
 
 **Liens relatifs à cet article**
 
@@ -53921,11 +53971,11 @@ de moyens ou prestations de cryptologie, il est alloué une somme de 400 F à ch
 
 	**Cite**:
 
-	  - Loi n°90-1170 1990-12-29 art. 28
+	  - Loi n°90-1170 du 29 décembre 1990 - art. 28 (Ab)
 
 	**Modifié par**:
 
-	  - Décret n°99-203 du 18 mars 1999 - art. 15 () JORF 20 mars 1999
+	  - Ordonnance 2000-916 2000-09-19 annexe JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 
 ##### Section 9 : Des frais d'impression
@@ -54023,8 +54073,8 @@ imprimés joignent à chaque article de leur mémoire un exemplaire de l'objet i
 ###### Article R213
 
 Il est alloué à chaque propriétaire ou dépositaire de documents imprimés, conservés sur support de quelque nature que ce
-soit, une indemnité de 25 F par réquisition pour l'ensemble des recherches d'archives nécessaires auxquelles il procède et
-une indemnité de 0,50 F par page pour les reproductions délivrées de ces documents.
+soit, une indemnité de 3,81 euros par réquisition pour l'ensemble des recherches d'archives nécessaires auxquelles il procède
+et une indemnité de 0,08 euro par page pour les reproductions délivrées de ces documents.
 
 **Liens relatifs à cet article**
 
@@ -54034,7 +54084,7 @@ une indemnité de 0,50 F par page pour les reproductions délivrées de ces docu
 
 	**Modifié par**:
 
-	  - Décret n°99-203 du 18 mars 1999 - art. 17 () JORF 20 mars 1999
+	  - Ordonnance 2000-916 2000-09-19 annexe JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 
 #### Chapitre III : Des dépenses assimilées à celles de l'instruction des procès criminels
@@ -54111,14 +54161,12 @@ Il est alloué à chaque personne désignée en qualité d'administrateur ad hoc
 l'article R. 53 ou qu'il a été fait application des dispositions de l'article R. 53-6, pour l'ensemble des frais exposés pour
 la défense des intérêts d'une victime mineure :
 
-1° Lorsque les faits ont donné lieu à l'ouverture d'une information devant le juge d'instruction : 2 500 F ;
+1° Lorsque les faits ont donné lieu à l'ouverture d'une information devant le juge d'instruction : 381,12 euros ;
 
 2° Lorsque la désignation de l'administrateur ad hoc a été faite par le procureur de la République au cours d'une enquête qui
-n'a pas été suivie d'une instruction préparatoire : 1 500 F ;
+n'a pas été suivie d'une instruction préparatoire : 228,67 euros ;
 
-3° En cas de désignation par la juridiction de jugement :
-
-1 000 F.
+3° En cas de désignation par la juridiction de jugement : 152,45 euros.
 
 Lorsque l'administrateur ad hoc est désigné pour assurer la protection des intérêts de plusieurs mineurs d'une même fratrie,
 l'indemnité est réduite de 50 % pour chaque enfant à partir du deuxième.
@@ -54129,26 +54177,21 @@ l'indemnité est réduite de 50 % pour chaque enfant à partir du deuxième.
 
 	  - Décret n°59-318 1959-02-23
 
-	**Modifié par**:
-
-	  - Décret n°99-818 du 16 septembre 1999 - art. 5 () JORF 19 septembre 1999 rectificatif JORF 8 janvier 2000
-
 	**Cité par**:
 
 	  - Décret n°99-818 du 16 septembre 1999 - art. 8-1 (V)
 	  - CODE DE PROCEDURE PENALE - art. A43-8 (V)
 
-	**Cite**:
+	**Modifié par**:
 
-	  - CODE DE PROCEDURE PENALE - art. R53 (M)
-	  - CODE DE PROCEDURE PENALE - art. R53-6 (M)
+	  - Ordonnance 2000-916 2000-09-19 annexe JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 
 ###### Article R216-1
 
-En cas d'ouverture d'une information judiciaire, une provision d'un montant maximum de 1 500 F peut être accordée par le juge
-d'instruction à l'administrateur ad hoc, sur sa demande, si ce dernier remet en cours de mission et au moins six mois après
-sa désignation, un rapport récapitulant les démarches effectuées et les formalités accomplies.
+En cas d'ouverture d'une information judiciaire, une provision d'un montant maximum de 228,67 euros peut être accordée par le
+juge d'instruction à l'administrateur ad hoc, sur sa demande, si ce dernier remet en cours de mission et au moins six mois
+après sa désignation, un rapport récapitulant les démarches effectuées et les formalités accomplies.
 
 **Liens relatifs à cet article**
 
@@ -54156,13 +54199,13 @@ sa désignation, un rapport récapitulant les démarches effectuées et les form
 
 	  - Décret n°59-318 1959-02-23
 
-	**Créé par**:
-
-	  - Décret n°99-818 du 16 septembre 1999 - art. 5 () JORF 19 septembre 1999
-
 	**Cité par**:
 
 	  - Décret n°99-818 du 16 septembre 1999 - art. 8-1 (V)
+
+	**Modifié par**:
+
+	  - Ordonnance 2000-916 2000-09-19 annexe JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 
 ##### Paragraphe 2 : Procédures suivies en application de la législation sur les incapables
@@ -56573,14 +56616,18 @@ communiquée à l'autorité administrative ou militaire chargée d'établir les 
 ###### Article D47-1
 
 Le demandeur en inscription de faux contre une pièce produite devant la Cour de cassation, dont le premier président rejette
-la demande, est condamné, sauf s'il en est expressément dispensé, au paiement d'une amende civile de 200 F au moins et de
-1.000 F. au plus.
+la demande, est condamné, sauf s'il en est expressément dispensé, au paiement d'une amende civile de 30 euros au moins et de
+150 euros au plus.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°59-322 1959-02-23
+
+	**Modifié par**:
+
+	  - Décret n°2001-373 du 27 avril 2001 - art. 1 (V) JORF 29 avril 2001 en vigueur le 1er janvier 2002
 
 
 ### Titre XVI : De la poursuite, de l'instruction et du jugement des infractions en matière de trafic de stupéfiants
@@ -76466,7 +76513,7 @@ la qualité de leur expéditeur.
 ###### Article A41
 
 Le montant de la participation des détenus aux frais de leur entretien sur le produit de leur travail, prévu à l'article D.
-112 du code de procédure pénale est porté à 300 F par mois, soit 10 F par jour.
+112 du code de procédure pénale est porté à 45 euros par mois, soit 1,5 euro par jour.
 
 **Liens relatifs à cet article**
 
@@ -76476,9 +76523,11 @@ Le montant de la participation des détenus aux frais de leur entretien sur le p
 
 	**Modifié par**:
 
-	  - Arrêté 1971-04-15 art. 2 JORF 16 avril 1971
-	  - Arrêté 1975-03-21 art. 1 JORF 26 mars 1975
-	  - Arrêté 1979-07-09 art. 1 JORF 21 juillet 1979
+	  - Arrêté 2001-07-20 art. 1 JORF 8 août 2001 en vigueur le 1er   janvier 2002
+
+	**Abrogé par**:
+
+	  - Arrêté 2005-03-30 art. 3 JORF 7 avril 2005
 
 	**Cite**:
 
@@ -76488,7 +76537,7 @@ Le montant de la participation des détenus aux frais de leur entretien sur le p
 ###### Article A41-1
 
 La somme prévue à l'article D. 324 du code de procédure pénale à partir de laquelle les dépôts sur livrets de caisse
-d'épargne doivent être effectués est fixée à 1 500 F.
+d'épargne doivent être effectués est fixée à 229 euros.
 
 **Liens relatifs à cet article**
 
@@ -76498,16 +76547,24 @@ d'épargne doivent être effectués est fixée à 1 500 F.
 
 	**Modifié par**:
 
-	  - Arrêté 1989-11-07 art. 1 JORF 29 novembre 1989 en vigueur le 1er janvier 1990
+	  - Arrêté 2001-07-20 art. 1 JORF 8 août 2001 en vigueur le 1er janvier 2002
+
+	**Transféré par**:
+
+	  - Arrêté 2005-03-30 art. 3 JORF 7 avril 2005
 
 	**Cite**:
 
 	  - CODE DE PROCEDURE PENALE - art. D324. (M)
 
+	**Nouveaux textes**:
+
+	  - Code de procédure pénale A 41
+
 
 ###### Article A42
 
-La somme mensuelle prévue au premier alinéa de l'article D 329 du code de procédure pénale est fixée à 1 200 F.  Cette somme
+La somme mensuelle prévue au premier alinéa de l'article D 329 du code de procédure pénale est fixée à 183 euros. Cette somme
 est doublée à l'occasion des fêtes de fin d'année.
 
 **Liens relatifs à cet article**
@@ -76518,7 +76575,11 @@ est doublée à l'occasion des fêtes de fin d'année.
 
 	**Modifié par**:
 
-	  - Arrêté 1989-11-29 art. 2 JORF 9 décembre 1989
+	  - Arrêté 2001-07-20 art. 1 JORF 8 août 2001 en vigueur le 1er janvier 2002
+
+	**Abrogé par**:
+
+	  - Arrêté 2005-03-30 art. 3 JORF 7 avril 2005
 
 	**Cite**:
 
