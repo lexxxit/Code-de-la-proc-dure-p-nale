@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 1991-12-19
+Version Consolidée au 1991-12-20
 
 # Partie législative
 
@@ -39911,6 +39911,44 @@ juridictionnelle " par l'article 159 du décret n° 91-1266 du 19 décembre 1991
 
 	  - Décret n°99-818 du 16 septembre 1999 - art. 8-1 (V)
 	  - CODE DE PROCEDURE PENALE - art. A43-8 (V)
+
+
+##### Paragraphe 2 : Procédures suivies en application de la législation sur les incapables
+
+###### Article R217
+
+Si le mineur est solvable, les frais des procédures suivies en matière de tutelle sont à sa charge et le recouvrement en est
+poursuivi conformément à la loi du 5 septembre 1807.
+
+Le juge des tutelles, ou le tribunal ultérieurement saisi, peut toutefois décider qu'une autre partie en supportera la
+charge.
+
+Si le mineur ne paraît pas avoir de ressources suffisantes, le juge des tutelles constate cette insuffisance par ordonnance ;
+les frais sont alors avancés et recouvrés comme en matière d'aide juridictionnelle.
+
+Les mêmes règles sont applicables en matière de régimes de protection des majeurs.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-318 1959-02-23
+
+	**Créé par**:
+
+	  - Décret n°81-70 1981-01-28 art. 8 JORF 30 janvier 1981
+
+	**Modifié par**:
+
+	  - Décret n°91-1266 1991-12-19 art. 159 JORF 20 décembre 1991
+
+	**Cité par**:
+
+	  - Code de procédure pénale - art. R349 (V)
+
+	**Cite**:
+
+	  - Loi n°1807-09-05
 
 
 ##### Paragraphe 3 : Frais engagés d'office en matière de mesures conservatoires prises après l'ouverture d'une succession.
