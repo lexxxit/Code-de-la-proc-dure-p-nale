@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 1963-01-16
+Version Consolidée au 1963-02-24
 
 # Partie législative
 
@@ -1712,6 +1712,51 @@ Les formes prévues par les articles 56 et 59 (premier alinéa) sont applicables
 	  - Code de procédure pénale 56 et 59
 
 
+###### Article 77
+
+Lorsque pour les nécessités de l'enquête préliminaire, l'officier de police judiciaire est amené à retenir une personne à sa
+disposition plus de vingt-quatre heures celle-ci doit être obligatoirement conduite avant l'expiration de ce délai devant le
+procureur de la République.
+
+Après audition de la personne qui lui est amenée, le procureur de la République peut accorder l'autorisation écrite de
+prolonger la garde à vue d'un nouveau délai de vingt-quatre heures.
+
+Les dispositions du dernier alinéa de l'article 64 sont applicables.
+
+A titre exceptionnel, cette autorisation peut être accordée, par décision motivée, sans que la personne soit conduite au
+Parquet.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°57-1426 1957-12-31
+
+	**Modifié par**:
+
+	  - Ordonnance 60-121 1960-02-13 art. 1 JORF 14 février 1960
+	  - Loi n°63-22 1963-01-15 art. 1 JORF 16 janvier 1963 en vigueur le 24 février 1963
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°63-22 1963-01-15 art. 3
+
+	**Cité par**:
+
+	  - Loi n°83-520 du 27 juin 1983 - art. 12 (V)
+	  - CODE DE PROCEDURE PENALE - art. 171 (M)
+	  - CODE DE PROCEDURE PENALE - art. 706-23 (Ab)
+	  - CODE DE PROCEDURE PENALE - art. 706-29 (Ab)
+	  - CODE DE PROCEDURE PENALE - art. 812 (V)
+	  - Code de justice militaire - art. 87 (Ab)
+	  - Code de la santé publique - art. L627-1 (Ab)
+	  - Code de procédure pénale - art. 706-88 (V)
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. 64 (M)
+
+
 ###### Article 78
 
 Les gardes à vue sont mentionnées dans les formes prévues aux articles 64 et 65.
@@ -3080,6 +3125,60 @@ force publique et prendre contre lui les sanctions prévues à l'article 109, al
 	**Cite**:
 
 	  - Code de procédure pénale 109 al. 2 et 3
+
+
+###### Article 154
+
+Lorsque, pour les nécessités de l'exécution de la commission rogatoire, l'officier de police judiciaire est amené à retenir
+une personne à sa disposition, celle-ci doit être obligatoirement conduite, dans les vingt-quatre heures, devant le juge
+d'instruction dans le ressort duquel se poursuit l'exécution. Après audition de la personne qui lui est amenée, le juge
+d'instruction peut accorder l'autorisation écrite de prolonger la garde à vue d'un nouveau délai de vingt-quatre heures.
+
+A titre exceptionnel, cette autorisation peut être accordée, par décision motivée, sans que la personne soit conduite devant
+le juge d'instruction.
+
+Les gardes à vue auxquelles il est ainsi procédé par un officier de police judiciaire sont mentionnées dans les formes
+prévues aux articles 64 et 65.
+
+Le juge d'instruction fixe le délai dans lequel les procès-verbaux dressés par l'officier de police judiciaire doivent lui
+être transmis par celui-ci. A défaut d'une telle fixation, ces procès-verbaus doivent lui être transmis dans les huit jours
+de la fin des opérations exécutées en vertu de la commission rogatoire.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°57-1426 1957-12-31
+
+	**Modifié par**:
+
+	  - Ordonnance 60-121 1960-02-13 art. 1 JORF 14 février 1960
+	  - Loi n°63-22 1963-01-15 art. 1 JORF 16 janvier 1963 en vigueur le 24 février 1963
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°63-22 1963-01-15 art. 3
+	  - TXT_SOURCE: CODE DE PROCEDURE PENALE - art. D33 (V)
+	  - TXT_SOURCE: CODE DE PROCEDURE PENALE - art. D34 (V)
+	  - TXT_SOURCE: CODE DE PROCEDURE PENALE - art. D35 (V)
+	  - TXT_SOURCE: CODE DE PROCEDURE PENALE - art. D36 (M)
+
+	**Cité par**:
+
+	  - Loi n°83-520 du 27 juin 1983 - art. 12 (V)
+	  - CODE DE PROCEDURE PENALE - art. 171 (M)
+	  - CODE DE PROCEDURE PENALE - art. 706-29 (Ab)
+	  - CODE DE PROCEDURE PENALE - art. 812 (V)
+	  - Code de justice militaire - art. 87 (Ab)
+	  - Code de justice militaire. - art. L211-8 (VD)
+	  - Code de la santé publique - art. L627-1 (Ab)
+	  - Code de procédure pénale - art. 135-1 (V)
+	  - Code de procédure pénale - art. 153 (V)
+	  - Code de procédure pénale - art. 706-88 (VD)
+
+	**Cite**:
+
+	  - Code de procédure pénale 64 et 65
 
 
 #### Chapitre II : De la chambre d'accusation : juridiction d'instruction du second degré
