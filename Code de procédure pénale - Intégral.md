@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 1974-07-19
+Version Consolidée au 1975-01-05
 
 # Partie législative
 
@@ -22015,98 +22015,6 @@ d'enregistrement.
 	**Cite**:
 
 	  - Code de procédure pénale 155 al. 2
-
-
-##### Section 9 : De l'expertise
-
-###### Article D37
-
-(Article abrogé).
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°58-1304 1958-12-23
-
-	**Abrogé par**:
-
-	  - Décret n°74-1184 du 31 décembre 1974 - art. 40 (Ab) JORF 5 janvier 1975 rectificatif JORF 14 janvier 1975
-
-
-###### Article D38
-
-(Aarticle abrogé).
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°58-1304 1958-12-23
-
-	**Abrogé par**:
-
-	  - Décret n°74-1184 du 31 décembre 1974 - art. 40 (Ab) JORF 5 janvier 1975 rectificatif JORF 14 janvier 1975
-
-
-###### Article D39
-
-*article abrogé*.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°58-1304 1958-12-23
-
-	**Abrogé par**:
-
-	  - Décret n°74-1184 du 31 décembre 1974 - art. 40 (Ab) JORF 5 janvier 1975 rectificatif JORF 14 janvier 1975
-
-
-###### Article D40
-
-(Article abrogé).
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°58-1304 1958-12-23
-
-	**Abrogé par**:
-
-	  - Décret n°74-1184 du 31 décembre 1974 - art. 40 (Ab) JORF 5 janvier 1975 rectificatif JORF 14 janvier 1975
-
-
-###### Article D41
-
-(Article abrogé).
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°58-1304 1958-12-23
-
-	**Abrogé par**:
-
-	  - Décret n°74-1184 du 31 décembre 1974 - art. 40 (Ab) JORF 5 janvier 1975 rectificatif JORF 14 janvier 1975
-
-
-###### Article D42
-
-(Article abrogé).
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°58-1304 1958-12-23
-
-	**Abrogé par**:
-
-	  - Décret n°74-1184 du 31 décembre 1974 - art. 40 (Ab) JORF 5 janvier 1975 rectificatif JORF 14 janvier 1975
 
 
 #### Chapitre II : De la chambre d'accusation : juridiction d'instruction du second degré
