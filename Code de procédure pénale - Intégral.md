@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 1958-12-24
+Version Consolidée au 1959-02-25
 
 # Partie législative
 
@@ -2745,6 +2745,106 @@ procureur général et au président de la chambre d'accusation.
 	**Cite**:
 
 	  - CODE DE PROCEDURE PENALE - art. D16 (M)
+
+
+## Livre V : Des procédures d'exécution
+
+### Titre II : De la détention
+
+#### Chapitre Ier : De l'exécution de la détention provisoire
+
+##### Section 3 : Du régime de la détention provisoire
+
+##### Paragraphe 3 : Visites et correspondance
+
+###### Article D64
+
+Les permis de visite sont délivrés pour les prévenus par le magistrat saisi du dossier de l'information et ils sont utilisés
+dans les conditions visées aux articles D403 et suivants.
+
+Sauf disposition contraire, ces permis sont valables jusqu'au moment où la condamnation éventuelle acquiert un caractère
+définitif. En conséquence, il n'y a pas lieu à renouvellement du permis lorsque le magistrat qui l'a accordé est dessaisi du
+dossier de la procédure, mais l'autorité judiciaire ultérieurement saisie est compétente pour en supprimer les effets ou pour
+délivrer de nouveaux permis.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-322 1959-02-23
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°59-322 1959-02-23 art. 6
+	  - TXT_SOURCE: Code de procédure pénale 714 à 728
+
+	**Cité par**:
+
+	  - Arrêté du 4 octobre 2010 - art. 4 (V)
+	  - CODE DE PROCEDURE PENALE - art. D186 (V)
+	  - CODE DE PROCEDURE PENALE - art. D403 (V)
+
+
+###### Article D65
+
+Les prévenus peuvent écrire tous les jours et sans limitation à toute personne de leur choix et recevoir des lettres de toute
+personne, sous réserve de dispositions contraires ordonnées par le magistrat saisi du dossier de l'information.
+
+Indépendamment des mesures de contrôle auxquelles elle est soumise conformément aux articles D415 et D416, leur
+correspondance est communiquée audit magistrat dans les conditions que celui-ci détermine.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-322 1959-02-23
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°59-322 1959-02-23 art. 6
+	  - TXT_SOURCE: Code de procédure pénale 714 à 728
+
+	**Abrogé par**:
+
+	  - Décret n°2010-1635 du 23 décembre 2010 - art. 46
+
+	**Cité par**:
+
+	  - CODE DE PROCEDURE PENALE - art. D32-1 (M)
+	  - Code de procédure pénale - art. D413 (Ab)
+
+	**Cite**:
+
+	  - Code de procédure pénale
+
+
+#### Chapitre II : De l'exécution des peines privatives de liberté
+
+##### Section 3 : Du régime auquel les condamnés sont soumis
+
+##### Paragraphe 1er : Maisons d'arrêt
+
+##### B : Etablissements en commun
+
+###### Article D88
+
+Dans les maisons d'arrêt dont les locaux, en tout ou en partie, ne permettent que l'incarcération en commun, et où les
+détenus sont par suite nécessairement réunis, toutes les précautions utiles doivent être prises pour éviter que leur
+promiscuité entraîne des conséquences fâcheuses.
+
+Au surplus, dans la mesure du possible, il convient d'assurer l'emprisonnement individuel de certains détenus et, pour les
+autres, de les séparer par catégories.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-322 1959-02-23
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°59-322 1959-02-23 art. 6
+	  - TXT_SOURCE: Code de procédure pénale 714 à 728
 
 
 # Partie Arrêtés
