@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 1979-07-05
+Version Consolidée au 1979-09-01
 
 # Partie législative
 
@@ -36556,6 +36556,34 @@ pour le deuxième et 10 % pour le troisième.
 ##### Section 1 : De la gestion des biens des détenus
 
 ##### Paragraphe 1er : Pécule.
+
+###### Article A41-1
+
+La somme prévue à l'article D. 324 du code de procédure pénale à partir de laquelle les dépôts sur livrets de caisse
+d'épargne doivent être effectués est fixée à 1.000 F.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Arrêté 1959-02-27
+
+	**Créé par**:
+
+	  - Arrêté 1975-03-21 art. 1 et art. 2 JORF 26 mars 1975 en vigueur le 1er avril 1975
+
+	**Modifié par**:
+
+	  - Arrêté 1979-07-09 art. 1 et art. 3 JORF 21 juillet 1979 en vigueur le 1er septembre 1979
+
+	**Liens**:
+
+	  - SPEC_APPLI: Arrêté 1979-07-09 art. 3
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. D324. (M)
+
 
 ###### Article A42-1
 
