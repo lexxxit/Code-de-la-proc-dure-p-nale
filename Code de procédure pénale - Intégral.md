@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 2002-05-05
+Version Consolidée au 2002-06-16
 
 # Partie législative
 
@@ -18808,12 +18808,12 @@ tribunal.
 
 Dans le cas prévu par l'article précédent, si la réunion du tribunal est impossible le jour même et si les éléments de
 l'espèce lui paraissent exiger une mesure de détention provisoire, le procureur de la République peut traduire le prévenu
-devant le président du tribunal ou le juge délégué par lui, statuant en chambre du conseil avec l'assistance d'un greffier.
+devant le juge des libertés et de la détention, statuant en chambre du conseil avec l'assistance d'un greffier.
 
-Le président du tribunal ou le juge, après avoir recueilli les déclarations du prévenu, son avocat ayant été avisé, et après
-avoir fait procéder, s'il y a lieu, aux vérifications prévues par le sixième alinéa de l'article 41, statue sur les
-réquisitions du ministère public aux fins de détention provisoire, après avoir recueilli les observations éventuelles du
-prévenu ou de son avocat ; l'ordonnance rendue n'est pas susceptible d'appel.
+Le juge, après avoir recueilli les déclarations du prévenu, son avocat ayant été avisé, et après avoir fait procéder, s'il y
+a lieu, aux vérifications prévues par le sixième alinéa de l'article 41, statue sur les réquisitions du ministère public aux
+fins de détention provisoire, après avoir recueilli les observations éventuelles du prévenu ou de son avocat ; l'ordonnance
+rendue n'est pas susceptible d'appel.
 
 Il peut placer le prévenu en détention provisoire jusqu'à sa comparution devant le tribunal. L'ordonnance prescrivant la
 détention est rendue suivant les modalités prévues par les articles 135 et 145-1, quatrième alinéa, et doit comporter
@@ -18822,8 +18822,8 @@ des 1°, 2° et 3° de l'article 144. Cette décision énonce les faits retenus 
 verbalement au prévenu et mentionnée au procès-verbal dont copie lui est remise sur-le-champ. Le prévenu doit comparaître
 devant le tribunal au plus tard le deuxième jour ouvrable suivant. A défaut, il est mis d'office en liberté.
 
-Si le président du tribunal ou le juge estime que la détention provisoire n'est pas nécessaire, le ministère public procède
-comme il est dit à l'article 394.
+Si le juge estime que la détention provisoire n'est pas nécessaire, le ministère public procède comme il est dit à l'article
+394.
 
 **Liens relatifs à cet article**
 
@@ -18833,7 +18833,7 @@ comme il est dit à l'article 394.
 
 	**Modifié par**:
 
-	  - Loi n°96-1235 du 30 décembre 1996 - art. 12 () JORF 1er janvier 1997 en vigueur le 31 mars 1997
+	  - Loi n°2000-516 du 15 juin 2000 - art. 49 () JORF 16 juin 2000 en vigueur le 16 juin 2002
 
 	**Cité par**:
 
@@ -31182,9 +31182,9 @@ et 706-19 par lequel une chambre de l'instruction statue sur son dessaisissement
 
 Pour l'application des articles 63, 77 et 154, si les nécessités de l'enquête ou de l'instruction relatives à l'une des
 infractions entrant dans le champ d'application de l'article 706-16 l'exigent, la garde à vue d'une personne majeure peut
-faire l'objet d'une prolongation supplémentaire de quarante-huit heures. Cette prolongation est autorisée soit, à la requête
-du procureur de la République, par le président du tribunal dans le ressort duquel s'exerce la garde à vue ou le juge délégué
-par lui, soit, dans les cas prévus par les articles 72 et 154, par le juge d'instruction.
+faire l'objet d'une prolongation supplémentaire de quarante-huit heures.     Cette prolongation est autorisée soit, à la
+requête du procureur de la République, par le juge des libertés et de la détention, soit, dans les cas prévus par les
+articles 72 et 154, par le juge d'instruction.
 
 L'intéressé doit être présenté à l'autorité qui statue sur la prolongation préalablement à sa décision.
 
@@ -31199,7 +31199,11 @@ prévus par les articles 72 et 154, le juge d'instruction est compétent pour d�
 
 	**Modifié par**:
 
-	  - Loi n°92-1336 du 16 décembre 1992 - art. 74 () JORF 23 décembre 1992 en vigueur le 1er mars 1994
+	  - Loi n°2000-516 du 15 juin 2000 - art. 49 () JORF 16 juin 2000 en vigueur le 16 juin 2002
+
+	**Abrogé par**:
+
+	  - Loi n°2004-204 du 9 mars 2004 - art. 14 () JORF 10 mars 2004 en vigueur le 1er octobre 2004
 
 	**Cité par**:
 
@@ -31498,12 +31502,12 @@ par l'article 59 peuvent être opérées en dehors des heures prévues par cet a
 société de stupéfiants ou dans lesquels sont fabriqués, transformés ou entreposés illicitement des stupéfiants.
 
 Les opérations prévues à l'alinéa précédent doivent, à peine de nullité, être autorisées, sur requête du procureur de la
-République, par le président du tribunal de grande instance ou le juge délégué par lui, lorsqu'il s'agit de les effectuer
-dans une maison d'habitation ou un appartement, à moins qu'elles ne soient autorisées par le juge d'instruction. Chaque
-autorisation fait l'objet d'une décision écrite, précisant la qualification de l'infraction dont la preuve est recherchée
-ainsi que l'adresse des lieux dans lesquels les visites, perquisitions et saisies peuvent être effectuées, et motivée par
-référence aux éléments de fait justifiant que ces opérations sont nécessaires. Celles-ci sont effectuées sous le contrôle du
-magistrat qui les a autorisées, et qui peut se déplacer sur les lieux pour veiller au respect des dispositions légales.
+République, par le juge des libertés et de la détention, lorsqu'il s'agit de les effectuer dans une maison d'habitation ou un
+appartement, à moins qu'elles ne soient autorisées par le juge d'instruction. Chaque autorisation fait l'objet d'une décision
+écrite, précisant la qualification de l'infraction dont la preuve est recherchée ainsi que l'adresse des lieux dans lesquels
+les visites, perquisitions et saisies peuvent être effectuées, et motivée par référence aux éléments de fait justifiant que
+ces opérations sont nécessaires. Celles-ci sont effectuées sous le contrôle du magistrat qui les a autorisées, et qui peut se
+déplacer sur les lieux pour veiller au respect des dispositions légales.
 
 Les actes prévus au présent article ne peuvent, à peine de nullité, avoir un autre objet que la recherche et la constatation
 des infractions visées à l'article 706-26.
@@ -31514,13 +31518,13 @@ des infractions visées à l'article 706-26.
 
 	  - Ordonnance 58-1296 1958-12-23
 
-	**Modifié par**:
-
-	  - Loi n°96-647 du 22 juillet 1996 - art. 11 () JORF 23 juillet 1996
-
 	**Liens**:
 
 	  - SPEC_APPLI: Loi n°96-647 du 22 juillet 1996 - art. 27 (M)
+
+	**Modifié par**:
+
+	  - Loi n°2000-516 du 15 juin 2000 - art. 49 () JORF 16 juin 2000 en vigueur le 16 juin 2002
 
 	**Cite**:
 
@@ -31538,9 +31542,8 @@ Pour l'application des articles 63, 77 et 154, si les nécessités de l'enquête
 infractions visées par l'article 706-26 l'exigent, la garde à vue d'une personne peut faire l'objet d'une prolongation
 supplémentaire de quarante-huit heures.
 
-Cette prolongation est autorisée soit, à la requête du procureur de la République, par le président du tribunal de grande
-instance dans le ressort duquel s'exerce la garde à vue ou un juge délégué par lui, soit, dans les cas prévus par les
-articles 72 et 154, par le juge d'instruction.
+Cette prolongation est autorisée soit, à la requête du procureur de la République, par le juge des libertés et de la
+détention, soit, dans les cas prévus par les articles 72 et 154, par le juge d'instruction.
 
 La personne gardée à vue doit être présentée à l'autorité qui statue sur la prolongation préalablement à cette décision. A
 titre exceptionnel, la prolongation peut être accordée par décision écrite et motivée sans présentation préalable.
@@ -31557,9 +31560,13 @@ personne intéressée, en cas de refus d'émargement, il en est fait mention.
 
 	  - Ordonnance 58-1296 1958-12-23
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°92-1336 du 16 décembre 1992 - art. 77 () JORF 23 décembre 1992 en vigueur le 1er mars 1994
+	  - Loi n°2000-516 du 15 juin 2000 - art. 49 () JORF 16 juin 2000 en vigueur le 16 juin 2002
+
+	**Abrogé par**:
+
+	  - Loi n°2004-204 du 9 mars 2004 - art. 14 () JORF 10 mars 2004 en vigueur le 1er octobre 2004
 
 	**Cite**:
 
