@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 2002-04-28
+Version Consolidée au 2002-05-02
 
 # Partie législative
 
@@ -59258,16 +59258,18 @@ professionnelle de leur destinataire ou de leur expéditeur.
 ###### Article D70
 
 Les établissements qui reçoivent les condamnés définitifs sont les maisons centrales, les centres de détention à vocation
-nationale ou régionale selon les distinctions prévues par les articles D. 71 et D. 72 et les centres de semi-liberté.
+nationale ou régionale selon les distinctions prévues par les articles D. 71 et D. 72, les centres de semi-liberté et les
+centres pour peines aménagées.
 
 Les maisons centrales comportent une organisation et un régime de sécurité dont les modalités internes permettent également
 de préserver et de développer les possibilités de réinsertion sociale des condamnés.
 
-Les centres de détention comportent un régime principalement orienté vers la réinsertion sociale des condamnés.
+Les centres de détention et les centres pour peines aménagées comportent un régime principalement orienté vers la réinsertion
+sociale et la préparation à la sortie des condamnés.
 
-Les condamnés faisant l'objet d'une mesure de semi-liberté sont détenus dans les centres ou quartiers de semi-liberté. Les
-condamnés faisant l'objet d'une mesure de placement à l'extérieur dans les conditions fixées par l'article D. 136 peuvent
-également y être détenus.
+Les condamnés faisant l'objet d'une mesure de semi-liberté sont détenus soit dans les centres ou quartiers de semi-liberté,
+soit dans les centres pour peines aménagées. Les condamnés faisant l'objet d'une mesure de placement à l'extérieur dans les
+conditions fixées par l'article D. 136 peuvent également être détenus dans ces établissements.
 
 A titre exceptionnel, les maisons d'arrêt peuvent recevoir des condamnés, dans les conditions déterminées par l'article D.
 73.
@@ -59280,7 +59282,7 @@ A titre exceptionnel, les maisons d'arrêt peuvent recevoir des condamnés, dans
 
 	**Modifié par**:
 
-	  - Décret n°98-1099 du 8 décembre 1998 - art. 2 () JORF 9 décembre 1998
+	  - Décret n°2002-663 du 30 avril 2002 - art. 1 () JORF 2 mai 2002
 
 	**Cité par**:
 
@@ -59389,6 +59391,47 @@ Un arrêté du ministre de la justice fixe la liste des centres de détention à
 	**Liens**:
 
 	  - TXT_SOURCE: Code de procédure pénale 714 à 728
+
+
+###### Article D72-1
+
+Les centres de semi-liberté et quartiers de semi-liberté ainsi que les centres pour peines aménagées et les quartiers pour
+peines aménagées comportent un régime essentiellement orienté vers la réinsertion sociale et la préparation à la sortie des
+condamnés.
+
+Les condamnés faisant l'objet d'une mesure de semi-liberté sont détenus soit dans des centres de semi-liberté ou des
+quartiers de semi-liberté, soit dans des centres pour peines aménagées ou des quartiers pour peines aménagées. Les condamnés
+faisant l'objet d'une mesure de placement à l'extérieur dans les conditions fixées par l'article D. 136 peuvent également
+être détenus dans ces établissements ou ces quartiers.
+
+Les centres pour peines aménagées et quartiers pour peines aménagées peuvent recevoir les condamnés dont le reliquat de peine
+leur restant à subir est inférieur à un an.
+
+L'affectation dans un centre pour peines aménagées ou un quartier pour peines aménagées ne peut être décidée qu'avec l'accord
+du condamné.
+
+Un arrêté du garde des sceaux, ministre de la justice, fixe la liste des centres de semi-liberté, ainsi que des centres pour
+peines aménagées et des quartiers pour peines aménagées.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-322 1959-02-23
+
+	**Créé par**:
+
+	  - Décret n°2002-663 du 30 avril 2002 - art. 2 () JORF 2 mai 2002
+
+	**Cité par**:
+
+	  - Décret n°2014-1279 du 23 octobre 2014 - art. (VD)
+	  - Code de procédure pénale - art. A39-2 (VT)
+	  - Code de procédure pénale - art. A39-3 (V)
+
+	**Nouveaux textes**:
+
+	  - CODE DE PROCEDURE PENALE - art. D73-1 (Ab)
 
 
 ###### Article D73
@@ -59696,11 +59739,16 @@ le service pénitentiaire d'insertion et de probation compétent auprès de son 
 Le ministre de la justice dispose d'une compétence d'affectation des condamnés dans toutes les catégories d'établissement. Sa
 compétence est exclusive pour les affectations dans les maisons centrales et les centres de détention à vocation nationale.
 
-L'affectation des condamnés dans les centres de détention à vocation régionale est décidée par le directeur régional des
-services pénitentiaires. Celui-ci peut déléguer sa compétence aux directeurs des établissements pénitentiaires comprenant un
-quartier maison d'arrêt et un quartier centre de détention régional, pour l'affectation des condamnés qui y sont incarcérés
-et auxquels il reste à subir, au moment où leur condamnation ou la dernière de leurs condamnations est devenue définitive,
-une incarcération d'une durée inférieure à deux ans.
+L'affectation des condamnés dans les centres de détention à vocation régionale et les centres pour peines aménagées est
+décidée par le directeur régional des services pénitentiaires. Celui-ci peut déléguer sa compétence aux directeurs des
+établissements pénitentiaires comprenant un quartier maison d'arrêt et un quartier centre de détention régional, pour
+l'affectation des condamnés qui y sont incarcérés et auxquels il reste à subir, au moment où leur condamnation ou la dernière
+de leurs condamnations est devenue définitive, une incarcération d'une durée inférieure à deux ans.
+
+Le directeur régional des services pénitentiaires peut également déléguer sa compétence aux directeurs des établissements
+pénitentiaires comprenant un quartier maison d'arrêt et un quartier centre pour peines aménagées, pour l'affectation des
+condamnés qui y sont incarcérés et auxquels il reste à subir, au moment où leur condamnation ou la dernière de leurs
+condamnations est devenue définitive, une incarcération dont la durée totale n'excède pas un an.
 
 Les condamnés affectés dans des maisons d'arrêt sont maintenus dans l'établissement où ils sont écroués ou sont transférés
 dans une autre maison d'arrêt de la région. Dans ce second cas, l'affectation est décidée par le directeur régional des
@@ -59716,7 +59764,7 @@ Dans tous les cas, la décision est prise, sauf urgence, après consultation du 
 
 	**Modifié par**:
 
-	  - Décret n°98-1099 du 8 décembre 1998 - art. 2 () JORF 9 décembre 1998
+	  - Décret n°2002-663 du 30 avril 2002 - art. 3 () JORF 2 mai 2002
 
 	**Cité par**:
 
@@ -59734,7 +59782,7 @@ Dans tous les cas, la décision est prise, sauf urgence, après consultation du 
 Lorsque l'affectation incombe au directeur régional, la décision donne lieu :
 
 1° Soit à la délivrance d'un ordre de transfèrement du condamné à destination d'un centre de détention à vocation régionale
-ou d'une maison d'arrêt de sa circonscription ;
+ou d'un centre pour peines aménagées ou d'une maison d'arrêt de sa circonscription ;
 
 2° Soit au maintien de l'intéressé à l'établissement où il se trouve ;
 
@@ -59749,7 +59797,7 @@ justice est compétent en cas de désaccord entre les directeurs régionaux.
 
 	**Modifié par**:
 
-	  - Décret n°98-1099 du 8 décembre 1998 - art. 2 () JORF 9 décembre 1998
+	  - Décret n°2002-663 du 30 avril 2002 - art. 4 () JORF 2 mai 2002
 
 	**Cité par**:
 
@@ -59887,7 +59935,7 @@ procureur de la République du lieu de détention.
 Lorsque la décision incombe au directeur régional, elle donne lieu :
 
 1° Soit à la délivrance d'un ordre de transfèrement du condamné à destination d'un centre de détention à vocation régionale
-ou d'une maison d'arrêt de sa circonscription ;
+ou d'un centre pour peines aménagées ou d'une maison d'arrêt de sa circonscription ;
 
 2° Soit au maintien de l'intéressé à l'établissement où il se trouve.
 
@@ -59897,9 +59945,9 @@ ou d'une maison d'arrêt de sa circonscription ;
 
 	  - Décret n°59-322 1959-02-23
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°98-1099 du 8 décembre 1998 - art. 2 () JORF 9 décembre 1998
+	  - Décret n°2002-663 du 30 avril 2002 - art. 5 () JORF 2 mai 2002
 
 
 ###### Article D82-3
@@ -60377,6 +60425,34 @@ changement d'affectation.
 	**Liens**:
 
 	  - TXT_SOURCE: Code de procédure pénale 714 à 728
+
+
+###### Article D97-1
+
+Le régime des centres pour peines aménagées repose sur des actions d'insertion organisées à l'intérieur et à l'extérieur de
+ces établissements. Le maintien des liens familiaux s'effectuant selon les modalités prévues par l'article D. 146-1, les
+détenus ne bénéficient pas de parloir.
+
+Les détenus dont le comportement se révèle incompatible avec l'application de ce régime font l'objet d'une procédure de
+changement d'affectation.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-322 1959-02-23
+
+	**Créé par**:
+
+	  - Décret n°2002-663 du 30 avril 2002 - art. 6 () JORF 2 mai 2002
+
+	**Abrogé par**:
+
+	  - Décret n°2010-1635 du 23 décembre 2010 - art. 7
+
+	**Cite**:
+
+	  - Code de procédure pénale - art. D146-1
 
 
 ##### Section 6 : Du juge de l'application des peines, de la chambre des appels correctionnels statuant en matière d'application des peines et de la commission de l'application des peines
@@ -62089,6 +62165,36 @@ A leur égard, la durée de ces permissions peut être portée à cinq jours et,
 	**Liens**:
 
 	  - TXT_SOURCE: Code de procédure pénale 714 à 728
+
+
+###### Article D146-1
+
+Les condamnés incarcérés dans les centres pour peines aménagées peuvent bénéficier des permissions de sortir prévues à
+l'article D. 145 sans condition de délai. 
+
+A leur égard, la durée de ces permissions peut être portée à cinq jours.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-322 du 23 février 1959
+
+	**Créé par**:
+
+	  - Décret n°2002-663 du 30 avril 2002 - art. 7 () JORF 2 mai 2002
+
+	**Abrogé par**:
+
+	  - Décret n°2016-1222 du 14 septembre 2016 - art. 5
+
+	**Cite**:
+
+	  - Code de procédure pénale - art. D145
+
+	**Cité par**:
+
+	  - Code de procédure pénale - art. D97-1 (Ab)
 
 
 ###### Article D147
@@ -71440,6 +71546,9 @@ Les condamnés incarcérés dans les établissements pour peines peuvent être a
 personnelles importantes, par le chef de l'établissement, à téléphoner à leurs frais ou aux frais de leur correspondant.
 L'identité du correspondant et le contenu de la conversation sont contrôlés.
 
+Dans les centres pour peines aménagées, les condamnés peuvent téléphoner, à leurs frais ou aux frais de leur correspondant,
+aux personnes de leur choix.
+
 En outre, dans les centres de détention, les condamnés sont autorisés à téléphoner une fois par mois, selon les modalités
 énoncées ci-dessus, aux membres de leur famille ou aux titulaires de permis de visite.
 
@@ -71451,9 +71560,7 @@ En outre, dans les centres de détention, les condamnés sont autorisés à tél
 
 	**Modifié par**:
 
-	  - Décret n°72-852 1972-09-12 art. 1 JORF 20 septembre 1972 rectificatif JORF 14 octobre 1972
-	  - Décret n°75-402 1975-05-23 art. 1 JORF 27 mai 1975
-	  - Décret n°83-48 1983-01-26 art. 1 JORF 28 janvier 1983
+	  - Décret n°2002-663 du 30 avril 2002 - art. 8 () JORF 2 mai 2002
 
 	**Cité par**:
 
