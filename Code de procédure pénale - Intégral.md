@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 1975-07-13
+Version Consolidée au 1975-08-07
 
 # Partie législative
 
@@ -13971,6 +13971,41 @@ La chambre criminelle doit se prononcer dans la huitaine qui suit le jour où la
 	  - Loi n°93-2 du 4 janvier 1993 - art. 102 (V) JORF 5 janvier 1993
 
 
+###### Article 680
+
+Le juge d'instruction désigné conformément aux dispositions de l'article 83 doit procéder personnellement aux auditions, aux
+interrogatoires et aux confrontations des personnes visées aux articles 679 et 687 en considération desquelles sa désignation
+a été provoquée.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 58-1296 1958-12-23
+
+	**Modifié par**:
+
+	  - Loi n°75-701 1975-08-06 art. 14 JORF 7 août 1975
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°75-701 1975-08-06 décret fixant la date d'entrée en vigueur - absence
+
+	**Abrogé par**:
+
+	  - Loi n°93-2 du 4 janvier 1993 - art. 102 (V) JORF 5 janvier 1993
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. 679 (Ab)
+	  - CODE DE PROCEDURE PENALE - art. 687 (Ab)
+	  - CODE DE PROCEDURE PENALE - art. 83 (M)
+
+	**Cité par**:
+
+	  - CODE DE PROCEDURE PENALE - art. R200 (M)
+
+
 ###### Article 682
 
 La chambre d'accusation saisie commet un de ses membres qui prescrit tous actes d'instruction nécessaires dans les formes et
@@ -14218,6 +14253,52 @@ La réciprocité sera légalement constatée par des conventions internationales
 	**Cité par**:
 
 	  - CODE PENAL - art. 133 (Ab)
+
+
+### Titre XIII : De la poursuite, de l'instruction et du jugement des infractions en matière économique et financière
+
+###### Article 705
+
+Les tribunaux désignés ainsi qu'il est dit à l'article précédent sont compétents pour connaître des infractions ci-après
+énumérées et de celles qui leur sont connexes dans les affaires qui sont ou apparaîtraient d'une grande complexité :
+
+1° Infractions en matière économique y compris les infractions aux dispositions de la section II du chapitre II du titre II
+du livre troisième du Code pénal ;
+
+2° Infractions en matière de fraudes et de publicité mensongère ;
+
+3° Infractions en matière fiscale, douanière ou celles concernant les relations financières avec l'étranger ;
+
+4° Infractions concernant les banques, les établissements financiers, la bourse et le crédit ;
+
+5° Les infractions concernant les sociétés civiles et commerciales ainsi que les délits assimilés aux banqueroutes ;
+
+6° Infractions concernant la construction et l'urbanisme.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 58-1296 1958-12-23
+
+	**Cité par**:
+
+	  - Loi n°75-624 du 11 juillet 1975 - art. 68 (V)
+	  - Loi n°2016-1691 du 9 décembre 2016 - art. 3 (V)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L622-1 (Ab)
+	  - CODE DE PROCEDURE PENALE - art. 704 (M)
+	  - CODE DE PROCEDURE PENALE - art. 706 (Ab)
+	  - CODE DE PROCEDURE PENALE - art. 706-1 (Ab)
+	  - CODE DE PROCEDURE PENALE - art. 706-2 (AbD)
+	  - Code de procédure pénale - art. 693 (V)
+	  - Code de procédure pénale - art. 705-2 (MMN)
+	  - Code de procédure pénale - art. 706-42 (VD)
+	  - Code de procédure pénale - art. R15-33-66-8 (M)
+	  - Code monétaire et financier - art. L561-23 (M)
+
+	**Modifié par**:
+
+	  - Loi n°75-701 1975-03-06 art. 17 JORF 7 août 1975
 
 
 ## Livre V : Des procédures d'exécution
