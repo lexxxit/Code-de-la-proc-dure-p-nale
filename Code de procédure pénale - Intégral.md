@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 1980-12-20
+Version Consolidée au 1980-12-24
 
 # Partie législative
 
@@ -62,6 +62,29 @@ l'alinéa 3 de l'article 6.
 	**Cite**:
 
 	  - Code de procédure pénale 6 al. 3
+
+
+###### Article 2-2
+
+Toute association régulièrement déclarée depuis au moins cinq ans à la date des faits, dont l'objet statutaire comporte la
+lutte contre les violences sexuelles, peut exercer les droits reconnus à la partie civile, en ce qui concerne les infractions
+prévues par les articles 332, 333 et 333-1 du code pénal. Toutefois, l'association ne sera recevable dans son action que si
+elle justifie avoir reçu l'accord de la victime ou, si celle-ci est mineure, celui du titulaire de l'autorité parentale ou du
+représentant légal.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°57-1426 1957-12-31
+
+	**Créé par**:
+
+	  - Loi n°80-1041 1980-12-23 art. 3 JORF 24 décembre 1980
+
+	**Cite**:
+
+	  - Code pénal 332, 333, 333-1
 
 
 ###### Article 3
@@ -5822,6 +5845,40 @@ l'article 42 du Code pénal ;
 	  - Code de la santé publique L326-1 à L355
 
 
+###### Article 258-1
+
+Sont exclus ou rayés de la liste annuelle des jurés et de la liste spéciale des jurés suppléants ceux qui ont rempli les
+fonctions de juré dans le département depuis moins de cinq ans. 
+
+Une objection morale d'ordre laïque ou religieux ne constitue pas un motif grave susceptible de justifier l'exclusion de la
+liste des jurés. 
+
+La commission prévue à l'article 262 peut également exclure les personnes qui, pour un motif grave, ne paraissent pas en
+mesure d'exercer les fonctions de juré. 
+
+L'inobservation des dispositions du présent article et de l'article précédent n'entache d'aucune nullité la formation du
+jury.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 58-1296 1958-12-23
+
+	**Modifié par**:
+
+	  - Loi n°78-788 1978-07-28 art. 15 JORF 19 juillet 1978
+	  - Loi n°80-1042 1980-12-23 art. 2 I JORF 24 décembre 1980
+
+	**Cite**:
+
+	  - Code de procédure pénale - art. 262 (VT)
+
+	**Cité par**:
+
+	  - Code de procédure pénale - art. 263 (V)
+
+
 ##### Paragraphe 2 : De la formation du jury
 
 ###### Article 259
@@ -5896,6 +5953,50 @@ de Paris.
 	  - Code de procédure pénale - art. R2-3 (VD)
 	  - Code de procédure pénale - art. R2-6 (V)
 	  - Code de procédure pénale - art. R2-7 (VD)
+
+
+###### Article 263
+
+La commission se réunit sur la convocation de son président au siège de la cour d'assises, dans le courant du mois de
+septembre. Son secrétariat est assuré par le greffier en chef de la juridiction siège de la cour d'assises. 
+
+Elle exclut les personnes qui ne remplissent pas les conditions d'aptitude légale résultant des articles 255,256 et 257. Elle
+statue sur les requêtes présentées en application de l'article 258. Sont également exclues les personnes visées par l'article
+258-1 (alinéa 1er), ainsi que, le cas échéant, celles visées par l'article 258-1 (alinéa 2). 
+
+Les décisions de la commission sont prises à la majorité ; en cas de partage, la voix du président est prépondérante. 
+
+La liste annuelle des jurés est établie par tirage au sort parmi les noms qui n'ont pas été exclus. 
+
+La liste est définitivement arrêtée dans l'ordre du tirage au sort, signée séance tenante et déposée au secrétariat-greffe de
+la juridiction siège de la cour d'assises.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 58-1296 1958-12-23
+
+	**Modifié par**:
+
+	  - Loi n°78-788 1978-07-28 art. 18 JORF 29 juillet 1978
+	  - Loi n°80-1042 1980-12-23 art. 2 IV JORF 24 décembre 1980
+
+	**Cité par**:
+
+	  - Décret n°2001-742 du 23 août 2001 - art. 2 (V)
+	  - Décret n°2011-175 du 14 février 2011 - art. 2 (V)
+	  - Code de procédure pénale - art. 10-3 (V)
+	  - Code de procédure pénale - art. 10-5 (V)
+	  - Code de procédure pénale - art. 264 (V)
+	  - Code de procédure pénale - art. 264-1 (V)
+	  - Code de procédure pénale - art. R2 (VD)
+
+	**Cite**:
+
+	  - Code de procédure pénale - art. 255 (V)
+	  - Code de procédure pénale - art. 258 (V)
+	  - Code de procédure pénale - art. 258-1 (V)
 
 
 ###### Article 265
@@ -6826,6 +6927,44 @@ Le président déclare le jury définitivement constitué.
 #### Chapitre VI : Des débats
 
 ##### Section 1 : Dispositions générales
+
+###### Article 306
+
+Les débats sont publics, à moins que la publicité ne soit dangereuse pour l'ordre ou les moeurs. Dans ce cas, la cour le
+déclare par un arrêt rendu en audience publique.
+
+Toutefois, le président peut interdire l'accès de la salle d'audience aux mineurs ou à certains d'entre eux.
+
+Lorsque les poursuites sont fondées sur les articles 332 ou 333-1 du Code pénal, le huis clos est de droit si la victime
+partie civile ou l'une des victimes parties civiles le demande ; dans les autres cas, le huis clos ne peut être ordonné que
+si la victime partie civile ou l'une des victimes parties civiles ne s'y oppose pas.
+
+Lorsque le huis clos a été ordonné, celui-ci s'applique au prononcé des arrêts qui peuvent intervenir sur les incidents
+contentieux visés à l'article 316.
+
+L'arrêt sur le fond doit toujours être prononcé en audience publique.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 58-1296 1958-12-23
+
+	**Modifié par**:
+
+	  - Loi n°80-1041 1980-12-23 art. 4 JORF 24 décembre 1980
+
+	**Cite**:
+
+	  - Code pénal 332, 333-1
+	  - CODE DE PROCEDURE PENALE - art. 316 (M)
+
+	**Cité par**:
+
+	  - CODE DE PROCEDURE PENALE - art. 706-122 (V)
+	  - Code de justice militaire - art. 217 (Ab)
+	  - Code de procédure pénale - art. 379-3 (V)
+
 
 ###### Article 307
 
