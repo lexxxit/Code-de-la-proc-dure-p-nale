@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 1992-01-01
+Version Consolidée au 1992-04-03
 
 # Partie législative
 
@@ -35927,7 +35927,7 @@ d'inscription au tableau ou de poursuites disciplinaires ;
 11° Aux commissions d'inscription sur la liste de commissaires aux comptes ;
 
 12° Aux commissaires du Gouvernement près les conseils de l'ordre des experts-comptables et comptables agréés saisis de
-demandes d'inscription ou de poursuitees disciplinaires ;
+demandes d'inscription ou de poursuites disciplinaires ;
 
 13° A l'administration fiscale à l'occasion de la délivrance des certificats prévus à l'article 6 du décret n° 75-911 du 6
 octobre 1975 relatif aux centres de gestion agréés ;
@@ -35941,7 +35941,7 @@ des conditions d'exercice de la profession de marin ;
 délivrer l'autorisation d'exercer les activités de gardiennage, de surveillance de transport de fonds ou de protection des
 personnes ;
 
-17° A l'administration auprès de laquelle est institué le comité prévu par l'article 46 du Code pénal ;
+17° A l'administration auprès de laquelle est institué le comité prévu par l'article 46 du Code pénal (article abrogé) ;
 
 18° Aux administrations publiques de l'Etat chargées d'instruire les procédures de changement de nom, d'acquisition, de perte
 ou de déchéance de la nationalité française ;
@@ -35956,15 +35956,28 @@ d'information en application de l'article 37 de la loi n° 83-1 du 3 janvier 198
 21° A la commission des marchés à terme de marchandises en ce qui concerne les personnes physiques ou les dirigeants des
 personnes morales qui sollicitent l'agrément ou l'inscription prévues par les articles 31, 32 et 34 de la loi n° 83-610 du 8
 juillet 1983, ainsi que les personnes qui font l'objet d'une procédure disciplinaire sur le fondement des articles 22, 29 ou
-41 de cette loi;
+41 de cette loi ;
 
 22° A l'administration pénitentiaire au titre des autorisations, agréments ou habilitations qu'elle est susceptible de
-délivrer aux personnes appelées à intervenir dans les établissements pénitentiaires ou pour le recrutement de ses personnels;
+délivrer aux personnes appelées à intervenir dans les établissements pénitentiaires ou pour le recrutement de ses
+personnels ;
 
 23° Aux juges des enfants à l'occasion de l'instruction des procédures d'habilitation des personnes physiques,
 établissements, services ou organismes publics ou privés auxquels l'autorité judiciaire confie habituellement des mineurs
 ainsi que dans le cadre du contrôle que les juges des enfants exercent sur les mêmes personnes, établissements, services ou
 organismes lorsqu'ils sont habilités.
+
+24° Au directeur général de l'Institut national de la propriété industrielle pour l'inscription sur la liste des personnes
+qualifiées en propriété industrielle et sur la liste prévue à l'article 43 de la loi précitée du 26 novembre 1990 (2).
+
+**Nota:**
+
+NOTA (1) : Le décret n° 92-360 du 1er avril 1992 a été abrogé par l'article 5 du décret n° 95-385 du 10 avril 1995 relatif à
+la partie réglementaire du code de la propriété intellectuelle, voir cependant l'article R. 421-3 dudit code dans sa
+rédaction issue du décret du 10 avril 1995.
+
+NOTA (2) : L'article 43 de la loi 90-1052 du 26 novembre 1990 est devenu après codification par l'article 2 du décret 95-385
+du 10 avril 1995 l'article L. 422-5 du code de la propriété intellectuelle.
 
 **Liens relatifs à cet article**
 
@@ -35972,12 +35985,17 @@ organismes lorsqu'ils sont habilités.
 
 	  - Décret n°59-318 1959-02-23
 
+	**Modifié par**:
+
+	  - Décret n°92-360 1990-04-01 art. 34 JORF 3 avril 1992
+
 	**Cite**:
 
 	  - Décret n°75-911 du 6 octobre 1975 - art. 6 (V)
 	  - Loi n°83-1 1983-01-03 art. 37
 	  - Loi n°83-610 1983-07-08 art. 31, art. 32, art. 34, art. 22, art. 29 et art. 41
 	  - Loi n°83-610 du 8 juillet 1983 - art. 22, v. init.
+	  - Loi n°90-1052 1990-11-26 art. 43
 	  - Code pénal 46
 	  - CODE DE PROCEDURE PENALE - art. 776 (M)
 	  - Code de procédure pénale 776, 1°, 2° et 4°
@@ -35995,10 +36013,6 @@ organismes lorsqu'ils sont habilités.
 	  - TXT_SOURCE: CODE DE PROCEDURE PENALE - art. 779 (M)
 	  - PILOTE_SUIVEUR: Code de la propriété intellectuelle - art. R421-3 (V)
 	  - TXT_SOURCE: Code de procédure pénale 776 (3°), 779
-
-	**Modifié par**:
-
-	  - Décret n°88-949 du 6 octobre 1988 - art. 13 () JORF 8 octobre 1988
 
 	**Cité par**:
 
@@ -39868,48 +39882,6 @@ civil, et sur la célébration des mariages, dans le cas prévu à l'article 192
 
 
 ##### Section 2 : Règles spéciales
-
-##### Paragraphe 1 : Aide judiciaire.
-
-###### Article R216
-
-En matière d'aide judiciaire, les frais qui sont exposés dans les instances portées devant les juridictions administratives
-sont admis en dépense par le ministre de la Justice.
-
-Si au cours de l'instance suivie avec le bénéfice de l'aide judiciaire devant un tribunal administratif, des témoins sont
-appelés à déposer, l'indemnité qui leur est allouée, après taxation régulière par le président du tribunal administratif, est
-acquittée provisoirement et sans délai par le comptable direct du Trésor.
-
-**Nota:**
-
-[Les mots : " aide judiciaire " ou " commissions et désignations d'office " sont remplacés par ceux de " aide
-juridictionnelle " par l'article 159 du décret n° 91-1266 du 19 décembre 1991 paru au Journal officiel du 20 décembre 1991.]
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°59-318 1959-02-23
-
-	**Créé par**:
-
-	  - Décret n°59-318 1959-02-23 JORF 25 février 1959 en vigueur le 2 mars 1959 rectificatif JORF 13 juin 1959
-
-	**Modifié par**:
-
-	  - Décret n°74-88 1974-02-04 art. 1 JORF 6 février 1974
-	  - Décret n°81-70 1981-01-28 art. 6 JORF 30 janvier 1981
-	  - Décret n°83-455 1983-06-02 art. 8 JORF 8 juin 1983 en vigueur le 1er octobre 1983
-
-	**Abrogé par**:
-
-	  - Décret n°91-1266 1991-12-19 art. 171 JORF 20 décembre 1991 en vigueur le 1er janvier 1992
-
-	**Cité par**:
-
-	  - Décret n°99-818 du 16 septembre 1999 - art. 8-1 (V)
-	  - CODE DE PROCEDURE PENALE - art. A43-8 (V)
-
 
 ##### Paragraphe 2 : Procédures suivies en application de la législation sur les incapables
 
