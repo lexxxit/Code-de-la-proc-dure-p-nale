@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 1996-07-23
+Version Consolidée au 1996-08-09
 
 # Partie législative
 
@@ -44661,7 +44661,8 @@ mises en cause dans des affaires similaires.
 
 Lorsqu'un tel fait est de nature à susciter des investigations entrant dans le champ d'application de l'article D. 4, ces
 officiers de police judiciaire le portent sans délai à la connaissance des services relevant de la direction centrale de la
-police judiciaire.
+police judiciaire ou, lorsqu'il relève du domaine de compétence de l'office central mentionné au 8° de l'article D. 8-1, de
+la direction centrale du contrôle de l'immigration et de la lutte contre l'emploi des clandestins.
 
 **Liens relatifs à cet article**
 
@@ -44678,7 +44679,7 @@ police judiciaire.
 
 	**Modifié par**:
 
-	  - Décret n°96-74 du 25 janvier 1996 - art. 1 () JORF 1er février 1996
+	  - Décret n°96-694 du 6 août 1996 - art. 1 () JORF 9 août 1996
 
 	**Cité par**:
 
@@ -44687,19 +44688,21 @@ police judiciaire.
 	**Cite**:
 
 	  - CODE DE PROCEDURE PENALE - art. D4 (M)
+	  - CODE DE PROCEDURE PENALE - art. D8-1 (M)
 
 
 ###### Article D4
 
-Le magistrat fait appel aux officiers de police judiciaire relevant de la direction centrale de la police judiciaire, dans
-les cas de nécessité, en tenant compte des possibilités que procurent à l'officier de police judiciaire premier saisi sa
-rapidité d'intervention, ses sources d'information, sa connaissance de l'affaire et du milieu humain.
+Le magistrat fait appel aux officiers de police judiciaire relevant de la direction centrale de la police judiciaire ou de la
+direction centrale du contrôle de l'immigration et de la lutte contre l'emploi des clandestins dans les cas de nécessité, en
+tenant compte des possibilités que procurent à l'officier de police judiciaire premier saisi sa rapidité d'intervention, ses
+sources d'information, sa connaissance de l'affaire et du milieu humain.
 
 Le concours de ces officiers de police judiciaire peut se révéler indispensable lorsque la poursuite de l'enquête exige :
 
-- soit une compétence technique particulière notamment dans les domaines relevant des offices centraux de la police
-judiciaire énumérés à l'article D. 8-1 ; ces derniers assurent en outre, chaque fois que nécessaire, la coordination entre
-les services de police et les unités de gendarmerie ;
+- soit une compétence technique particulière notamment dans les domaines relevant des offices centraux de police judiciaire
+énumérés à l'article D. 8-1 ; ces derniers assurent en outre, chaque fois que nécessaire, la coordination entre les services
+de police et les unités de gendarmerie ;
 
 - soit des investigations internationales auprès d'offices ou d'organismes étrangers.
 
@@ -44726,7 +44729,7 @@ les services de police et les unités de gendarmerie ;
 
 	**Modifié par**:
 
-	  - Décret n°96-74 du 25 janvier 1996 - art. 1 () JORF 1er février 1996
+	  - Décret n°96-694 du 6 août 1996 - art. 2 () JORF 9 août 1996
 
 	**Cite**:
 
@@ -44840,17 +44843,19 @@ Dans le cadre des textes législatifs et réglementaires ou des accords intermin
 systèmes centraux de documentation criminelle.
 
 Les services de police et les unités de gendarmerie adressent aux services relevant de la direction centrale de la police
-judiciaire les renseignements relatifs à la délinquance et à la criminalité susceptibles d'être exploités dans un but de
-centralisation, de classification ou de diffusion (avis, fiches, statistiques).
+judiciaire ou, lorsqu'ils entrent dans le domaine de compétence de l'office central mentionné au 8° de l'article D. 8-1, de
+la direction centrale du contrôle de l'immigration et de la lutte contre l'emploi des clandestins les renseignements relatifs
+à la délinquance et à la criminalité susceptibles d'être exploités dans un but de centralisation, de classification ou de
+diffusion (avis, fiches, statistiques).
 
-La direction centrale de la police judiciaire transmet aux autres services de la police nationale ainsi qu'à la gendarmerie,
-par tout moyen, toutes indications utiles à l'identification ou à la recherche de malfaiteurs. Le service de police ou
-l'unité de gendarmerie qui est à l'origine d'une demande de diffusion doit figurer parmi les autorités à prévenir dès la
-découverte des individus recherchés.
+La direction centrale de la police judiciaire et la direction centrale du contrôle de l'immigration et de la lutte contre
+l'emploi des clandestins transmettent aux autres services de la police nationale ainsi qu'à la gendarmerie nationale par tout
+moyen, toutes indications utiles à l'identification ou à la recherche de malfaiteurs. Le service de police ou l'unité de
+gendarmerie qui est à l'origine d'une demande de diffusion doit figurer parmi les autorités à prévenir dès la découverte des
+individus recherchés.
 
-2° Les services de la police nationale et les unités de gendarmerie informent les offices centraux de la police judiciaire et
-les organes de coopération internationale policière placés au sein de la direction centrale de la police judiciaire, énumérés
-aux articles D. 8-1 et D. 8-2.
+2° Les services de la police nationale et les unités de la gendarmerie nationale informent les offices centraux de police
+judiciaire et les organes de coopération internationale policière énumérés aux articles D. 8-1 et D. 8-2.
 
 Ces services ont la charge d'assurer, dans les matières relevant de leurs compétences respectives, la centralisation, la
 coordination et la diffusion nationales de l'information auprès des services de police et des unités de gendarmerie.
@@ -44870,7 +44875,7 @@ coordination et la diffusion nationales de l'information auprès des services de
 
 	**Modifié par**:
 
-	  - Décret n°96-74 du 25 janvier 1996 - art. 1 () JORF 1er février 1996
+	  - Décret n°96-694 du 6 août 1996 - art. 3 () JORF 9 août 1996
 
 	**Cite**:
 
@@ -44880,7 +44885,7 @@ coordination et la diffusion nationales de l'information auprès des services de
 
 ###### Article D8-1
 
-Les offices centraux de police judiciaire relevant du 1° de l'article R. 15-18 sont les suivants :
+Les offices centraux de police judiciaire relevant de l'article R. 15-18 sont les suivants :
 
 1° Office central pour la répression du faux-monnayage ;
 
@@ -44895,17 +44900,15 @@ Les offices centraux de police judiciaire relevant du 1° de l'article R. 15-18 
 6° Office central pour la répression du trafic des armes, des munitions, des produits explosifs et des matières nucléaires,
 biologiques et chimiques ;
 
-7° Office central pour la répression de la grande délinquance financière.
+7° Office central pour la répression de la grande délinquance financière ;
+
+8° Office central pour la répression de l'immigration irrégulière et de l'emploi d'étrangers sans titre.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°58-1304 1958-12-23
-
-	**Créé par**:
-
-	  - Décret n°96-74 du 25 janvier 1996 - art. 1 () JORF 1er février 1996
 
 	**Cité par**:
 
@@ -44917,6 +44920,10 @@ biologiques et chimiques ;
 	  - CODE DE PROCEDURE PENALE - art. D3 (M)
 	  - Code de procédure pénale - art. D4 (V)
 	  - Code de procédure pénale - art. D8 (V)
+
+	**Modifié par**:
+
+	  - Décret n°96-694 du 6 août 1996 - art. 4 () JORF 9 août 1996
 
 	**Liens**:
 
@@ -45084,8 +45091,9 @@ Dans tous les cas, l'officier de police judiciaire ayant bénéficié de l'exten
 République territorialement compétent du résultat de ses opérations.
 
 4. Lorsque les investigations portent sur un fait ayant donné lieu à l'information prévue au dernier alinéa de l'article D.
-3, l'officier de police judiciaire bénéficiant de l'extension de compétence avise les services relevant de la direction
-centrale de la police judiciaire.
+3, l'officier de police judiciaire bénéficiant de l'extension de compétence avise, selon les cas, les services relevant de la
+direction centrale de la police judiciaire ou de la direction centrale du contrôle de l'immigration et de la lutte contre
+l'emploi des clandestins.
 
 **Liens relatifs à cet article**
 
@@ -45095,7 +45103,7 @@ centrale de la police judiciaire.
 
 	**Modifié par**:
 
-	  - Décret n°96-74 du 25 janvier 1996 - art. 2 () JORF 1er février 1996
+	  - Décret n°96-694 du 6 août 1996 - art. 5 () JORF 9 août 1996
 
 	**Liens**:
 
