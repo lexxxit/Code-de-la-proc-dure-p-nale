@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 1993-08-29
+Version Consolidée au 1993-09-02
 
 # Partie législative
 
@@ -1866,10 +1866,8 @@ Le procureur général a, dans l'exercice de ses fonctions, le droit de requéri
 ###### Article 36
 
 Le ministre de la justice peut dénoncer au procureur général les infractions à la loi pénale dont il a connaissance, lui
-enjoindre d'engager ou de faire engager des poursuites ou de saisir la juridiction compétente de telles réquisitions écrites
-que le ministre juge opportunes.
-
-Les instructions du ministre de la justice sont toujours écrites.
+enjoindre, par instructions écrites et versées au dossier de la procédure, d'engager ou de faire engager des poursuites ou de
+saisir la juridiction compétente de telles réquisitions écrites que le ministre juge opportunes.
 
 **Liens relatifs à cet article**
 
@@ -1879,7 +1877,7 @@ Les instructions du ministre de la justice sont toujours écrites.
 
 	**Modifié par**:
 
-	  - Loi n°93-2 du 4 janvier 1993 - art. 3 () JORF 5 janvier 1993
+	  - Loi n°93-1013 1993-08-24 art. 1 JORF 25 août 1993 en vigueur le 2 septembre 1993
 
 	**Cité par**:
 
@@ -2837,8 +2835,10 @@ deux mois à deux ans.
 
 ###### Article 59
 
-Sauf réclamations faites de l'intérieur de la maison ou exceptions prévues par la loi, les perquisitions et les visites
-domiciliaires ne peuvent être commencées avant 6 heures et après 21 heures.
+Sauf réclamation faite de l'intérieur de la maison ou exceptions prévues par la loi, les perquisitions et les visites
+domiciliaires ne peuvent être commencées avant 6 heures et après 21 heures. 
+
+Les formalités mentionnées aux articles 56, 56-1, 57 et au présent article sont prescrites à peine de nullité.
 
 **Liens relatifs à cet article**
 
@@ -2879,7 +2879,11 @@ domiciliaires ne peuvent être commencées avant 6 heures et après 21 heures.
 
 	**Modifié par**:
 
-	  - Loi n°93-2 du 4 janvier 1993 - art. 161 () JORF 5 janvier 1993 en vigueur le 1er mars 1993
+	  - Loi n°93-1013 1993-08-24 art. 20 JORF 25 août 1993 en vigueur le 2 septembre 1993
+
+	**Cite**:
+
+	  - Code de procédure pénale - art. 56 (V)
 
 
 ###### Article 60
@@ -3010,21 +3014,21 @@ qu'ils secondent.
 
 ###### Article 63
 
-Dès que l'officier de police judiciaire est amené, pour les nécessités de l'enquête, à garder à sa disposition une ou
-plusieurs des personnes visées aux articles 61 et 62, il en informe le procureur de la République. Il ne peut retenir ces
-personnes plus de vingt-quatre heures.
+L'officier de police judiciaire peut, pour les nécessités de l'enquête, garder à sa disposition une ou plusieurs des
+personnes visées aux articles 61 et 62. Il en informe dans les meilleurs délais le procureur de la République. Les personnes
+gardées à vue ne peuvent être retenues plus de vingt-quatre heures.
 
-Celles à l'encontre desquelles il n'existe aucun élément de nature à motiver l'exercice de poursuites ne peuvent être
-retenues que le temps nécessaire à leur déposition, sans que cette durée puisse excéder vingt-quatre heures.
+Toutefois, les personnes à l'encontre desquelles il n'existe aucun indice faisant présumer qu'elles ont commis ou tenté de
+commettre une infraction ne peuvent être retenues que le temps nécessaire à leur déposition.
 
-Si les éléments recueillis sont de nature à motiver l'exercice de poursuites à l'encontre de la personne placée en garde à
-vue, l'officier de police judiciaire la présente, avant l'expiration du délai de vingt-quatre heures, au procureur de la
-République saisi des faits, ou, si l'enquête est suivie dans un autre ressort que celui de son siège, au procureur de la
-République du lieu d'exécution de la mesure.
+La garde à vue des personnes à l'encontre desquelles il existe des indices faisant présumer qu'elles ont commis ou tenté de
+commettre une infraction peut être prolongée d'un nouveau délai de vingt-quatre heures au plus, par autorisation écrite du
+procureur de la République. Ce magistrat peut subordonner cette autorisation à la présentation préalable de la personne
+gardée à vue.
 
-A l'issue de cette présentation, le procureur de la République peut accorder l'autorisation écrite de prolonger la mesure
-d'un nouveau délai dont il fixe la durée, sans que celle-ci puisse excéder vingt-quatre heures. Il peut, à titre
-exceptionnel, accorder cette autorisation par décision écrite et motivée sans présentation préalable de la personne.
+Sur instructions du procureur de la République, les personnes à l'encontre desquelles les éléments recueillis sont de nature
+à motiver l'exercice de poursuites sont, à l'issue de la garde à vue, soit remises en liberté, soit déférées devant ce
+magistrat.
 
 Pour l'application du présent article, les ressorts des tribunaux de grande instance de Paris, Nanterre, Bobigny et Créteil
 constituent un seul et même ressort.
@@ -3056,7 +3060,7 @@ constituent un seul et même ressort.
 
 	**Modifié par**:
 
-	  - Loi n°93-2 du 4 janvier 1993 - art. 9 () JORF 5 janvier 1993 en vigueur le 1er mars 1993
+	  - Loi n°93-1013 1993-08-24 art. 2 JORF 25 août 1993 en vigueur le 2 septembre 1993
 
 	**Cite**:
 
@@ -3065,8 +3069,9 @@ constituent un seul et même ressort.
 
 ###### Article 63-1
 
-Toute personne placée en garde à vue doit immédiatement être informée des droits mentionnés aux articles 63-2, 63-3 et 63-4
-ainsi que des dispositions relatives à la durée de la garde à vue prévue à l'article 63.
+Toute personne placée en garde à vue est immédiatement informée par un officier de police judiciaire, ou, sous le contrôle de
+celui-ci, par un agent de police judiciaire, des droits mentionnés aux articles 63-2, 63-3 et 63-4 ainsi que des dispositions
+relatives à la durée de la garde à vue prévues par l'article 63.
 
 Mention de cet avis est portée au procès-verbal et émargée par la personne gardée à vue ; en cas de refus d'émargement, il en
 est fait mention.
@@ -3082,7 +3087,7 @@ comprend.
 
 	**Modifié par**:
 
-	  - Loi n°93-2 du 4 janvier 1993 - art. 10 () JORF 5 janvier 1993 en vigueur le 1er mars 1993
+	  - Loi n°93-1013 1993-08-24 art. 2 JORF 25 août 1993 en vigueur le 2 septembre 1993
 
 	**Cité par**:
 
@@ -3114,8 +3119,9 @@ comprend.
 
 ###### Article 63-2
 
-Toute personne placée en garde à vue peut, à sa demande, faire prévenir, par téléphone, un membre de sa famille de la mesure
-dont elle est l'objet.
+Toute personne placée en garde à vue peut, à sa demande, faire prévenir, par téléphone, une personne avec laquelle elle vit
+habituellement ou l'un de ses parents en ligne directe, l'un de ses frères et soeurs ou son employeur de la mesure dont elle
+est l'objet.
 
 Si l'officier de police judiciaire estime, en raison des nécessités de l'enquête, ne pas devoir faire droit à cette demande,
 il en réfère sans délai au procureur de la République qui décide, s'il y a lieu, d'y faire droit.
@@ -3126,9 +3132,9 @@ il en réfère sans délai au procureur de la République qui décide, s'il y a 
 
 	  - Loi n°57-1426 1957-12-31
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°93-2 du 4 janvier 1993 - art. 10 () JORF 5 janvier 1993 en vigueur le 1er mars 1993
+	  - Loi n°93-1013 1993-08-24 art. 2 JORF 25 août 1993 en vigueur le 2 septembre 1993
 
 	**Cité par**:
 
@@ -3153,20 +3159,21 @@ il en réfère sans délai au procureur de la République qui décide, s'il y a 
 
 ###### Article 63-3
 
-Toute personne placée en garde à vue peut, à sa demande, être examinée par un médecin. En cas de prolongation, elle peut
-demander à être examinée une seconde fois.
-
-En l'absence de demande de la personne gardée à vue, un examen médical est de droit si un membre de sa famille en fait la
-demande.
+Toute personne placée en garde à vue peut, à sa demande, être examinée par un médecin désigné par le procureur de la
+République ou l'officier de police judiciaire. En cas de prolongation, elle peut demander à être examinée une seconde fois.
 
 A tout moment, le procureur de la République ou l'officier de police judiciaire peut d'office désigner un médecin pour
 examiner la personne gardée à vue.
 
-Dans les autres cas, le médecin est choisi par la personne gardée à vue ou le membre de sa famille qui a fait la demande
-d'examen médical sur une liste établie par le procureur de la République.
+En l'absence de demande de la personne gardée à vue, du procureur de la République ou de l'officier de police judiciaire, un
+examen médical est de droit si un membre de sa famille le demande ; le médecin est désigné par le procureur de la République
+ou l'officier de police judiciaire.
 
 Le médecin examine sans délai la personne gardée à vue. Le certificat médical par lequel il doit notamment se prononcer sur
 l'aptitude au maintien en garde à vue est versé au dossier.
+
+Les dispositions du présent article ne sont pas applicables lorsqu'il est procédé à un examen médical en application de
+règles particulières.
 
 **Liens relatifs à cet article**
 
@@ -3191,9 +3198,9 @@ l'aptitude au maintien en garde à vue est versé au dossier.
 
 	  - Loi n°57-1426 1957-12-31
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°93-2 du 4 janvier 1993 - art. 10 () JORF 5 janvier 1993 en vigueur le 1er mars 1993
+	  - Loi n°93-1013 1993-08-24 art. 2 JORF 25 août 1993 en vigueur le 2 septembre 1993
 
 
 ###### Article 63-4
@@ -3205,15 +3212,24 @@ lui en soit commis un d'office par le bâtonnier.
 Le bâtonnier est informé de cette demande par tous moyens et sans délai.
 
 L'avocat désigné peut communiquer avec la personne gardée à vue dans des conditions qui garantissent la confidentialité de
-l'entretien.
+l'entretien. Il est informé par l'officier de police judiciaire ou, sous le contrôle de celui-ci, par un agent de police
+judiciaire de la nature de l'infraction recherchée.
 
 A l'issue de l'entretien dont la durée ne peut excéder trente minutes, l'avocat présente, le cas échéant, des observations
 écrites qui sont jointes à la procédure.
 
-L'avocat ne peut faire état de cet entretien à quiconque pendant la durée de la garde à vue.
+L'avocat ne peut faire état de cet entretien auprès de quiconque pendant la durée de la garde à vue.
 
-Lorsque la garde à vue est soumise à des règles particulières de prolongation, les dispositions du présent article ne sont
-applicables qu'à l'issue de la première prolongation.
+Le délai mentionné au premier alinéa est porté à trente-six heures lorsque l'enquête a pour objet la participation à une
+association de malfaiteurs prévue par les articles 265 et 266 du code pénal, les infractions de proxénétisme aggravé ou
+d'extorsion de fonds prévues par les articles 334-I à 335 et 400, premier alinéa, du code pénal ou une infraction commise en
+bande organisée prévue par les articles 257-3, 384 et 435 du code pénal.
+
+Le procureur de la République est, dans les meilleurs délais, informé par l'officier de police judiciaire qu'il est fait
+application des dispositions de l'alinéa précédent.
+
+[Dispositions déclarées non conformes à la Constitution par décision du Conseil constitutionnel n° 93-326 DC du 11 août
+1993.]
 
 **Liens relatifs à cet article**
 
@@ -3241,13 +3257,13 @@ applicables qu'à l'issue de la première prolongation.
 	  - Code de procédure pénale - art. 814 (VD)
 	  - Code de procédure pénale - art. 880 (VD)
 
-	**Liens**:
+	**Modifié par**:
 
-	  - SPEC_APPLI: Loi n°93-2 1993-01-04 art. 231
+	  - Loi n°93-1013 1993-08-24 art. 3 JORF 25 août 1993 en vigueur le 2 septembre 1993
 
-	**Créé par**:
+	**Cite**:
 
-	  - Loi n°93-2 du 4 janvier 1993 - art. 231 () JORF 5 janvier 1993 en vigueur le 1er mars 1993
+	  - Code pénal 265, 266, 257-3, 384, 435, 334 à 335, 400
 
 
 ###### Article 64
@@ -3295,8 +3311,10 @@ comportera obligatoirement les motifs de la garde à vue.
 
 ###### Article 65
 
-Les mentions et émargements prévus aux articles 63-1 et 64 doivent également figurer sur un registre spécial, tenu à cet
-effet dans tout local de police ou de gendarmerie susceptible de recevoir une personne gardée à vue.
+Les mentions et émargements prévus par le premier alinéa de l'article 64, en ce qui concerne les dates et heures de début et
+de fin de garde à vue et la durée des interrogatoires et des repos séparant ces interrogatoires, doivent également figurer
+sur un registre spécial, tenu à cet effet dans tout local de police ou de gendarmerie susceptible de recevoir une personne
+gardée à vue.
 
 Dans les corps ou services où les officiers de police judiciaire sont astreints à tenir un carnet de déclarations, les
 mentions et émargements prévus à l'alinéa précédent doivent également être portés sur ledit carnet. Seules les mentions sont
@@ -3306,11 +3324,15 @@ reproduites au procès-verbal qui est transmis à l'autorité judiciaire.
 
 	**Codifié par**:
 
-	  - Loi n°57-1426 1957-12-31
+	  - Loi n°57-1426 du 31 décembre 1957
 
 	**Modifié par**:
 
-	  - Loi n°93-2 du 4 janvier 1993 - art. 12 () JORF 5 janvier 1993 en vigueur le 1er mars 1993
+	  - Loi n°93-1013 1993-08-24 art. 4 JORF 25 août 1993 en vigueur le 2 septembre 1993
+
+	**Abrogé par**:
+
+	  - Loi n°2011-392 du 14 avril 2011 - art. 18
 
 	**Cité par**:
 
@@ -3402,10 +3424,10 @@ Il peut aussi prescrire à tous officiers de police judiciaire de poursuivre les
 
 ###### Article 69
 
-Si les nécessités de l'enquête l'exigent, le procureur de la République peut se transporter dans les ressorts des tribunaux
-limitrophes de celui où il exerce ses fonctions, à l'effet d'y poursuivre ses investigations. Il doit aviser, au préalable,
-le procureur de la République du ressort du tribunal dans lequel il se transporte. Il mentionne sur son procès-verbal les
-motifs de son transport.
+Si les nécessités de l'enquête l'exigent, le procureur de la République ou le juge d'instruction lorsqu'il procède comme il
+est dit au présent chapitre peut se transporter dans les ressorts des tribunaux limitrophes de celui où il exerce ses
+fonctions, à l'effet d'y poursuivre ses investigations. Il doit aviser, au préalable, le procureur de la République du
+ressort du tribunal dans lequel il se transporte. Il mentionne sur son procès-verbal les motifs de son transport.
 
 **Liens relatifs à cet article**
 
@@ -3415,7 +3437,7 @@ motifs de son transport.
 
 	**Modifié par**:
 
-	  - Loi n°93-2 du 4 janvier 1993 - art. 13 () JORF 5 janvier 1993 en vigueur le 1er mars 1993
+	  - Loi n°93-1013 1993-08-24 art. 6 JORF 25 août 1993 en vigueur le 2 septembre 1993
 
 	**Cité par**:
 
@@ -3443,6 +3465,56 @@ accompagnée d'un défenseur, elle ne peut être interrogée qu'en présence de 
 	**Cité par**:
 
 	  - Code de procédure pénale - art. 77-4 (V)
+
+
+###### Article 72
+
+Lorsque le juge d'instruction est présent sur les lieux, le procureur de la République ainsi que les officiers de police
+judiciaire sont de plein droit dessaisis à son profit.
+
+Le juge d'instruction accomplit alors tous actes de police judiciaire prévus au présent chapitre.
+
+Il peut aussi prescrire à tous officiers de police judiciaire de poursuivre les opérations.
+
+Ces opérations terminées, le juge d'instruction transmet les pièces de l'enquête au procureur de la République à toutes fins
+utiles.
+
+Lorsque le procureur de la République et le juge d'instruction sont simultanément sur les lieux, le procureur de la
+République peut requérir l'ouverture d'une information régulière dont est saisi le juge d'instruction présent, par
+dérogation, le cas échéant, aux dispositions de l'article 83.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Ordonnance n°45-174 du 2 février 1945 - art. 7 (V)
+	  - CODE DE PROCEDURE PENALE - art. 115 (M)
+	  - CODE DE PROCEDURE PENALE - art. 706-23 (Ab)
+	  - CODE DE PROCEDURE PENALE - art. 706-29 (Ab)
+	  - CODE DE PROCEDURE PENALE - art. D31 (V)
+	  - CODE DE PROCEDURE PENALE - art. R200 (M)
+	  - Code de procédure pénale - art. 117 (V)
+	  - Code de procédure pénale - art. 51 (V)
+
+	**Codifié par**:
+
+	  - Loi n°57-1426 1957-12-31
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°57-1426 1957-12-31 art. 18
+
+	**Abrogé par**:
+
+	  - Loi n°93-2 du 4 janvier 1993 - art. 14 (V) JORF 5 janvier 1993 en vigueur le 1er mars 1993
+
+	**Modifié par**:
+
+	  - Loi n°93-1013 1993-08-24 art. 6 JORF 25 août 1993 en vigueur le 2 septembre 1993
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. 83 (M)
 
 
 ###### Article 73
@@ -3632,17 +3704,19 @@ Les formes prévues par les articles 56 et 59 (premier alinéa) sont applicables
 ###### Article 77
 
 L'officier de police judiciaire peut, pour les nécessités de l'enquête, garder à sa disposition toute personne à l'encontre
-de laquelle existent des indices faisant présumer qu'elle a commis ou tenté de commettre une infraction ; il en informe sans
-délai le procureur de la République. Il ne peut retenir cette personne plus de vingt-quatre heures.
+de laquelle il existe des indices faisant présumer qu'elle a commis ou tenté de commettre une infraction. Il en informe dans
+les meilleurs délais le procureur de la République. La personne gardée à vue ne peut être retenue plus de vingt-quatre
+heures.
 
-Si les éléments recueillis sont de nature à motiver l'exercice de poursuites à l'encontre de la personne placée en garde à
-vue, l'officier de police judiciaire la présente, avant l'expiration du délai de vingt-quatre heures, au procureur de la
-République saisi des faits ou, si l'enquête est suivie dans un autre ressort que celui de son siège, au procureur de la
-République du lieu d'exécution de la mesure.
+Le procureur de la République peut, avant l'expiration du délai de vingt-quatre heures, prolonger la garde à vue d'un nouveau
+délai de vingt-quatre heures au plus. Cette prolongation ne peut être accordée qu'après présentation préalable de la personne
+à ce magistrat. Toutefois, elle peut, à titre exceptionnel, être accordée par décision écrite et motivée sans présentation
+préalable de la personne. Si l'enquête est suivie dans un autre ressort que celui du siège du procureur de la République
+saisi des faits, la prolongation peut être accordée par le procureur de la République du lieu d'exécution de la mesure.
 
-A l'issue de cette présentation, le procureur de la République peut accorder l'autorisation écrite de prolonger la mesure
-d'un nouveau délai dont il fixe la durée, sans que celle-ci puisse dépasser vingt-quatre heures. Il peut, à titre
-exceptionnel, accorder cette autorisation par décision écrite et motivée sans présentation préalable de la personne.
+Sur instructions du procureur de la République saisi des faits, les personnes à l'encontre desquelles les éléments recueillis
+sont de nature à motiver l'exercice de poursuites sont, à l'issue de la garde à vue, soit remises en liberté, soit déférées
+devant ce magistrat.
 
 Pour l'application du présent article, les ressorts des tribunaux de grande instance de Paris, Nanterre, Bobigny et Créteil
 constituent un seul et même ressort.
@@ -3669,7 +3743,7 @@ présent chapitre.
 
 	**Modifié par**:
 
-	  - Loi n°93-2 du 4 janvier 1993 - art. 15 () JORF 5 janvier 1993 en vigueur le 1er mars 1993
+	  - Loi n°93-1013 1993-08-24 art. 5 JORF 25 août 1993 en vigueur le 2 septembre 1993
 
 	**Cite**:
 
@@ -3935,6 +4009,8 @@ Dans le cas où il y a lieu à procédure d'enquête ou d'exécution adressée �
 garde à vue, la personne retenue doit être aussitôt informée de son droit de faire aviser le procureur de la République de la
 mesure dont elle fait l'objet.
 
+Les prescriptions énumérées au présent article sont imposées à peine de nullité.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
@@ -3972,11 +4048,7 @@ mesure dont elle fait l'objet.
 
 	**Modifié par**:
 
-	  - Loi n°93-992 du 10 août 1993 - art. 2 () JORF 11 août 1993
-
-	**Cite**:
-
-	  - Code de procédure pénale 62 et 78-2
+	  - Loi n°93-1013 1993-08-24 art. 20 JORF 25 août 1993 en vigueur le 2 septembre 1993
 
 
 ###### Article 78-4
@@ -4067,22 +4139,16 @@ application de l'article 44.
 	  - Code de procédure pénale - art. 44 (V)
 
 
-###### Article 80-1
+###### Article 80
 
-Le réquisitoire est pris contre personne dénommée ou non dénommée.
+Le juge d'instruction ne peut informer qu'en vertu d'un réquisitoire du procureur de la République.
 
-Il est pris contre personne dénommée lorsqu'il existe à l'encontre d'une personne des indices graves et concordants laissant
-présumer qu'elle a participé aux faits dont le juge d'instruction est saisi ; dans ce cas, le procureur de la République
-donne connaissance à la personne de ses réquisitions et l'avise qu'elle a droit d'être assistée d'un avocat de son choix ou
-commis d'office. L'avocat choisi ou, dans le cas d'une demande de commission d'office, le bâtonnier de l'ordre des avocats en
-est avisé sans délai. Mention de ces formalités est faite au réquisitoire.
+Le réquisitoire peut être pris contre personne dénommée ou non dénommée.
 
-Toute personne nommément visée par un réquisitoire du procureur de la République est mise en examen devant le juge
-d'instruction et ne peut être entendue comme témoin.
+Lorsque des faits, non visés au réquisitoire, sont portés à la connaissance du juge d'instruction, celui-ci doit
+immédiatement communiquer au procureur de la République les plaintes ou les procès-verbaux qui les constatent.
 
-Pour l'application du deuxième alinéa, le procureur de la République procède à l'égard des personnes qui ne lui sont pas
-déférées et dont le domicile est connu par l'envoi d'une lettre recommandée ; cette lettre précise que le nom de l'avocat
-choisi ou la demande de désignation d'un avocat commis d'office doit être communiqué à son greffe.
+En cas de plainte avec constitution de partie civile, il est procédé comme il est dit à l'article 86.
 
 **Liens relatifs à cet article**
 
@@ -4090,9 +4156,49 @@ choisi ou la demande de désignation d'un avocat commis d'office doit être comm
 
 	  - Loi n°57-1426 1957-12-31
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°93-2 du 4 janvier 1993 - art. 23 () JORF 5 janvier 1993 en vigueur le 1er mars 1993
+	  - Loi n°93-1013 1993-08-24 art. 7 JORF 25 août 1993 en vigueur le 2 septembre 1993
+
+	**Cité par**:
+
+	  - Loi n°2007-291 du 5 mars 2007 - art. 30 (V)
+	  - CODE DE PROCEDURE PENALE - art. D15-4-2 (VD)
+	  - CODE DE PROCEDURE PENALE - art. D15-4-3 (VD)
+	  - Code de procédure pénale - art. 51 (V)
+	  - Code de procédure pénale - art. 9-2 (V)
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. 86 (M)
+
+
+###### Article 80-1
+
+Le juge d'instruction a le pouvoir de mettre en examen toute personne à l'encontre de laquelle il existe des indices laissant
+présumer qu'elle a participé, comme auteur ou complice, aux faits dont il est saisi.
+
+La mise en examen résulte de l'interrogatoire de première comparution prévu par l'article 116 ou la délivrance de l'un des
+mandats prévus par les articles 122 à 136. Toutefois, la personne à l'encontre de laquelle a été délivré un mandat d'amener
+ou d'arrêt ne bénéficie des droits reconnus aux personnes mises en examen qu'à compter de sa première comparution.
+
+Le juge d'instruction peut également procéder à la mise en examen d'une personne par l'envoi d'une lettre recommandée. Cette
+lettre donne connaissance à la personne des faits pour lesquels elle est mise en examen et de la qualification juridique de
+ces faits. Elle lui précise qu'elle a le droit d'être assistée d'un avocat de son choix ou commis d'office et que le nom de
+l'avocat choisi ou la demande de désignation d'un avocat commis d'office doit être communiqué au greffe du juge
+d'instruction. Vaut également mise en examen la notification à une personne, par un officier de police judiciaire agissant
+sur les instructions du juge d'instruction, des mentions prévues par le présent alinéa. Cette notification est constatée par
+un procès-verbal signé par la personne qui en reçoit copie.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°57-1426 1957-12-31
+
+	**Modifié par**:
+
+	  - Loi n°93-1013 1993-08-24 art. 7 JORF 25 août 1993 en vigueur le 2 septembre 1993
 
 	**Cité par**:
 
@@ -4101,21 +4207,64 @@ choisi ou la demande de désignation d'un avocat commis d'office doit être comm
 	  - CODE DE PROCEDURE PENALE - art. 86 (M)
 	  - Code de procédure pénale - art. 80-1-1 (MMN)
 
+	**Cite**:
 
-###### Article 80-2
+	  - CODE DE PROCEDURE PENALE - art. 116 (M)
+	  - Code de procédure pénale 116, 122 à 136
 
-En cours de procédure, lorsque apparaissent à l'encontre d'une personne des indices graves et concordants laissant présumer
-qu'elle a participé aux faits dont le juge d'instruction est saisi, celle-ci ne peut plus être entendue comme témoin. Le juge
-d'instruction, après en avoir avisé le procureur de la République, donne connaissance à la personne des faits dont il est
-saisi et pour lesquels elle est mise en examen.
 
-Il l'avise également de son droit d'être assistée par un avocat de son choix ou commis d'office. L'avocat choisi ou, dans le
-cas d'une demande de commission d'office, le bâtonnier de l'ordre des avocats, en est avisé sans délai. Mention de ces
-formalités est faite au dossier.
+###### Article 81
 
-Pour l'application du second alinéa, le juge d'instruction procède à l'égard des personnes qui ne lui sont pas déférées et
-dont le domicile est connu par l'envoi d'une lettre recommandée ; cette lettre précise que le nom de l'avocat choisi ou la
-demande de désignation de l'avocat commis d'office doit être communiqué à son greffier.
+Le juge d'instruction procède, conformément à la loi, à tous les actes d'information qu'il juge utiles à la manifestation de
+la vérité.
+
+Il est établi une copie de ces actes ainsi que de toutes les pièces de la procédure ; chaque copie est certifiée conforme par
+le greffier ou l'officier de police judiciaire commis mentionné à l'alinéa 4. Toutes les pièces du dossier sont cotées par le
+greffier au fur et à mesure de leur rédaction ou de leur réception par le juge d'instruction.
+
+Toutefois, si les copies peuvent être établies à l'aide de procédés photographiques ou similaires, elles sont exécutées à
+l'occasion de la transmission du dossier. Il en est alors établi autant d'exemplaires qu'il est nécessaire à l'administration
+de la justice. Le greffier certifie la conformité du dossier reproduit avec le dossier original. Si le dessaisissement
+momentané a pour cause l'exercice d'une voie de recours, l'établissement des copies doit être effectué immédiatement pour
+qu'en aucun cas ne soit retardée la mise en état de l'affaire prévue à l'article 194.
+
+Si le juge d'instruction est dans l'impossibilité de procéder lui-même à tous les actes d'instruction, il peut donner
+commission rogatoire aux officiers de police judiciaire afin de leur faire exécuter tous les actes d'information nécessaires
+dans les conditions et sous les réserves prévues aux articles 151 et 152.
+
+Le juge d'instruction doit vérifier les éléments d'information ainsi recueillis.
+
+Le juge d'instruction procède ou fait procéder, soit par des officiers de police judiciaire, conformément à l'alinéa 4, soit
+par toute personne habilitée dans des conditions déterminées par décret en Conseil d'Etat, à une enquête sur la personnalité
+des personnes mises en examen, ainsi que sur leur situation matérielle, familiale ou sociale. Toutefois, en matière de délit,
+cette enquête est facultative.
+
+Le juge d'instruction peut également commettre, suivant les cas, le comité de probation et d'assistance aux libérés, le
+service compétent de l'éducation surveillée ou toute personne habilitée en application de l'alinéa qui précède à l'effet de
+vérifier la situation matérielle, familiale et sociale d'une personne mise en examen et de l'informer sur les mesures propres
+à favoriser l'insertion sociale de l'intéressée. A moins qu'elles n'aient été déjà prescrites par le ministère public, ces
+diligences doivent être prescrites par le juge d'instruction chaque fois qu'il envisage de placer en détention provisoire un
+majeur âgé de moins de vingt et un ans au moment de la commission de l'infraction lorsque la peine encourue n'excède pas cinq
+ans d'emprisonnement.
+
+Le juge d'instruction peut prescrire un examen médical, un examen psychologique ou ordonner toutes mesures utiles.
+
+S'il est saisi par une partie d'une demande écrite et motivée tendant à ce qu'il soit procédé à l'un des examens ou à toutes
+autres mesures utiles prévus par l'alinéa qui précède, le juge d'instruction doit, s'il n'entend pas y faire droit, rendre
+une ordonnance motivée au plus tard dans le délai d'un mois à compter de la réception de la demande.
+
+La demande mentionnée à l'alinéa précédent doit faire l'objet d'une déclaration au greffier du juge d'instruction saisi du
+dossier. Elle est constatée et datée par le greffier qui la signe ainsi que le demandeur ou son avocat. Si le demandeur ne
+peut signer, il en est fait mention par le greffier. Lorsque le demandeur ou son avocat ne réside pas dans le ressort de la
+juridiction compétente, la déclaration au greffier peut être faite au moyen d'une lettre recommandée avec demande d'avis de
+réception. Lorsque la personne mise en examen est détenue, la demande peut également être faite au moyen d'une déclaration
+auprès du chef de l'établissement pénitentiaire. Cette déclaration est constatée et datée par le chef de l'établissement
+pénitentiaire qui la signe, ainsi que le demandeur. Si celui-ci ne peut signer, il en est fait mention par le chef de
+l'établissement. Ce document est adressé sans délai, en original ou copie et par tout moyen, au greffier du juge
+d'instruction.
+
+Faute par le juge d'instruction d'avoir statué dans le délai d'un mois, la partie peut saisir directement le président de la
+chambre d'accusation, qui statue et procède conformément aux troisième, quatrième et cinquième alinéas de l'article 186-1.
 
 **Liens relatifs à cet article**
 
@@ -4123,62 +4272,120 @@ demande de désignation de l'avocat commis d'office doit être communiqué à so
 
 	  - Loi n°57-1426 1957-12-31
 
-	**Créé par**:
-
-	  - Loi n°93-2 du 4 janvier 1993 - art. 23 () JORF 5 janvier 1993 en vigueur le 1er mars 1993
-
-	**Abrogé par**:
-
-	  - Loi n°93-1013 1993-08-24 art. 7 JORF 25 août 1993 en vigueur le 2 septembre 1993
-
 	**Cité par**:
 
+	  - Décret n°67-902 du 12 octobre 1967 - art. 27 (Ab)
+	  - Décret n°67-902 du 12 octobre 1967 - art. Annexe II (Ab)
+	  - Arrêté du 21 octobre 1991 - art. 2 (V)
+	  - Décret n°2004-32 du 9 janvier 2004 - art. 8 (V)
+	  - CODE DE PROCEDURE PENALE - art. 113-8 (M)
+	  - CODE DE PROCEDURE PENALE - art. 145-5 (V)
+	  - CODE DE PROCEDURE PENALE - art. 156 (V)
+	  - CODE DE PROCEDURE PENALE - art. 167-2 (V)
+	  - CODE DE PROCEDURE PENALE - art. 186 (V)
+	  - CODE DE PROCEDURE PENALE - art. 186-1 (V)
+	  - CODE DE PROCEDURE PENALE - art. 187 (V)
+	  - CODE DE PROCEDURE PENALE - art. 220 (V)
+	  - CODE DE PROCEDURE PENALE - art. 463 (V)
+	  - CODE DE PROCEDURE PENALE - art. 648 (V)
+	  - CODE DE PROCEDURE PENALE - art. 80-3 (Ab)
+	  - CODE DE PROCEDURE PENALE - art. D23 (V)
+	  - CODE DE PROCEDURE PENALE - art. D32-3 (V)
+	  - CODE DE PROCEDURE PENALE - art. R121 (M)
+	  - CODE DE PROCEDURE PENALE - art. R121-1 (V)
+	  - CODE DE PROCEDURE PENALE - art. R121-3 (V)
+	  - CODE DE PROCEDURE PENALE - art. R15-34 (V)
+	  - Code de justice militaire - art. 130 (Ab)
 	  - Code de procédure pénale - art. 116 (MMN)
-
-
-###### Article 80-3
-
-Aussitôt que l'information lui paraît terminée, le juge d'instruction donne connaissance à la personne mise en examen, en
-présence de son avocat ou ce dernier dûment appelé, des présomptions de charges constitutives d'infraction pénale qu'il
-estime réunies contre elle. Il recueille ses observations par procès-verbal.
-
-Le juge d'instruction avise la personne mise en examen ainsi que les autres parties, ces dernières verbalement avec
-émargement au dossier ou par lettre recommandée, que le dossier sera communiqué au procureur de la République à l'expiration
-d'un délai de vingt jours.
-
-Il les avise également, dans les mêmes formes, qu'après communication du dossier au procureur de la République, elles ne
-seront plus recevables à formuler une demande ou présenter une requête sur le fondement des articles 81, neuvième alinéa,
-82-1, 156, premier alinéa, et 173, troisième alinéa.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°57-1426 1957-12-31
-
-	**Cité par**:
-
-	  - Décret n°91-1266 du 19 décembre 1991 - art. 34 (V)
-	  - Loi n°93-2 du 4 janvier 1993 - art. 226 (V)
-	  - Loi n°93-1013 du 24 août 1993 - art. 49 (V)
-	  - Décret n°93-1425 du 31 décembre 1993 - art. 10 (V)
-	  - Décret n°2016-1876 du 27 décembre 2016 - art. 36
-	  - CODE DE PROCEDURE PENALE - art. 175 (M)
+	  - Code de procédure pénale - art. 161-1 (M)
+	  - Code de procédure pénale - art. 167 (V)
+	  - Code de procédure pénale - art. 175 (V)
+	  - Code de procédure pénale - art. 175-1 (MMN)
+	  - Code de procédure pénale - art. 194 (V)
+	  - Code de procédure pénale - art. 207 (VT)
+	  - Code de procédure pénale - art. 41 (V)
+	  - Code de procédure pénale - art. 570 (V)
+	  - Code de procédure pénale - art. 80-1-1 (MMN)
+	  - Code de procédure pénale - art. 82-1 (V)
+	  - Code de procédure pénale - art. 82-3 (V)
+	  - Code de procédure pénale - art. 89-1 (V)
+	  - Code de procédure pénale - art. D15-7 (V)
+	  - Code de procédure pénale - art. D153 (V)
+	  - Code de procédure pénale - art. D16 (V)
+	  - Code de procédure pénale - art. D32-31 (V)
+	  - Code de procédure pénale - art. D40 (V)
+	  - Code de procédure pénale - art. D40-2 (V)
+	  - Code de procédure pénale - art. D40-3 (V)
+	  - Code de procédure pénale - art. D47-21 (V)
+	  - Code de procédure pénale - art. D591 (V)
+	  - Code de procédure pénale - art. D77 (V)
+	  - Code de procédure pénale - art. R242 (V)
 
 	**Modifié par**:
 
-	  - Loi n°93-2 du 4 janvier 1993 - art. 23 () JORF 5 janvier 1993 en vigueur le 1er mars 1993
-
-	**Abrogé par**:
-
-	  - Loi n°93-1013 1993-08-24 art. 7 JORF 25 août 1993 en vigueur le 2 septembre 1993
+	  - Loi n°93-1013 1993-08-24 art. 6 JORF 25 août 1993 en vigueur le 2 septembre 1993
 
 	**Cite**:
 
-	  - CODE DE PROCEDURE PENALE - art. 156 (M)
-	  - CODE DE PROCEDURE PENALE - art. 173 (M)
+	  - CODE DE PROCEDURE PENALE - art. 151 (V)
+	  - CODE DE PROCEDURE PENALE - art. 152 (M)
+
+	**Liens**:
+
+	  - TXT_SOURCE: CODE DE PROCEDURE PENALE - art. D17 (M)
+	  - TXT_SOURCE: CODE DE PROCEDURE PENALE - art. D25 (V)
+
+
+###### Article 82-1
+
+Les parties peuvent, au cours de l'information, saisir le juge d'instruction d'une demande écrite et motivée tendant à ce
+qu'il soit procédé à leur audition ou à leur interrogatoire, à l'audition d'un témoin, à une confrontation ou à un transport
+sur les lieux, ou à ce qu'il soit ordonné la production par l'une d'entre elles d'une pièce utile à l'information. Cette
+demande doit être formée conformément aux dispositions du dixième alinéa de l'article 81.
+
+Le juge d'instruction doit, s'il n'entend pas y faire droit, rendre une ordonnance motivée au plus tard dans le délai d'un
+mois à compter de la réception de la demande. Les dispositions du dernier alinéa de l'article 81 sont applicables.
+
+A l'expiration d'un délai de quatre mois depuis sa dernière comparution ou, s'il a été fait application du dernier alinéa de
+l'article 80-1, de l'envoi de la lettre prévue par cet alinéa, la personne mise en examen qui en fait la demande écrite doit
+être entendue par le juge d'instruction. Le juge d'instruction procède à son interrogatoire dans les trente jours de la
+réception de la demande, qui doit être formée conformément aux dispositions du dixième alinéa de l'article 81.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Ordonnance n°45-174 du 2 février 1945 - art. 4 (VD)
+	  - CODE DE PROCEDURE PENALE - art. 113-8 (M)
+	  - CODE DE PROCEDURE PENALE - art. 186-1 (V)
+	  - CODE DE PROCEDURE PENALE - art. 187 (V)
+	  - CODE DE PROCEDURE PENALE - art. 80-3 (Ab)
+	  - Code de procédure pénale - art. 113-3 (VD)
+	  - Code de procédure pénale - art. 116 (MMN)
+	  - Code de procédure pénale - art. 116-1 (V)
+	  - Code de procédure pénale - art. 120-1 (VD)
+	  - Code de procédure pénale - art. 167 (V)
+	  - Code de procédure pénale - art. 175 (V)
+	  - Code de procédure pénale - art. 194 (V)
+	  - Code de procédure pénale - art. 207 (VT)
+	  - Code de procédure pénale - art. 570 (V)
+	  - Code de procédure pénale - art. 64-1 (VD)
+	  - Code de procédure pénale - art. 82-2 (V)
+	  - Code de procédure pénale - art. 89-1 (V)
+	  - Code de procédure pénale - art. D153 (V)
+	  - Code de procédure pénale - art. D591 (V)
+
+	**Codifié par**:
+
+	  - Loi n°57-1426 1957-12-31
+
+	**Modifié par**:
+
+	  - Loi n°93-1013 1993-08-24 art. 8 JORF 25 août 1993 rectificatif JORF 26 juillet 1994 en vigueur le 2 septembre 1993
+
+	**Cite**:
+
 	  - CODE DE PROCEDURE PENALE - art. 81 (M)
-	  - CODE DE PROCEDURE PENALE - art. 82-1 (M)
 
 
 ###### Article 83-1
@@ -4294,6 +4501,69 @@ juge d'instruction compétent.
 	**Liens**:
 
 	  - SPEC_APPLI: Loi n°57-1426 1957-12-31 art. 18
+
+
+###### Article 86
+
+Le juge d'instruction ordonne communication de la plainte au procureur de la République pour que ce magistrat prenne ses
+réquisitions.
+
+Le réquisitoire peut être pris contre personne dénommée ou non dénommée.
+
+Lorsque la plainte n'est pas suffisamment motivée ou justifiée, le procureur de la République peut, avant de prendre ses
+réquisitions et s'il n'y a pas été procédé d'office par le juge d'instruction, demander à ce magistrat d'entendre la partie
+civile et, le cas échéant, d'inviter cette dernière à produire toute pièce utile à l'appui de sa plainte.
+
+Le procureur de la République ne peut saisir le juge d'instruction de réquisitions de non informer que si, pour des causes
+affectant l'action publique elle-même, les faits ne peuvent légalement comporter une poursuite ou si, à supposer ces faits
+démontrés, ils ne peuvent admettre aucune qualification pénale. Dans le cas où le juge d'instruction passe outre, il doit
+statuer par une ordonnance motivée.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Loi n°1908-08-05 du 5 août 1908 - art. 2 (V)
+	  - CODE DE PROCEDURE PENALE - art. 681 (MMN)
+	  - CODE DE PROCEDURE PENALE - art. 82 (MMN)
+	  - CODE DE PROCEDURE PENALE - art. D31-1 (V)
+	  - Code de procédure pénale - art. 51 (V)
+	  - Code de procédure pénale - art. 80 (MMN)
+
+	**Codifié par**:
+
+	  - Loi n°57-1426 1957-12-31
+
+	**Modifié par**:
+
+	  - Loi n°93-1013 1993-08-24 art. 9 JORF 25 août 1993 en vigueur le 2 septembre 1993
+
+
+###### Article 87
+
+La constitution de partie civile peut avoir lieu à tout moment au cours de l'instruction.
+
+Elle peut être contestée par le procureur de la République ou par une partie.
+
+En cas de contestation, ou s'il déclare irrecevable la constitution de partie civile, le juge d'instruction statue, après
+communication du dossier au ministère public, par ordonnance motivée dont l'intéressé peut interjeter appel.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Loi n°1908-08-05 du 5 août 1908 - art. 2 (V)
+	  - Code de justice militaire - art. 105 (Ab)
+	  - Code de procédure pénale - art. 186 (VD)
+	  - Code de procédure pénale - art. 9-2 (V)
+
+	**Codifié par**:
+
+	  - Loi n°57-1426 1957-12-31
+
+	**Modifié par**:
+
+	  - Loi n°93-1013 1993-08-24 art. 35 JORF 25 août 1993 en vigueur le 2 septembre 1993
 
 
 ###### Article 87-1
@@ -4423,6 +4693,38 @@ dû lui être notifiés aux termes de la loi.
 	**Modifié par**:
 
 	  - loi 85-1407 1985-12-30 art. 14 et art. 94 JORF 31 décembre 1985 en vigueur le 1er février 1986
+
+
+###### Article 89-1
+
+Lors de sa première audition, la partie civile est avisée de son droit de formuler une demande d'acte ou de présenter une
+requête en annulation sur le fondement des articles 81, neuvième alinéa, 82-1, 156, premier alinéa, et 173, troisième alinéa,
+durant le déroulement de l'information et au plus tard le vingtième jour suivant l'envoi de l'avis prévu par le premier
+alinéa de l'article 175.
+
+L'avis prévu à l'alinéa précédent peut également être fait par lettre recommandée.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°57-1426 1957-12-31
+
+	**Créé par**:
+
+	  - Loi n°93-1013 1993-08-24 art. 10 JORF 25 août 1993 en vigueur le 2 septembre 1993
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. 156 (M)
+	  - CODE DE PROCEDURE PENALE - art. 173 (M)
+	  - CODE DE PROCEDURE PENALE - art. 175 (M)
+	  - CODE DE PROCEDURE PENALE - art. 81 (M)
+	  - CODE DE PROCEDURE PENALE - art. 82-1 (M)
+
+	**Cité par**:
+
+	  - Code de procédure pénale - art. 175-1 (MMN)
 
 
 ###### Article 90
@@ -4914,6 +5216,44 @@ Il est dressé procès-verbal de l'opération de destruction.
 
 ##### Section 4 : Des auditions de témoins
 
+###### Article 104
+
+Toute personne nommément visée par une plainte avec constitution de partie civile peut, sur sa demande, lorsqu'elle est
+entendue comme témoin, bénéficier des droits reconnus aux personnes mises en examen par les articles 114, 115 et 120. Le juge
+d'instruction l'en avertit lors de sa première audition après lui avoir donné connaissance de la plainte. Mention de cet
+avertissement est faite au procès-verbal.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°57-1426 1957-12-31
+
+	**Cité par**:
+
+	  - Loi n°93-2 du 4 janvier 1993 - art. 226 (V)
+	  - Loi n°2000-516 du 15 juin 2000 - art. 131 (V)
+	  - CODE DE PROCEDURE PENALE - art. 152 (M)
+	  - CODE DE PROCEDURE PENALE - art. 171 (M)
+	  - CODE DE PROCEDURE PENALE - art. 175 (M)
+	  - CODE DE PROCEDURE PENALE - art. 183 (M)
+	  - CODE DE PROCEDURE PENALE - art. 86 (M)
+
+	**Modifié par**:
+
+	  - Loi n°93-1013 1993-08-24 art. 11 JORF 25 août 1993 en vigueur le 2 septembre 1993
+
+	**Abrogé par**:
+
+	  - Loi n°2000-516 du 15 juin 2000 - art. 131 (V) JORF 16 juin 2000 en vigueur le 1er janvier 2001
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. 114 (M)
+	  - CODE DE PROCEDURE PENALE - art. 115 (M)
+	  - CODE DE PROCEDURE PENALE - art. 120 (M)
+
+
 ###### Article 111
 
 Toute personne qui déclare publiquement connaître les auteurs d'un crime ou d'un délit et qui refuse de répondre aux
@@ -5016,6 +5356,46 @@ mention de la demande et de la réponse.
 
 	**Cité par**:
 
+	  - Décret du 20 mai 1903 - art. 133 (Ab)
+
+
+###### Article 105
+
+Les personnes à l'encontre desquelles il existe des indices graves et concordants d'avoir participé aux faits dont le juge
+d'instruction est saisi ne peuvent être entendues comme témoins.
+
+Il en est de même des personnes nommément visées par le réquisitoire du procureur de la République.
+
+Toutefois, lorsque le juge d'instruction estime ne pas devoir mettre en examen une personne nommément visée par le
+réquisitoire du procureur de la République, il peut l'entendre comme témoin après lui avoir donné connaissance de ce
+réquisitoire. Cette personne bénéficie des droits reconnus aux personnes mises en examen. Avis lui en est donné lors de sa
+première audition, au cours de laquelle il est fait application des deuxième à quatrième alinéas de l'article 116.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°57-1426 1957-12-31
+
+	**Modifié par**:
+
+	  - Ordonnance n°58-1296 du 23 décembre 1958 - art. 1 () JORF 24 décembre 1958
+	  - ordonnance 60-121 1960-02-13 art. 1 JORF 14 février 1960
+	  - Loi n°93-1013 1993-08-24 art. 11 JORF 25 août 1993 en vigueur le 2 septembre 1993
+
+	**Abrogé par**:
+
+	  - Loi n°93-2 du 4 janvier 1993 - art. 31 (V) JORF 5 janvier 1993 en vigueur le 1er mars 1993
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. 116 (M)
+
+	**Cité par**:
+
+	  - CODE DE PROCEDURE PENALE - art. 152 (M)
+	  - CODE DE PROCEDURE PENALE - art. 802 (M)
+	  - Code de procédure pénale - art. 113-6 (V)
 	  - Décret du 20 mai 1903 - art. 133 (Ab)
 
 
@@ -5229,6 +5609,81 @@ convocations et notifications ; à défaut de ce choix, celles-ci seront adress�
 	  - CODE DE PROCEDURE PENALE - art. 104 (Ab)
 
 
+###### Article 116
+
+Lors de la première comparution, le juge d'instruction constate l'identité de la personne et lui fait connaître expressément
+chacun des faits dont il est saisi et pour lesquels elle est mise en examen, ainsi que la qualification juridique de ces
+faits. Mention de ces faits et de leur qualification juridique est portée au procès-verbal.
+
+Lorsque la personne mise en examen a déjà demandé l'assistance d'un avocat et que celui-ci a été dûment convoqué, le juge
+d'instruction procède ensuite à son interrogatoire.
+
+Dans les autres cas, le juge d'instruction avise la personne mise en examen de son droit de choisir un avocat ou de demander
+qu'il lui en soit désigné un d'office. L'avocat choisi ou, dans le cas d'une demande de commission d'office, le bâtonnier de
+l'ordre des avocats en est informé par tout moyen et sans délai. L'avocat peut consulter sur-le-champ le dossier et
+communiquer librement avec la personne mise en examen. Le juge d'instruction avertit ensuite la personne qu'elle ne peut être
+interrogée immédiatement qu'avec son accord. Cet accord ne peut être recueilli qu'en présence de son avocat. Toutefois, si la
+personne désire faire des déclarations, celles-ci sont immédiatement reçues par le juge d'instruction. Mention de
+l'avertissement prévu au présent alinéa est faite au procès-verbal.
+
+Après avoir, le cas échéant, procédé à l'interrogatoire de la personne, le juge d'instruction l'avise de son droit de
+formuler une demande d'acte ou présenter une requête en annulation, sur le fondement des articles 81, neuvième alinéa, 82-1,
+156, premier alinéa, et 173, troisième alinéa, durant le déroulement de l'information et au plus tard le vingtième jour
+suivant l'envoi de l'avis prévu par le premier alinéa de l'article 175.
+
+A l'issue de la première comparution, la personne mise en examen doit déclarer au juge d'instruction son adresse personnelle.
+Elle peut toutefois lui substituer l'adresse d'un tiers chargé de recevoir les actes qui lui sont destinés, si elle produit
+l'accord de ce dernier. L'adresse déclarée doit être située, si l'information se déroule en métropole, dans un département
+métropolitain ou, si l'information se déroule dans un département d'outre-mer, dans ce département.
+
+La personne est avisée qu'elle doit signaler au juge d'instruction jusqu'au règlement de l'information, par nouvelle
+déclaration ou par lettre recommandée avec demande d'avis de réception, tout changement de l'adresse déclarée. Elle est
+également avisée que toute notification ou signification faite à la dernière adresse déclarée sera réputée faite à sa
+personne. Mention de cet avis, ainsi que de la déclaration d'adresse, est portée au procès-verbal.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°57-1426 1957-12-31
+
+	**Cité par**:
+
+	  - Loi n°93-1013 du 24 août 1993 - art. 49 (V)
+	  - CODE DE PROCEDURE PENALE - art. 105 (M)
+	  - CODE DE PROCEDURE PENALE - art. 122 (V)
+	  - CODE DE PROCEDURE PENALE - art. 154-2 (V)
+	  - CODE DE PROCEDURE PENALE - art. D15-4-6 (VD)
+	  - CODE DE PROCEDURE PENALE - art. D470 (M)
+	  - CODE DE PROCEDURE PENALE - art. D475 (M)
+	  - CODE DE PROCEDURE PENALE - art. D528 (M)
+	  - CODE DE PROCEDURE PENALE - art. D56 (M)
+	  - Code de procédure pénale - art. 113-4 (VD)
+	  - Code de procédure pénale - art. 113-8 (MMN)
+	  - Code de procédure pénale - art. 117 (VD)
+	  - Code de procédure pénale - art. 118 (VD)
+	  - Code de procédure pénale - art. 145 (VT)
+	  - Code de procédure pénale - art. 148-3 (VD)
+	  - Code de procédure pénale - art. 175-1 (VT)
+	  - Code de procédure pénale - art. 80-1 (MMN)
+	  - Code de procédure pénale - art. 80-2 (V)
+	  - Code de procédure pénale - art. 818 (VD)
+	  - Code de procédure pénale - art. 882 (VD)
+	  - Code de procédure pénale - art. D591 (V)
+
+	**Modifié par**:
+
+	  - Loi n°93-1013 1993-08-24 art. 13 JORF 25 août 1993 en vigueur le 2 septembre 1993
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. 156 (M)
+	  - CODE DE PROCEDURE PENALE - art. 173 (M)
+	  - CODE DE PROCEDURE PENALE - art. 175 (M)
+	  - CODE DE PROCEDURE PENALE - art. 81 (M)
+	  - CODE DE PROCEDURE PENALE - art. 82-1 (M)
+
+
 ###### Article 116-1
 
 Lorsque la personne mise en examen en fait la demande écrite, il doit être procédé à la première comparution. Le juge
@@ -5254,6 +5709,34 @@ d'instruction accomplit cet acte dans les quinze jours de la réception de la de
 	  - CODE DE PROCEDURE PENALE - art. A36-11-1 (V)
 	  - Code de procédure pénale - art. 819 (V)
 	  - Code de procédure pénale - art. D32-2 (V)
+
+
+###### Article 117
+
+Nonobstant les dispositions prévues à l'article 116, le juge d'instruction peut procéder à un interrogatoire immédiat et à
+des confrontations si l'urgence résulte soit de l'état d'un témoin en danger de mort, soit de l'existence d'indices sur le
+point de disparaître, ou encore dans le cas prévu au dernier alinéa de l'article 72.
+
+Le procès-verbal fait mention des causes d'urgence.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°57-1426 1957-12-31
+
+	**Modifié par**:
+
+	  - Loi n°93-1013 1993-08-24 art. 6 JORF 25 août 1993 en vigueur le 2 septembre 1993
+
+	**Cité par**:
+
+	  - CODE DE PROCEDURE PENALE - art. 104 (M)
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. 116 (M)
+	  - CODE DE PROCEDURE PENALE - art. 72 (M)
 
 
 ###### Article 118
@@ -5397,12 +5880,9 @@ S'il est fait appel à un interprète, les dispositions de l'article 102 sont ap
 
 ###### Article 122
 
-Le juge d'instruction peut décerner mandat de comparution, d'amener ou d'arrêt. Il peut également, soit d'office dans le cas
-prévu par le troisième alinéa de l'article 145, soit en exécution des ordonnances prises, en application de l'article 137-1,
-par le président du tribunal de grande instance ou le juge délégué par lui, décerner mandat de dépôt.
-
-Le mandat de comparution a pour objet de mettre la personne à l'encontre de laquelle il est décerné en demeure de se
-présenter devant le juge à la date et à l'heure indiquées par ce mandat.
+Le juge d'instruction peut, selon les cas décerner mandat de comparution, d'amener, de dépôt ou d'arrêt.    Le mandat de
+comparution a pour objet de mettre la personne à l'encontre de laquelle il est décerné en demeure de se présenter devant le
+juge à la date et à l'heure indiquées par ce mandat.
 
 Le mandat d'amener est l'ordre donné par le juge à la force publique de conduire immédiatement la personne à l'encontre de
 laquelle il est décerné devant lui.
@@ -5420,15 +5900,9 @@ de la conduire à la maison d'arrêt indiquée sur le mandat, où elle sera reç
 
 	  - Loi n°57-1426 1957-12-31
 
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°57-1426 1957-12-31 art. 18
-
 	**Modifié par**:
 
-	  - Loi n°87-432 du 22 juin 1987 - art. 5
-	  - Loi n°87-1062 du 30 décembre 1987 - art. 1 () JORF 31 décembre 1987 en vigueur le 1er septembre 1989
-	  - Loi n°93-2 du 4 janvier 1993 - art. 236 () JORF 5 janvier 1993 en vigueur le 1er mars 1993
+	  - Loi n°93-1013 1993-08-24 art. 19 JORF 25 août 1993 en vigueur le 2 septembre 1993
 
 	**Cite**:
 
@@ -5835,10 +6309,11 @@ qui a délivré le mandat.
 
 ###### Article 135
 
-En matière criminelle et en matière correctionnelle, les mandats de dépôt ne peuvent être décernés qu'en exécution, dans le
-cas prévu par le troisième alinéa de l'article 145 et par le troisième alinéa de l'article 179, d'une ordonnance du juge
-d'instruction ou, dans les autres cas, d'une décision du président du tribunal de grande instance ou du juge délégué par lui
-rendue en application de l'article 137-1.
+Le juge d'instruction ne peut délivrer un mandat de dépôt qu'après interrogatoire et si l'infraction comporte une peine
+d'emprisonnement correctionnelle ou une autre peine plus grave.
+
+En matière criminelle et en matière correctionnelle, les mandats de dépôt ne peuvent être décernés qu'en exécution de
+l'ordonnance prévue à l'article 145.
 
 L'agent chargé de l'exécution du mandat de dépôt remet l'intéressé au chef de l'établissement pénitentiaire, lequel lui
 délivre une reconnaissance de cette remise.
@@ -5851,17 +6326,11 @@ délivre une reconnaissance de cette remise.
 
 	**Modifié par**:
 
-	  - Loi n°70-643 du 17 juillet 1970 - art. 3 () JORF 19 juillet 1970
-	  - Loi n°87-432 du 22 juin 1987 - art. 5
-	  - Loi n°87-1062 du 30 décembre 1987 - art. 1 () JORF 31 décembre 1987 en vigueur le 1er septembre 1989
-	  - Loi n°89-461 du 6 juillet 1989 - art. 3 () JORF 8 juillet 1989 en vigueur le 1er décembre 1989
-	  - Loi n°93-2 du 4 janvier 1993 - art. 237 () JORF 5 janvier 1993 en vigueur le 1er mars 1993
+	  - Loi n°93-1013 1993-08-24 art. 19 JORF 25 août 1993 en vigueur le 2 septembre 1993
 
 	**Cite**:
 
-	  - CODE DE PROCEDURE PENALE - art. 137-1 (Ab)
 	  - CODE DE PROCEDURE PENALE - art. 145 (MMN)
-	  - CODE DE PROCEDURE PENALE - art. 179 (M)
 
 	**Cité par**:
 
@@ -5910,6 +6379,40 @@ collectivité publique ou contre ses agents.
 
 
 ##### Section 7 : Du contrôle judiciaire et de la détention provisoire
+
+###### Article 137
+
+La personne mise en examen reste libre sauf, à raison des nécessités de l'instruction ou à titre de mesure de sûreté, à être
+soumise au contrôle judiciaire ou, à titre exceptionnel, placée en détention provisoire selon les règles et conditions
+énoncées ci-après.
+
+Le juge d'instruction qui ne suit pas les réquisitions du procureur de la République tendant au placement en détention
+provisoire de la personne mise en examen n'a pas à rendre d'ordonnance motivée. Il en est de même en cas de réquisitions
+tendant à la prolongation ou au maintien de la détention provisoire ou de réquisitions tendant au placement sous contrôle
+judiciaire. Dans ce cas, le procureur de la République peut saisir directement la chambre de l'instruction dans les dix jours
+de l'avis de notification qui lui est donné par le greffier du juge d'instruction.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Ordonnance n°45-174 du 2 février 1945 - art. 11 (V)
+	  - Ordonnance n°45-174 du 2 février 1945 - art. 14-2 (V)
+	  - CODE DE PROCEDURE PENALE - art. 139 (M)
+	  - CODE DE PROCEDURE PENALE - art. 144 (M)
+	  - CODE DE PROCEDURE PENALE - art. 144-1 (MMN)
+	  - CODE DE PROCEDURE PENALE - art. 207 (M)
+	  - CODE DE PROCEDURE PENALE - art. 82 (M)
+	  - Code de procédure pénale - art. 143-1 (V)
+
+	**Codifié par**:
+
+	  - Loi n°57-1426 1957-12-31
+
+	**Modifié par**:
+
+	  - Loi n°93-1013 1993-08-24 art. 16 JORF 25 août 1993 en vigueur le 2 septembre 1993
+
 
 ##### Sous-section 1 : Du contrôle judiciaire
 
@@ -5960,7 +6463,9 @@ d'un avocat, le juge d'instruction doit saisir le conseil de l'ordre qui statue 
 71-1130 du 31 décembre 1971 portant réforme de certaines professions judiciaires et juridiques ;
 
 13° Ne pas émettre de chèques autres que ceux qui permettent exclusivement le retrait de fonds par le tireur auprès du tiré
-ou ceux qui sont certifiés et, le cas échéant, remettre au greffe les formules de chèques dont l'usage est ainsi prohibé ;
+ou
+
+ceux qui sont certifiés et, le cas échéant, remettre au greffe les formules de chèques dont l'usage est ainsi prohibé ;
 
 14° Ne pas détenir ou porter une arme et, le cas échéant, remettre au greffe contre récépissé les armes dont elle est
 détentrice ;
@@ -6025,7 +6530,7 @@ contrôle judiciaire, sont déterminées en tant que de besoin par un décret en
 
 	**Modifié par**:
 
-	  - Loi n°93-2 du 4 janvier 1993 - art. 179 () JORF 5 janvier 1993 en vigueur le 1er mars 1993
+	  - Loi n°93-1013 1993-08-24 art. 46 JORF 25 août 1993 en vigueur le 2 septembre 1993
 
 
 ###### Article 139
@@ -6120,6 +6625,46 @@ juridiction compétente selon les distinctions de l'article 148-1.
 
 	  - Code de procédure pénale - art. 139 (VT)
 	  - Code de procédure pénale - art. 148-1 (V)
+
+
+###### Article 141-2
+
+Si la personne mise en examen se soustrait volontairement aux obligations du contrôle judiciaire, le juge d'instruction peut,
+quelle que soit la durée de la peine d'emprisonnement encourue, décerner à son encontre mandat d'arrêt ou de dépôt en vue de
+sa détention provisoire.
+
+Les mêmes droits appartiennent en tout état de cause à la juridiction qui est compétente selon les distinctions de l'article
+148-1. Toutefois, à l'encontre de l'accusé, il n'y a pas lieu à délivrance d'un mandat et l'ordonnance de prise de corps est
+exécutée sur l'ordre du président de la cour d'assises ou, dans l'intervalle des sessions, du président de la chambre de
+l'instruction.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Ordonnance n°45-174 du 2 février 1945 - art. 14-2 (V)
+	  - CODE DE PROCEDURE PENALE - art. 144 (M)
+	  - CODE DE PROCEDURE PENALE - art. 215-1 (Ab)
+	  - Code de justice militaire - art. 137 (Ab)
+	  - Code de procédure pénale - art. 142-8 (V)
+	  - Code de procédure pénale - art. 143-1 (V)
+	  - Code de procédure pénale - art. 394 (V)
+	  - Code de procédure pénale - art. 396 (M)
+	  - Code de procédure pénale - art. 397-3 (V)
+	  - Code de procédure pénale - art. 471 (V)
+	  - Code de procédure pénale - art. D32-20 (V)
+
+	**Codifié par**:
+
+	  - Loi n°57-1426 1957-12-31
+
+	**Modifié par**:
+
+	  - Loi n°93-1013 1993-08-24 art. 19 JORF 25 août 1993 en vigueur le 2 septembre 1993
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. 148-1 (M)
 
 
 ###### Article 142
@@ -6273,11 +6818,11 @@ les conditions déterminées par l'article 148-2.
 
 ###### Article 145-2
 
-En matière criminelle, la personne mise en examen ne peut être maintenue en détention au-delà d'un an. Toutefois, le
-président du tribunal de grande instance ou le juge qu'il délègue à cet effet peut, à l'expiration de ce délai, prolonger la
-détention pour une durée qui ne peut être supérieure à un an par une décision rendue conformément aux dispositions des
-sixième et septième alinéas de l'article 145, l'avocat ayant été convoqué conformément aux dispositions du deuxième alinéa de
-l'article 114. Cette décision peut être renouvelée selon la même procédure.
+En matière criminelle, la personne mise en examen ne peut être maintenue en détention au-delà d'un an. Toutefois, le juge
+d'instruction peut, à l'expiration de ce délai, prolonger la détention pour une durée qui ne peut être supérieure à un an par
+une décision rendue conformément aux dispositions des premier et quatrième alinéas de l'article 145, l'avocat ayant été
+convoqué conformément aux dispositions du deuxième alinéa de l'article 114. Cette décision peut être renouvelée selon la même
+procédure.
 
 Les dispositions du présent article sont applicables jusqu'à l'ordonnance de règlement.
 
@@ -6297,7 +6842,7 @@ Les dispositions du présent article sont applicables jusqu'à l'ordonnance de r
 
 	**Modifié par**:
 
-	  - Loi n°93-2 du 4 janvier 1993 - art. 240 () JORF 5 janvier 1993 en vigueur le 1er mars 1993
+	  - Loi n°93-1013 1993-08-24 art. 19 JORF 25 août 1993 en vigueur le 2 septembre 1993
 
 	**Cite**:
 
@@ -6397,6 +6942,52 @@ jours à compter de la date de ces réquisitions.
 	  - Code de procédure pénale - art. 144-1 (VT)
 	  - Code de procédure pénale - art. D32-23 (V)
 	  - Code de procédure pénale - art. D32-24 (V)
+
+
+###### Article 148
+
+En toute matière, la mise en liberté peut être demandée à tout moment au juge d'instruction par la personne ou son avocat,
+sous les conditions prévues à l'article précédent.
+
+Le juge d'instruction communique immédiatement le dossier au procureur de la République aux fins de réquisitions.
+
+Le juge d'instruction doit statuer, au plus tard dans les cinq jours de la communication au procureur de la République, par
+une ordonnance qui doit comporter l'énoncé des considérations de droit et de fait qui constituent le fondement de cette
+décision par référence aux dispositions de l'article 144. Toutefois, lorsqu'il n'a pas encore été statué sur une précédente
+demande de mise en liberté ou sur l'appel d'une précédente ordonnance de refus de mise en liberté, le délai de cinq jours ne
+commencera à courir qu'à compter de la décision rendue par la juridiction d'instruction.
+
+La mise en liberté, lorsqu'elle est accordée, peut être assortie de mesures de contrôle judiciaire.
+
+Faute par le juge d'instruction d'avoir statué dans le délai fixé au troisième alinéa, la personne peut saisir directement de
+sa demande la chambre d'accusation qui, sur les réquisitions écrites et motivées du procureur général, se prononce dans les
+vingt jours de sa saisine faute de quoi la personne est mise d'office en liberté sauf si des vérifications concernant sa
+demande ont été ordonnées. Le droit de saisir dans les mêmes conditions la chambre d'accusation appartient également au
+procureur de la République.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Ordonnance n°45-174 du 2 février 1945 - art. 14-2 (V)
+	  - CODE DE PROCEDURE PENALE - art. 148-4 (V)
+	  - Code de procédure pénale - art. 142-12 (V)
+	  - Code de procédure pénale - art. 186 (VD)
+	  - Code de procédure pénale - art. 728-68 (V)
+	  - Code de procédure pénale - art. D150 (V)
+
+	**Codifié par**:
+
+	  - Loi n°57-1426 1957-12-31
+
+	**Modifié par**:
+
+	  - Loi n°93-1013 1993-08-24 art. 35 JORF 25 août 1993 en vigueur le 2 septembre 1993
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. 144 (M)
+	  - CODE DE PROCEDURE PENALE - art. 147 (M)
 
 
 ###### Article 148-1
@@ -6833,6 +7424,78 @@ procès-verbaux doivent lui être transmis dans les huit jours de la fin des op�
 	  - TXT_SOURCE: CODE DE PROCEDURE PENALE - art. D36 (M)
 
 
+###### Article 152
+
+Les magistrats ou officiers de police judiciaire commis pour l'exécution exercent, dans les limites de la commission
+rogatoire, tous les pouvoirs du juge d'instruction.
+
+Toutefois, les officiers de police judiciaire ne peuvent pas procéder aux interrogatoires et confrontations des personnes
+mises en examen ou des personnes mentionnées au deuxième alinéa de l'article 105. Ils ne peuvent procéder à l'audition des
+parties civiles ou de la personne bénéficiant des dispositions de l'article 104 qu'à la demande de celles-ci.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°57-1426 1957-12-31
+
+	**Modifié par**:
+
+	  - Loi n°93-1013 1993-08-24 art. 14 JORF 25 août 1993 en vigueur le 2 septembre 1993
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. 104 (M)
+	  - CODE DE PROCEDURE PENALE - art. 105 (M)
+
+	**Cité par**:
+
+	  - CODE DE PROCEDURE PENALE - art. 171 (M)
+	  - CODE DE PROCEDURE PENALE - art. 81 (M)
+	  - Code de procédure pénale - art. 28-1 (V)
+	  - Code de procédure pénale - art. 28-2 (V)
+
+	**Liens**:
+
+	  - TXT_SOURCE: CODE DE PROCEDURE PENALE - art. D33 (V)
+	  - TXT_SOURCE: CODE DE PROCEDURE PENALE - art. D34 (V)
+	  - TXT_SOURCE: CODE DE PROCEDURE PENALE - art. D35 (V)
+	  - TXT_SOURCE: CODE DE PROCEDURE PENALE - art. D36 (M)
+
+
+###### Article 155
+
+Lorsque la commission rogatoire prescrit des opérations simultanées sur divers points du territoire, elle peut, sur l'ordre
+du juge d'instruction mandant, être adressée aux juges d'instruction ou officiers de police judiciaire chargés de son
+exécution sous forme de reproduction ou de copie intégrale de l'original.
+
+Elle peut même, en cas d'urgence, être diffusée par tous moyens ; chaque diffusion doit toutefois préciser les mentions
+essentielles de l'original et spécialement la nature de la mise en examen, le nom et la qualité du magistrat mandant.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°57-1426 1957-12-31
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°85-1407 1985-12-30 art. 94
+	  - TXT_SOURCE: CODE DE PROCEDURE PENALE - art. D33 (V)
+	  - TXT_SOURCE: CODE DE PROCEDURE PENALE - art. D34 (V)
+	  - TXT_SOURCE: CODE DE PROCEDURE PENALE - art. D35 (V)
+	  - TXT_SOURCE: CODE DE PROCEDURE PENALE - art. D36 (M)
+
+	**Modifié par**:
+
+	  - Loi n°93-1013 1993-08-24 art. 46 JORF 25 août 1993 en vigueur le 2 septembre 1993
+
+	**Cité par**:
+
+	  - Code de procédure pénale - art. D35 (V)
+	  - Code de procédure pénale - art. D36 (V)
+
+
 ##### Section 9 : De l'expertise
 
 ###### Article 156
@@ -6841,8 +7504,8 @@ Toute juridiction d'instruction ou de jugement, dans le cas où se pose une ques
 demande du ministère public, soit d'office, ou à la demande des parties, ordonner une expertise.
 
 Lorsque le juge d'instruction estime ne pas devoir faire droit à une demande d'expertise, il doit rendre une ordonnance
-motivée au plus tard dans un délai d'un mois à compter de la réception de la demande. Les dispositions du dernier alinéa de
-l'article 81 sont applicables à cette procédure.
+motivée au plus tard dans un délai d'un mois à compter de la réception de la demande. Les dispositions des neuvième et
+dixième alinéas de l'article 81 sont applicables.
 
 Les experts procèdent à leur mission sous le contrôle du juge d'instruction ou du magistrat que doit désigner la juridiction
 ordonnant l'expertise.
@@ -6855,9 +7518,7 @@ ordonnant l'expertise.
 
 	**Modifié par**:
 
-	  - Ordonnance n°58-1296 du 23 décembre 1958 - art. 1 () JORF 24 décembre 1958
-	  - Ordonnance 60-529 1960-06-04 art. 1 JORF 8 juin 1960
-	  - Loi n°93-2 du 4 janvier 1993 - art. 38 () JORF 5 janvier 1993 en vigueur le 1er mars 1993
+	  - Loi n°93-1013 1993-08-24 art. 8 JORF 25 août 1993 en vigueur le 2 septembre 1993
 
 	**Cité par**:
 
@@ -7003,8 +7664,6 @@ Le juge d'instruction désigne l'expert chargé de procéder à l'expertise.
 
 Si les circonstances le justifient, il désigne plusieurs experts.
 
-Il avise aussitôt les parties de sa décision.
-
 **Liens relatifs à cet article**
 
 	**Codifié par**:
@@ -7013,7 +7672,7 @@ Il avise aussitôt les parties de sa décision.
 
 	**Modifié par**:
 
-	  - Loi n°93-2 du 4 janvier 1993 - art. 39 () JORF 5 janvier 1993 en vigueur le 1er mars 1993
+	  - Loi n°93-1013 1993-08-24 art. 35 JORF 25 août 1993 en vigueur le 2 septembre 1993
 
 	**Cité par**:
 
@@ -7179,6 +7838,8 @@ aux experts et annexée par ceux-ci à leur rapport, renoncer à l'assistance de
 Toutefois, les médecins et les psychologues experts chargés d'examiner la personne mise en examen peuvent lui poser les
 questions nécessaires à l'accomplissement de leur mission, hors la présence du juge et des avocats.
 
+Les dispositions du présent article sont également applicables à la personne bénéficiant des dispositions de l'article 104.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
@@ -7187,7 +7848,7 @@ questions nécessaires à l'accomplissement de leur mission, hors la présence d
 
 	**Modifié par**:
 
-	  - Loi n°93-2 du 4 janvier 1993 - art. 189 () JORF 5 janvier 1993 en vigueur le 1er mars 1993
+	  - Loi n°93-1013 1993-08-24 art. 14 JORF 25 août 1993 en vigueur le 2 septembre 1993
 
 	**Cite**:
 
@@ -7256,8 +7917,9 @@ chef de l'établissement pénitentiaire qui adresse, sans délai, au juge d'inst
 signé par l'intéressé.
 
 Dans tous les cas, le juge d'instruction fixe un délai aux parties pour présenter des observations ou formuler une demande,
-notamment aux fins de complément d'expertise ou de contre-expertise. Pendant ce délai, le dossier de la procédure est mis à
-la disposition des conseils des parties.
+notamment aux fins de complément d'expertise ou de contre-expertise. Cette demande doit être formée conformément aux
+dispositions du dixième alinéa de l'article 81. Pendant ce délai, le dossier de la procédure est mis à la disposition des
+conseils des parties.
 
 Lorsqu'il rejette une demande, le juge d'instruction rend une décision motivée qui doit intervenir dans un délai d'un mois à
 compter de la réception de la demande. Il en est de même s'il commet un seul expert alors que la partie a demandé qu'il en
@@ -7271,7 +7933,7 @@ soit désigné plusieurs. Les dispositions du dernier alinéa de l'article 81 so
 
 	**Modifié par**:
 
-	  - Loi n°93-2 du 4 janvier 1993 - art. 40 () JORF 5 janvier 1993 en vigueur le 1er mars 1993
+	  - Loi n°93-1013 1993-08-24 art. 8 JORF 25 août 1993 en vigueur le 2 septembre 1993
 
 	**Cite**:
 
@@ -7404,8 +8066,8 @@ d'une pièce de la procédure par le juge d'instruction, par le procureur de la 
 
 ###### Article 171
 
-Il y a nullité en cas de violation des dispositions des articles 18, 21-1, 51, 52, 53, 56, 56-1, 57, 59, 63, 63-1, 76, 77,
-78-3 100, 100-2, 100-7, 104, 152 et 154.
+Il y a nullité lorsque la méconnaissance d'une formalité substantielle prévue par une disposition du présent code ou toute
+autre disposition de procédure pénale a porté atteinte aux intérêts de la partie qu'elle concerne.
 
 **Liens relatifs à cet article**
 
@@ -7415,29 +8077,7 @@ Il y a nullité en cas de violation des dispositions des articles 18, 21-1, 51, 
 
 	**Modifié par**:
 
-	  - Loi n°93-2 du 4 janvier 1993 - art. 71 () JORF 5 janvier 1993 en vigueur le 1er mars 1993
-
-	**Cite**:
-
-	  - CODE DE PROCEDURE PENALE - art. 100-2 (V)
-	  - CODE DE PROCEDURE PENALE - art. 100-7 (MMN)
-	  - CODE DE PROCEDURE PENALE - art. 104 (M)
-	  - CODE DE PROCEDURE PENALE - art. 152 (M)
-	  - CODE DE PROCEDURE PENALE - art. 154 (M)
-	  - CODE DE PROCEDURE PENALE - art. 18 (M)
-	  - CODE DE PROCEDURE PENALE - art. 21-1 (V)
-	  - CODE DE PROCEDURE PENALE - art. 51 (V)
-	  - CODE DE PROCEDURE PENALE - art. 52 (M)
-	  - CODE DE PROCEDURE PENALE - art. 53 (M)
-	  - CODE DE PROCEDURE PENALE - art. 56 (M)
-	  - CODE DE PROCEDURE PENALE - art. 56-1 (M)
-	  - CODE DE PROCEDURE PENALE - art. 57 (V)
-	  - CODE DE PROCEDURE PENALE - art. 59 (M)
-	  - CODE DE PROCEDURE PENALE - art. 63 (M)
-	  - CODE DE PROCEDURE PENALE - art. 63-1 (Ab)
-	  - CODE DE PROCEDURE PENALE - art. 76 (M)
-	  - CODE DE PROCEDURE PENALE - art. 77 (M)
-	  - CODE DE PROCEDURE PENALE - art. 78-3 (M)
+	  - Loi n°93-1013 1993-08-24 art. 21 JORF 25 août 1993 en vigueur le 2 septembre 1993
 
 	**Cité par**:
 
@@ -7447,9 +8087,6 @@ Il y a nullité en cas de violation des dispositions des articles 18, 21-1, 51, 
 
 
 ###### Article 172
-
-Il y a également nullité lorsque la méconnaissance d'une formalité substantielle a porté atteinte aux intérêts de la partie
-qu'elle concerne.
 
 La partie envers laquelle une formalité substantielle a été méconnue peut renoncer à s'en prévaloir et régulariser ainsi la
 procédure. Cette renonciation doit être expresse. Elle ne peut être donnée qu'en présence de l'avocat ou ce dernier dûment
@@ -7463,7 +8100,7 @@ appelé.
 
 	**Modifié par**:
 
-	  - Loi n°93-2 du 4 janvier 1993 - art. 71 () JORF 5 janvier 1993 en vigueur le 1er mars 1993
+	  - Loi n°93-1013 1993-08-24 art. 21 JORF 25 août 1993 en vigueur le 2 septembre 1993
 
 	**Cité par**:
 
@@ -7480,13 +8117,26 @@ procédure en vue de sa transmission à la chambre d'accusation, présente requ�
 informe les parties.
 
 Si l'une des parties estime qu'une nullité a été commise, elle saisit la chambre d'accusation par requête motivée, dont elle
-adresse copie au juge d'instruction qui transmet le dossier de la procédure au président de la chambre d'accusation.
+adresse copie au juge d'instruction qui transmet le dossier de la procédure au président de la chambre d'accusation. La
+requête doit, à peine d'irrecevabilité, faire l'objet d'une déclaration au greffe de la chambre d'accusation. Elle est
+constatée et datée par le greffier qui la signe ainsi que le demandeur ou son avocat. Si le demandeur ne peut signer, il en
+est fait mention par le greffier. Lorsque le demandeur ou son avocat ne réside pas dans le ressort de la juridiction
+compétente, la déclaration au greffe peut être faite au moyen d'une lettre recommandée avec demande d'avis de réception.
+Lorsque la personne mise en examen est détenue, la requête peut également être faite au moyen d'une déclaration auprès du
+chef de l'établissement pénitentiaire. Cette déclaration est constatée et datée par le chef de l'établissement pénitentiaire
+qui la signe, ainsi que le demandeur. Si celui-ci ne peut signer, il en est fait mention par le chef de l'établissement. Ce
+document est adressé sans délai, en original ou en copie et par tout moyen, au greffe de la chambre d'accusation.
 
-Dans les huit jours de la réception du dossier par la chambre d'accusation, le président peut, par ordonnance non susceptible
-de recours, constater que la requête est irrecevable en application des articles 174, premier alinéa, ou 175, deuxième
-alinéa. S'il constate l'irrecevabilité de la requête, le président de la chambre d'accusation ordonne que le dossier de
-l'information soit renvoyé au juge d'instruction ; dans les autres cas, il le transmet au procureur général qui procède ainsi
-qu'il est dit aux articles 194 et suivants.
+Les dispositions des trois premiers alinéas ne sont pas applicables aux actes de procédure qui peuvent faire l'objet d'un
+appel de la part des parties, et notamment des décisions rendues en matière de détention provisoire ou de contrôle
+judiciaire.
+
+Dans les huit jours de la réception du dossier par le greffe de la chambre d'accusation, le président peut, par ordonnance
+non susceptible de recours, constater que la requête est irrecevable en application du présent article, troisième ou
+quatrième alinéa, des articles 174, premier alinéa, ou 175, deuxième alinéa ; il peut également constater l'irrecevabilité de
+la requête si celle-ci n'est pas motivée. S'il constate l'irrecevabilité de la requête, le président de la chambre
+d'accusation ordonne que le dossier de l'information soit renvoyé au juge d'instruction ; dans les autres cas, il le transmet
+au procureur général qui procède ainsi qu'il est dit aux articles 194 et suivants.
 
 **Liens relatifs à cet article**
 
@@ -7496,7 +8146,7 @@ qu'il est dit aux articles 194 et suivants.
 
 	**Modifié par**:
 
-	  - Loi n°93-2 du 4 janvier 1993 - art. 71 () JORF 5 janvier 1993 en vigueur le 1er mars 1993
+	  - Loi n°93-1013 1993-08-24 art. 22 JORF 25 août 1993 en vigueur le 2 septembre 1993
 
 	**Cité par**:
 
@@ -7528,19 +8178,17 @@ les parties ne sont plus recevables à en faire état, sauf le cas où elles n'a
 La chambre d'accusation décide si l'annulation doit être limitée à tout ou partie des actes ou pièces de la procédure viciée
 ou s'étendre à tout ou partie de la procédure ultérieure et procède comme il est dit au troisième alinéa de l'article 206.
 
-Les actes ou pièces annulés sont retirés du dossier d'information et classés au greffe de la cour d'appel. Il est interdit
-d'y puiser aucun renseignement contre les parties, à peine de forfaiture pour les magistrats et de poursuites devant leur
-chambre de discipline pour les avocats. Les actes ou pièces de la procédure partiellement annulés sont cancellés.
+Les actes ou pièces annulés sont retirés du dossier d'information et classés au greffe de la cour d'appel. Les actes ou
+pièces de la procédure partiellement annulés sont cancellés après qu'a été établie une copie certifiée conforme à l'original,
+qui est classée au greffe de la cour d'appel. Il est interdit de tirer des actes et des pièces ou parties d'actes ou de
+pièces annulés aucun renseignement contre les parties, à peine de poursuites disciplinaires pour les avocats et les
+magistrats.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Loi n°57-1426 1957-12-31
-
-	**Modifié par**:
-
-	  - Loi n°93-2 du 4 janvier 1993 - art. 71 () JORF 5 janvier 1993 en vigueur le 1er mars 1993
 
 	**Cité par**:
 
@@ -7551,28 +8199,37 @@ chambre de discipline pour les avocats. Les actes ou pièces de la procédure pa
 	  - Code de procédure pénale - art. 206 (MMN)
 	  - Code de procédure pénale - art. 221-3 (VT)
 
+	**Modifié par**:
+
+	  - Loi n°93-1013 1993-08-24 art. 23 JORF 25 août 1993 en vigueur le 2 septembre 1993
+
 
 ##### Section 11 : Des ordonnances de règlement
 
 ###### Article 175
 
-Aussitôt que l'information lui paraît terminée et sous réserve des dispositions de l'article 80-3, le juge d'instruction
-communique le dossier au procureur de la République.
+Aussitôt que l'information lui paraît terminée, le juge d'instruction en avise les parties et leurs avocats, soit verbalement
+avec émargement au dossier, soit par lettre recommandée. Lorsque la personne est détenue, cet avis peut également être
+notifié par les soins du chef de l'établissement pénitentiaire, qui adresse sans délai au juge d'instruction l'original ou la
+copie du récépissé signé par l'intéressé.
 
-Le procureur de la République adresse ses réquisitions au juge d'instruction dans un délai d'un mois si une personne mise en
-examen est détenue ou de trois mois dans les autres cas.
+A l'expiration d'un délai de vingt jours à compter de l'envoi de l'avis prévu à l'alinéa précédent, les parties ne sont plus
+recevables à formuler une demande ou présenter une requête sur le fondement des articles 81, neuvième alinéa, 82-1, 156,
+premier alinéa, et 173, troisième alinéa. Les parties peuvent déclarer renoncer, en présence de leur avocat ou celui-ci
+dûment convoqué, à invoquer ce délai.
+
+A l'issue de ce délai, le juge d'instruction communique le dossier au procureur de la République. Celui-ci lui adresse ses
+réquisitions dans un délai d'un mois si une personne mise en examen est détenue et de trois mois dans les autres cas.
 
 Le juge d'instruction qui ne reçoit pas de réquisitions dans le délai prescrit peut rendre l'ordonnance de règlement.
+
+Les dispositions du premier alinéa sont également applicables à la personne bénéficiant des dispositions de l'article 104.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Loi n°57-1426 1957-12-31
-
-	**Modifié par**:
-
-	  - Loi n°93-2 du 4 janvier 1993 - art. 72 () JORF 5 janvier 1993 en vigueur le 1er mars 1993
 
 	**Cité par**:
 
@@ -7601,9 +8258,16 @@ Le juge d'instruction qui ne reçoit pas de réquisitions dans le délai prescri
 	  - Code de procédure pénale - art. D591 (V)
 	  - Code de procédure pénale - art. R249-3 (V)
 
+	**Modifié par**:
+
+	  - Loi n°93-1013 1993-08-24 art. 24 JORF 25 août 1993 en vigueur le 2 septembre 1993
+
 	**Cite**:
 
-	  - CODE DE PROCEDURE PENALE - art. 80-3 (Ab)
+	  - CODE DE PROCEDURE PENALE - art. 104 (M)
+	  - CODE DE PROCEDURE PENALE - art. 156 (M)
+	  - CODE DE PROCEDURE PENALE - art. 81 (M)
+	  - CODE DE PROCEDURE PENALE - art. 82-1 (M)
 
 
 ###### Article 175-1
@@ -7638,14 +8302,38 @@ prononce dans les vingt jours de sa saisine.
 	  - Code de procédure pénale - art. 89-1 (V)
 
 
+###### Article 176
+
+Le juge d'instruction examine s'il existe contre la personne mise en examen des charges constitutives d'infraction, dont il
+détermine la qualification juridique.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°57-1426 1957-12-31
+
+	**Abrogé par**:
+
+	  - Loi n°93-2 du 4 janvier 1993 - art. 42 (V) JORF 5 janvier 1993 en vigueur le 1er mars 1993
+
+	**Modifié par**:
+
+	  - Loi n°93-1013 1993-08-24 art. 6 JORF 25 août 1993 en vigueur le 2 septembre 1993
+
+	**Cité par**:
+
+	  - Code de procédure pénale - art. 134 (V)
+
+
 ###### Article 177
 
 Si le juge d'instruction estime que les faits ne constituent ni crime, ni délit, ni contravention, ou si l'auteur est resté
 inconnu, ou s'il n'existe pas de charges suffisantes contre la personne mise en examen, il déclare, par une ordonnance, qu'il
 n'y a lieu à suivre.
 
-Les personnes mises en examen sont déclarées hors de cause et, si elles sont détenues provisoirement, mises en liberté.
-L'ordonnance met fin au contrôle judiciaire.
+Les personnes mises en examen qui sont provisoirement détenues sont mises en liberté. L'ordonnance met fin au contrôle
+judiciaire.
 
 Le juge d'instruction statue par la même ordonnance sur la restitution des objets placés sous main de justice. Il peut
 refuser la restitution lorsque celle-ci présente un danger pour les personnes ou les biens. La décision relative à la
@@ -7664,15 +8352,13 @@ modalités prévues par l'article 99.
 	  - Loi n°2016-1547 du 18 novembre 2016 - art. 25 (V)
 	  - CODE DE PROCEDURE PENALE - art. 50-1 (MMN)
 
-	**Modifié par**:
-
-	  - Loi n°85-1407 1985-12-30 art. 5, 87 et 94 JORF 31 décembre 1985 en vigueur le 1er février 1986
-	  - Loi n°87-962 du 30 novembre 1987 - art. 11 () JORF 1er décembre 1987
-	  - Loi n°93-2 du 4 janvier 1993 - art. 43 () JORF 5 janvier 1993 en vigueur le 1er mars 1993
-
 	**Liens**:
 
 	  - SPEC_APPLI: Loi n°85-1407 1985-12-30 art. 94
+
+	**Modifié par**:
+
+	  - Loi n°93-1013 1993-08-24 art. 15 JORF 25 août 1993 en vigueur le 2 septembre 1993
 
 	**Cite**:
 
@@ -7681,9 +8367,9 @@ modalités prévues par l'article 99.
 
 ###### Article 177-1
 
-Le juge d'instruction ordonne, sur la demande de la personne concernée, soit la publication intégrale ou partielle de sa
-décision de non-lieu, soit l'insertion d'un communiqué informant le public des motifs et du dispositif de celle-ci, dans un
-ou plusieurs journaux, écrits périodiques ou services de communication audiovisuelle qu'il désigne.
+Le juge d'instruction peut ordonner, sur la demande de la personne concernée, soit la publication intégrale ou partielle de
+sa décision de non-lieu, soit l'insertion d'un communiqué informant le public des motifs et du dispositif de celle-ci, dans
+un ou plusieurs journaux, écrits périodiques ou services de communication audiovisuelle qu'il désigne.
 
 Il détermine, le cas échéant, les extraits de la décision qui doivent être publiés ou fixe les termes du communiqué à
 insérer.
@@ -7694,9 +8380,9 @@ insérer.
 
 	  - Loi n°57-1426 1957-12-31
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°93-2 du 4 janvier 1993 - art. 48 () JORF 5 janvier 1993 en vigueur le 1er mars 1993
+	  - Loi n°93-1013 1993-08-24 art. 36 JORF 25 août 1993 en vigueur le 2 septembre 1993
 
 	**Cité par**:
 
@@ -7705,10 +8391,10 @@ insérer.
 
 ###### Article 178
 
-Si le juge estime que les faits constituent une contravention, il rend une ordonnance de présomption de charges qui emporte
-renvoi de l'affaire devant le tribunal de police.
+Si le juge estime que les faits constituent une contravention, il prononce, par ordonnance, le renvoi de l'affaire devant le
+tribunal de police.
 
-Lorsqu'elle est devenue définitive, l'ordonnance de présomption de charges couvre, s'il en existe, les vices de la procédure.
+Lorsqu'elle est devenue définitive, cette ordonnance couvre, s'il en existe, les vices de la procédure.
 
 **Liens relatifs à cet article**
 
@@ -7716,34 +8402,31 @@ Lorsqu'elle est devenue définitive, l'ordonnance de présomption de charges cou
 
 	  - Loi n°57-1426 1957-12-31
 
-	**Modifié par**:
-
-	  - Ordonnance n°58-1296 du 23 décembre 1958 - art. 1 () JORF 24 décembre 1958
-	  - Loi n°70-643 du 17 juillet 1970 - art. 4 () JORF 19 juillet 1970
-	  - Loi n°93-2 du 4 janvier 1993 - art. 73 () JORF 5 janvier 1993 en vigueur le 1er mars 1993
-
 	**Cité par**:
 
 	  - Décret n°67-902 du 12 octobre 1967 - art. 24 (Ab)
 
+	**Modifié par**:
+
+	  - Loi n°93-1013 1993-08-24 art. 37 JORF 25 août 1993 en vigueur le 2 septembre 1993
+
 
 ###### Article 179
 
-Si le juge estime que les faits constituent un délit, il rend une ordonnance de présomption de charges qui emporte le renvoi
-de l'affaire devant le tribunal correctionnel.
+Si le juge estime que les faits constituent un délit, il prononce, par ordonnance, le renvoi de l'affaire devant le tribunal
+correctionnel.
 
 L'ordonnance de règlement met fin à la détention provisoire ou au contrôle judiciaire.
 
 Toutefois, le juge d'instruction peut, par ordonnance distincte spécialement motivée, maintenir le prévenu en détention ou
 sous contrôle judiciaire jusqu'à sa comparution devant le tribunal. En cas de maintien en détention provisoire, les éléments
 de l'espèce expressément énoncés dans l'ordonnance doivent justifier cette mesure particulière par la nécessité d'empêcher
-une pression sur les témoins ou les victimes, de prévenir le renouvellement de l'infraction, de protéger le prévenu ou de
-garantir son maintien à la disposition de la justice.
+une pression sur les témoins ou les victimes, de prévenir le renouvellement de l'infraction, de protéger le prévenu, de
+garantir son maintien à la disposition de la justice ou de préserver l'ordre public du trouble causé par l'infraction.
 
 L'ordonnance prescrivant le maintien en détention provisoire cesse de produire effet à l'expiration d'un délai de deux mois.
 
-Lorsqu'elle est devenue définitive, l'ordonnance de présomption de charges couvre, s'il en existe, les vices de la procédure
-antérieure.
+Lorsqu'elle est devenue définitive, cette ordonnance couvre, s'il en existe, les vices de la procédure.
 
 **Liens relatifs à cet article**
 
@@ -7768,10 +8451,7 @@ antérieure.
 
 	**Modifié par**:
 
-	  - Loi n°70-643 du 17 juillet 1970 - art. 4 () JORF 19 juillet 1970
-	  - Loi n°75-701 1975-08-06 art. 3 JORF 7 août 1975 en vigueur le 1er janvier 1976
-	  - Loi n°87-1062 du 30 décembre 1987 - art. 8 () JORF 31 décembre 1987 en vigueur le 1er septembre 1989
-	  - Loi n°93-2 du 4 janvier 1993 - art. 74 () JORF 5 janvier 1993 en vigueur le 1er mars 1993
+	  - Loi n°93-1013 1993-08-24 art. 37 JORF 25 août 1993 en vigueur le 2 septembre 1993
 
 
 ###### Article 180
@@ -7806,8 +8486,8 @@ dossier de la procédure et un état des pièces servant à conviction soient tr
 République au procureur général près la cour d'appel, pour être procédé ainsi qu'il est dit au chapitre de la chambre de
 l'instruction.
 
-Le mandat d'arrêt ou de dépôt décerné contre l'inculpé conserve sa force exécutoire jusqu'à ce qu'il ait été statué par la
-chambre de l'instruction. Le contrôle judiciaire continue à produire ses effets.
+Le mandat d'arrêt ou de dépôt décerné contre la personne mise en examen conserve sa force exécutoire jusqu'à ce qu'il ait été
+statué par la chambre de l'instruction. Le contrôle judiciaire continue à produire ses effets.
 
 Les pièces à conviction restent au greffe du tribunal sauf dispositions contraires.
 
@@ -7819,8 +8499,7 @@ Les pièces à conviction restent au greffe du tribunal sauf dispositions contra
 
 	**Modifié par**:
 
-	  - Loi n°70-643 du 17 juillet 1970 - art. 4 () JORF 19 juillet 1970
-	  - Loi n°93-2 du 4 janvier 1993 - art. 75 () JORF 5 janvier 1993 en vigueur le 1er mars 1993
+	  - Loi n°93-1013 1993-08-24 art. 15 JORF 25 août 1993 en vigueur le 2 septembre 1993
 
 	**Cité par**:
 
@@ -7864,13 +8543,13 @@ suffisantes.
 
 ###### Article 183
 
-Les ordonnances de règlement sont portées à la connaissance de la personne mise en examen et les ordonnances de présomption
-de charges ou de transmission des pièces au procureur général à la connaissance de la partie civile ; la notification est
-effectuée dans les délais les plus brefs soit verbalement, avec émargement au dossier de la procédure, soit par lettre
-recommandée.
+Les et ordonnances de règlement sont portées à la connaissance de la personne mise en examen et de la personne bénéficiant
+des dispositions de l'article 104 et les ordonnances de renvoi ou de transmission des pièces au procureur général à la
+connaissance de la partie civile ; la notification est effectuée dans les délais les plus brefs soit verbalement, avec
+émargement au dossier de la procédure, soit par lettre recommandée.
 
-Sous réserve de l'application de l'article 145, septième alinéa, les décisions qui sont susceptibles de faire l'objet de
-voies de recours de la part d'une partie à la procédure ou d'un tiers conformément aux articles 99, 186 et 186-1 leur sont
+Sous réserve de l'application de l'article 145, premier alinéa, les décisions qui sont susceptibles de faire l'objet de voies
+de recours de la part d'une partie à la procédure ou d'un tiers conformément aux articles 99, 186 et 186-1 leur sont
 notifiées dans les délais les plus brefs soit verbalement, avec émargement au dossier de la procédure, soit par lettre
 recommandée. Si la personne mise en examen est détenue, elles peuvent, également être portées à sa connaissance par les soins
 du chef de l'établissement pénitentiaire qui adresse, sans délai, au juge d'instruction l'original ou la copie du récépissé
@@ -7880,10 +8559,11 @@ Toute notification d'acte à une partie par lettre recommandée expédiée à la
 réputée faite à sa personne.
 
 Les ordonnances mentionnées aux premier et deuxième alinéas du présent article qui doivent être portées à la connaissance des
-parties sont simultanément, et selon les mêmes modalités, portées à la connaissance de leurs conseils.
+parties sont simultanément, et selon les mêmes modalités, portées à la connaissance de leurs avocats.
 
 Les avis destinés au procureur de la République lui sont adressés par tout moyen. Lorsque le juge d'instruction rend une
-ordonnance non conforme aux réquisitions du procureur de la République, avis en est donné à celui-ci par le greffier.
+décision ou ordonnance non conforme aux réquisitions du procureur de la République, avis en est donné à celui-ci par le
+greffier.
 
 Dans tous les cas, mention est portée au dossier par le greffier de la nature et de la date de la diligence faite en
 application du présent article ainsi que des formes utilisées.
@@ -7896,10 +8576,12 @@ application du présent article ainsi que des formes utilisées.
 
 	**Modifié par**:
 
-	  - Loi n°93-2 du 4 janvier 1993 - art. 190 () JORF 5 janvier 1993 en vigueur le 1er mars 1993
+	  - Loi n°93-1013 1993-08-24 art. 14 JORF 25 août 1993 en vigueur le 2 septembre 1993
 
 	**Cite**:
 
+	  - CODE DE PROCEDURE PENALE - art. 104 (M)
+	  - CODE DE PROCEDURE PENALE - art. 145 (MMN)
 	  - CODE DE PROCEDURE PENALE - art. 186 (M)
 	  - CODE DE PROCEDURE PENALE - art. 186-1 (M)
 	  - CODE DE PROCEDURE PENALE - art. 99 (M)
@@ -7967,6 +8649,62 @@ les dix jours qui suivent l'ordonnance du juge d'instruction.
 	  - Ordonnance 60-529 1960-06-04 art. 8 JORF 8 juin 1960
 	  - Loi n°85-1407 1985-12-30 art. 31 et art. 94 JORF 31 décembre 1985 en vigueur le 1er mars 1988
 	  - Loi n°87-1062 du 30 décembre 1987 - art. 9 () JORF 31 décembre 1987 en vigueur le 1er septembre 1989
+
+
+###### Article 186
+
+Le droit d'appel appartient à la personne mise en examen contre les ordonnances et décisions prévues par les articles 87,
+139, 140, 145, premier alinéa, 145-1, 145-2, 148 et 179, troisième alinéa.
+
+La partie civile peut interjeter appel des ordonnances de non-informer, de non-lieu et des ordonnances faisant grief à ses
+intérêts civils. Toutefois, son appel ne peut, en aucun cas, porter sur une ordonnance ou sur la disposition d'une ordonnance
+relative à la détention de la personne mise en examen ou au contrôle judiciaire.
+
+Les parties peuvent aussi interjeter appel de l'ordonnance par laquelle le juge a, d'office ou sur déclinatoire, statué sur
+sa compétence.
+
+L'appel des parties ou du témoin condamné en application des dispositions de l'article 109 ainsi que la requête prévue par le
+cinquième alinéa de l'article 99 doivent être formés dans les conditions et selon les modalités prévues par les articles 502
+et 503, dans les dix jours qui suivent la notification ou la signification de la décision.
+
+Le dossier de l'information ou sa copie établie conformément à l'article 81 est transmis, avec l'avis motivé du procureur de
+la République, au procureur général, qui procède ainsi qu'il est dit aux articles 194 et suivants.
+
+Si le président de la chambre d'accusation constate qu'il a été fait appel d'une ordonnance non visée aux alinéas 1 à 3 du
+présent article, il rend d'office une ordonnance de non-admission de l'appel qui n'est pas susceptible de voies de recours.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Ordonnance n°45-174 du 2 février 1945 - art. 24 (V)
+	  - CODE DE PROCEDURE PENALE - art. 183 (V)
+	  - CODE DE PROCEDURE PENALE - art. 194 (M)
+	  - CODE DE PROCEDURE PENALE - art. D31-1 (V)
+	  - Code de justice militaire - art. 126 (Ab)
+	  - Code de procédure pénale - art. 179 (VD)
+	  - Code de procédure pénale - art. 186-3 (V)
+	  - Code de procédure pénale - art. 99 (VT)
+	  - Code de procédure pénale - art. D40-3 (V)
+
+	**Codifié par**:
+
+	  - Loi n°57-1426 1957-12-31
+
+	**Modifié par**:
+
+	  - Loi n°93-1013 1993-08-24 art. 15 JORF 25 août 1993 en vigueur le 2 septembre 1993
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. 109 (M)
+	  - CODE DE PROCEDURE PENALE - art. 139 (M)
+	  - CODE DE PROCEDURE PENALE - art. 140 (M)
+	  - CODE DE PROCEDURE PENALE - art. 145 (MMN)
+	  - CODE DE PROCEDURE PENALE - art. 502 (V)
+	  - CODE DE PROCEDURE PENALE - art. 503 (V)
+	  - CODE DE PROCEDURE PENALE - art. 81 (M)
+	  - CODE DE PROCEDURE PENALE - art. 87 (M)
 
 
 ###### Article 186-1
@@ -8155,6 +8893,54 @@ détournées ou obtenues à l'aide d'un crime ou d'un délit ont été, en tout 
 	  - SPEC_APPLI: Loi n°57-1426 1957-12-31 art. 18
 
 
+###### Article 207
+
+Lorsque la chambre de l'instruction a statué sur l'appel relevé contre une ordonnance du juge d'instruction en matière de
+détention provisoire, ou à la suite d'une saisine du procureur de la République formée en application du deuxième alinéa de
+l'article 137 soit qu'elle ait confirmé la décision du juge d'instruction, soit que, l'infirmant, elle ait ordonné une mise
+en liberté ou maintenu en détention ou décerné un mandat de dépôt ou d'arrêt, le procureur général fait sans délai retour du
+dossier au juge d'instruction après avoir assuré l'exécution de l'arrêt.
+
+Lorsque, en toute autre matière, la chambre de l'instruction infirme une ordonnance du juge d'instruction ou est saisie en
+application des articles 81, neuvième alinéa, 82, quatrième alinéa, 82-1, deuxième alinéa, 156, deuxième alinéa, ou 167,
+quatrième alinéa, elle peut, soit évoquer et procéder dans les conditions prévues aux articles 201, 202, 204 et 205, soit
+renvoyer le dossier au juge d'instruction ou à tel autre afin de poursuivre l'information.
+
+L'ordonnance du juge d'instruction frappée d'appel sort son plein et entier effet si elle est confirmée par la chambre de
+l'instruction.    En cas d'appel formé contre une ordonnance de refus de mise en liberté, la chambre de l'instruction peut,
+lors de l'audience et avant la clotûre des débats, se saisir immédiatement de toute demande de mise en liberté sur laquelle
+le juge d'instruction n'a pas encore statué ; dans ce cas, elle se prononce à la fois sur l'appel et sur cette demande.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°57-1426 1957-12-31
+
+	**Modifié par**:
+
+	  - Loi n°93-1013 1993-08-24 art. 40 JORF 25 août 1993 en vigueur le 2 septembre 1993
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. 137 (M)
+	  - CODE DE PROCEDURE PENALE - art. 156 (M)
+	  - CODE DE PROCEDURE PENALE - art. 167 (M)
+	  - CODE DE PROCEDURE PENALE - art. 201 (M)
+	  - CODE DE PROCEDURE PENALE - art. 202 (M)
+	  - CODE DE PROCEDURE PENALE - art. 204 (M)
+	  - CODE DE PROCEDURE PENALE - art. 205 (M)
+	  - CODE DE PROCEDURE PENALE - art. 81 (M)
+	  - CODE DE PROCEDURE PENALE - art. 82 (M)
+	  - CODE DE PROCEDURE PENALE - art. 82-1 (M)
+
+	**Cité par**:
+
+	  - CODE DE PROCEDURE PENALE - art. 145-1 (M)
+	  - CODE DE PROCEDURE PENALE - art. 145-2 (V)
+	  - Code de procédure pénale - art. 609-1 (V)
+
+
 ###### Article 209
 
 Le dossier de la procédure reste déposé au greffe pendant quarante-huit heures en matière de détention provisoire, pendant
@@ -8200,9 +8986,9 @@ Elle examine s'il existe contre la personne mise en examen des charges suffisant
 
 ###### Article 212-1
 
-La chambre de l'instruction ordonne, sur la demande de la personne concernée, soit la publication intégrale ou partielle de
-l'arrêt de non-lieu, soit l'insertion d'un communiqué informant le public des motifs et du dispositif de celui-ci, dans un ou
-plusieurs journaux, écrits périodiques ou services de communication audiovisuelle désignés par cette chambre.
+La chambre de l'instruction peut ordonner, sur la demande de la personne concernée, soit la publication intégrale ou
+partielle de l'arrêt de non-lieu, soit l'insertion d'un communiqué informant le public des motifs et du dispositif de celui-
+ci, dans un ou plusieurs journaux, écrits périodiques ou services de communication audiovisuelle désignés par cette chambre.
 
 Elle détermine, le cas échéant, les extraits de l'arrêt qui doivent être publiés ou fixe les termes du communiqué à insérer.
 
@@ -8212,9 +8998,9 @@ Elle détermine, le cas échéant, les extraits de l'arrêt qui doivent être pu
 
 	  - Loi n°57-1426 1957-12-31
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°93-2 du 4 janvier 1993 - art. 49 () JORF 5 janvier 1993 en vigueur le 1er mars 1993
+	  - Loi n°93-1013 1993-08-24 art. 36 JORF 25 août 1993 en vigueur le 2 septembre 1993
 
 	**Cité par**:
 
@@ -8318,147 +9104,6 @@ d'assises. Il en est de même dans le cas prévu à l'article 141-2.
 
 ##### Section 1 : Dispositions générales
 
-###### Article 80
-
-Le juge d'instruction ne peut informer qu'en vertu d'un réquisitoire du procureur de la République.
-
-Lorsque des faits, non visés au réquisitoire, sont portés à la connaissance du juge d'instruction, celui-ci doit
-immédiatement communiquer au procureur de la République les plaintes ou les procès-verbaux qui les constatent.
-
-En cas de plainte avec constitution de partie civile, il est procédé comme il est dit à l'article 86.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°57-1426 1957-12-31
-
-	**Modifié par**:
-
-	  - Loi n°93-2 du 4 janvier 1993 - art. 22 () JORF 5 janvier 1993 en vigueur le 1er mars 1993
-
-	**Cité par**:
-
-	  - Loi n°2007-291 du 5 mars 2007 - art. 30 (V)
-	  - CODE DE PROCEDURE PENALE - art. D15-4-2 (VD)
-	  - CODE DE PROCEDURE PENALE - art. D15-4-3 (VD)
-	  - Code de procédure pénale - art. 51 (V)
-	  - Code de procédure pénale - art. 9-2 (V)
-
-	**Cite**:
-
-	  - CODE DE PROCEDURE PENALE - art. 86 (M)
-
-
-###### Article 81
-
-Le juge d'instruction procède, conformément à la loi, à tous les actes d'information qu'il juge utiles à la manifestation de
-la vérité.
-
-Il est établi une copie de ces actes ainsi que de toutes les pièces de la procédure ; chaque copie est certifiée conforme par
-le greffier ou l'officier de police judiciaire commis mentionné à l'alinéa 4. Toutes les pièces du dossier sont cotées par le
-greffier au fur et à mesure de leur rédaction ou de leur réception par le juge d'instruction.
-
-Toutefois, si les copies peuvent être établies à l'aide de procédés photographiques ou similaires, elles sont exécutées à
-l'occasion de la transmission du dossier. Il en est alors établi autant d'exemplaires qu'il est nécessaire à l'administration
-de la justice. Le greffier certifie la conformité du dossier reproduit avec le dossier original. Si le dessaisissement
-momentané a pour cause l'exercice d'une voie de recours, l'établissement des copies doit être effectué immédiatement pour
-qu'en aucun cas ne soit retardée la mise en état de l'affaire prévue à l'article 194.
-
-Si le juge d'instruction est dans l'impossibilité de procéder lui-même à tous les actes d'instruction, il peut donner
-commission rogatoire aux officiers de police judiciaire afin de leur faire exécuter tous les actes d'information nécessaires
-dans les conditions et sous les réserves prévues aux articles 151 et 152.
-
-Le juge d'instruction doit vérifier les éléments d'information ainsi recueillis.
-
-Le juge d'instruction procède ou fait procéder, soit par des officiers de police judiciaire conformément à l'alinéa 4, soit
-par toute personne habilitée dans des conditions fixées par décret en Conseil d'Etat, à une enquête sur la personnalité des
-inculpés, ainsi que sur leur situation matérielle, familiale ou sociale. Toutefois, en matière de délit, cette enquête est
-facultative.
-
-Le juge d'instruction peut également commettre, suivant les cas, le comité de probation et d'assistance aux libérés, le
-service compétent de l'éducation surveillée ou toute personne habilitée en application de l'alinéa qui précède à l'effet de
-vérifier la situation matérielle, familiale et sociale d'un inculpé et de l'informer sur les mesures propres à favoriser
-l'insertion sociale de l'intéressé. A moins qu'elles n'aient été déjà prescrites par le ministère public, ces diligences
-doivent être prescrites par le juge d'instruction chaque fois qu'il envisage de placer en détention provisoire un majeur âgé
-de moins de vingt et un ans au moment de la commission de l'infraction lorsque la peine encourue n'excède pas cinq ans
-d'emprisonnement.
-
-Le juge d'instruction peut prescrire un examen médical, confier à un médecin le soin de procéder à un examen médico-
-psychologique ou ordonner toutes autres mesures utiles. Si ces examens sont demandés par l'inculpé ou son conseil, il ne peut
-les refuser que par ordonnance motivée.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°57-1426 1957-12-31
-
-	**Cité par**:
-
-	  - Décret n°67-902 du 12 octobre 1967 - art. 27 (Ab)
-	  - Décret n°67-902 du 12 octobre 1967 - art. Annexe II (Ab)
-	  - Arrêté du 21 octobre 1991 - art. 2 (V)
-	  - Décret n°2004-32 du 9 janvier 2004 - art. 8 (V)
-	  - CODE DE PROCEDURE PENALE - art. 113-8 (M)
-	  - CODE DE PROCEDURE PENALE - art. 145-5 (V)
-	  - CODE DE PROCEDURE PENALE - art. 156 (V)
-	  - CODE DE PROCEDURE PENALE - art. 167-2 (V)
-	  - CODE DE PROCEDURE PENALE - art. 186 (V)
-	  - CODE DE PROCEDURE PENALE - art. 186-1 (V)
-	  - CODE DE PROCEDURE PENALE - art. 187 (V)
-	  - CODE DE PROCEDURE PENALE - art. 220 (V)
-	  - CODE DE PROCEDURE PENALE - art. 463 (V)
-	  - CODE DE PROCEDURE PENALE - art. 648 (V)
-	  - CODE DE PROCEDURE PENALE - art. 80-3 (Ab)
-	  - CODE DE PROCEDURE PENALE - art. D23 (V)
-	  - CODE DE PROCEDURE PENALE - art. D32-3 (V)
-	  - CODE DE PROCEDURE PENALE - art. R121 (M)
-	  - CODE DE PROCEDURE PENALE - art. R121-1 (V)
-	  - CODE DE PROCEDURE PENALE - art. R121-3 (V)
-	  - CODE DE PROCEDURE PENALE - art. R15-34 (V)
-	  - Code de justice militaire - art. 130 (Ab)
-	  - Code de procédure pénale - art. 116 (MMN)
-	  - Code de procédure pénale - art. 161-1 (M)
-	  - Code de procédure pénale - art. 167 (V)
-	  - Code de procédure pénale - art. 175 (V)
-	  - Code de procédure pénale - art. 175-1 (MMN)
-	  - Code de procédure pénale - art. 194 (V)
-	  - Code de procédure pénale - art. 207 (VT)
-	  - Code de procédure pénale - art. 41 (V)
-	  - Code de procédure pénale - art. 570 (V)
-	  - Code de procédure pénale - art. 80-1-1 (MMN)
-	  - Code de procédure pénale - art. 82-1 (V)
-	  - Code de procédure pénale - art. 82-3 (V)
-	  - Code de procédure pénale - art. 89-1 (V)
-	  - Code de procédure pénale - art. D15-7 (V)
-	  - Code de procédure pénale - art. D153 (V)
-	  - Code de procédure pénale - art. D16 (V)
-	  - Code de procédure pénale - art. D32-31 (V)
-	  - Code de procédure pénale - art. D40 (V)
-	  - Code de procédure pénale - art. D40-2 (V)
-	  - Code de procédure pénale - art. D40-3 (V)
-	  - Code de procédure pénale - art. D47-21 (V)
-	  - Code de procédure pénale - art. D591 (V)
-	  - Code de procédure pénale - art. D77 (V)
-	  - Code de procédure pénale - art. R242 (V)
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°84-576 du 9 juillet 1984 - art. 19 ()
-	  - TXT_SOURCE: CODE DE PROCEDURE PENALE - art. D17 (M)
-	  - TXT_SOURCE: CODE DE PROCEDURE PENALE - art. D25 (V)
-
-	**Modifié par**:
-
-	  - Loi n°89-461 du 6 juillet 1989 - art. 1 () JORF 8 juillet 1989 en vigueur le 1er décembre 1989
-
-	**Cite**:
-
-	  - CODE DE PROCEDURE PENALE - art. 151 (V)
-	  - CODE DE PROCEDURE PENALE - art. 152 (M)
-
-
 ###### Article 82
 
 Dans son réquisitoire introductif, et à toute époque de l'information par réquisitoire supplétif, le procureur de la
@@ -8467,13 +9112,11 @@ mesures de sûreté nécessaires.
 
 Il peut, à cette fin, se faire communiquer la procédure, à charge de la rendre dans les vingt-quatre heures.
 
-Si le juge d'instruction ne suit pas les réquisitions du procureur de la République, il doit rendre une ordonnance motivée
-dans les cinq jours de ces réquisitions.
+Si le juge d'instruction ne suit pas les réquisitions du procureur de la République, il doit, sauf dans les cas prévus par le
+second alinéa de l'article 137, rendre une ordonnance motivée dans les cinq jours de ces réquisitions.
 
-Les dispositions de l'alinéa qui précède sont applicables lorsque, saisi par le procureur de la République de réquisition aux
-fins de placement ou de maintien en détention provisoire, le juge d'instruction ne saisit pas le président du tribunal de
-grande instance ou le juge délégué par lui en application de l'article 137-1. Elles sont également applicables dans le cas
-prévu par le sixième alinéa de l'article 86.
+A défaut d'ordonnance du juge d'instruction, le procureur de la République peut, dans les dix jours, saisir directement la
+chambre d'accusation.
 
 **Liens relatifs à cet article**
 
@@ -8489,28 +9132,26 @@ prévu par le sixième alinéa de l'article 86.
 
 	**Modifié par**:
 
-	  - Loi n°85-1407 1985-12-30 art. 13 et art. 94 JORF 31 décembre 1985 en vigueur le 1er février 1986
-	  - Loi n°93-2 du 4 janvier 1993 - art. 233 () JORF 5 janvier 1993 en vigueur le 1er mars 1993
+	  - Loi n°93-1013 1993-08-24 art. 16 JORF 25 août 1993 en vigueur le 2 septembre 1993
 
 	**Cite**:
 
-	  - CODE DE PROCEDURE PENALE - art. 137-1 (Ab)
-	  - CODE DE PROCEDURE PENALE - art. 86 (M)
+	  - CODE DE PROCEDURE PENALE - art. 137 (M)
 
 
 ###### Article 83
 
 Lorsqu'il existe dans un tribunal plusieurs juges d'instruction, le président du tribunal ou, en cas d'empêchement, le
-magistrat qui le remplace, désigne, pour chaque information, le juge qui en sera chargé.
+magistrat qui le remplace, désigne, pour chaque information, le juge qui en sera chargé. Il peut établir, à cette fin, un
+tableau de roulement.
 
 Lorsque la gravité ou la complexité de l'affaire le justifie, le président du tribunal ou, en cas d'empêchement, le magistrat
 qui le remplace peut adjoindre au juge d'instruction chargé de l'information un ou plusieurs juges d'instruction qu'il
 désigne, soit dès l'ouverture de l'information, soit sur la demande du juge chargé de l'information, à tout moment de la
 procédure.
 
-Le juge chargé de l'information coordonne le déroulement de celle-ci ; il a seul qualité pour saisir pour saisir le président
-du tribunal de grande instance ou le juge délégué par lui en application de l'article 137-1 et pour rendre l'ordonnance de
-règlement.
+Le juge chargé de l'information coordonne le déroulement de celle-ci ; il a seul qualité pour saisir la chambre prévue par
+l'article 137-1 et pour rendre l'ordonnance de règlement.
 
 Les désignations prévues au présent article sont des mesures d'administration judiciaire non susceptibles de recours.
 
@@ -8522,9 +9163,7 @@ Les désignations prévues au présent article sont des mesures d'administration
 
 	**Modifié par**:
 
-	  - Ordonnance n°58-1296 du 23 décembre 1958 - art. 1 () JORF 24 décembre 1958 en vigueur le 2 mars 1959
-	  - Loi n°93-2 du 4 janvier 1993 - art. 232 () JORF 5 janvier 1993 en vigueur le 1er mars 1993
-	  - Loi n°89-146 1989-07-06 art. 8 JORF 8 juillet 1989 en vigueur le 1er décembre 1989
+	  - Loi n°93-1013 1993-08-24 art. 35 JORF 25 août 1993 en vigueur le 2 septembre 1993
 
 	**Cité par**:
 
@@ -8544,97 +9183,6 @@ Les désignations prévues au présent article sont des mesures d'administration
 	**Cite**:
 
 	  - CODE DE PROCEDURE PENALE - art. 137-1 (Ab)
-
-
-##### Section 2 : De la constitution de la partie civile et de ses effets
-
-###### Article 86
-
-Le juge d'instruction ordonne communication de la plainte au procureur de la République pour que ce magistrat prenne ses
-réquisitions.
-
-Le réquisitoire peut être pris contre personne dénommée ou non dénommée.
-
-Il est pris contre personne dénommée lorsqu'il existe à l'encontre d'une personne des indices graves et concordants laissant
-présumer qu'elle a participé aux faits dont le juge d'instruction est saisi ; dans ce cas, le procureur de la République
-donne connaissance à la personne de ses réquisitions, prises sur plainte avec constitution de partie civile, dont il saisit
-le juge, et l'avise qu'elle a droit d'être assistée par un avocat de son choix ou commis d'office. L'avocat choisi ou, dans
-le cas d'une demande de commission d'office, le bâtonnier de l'ordre des avocats, en est avisé sans délai. Mention de ces
-formalités et faite au dossier.
-
-Toute personne nommément visée par un réquisitoire pris sur plainte avec constitution de partie civile est mise en examen
-devant le juge d'instruction et ne peut être entendue comme témoin.
-
-Pour l'application du troisième alinéa, le procureur de la République procède conformément aux dispositions du dernier alinéa
-de l'article 80-1.
-
-Lorsque la plainte n'est pas suffisamment motivée ou justifiée, le procureur de la République peut, avant de prendre ses
-réquisitions et s'il n'y a pas été procédé d'office par le juge d'instruction, demander à ce magistrat d'entendre la partie
-civile et, le cas échéant, d'inviter cette dernière à produire toute pièce utile à l'appui de sa plainte.
-
-Le procureur de la République ne peut saisir le juge d'instruction de réquisitions de non informer que si, pour des causes
-affectant l'action publique elle-même, les faits ne peuvent légalement comporter une poursuite ou si, à supposer ces faits
-démontrés, ils ne peuvent admettre aucune qualification pénale. Dans le cas où le juge d'instruction passe outre, il doit
-statuer par une ordonnance motivée.
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Loi n°1908-08-05 du 5 août 1908 - art. 2 (V)
-	  - CODE DE PROCEDURE PENALE - art. 681 (MMN)
-	  - CODE DE PROCEDURE PENALE - art. 82 (MMN)
-	  - CODE DE PROCEDURE PENALE - art. D31-1 (V)
-	  - Code de procédure pénale - art. 51 (V)
-	  - Code de procédure pénale - art. 80 (MMN)
-
-	**Codifié par**:
-
-	  - Loi n°57-1426 1957-12-31
-
-	**Modifié par**:
-
-	  - loi 85-1407 1985-12-30 art. 87-II JORF 31 décembre 1985 en vigueur le 1er mars 1988
-	  - Loi n°93-2 du 4 janvier 1993 - art. 28 () JORF 5 janvier 1993 en vigueur le 1er mars 1993
-
-	**Cite**:
-
-	  - CODE DE PROCEDURE PENALE - art. 104 (M)
-	  - CODE DE PROCEDURE PENALE - art. 80-1 (M)
-
-
-###### Article 87
-
-La constitution de partie civile peut avoir lieu à tout moment au cours de l'instruction.
-
-Elle peut être contestée par le procureur de la République ou par une partie dans les dix jours de l'avis ou de la
-notification qui lui en aura été donné. Le juge d'instruction peut également, dans les dix jours du dépôt de la plainte,
-déclarer d'office irrecevable la constitution de partie civile.
-
-En cas de contestation, le juge d'instruction statue, au plus tard dans les cinq jours de la communication du dossier au
-procureur de la République, par ordonnance motivée dont l'intéressé peut relever appel.
-
-Les droits attachés à la qualité de partie civile s'exercent dix jours après le dépôt de la plainte devant le juge
-d'instruction ou, dans les cas visés aux deux alinéas qui précèdent, à compter du jour où la contestation a été rejetée par
-le juge ou, s'il y a lieu, en appel.
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Loi n°1908-08-05 du 5 août 1908 - art. 2 (V)
-	  - Code de justice militaire - art. 105 (Ab)
-	  - Code de procédure pénale - art. 186 (VD)
-	  - Code de procédure pénale - art. 9-2 (V)
-
-	**Codifié par**:
-
-	  - Loi n°57-1426 1957-12-31
-
-	**Modifié par**:
-
-	  - Ordonnance 60-529 1960-06-04 art. 2 JORF 8 juin 1960
-	  - Loi n°93-2 du 4 janvier 1993 - art. 29 () JORF 5 janvier 1993 en vigueur le 1er mars 1993
 
 
 ##### Section 3 : Des transports, des perquisitions, des saisies et des interceptions de correspondances émises par la voie des télécommunications
@@ -8659,14 +9207,14 @@ emprisonnement de deux mois à deux ans.
 	  - Loi n°93-2 du 4 janvier 1993 - art. 163 () JORF 5 janvier 1993 en vigueur le 1er mars 1993
 
 
-##### Section 4 : Des auditions de témoins
+##### Sous-section 2 : Des interceptions de correspondances émises par la voie des télécommunications
 
-###### Article 104
+###### Article 100-7
 
-Toute personne nommément visée par une plainte avec constitution de partie civile a le droit, lorsqu'elle est entendue comme
-témoin, de demander le bénéfice des dispositions applicables aux personnes mises en examen. Le juge d'instruction l'en
-avertit lors de sa première audition après lui avoir donné connaissance de la plainte ; mention de cet avertissement est
-faite au procès-verbal.
+Aucune interception ne peut avoir lieu sur une ligne dépendant du cabinet d'un avocat ou de son domicile sans que le
+bâtonnier en soit informé par le juge d'instruction.
+
+Les formalités prévues par le présent article sont prescrites à peine de nullité.
 
 **Liens relatifs à cet article**
 
@@ -8676,17 +9224,16 @@ faite au procès-verbal.
 
 	**Modifié par**:
 
-	  - Loi n°93-2 du 4 janvier 1993 - art. 30 () JORF 5 janvier 1993 en vigueur le 1er mars 1993
+	  - Loi n°93-1013 1993-08-24 art. 20 JORF 25 août 1993 en vigueur le 2 septembre 1993
 
 	**Cité par**:
 
-	  - Loi n°93-2 du 4 janvier 1993 - art. 226 (V)
-	  - Loi n°2000-516 du 15 juin 2000 - art. 131 (V)
-	  - CODE DE PROCEDURE PENALE - art. 152 (M)
 	  - CODE DE PROCEDURE PENALE - art. 171 (M)
-	  - CODE DE PROCEDURE PENALE - art. 175 (M)
-	  - CODE DE PROCEDURE PENALE - art. 183 (M)
-	  - CODE DE PROCEDURE PENALE - art. 86 (M)
+	  - Code de procédure pénale - art. 230-34 (VD)
+	  - Code de procédure pénale - art. 706-102-5 (VD)
+	  - Code de procédure pénale - art. 706-95-3 (V)
+	  - Code de procédure pénale - art. 706-96 (VD)
+	  - Code de procédure pénale - art. 706-96-1 (V)
 
 
 ##### Section 5 : Des interrogatoires et confrontations
@@ -8697,16 +9244,16 @@ Les parties ne peuvent être entendues, interrogées ou confrontées, à moins q
 présence de leurs avocats ou ces derniers dûment appelés.
 
 Les avocats sont convoqués au plus tard cinq jours ouvrables avant l'interrogatoire ou l'audition de la partie qu'ils
-assistent par pli recommandé avec demande d'avis de réception, télécopie avec récépissé ou verbalement avec émargement au
+assistent par lettre recommandée avec demande d'avis de réception, télécopie avec récépissé ou verbalement avec émargement au
 dossier de la procédure.
 
-La procédure est mise à leur disposition quatre jours ouvrables au plus tard avant la première comparution de la personne
-convoquée ou la première audition de la partie civile ; elle est ensuite, sur leur demande, mise à tout moment à leur
-disposition durant les jours ouvrables.
-
-Par dérogation aux dispositions des deux alinéas qui précèdent, lorsqu'une personne est déférée devant le juge d'instruction,
-son avocat est convoqué sans délai et par tout moyen ; il peut consulter immédiatement le dossier et s'entretenir librement
-avec la personne qu'il assiste.
+La procédure est mise à leur disposition quatre jours ouvrables au plus tard avant chaque interrogatoire de la personne mise
+en examen ou chaque audition de la partie civile. Après la première comparution de la personne mise en examen ou la première
+audition de la partie civile, la procédure est également mise à tout moment à la disposition des avocats durant les jours
+ouvrables, sous réserve des exigences du bon fonctionnement du cabinet d'instruction. Lorsqu'il a été fait application des
+dispositions du dernier alinéa de l'article 80-1, la procédure est mise à la disposition de l'avocat, sous réserve des
+exigences du bon fonctionnement du cabinet du juge d'instruction, quinze jours après l'envoi de la lettre recommandée ou de
+la notification par procès-verbal, s'il n'a pas été entre-temps procédé à la première comparution.
 
 Après la première comparution ou la première audition, les avocats des parties peuvent se faire délivrer, à leurs frais,
 copie de tout ou partie des pièces et actes du dossier pour leur usage exclusif et sans pouvoir en établir de reproduction.
@@ -8759,175 +9306,10 @@ copie de tout ou partie des pièces et actes du dossier pour leur usage exclusif
 
 	**Modifié par**:
 
-	  - Loi n°93-2 du 4 janvier 1993 - art. 32 () JORF 5 janvier 1993 en vigueur le 1er mars 1993
-
-
-###### Article 116
-
-Lors de la première comparution, en présence de l'avocat ou ce dernier dûment appelé, le juge d'instruction constate
-l'identité de la personne poursuivie et lui fait connaître expressément chacun des faits dont il est saisi. Mention de ces
-faits est portée au procès-verbal. Après quoi, il procède à son interrogatoire.
-
-Lorsque la personne mise en examen est déférée devant le juge d'instruction, ce dernier l'avertit qu'elle ne peut être
-interrogée immédiatement qu'avec son accord ; cet accord ne peut être recueilli qu'en présence de son avocat. Toutefois, si
-la personne désire faire des déclarations, celles-ci sont immédiatement reçues par le juge d'instruction. Mention de
-l'avertissement prévu au présent alinéa est faite au procès-verbal.
-
-A l'issue de la première comparution, la personne mise en examen doit déclarer au juge d'instruction son adresse personnelle.
-Elle peut toutefois lui substituer l'adresse d'un tiers chargé de recevoir les actes qui lui sont destinés, si elle produit
-l'accord de ce dernier. L'adresse déclarée doit être située, si l'information se déroule en métropole, dans un département
-métropolitain ou, si l'information se déroule dans un département d'outre-mer, dans ce département.
-
-La personne est avisée qu'elle doit signaler au juge d'instruction jusqu'au règlement de l'information, par nouvelle
-déclaration ou par lettre recommandée avec demande d'avis de réception, tout changement de l'adresse déclarée. Elle est
-également avisée que toute notification ou signification faite à la dernière adresse déclarée sera réputée faite à sa
-personne. Mention de cet avis, ainsi que de la déclaration d'adresse, est portée au procès-verbal.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°57-1426 1957-12-31
-
-	**Modifié par**:
-
-	  - Loi n°93-2 du 4 janvier 1993 - art. 34 () JORF 5 janvier 1993 en vigueur le 1er mars 1993
-
-	**Cité par**:
-
-	  - Loi n°93-1013 du 24 août 1993 - art. 49 (V)
-	  - CODE DE PROCEDURE PENALE - art. 105 (M)
-	  - CODE DE PROCEDURE PENALE - art. 122 (V)
-	  - CODE DE PROCEDURE PENALE - art. 154-2 (V)
-	  - CODE DE PROCEDURE PENALE - art. D15-4-6 (VD)
-	  - CODE DE PROCEDURE PENALE - art. D470 (M)
-	  - CODE DE PROCEDURE PENALE - art. D475 (M)
-	  - CODE DE PROCEDURE PENALE - art. D528 (M)
-	  - CODE DE PROCEDURE PENALE - art. D56 (M)
-	  - Code de procédure pénale - art. 113-4 (VD)
-	  - Code de procédure pénale - art. 113-8 (MMN)
-	  - Code de procédure pénale - art. 117 (VD)
-	  - Code de procédure pénale - art. 118 (VD)
-	  - Code de procédure pénale - art. 145 (VT)
-	  - Code de procédure pénale - art. 148-3 (VD)
-	  - Code de procédure pénale - art. 175-1 (VT)
-	  - Code de procédure pénale - art. 80-1 (MMN)
-	  - Code de procédure pénale - art. 80-2 (V)
-	  - Code de procédure pénale - art. 818 (VD)
-	  - Code de procédure pénale - art. 882 (VD)
-	  - Code de procédure pénale - art. D591 (V)
-
-
-###### Article 117
-
-Nonobstant les dispositions prévues à l'article 116, le juge d'instruction peut procéder à un interrogatoire immédiat et à
-des confrontations si l'urgence résulte soit de l'état d'un témoin en danger de mort, soit de l'existence d'indices sur le
-point de disparaître.
-
-Le procès-verbal fait mention des causes d'urgence.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°57-1426 1957-12-31
-
-	**Modifié par**:
-
-	  - Loi n°93-2 du 4 janvier 1993 - art. 36 () JORF 5 janvier 1993 en vigueur le 1er mars 1993
-
-	**Cité par**:
-
-	  - CODE DE PROCEDURE PENALE - art. 104 (M)
-
-	**Cite**:
-
-	  - CODE DE PROCEDURE PENALE - art. 116 (M)
+	  - Loi n°93-1013 1993-08-24 art. 12 JORF 25 août 1993 en vigueur le 2 septembre 1993
 
 
 ##### Section 7 : Du contrôle judiciaire et de la détention provisoire
-
-###### Article 137
-
-La personne mise en examen reste libre sauf, à raison des nécessités de l'instruction ou à titre de mesure de sûreté, à être
-soumise au contrôle judiciaire ou, à titre exceptionnel, placée en détention provisoire selon les règles et conditions
-énoncées ci-après.
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Ordonnance n°45-174 du 2 février 1945 - art. 11 (V)
-	  - Ordonnance n°45-174 du 2 février 1945 - art. 14-2 (V)
-	  - CODE DE PROCEDURE PENALE - art. 139 (M)
-	  - CODE DE PROCEDURE PENALE - art. 144 (M)
-	  - CODE DE PROCEDURE PENALE - art. 144-1 (MMN)
-	  - CODE DE PROCEDURE PENALE - art. 207 (M)
-	  - CODE DE PROCEDURE PENALE - art. 82 (M)
-	  - Code de procédure pénale - art. 143-1 (V)
-
-	**Codifié par**:
-
-	  - Loi n°57-1426 1957-12-31
-
-	**Modifié par**:
-
-	  - Loi n°93-2 du 4 janvier 1993 - art. 178 () JORF 5 janvier 1993 en vigueur le 1er mars 1993
-
-
-###### Article 137-1
-
-La détention provisoire est prescrite ou prolongée, à la demande du juge d'instruction, par le président du tribunal de
-grande instance ou le juge délégué par lui.
-
-Le président du tribunal ou le juge délégué par lui, après avoir examiné la matérialité des charges et la nature des
-incriminations, se prononce au vu des seuls éléments du dossier relatifs à l'appréciation des conditions de mise en détention
-provisoire fixées par l'article 144.
-
-Lorsque le président du tribunal ou le juge délégué par lui ne prescrit pas la détention ou ne prolonge pas cette mesure, il
-peut placer la personne sous contrôle judiciaire en la soumettant à une ou plusieurs des obligations prévues par l'article
-138.
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Ordonnance n°45-174 du 2 février 1945 - art. 11 (V)
-	  - Loi n°2000-516 du 15 juin 2000 - art. 140 (M)
-	  - Loi n°2016-1547 du 18 novembre 2016 - art. 25 (V)
-	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L640-2 (Ab)
-	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R*761-24 (Ab)
-	  - CODE DE PROCEDURE PENALE - art. 122 (M)
-	  - CODE DE PROCEDURE PENALE - art. 135 (MMN)
-	  - CODE DE PROCEDURE PENALE - art. 142-1 (M)
-	  - CODE DE PROCEDURE PENALE - art. 145-2 (V)
-	  - CODE DE PROCEDURE PENALE - art. 207 (MMN)
-	  - CODE DE PROCEDURE PENALE - art. 398 (MMN)
-	  - CODE DE PROCEDURE PENALE - art. 82 (MMN)
-	  - CODE DE PROCEDURE PENALE - art. 83 (M)
-	  - Code de l'organisation judiciaire - art. R212-37 (VD)
-	  - Code de procédure pénale - art. 141-2 (VT)
-	  - Code de procédure pénale - art. 145-1 (V)
-	  - Code de procédure pénale - art. D32-1 (T)
-	  - Code de procédure pénale - art. D32-20 (V)
-
-	**Codifié par**:
-
-	  - Loi n°57-1426 1957-12-31
-
-	**Créé par**:
-
-	  - Loi n°93-2 du 4 janvier 1993 - art. 235 () JORF 5 janvier 1993 en vigueur le 1er mars 1993
-
-	**Abrogé par**:
-
-	  - Loi n°93-1013 1993-08-24 art. 34 JORF 25 août 1993 en vigueur le 2 septembre 1993
-
-	**Cite**:
-
-	  - CODE DE PROCEDURE PENALE - art. 138 (M)
-	  - CODE DE PROCEDURE PENALE - art. 144 (M)
-
 
 ##### Sous-section 1 : Du contrôle judiciaire
 
@@ -9019,13 +9401,87 @@ mise en examen se soustrait volontairement aux obligations du contrôle judiciai
 	  - CODE DE PROCEDURE PENALE - art. 141-2 (M)
 
 
+###### Article 145
+
+En toute matière, le placement en détention provisoire est prescrit par une ordonnance qui doit comporter l'énoncé des
+considérations de droit et de fait qui constituent le fondement de cette décision par référence aux seules dispositions de
+l'article 144. Cette ordonnance est notifiée verbalement à la personne qui en reçoit copie intégrale contre émargement au
+dossier de la procédure.
+
+Le juge d'instruction qui envisage de placer en détention la personne mise en examen l'avise de son droit de disposer d'un
+délai pour préparer sa défense.
+
+Si cette personne n'est pas déjà assistée d'un avocat, il l'avise qu'elle a droit à l'assistance d'un avocat de son choix ou
+commis d'office. L'avocat choisi ou, dans le cas d'une demande de commission d'office, le bâtonnier de l'ordre des avocats en
+est avisé par tout moyen et sans délai ; mention de cette formalité est faite au procès-verbal.
+
+Le juge d'instruction statue en audience de cabinet, après un débat contradictoire au cours duquel il entend les réquisitions
+du ministère public, puis les observations de la personne mise en examen et, le cas échéant, celles de son avocat.
+
+Toutefois, le juge d'instruction ne peut ordonner immédiatement le placement en détention lorsque la personne mise en examen
+ou son avocat sollicite un délai pour préparer sa défense.
+
+Dans ce cas, il peut, au moyen d'une ordonnance motivée par référence aux dispositions de l'alinéa précédent et non
+susceptible d'appel, prescrire l'incarcération de la personne pour une durée déterminée qui ne peut en aucun cas excéder
+quatre jours ouvrables. Dans ce délai, il fait comparaître à nouveau la personne et, que celle-ci soit ou non assistée d'un
+avocat, procède comme il est dit aux deuxième et troisième alinéas. S'il n'ordonne pas le placement de la personne en
+détention provisoire, celle-ci est mise en liberté d'office.
+
+L'incarcération provisoire est, le cas échéant, imputée sur la durée de la détention provisoire pour l'application des
+articles 145-1 et 145-2. Elle est assimilée à une détention provisoire au sens de l'article 149 du présent code et de
+l'article 24 du code pénal.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Ordonnance n°45-174 du 2 février 1945 - art. 11 (V)
+	  - CODE DE PROCEDURE PENALE - art. 122 (M)
+	  - CODE DE PROCEDURE PENALE - art. 141-2 (M)
+	  - CODE DE PROCEDURE PENALE - art. 145-2 (V)
+	  - CODE DE PROCEDURE PENALE - art. 183 (M)
+	  - CODE DE PROCEDURE PENALE - art. 186 (M)
+	  - CODE DE PROCEDURE PENALE - art. 396 (MMN)
+	  - CODE DE PROCEDURE PENALE - art. 397-3 (M)
+	  - CODE DE PROCEDURE PENALE - art. 50-1 (MMN)
+	  - CODE DE PROCEDURE PENALE - art. 823-1 (V)
+	  - CODE DE PROCEDURE PENALE - art. D32-3 (V)
+	  - Code de procédure pénale - art. 133 (V)
+	  - Code de procédure pénale - art. 135 (V)
+	  - Code de procédure pénale - art. 135-2 (VD)
+	  - Code de procédure pénale - art. 137-1 (VD)
+	  - Code de procédure pénale - art. 142-12 (V)
+	  - Code de procédure pénale - art. 142-6 (V)
+	  - Code de procédure pénale - art. 145-1 (V)
+	  - Code de procédure pénale - art. 187-1 (V)
+	  - Code de procédure pénale - art. 706-24-3 (V)
+	  - Code de procédure pénale - art. 823 (V)
+	  - Code de procédure pénale - art. D150 (V)
+	  - Code de procédure pénale - art. D32-31 (V)
+	  - Code de procédure pénale - art. D32-7 (V)
+	  - Code de procédure pénale - art. D594-9 (V)
+
+	**Codifié par**:
+
+	  - Loi n°57-1426 1957-12-31
+
+	**Modifié par**:
+
+	  - Loi n°93-1013 1993-08-24 art. 19 JORF 25 août 1993 en vigueur le 2 septembre 1993
+
+	**Cite**:
+
+	  - Code de procédure civile 144, 149
+	  - Code pénal 24
+
+
 ##### Sous-section 2 : De la détention provisoire
 
 ###### Article 145-1
 
-En matière correctionnelle, la détention ne peut excéder quatre mois. Toutefois, à l'expiration de ce délai, le président du
-tribunal de grande instance ou le juge délégué par lui peut la prolonger par une décision motivée comme il est dit au
-septième alinéa de l'article 145. Aucune prolongation ne peut être prescrite pour une durée de plus de quatre mois.
+En matière correctionnelle, la détention ne peut excéder quatre mois. Toutefois, à l'expiration de ce délai, le juge
+d'instruction peut la prolonger par une décision motivée comme il est dit à l'article 145, alinéa premier. Aucune
+prolongation ne peut être prescrite pour une durée de plus de quatre mois.
 
 Lorsque la personne mise en examen n'a pas déjà été condamnée pour crime ou délit de droit commun, soit à une peine
 criminelle, soit à une peine d'emprisonnement sans sursis d'une durée supérieure à un an et lorsqu'elle n'encourt pas une
@@ -9033,12 +9489,11 @@ peine d'emprisonnement supérieure à cinq ans, la prolongation de la détention
 ordonnée qu'une fois et pour une durée n'excédant pas deux mois.
 
 Dans les autres cas, la personne mise en examen ne peut être maintenue en détention au-delà d'un an. Toutefois, à titre
-exceptionnel, le président du tribunal de grande instance ou le juge délégué par lui en application de l'article 137-1 peut,
-à l'expiration de ce délai, décider de prolonger la détention pour une durée qui ne peut être supérieure à quatre mois par
-une ordonnance motivée. Celle-ci est rendue conformément aux dispositions des sixième et septième alinéas de l'article 145,
-l'avocat ayant été convoqué conformément aux dispositions du deuxième alinéa de l'article 114. Cette décision peut être
-renouvelée selon la même procédure. Néanmoins, la personne mise en examen ne peut être maintenue en détention au-delà de deux
-ans, lorsque la peine encourue ne dépasse pas cinq ans.
+exceptionnel, le juge d'instruction peut, à l'expiration de ce délai, décider de prolonger la détention pour une durée qui ne
+peut être supérieure à quatre mois par une ordonnance motivée. Celle-ci est rendue conformément aux dispositions des premier
+et quatrième alinéas de l'article 145, l'avocat ayant été convoqué conformément aux dispositions du deuxième alinéa de
+l'article 114. Cette décision peut être renouvelée selon la même procédure. Néanmoins, la personne mise en examen ne peut
+être maintenue en détention au-delà de deux ans, lorsque la peine encourue ne dépasse pas cinq ans.
 
 Les ordonnances visées aux premier et deuxième alinéas du présent article sont rendues après avis du procureur de la
 République et, s'il y a lieu, observations de la personne mise en examen ou de son avocat.
@@ -9066,68 +9521,12 @@ République et, s'il y a lieu, observations de la personne mise en examen ou de 
 
 	**Modifié par**:
 
-	  - Loi n°93-2 du 4 janvier 1993 - art. 239 () JORF 5 janvier 1993 en vigueur le 1er mars 1993
+	  - Loi n°93-1013 1993-08-24 art. 19 JORF 25 août 1993 en vigueur le 2 septembre 1993
 
 	**Cite**:
 
 	  - CODE DE PROCEDURE PENALE - art. 114 (M)
 	  - CODE DE PROCEDURE PENALE - art. 137-1 (Ab)
-
-
-###### Article 148
-
-En toute matière, la mise en liberté peut être demandée à tout moment au juge d'instruction par la personne ou son avocat,
-sous les conditions prévues à l'article précédent.
-
-Le juge d'instruction communique immédiatement le dossier au procureur de la République aux fins de réquisitions. Il avise en
-même temps, par tout moyen, la partie civile qui peut présenter des observations. Mention est portée au dossier par le
-greffier de la date de l'avis prescrit par le présent alinéa ainsi que des formes utilisées.
-
-Le juge d'instruction doit statuer, au plus tard dans les cinq jours de la communication au procureur de la République, par
-une ordonnance qui doit comporter l'énoncé des considérations de droit et de fait qui constituent le fondement de cette
-décision par référence aux dispositions de l'article 144. Toutefois, lorsqu'il n'a pas encore été statué sur une précédente
-demande de mise en liberté ou sur l'appel d'une précédente ordonnance de refus de mise en liberté, le délai de cinq jours ne
-commencera à courir qu'à compter de la décision rendue par la juridiction d'instruction.
-
-La mise en liberté, lorsqu'elle est accordée, peut être assortie de mesures de contrôle judiciaire.
-
-Lorsqu'il y a une partie civile en cause, l'ordonnance du juge d'instruction ne peut intervenir que quarante-huit heures
-après l'avis donné à cette partie.
-
-Faute par le juge d'instruction d'avoir statué dans le délai fixé au troisième alinéa, la personne peut saisir directement de
-sa demande la chambre d'accusation qui, sur les réquisitions écrites et motivées du procureur général, se prononce dans les
-vingt jours de sa saisine faute de quoi la personne est mise d'office en liberté sauf si des vérifications concernant sa
-demande ont été ordonnées. Le droit de saisir dans les mêmes conditions la chambre d'accusation appartient également au
-procureur de la République.
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Ordonnance n°45-174 du 2 février 1945 - art. 14-2 (V)
-	  - CODE DE PROCEDURE PENALE - art. 148-4 (V)
-	  - Code de procédure pénale - art. 142-12 (V)
-	  - Code de procédure pénale - art. 186 (VD)
-	  - Code de procédure pénale - art. 728-68 (V)
-	  - Code de procédure pénale - art. D150 (V)
-
-	**Codifié par**:
-
-	  - Loi n°57-1426 1957-12-31
-
-	**Modifié par**:
-
-	  - Loi n°70-643 du 17 juillet 1970 - art. 1 () JORF 19 juillet 1970
-	  - Loi n°84-576 du 9 juillet 1984 - art. 12 () JORF 10 juillet 1984
-	  - Loi n°85-1407 1985-12-30 art. 19-I, 19-II, 94 JORF 31 juillet 1985 en vigueur le 1er février 1986
-	  - Loi n°86-1019 du 9 septembre 1986 - art. 16 () JORF 10 septembre 1986
-	  - Loi n°89-461 du 6 juillet 1989 - art. 6 () JORF 8 juillet 1989 en vigueur le 1er décembre 1989
-	  - Loi n°93-2 du 4 janvier 1993 - art. 183 () JORF 5 janvier 1993 en vigueur le 1er mars 1993
-
-	**Cite**:
-
-	  - CODE DE PROCEDURE PENALE - art. 144 (M)
-	  - CODE DE PROCEDURE PENALE - art. 147 (M)
 
 
 ##### Sous-section 3 : De l'indemnisation à raison d'une détention provisoire
@@ -9178,39 +9577,6 @@ manifestement anormal et d'une particulière gravité.
 
 ##### Section 8 : Des commissions rogatoires
 
-###### Article 152
-
-Les magistrats ou officiers de police judiciaire commis pour l'exécution exercent, dans les limites de la commission
-rogatoire, tous les pouvoirs du juge d'instruction.
-
-Toutefois, les officiers de police judiciaire ne peuvent pas procéder aux interrogatoires et confrontations des personnes
-mises en examen. Ils ne peuvent procéder aux auditions des parties civiles qu'à la demande de celles-ci.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°57-1426 1957-12-31
-
-	**Modifié par**:
-
-	  - Loi n°93-2 du 4 janvier 1993 - art. 188 () JORF 5 janvier 1993 en vigueur le 1er mars 1993
-
-	**Cité par**:
-
-	  - CODE DE PROCEDURE PENALE - art. 171 (M)
-	  - CODE DE PROCEDURE PENALE - art. 81 (M)
-	  - Code de procédure pénale - art. 28-1 (V)
-	  - Code de procédure pénale - art. 28-2 (V)
-
-	**Liens**:
-
-	  - TXT_SOURCE: CODE DE PROCEDURE PENALE - art. D33 (V)
-	  - TXT_SOURCE: CODE DE PROCEDURE PENALE - art. D34 (V)
-	  - TXT_SOURCE: CODE DE PROCEDURE PENALE - art. D35 (V)
-	  - TXT_SOURCE: CODE DE PROCEDURE PENALE - art. D36 (M)
-
-
 ###### Article 153
 
 Tout témoin cité pour être entendu au cours de l'exécution d'une commission rogatoire est tenu de comparaître, de prêter
@@ -9256,21 +9622,22 @@ force publique et prendre contre lui les sanctions prévues à l'article 109, al
 
 ###### Article 154
 
-Dès que, pour les nécessités de l'exécution de la commission rogatoire, l'officier de police judiciaire est amené à garder
-une personne à sa disposition, il en informe le juge d'instruction saisi des faits qui contrôle la mesure de garde à vue. Il
-ne peut retenir cette personne plus de vingt-quatre heures.
+Lorsque l'officier de police judiciaire est amené, pour les nécessités de l'exécution de la commission rogatoire, à garder
+une personne à sa disposition, il en informe dans les meilleurs délais le juge d'instruction saisi des faits, qui contrôle la
+mesure de garde à vue. Il ne peut retenir cette personne plus de vingt-quatre heures.
 
 La personne doit être présentée avant l'expiration du délai de vingt-quatre heures à ce magistrat ou, si la commission
 rogatoire est exécutée dans un autre ressort que celui de son siège, au juge d'instruction du lieu d'exécution de la mesure.
 A l'issue de cette présentation, le juge d'instruction peut accorder l'autorisation écrite de prolonger la mesure d'un
-nouveau délai dont il fixe la durée sans que celle-ci puisse excéder vingt-quatre heures. Il peut, à titre exceptionnel,
-accorder cette autorisation par décision écrite et motivée sans présentation préalable de la personne.
+nouveau délai, sans que celui-ci puisse excéder vingt-quatre heures. Il peut, à titre exceptionnel, accorder cette
+autorisation par décision écrite et motivée sans présentation préalable de la personne.
 
 Pour l'application du présent article, les ressorts des tribunaux de grande instance de Paris, Nanterre, Bobigny et Créteil
 constituent un seul et même ressort.
 
 Les dispositions des articles 63-1, 63-2, 63-3, 63-4, 64 et 65 sont applicables aux gardes à vue exécutées dans le cadre de
-la présente section.
+la présente section. Les pouvoirs conférés au procureur de la République par les articles 63-2 et 63-3 sont alors exercés par
+le juge d'instruction.
 
 **Liens relatifs à cet article**
 
@@ -9293,7 +9660,7 @@ la présente section.
 
 	**Modifié par**:
 
-	  - Loi n°93-2 du 4 janvier 1993 - art. 18 () JORF 5 janvier 1993 en vigueur le 1er mars 1993
+	  - Loi n°93-1013 1993-08-24 art. 5 JORF 25 août 1993 en vigueur le 2 septembre 1993
 
 	**Cite**:
 
@@ -9312,109 +9679,16 @@ la présente section.
 	  - TXT_SOURCE: CODE DE PROCEDURE PENALE - art. D36 (M)
 
 
-###### Article 155
-
-Lorsque la commission rogatoire prescrit des opérations simultanées sur divers points du territoire, elle peut, sur l'ordre
-du juge d'instruction mandant, être adressée aux juges d'instruction ou officiers de police judiciaire chargés de son
-exécution sous forme de reproduction ou de copie intégrale de l'original.
-
-Elle peut même, en cas d'urgence, être diffusée par tous moyens ; chaque diffusion doit toujours préciser les mentions
-essentielles de l'original et spécialement la nature de l'inculpation, le nom et la qualité du magistrat mandant.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°57-1426 1957-12-31
-
-	**Modifié par**:
-
-	  - Loi n°85-1407 1985-12-30 art. 23 et 94 JORF 31 décembre 1985 en vigueur le 1er février 1986
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°85-1407 1985-12-30 art. 94
-	  - TXT_SOURCE: CODE DE PROCEDURE PENALE - art. D33 (V)
-	  - TXT_SOURCE: CODE DE PROCEDURE PENALE - art. D34 (V)
-	  - TXT_SOURCE: CODE DE PROCEDURE PENALE - art. D35 (V)
-	  - TXT_SOURCE: CODE DE PROCEDURE PENALE - art. D36 (M)
-
-	**Cité par**:
-
-	  - Code de procédure pénale - art. D35 (V)
-	  - Code de procédure pénale - art. D36 (V)
-
-
 ##### Section 12 : De l'appel des ordonnances du juge d'instruction
-
-###### Article 186
-
-Le droit d'appel appartient à la personne mise en examen contre les ordonnances et décisions prévues par les articles 87,
-139, 140, 145, septième alinéa, 145-1, 145-2, 148 et 179, troisième alinéa.
-
-La partie civile peut interjeter appel des ordonnances de non informer, de non-lieu et des ordonnances faisant grief à ses
-intérêts civils. Toutefois, son appel ne peut, en aucun cas, porter sur une ordonnance ou sur la disposition d'une ordonnance
-relative à la détention de la personne mise en examen ou au contrôle judiciaire.
-
-Les parties peuvent aussi interjeter appel de l'ordonnance par laquelle le juge a, d'office ou sur déclinatoire, statué sur
-sa compétence.
-
-L'appel des parties ou du témoin condamné en application des dispositions de l'article 109 ainsi que la requête prévue par le
-cinquième alinéa de l'article 99 doivent être formés dans les conditions et selon les modalités prévues par les articles 502
-et 503, dans les dix jours qui suivent la notification ou la signification de la décision.
-
-Le dossier de l'information ou sa copie établie conformément à l'article 81 est transmis, avec l'avis motivé du procureur de
-la République, au procureur général, qui procède ainsi qu'il est dit aux articles 194 et suivants.
-
-Si le président de la chambre d'accusation constate qu'il a été fait appel d'une ordonnance non visée aux alinéas 1 à 3 du
-présent article, il rend d'office une ordonnance de non-admission de l'appel qui n'est pas susceptible de voies de recours.
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Ordonnance n°45-174 du 2 février 1945 - art. 24 (V)
-	  - CODE DE PROCEDURE PENALE - art. 183 (V)
-	  - CODE DE PROCEDURE PENALE - art. 194 (M)
-	  - CODE DE PROCEDURE PENALE - art. D31-1 (V)
-	  - Code de justice militaire - art. 126 (Ab)
-	  - Code de procédure pénale - art. 179 (VD)
-	  - Code de procédure pénale - art. 186-3 (V)
-	  - Code de procédure pénale - art. 99 (VT)
-	  - Code de procédure pénale - art. D40-3 (V)
-
-	**Codifié par**:
-
-	  - Loi n°57-1426 1957-12-31
-
-	**Modifié par**:
-
-	  - Ordonnance n°58-1296 du 23 décembre 1958 - art. 1 () JORF 24 décembre 1958
-	  - Ordonnance 60-529 1960-06-04 art. 2 JORF 8 juin 1960
-	  - Loi n°70-643 du 17 juillet 1970 - art. 5 () JORF 19 juillet 1970
-	  - Loi n°72-1226 1972-12-29 art. 32-I JORF 30 décembre 1972
-	  - Loi n°81-82 du 2 février 1981 - art. 57 () JORF 3 février 1981
-	  - Loi n°83-466 du 10 juin 1983 - art. 18 () JORF 11 juin 1983
-	  - Loi n°84-576 1984-07-09 art. 14-I, 14-II et 19 JORF 10 juillet 1984
-	  - Loi n°85-1407 1985-12-30 art. 32-I, 32-II et 94 JORF 31 décembre 1985 en vigueur le 1er février 1986
-	  - Loi n°93-2 du 4 janvier 1993 - art. 44 () JORF 5 janvier 1993 en vigueur le 1er mars 1993
-
-	**Cite**:
-
-	  - CODE DE PROCEDURE PENALE - art. 109 (M)
-	  - CODE DE PROCEDURE PENALE - art. 139 (M)
-	  - CODE DE PROCEDURE PENALE - art. 140 (M)
-	  - CODE DE PROCEDURE PENALE - art. 145 (MMN)
-	  - CODE DE PROCEDURE PENALE - art. 502 (V)
-	  - CODE DE PROCEDURE PENALE - art. 503 (V)
-	  - CODE DE PROCEDURE PENALE - art. 81 (M)
-	  - CODE DE PROCEDURE PENALE - art. 87 (M)
-
 
 ###### Article 187
 
-Lorsqu'il est interjeté appel d'une ordonnance autre qu'une ordonnance de règlement, le juge d'instruction poursuit son
-information sauf décision contraire à la chambre d'accusation.
+Lorsqu'il est interjeté appel d'une ordonnance autre qu'une ordonnance de règlement ou que la chambre d'accusation est
+directement saisie, en application des articles 81, neuvième alinéa, 82-1, deuxième alinéa, 156, deuxième alinéa, ou 167,
+quatrième alinéa, le juge d'instruction poursuit son information, sauf décision contraire du président de la chambre
+d'accusation. Cette décision n'est pas susceptible de recours.
+
+Il en est de même lorsque la chambre d'accusation est saisie d'une requête en nullité en application de l'article 173.
 
 **Liens relatifs à cet article**
 
@@ -9422,124 +9696,60 @@ information sauf décision contraire à la chambre d'accusation.
 
 	  - Loi n°57-1426 1957-12-31
 
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°57-1426 1957-12-31 art. 18
-
 	**Modifié par**:
 
-	  - Loi n°87-1062 du 30 décembre 1987 - art. 9 () JORF 31 décembre 1987 en vigueur le 1er septembre 1989
-
-
-#### Chapitre Ier : De la chambre d'instruction et du juge d'instruction : juridictions d'instruction du premier degré
-
-##### Section 1 : Dispositions générales
-
-###### Article 82-1
-
-Les parties peuvent, au cours de l'information, saisir le juge d'instruction d'une demande écrite et motivée tendant à ce
-qu'il soit procédé à leur audition ou à leur interrogatoire, à l'audition d'un témoin, à une confrontation ou à un transport
-sur les lieux, ou à ce qu'il soit ordonné la production par l'une d'entre elles d'une pièce utile à l'information.
-
-Le juge d'instruction doit, s'il n'entend pas y faire droit, rendre une ordonnance motivée au plus tard dans le délai d'un
-mois à compter de la réception de la demande. Les dispositions du dernier alinéa de l'article 81 sont applicables.
-
-A l'expiration d'un délai de trois mois depuis sa dernière comparution, la personne mise en examen qui en fait la demande
-écrite doit être entendue par le juge d'instruction. Celui-ci procède à son interrogatoire dans les quinze jours de la
-réception de la demande.
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Ordonnance n°45-174 du 2 février 1945 - art. 4 (VD)
-	  - CODE DE PROCEDURE PENALE - art. 113-8 (M)
-	  - CODE DE PROCEDURE PENALE - art. 186-1 (V)
-	  - CODE DE PROCEDURE PENALE - art. 187 (V)
-	  - CODE DE PROCEDURE PENALE - art. 80-3 (Ab)
-	  - Code de procédure pénale - art. 113-3 (VD)
-	  - Code de procédure pénale - art. 116 (MMN)
-	  - Code de procédure pénale - art. 116-1 (V)
-	  - Code de procédure pénale - art. 120-1 (VD)
-	  - Code de procédure pénale - art. 167 (V)
-	  - Code de procédure pénale - art. 175 (V)
-	  - Code de procédure pénale - art. 194 (V)
-	  - Code de procédure pénale - art. 207 (VT)
-	  - Code de procédure pénale - art. 570 (V)
-	  - Code de procédure pénale - art. 64-1 (VD)
-	  - Code de procédure pénale - art. 82-2 (V)
-	  - Code de procédure pénale - art. 89-1 (V)
-	  - Code de procédure pénale - art. D153 (V)
-	  - Code de procédure pénale - art. D591 (V)
-
-	**Codifié par**:
-
-	  - Loi n°57-1426 1957-12-31
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°85-1303 1985-12-10 art. 42
-
-	**Créé par**:
-
-	  - Loi n°85-1303 1985-12-10 art. 8 et art. 42 JORF 11 décembre 1985, en vigueur le 1er mars 1988
-
-	**Abrogé par**:
-
-	  - Loi n°87-1062 du 30 décembre 1987 - art. 23 (V) JORF 31 décembre 1987
-
-	**Modifié par**:
-
-	  - Loi n°93-2 du 4 janvier 1993 - art. 27 () JORF 25 août 1993 en vigueur le 1er mars 1993
+	  - Loi n°93-1013 1993-08-24 art. 38 JORF 25 août 1993 en vigueur le 2 septembre 1993
 
 	**Cite**:
 
+	  - CODE DE PROCEDURE PENALE - art. 156 (M)
+	  - CODE DE PROCEDURE PENALE - art. 167 (M)
+	  - CODE DE PROCEDURE PENALE - art. 173 (M)
 	  - CODE DE PROCEDURE PENALE - art. 81 (M)
+	  - CODE DE PROCEDURE PENALE - art. 82-1 (M)
 
 
-##### Section 7 : Du contrôle judiciaire et de la détention provisoire
+###### Article 187-1
 
-##### Sous-section 1 : Du contrôle judiciaire
+En cas d'appel d'une ordonnance de placement en détention provisoire, la personne mise en examen ou le procureur de la
+République peut, si l'appel est interjeté au plus tard le jour suivant la décision de placement en détention, demander au
+président de la chambre d'accusation ou, en cas d'empêchement, au magistrat   t qui le remplace de déclarer cet appel
+suspensif. Cette demande doit, à peine d'irrecevabilité, être formée en même temps que l'appel. L'avocat de la personne mise
+en examen ou le procureur de la République peut joindre toutes observations écrites à l'appui de la demande.
 
-###### Article 141-2
+Le président de la chambre d'accusation ou le magistrat qui le remplace statue au plus tard le troisième jour ouvrable
+suivant la demande, au vu des éléments du dossier de la procédure, par une ordonnance non motivée qui n'est pas susceptible
+de recours.
 
-Si la personne mise en examen se soustrait volontairement aux obligations du contrôle judiciaire, le juge d'instruction peut,
-quelle que soit la durée de la peine d'emprisonnement encourue, décerner à son encontre mandat d'arrêt ou procéder comme il
-est dit à l'article 145 en vue de son placement en détention provisoire.
+Si le président de la chambre d'accusation ou le magistrat qui le remplace estime qu'il n'est manifestement pas nécessaire
+que la personne mise en examen soit détenue jusqu'à ce qu'il soit statué sur l'appel, il ordonne la suspension des effets du
+mandat de dépôt jusqu'à l'intervention de la décision de cette juridiction et la personne est alors remise en liberté. Si ce
+magistrat ne fait pas droit à la demande, sa décision est notifiée à la personne mise en examen par le greffe de
+l'établissement pénitentiaire qui peut, le cas échéant, recevoir le désistement d'appel de cette dernière.
 
-La juridiction compétente selon les distinctions de l'article 148-1 peut, dans le cas prévu par l'alinéa qui précède,
-décerner mandat d'arrêt ou de dépôt. Toutefois, à l'encontre de l'accusé, il n'y a pas lieu à délivrance d'un mandat et
-l'ordonnance de prise de corps est exécutée sur l'ordre du président de la cour d'assises ou, dans l'intervalle des sessions,
-du président de la chambre de l'instruction.
+La déclaration d'appel et la demande prévue au premier alinéa du présent article peuvent être constatées par le juge
+d'instruction à l'issue du débat contradictoire prévu par le quatrième alinéa de l'article 145. Pour l'application du
+deuxième alinéa du présent article, la transmission du dossier de la procédure au président de la chambre d'accusation peut
+être effectuée par télécopie.
 
 **Liens relatifs à cet article**
 
 	**Cité par**:
 
 	  - Ordonnance n°45-174 du 2 février 1945 - art. 14-2 (V)
-	  - CODE DE PROCEDURE PENALE - art. 144 (M)
-	  - CODE DE PROCEDURE PENALE - art. 215-1 (Ab)
-	  - Code de justice militaire - art. 137 (Ab)
-	  - Code de procédure pénale - art. 142-8 (V)
-	  - Code de procédure pénale - art. 143-1 (V)
-	  - Code de procédure pénale - art. 394 (V)
-	  - Code de procédure pénale - art. 396 (M)
-	  - Code de procédure pénale - art. 397-3 (V)
-	  - Code de procédure pénale - art. 471 (V)
-	  - Code de procédure pénale - art. D32-20 (V)
+	  - CODE DE PROCEDURE PENALE - art. 187-2 (V)
+	  - Code de procédure pénale - art. 145 (VT)
+	  - Code de procédure pénale - art. 2-10 (M)
+	  - Code de procédure pénale - art. 823 (V)
+	  - Code de procédure pénale - art. R*49-23 (VD)
 
 	**Codifié par**:
 
 	  - Loi n°57-1426 1957-12-31
 
-	**Modifié par**:
+	**Créé par**:
 
-	  - Loi n°93-2 du 4 janvier 1993 - art. 62 () JORF 5 janvier 1993 en vigueur le 1er mars 1993
-
-	**Cite**:
-
-	  - CODE DE PROCEDURE PENALE - art. 145 (MMN)
-	  - CODE DE PROCEDURE PENALE - art. 148-1 (M)
+	  - Loi n°93-1013 1993-08-24 art. 17 JORF 25 août 1993 en vigueur le 2 septembre 1993
 
 
 #### Chapitre II : De la chambre d'accusation : juridiction d'instruction du second degré
@@ -9641,13 +9851,14 @@ procureur général, toutes les fois qu'il est nécessaire.
 Le procureur général met l'affaire en état dans les quarante-huit heures de la réception des pièces en matière de détention
 provisoire et dans les dix jours en toute autre matière ; il la soumet, avec son réquisitoire, à la chambre d'accusation.
 
-Celle-ci doit, en matière de détention provisoire, se prononcer dans les plus brefs délais et au plus tard dans les quinze
-jours de l'appel prévu par l'article 186, faute de quoi la personne concernée est mise d'office en liberté, sauf si des
-vérifications concernant sa demande ont été ordonnées ou si des circonstances imprévisibles et insurmontables mettent
-obstacle au jugement de l'affaire dans le délai prévu au présent article.
+Dans les cas prévus par les articles 173 et 186-1, ou lorsqu'elle est directement saisie en application des articles 81,
+neuvième alinéa, 82-1, deuxième alinéa, 156, deuxième alinéa, ou 167, quatrième alinéa, la chambre d'accusation doit statuer
+dans les deux mois à compter de la transmission du dossier au procureur général par le président de la chambre d'accusation.
 
-Dans les cas prévus par les articles 173 et 186-1, lorsqu'une personne est détenue, la chambre d'accusation doit statuer dans
-les vingt jours à compter de la réception des pièces.
+En matière de détention provisoire, la chambre d'accusation doit se prononcer dans les plus brefs délais et au plus tard dans
+les quinze jours de l'appel prévu par l'article 186, faute de quoi la personne concernée est mise d'office en liberté, sauf
+si des vérifications concernant sa demande ont été ordonnées ou si des circonstances imprévisibles et insurmontables mettent
+obstacle au jugement de l'affaire dans le délai prévu au présent article.
 
 **Liens relatifs à cet article**
 
@@ -9657,7 +9868,7 @@ les vingt jours à compter de la réception des pièces.
 
 	**Modifié par**:
 
-	  - Loi n°93-2 du 4 janvier 1993 - art. 76 () JORF 5 janvier 1993 en vigueur le 1er mars 1993
+	  - Loi n°93-1013 1993-08-24 art. 39 JORF 25 août 1993 en vigueur le 2 septembre 1993
 
 	**Cité par**:
 
@@ -9671,6 +9882,12 @@ les vingt jours à compter de la réception des pièces.
 	  - Code de procédure pénale - art. 207-1 (MMN)
 	  - Code de procédure pénale - art. 728-69 (VD)
 	  - Code de procédure pénale - art. 81 (V)
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. 156 (M)
+	  - CODE DE PROCEDURE PENALE - art. 167 (M)
+	  - CODE DE PROCEDURE PENALE - art. 82-1 (M)
 
 
 ###### Article 196
@@ -9960,53 +10177,6 @@ le dossier de la procédure au même juge d'instruction ou à tel autre, afin de
 	  - CODE DE PROCEDURE PENALE - art. 201 (M)
 	  - CODE DE PROCEDURE PENALE - art. 202 (M)
 	  - CODE DE PROCEDURE PENALE - art. 204 (M)
-
-
-###### Article 207
-
-Lorsque la chambre d'accusation a statué sur l'appel relevé contre une ordonnance du juge d'instruction en matière de
-détention provisoire, ou contre une ordonnance rendue en application des dispositions de l'article 137-1 soit qu'elle ait
-confirmé l'ordonnance, soit que, l'infirmant, elle ait ordonné une mise en liberté ou maintenu en détention ou décerné un
-mandat de dépôt ou d'arrêt, le procureur général fait sans délai retour du dossier au juge d'instruction après avoir assuré
-l'exécution de l'arrêt.
-
-Lorsque, en toute autre matière, la chambre d'accusation infirme une ordonnance du juge d'instruction, elle peut, soit
-évoquer et procéder dans les conditions prévues aux articles 201, 202, 204 et 205, soit renvoyer le dossier au juge
-d'instruction ou à tel autre afin de poursuivre l'information.
-
-L'ordonnance du juge d'instruction frappée d'appel sort son plein et entier effet si elle est confirmée par la chambre
-d'accusation.
-
-En cas d'appel formé contre une ordonnance de refus de mise en liberté, la chambre d'accusation peut, lors de l'audience et
-avant la clotûre des débats, se saisir immédiatement de toute demande de mise en liberté sur laquelle le juge d'instruction
-n'a pas encore statué ; dans ce cas, elle se prononce à la fois sur l'appel et sur cette demande.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°57-1426 1957-12-31
-
-	**Modifié par**:
-
-	  - Ordonnance 60-529 1960-06-04 art. 2 JORF 8 juin 1960
-	  - Loi n°87-1062 du 30 décembre 1987 - art. 2 () JORF 31 décembre 1987 en vigueur le 1er septembre 1989
-	  - Loi n°89-18 du 13 janvier 1989 - art. 2 () JORF 14 janvier 1989
-	  - Loi n°93-2 du 4 janvier 1993 - art. 241 () JORF 5 janvier 1993 en vigueur le 1er mars 1993
-
-	**Cite**:
-
-	  - CODE DE PROCEDURE PENALE - art. 137-1 (Ab)
-	  - CODE DE PROCEDURE PENALE - art. 201 (M)
-	  - CODE DE PROCEDURE PENALE - art. 202 (M)
-	  - CODE DE PROCEDURE PENALE - art. 204 (M)
-	  - CODE DE PROCEDURE PENALE - art. 205 (M)
-
-	**Cité par**:
-
-	  - CODE DE PROCEDURE PENALE - art. 145-1 (M)
-	  - CODE DE PROCEDURE PENALE - art. 145-2 (V)
-	  - Code de procédure pénale - art. 609-1 (V)
 
 
 ###### Article 208
@@ -12750,6 +12920,10 @@ dans les résultats.
 
 	  - Ordonnance 58-1296 1958-12-23
 
+	**Modifié par**:
+
+	  - Loi n°93-1013 1993-08-24 art. 28 JORF 25 août 1993 en vigueur le 2 septembre 1993
+
 	**Cité par**:
 
 	  - CODE DE PROCEDURE PENALE - art. 328 (MMN)
@@ -12835,7 +13009,7 @@ personnes appelées à la barre.
 
 	**Modifié par**:
 
-	  - Loi n°72-1226 1972-12-29 art. 7 JORF 30 décembre 1972 en vigueur le 1er janvier 1973
+	  - Loi n°93-1013 1993-08-24 art. 28 JORF 25 août 1993 en vigueur le 2 septembre 1993
 
 	**Cité par**:
 
@@ -13074,23 +13248,24 @@ disposition de la cour ; il est, après chaque audience, procédé ainsi qu'il e
 
 ###### Article 323
 
-Lorsque le conseil de l'accusé n'est pas inscrit à un barreau, le président l'informe qu'il ne peut rien dire contre sa
+Lorsque l'avocat de l'accusé n'est pas inscrit à un barreau, le président l'informe qu'il ne peut rien dire contre sa
 conscience ou le respect dû aux lois et qu'il doit s'exprimer avec décence et modération.
 
 **Liens relatifs à cet article**
 
-	**Cité par**:
-
-	  - Code de justice militaire - art. 222 (Ab)
-
-	**Liens**:
-
-	  - SPEC_APPLI: Ordonnance 1958-12-22 art. 18
-	  - SPEC_APPLI: Ordonnance 1958-12-23 art. 10
-
 	**Codifié par**:
 
 	  - Ordonnance 58-1296 1958-12-23
+
+	**Modifié par**:
+
+	  - Loi n°93-2 du 4 janvier 1993 - art. 224 () JORF 5 janvier 1993 en vigueur le 1er mars 1993
+	  - Loi n°93-2 du 4 janvier 1993 - art. 85 () JORF 5 janvier 1993 en vigueur le 1er octobre 1994
+	  - Loi n°93-1013 1993-08-24 art. 28 JORF 25 août 1993 en vigueur le 2 septembre 1993
+
+	**Cité par**:
+
+	  - Code de justice militaire - art. 222 (Ab)
 
 
 ###### Article 324
@@ -13104,18 +13279,17 @@ civile dont les noms ont été signifiés conformément aux prescriptions de l'a
 
 	  - Ordonnance 58-1296 1958-12-23
 
-	**Modifié par**:
-
-	  - Ordonnance 60-529 1960-06-04 art. 8 JORF 8 juin 1960
-	  - Loi n°85-1407 1985-12-30 art. 40 JORF 31 décembre 1985 en vigueur le 1er février 1986
-
 	**Liens**:
 
 	  - SPEC_APPLI: Loi n°85-1407 1985-12-30 art. 94
 
+	**Modifié par**:
+
+	  - Loi n°93-1013 1993-08-24 art. 28 JORF 25 août 1993 en vigueur le 2 septembre 1993
+
 	**Cite**:
 
-	  - CODE DE PROCEDURE PENALE - art. 281 (M)
+	  - Code de procédure pénale - art. 281 (V)
 
 
 ###### Article 325
@@ -13125,6 +13299,10 @@ président prend, s'il en est besoin, toutes mesures utiles pour empêcher les t
 déposition.
 
 **Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°93-1013 1993-08-24 art. 28 JORF 25 août 1993 en vigueur le 2 septembre 1993
 
 	**Cité par**:
 
@@ -13146,10 +13324,6 @@ Lorsqu'un témoin cité ne comparaît pas, la cour peut, sur réquisitions du mi
 témoin soit immédiatement amené par la force publique devant la cour pour y être entendu, ou renvoyer l'affaire à la
 prochaine session.
 
-En ce dernier cas, tous les frais de citation, d'actes, de voyage de témoins et autres ayant pour objet de faire juger
-l'affaire sont, hors le cas d'excuse légitime, à la charge de ce témoin et il y est contraint, même par corps, sur la
-réquisition du ministère public, par l'arrêt qui renvoie les débats à la session suivante.
-
 Dans tous les cas, le témoin qui ne comparaît pas ou qui refuse soit de prêter serment, soit de faire sa déposition peut, sur
 réquisitions du ministère public, être condamné par la cour à la peine portée à l'article 109.
 
@@ -13158,6 +13332,15 @@ signification de l'arrêt faite à sa personne ou à son domicile. La cour statu
 en cours, soit au cours d'une session ultérieure.
 
 **Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 58-1296 1958-12-23
+
+	**Modifié par**:
+
+	  - Loi n°93-2 du 4 janvier 1993 - art. 85 () JORF 5 janvier 1993 en vigueur le 1er mars 1993
+	  - Loi n°93-1013 1993-08-24 art. 28 JORF 25 août 1993 en vigueur le 2 septembre 1993
 
 	**Cité par**:
 
@@ -13168,15 +13351,6 @@ en cours, soit au cours d'une session ultérieure.
 
 	  - CODE DE PROCEDURE PENALE - art. 109 (M)
 
-	**Liens**:
-
-	  - SPEC_APPLI: Ordonnance 1958-12-22 art. 18
-	  - SPEC_APPLI: Ordonnance 1958-12-23 art. 10
-
-	**Codifié par**:
-
-	  - Ordonnance 58-1296 1958-12-23
-
 
 ###### Article 327
 
@@ -13185,6 +13359,10 @@ Le président invite l'accusé à écouter avec attention la lecture de l'arrêt
 Il ordonne au greffier de lire cet arrêt à haute et intelligible voix.
 
 **Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°93-1013 1993-08-24 art. 28 JORF 25 août 1993 en vigueur le 2 septembre 1993
 
 	**Liens**:
 
@@ -13204,11 +13382,6 @@ Il a le devoir de ne pas manifester son opinion sur la culpabilité.
 
 **Liens relatifs à cet article**
 
-	**Cité par**:
-
-	  - CODE DE PROCEDURE PENALE - art. 312 (MMN)
-	  - CODE DE PROCEDURE PENALE - art. 331 (MMN)
-
 	**Liens**:
 
 	  - SPEC_APPLI: Ordonnance 1958-12-22 art. 18
@@ -13217,6 +13390,15 @@ Il a le devoir de ne pas manifester son opinion sur la culpabilité.
 	**Codifié par**:
 
 	  - Ordonnance 58-1296 1958-12-23
+
+	**Modifié par**:
+
+	  - Loi n°93-1013 1993-08-24 art. 28 JORF 25 août 1993 en vigueur le 2 septembre 1993
+
+	**Cité par**:
+
+	  - CODE DE PROCEDURE PENALE - art. 312 (MMN)
+	  - CODE DE PROCEDURE PENALE - art. 331 (MMN)
 
 
 ###### Article 329
@@ -13233,16 +13415,16 @@ de l'article 281.
 
 	**Modifié par**:
 
-	  - Ordonnance 60-529 1960-06-04 art. 8 JORF 8 juin 1960
+	  - Loi n°93-1013 1993-08-24 art. 28 JORF 25 août 1993 en vigueur le 2 septembre 1993
 
 	**Cite**:
 
-	  - CODE DE PROCEDURE PENALE - art. 281 (M)
+	  - Code de procédure pénale - art. 281 (V)
 
 
 ###### Article 330
 
-Le ministère public et les parties peuvent s'opposer à l'audition d'un témoin dont le nom ne leur aurait pas 8té signifié ou
+Le ministère public et les parties peuvent s'opposer à l'audition d'un témoin dont le nom ne leur aurait pas été signifié ou
 qui leur aurait été irrégulièrement signifié.
 
 La cour statue sur cette opposition.
@@ -13258,7 +13440,7 @@ discrétionnaire du président.
 
 	**Modifié par**:
 
-	  - Ordonnance 60-529 1960-06-04 art. 8 JORF 8 juin 1960
+	  - Loi n°93-1013 1993-08-24 art. 28 JORF 25 août 1993 en vigueur le 2 septembre 1993
 
 
 ###### Article 331
@@ -13285,7 +13467,7 @@ Les témoins déposent uniquement, soit sur les faits reprochés à l'accusé, s
 
 	**Modifié par**:
 
-	  - Ordonnance 60-1067 1960-10-06 art. 1 JORF 7 octobre 1960
+	  - Loi n°93-1013 1993-08-24 art. 28 JORF 25 août 1993 en vigueur le 2 septembre 1993
 
 	**Cite**:
 
@@ -13298,12 +13480,16 @@ Les témoins déposent uniquement, soit sur les faits reprochés à l'accusé, s
 
 ###### Article 332
 
-Après chaque déposition, le président peut poser des questions aux témoins.
+Après chaque déposition, le président peut poser des questions aux témoins. 
 
 Le ministère public, ainsi que les conseils de l'accusé et de la partie civile, l'accusé et la partie civile ont la même
 faculté, dans les conditions déterminées à l'article 312.
 
 **Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°93-1013 1993-08-24 art. 28 JORF 25 août 1993 en vigueur le 2 septembre 1993
 
 	**Cité par**:
 
@@ -13333,7 +13519,7 @@ procès-verbal est joint au procès-verbal des débats.
 
 	**Modifié par**:
 
-	  - Ordonnance 60-529 1960-06-04 art. 8 JORF 8 juin 1960
+	  - Loi n°93-1013 1993-08-24 art. 28 JORF 25 août 1993 en vigueur le 2 septembre 1993
 
 	**Cité par**:
 
@@ -13345,10 +13531,14 @@ procès-verbal est joint au procès-verbal des débats.
 
 ###### Article 334
 
-Chaque témoin après sa déposition, demeure dans la salle d'audience si le président n'en ordonne autrement, jusqu'à la
+Chaque témoin après sa déposition, demeure dans la salle d'audience, si le président n'en ordonne autrement, jusqu'à la
 clôture des débats.
 
 **Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°93-1013 1993-08-24 art. 28 JORF 25 août 1993 en vigueur le 2 septembre 1993
 
 	**Liens**:
 
@@ -13364,7 +13554,7 @@ clôture des débats.
 
 Ne peuvent être reçues sous la foi du serment les dépositions :
 
-1° Du père, de la mère ou de tout autre ascendant de l'accusé ou de l'un des accusés présents et soumis au même débat ;
+1° Du père, de la mère ou de tout autre ascendant de l'accusé, ou de l'un des accusés présents et soumis au même débat ;
 
 2° Du fils, de la fille, ou de tout autre descendant ;
 
@@ -13380,9 +13570,9 @@ Ne peuvent être reçues sous la foi du serment les dépositions :
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Ordonnance 58-1296 1958-12-23
+	  - Loi n°93-1013 1993-08-24 art. 28 JORF 25 août 1993 en vigueur le 2 septembre 1993
 
 	**Cité par**:
 
@@ -13393,6 +13583,10 @@ Ne peuvent être reçues sous la foi du serment les dépositions :
 
 	  - SPEC_APPLI: Ordonnance 1958-12-22 art. 18
 	  - SPEC_APPLI: Ordonnance 1958-12-23 art. 10
+
+	**Codifié par**:
+
+	  - Ordonnance 58-1296 1958-12-23
 
 
 ###### Article 336
@@ -13405,14 +13599,18 @@ renseignements, en vertu du pouvoir discrétionnaire du président.
 
 **Liens relatifs à cet article**
 
+	**Codifié par**:
+
+	  - Ordonnance 58-1296 1958-12-23
+
+	**Modifié par**:
+
+	  - Loi n°93-1013 1993-08-24 art. 28 JORF 25 août 1993 en vigueur le 2 septembre 1993
+
 	**Liens**:
 
 	  - SPEC_APPLI: Ordonnance 1958-12-22 art. 18
 	  - SPEC_APPLI: Ordonnance 1958-12-23 art. 10
-
-	**Codifié par**:
-
-	  - Ordonnance 58-1296 1958-12-23
 
 
 ###### Article 337
@@ -13424,6 +13622,10 @@ Celui dont la dénonciation est récompensée pécuniairement par la loi peut ê
 opposition d'une des parties ou du ministère public.
 
 **Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°93-1013 1993-08-24 art. 28 JORF 25 août 1993 en vigueur le 2 septembre 1993
 
 	**Liens**:
 
@@ -13443,6 +13645,10 @@ après d'autres dépositions, avec ou sans confrontation.
 
 **Liens relatifs à cet article**
 
+	**Modifié par**:
+
+	  - Loi n°93-1013 1993-08-24 art. 28 JORF 25 août 1993 en vigueur le 2 septembre 1993
+
 	**Liens**:
 
 	  - SPEC_APPLI: Ordonnance 1958-12-22 art. 18
@@ -13455,11 +13661,15 @@ après d'autres dépositions, avec ou sans confrontation.
 
 ###### Article 339
 
-Le président peut, avant, pendant ou après l'audition d'un témoin faire retirer un ou plusieurs accusés et les examiner
+Le président peut, avant, pendant ou après l'audition d'un témoin, faire retirer un ou plusieurs accusés et les examiner
 séparément sur quelques circonstances du procès ; mais il a soin de ne reprendre la suite des débats qu'après avoir instruit
 chaque accusé de ce qui s'est fait en son absence et ce qui en est résulté.
 
 **Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°93-1013 1993-08-24 art. 28 JORF 25 août 1993 en vigueur le 2 septembre 1993
 
 	**Liens**:
 
@@ -13478,14 +13688,18 @@ des témoins, soit dans la défense de l'accusé, pourvu que les débats ne soie
 
 **Liens relatifs à cet article**
 
+	**Codifié par**:
+
+	  - Ordonnance 58-1296 1958-12-23
+
+	**Modifié par**:
+
+	  - Loi n°93-1013 1993-08-24 art. 28 JORF 25 août 1993 en vigueur le 2 septembre 1993
+
 	**Liens**:
 
 	  - SPEC_APPLI: Ordonnance 1958-12-22 art. 18
 	  - SPEC_APPLI: Ordonnance 1958-12-23 art. 10
-
-	**Codifié par**:
-
-	  - Ordonnance 58-1296 1958-12-23
 
 
 ###### Article 341
@@ -13497,14 +13711,18 @@ Le président les fait aussi présenter, s'il y a lieu, aux assesseurs et aux ju
 
 **Liens relatifs à cet article**
 
+	**Codifié par**:
+
+	  - Ordonnance 58-1296 1958-12-23
+
+	**Modifié par**:
+
+	  - Loi n°93-1013 1993-08-24 art. 28 JORF 25 août 1993 en vigueur le 2 septembre 1993
+
 	**Liens**:
 
 	  - SPEC_APPLI: Ordonnance 1958-12-22 art. 18
 	  - SPEC_APPLI: Ordonnance 1958-12-23 art. 10
-
-	**Codifié par**:
-
-	  - Ordonnance 58-1296 1958-12-23
 
 
 ###### Article 342
@@ -13512,23 +13730,15 @@ Le président les fait aussi présenter, s'il y a lieu, aux assesseurs et aux ju
 Si, d'après les débats, la déposition d'un témoin paraît fausse, le président, soit d'office, soit à la requête du ministère
 public ou d'une des parties peut ordonner spécialement à ce témoin d'être présent aux débats jusqu'à leur clôture et en outre
 de demeurer dans la salle d'audience jusqu'au prononcé de l'arrêt de la cour d'assises. En cas d'infraction à cet ordre, le
-président fait mettre le témoin en état d'arrestation provisoire.
+président fait mettre le témoin en état d'arrestation provisoire. 
 
 Après lecture de l'arrêt de la cour d'assises, ou, dans le cas de renvoi à une autre session, le président ordonne que le
 témoin soit, par la force publique, conduit sans délai devant le procureur de la République lui requiert l'ouverture d'une
-information.
+information. 
 
 Le greffier transmet à ce magistrat une expédition du procès-verbal qui a pu être dressé par application de l'article 333.
 
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CODE DE PROCEDURE PENALE - art. 333 (M)
-
-	**Cité par**:
-
-	  - Code de procédure pénale - art. 675 (V)
 
 	**Liens**:
 
@@ -13539,13 +13749,29 @@ Le greffier transmet à ce magistrat une expédition du procès-verbal qui a pu 
 
 	  - Ordonnance 58-1296 1958-12-23
 
+	**Modifié par**:
+
+	  - Loi n°93-1013 1993-08-24 art. 28 JORF 25 août 1993 en vigueur le 2 septembre 1993
+
+	**Cite**:
+
+	  - Code de procédure pénale - art. 333 (V)
+
+	**Cité par**:
+
+	  - Code de procédure pénale - art. 675 (V)
+
 
 ###### Article 343
 
-En tout état de cause, la cour peut ordonner d'office, ou à la requête du ministère public ou de l'une des parties, le renvoi
+En tout état de cause la cour peut ordonner d'office, ou à la requête du ministère public ou de l'une des parties, le renvoi
 de l'affaire à la prochaine session.
 
 **Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°93-1013 1993-08-24 art. 28 JORF 25 août 1993 en vigueur le 2 septembre 1993
 
 	**Cité par**:
 
@@ -13579,13 +13805,13 @@ les jurés, le greffier qui tient l'audience, les parties et les témoins.
 
 	  - Ordonnance 58-1296 1958-12-23
 
-	**Modifié par**:
-
-	  - Loi n°72-1226 1972-12-29 art. 15 JORF 30 décembre 1972 en vigueur le 1er janvier 1973
-
 	**Liens**:
 
 	  - SPEC_APPLI: Loi n°72-1226 1972-12-29 art. 66
+
+	**Modifié par**:
+
+	  - Loi n°93-1013 1993-08-24 art. 28 JORF 25 août 1993 en vigueur le 2 septembre 1993
 
 	**Cité par**:
 
@@ -13599,7 +13825,7 @@ les jurés, le greffier qui tient l'audience, les parties et les témoins.
 ###### Article 345
 
 Si l'accusé est sourd-muet et ne sait pas écrire, le président nomme d'office en qualité d'interprète la personne qui a le
-plus l'habitude de converser avec lui.
+plus d'habitude de converser avec lui.
 
 Il en est de même à l'égard du témoin sourd-muet.
 
@@ -13611,9 +13837,35 @@ greffier.
 
 **Liens relatifs à cet article**
 
+	**Liens**:
+
+	  - SPEC_APPLI: Ordonnance 1958-12-22 art. 18
+	  - SPEC_APPLI: Ordonnance 1958-12-23 art. 10
+
+	**Codifié par**:
+
+	  - Ordonnance 58-1296 1958-12-23
+
+	**Modifié par**:
+
+	  - Loi n°93-1013 1993-08-24 art. 28 JORF 25 août 1993 en vigueur le 2 septembre 1993
+
 	**Cité par**:
 
 	  - Code de justice militaire - art. 231 (Ab)
+
+
+###### Article 346
+
+Une fois l'instruction à l'audience terminée la partie civile ou son avocat est entendu. Le ministère public prend ses
+réquisitions.
+
+L'accusé et son avocat présentent leur défense.
+
+La réplique est permise à la partie civile et au ministère public, mais l'accusé ou son avocat auront toujours la parole les
+derniers.
+
+**Liens relatifs à cet article**
 
 	**Liens**:
 
@@ -13624,26 +13876,10 @@ greffier.
 
 	  - Ordonnance 58-1296 1958-12-23
 
-
-###### Article 346
-
-Une fois l'instruction à l'audience terminée, la partie civile ou son avocat est entendu. Le ministère public prend ses
-réquisitions.
-
-L'accusé et son avocat présentent leur défense. 
-
-La réplique est permise à la partie civile et au ministère public, mais l'accusé ou son avocat auront toujours la parole les
-derniers.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance 58-1296 1958-12-23
-
 	**Modifié par**:
 
-	  - Loi n°93-2 du 4 janvier 1993 - art. 224 () JORF 5 janvier 1993 en vigueur le 1er mars 1993
+	  - Loi n°93-2 du 4 janvier 1993 - art. 85 () JORF 5 janvier 1993 en vigueur le 1er octobre 1994
+	  - Loi n°93-1013 1993-08-24 art. 28 JORF 25 août 1993 en vigueur le 2 septembre 1993
 
 
 ##### Section 4 : De la clôture des débats et de la lecture des questions
@@ -14568,11 +14804,8 @@ conditions prévues, selon le cas, par le quatrième alinéa de l'article 183 ou
 été rendue conformément aux dispositions de l'article 184, le tribunal renvoie la procédure au ministère public pour lui
 permettre de saisir à nouveau la juridiction d'instruction afin que la procédure soit régularisée.
 
-Lorsque la procédure dont il est saisi n'est pas renvoyée devant lui par la juridiction d'instruction, le tribunal prononce
-la nullité des actes ou pièces de la procédure en cas de violation des dispositions visées par l'article 171. Il statue sur
-les exceptions de nullité tirées de la méconnaissance d'une formalité substantielle et prononce la nullité si la
-méconnaissance de cette formalité a porté atteinte aux intérêts de la partie qu'elle concerne. Les dispositions du dernier
-alinéa de l'article 174 sont applicables.
+Lorsque la procédure dont il est saisi n'est pas renvoyée devant lui par la juridiction d'instruction, le tribunal statue sur
+les exceptions tirées de la nullité de la procédure antérieure.
 
 La nullité de la citation ne peut être prononcée que dans les conditions prévues par l'article 565.
 
@@ -14584,10 +14817,6 @@ Dans tous les cas, les exceptions de nullité doivent être présentées avant t
 
 	  - Ordonnance 58-1296 1958-12-23
 
-	**Modifié par**:
-
-	  - Loi n°93-2 du 4 janvier 1993 - art. 78 () JORF 5 janvier 1993 en vigueur le 1er mars 1993
-
 	**Cité par**:
 
 	  - Loi n°93-2 du 4 janvier 1993 - art. 226 (V)
@@ -14595,9 +14824,12 @@ Dans tous les cas, les exceptions de nullité doivent être présentées avant t
 	  - CODE DE PROCEDURE PENALE - art. 426-1 (MMN)
 	  - CODE DE PROCEDURE PENALE - art. 553 (V)
 
+	**Modifié par**:
+
+	  - Loi n°93-1013 1993-08-24 art. 25 JORF 25 août 1993 en vigueur le 2 septembre 1993
+
 	**Cite**:
 
-	  - CODE DE PROCEDURE PENALE - art. 171 (M)
 	  - CODE DE PROCEDURE PENALE - art. 183 (M)
 	  - CODE DE PROCEDURE PENALE - art. 184 (M)
 	  - CODE DE PROCEDURE PENALE - art. 217 (M)
@@ -14969,6 +15201,39 @@ domicile dans le ressort du tribunal saisi, à moins qu'elle n'y soit domicilié
 	**Codifié par**:
 
 	  - Ordonnance 58-1296 1958-12-23
+
+
+###### Article 392-1
+
+Lorsque l'action de la partie civile n'est pas jointe à celle du ministère public, le tribunal correctionnel fixe, en
+fonction des ressources de la partie civile, le montant de la consignation que celle-ci doit, si elle n'a pas obtenu l'aide
+juridictionnelle, déposer au greffe et le délai dans lequel elle devra être faite sous peine de non-recevabilité de la
+citation directe. Cette consignation garantit le paiement de l'amende civile susceptible d'être prononcée en application du
+second alinéa.
+
+Quand le tribunal correctionnel saisi par une citation directe de la partie civile a prononcé une décision de relaxe, le
+ministère public peut citer la partie civile devant ce tribunal. Il en est de même lorsque la relaxe a été prononcée par la
+cour d'appel. Dans le cas où la citation directe est jugée abusive ou dilatoire, le tribunal peut prononcer une amende civile
+dont le montant ne saurait excéder 100 000 F. L'action doit être engagée dans les trois mois du jour où la relaxe est devenue
+définitive.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 58-1296 1958-12-23
+
+	**Créé par**:
+
+	  - Loi n°93-1013 1993-08-24 art. 35 JORF 25 août 1993 en vigueur le 2 septembre 1993
+
+	**Cité par**:
+
+	  - Décret n°2005-1669 du 27 décembre 2005 - art. 2 (V)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R*814-5 (Ab)
+	  - Code de l'organisation judiciaire - art. R123-24 (V)
+	  - Code de procédure pénale - art. 835 (V)
+	  - Code de procédure pénale - art. R249-5 (V)
 
 
 ##### Paragraphe 3 : De la convocation par procès-verbal et de la comparution immédiate
@@ -15430,7 +15695,7 @@ Les décisions prévues au présent article sont des mesures d'administration no
 
 	**Modifié par**:
 
-	  - Loi n°75-701 1975-08-06 art. 6 JORF 7 août 1975 en vigueur le 1er janvier 1976
+	  - Loi n°93-1013 1993-08-24 art. 18 JORF 25 août 1993 en vigueur le 2 septembre 1993
 
 	**Liens**:
 
@@ -15603,6 +15868,10 @@ Le président a la police de l'audience et la direction des débats.
 
 	  - Ordonnance 58-1296 1958-12-23
 
+	**Modifié par**:
+
+	  - Loi n°93-1013 1993-08-24 art. 28 JORF 25 août 1993 en vigueur le 2 septembre 1993
+
 	**Cité par**:
 
 	  - CODE DE PROCEDURE PENALE - art. 442-1 (V)
@@ -15706,6 +15975,10 @@ interprètes.
 	**Codifié par**:
 
 	  - Ordonnance 58-1296 1958-12-23
+
+	**Modifié par**:
+
+	  - Loi n°93-1013 1993-08-24 art. 28 JORF 25 août 1993 en vigueur le 2 septembre 1993
 
 	**Cité par**:
 
@@ -16276,6 +16549,10 @@ Le désistement de la partie civile ne met pas obstacle à l'action civile devan
 
 	  - Ordonnance 58-1296 1958-12-23
 
+	**Modifié par**:
+
+	  - Loi n°93-1013 1993-08-24 art. 18 JORF 25 août 1993 en vigueur le 2 septembre 1993
+
 
 ##### Paragraphe 3 : De l'administration de la preuve
 
@@ -16298,6 +16575,10 @@ discutées devant lui.
 
 	  - Ordonnance 58-1296 1958-12-23
 
+	**Modifié par**:
+
+	  - Loi n°93-1013 1993-08-24 art. 28 JORF 25 août 1993 en vigueur le 2 septembre 1993
+
 
 ###### Article 428
 
@@ -16313,6 +16594,10 @@ L'aveu, comme tout élément de preuve, est laissé à la libre appréciation de
 	**Codifié par**:
 
 	  - Ordonnance 58-1296 1958-12-23
+
+	**Modifié par**:
+
+	  - Loi n°93-1013 1993-08-24 art. 28 JORF 25 août 1993 en vigueur le 2 septembre 1993
 
 
 ###### Article 429
@@ -16330,6 +16615,10 @@ de ses fonctions et a rapporté sur une matière de sa compétence ce qu'il a vu
 	**Codifié par**:
 
 	  - Ordonnance 58-1296 1958-12-23
+
+	**Modifié par**:
+
+	  - Loi n°93-1013 1993-08-24 art. 28 JORF 25 août 1993 en vigueur le 2 septembre 1993
 
 	**Cité par**:
 
@@ -16354,6 +16643,10 @@ titre de simples renseignements.
 
 	  - Ordonnance 58-1296 1958-12-23
 
+	**Modifié par**:
+
+	  - Loi n°93-1013 1993-08-24 art. 28 JORF 25 août 1993 en vigueur le 2 septembre 1993
+
 
 ###### Article 431
 
@@ -16372,6 +16665,10 @@ par des procès-verbaux ou des rapports, la preuve contraire ne peut être rappo
 
 	  - Ordonnance 58-1296 1958-12-23
 
+	**Modifié par**:
+
+	  - Loi n°93-1013 1993-08-24 art. 28 JORF 25 août 1993 en vigueur le 2 septembre 1993
+
 	**Cité par**:
 
 	  - Code forestier - art. L342-6 (Ab)
@@ -16384,13 +16681,19 @@ La preuve par écrit ne peut résulter de la correspondance échangée entre le 
 
 **Liens relatifs à cet article**
 
+	**Liens**:
+
+	  - SPEC_APPLI: Ordonnance 58-1273 1958-12-22 art. 18
+	  - SPEC_APPLI: Ordonnance n°58-1296 du 23 décembre 1958 - art. 10, v. init.
+
 	**Codifié par**:
 
 	  - Ordonnance 58-1296 1958-12-23
 
 	**Modifié par**:
 
-	  - Loi n°93-2 du 4 janvier 1993 - art. 224 () JORF 5 janvier 1993 en vigueur le 1er mars 1993
+	  - Loi n°93-2 du 4 janvier 1993 - art. 93 () JORF 5 janvier 1993 en vigueur le 1er octobre 1994
+	  - Loi n°93-1013 1993-08-24 art. 28 JORF 25 août 1993 en vigueur le 2 septembre 1993
 
 
 ###### Article 433
@@ -16409,6 +16712,10 @@ défaut de disposition expresse la procédure de l'inscription de faux est régl
 
 	  - Ordonnance 58-1296 1958-12-23
 
+	**Modifié par**:
+
+	  - Loi n°93-1013 1993-08-24 art. 28 JORF 25 août 1993 en vigueur le 2 septembre 1993
+
 
 ###### Article 434
 
@@ -16420,6 +16727,10 @@ Si le tribunal estime qu'une expertise est nécessaire, il est procédé conform
 
 	  - Ordonnance 58-1296 1958-12-23
 
+	**Modifié par**:
+
+	  - Loi n°93-1013 1993-08-24 art. 28 JORF 25 août 1993 en vigueur le 2 septembre 1993
+
 	**Cite**:
 
 	  - CODE DE PROCEDURE PENALE - art. 168 (M)
@@ -16429,10 +16740,6 @@ Si le tribunal estime qu'une expertise est nécessaire, il est procédé conform
 	**Cité par**:
 
 	  - CODE DE PROCEDURE PENALE - art. 706-16 (M)
-
-	**Modifié par**:
-
-	  - Ordonnance 60-259 1960-06-04 art. 2 JORF 8 juin 1960
 
 
 ###### Article 435
@@ -16449,6 +16756,10 @@ Les témoins sont cités ainsi qu'il est dit aux articles 550 et suivants.
 	**Codifié par**:
 
 	  - Ordonnance 58-1296 1958-12-23
+
+	**Modifié par**:
+
+	  - Loi n°93-1013 1993-08-24 art. 28 JORF 25 août 1993 en vigueur le 2 septembre 1993
 
 	**Cite**:
 
@@ -16471,6 +16782,10 @@ empêcher les témoins de conférer entre eux avant leur déposition.
 	**Codifié par**:
 
 	  - Ordonnance 58-1296 1958-12-23
+
+	**Modifié par**:
+
+	  - Loi n°93-1013 1993-08-24 art. 28 JORF 25 août 1993 en vigueur le 2 septembre 1993
 
 	**Cite**:
 
@@ -16496,6 +16811,10 @@ Toute personne citée pour être entendue comme témoin est tenue de comparaîtr
 
 	  - Ordonnance 58-1296 1958-12-23
 
+	**Modifié par**:
+
+	  - Loi n°93-1013 1993-08-24 art. 28 JORF 25 août 1993 en vigueur le 2 septembre 1993
+
 
 ###### Article 438
 
@@ -16513,6 +16832,10 @@ réquisitions du ministère public, condamné par le tribunal à la peine porté
 
 	  - Ordonnance 58-1296 1958-12-23
 
+	**Modifié par**:
+
+	  - Loi n°93-1013 1993-08-24 art. 28 JORF 25 août 1993 en vigueur le 2 septembre 1993
+
 	**Cite**:
 
 	  - CODE DE PROCEDURE PENALE - art. 109 (M)
@@ -16528,26 +16851,22 @@ Si le témoin ne comparaît pas, et s'il n'a pas fait valoir un motif d'excuse r
 sur réquisitions du ministère public ou même d'office, ordonner que ce témoin soit immédiatement amené devant lui par la
 force publique pour y être entendu, ou renvoyer l'affaire à une prochaine audience.
 
-En ce dernier cas, tous les frais de citation, d'actes, de voyage de témoins et autres, ayant pour objet de faire juger
-l'affaire, sont, hors le cas d'excuse légitime, à la charge de ce témoin. Sur la réquisition du ministère public, le jugement
-qui ordonne le renvoi des débats le condamne, même par corps, au paiement de ces frais.
-
 **Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - SPEC_APPLI: Ordonnance 58-1273 1958-12-22 art. 18
-	  - SPEC_APPLI: Ordonnance n°58-1296 du 23 décembre 1958 - art. 10, v. init.
 
 	**Codifié par**:
 
 	  - Ordonnance 58-1296 1958-12-23
 
+	**Modifié par**:
+
+	  - Loi n°93-2 du 4 janvier 1993 - art. 93 () JORF 5 janvier 1993 en vigueur le 1er mars 1993
+	  - Loi n°93-1013 1993-08-24 art. 28 JORF 25 août 1993 en vigueur le 2 septembre 1993
+
 
 ###### Article 440
 
 Le témoin qui a été condamné à une amende ou aux frais pour non-comparution peut, au plus tard dans les cinq jours de la
-signification de cette décision faite à sa personne ou à son domicile, former opposition.
+signification de cette décision faite à sa personne ou à son domicile former opposition.
 
 La voie de l'appel ne lui est ouverte que sur le jugement rendu sur cette opposition.
 
@@ -16561,6 +16880,10 @@ La voie de l'appel ne lui est ouverte que sur le jugement rendu sur cette opposi
 	**Codifié par**:
 
 	  - Ordonnance 58-1296 1958-12-23
+
+	**Modifié par**:
+
+	  - Loi n°93-1013 1993-08-24 art. 28 JORF 25 août 1993 en vigueur le 2 septembre 1993
 
 
 ###### Article 441
@@ -16578,11 +16901,15 @@ Le témoin qui a été condamné pour refus de prêter serment ou de déposer pe
 
 	  - Ordonnance 58-1296 1958-12-23
 
+	**Modifié par**:
+
+	  - Loi n°93-1013 1993-08-24 art. 28 JORF 25 août 1993 en vigueur le 2 septembre 1993
+
 
 ###### Article 442
 
-Avant de procéder à l'audition des témoins, le président interroge le prévenu et reçoit ses déclarations [*formalité*]. Le
-ministère public, ainsi que la partie civile et la défense, celles-ci par l'intermédiaire du président, peuvent lui poser des
+Avant de procéder à l'audition des témoins, le président interroge le prévenu et reçoit ses déclarations. Le ministère
+public, ainsi que la partie civile et la défense, celles-ci par l'intermédiaire du président, peuvent lui poser des
 questions.
 
 **Liens relatifs à cet article**
@@ -16596,9 +16923,9 @@ questions.
 
 	  - Ordonnance 58-1296 1958-12-23
 
-	**Abrogé par**:
+	**Modifié par**:
 
-	  - Loi n°93-2 du 4 janvier 1993 - art. 95 (MMN) JORF 5 janvier 1993 en vigueur le 1er octobre 1994
+	  - Loi n°93-1013 1993-08-24 art. 28 JORF 25 août 1993 en vigueur le 2 septembre 1993
 
 	**Cité par**:
 
@@ -16620,6 +16947,10 @@ sont applicables.
 	**Codifié par**:
 
 	  - Ordonnance 58-1296 1958-12-23
+
+	**Modifié par**:
+
+	  - Loi n°93-1013 1993-08-24 art. 28 JORF 25 août 1993 en vigueur le 2 septembre 1993
 
 	**Cite**:
 
@@ -16646,7 +16977,7 @@ sont présentes à l'ouverture des débats sans avoir été régulièrement cit�
 
 	**Modifié par**:
 
-	  - Ordonnance 60-1067 1960-10-06 art. 2 JORF 7 octobre 1960
+	  - Loi n°93-1013 1993-08-24 art. 28 JORF 25 août 1993 en vigueur le 2 septembre 1993
 
 
 ###### Article 445
@@ -16668,6 +16999,10 @@ civilement responsable, ou la partie civile.
 
 	  - Ordonnance 58-1296 1958-12-23
 
+	**Modifié par**:
+
+	  - Loi n°93-1013 1993-08-24 art. 28 JORF 25 août 1993 en vigueur le 2 septembre 1993
+
 
 ###### Article 446
 
@@ -16683,6 +17018,10 @@ Avant de commencer leur déposition, les témoins prêtent le serment de dire to
 	**Codifié par**:
 
 	  - Ordonnance 58-1296 1958-12-23
+
+	**Modifié par**:
+
+	  - Loi n°93-1013 1993-08-24 art. 28 JORF 25 août 1993 en vigueur le 2 septembre 1993
 
 	**Cité par**:
 
@@ -16703,6 +17042,10 @@ Les enfants au-dessous de l'âge de seize ans sont entendus sans prestation de s
 	**Codifié par**:
 
 	  - Ordonnance 58-1296 1958-12-23
+
+	**Modifié par**:
+
+	  - Loi n°93-1013 1993-08-24 art. 28 JORF 25 août 1993 en vigueur le 2 septembre 1993
 
 
 ###### Article 448
@@ -16731,6 +17074,10 @@ affaire ;
 
 	  - Ordonnance 58-1296 1958-12-23
 
+	**Modifié par**:
+
+	  - Loi n°93-1013 1993-08-24 art. 28 JORF 25 août 1993 en vigueur le 2 septembre 1993
+
 	**Cité par**:
 
 	  - Code de procédure pénale - art. D47-20 (V)
@@ -16751,6 +17098,10 @@ aucune des parties ne s'y sont opposés.
 	**Codifié par**:
 
 	  - Ordonnance 58-1296 1958-12-23
+
+	**Modifié par**:
+
+	  - Loi n°93-1013 1993-08-24 art. 28 JORF 25 août 1993 en vigueur le 2 septembre 1993
 
 	**Cite**:
 
@@ -16774,6 +17125,10 @@ Le président lui rappellera, s'il y a lieu, le serment qu'il a prêté.
 
 	  - Ordonnance 58-1296 1958-12-23
 
+	**Modifié par**:
+
+	  - Loi n°93-1013 1993-08-24 art. 28 JORF 25 août 1993 en vigueur le 2 septembre 1993
+
 
 ###### Article 451
 
@@ -16794,6 +17149,11 @@ ait opposition d'une des parties, ou du ministère public.
 
 	  - Ordonnance 58-1296 1958-12-23
 
+	**Modifié par**:
+
+	  - Loi n°93-2 du 4 janvier 1993 - art. 93 () JORF 5 janvier 1993 en vigueur le 1er mars 1993
+	  - Loi n°93-1013 1993-08-24 art. 28 JORF 25 août 1993 en vigueur le 2 septembre 1993
+
 
 ###### Article 452
 
@@ -16811,6 +17171,11 @@ Toutefois ils peuvent, exceptionnellement, s'aider de documents avec l'autorisat
 	**Codifié par**:
 
 	  - Ordonnance 58-1296 1958-12-23
+
+	**Modifié par**:
+
+	  - Loi n°93-2 du 4 janvier 1993 - art. 93 () JORF 5 janvier 1993 en vigueur le 1er mars 1993
+	  - Loi n°93-1013 1993-08-24 art. 28 JORF 25 août 1993 en vigueur le 2 septembre 1993
 
 
 ###### Article 453
@@ -16831,6 +17196,10 @@ suivent chaque audience.
 	**Codifié par**:
 
 	  - Ordonnance 58-1296 1958-12-23
+
+	**Modifié par**:
+
+	  - Loi n°93-1013 1993-08-24 art. 28 JORF 25 août 1993 en vigueur le 2 septembre 1993
 
 
 ###### Article 454
@@ -16855,6 +17224,10 @@ lieu après d'autres dépositions avec ou sans confrontation.
 
 	  - Ordonnance 58-1296 1958-12-23
 
+	**Modifié par**:
+
+	  - Loi n°93-1013 1993-08-24 art. 28 JORF 25 août 1993 en vigueur le 2 septembre 1993
+
 
 ###### Article 455
 
@@ -16872,15 +17245,24 @@ reçoit leurs observations.
 
 	  - Ordonnance 58-1296 1958-12-23
 
+	**Modifié par**:
+
+	  - Loi n°93-1013 1993-08-24 art. 28 JORF 25 août 1993 en vigueur le 2 septembre 1993
+
 
 ###### Article 456
 
 Le tribunal, soit d'office, soit à la demande du ministère public, de la partie civile ou du prévenu, peut ordonner tous
-transports utiles en vue de la manifestation de la vérité. 
+transports utiles en vue de la manifestation de la vérité.
 
 Les parties et leurs avocats sont appelés à y assister. Il est dressé procès-verbal de ces opérations.
 
 **Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: Ordonnance 58-1273 1958-12-22 art. 18
+	  - SPEC_APPLI: Ordonnance n°58-1296 du 23 décembre 1958 - art. 10, v. init.
 
 	**Codifié par**:
 
@@ -16888,7 +17270,8 @@ Les parties et leurs avocats sont appelés à y assister. Il est dressé procès
 
 	**Modifié par**:
 
-	  - Loi n°93-2 du 4 janvier 1993 - art. 224 () JORF 5 janvier 1993 en vigueur le 1er mars 1993
+	  - Loi n°93-2 du 4 janvier 1993 - art. 93 () JORF 5 janvier 1993 en vigueur le 1er octobre 1994
+	  - Loi n°93-1013 1993-08-24 art. 28 JORF 25 août 1993 en vigueur le 2 septembre 1993
 
 
 ###### Article 457
@@ -16919,6 +17302,10 @@ Ce procès-verbal et une expédition des notes d'audience sont transmis sans dé
 	**Codifié par**:
 
 	  - Ordonnance 58-1296 1958-12-23
+
+	**Modifié par**:
+
+	  - Loi n°93-1013 1993-08-24 art. 28 JORF 25 août 1993 en vigueur le 2 septembre 1993
 
 	**Cité par**:
 
@@ -20010,6 +20397,10 @@ articles 458 à 461 concernant la discussion par les parties ; par l'article 462
 
 	  - Ordonnance 58-1296 1958-12-23
 
+	**Modifié par**:
+
+	  - Loi n°93-1013 1993-08-24 art. 28 JORF 25 août 1993 en vigueur le 2 septembre 1993
+
 	**Cité par**:
 
 	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L623-1 (Ab)
@@ -20934,18 +21325,21 @@ de voie de recours, il rend une ordonnance de non-admission du pourvoi. Sa déci
 ###### Article 567-2
 
 La chambre criminelle saisie d'un pourvoi contre un arrêt de la chambre de l'instruction rendu en matière de détention
-provisoire doit statuer dans les trois mois qui suivent la réception du dossier à la Cour de cassation, faute de quoi
-l'inculpé est mis d'office en liberté. 
+provisoire doit statuer dans les trois mois qui suivent la réception du dossier à la Cour de cassation, faute de quoi la
+personne mise en examen est mise d'office en liberté.
 
 Le demandeur en cassation ou son avocat doit, à peine de déchéance, déposer son mémoire exposant les moyens de cassation dans
-le délai d'un mois à compter de la réception du dossier, sauf décision du président de la chambre criminelle prorogeant,
-
-à titre exceptionnel, le délai pour une durée de huit jours. Après l'expiration de ce délai, aucun moyen nouveau ne peut être
-soulevé par lui et il ne peut plus être déposé de mémoire. 
+le délai d'un mois à compter de la réception du dossier, sauf décision du président de la chambre criminelle prorogeant, à
+titre exceptionnel, le délai pour une durée de huit jours. Après l'expiration de ce délai, aucun moyen nouveau ne peut être
+soulevé par lui et il ne peut plus être déposé de mémoire.
 
 Dès le dépôt du mémoire, le président de la chambre criminelle fixe la date de l'audience.
 
 **Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°85-1407, 1985-12-30, art. 94
 
 	**Codifié par**:
 
@@ -20953,19 +21347,13 @@ Dès le dépôt du mémoire, le président de la chambre criminelle fixe la date
 
 	**Modifié par**:
 
-	  - Loi n°81-82 du 2 février 1981 - art. 44 () JORF 3 février 1981
-	  - Loi n°83-466 du 10 juin 1983 - art. 38 () JORF 11 juin 1983 en vigueur le 27 juin 1983
-	  - Loi n°85-1407 1985-12-30 art. 52-I, art. 52-II et art. 94 JORF 31 décembre 1985 en vigueur le 1er février 1986
+	  - Loi n°93-1013 1993-08-24 art. 46 JORF 25 août 1993 en vigueur le 2 septembre 1993
 
 	**Cité par**:
 
 	  - Code de procédure pénale - art. 590-2 (V)
 	  - Code de procédure pénale - art. 728-53 (V)
 	  - Code de procédure pénale - art. R*49-30 (VD)
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°85-1407, 1985-12-30, art. 94
 
 
 ###### Article 568
@@ -21056,15 +21444,18 @@ Lorsque le tribunal ou la cour d'appel statue par jugement ou arrêt distinct de
 est immédiatement recevable si cette décision met fin à la procédure. Si le président de la chambre criminelle constate
 qu'une décision a été à tort considérée par la partie intéressée comme mettant fin à la procédure, il apprécie si le pourvoi
 doit néanmoins être reçu dans l'intérêt de l'ordre public ou d'une bonne administration de la justice, ou si, au contraire,
-il ne doit pas être reçu, et rend d'office à cet effet une ordonnance d'admission ou de non-admission.
+il ne doit pas être reçu, et rend d'office à cet effet une ordonnance d'admission ou de non-admission. 
 
 Dans le cas où la décision n'a pas mis fin à la procédure et jusqu'à l'expiration des délais de pourvoi, l'arrêt n'est pas
-exécutoire et la cour d'appel ne peut statuer au fond.
+exécutoire et la cour d'appel ne peut statuer au fond. 
 
 Si aucun pourvoi n'a été interjeté ou si, avant l'expiration du délai du pourvoi, la partie demanderesse au pourvoi n'a pas
 déposé au greffe la requête prévue par l'alinéa suivant, le jugement ou l'arrêt est exécutoire et le tribunal ou la cour
-d'appel statue au fond. Dans ce cas, si la procédure a été néanmoins transmise à la Cour de cassation, le président de la
-chambre criminelle ordonne qu'il en soit fait retour à la juridiction saisie.
+d'appel statue au fond. Il en est de même, nonobstant les dispositions de l'alinéa suivant, en cas d'arrêt rendu soit sur
+appel d'une ordonnance du juge d'instruction en application des articles 81, neuvième alinéa, 82-1, deuxième alinéa, 156,
+deuxième alinéa, ou 167, quatrième alinéa, soit en raison du défaut, par le juge d'instruction, d'avoir rendu une telle
+ordonnance. Dans ces cas, si la procédure a été néanmoins transmise à la Cour de cassation, le président de la chambre
+criminelle ordonne qu'il en soit fait retour à la juridiction saisie. 
 
 Le demandeur en cassation peut déposer au greffe, avant l'expiration des délais de pourvoi, une requête adressée au président
 de la chambre criminelle de la Cour de cassation et tendant à faire déclarer son pourvoi immédiatement recevable.
@@ -21077,7 +21468,14 @@ de la chambre criminelle de la Cour de cassation et tendant à faire déclarer s
 
 	**Modifié par**:
 
-	  - Ordonnance 60-529 1960-06-04 art. 2 JORF 8 juin 1960
+	  - Loi n°93-1013 1993-08-24 art. 41 JORF 25 août 1993 en vigueur le 2 septembre 1993
+
+	**Cite**:
+
+	  - Code de procédure pénale - art. 156 (V)
+	  - Code de procédure pénale - art. 167 (V)
+	  - Code de procédure pénale - art. 81 (V)
+	  - Code de procédure pénale - art. 82-1 (V)
 
 	**Cité par**:
 
@@ -21106,7 +21504,12 @@ devant elle une exception tirée de ce que le pourvoi formé contre la décision
 du jugement ou de l'arrêt est suspendue jusqu'à ce qu'intervienne l'arrêt de la chambre criminelle.
 
 Les dispositions de l'article 570 et du présent article sont applicables aux pourvois formés contre les arrêts préparatoires,
-interlocutoires ou d'instruction rendus par les chambres d'accusation.
+interlocutoires ou d'instruction rendus par les chambres d'accusation à l'exception des arrêts visés au troisième alinéa de
+l'article 570.
+
+Lorsque le président de la chambre criminelle déclare immédiatement recevable le pourvoi formé contre un arrêt de la chambre
+de l'instruction, saisie par application de l'article 173, il peut ordonner au juge d'instruction saisi de suspendre son
+information, à l'exception des actes urgents.
 
 **Liens relatifs à cet article**
 
@@ -21116,10 +21519,11 @@ interlocutoires ou d'instruction rendus par les chambres d'accusation.
 
 	**Modifié par**:
 
-	  - Ordonnance 60-529 1960-06-04 art. 2 JORF 8 juin 1960
+	  - Loi n°93-1013 1993-08-24 art. 41 JORF 25 août 1993 en vigueur le 2 septembre 1993
 
 	**Cite**:
 
+	  - CODE DE PROCEDURE PENALE - art. 173 (M)
 	  - CODE DE PROCEDURE PENALE - art. 570 (M)
 
 	**Cité par**:
@@ -21254,21 +21658,21 @@ S'il n'est pas statué dans le délai prévu au premier alinéa, le prévenu est
 ###### Article 575
 
 La partie civile ne peut se pourvoir en cassation contre les arrêts de la chambre de l'instruction que s'il y a pourvoi du
-ministère public. 
+ministère public.
 
 Toutefois, son seul pourvoi est recevable dans les cas suivants :
 
-1° Lorsque l'arrêt de la chambre de l'instruction a dit n'y avoir lieu à informer ; 
+1° Lorsque l'arrêt de la chambre de l'instruction a dit n'y avoir lieu à informer ;
 
-2° Lorsque l'arrêt a déclaré l'irrecevabilité de l'action de la partie civile ; 
+2° Lorsque l'arrêt a déclaré l'irrecevabilité de l'action de la partie civile ;
 
-3° Lorsque l'arrêt a admis une exception mettant fin à l'action publique ; 
+3° Lorsque l'arrêt a admis une exception mettant fin à l'action publique ;
 
-4° Lorsque l'arrêt a, d'office ou sur déclinatoire des parties, prononcé l'incompétence de la juridiction saisie ; 
+4° Lorsque l'arrêt a, d'office ou sur déclinatoire des parties, prononcé l'incompétence de la juridiction saisie ;
 
-5° Lorsque l'arrêt a omis de statuer sur un chef d'inculpation. 
+5° Lorsque l'arrêt a omis de statuer sur un chef de mise en examen ;
 
-6° Lorsque l'arrêt ne satisfait pas, en la forme, aux conditions essentielles de son existence légale ; 
+6° Lorsque l'arrêt ne satisfait pas, en la forme, aux conditions essentielles de son existence légale ;
 
 7° En matière d'atteintes aux droits individuels telles que définies aux articles 114 à 122 et 341 à 344 du code pénal.
 
@@ -21280,8 +21684,7 @@ Toutefois, son seul pourvoi est recevable dans les cas suivants :
 
 	**Modifié par**:
 
-	  - Ordonnance 60-529 1960-06-04 art. 2 JORF 8 juin 1960
-	  - Loi n°70-643 du 17 juillet 1970 - art. 18 () JORF 19 juillet 1970
+	  - Loi n°93-1013 1993-08-24 art. 46 JORF 25 août 1993 en vigueur le 2 septembre 1993
 
 	**Cite**:
 
@@ -21488,6 +21891,28 @@ Dans tous les cas, le mémoire doit être accompagné d'autant de copies qu'il y
 	**Codifié par**:
 
 	  - Ordonnance 58-1296 1958-12-23
+
+
+###### Article 585-1
+
+Sauf dérogation accordée par le président de la chambre criminelle, le mémoire du demandeur condamné pénalement doit parvenir
+au greffe de la Cour de cassation un mois au plus tard après la date du pourvoi.
+
+Il en est de même pour la déclaration de l'avocat qui se constitue au nom d'un demandeur au pourvoi.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 58-1296 1958-12-23
+
+	**Créé par**:
+
+	  - Loi n°93-1013 1993-08-24 art. 42 JORF 25 août 1993 en vigueur le 2 septembre 1993
+
+	**Cité par**:
+
+	  - Code de procédure pénale - art. 590-1 (V)
 
 
 ###### Article 586
@@ -22003,6 +22428,34 @@ procès et les parties devant une juridiction de même ordre et degré que celle
 	  - Ordonnance 58-1296 1958-12-23
 
 
+###### Article 609-1
+
+Lorsque la Cour de cassation annule un arrêt d'une chambre de l'instruction statuant sur un appel d'une ordonnance de
+règlement ou de transmission de pièces, elle renvoie le procès et les parties devant une autre chambre de l'instruction qui
+devient compétente pour la poursuite de l'ensemble de la procédure.
+
+Lorsque la Cour de cassation annule un arrêt de chambre de l'instruction autre que ceux visés à l'alinéa précédent, la
+compétence de la chambre de l'instruction de renvoi est limitée, sauf si la Cour de cassation en décide autrement, à la
+solution du contentieux qui a motivé sa saisine et, après décision définitive, sous la réserve des dispositions du premier
+alinéa de l'article 207, il est fait retour du dossier à la chambre de l'instruction primitivement saisie, aux fins prévues,
+s'il y a lieu, par le deuxième alinéa dudit article ou par le troisième alinéa de l'article 206.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 58-1296 1958-12-23
+
+	**Créé par**:
+
+	  - Loi n°93-1013 1993-08-24 art. 43 JORF 25 août 1993 en vigueur le 2 septembre 1993
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. 206 (M)
+	  - CODE DE PROCEDURE PENALE - art. 207 (M)
+
+
 ###### Article 610
 
 En matière criminelle, la Cour de cassation prononce le renvoi du procès, savoir : 
@@ -22064,6 +22517,23 @@ dispositions.
 	**Codifié par**:
 
 	  - Ordonnance 58-1296 1958-12-23
+
+
+###### Article 612-1
+
+En toute matière, lorsque l'intérêt de l'ordre public ou d'une bonne administration de la justice le commande, la Cour de
+cassation peut ordonner que l'annulation qu'elle prononce aura effet à l'égard des parties à la procédure qui ne se sont pas
+pourvues.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 58-1296 1958-12-23
+
+	**Créé par**:
+
+	  - Loi n°93-1013 1993-08-24 art. 26 JORF 25 août 1993 en vigueur le 2 septembre 1993
 
 
 ###### Article 613
@@ -31312,9 +31782,10 @@ est prorogé jusqu'au premier jour ouvrable suivant.
 
 ###### Article 802
 
-Hors les cas prévus par l'article 171, la nullité ne peut être prononcée que lorsque la violation des formes prescrites par
-la loi ou la méconnaissance d'une formalité substantielle a eu pour effet de porter atteinte aux intérêts de la partie
-concernée.
+En cas de violation des formes prescrites par la loi à peine de nullité ou d'inobservation des formalités substantielles,
+toute juridiction, y compris la Cour de cassation, qui est saisie d'une demande d'annulation ou qui relève d'office une telle
+irrégularité ne peut prononcer la nullité que lorsque celle-ci a eu pour effet de porter atteinte aux intérêts de la partie
+qu'elle concerne.
 
 **Liens relatifs à cet article**
 
@@ -31324,11 +31795,7 @@ concernée.
 
 	**Modifié par**:
 
-	  - Loi n°93-2 du 4 janvier 1993 - art. 82 () JORF 5 janvier 1993 en vigueur le 1er mars 1993
-
-	**Cite**:
-
-	  - CODE DE PROCEDURE PENALE - art. 171 (M)
+	  - Loi n°93-1013 1993-08-24 art. 27 JORF 25 août 1993 en vigueur le 2 septembre 1993
 
 
 ###### Article 803
