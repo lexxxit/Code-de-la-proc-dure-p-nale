@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 2001-10-01
+Version Consolidée au 2001-11-16
 
 # Partie législative
 
@@ -1600,8 +1600,8 @@ Sont agents de police judiciaire :
 d'officier de police judiciaire ainsi que les fonctionnaires stagiaires de ce même corps, et les élèves lieutenants de
 police ;
 
-3° Les fonctionnaires du corps de maîtrise et d'application de la police nationale qui comptent au moins deux ans de services
-en qualité de titulaires, sous réserve des dispositions concernant les fonctionnaires visés au 4° et au 5° ci-après ;
+3° Les fonctionnaires titulaires du corps de maîtrise et d'application de la police nationale n'ayant pas la qualité
+d'officier de police judiciaire, sous réserve des dispositions concernant les fonctionnaires visés au 4° et au 5° ci-après ;
 
 4° Les gardiens de la paix issus de l'ancien corps des gradés et gardiens de la police nationale nommés stagiaires avant le
 31 décembre 1985, lorsqu'ils comptent au moins deux ans de services en qualité de titulaires et ont satisfait aux épreuves
@@ -1712,10 +1712,11 @@ Les agents de police judiciaire n'ont pas qualité pour décider des mesures de 
 	**Liens**:
 
 	  - SPEC_APPLI: Loi n°85-1196 1985-11-18 art. 8 Loi 96-647 1996-07-22 art. 27
+	  - SPEC_APPLI: Loi n°2001-1062 du 15 novembre 2001 - art. 71 (M)
 
 	**Modifié par**:
 
-	  - Loi n°96-647 du 22 juillet 1996 - art. 21 () JORF 23 juillet 1996
+	  - Loi n°2001-1062 du 15 novembre 2001 - art. 13 () JORF 16 novembre 2001
 
 
 ###### Article 21
@@ -1725,6 +1726,11 @@ Sont agents de police judiciaire adjoints :
 1° Les fonctionnaires des services actifs de police nationale ne remplissant pas les conditions prévues par l'article 20 ;
 
 1° bis Les volontaires servant en qualité de militaire dans la gendarmerie ;
+
+1° ter Les adjoints de sécurité mentionnés à l'article 36 de la loi n° 95-73 du 21 janvier 1995 d'orientation et de
+programmation relative à la sécurité ;
+
+1° quater Les agents de surveillance de Paris ;
 
 2° Les agents de police municipale.
 
@@ -1736,7 +1742,10 @@ De rendre compte à leurs chefs hiérarchiques de tous crimes, délits ou contra
 
 De constater, en se conformant aux ordres de leurs chefs, les infractions à la loi pénale et de recueillir tous les
 renseignements en vue de découvrir les auteurs de ces infractions, le tout dans le cadre et dans les formes prévues par les
-lois organiques ou spéciales qui leur sont propres.
+lois organiques ou spéciales qui leur sont propres ;
+
+De constater par procès-verbal les contraventions aux dispositions du code de la route dont la liste est fixée par décret en
+Conseil d'Etat.
 
 **Liens relatifs à cet article**
 
@@ -1841,18 +1850,19 @@ lois organiques ou spéciales qui leur sont propres.
 
 	**Liens**:
 
-	  - SPEC_APPLI: Loi n°85-1196 1985-11-18 art. 8
+	  - SPEC_APPLI: Loi n°85-1196 1985-11-18 art. 8 Loi 2001-1062 2001-11-15 art. 71
 	  - TXT_SOURCE: Décret n°2002-1256 du 15 octobre 2002
 	  - TXT_SOURCE: Décret n°2002-1256 du 15 octobre 2002 - art. 1 (V)
 	  - TXT_SOURCE: Décret n°2002-1256 du 15 octobre 2002 - art. 9 (V)
 
-	**Modifié par**:
-
-	  - Loi n°97-1019 du 28 octobre 1997 - art. 6 () JORF 8 novembre 1997
-
 	**Cite**:
 
+	  - Loi n°95-73 du 21 janvier 1995 - art. 36 (M)
 	  - CODE DE PROCEDURE PENALE - art. 20 (M)
+
+	**Modifié par**:
+
+	  - Loi n°2001-1062 du 15 novembre 2001 - art. 13 () JORF 16 novembre 2001
 
 
 ###### Article 21-1
@@ -2717,7 +2727,7 @@ La procédure prévue au présent article suspend la prescription de l'action pu
 
 Le procureur de la République, tant que l'action publique n'a pas été mise en mouvement, peut proposer, directement ou par
 l'intermédiaire d'une personne habilitée, une composition pénale à une personne majeure qui reconnaît avoir commis un ou
-plusieurs délits prévus par les articles 222-11, 222-13 (1° à 10°), 222-16, 222-17, 222-18 (premier alinéa), 227-3 à 227-7,
+plusieurs délits prévus par les articles 222-11, 222-13 (1° à 11°), 222-16, 222-17, 222-18 (premier alinéa), 227-3 à 227-7,
 227-9 à 227-11, 311-3, 313-5, 314-5, 314-6, 322-1, 322-2, 322-12 à 322-14, 433-5 à 433-7 et 521-1 du code pénal, par les
 articles 28 et 32 du décret-loi du 18 avril 1939 fixant le régime des matériels de guerre, armes et munitions, par l'article
 L. 1er du code de la route et par l'article L. 628 du code de la santé publique, qui consiste en une ou plusieurs des mesures
@@ -2825,9 +2835,13 @@ Les modalités d'application du présent article sont fixées par décret en Con
 
 	  - Loi n°57-1426 1957-12-31
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°99-515 du 23 juin 1999 - art. 1 () JORF 24 juin 1999
+	  - Loi n°2001-1062 du 15 novembre 2001 - art. 54 () JORF 16 novembre 2001
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°2001-1062 du 15 novembre 2001 - art. 71 (M)
 
 	**Cite**:
 
@@ -3845,15 +3859,8 @@ infraction ne peuvent être retenues que le temps strictement nécessaire à leu
 
 ###### Article 62-1
 
-Les personnes à l'encontre desquelles il n'existe aucun indice faisant présumer qu'elles ont commis ou tenté de commettre une
-infraction et qui sont susceptibles d'apporter des éléments de preuves intéressant l'enquête peuvent, sur autorisation du
-procureur de la République, déclarer comme domicile l'adresse du commissariat ou de la brigade de gendarmerie.
-
 Les personnels visés aux articles 16 à 29 concourant à la procédure sont autorisés à déclarer comme domicile l'adresse du
 siège du service dont ils dépendent.
-
-L'adresse des personnes ayant bénéficié des dispositions du premier alinéa est inscrite sur un registre coté, paraphé, ouvert
-à cet effet. Un décret en Conseil d'Etat fixe les conditions d'application de ces dispositions.
 
 **Liens relatifs à cet article**
 
@@ -3863,7 +3870,11 @@ L'adresse des personnes ayant bénéficié des dispositions du premier alinéa e
 
 	**Modifié par**:
 
-	  - Loi n°99-291 du 15 avril 1999 - art. 14 () JORF 16 avril 1999
+	  - Loi n°2001-1062 du 15 novembre 2001 - art. 57 () JORF 16 novembre 2001
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°2001-1062 du 15 novembre 2001 - art. 71 (M)
 
 	**Cité par**:
 
@@ -3876,7 +3887,7 @@ L'adresse des personnes ayant bénéficié des dispositions du premier alinéa e
 
 	**Cite**:
 
-	  - Code de procédure pénale 16 à 29
+	  - Code de procédure pénale - art. 16 (V)
 
 
 ###### Article 63
@@ -4634,6 +4645,56 @@ Les formes prévues par les articles 56 et 59 (premier alinéa) sont applicables
 	  - Code de procédure pénale 56 et 59
 
 
+###### Article 76-1
+
+Par dérogation aux deux premiers alinéas de l'article 76, si les nécessités de l'enquête relative à l'une des infractions en
+matière d'armes et d'explosifs visées par l'article 3 de la loi du 19 juin 1871 qui abroge le décret du 4 septembre 1870 sur
+la fabrication des armes de guerre et par les articles 20, 31 et 32 du décret du 18 avril 1939 fixant le régime des matériels
+de guerre, armes et munitions ou à l'un des crimes ou délits en matière de stupéfiants visés par les articles 222-34 à 222-38
+du code pénal l'exigent, le juge des libertés et de la détention du tribunal de grande instance peut, à la requête du
+procureur de la République, autoriser, par décision écrite et motivée, les officiers de police judiciaire, assistés, le cas
+échéant, des agents de police judiciaire et des agents de police judiciaire adjoints mentionnés aux 1°, 1° bis et 1° ter de
+l'article 21, à procéder à des perquisitions, visites domiciliaires et saisies de pièces à conviction sans l'assentiment de
+la personne chez laquelle elles ont lieu. La décision du juge des libertés et de la détention doit préciser la qualification
+des infractions dont la preuve est recherchée, les éléments de fait laissant présumer de leur existence ainsi que l'adresse
+des lieux dans lesquels les opérations doivent être effectuées. Les dispositions de l'article 57 sont alors applicables.
+
+Lorsque les perquisitions et saisies ne concernent pas des locaux d'habitation, le juge des libertés et de la détention peut
+autoriser leur réalisation en dehors des heures prévues à l'article 59.
+
+Le fait que les opérations prévues au présent article révèlent des infractions autres que celles visées dans la décision du
+juge des libertés et de la détention ne constitue pas une cause de nullité des procédures incidentes.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code pénal 222-34 à 222-38
+	  - CODE DE PROCEDURE PENALE - art. 21 (M)
+	  - CODE DE PROCEDURE PENALE - art. 57 (V)
+	  - CODE DE PROCEDURE PENALE - art. 59 (M)
+	  - CODE DE PROCEDURE PENALE - art. 76 (M)
+	  - Décret n°1870-09-04
+	  - Décret n°1939-04-18 art. 20, art. 31, art. 32
+	  - Loi n°1871-06-19 art. 3
+
+	**Codifié par**:
+
+	  - Loi n°57-1426 1957-12-31
+
+	**Créé par**:
+
+	  - Loi n°2001-1062 du 15 novembre 2001 - art. 24 () JORF 16 novembre 2001
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°2001-1062 du 15 novembre 2001 - art. 71 (M)
+
+	**Abrogé par**:
+
+	  - Loi n°2004-204 du 9 mars 2004 - art. 14 () JORF 10 mars 2004 en vigueur le 1er octobre 2004
+
+
 ###### Article 77
 
 L'officier de police judiciaire peut, pour les nécessités de l'enquête, garder à sa disposition toute personne à l'encontre
@@ -5024,6 +5085,61 @@ l'intéressé.
 	  - Code du travail - art. L341-6 (Ab)
 
 
+###### Article 78-2-2
+
+Sur réquisitions écrites du procureur de la République aux fins de recherche et de poursuite des actes de terrorisme visés
+par les articles 421-1 à 421-5 du code pénal, des infractions en matière d'armes et d'explosifs visées par l'article 3 de la
+loi du 19 juin 1871 précitée et par les articles 20, 31 et 32 du décret du 18 avril 1939 précité ou des faits de trafic de
+stupéfiants visés par les articles 222-34 à 222-38 du code pénal, les officiers de police judiciaire, assistés, le cas
+échéant, des agents de police judiciaire et des agents de police judiciaire adjoints mentionnés aux 1°, 1° bis et 1° ter de
+l'article 21, peuvent, dans les lieux et pour la période de temps que ce magistrat détermine, procéder non seulement aux
+contrôles d'identité prévus au sixième alinéa de l'article 78-2 mais aussi à la visite des véhicules circulant, arrêtés ou
+stationnant sur la voie publique ou dans des lieux accessibles au public.
+
+Pour l'application des dispositions du présent article, les véhicules en circulation ne peuvent être immobilisés que le temps
+strictement nécessaire au déroulement de la visite qui doit avoir lieu en présence du conducteur. Lorsqu'elle porte sur un
+véhicule à l'arrêt ou en stationnement, la visite se déroule en présence du conducteur ou du propriétaire du véhicule ou, à
+défaut, d'une personne requise à cet effet par l'officier ou l'agent de police judiciaire et qui ne relève pas de son
+autorité administrative. La présence d'une personne extérieure n'est toutefois pas requise si la visite comporte des risques
+particuliers.
+
+En cas de découverte d'une infraction ou si le conducteur ou le propriétaire du véhicule le demande ainsi que dans le cas où
+la visite se déroule en leur absence, il est établi un procès-verbal mentionnant le lieu et les dates et heures du début et
+de la fin de ces opérations. Un exemplaire en est remis à l'intéressé et un autre est transmis sans délai au procureur de la
+République.
+
+Le fait que ces opérations révèlent des infractions autres que celles visées dans les réquisitions du procureur de la
+République ne constitue pas une cause de nullité des procédures incidentes.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Loi n°55-385 du 3 avril 1955 - art. 8-1 (V)
+	  - Code de procédure pénale - art. 78-2-3 (M)
+	  - Code de procédure pénale - art. 78-2-4 (M)
+
+	**Codifié par**:
+
+	  - Loi n°57-1426 1957-12-31
+
+	**Créé par**:
+
+	  - Loi n°2001-1062 du 15 novembre 2001 - art. 23 () JORF 16 novembre 2001
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°2001-1062 du 15 novembre 2001 - art. 71 (M)
+
+	**Cite**:
+
+	  - Code pénal 421-1 à 421-5, 222-34 à 222-38
+	  - CODE DE PROCEDURE PENALE - art. 21 (M)
+	  - CODE DE PROCEDURE PENALE - art. 78-2 (M)
+	  - Décret n°1939-04-18 art. 20, art. 31, art. 32
+	  - Loi n°1871-06-19 art. 3
+
+
 ###### Article 78-3
 
 Si l'intéressé refuse ou se trouve dans l'impossibilité de justifier de son identité, il peut, en cas de nécessité, être
@@ -5168,27 +5284,23 @@ conformément aux dispositions de l'article 78-3.
 
 ###### Article 78-6
 
-Les agents de police mentionnés au 2° de l'article 21 sont habilités à relever l'identité des contrevenants pour dresser les
-procès-verbaux concernant des contraventions aux arrêtés de police du maire, des contraventions au code de la route que la
-loi et les règlements les autorisent à verbaliser ou des contraventions qu'ils peuvent constater en vertu d'une disposition
-législative expresse.
+Les agents de police judiciaire adjoints mentionnés aux 1° bis, 1° ter, 1° quater et 2° de l'article 21 sont habilités à
+relever l'identité des contrevenants pour dresser les procès-verbaux concernant des contraventions aux arrêtés de police du
+maire, des contraventions au code de la route que la loi et les règlements les autorisent à verbaliser ou des contraventions
+qu'ils peuvent constater en vertu d'une disposition législative expresse. 
 
-Si le contrevenant refuse ou se trouve dans l'impossibilité de justifier de son identité, l'agent de police municipale en
-rend compte immédiatement à tout officier de police judiciaire de la police nationale ou de la gendarmerie nationale
-territorialement compétent, qui peut alors lui ordonner sans délai de lui présenter sur-le-champ le contrevenant. A défaut de
-cet ordre, l'agent de police municipale ne peut retenir le contrevenant. Lorsque l'officier de police judiciaire décide de
-procéder à une vérification d'identité, dans les conditions prévues à l'article 78-3, le délai prévu au troisième alinéa de
-cet article court à compter du relevé d'identité.
+Si le contrevenant refuse ou se trouve dans l'impossibilité de justifier de son identité, l'agent de police judiciaire
+adjoint mentionné au premier alinéa en rend compte immédiatement à tout officier de police judiciaire de la police nationale
+ou de la gendarmerie nationale territorialement compétent, qui peut alors lui ordonner sans délai de lui présenter sur-le-
+champ le contrevenant. A défaut de cet ordre, l'agent de police judiciaire adjoint mentionné au premier alinéa ne peut
+retenir le contrevenant. Lorsque l'officier de police judiciaire décide de procéder à une vérification d'identité, dans les
+conditions prévues à l'article 78-3, le délai prévu au troisième alinéa de cet article court à compter du relevé d'identité.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Loi n°57-1426 1957-12-31
-
-	**Créé par**:
-
-	  - Loi n°99-291 du 15 avril 1999 - art. 16 () JORF 16 avril 1999
 
 	**Cité par**:
 
@@ -5202,10 +5314,18 @@ cet article court à compter du relevé d'identité.
 	  - Code général des collectivités territoriales - art. L2213-19-1 (Ab)
 	  - Code général des collectivités territoriales - art. L2512-16 (V)
 
+	**Modifié par**:
+
+	  - Loi n°2001-1062 du 15 novembre 2001 - art. 13 () JORF 16 novembre 2001
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°2001-1062 du 15 novembre 2001 - art. 71 (M)
+
 	**Cite**:
 
-	  - CODE DE PROCEDURE PENALE - art. 21 (M)
-	  - CODE DE PROCEDURE PENALE - art. 78-3 (M)
+	  - Code de procédure pénale - art. 21 (V)
+	  - Code de procédure pénale - art. 78-3 (V)
 
 
 ### Titre III : Des juridictions d'instruction
@@ -9923,8 +10043,6 @@ il ne peut être retenu que le temps strictement nécessaire à son audition.
 S'il ne satisfait pas à cette obligation, avis en est donné au magistrat mandant qui peut le contraindre à comparaître par la
 force publique et prendre contre lui les sanctions prévues aux troisième et quatrième alinéas de l'article 109.
 
-Lorsqu'il est fait application des dispositions de l'article 62-1, l'autorisation est donnée par le juge d'instruction.
-
 **Liens relatifs à cet article**
 
 	**Codifié par**:
@@ -9935,6 +10053,7 @@ Lorsqu'il est fait application des dispositions de l'article 62-1, l'autorisatio
 
 	  - SPEC_APPLI: Ordonnance 58-1273 1958-12-22 art. 18
 	  - SPEC_APPLI: Ordonnance n°58-1296 du 23 décembre 1958 - art. 10, v. init.
+	  - SPEC_APPLI: Loi n°2001-1062 du 15 novembre 2001 - art. 71 (M)
 	  - TXT_SOURCE: CODE DE PROCEDURE PENALE - art. D33 (V)
 	  - TXT_SOURCE: CODE DE PROCEDURE PENALE - art. D34 (V)
 	  - TXT_SOURCE: CODE DE PROCEDURE PENALE - art. D35 (V)
@@ -9942,12 +10061,11 @@ Lorsqu'il est fait application des dispositions de l'article 62-1, l'autorisatio
 
 	**Modifié par**:
 
-	  - Loi n°2000-516 du 15 juin 2000 - art. 4 () JORF 16 juin 2000 en vigueur le 1er janvier 2001
+	  - Loi n°2001-1062 du 15 novembre 2001 - art. 57 () JORF 16 novembre 2001
 
 	**Cite**:
 
 	  - CODE DE PROCEDURE PENALE - art. 109 (M)
-	  - CODE DE PROCEDURE PENALE - art. 62-1 (M)
 
 	**Cité par**:
 
@@ -13182,6 +13300,160 @@ et agents chargés de certaines fonctions de police judiciaire.
 	  - TXT_SOURCE: CODE DE PROCEDURE PENALE - art. D44 (V)
 	  - TXT_SOURCE: CODE DE PROCEDURE PENALE - art. D45 (M)
 	  - TXT_SOURCE: CODE DE PROCEDURE PENALE - art. D46 (M)
+
+
+### Titre IV : Dispositions communes
+
+#### Chapitre unique : De la mise au clair des données chiffrées nécessaires à la manifestation de la vérité
+
+###### Article 230-1
+
+Sans préjudice des dispositions des articles 60, 77-1 et 156, lorsqu'il apparaît que des données saisies ou obtenues au cours
+de l'enquête ou de l'instruction ont fait l'objet d'opérations de transformation empêchant d'accéder aux informations en
+clair qu'elles contiennent ou de les comprendre, le procureur de la République, la juridiction d'instruction ou la
+juridiction de jugement saisie de l'affaire peut désigner toute personne physique ou morale qualifiée, en vue d'effectuer les
+opérations techniques permettant d'obtenir la version en clair de ces informations ainsi que, dans le cas où un moyen de
+cryptologie a été utilisé, la convention secrète de déchiffrement, si cela apparaît nécessaire.
+
+Si la peine encourue est égale ou supérieure à deux ans d'emprisonnement et que les nécessités de l'enquête ou de
+l'instruction l'exigent, le procureur de la République, la juridiction d'instruction ou la juridiction de jugement saisie de
+l'affaire peut prescrire le recours aux moyens de l'Etat soumis au secret de la défense nationale selon les formes prévues au
+présent chapitre.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°57-1426 1957-12-31
+
+	**Créé par**:
+
+	  - Loi n°2001-1062 du 15 novembre 2001 - art. 30 () JORF 16 novembre 2001
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°2001-1062 du 15 novembre 2001 - art. 71 (M)
+
+	**Cité par**:
+
+	  - Décret n°2017-614 du 24 avril 2017 - art. 2 (V)
+	  - Code de procédure pénale - art. 230-2 (V)
+	  - Code de procédure pénale - art. R92 (V)
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. 156 (M)
+	  - CODE DE PROCEDURE PENALE - art. 60 (M)
+	  - CODE DE PROCEDURE PENALE - art. 77-1 (M)
+
+
+###### Article 230-2
+
+Lorsque le procureur de la République, la juridiction d'instruction ou la juridiction de jugement saisie de l'affaire
+décident d'avoir recours, pour les opérations mentionnées à l'article 230-1, aux moyens de l'Etat couverts par le secret de
+la défense nationale, la réquisition écrite doit être adressée au service national de police judiciaire chargé de la lutte
+contre la criminalité liée aux technologies de l'information, avec le support physique contenant les données à mettre au
+clair ou une copie de celui-ci. Cette réquisition fixe le délai dans lequel les opérations de mise au clair doivent être
+réalisées. Le délai peut être prorogé dans les mêmes conditions de forme. A tout moment, l'autorité judiciaire requérante
+peut ordonner l'interruption des opérations prescrites.
+
+Le service de police judiciaire auquel la réquisition a été adressée transmet sans délai cette dernière ainsi que, le cas
+échéant, les ordres d'interruption, à un organisme technique soumis au secret de la défense nationale, et désigné par décret.
+Les données protégées au titre du secret de la défense nationale ne peuvent être communiquées que dans les conditions prévues
+par la loi n° 98-567 du 8 juillet 1998 instituant une Commission consultative du secret de la défense nationale.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°57-1426 1957-12-31
+
+	**Cite**:
+
+	  - Loi n°98-567 1998-07-08
+	  - CODE DE PROCEDURE PENALE - art. 230-1 (M)
+
+	**Créé par**:
+
+	  - Loi n°2001-1062 du 15 novembre 2001 - art. 30 () JORF 16 novembre 2001
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°2001-1062 du 15 novembre 2001 - art. 71 (M)
+
+	**Cité par**:
+
+	  - Décret n°2002-1073 du 7 août 2002 - art. 2 (V)
+	  - Décret n°2017-614 du 24 avril 2017 - art. 2 (V)
+
+
+###### Article 230-3
+
+Dès l'achèvement des opérations ou dès qu'il apparaît que ces opérations sont techniquement impossibles ou à l'expiration du
+délai prescrit ou à la réception de l'ordre d'interruption émanant de l'autorité judiciaire, les résultats obtenus et les
+pièces reçues sont retournés par le responsable de l'organisme technique au service de police judiciaire qui lui a transmis
+la réquisition. Sous réserve des obligations découlant du secret de la défense nationale, les résultats sont accompagnés des
+indications techniques utiles à la compréhension et à leur exploitation ainsi que d'une attestation visée par le responsable
+de l'organisme technique certifiant la sincérité des résultats transmis.
+
+Ces pièces sont immédiatement remises à l'autorité judiciaire par le service national de police judiciaire chargé de la lutte
+contre la criminalité liée aux technologies de l'information.
+
+Les éléments ainsi obtenus font l'objet d'un procès-verbal de réception et sont versés au dossier de la procédure.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°57-1426 1957-12-31
+
+	**Créé par**:
+
+	  - Loi n°2001-1062 du 15 novembre 2001 - art. 30 () JORF 16 novembre 2001
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°2001-1062 du 15 novembre 2001 - art. 71 (M)
+
+
+###### Article 230-4
+
+Les décisions judiciaires prises en application du présent chapitre n'ont pas de caractère juridictionnel et ne sont
+susceptibles d'aucun recours.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°57-1426 1957-12-31
+
+	**Créé par**:
+
+	  - Loi n°2001-1062 du 15 novembre 2001 - art. 30 () JORF 16 novembre 2001
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°2001-1062 du 15 novembre 2001 - art. 71 (M)
+
+
+###### Article 230-5
+
+Sans préjudice des obligations découlant du secret de la défense nationale, les agents requis en application des dispositions
+du présent chapitre sont tenus d'apporter leur concours à la justice.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°57-1426 1957-12-31
+
+	**Créé par**:
+
+	  - Loi n°2001-1062 du 15 novembre 2001 - art. 30 () JORF 16 novembre 2001
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°2001-1062 du 15 novembre 2001 - art. 71 (M)
 
 
 ## Livre II : Des juridictions de jugement
@@ -28148,6 +28420,32 @@ autre engin meurtrier défini à l'article 1er de ladite convention.
 	  - Code de procédure pénale - art. 689-1 (V)
 
 
+###### Article 689-10
+
+Pour l'application de la convention internationale pour la répression du financement du terrorisme, ouverte à la signature à
+New York le 10 janvier 2000, peut être poursuivie et jugée dans les conditions prévues à l'article 689-1 toute personne
+coupable d'un crime ou d'un délit défini par les articles 421-1 à 421-2-2 du code pénal lorsque cette infraction constitue un
+financement d'actes de terrorisme au sens de l'article 2 de ladite convention.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 58-1296 1958-12-23
+
+	**Créé par**:
+
+	  - Loi n°2001-1062 du 15 novembre 2001 - art. 33 () JORF 16 novembre 2001
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°2001-1062 du 15 novembre 2001 - art. 71 (M)
+
+	**Cite**:
+
+	  - Code pénal - art. 421-1 (V)
+
+
 #### Chapitre II : De l'exercice des poursuites et de la juridiction territorialement compétente
 
 ###### Article 692
@@ -29842,16 +30140,22 @@ Lorsqu'ils sont compétents pour la poursuite et l'instruction des infractions e
 l'article 706-16, le procureur de la République et le juge d'instruction de Paris exercent leurs attributions sur toute
 l'étendue du territoire national.
 
+L'instruction des actes de terrorisme définis aux 5° à 7° de l'article 421-1 du code pénal et à l'article 421-2-2 du même
+code peut être confiée, le cas échéant dans les conditions prévues au deuxième alinéa de l'article 83, à un magistrat du
+tribunal de grande instance de Paris affecté aux formations d'instruction spécialisées en matière économique et financière en
+application des dispositions du dernier alinéa de l'article 704.
+
 **Liens relatifs à cet article**
 
 	**Cite**:
 
 	  - Ordonnance 45-174 1945-02-02
-	  - CODE DE PROCEDURE PENALE - art. 382 (M)
-	  - CODE DE PROCEDURE PENALE - art. 43 (M)
-	  - CODE DE PROCEDURE PENALE - art. 52 (M)
+	  - Code pénal - art. 421-1 (M)
+	  - Code pénal - art. 421-2-2 (V)
+	  - CODE DE PROCEDURE PENALE - art. 663 (M)
+	  - CODE DE PROCEDURE PENALE - art. 704 (M)
 	  - CODE DE PROCEDURE PENALE - art. 706-16 (M)
-	  - Code de procédure pénale 43, 52, 382, 663 al. 2, 706-16
+	  - CODE DE PROCEDURE PENALE - art. 83 (M)
 
 	**Codifié par**:
 
@@ -29859,7 +30163,11 @@ l'étendue du territoire national.
 
 	**Modifié par**:
 
-	  - Loi n°92-1336 du 16 décembre 1992 - art. 74 () JORF 23 décembre 1992 en vigueur le 1er mars 1994
+	  - Loi n°2001-1062 du 15 novembre 2001 - art. 33 () JORF 16 novembre 2001
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°2001-1062 du 15 novembre 2001 - art. 71 (M)
 
 	**Cité par**:
 
@@ -30100,9 +30408,11 @@ prévus par les articles 72 et 154, le juge d'instruction est compétent pour d�
 ###### Article 706-24
 
 Par dérogation aux dispositions de l'article 76, si les nécessités de l'enquête relatives à l'une des infractions entrant
-dans le champ d'application de l'article 706-16 l'exigent, le président du tribunal de grande instance ou le juge délégué par
-lui peut, à la requête du procureur de la République, décider que les perquisitions, visites domiciliaires et saisies de
-pièces à conviction pourront être faites sans l'assentiment de la personne chez laquelle elles ont lieu.
+dans le champ d'application de l'article 706-16 l'exigent, le juge des libertés et de la détention du tribunal de grande
+instance peut, à la requête du procureur de la République, décider que les perquisitions, visites domiciliaires et saisies de
+pièces à conviction pourront être faites sans l'assentiment de la personne chez laquelle elles ont lieu. Si ces opérations ne
+concernent pas des locaux d'habitation, le juge des libertés et de la détention peut autoriser leur réalisation en dehors des
+heures prévues à l'article 59.
 
 (Les trois premiers alinéas de l'article 10 sont déclarés non conformes à la Constitution par décision du Conseil
 constitutionnel n° 96-377 DC du 16 juillet 1996 dans la mesure où ils visent les cas d'enquête préliminaire).
@@ -30112,7 +30422,7 @@ constitutionnel n° 96-377 DC du 16 juillet 1996) de flagrance l'exigent, les vi
 opérées en dehors des heures prévues par l'article 59.
 
 Les opérations prévues à l'alinéa précédent doivent, à peine de nullité, être autorisées sur requête du procureur de la
-République par le président du tribunal de grande instance ou le juge délégué par lui, (Dispositions déclarées non conformes
+République par le juge des libertés et de la détention du tribunal de grande instance, (Dispositions déclarées non conformes
 à la Constitution par décision du Conseil constitutionnel n° 96-377 DC du 16 juillet 1996) les autorisations sont données
 pour des perquisitions déterminées. Chaque autorisation fait l'objet d'une décision écrite, précisant la qualification de
 l'infraction dont la preuve est recherchée ainsi que l'adresse des lieux dans lesquels les visites, perquisitions et saisies
@@ -30123,9 +30433,10 @@ veiller au respect des dispositions légales.
 Ces opérations ne peuvent, à peine de nullité, avoir un autre objet que la recherche et la constatation des infractions
 entrant dans le champ d'application de l'article 706-16.
 
-Pour l'application des dispositions du présent article, le président du tribunal de grande instance est le président du
-tribunal de grande instance dans le ressort duquel les opérations sont effectuées ou le président du tribunal de grande
-instance de Paris, ce dernier exerçant alors ses attributions sur toute l'étendue du territoire national.
+Pour l'application des dispositions du présent article, le juge des libertés et de la détention du tribunal de grande
+instance est le juge des libertés et de la détention du tribunal de grande instance dans le ressort duquel les opérations
+sont effectuées ou le juge des libertés et de la détention du tribunal de grande instance de Paris, ce dernier exerçant alors
+ses attributions sur toute l'étendue du territoire national.
 
 **Liens relatifs à cet article**
 
@@ -30136,10 +30447,15 @@ instance de Paris, ce dernier exerçant alors ses attributions sur toute l'éten
 	**Liens**:
 
 	  - SPEC_APPLI: Loi n°96-647 du 22 juillet 1996 - art. 27 (M)
+	  - SPEC_APPLI: Loi n°2001-1062 du 15 novembre 2001 - art. 71 (M)
 
 	**Modifié par**:
 
-	  - Loi n°96-1235 du 30 décembre 1996 - art. 16 () JORF 1er janvier 1997
+	  - Loi n°2001-1062 du 15 novembre 2001 - art. 24 () JORF 16 novembre 2001
+
+	**Abrogé par**:
+
+	  - Loi n°2004-204 du 9 mars 2004 - art. 14 () JORF 10 mars 2004 en vigueur le 1er octobre 2004
 
 	**Cite**:
 
@@ -30195,6 +30511,46 @@ Les dispositions du quatrième alinéa de l'article 706-24 sont applicables.
 	  - CODE DE PROCEDURE PENALE - art. 59 (M)
 	  - CODE DE PROCEDURE PENALE - art. 706-16 (M)
 	  - CODE DE PROCEDURE PENALE - art. 706-24 (M)
+
+
+###### Article 706-24-2
+
+En cas d'information ouverte pour une infraction entrant dans le champ d'application de l'article 706-16 et afin de garantir
+le paiement des amendes encourues ainsi que l'exécution de la confiscation prévue à l'article 422-6 du code pénal, le juge
+des libertés et de la détention peut, sur requête du procureur de la République, ordonner, aux frais avancés du Trésor et
+selon les modalités prévues par le code de procédure civile, des mesures conservatoires sur les biens de la personne mise en
+examen.
+
+La condamnation vaut validation des saisies conservatoires et permet l'inscription définitive des sûretés.
+
+La décision de non-lieu, de relaxe ou d'acquittement emporte de plein droit, aux frais du Trésor, mainlevée des mesures
+ordonnées. Il en est de même en cas d'extinction de l'action publique.
+
+Pour l'application des dispositions du présent article, le juge des libertés et de la détention est compétent sur l'ensemble
+du territoire national.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 58-1296 1958-12-23
+
+	**Créé par**:
+
+	  - Loi n°2001-1062 du 15 novembre 2001 - art. 33 () JORF 16 novembre 2001
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°2001-1062 du 15 novembre 2001 - art. 71 (M)
+
+	**Abrogé par**:
+
+	  - Loi n°2004-204 du 9 mars 2004 - art. 14 () JORF 10 mars 2004 en vigueur le 1er octobre 2004
+
+	**Cite**:
+
+	  - Code pénal - art. 422-6 (V)
+	  - CODE DE PROCEDURE PENALE - art. 706-16 (M)
 
 
 ###### Article 706-25
@@ -31057,44 +31413,6 @@ afin de faciliter le suivi médical et psychologique en détention prévu par l'
 	  - CODE DE PROCEDURE PENALE - art. 706-47-1 (VD)
 
 
-###### Article 706-54
-
-Il est créé un fichier national automatisé destiné à centraliser les traces génétiques ainsi que les empreintes génétiques
-des personnes condamnées pour l'une des infractions visées à l'article 706-47 en vue de faciliter l'identification et la
-recherche des auteurs d'infractions sexuelles.
-
-Ce fichier est placé sous le contrôle d'un magistrat.
-
-Les modalités d'application du présent article, y compris la durée de conservation des informations enregistrées, sont
-déterminées par décret en Conseil d'Etat après avis de la Commission nationale de l'informatique et des libertés.
-
-Les empreintes génétiques des personnes à l'encontre desquelles il existe des indices graves et concordants de nature à
-motiver leur mise en examen pour l'une des infractions visées à l'article 706-47 peuvent faire l'objet, à la demande du juge
-d'instruction ou du procureur de la République, d'un rapprochement avec les données incluses au fichier. Elles ne peuvent
-toutefois y être conservées.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance 58-1296 1958-12-23
-
-	**Créé par**:
-
-	  - Loi n°98-468 du 17 juin 1998 - art. 28 () JORF 18 juin 1998
-
-	**Cité par**:
-
-	  - Arrêté du 10 août 2015 (V)
-	  - CODE DE PROCEDURE PENALE - art. R53-9 (V)
-	  - Code de procédure pénale - art. 706-56 (V)
-	  - Code de procédure pénale - art. R53-13-1 (V)
-
-	**Cite**:
-
-	  - CODE DE PROCEDURE PENALE - art. 706-47 (T)
-
-
 #### Chapitre Ier : Dispositions générales
 
 ###### Article 706-48
@@ -31289,6 +31607,664 @@ encore d'une personne chargée d'un mandat du juge des enfants.
 
 	  - Code de procédure pénale - art. 706-47 (V)
 	  - Code de procédure pénale - art. 706-50 (V)
+
+
+### Titre XX : Du fichier national automatisé des empreintes génétiques
+
+###### Article 706-54
+
+Il est créé un fichier national automatisé destiné à centraliser les traces génétiques ainsi que les empreintes génétiques
+des personnes condamnées pour l'une des infractions visées à l'article 706-55 en vue de faciliter l'identification et la
+recherche des auteurs de ces infractions.
+
+Ce fichier est placé sous le contrôle d'un magistrat.
+
+Les modalités d'application du présent article, y compris la durée de conservation des informations enregistrées, sont
+déterminées par décret en Conseil d'Etat après avis de la Commission nationale de l'informatique et des libertés.
+
+Les empreintes génétiques des personnes à l'encontre desquelles il existe des indices graves ou concordants de nature à
+motiver leur mise en examen pour l'une des infractions visées à l'article 706-55 peuvent faire l'objet, à la demande du juge
+d'instruction ou du procureur de la République, d'un rapprochement avec les données incluses au fichier. Elles ne peuvent
+toutefois y être conservées.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 58-1296 1958-12-23
+
+	**Modifié par**:
+
+	  - Loi n°2001-1062 du 15 novembre 2001 - art. 56 () JORF 16 novembre 2001
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°2001-1062 du 15 novembre 2001 - art. 71 (M)
+
+	**Cité par**:
+
+	  - Arrêté du 10 août 2015 (V)
+	  - CODE DE PROCEDURE PENALE - art. R53-9 (V)
+	  - Code de procédure pénale - art. 706-56 (V)
+	  - Code de procédure pénale - art. R53-13-1 (V)
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. 706-55 (MMN)
+
+
+###### Article 706-55
+
+Le fichier national automatisé des empreintes génétiques centralise les traces et empreintes génétiques concernant les
+infractions suivantes :
+
+1° Les infractions de nature sexuelle visées à l'article 706-47, ainsi que le recel de ces infractions ;
+
+2° Les crimes d'atteintes volontaires à la vie de la personne, de torture et actes de barbarie et de violences volontaires
+prévus par les articles 221-1 à 221-5, 222-1 à 222-8, 222-10 et 222-14 (1° et 2°) du code pénal ;
+
+3° Les crimes de vols, d'extorsions et de destructions, dégradations et détériorations dangereuses pour les personnes prévus
+par les articles 311-7 à 311-11, 312-3 à 312-7 et 322-7 à 322-10 du code pénal ;
+
+4° Les crimes constituant des actes de terrorisme prévus par les articles 421-1 à 421-4 du code pénal.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 58-1296 1958-12-23
+
+	**Modifié par**:
+
+	  - Loi n°2001-1062 du 15 novembre 2001 - art. 56 () JORF 16 novembre 2001
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°2001-1062 du 15 novembre 2001 - art. 71 (M)
+
+	**Cité par**:
+
+	  - Décret n°2004-470 du 25 mai 2004 - art. 13 (V)
+	  - CODE DE PROCEDURE PENALE - art. 706-56 (M)
+	  - CODE DE PROCEDURE PENALE - art. 706-56-1 (V)
+	  - CODE DE PROCEDURE PENALE - art. R53-20 (M)
+	  - CODE DE PROCEDURE PENALE - art. R53-21 (M)
+	  - Code de procédure pénale - art. 706-54 (V)
+	  - Code de procédure pénale - art. R53-10 (V)
+
+	**Cite**:
+
+	  - Code pénal - art. 222-10 (M)
+	  - Code pénal - art. 222-14 (M)
+	  - Code pénal 221-1 à 221-5, 222-1 à 222-8, 222-10, 222-14, 311-7 à 311-11, 312-3 à 312-7, 322-7 à 322-10, 421-1 à 421-4
+	  - CODE DE PROCEDURE PENALE - art. 706-47 (T)
+
+	**Nouveaux textes**:
+
+	  - CODE DE PROCEDURE PENALE - art. 706-64 (V)
+
+
+###### Article 706-56
+
+Le fait, pour une personne définitivement condamnée pour une des infractions visées à l'article 706-55, de refuser de se
+soumettre à un prélèvement biologique destiné à permettre l'analyse d'identification de son empreinte génétique est puni de
+six mois d'emprisonnement et de 7 500 euros d'amende. Lorsque la personne a été condamnée pour crime, la peine est de deux
+ans d'emprisonnement et 30 000 euros d'amende.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 58-1296 1958-12-23
+
+	**Cité par**:
+
+	  - Loi n°71-498 du 29 juin 1971 - art. 6-1 (V)
+	  - Décret n°97-109 du 6 février 1997 - art. 15-1 (V)
+	  - Décret n°97-109 du 6 février 1997 - art. 15-2 (V)
+	  - Décret n°2011-817 du 6 juillet 2011 - art. 6 (VT)
+	  - CODE DE PROCEDURE PENALE - art. 706-56-1 (V)
+	  - CODE DE PROCEDURE PENALE - art. D117-4 (V)
+	  - CODE DE PROCEDURE PENALE - art. R53-18 (V)
+	  - Code de procédure pénale - art. R53-21 (V)
+
+	**Modifié par**:
+
+	  - Loi n°2001-1062 du 15 novembre 2001 - art. 56 () JORF 16 novembre 2001
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°2001-1062 du 15 novembre 2001 - art. 71 (M)
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. 706-55 (MMN)
+
+	**Nouveaux textes**:
+
+	  - CODE DE PROCEDURE PENALE - art. 706-65 (V)
+
+
+### Titre XXI : De la protection des témoins
+
+###### Article 706-57
+
+Les personnes à l'encontre desquelles il n'existe aucun indice faisant présumer qu'elles ont commis ou tenté de commettre une
+infraction et qui sont susceptibles d'apporter des éléments de preuve intéressant la procédure peuvent, sur autorisation du
+procureur de la République ou du juge d'instruction, déclarer comme domicile l'adresse du commissariat ou de la brigade de
+gendarmerie.
+
+L'adresse de ces personnes est alors inscrite sur un registre coté et paraphé, qui est ouvert à cet effet.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 58-1296 1958-12-23
+
+	**Modifié par**:
+
+	  - Loi n°2001-1062 du 15 novembre 2001 - art. 57 () JORF 16 novembre 2001
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°2001-1062 du 15 novembre 2001 - art. 71 (M)
+
+	**Cité par**:
+
+	  - CODE DE PROCEDURE PENALE - art. 706-58 (V)
+	  - CODE DE PROCEDURE PENALE - art. 706-59 (V)
+	  - Code de procédure pénale - art. R53-22 (V)
+	  - Code de procédure pénale - art. R53-23 (V)
+	  - Code de procédure pénale - art. R53-24 (V)
+	  - Code de procédure pénale - art. R53-25 (V)
+	  - Code de procédure pénale - art. R53-31 (V)
+
+	**Nouveaux textes**:
+
+	  - CODE DE PROCEDURE PENALE - art. 706-66 (V)
+
+
+###### Article 706-58
+
+En cas de procédure portant sur un crime ou sur un délit puni d'au moins cinq ans d'emprisonnement, lorsque l'audition d'une
+personne visée à l'article 706-57 est susceptible de mettre gravement en danger la vie ou l'intégrité physique de cette
+personne, des membres de sa famille ou de ses proches, le juge des libertés et de la détention, saisi par requête motivée du
+procureur de la République ou du juge d'instruction, peut, par décision motivée, autoriser que les déclarations de cette
+personne soient recueillies sans que son identitité apparaisse dans le dossier de la procédure. Cette décision n'est pas
+susceptible de recours, sous réserve des dispositions du deuxième alinéa de l'article 706-60. Le juge des libertés et de la
+détention peut décider de procéder lui-même à l'audition du témoin.
+
+La décision du juge des libertés et de la détention, qui ne fait pas apparaître l'identité de la personne, est jointe au
+procès-verbal d'audition du témoin, sur lequel ne figure pas la signature de l'intéressé. L'identité et l'adresse de la
+personne sont inscrites dans un autre procès-verbal signé par l'intéressé, qui est versé dans un dossier distinct du dossier
+de la procédure, dans lequel figure également la requête prévue à l'alinéa précédent. L'identité et l'adresse de la personne
+sont inscrites sur un registre coté et paraphé, qui est ouvert à cet effet au tribunal de grande instance.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 58-1296 1958-12-23
+
+	**Modifié par**:
+
+	  - Loi n°2001-1062 du 15 novembre 2001 - art. 57 () JORF 16 novembre 2001
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°2001-1062 du 15 novembre 2001 - art. 71 (M)
+
+	**Cité par**:
+
+	  - CODE DE PROCEDURE PENALE - art. 706-56 (MMN)
+	  - CODE DE PROCEDURE PENALE - art. 706-59 (V)
+	  - CODE DE PROCEDURE PENALE - art. 706-60 (V)
+	  - CODE DE PROCEDURE PENALE - art. 706-61 (V)
+	  - CODE DE PROCEDURE PENALE - art. 706-62 (V)
+	  - Code de procédure pénale - art. 706-62-2 (V)
+	  - Code de procédure pénale - art. R53-27 (V)
+	  - Code de procédure pénale - art. R53-28 (V)
+	  - Code de procédure pénale - art. R53-29 (V)
+	  - Code de procédure pénale - art. R53-31 (V)
+	  - Code de procédure pénale - art. R53-32 (V)
+	  - Code de procédure pénale - art. R53-37 (V)
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. 706-57 (MMN)
+
+	**Nouveaux textes**:
+
+	  - CODE DE PROCEDURE PENALE - art. 706-67 (V)
+
+
+###### Article 706-59
+
+En aucune circonstance, l'identité ou l'adresse d'un témoin ayant bénéficié des dispositions des articles 706-57 ou 706-58 ne
+peut être révélée, hors le cas prévu par le dernier alinéa de l'article 706-60.
+
+La révélation de l'identité ou de l'adresse d'un témoin ayant bénéficié des dispositions des articles 706-57 ou 706-58 est
+punie de cinq ans d'emprisonnement et 75 000 euros d'amende.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 58-1296 1958-12-23
+
+	**Modifié par**:
+
+	  - Loi n°2001-1062 du 15 novembre 2001 - art. 57 () JORF 16 novembre 2001
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°2001-1062 du 15 novembre 2001 - art. 71 (M)
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. 706-57 (MMN)
+	  - CODE DE PROCEDURE PENALE - art. 706-58 (MMN)
+	  - CODE DE PROCEDURE PENALE - art. 706-60 (MMN)
+
+	**Nouveaux textes**:
+
+	  - CODE DE PROCEDURE PENALE - art. 706-68 (V)
+
+
+###### Article 706-60
+
+Les dispositions de l'article 706-58 ne sont pas applicables si, au regard des circonstances dans lesquelles l'infraction a
+été commise ou de la personnalité du témoin, la connaissance de l'identité de la personne est indispensable à l'exercice des
+droits de la défense.
+
+La personne mise en examen peut, dans les dix jours à compter de la date à laquelle il lui a été donné connaissance du
+contenu d'une audition réalisée dans les conditions de l'article 706-58, contester, devant le président de la chambre de
+l'instruction, le recours à la procédure prévue par cet article. Le président de la chambre de l'instruction statue par
+décision motivée qui n'est pas susceptible de recours au vu des pièces de la procédure et de celles figurant dans le dossier
+mentionné au deuxième alinéa de l'article 706-58. S'il estime la contestation justifiée, il ordonne l'annulation de
+l'audition. Il peut également ordonner que l'identité du témoin soit révélée à la condition que ce dernier fasse expressément
+connaître qu'il accepte la levée de son anonymat.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 58-1296 1958-12-23
+
+	**Modifié par**:
+
+	  - Loi n°2001-1062 du 15 novembre 2001 - art. 57 () JORF 16 novembre 2001
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°2001-1062 du 15 novembre 2001 - art. 71 (M)
+
+	**Cité par**:
+
+	  - CODE DE PROCEDURE PENALE - art. 706-58 (V)
+	  - CODE DE PROCEDURE PENALE - art. 706-59 (V)
+	  - Code de procédure pénale - art. R53-28 (V)
+
+	**Nouveaux textes**:
+
+	  - CODE DE PROCEDURE PENALE - art. 706-69 (V)
+
+
+###### Article 706-61
+
+La personne mise en examen ou renvoyée devant la juridiction de jugement peut demander à être confrontée avec un témoin
+entendu en application des dispositions de l'article 706-58 par l'intermédiaire d'un dispositif technique permettant
+l'audition du témoin à distance ou à faire interroger ce témoin par son avocat par ce même moyen. La voix du témoin est alors
+rendue non identifiable par des procédés techniques appropriés.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 58-1296 1958-12-23
+
+	**Modifié par**:
+
+	  - Loi n°2001-1062 du 15 novembre 2001 - art. 57 () JORF 16 novembre 2001
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°2001-1062 du 15 novembre 2001 - art. 71 (M)
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. 706-58 (MMN)
+
+	**Cité par**:
+
+	  - CODE DE PROCEDURE PENALE - art. 706-62 (V)
+	  - CODE DE PROCEDURE PENALE - art. 706-86 (V)
+	  - Code de procédure pénale - art. 656-1 (V)
+	  - Code des douanes - art. 67 bis (V)
+
+	**Nouveaux textes**:
+
+	  - CODE DE PROCEDURE PENALE - art. 706-70 (V)
+
+
+###### Article 706-62
+
+Aucune condamnation ne peut être prononcée sur le seul fondement de déclarations recueillies dans les conditions prévues par
+les articles 706-58 et 706-61.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 58-1296 1958-12-23
+
+	**Créé par**:
+
+	  - Loi n°2001-1062 du 15 novembre 2001 - art. 57 () JORF 16 novembre 2001
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°2001-1062 du 15 novembre 2001 - art. 71 (M)
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. 706-58 (MMN)
+	  - CODE DE PROCEDURE PENALE - art. 706-61 (MMN)
+
+
+###### Article 706-63
+
+Un décret en Conseil d'Etat précise, en tant que de besoin, les conditions d'application des dispositions du présent titre.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 58-1296 1958-12-23
+
+	**Créé par**:
+
+	  - Loi n°2001-1062 du 15 novembre 2001 - art. 57 () JORF 16 novembre 2001
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°2001-1062 du 15 novembre 2001 - art. 71 (M)
+
+	**Cité par**:
+
+	  - Code de procédure pénale - art. R54-8 (V)
+
+
+### Titre XXII : Saisine pour avis de la Cour de cassation
+
+###### Article 706-64
+
+Les juridictions pénales, à l'exception des juridictions d'instruction et de la cour d'assises, peuvent solliciter l'avis de
+la Cour de cassation en application de l'article L. 151-1 du code de l'organisation judiciaire. Toutefois, aucune demande
+d'avis ne peut être présentée lorsque, dans l'affaire concernée, une personne est placée en détention provisoire ou sous
+contrôle judiciaire.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 58-1296 1958-12-23
+
+	**Créé par**:
+
+	  - Loi n°2001-1062 du 15 novembre 2001 - art. 55 () JORF 16 novembre 2001
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°2001-1062 du 15 novembre 2001 - art. 71 (M)
+
+	**Anciens textes**:
+
+	  - CODE DE PROCEDURE PENALE - art. 706-55 (MMN)
+
+	**Cite**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L151-1 (M)
+
+
+###### Article 706-65
+
+Lorsque le juge envisage de solliciter l'avis de la Cour de cassation en application de l'article L. 151-1 du code de
+l'organisation judiciaire, il en avise les parties et le ministère public. Il recueille les observations écrites éventuelles
+des parties et les conclusions du ministère public dans le délai qu'il fixe, à moins que ces observations ou conclusions
+n'aient déjà été communiquées.
+
+Dès réception des observations et conclusions ou à l'expiration du délai, le juge peut, par une décision non susceptible de
+recours, solliciter l'avis de la Cour de cassation en formulant la question de droit qu'il lui soumet. Il surseoit à statuer
+jusqu'à la réception de l'avis ou jusqu'à l'expiration du délai mentionné à l'article 706-67.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 58-1296 1958-12-23
+
+	**Créé par**:
+
+	  - Loi n°2001-1062 du 15 novembre 2001 - art. 55 () JORF 16 novembre 2001
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°2001-1062 du 15 novembre 2001 - art. 71 (M)
+
+	**Anciens textes**:
+
+	  - CODE DE PROCEDURE PENALE - art. 706-56 (MMN)
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. 706-67 (V)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L151-1 (M)
+
+
+###### Article 706-66
+
+La décision sollicitant l'avis est adressée, avec les conclusions et les observations écrites éventuelles, par le greffier de
+la juridiction au greffe de la Cour de cassation.
+
+Elle est notifiée, ainsi que la date de transmission du dossier, aux parties par lettre recommandée avec demande d'avis de
+réception.
+
+Le ministère public auprès de la juridiction est avisé ainsi que le premier président de la cour d'appel et le procureur
+général lorsque la demande d'avis n'émane pas de la cour.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 58-1296 1958-12-23
+
+	**Créé par**:
+
+	  - Loi n°2001-1062 du 15 novembre 2001 - art. 55 () JORF 16 novembre 2001
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°2001-1062 du 15 novembre 2001 - art. 71 (M)
+
+	**Anciens textes**:
+
+	  - CODE DE PROCEDURE PENALE - art. 706-57 (MMN)
+
+
+###### Article 706-67
+
+La Cour de cassation rend son avis dans les trois mois de la réception du dossier.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 58-1296 1958-12-23
+
+	**Créé par**:
+
+	  - Loi n°2001-1062 du 15 novembre 2001 - art. 55 () JORF 16 novembre 2001
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°2001-1062 du 15 novembre 2001 - art. 71 (M)
+
+	**Anciens textes**:
+
+	  - CODE DE PROCEDURE PENALE - art. 706-58 (MMN)
+
+	**Cité par**:
+
+	  - CODE DE PROCEDURE PENALE - art. 706-65 (V)
+
+
+###### Article 706-68
+
+L'affaire est communiquée au procureur général près la Cour de cassation. Celui-ci est informé de la date de séance.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 58-1296 1958-12-23
+
+	**Créé par**:
+
+	  - Loi n°2001-1062 du 15 novembre 2001 - art. 55 () JORF 16 novembre 2001
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°2001-1062 du 15 novembre 2001 - art. 71 (M)
+
+	**Anciens textes**:
+
+	  - CODE DE PROCEDURE PENALE - art. 706-59 (MMN)
+
+
+###### Article 706-69
+
+L'avis peut mentionner qu'il sera publié au Journal officiel de la République française.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 58-1296 1958-12-23
+
+	**Créé par**:
+
+	  - Loi n°2001-1062 du 15 novembre 2001 - art. 55 () JORF 16 novembre 2001
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°2001-1062 du 15 novembre 2001 - art. 71 (M)
+
+	**Anciens textes**:
+
+	  - CODE DE PROCEDURE PENALE - art. 706-60 (MMN)
+
+
+###### Article 706-70
+
+L'avis est adressé à la juridiction qui l'a demandé, au ministère public auprès de cette juridiction, au premier président de
+la cour d'appel et au procureur général lorsque la demande n'émane pas de la cour.
+
+Il est notifié aux parties par le greffe de la Cour de cassation.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 58-1296 1958-12-23
+
+	**Créé par**:
+
+	  - Loi n°2001-1062 du 15 novembre 2001 - art. 55 () JORF 16 novembre 2001
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°2001-1062 du 15 novembre 2001 - art. 71 (M)
+
+	**Anciens textes**:
+
+	  - CODE DE PROCEDURE PENALE - art. 706-61 (MMN)
+
+
+### Titre XXIII : De l'utilisation de moyens de télécommunications au cours de la procédure
+
+###### Article 706-71
+
+Lorsque les nécessités de l'enquête ou de l'instruction le justifient, l'audition ou l'interrogatoire d'une personne ainsi
+que la confrontation entre plusieurs personnes peuvent être effectués en plusieurs points du territoire de la République se
+trouvant reliés par des moyens de télécommunications garantissant la confidentialité de la transmission. Il est alors dressé,
+dans chacun des lieux, un procès-verbal des opérations qui y ont été effectuées. Ces opérations peuvent faire l'objet d'un
+enregistrement audiovisuel ou sonore, les dispositions des quatrième à neuvième alinéas de l'article 706-52 sont alors
+applicables.
+
+En cas de nécessité, résultant de l'impossibilité pour un interprète de se déplacer, l'assistance de l'interprète au cours
+d'une audition, d'un interrogatoire ou d'une confrontation peut également se faire par l'intermédiaire de moyens de
+télécommunications.
+
+Les dispositions du présent article sont également applicables pour l'exécution simultanée, sur un point du territoire de la
+République et sur un point situé à l'extérieur, de demandes d'entraide émanant des autorités judiciaires étrangères ou des
+actes d'entraide réalisés à l'étranger sur demande des autorités judiciaires françaises.
+
+Un décret en Conseil d'Etat précise, en tant que de besoin, les modalités d'application du présent article.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 58-1296 1958-12-23
+
+	**Créé par**:
+
+	  - Loi n°2001-1062 du 15 novembre 2001 - art. 32 () JORF 16 novembre 2001
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°2001-1062 du 15 novembre 2001 - art. 71 (M)
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. 706-52 (M)
+
+	**Cité par**:
+
+	  - CODE DE PROCEDURE PENALE - art. 823-1 (V)
+	  - Code de procédure pénale - art. 135-2 (VT)
+	  - Code de procédure pénale - art. 221-3 (VT)
+	  - Code de procédure pénale - art. 379-4 (V)
+	  - Code de procédure pénale - art. 628-7 (V)
+	  - Code de procédure pénale - art. 694-5 (V)
+	  - Code de procédure pénale - art. 695-9-22 (VD)
+	  - Code de procédure pénale - art. 695-9-25 (V)
+	  - Code de procédure pénale - art. 706-22-1 (M)
+	  - Code de procédure pénale - art. 712 (V)
+	  - Code de procédure pénale - art. 712-13 (V)
+	  - Code de procédure pénale - art. 712-17 (V)
+	  - Code de procédure pénale - art. 712-6 (V)
+	  - Code de procédure pénale - art. 712-7 (V)
+	  - Code de procédure pénale - art. 712-9 (V)
+	  - Code de procédure pénale - art. 713-29 (V)
+	  - Code de procédure pénale - art. 884 (V)
+	  - Code de procédure pénale - art. A38-1 (V)
+	  - Code de procédure pénale - art. D47-12-1 (V)
+	  - Code de procédure pénale - art. D47-12-4 (V)
+	  - Code de procédure pénale - art. D47-12-6 (V)
+	  - Code de procédure pénale - art. D47-28-1 (V)
+	  - Code de procédure pénale - art. D49-13 (V)
+	  - Code de procédure pénale - art. D49-78 (V)
+	  - Code de procédure pénale - art. D49-80 (V)
+	  - Code de procédure pénale - art. D594 (V)
+	  - Code de procédure pénale - art. D594-4 (V)
+	  - Code de procédure pénale - art. R53-33 (V)
+	  - Code de procédure pénale - art. R53-34 (V)
+	  - Code de procédure pénale - art. R53-35 (V)
+	  - Code de procédure pénale - art. R53-39 (V)
+	  - Code de procédure pénale - art. R61-10 (V)
 
 
 ## Livre V : Des procédures d'exécution
