@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 2001-05-16
+Version Consolidée au 2001-06-03
 
 # Partie législative
 
@@ -53574,11 +53574,11 @@ procédure l'identité des victimes dont l'adhésion est intervenue postérieure
 ###### Article D2
 
 Dans le ressort de chaque cour d'appel, les officiers de police judiciaire sont égaux devant la loi en prérogative et en
-responsabilité ; ils sont placés sous la surveillance du procureur général et sous le contrôle de la chambre d'accusation.
+responsabilité ; ils sont placés sous la surveillance du procureur général et sous le contrôle de la chambre d'instruction.
 
-Dans le ressort de chaque tribunal, le tribunal, le procureur de la République et ses substituts ont seuls qualité pour
-diriger l'activité des officiers et agents de police judiciaire, par la voie, s'il y a lieu, de leurs supérieurs
-hiérarchiques.
+Dans le ressort de chaque tribunal, le tribunal, le procureur de la République et ses substituts ont seuls qualité
+[*compétence*] pour diriger l'activité des officiers et agents de police judiciaire, par la voie, s'il y a lieu, de leurs
+supérieurs hiérarchiques.
 
 Le procureur de la République et le juge d'instruction ont le libre choix des formations auxquelles appartiennent les
 officiers de police judiciaire territorialement compétents qui seront chargés de l'exécution de leurs réquisitions ou
@@ -53595,7 +53595,7 @@ transmission des procès-verbaux aux autorités judiciaires.
 
 	**Modifié par**:
 
-	  - Décret n°95-932 du 17 août 1995 - art. 1 () JORF 24 août 1995
+	  - Décret n°2001-475 du 30 mai 2001 - art. 3 () JORF 3 juin 2001
 
 	**Cité par**:
 
@@ -53896,7 +53896,9 @@ biologiques et chimiques ;
 
 7° Office central pour la répression de la grande délinquance financière ;
 
-8° Office central pour la répression de l'immigration irrégulière et de l'emploi d'étrangers sans titre.
+8° Office central pour la répression de l'immigration irrégulière et de l'emploi d'étrangers sans titre ;
+
+9° Office central de lutte contre la criminalité liée aux technologies de l'information et de la communication.
 
 **Liens relatifs à cet article**
 
@@ -53915,13 +53917,13 @@ biologiques et chimiques ;
 	  - Code de procédure pénale - art. D4 (V)
 	  - Code de procédure pénale - art. D8 (V)
 
-	**Modifié par**:
-
-	  - Décret n°97-285 du 25 mars 1997 - art. 7 () JORF 28 mars 1997
-
 	**Liens**:
 
 	  - TXT_SOURCE: Décret n°97-285 du 25 mars 1997
+
+	**Modifié par**:
+
+	  - Décret n°2001-475 du 30 mai 2001 - art. 1 () JORF 3 juin 2001
 
 	**Cite**:
 
@@ -54216,235 +54218,6 @@ agents de police judiciaire, en application de l'article 19.
 	  - TXT_SOURCE: Code de procédure pénale 20 et 21
 
 
-#### Chapitre II : De la médiation pénale
-
-###### Article D15-1
-
-Lorsque le procureur de la République décide de recourir à une médiation dans les conditions de l'article 41, il peut
-désigner à cette fin toute personne physique ou morale habilitée ainsi qu'il est dit ci-après.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°58-1304 1958-12-23
-
-	**Modifié par**:
-
-	  - Décret n°96-305 du 10 avril 1996 - art. 1 () JORF 12 avril 1996
-
-	**Cité par**:
-
-	  - Décret n°2001-71 du 29 janvier 2001 - art. 8 (V)
-
-	**Abrogé par**:
-
-	  - Décret n°2001-475 du 30 mai 2001 - art. 2 () JORF 3 juin 2001
-
-	**Cite**:
-
-	  - CODE DE PROCEDURE PENALE - art. 41 (M)
-
-
-###### Article D15-2
-
-La personne physique ou morale selon qu'elle désire être habilitée comme médiateur dans le ressort du tribunal de grande
-instance ou dans celui de la cour d'appel en fait la demande au procureur de la République ou au procureur général.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°58-1304 1958-12-23
-
-	**Modifié par**:
-
-	  - Décret n°96-305 du 10 avril 1996 - art. 1 () JORF 12 avril 1996
-
-	**Abrogé par**:
-
-	  - Décret n°2001-475 du 30 mai 2001 - art. 2 () JORF 3 juin 2001
-
-	**Cité par**:
-
-	  - Code de procédure pénale - art. D48-5-1 (V)
-
-
-###### Article D15-3
-
-La demande présentée par une association comporte notamment :
-
-1° La copie du Journal officiel portant publication de la déclaration de l'association ou, en ce qui concerne les
-départements du Bas-Rhin, du Haut-Rhin ou de la Moselle, une copie de l'extrait du registre des associations du tribunal
-d'instance ;
-
-2° Un exemplaire des statuts et, s'il y a lieu, du règlement intérieur ;
-
-3° La liste des établissements de l'association avec indication de leur siège ;
-
-4° Un exposé indiquant les conditions de fonctionnement de l'association et, le cas échéant, l'organisation et les conditions
-de fonctionnement des comités locaux ainsi que leurs rapports avec l'association ;
-
-5° La mention des nom, prénoms, date et lieu de naissance, nationalité, profession et domicile des membres du conseil
-d'administration et du bureau de l'association ainsi que, le cas échéant, ceux de ses représentants locaux ;
-
-6° Les pièces financières qui doivent comprendre les comptes du dernier exercice, le budget de l'exercice courant et un bilan
-ou état de l'actif mobilier et immobilier et du passif.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°58-1304 1958-12-23
-
-	**Modifié par**:
-
-	  - Décret n°96-305 du 10 avril 1996 - art. 1 () JORF 12 avril 1996
-
-	**Abrogé par**:
-
-	  - Décret n°2001-475 du 30 mai 2001 - art. 2 () JORF 3 juin 2001
-
-	**Cité par**:
-
-	  - Décret n°2007-699 du 3 mai 2007 - art. 15 (V)
-
-
-###### Article D15-4
-
-Le médiateur doit satisfaire aux conditions suivantes :
-
-1° Ne pas exercer d'activités judiciaires à titre professionnel ;
-
-2° Ne pas avoir fait l'objet d'une condamnation, incapacité ou déchéance mentionnée sur le bulletin n° 2 du casier
-judiciaire ;
-
-3° Présenter des garanties de compétence, d'indépendance et d'impartialité.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°58-1304 1958-12-23
-
-	**Modifié par**:
-
-	  - Décret n°96-305 du 10 avril 1996 - art. 1 () JORF 12 avril 1996
-
-	**Abrogé par**:
-
-	  - Décret n°2001-475 du 30 mai 2001 - art. 2 () JORF 3 juin 2001
-
-	**Cité par**:
-
-	  - Code de procédure pénale - art. D2 (V)
-
-
-###### Article D15-5
-
-Le médiateur est tenu à l'obligation du secret.
-
-Les informations qu'il recueille dans l'exercice de sa mission ne peuvent être divulguées.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°58-1304 1958-12-23
-
-	**Modifié par**:
-
-	  - Décret n°96-305 du 10 avril 1996 - art. 1 () JORF 12 avril 1996
-
-	**Abrogé par**:
-
-	  - Décret n°2001-475 du 30 mai 2001 - art. 2 () JORF 3 juin 2001
-
-
-###### Article D15-6
-
-Après avoir procédé à toutes les diligences qu'il juge utiles, le procureur de la République ou le procureur général soumet
-la demande d'habilitation à l'assemblée générale des magistrats du siège et du parquet du tribunal ou de la cour d'appel, qui
-statue à la majorité de ses membres présents.
-
-La commission restreinte de l'assemblée générale des magistrats du siège et du parquet, dans les juridictions où sa
-constitution est obligatoire, exerce les attributions mentionnées à l'alinéa précédent.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°58-1304 1958-12-23
-
-	**Modifié par**:
-
-	  - Décret n°96-305 du 10 avril 1996 - art. 1 () JORF 12 avril 1996
-
-	**Abrogé par**:
-
-	  - Décret n°2001-475 du 30 mai 2001 - art. 2 () JORF 3 juin 2001
-
-	**Cité par**:
-
-	  - Décret n°2007-699 du 3 mai 2007 - art. 14 (V)
-	  - CODE DE PROCEDURE PENALE - art. A36-11 (V)
-	  - CODE DE PROCEDURE PENALE - art. D15-8 (Ab)
-
-
-###### Article D15-7
-
-En cas d'urgence, une habilitation provisoire, valable jusqu'à la décision de la prochaine assemblée générale, peut être
-prise par le procureur de la République ou le procureur général.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°58-1304 1958-12-23
-
-	**Modifié par**:
-
-	  - Décret n°96-305 du 10 avril 1996 - art. 1 () JORF 12 avril 1996
-
-	**Abrogé par**:
-
-	  - Décret n°2001-475 du 30 mai 2001 - art. 2 () JORF 3 juin 2001
-
-	**Cité par**:
-
-	  - Code de procédure pénale - art. D40-3 (V)
-
-
-###### Article D15-8
-
-Une habilitation peut être retirée selon la procédure prévue par l'article D. 15-6.
-
-Le procureur de la République ou le procureur général peut, aux fins de retrait de l'habilitation, saisir, selon le cas,
-l'assemblée générale des magistrats du siège et du parquet du tribunal, celle de la cour d'appel ou la commission restreinte
-compétente.
-
-En cas d'urgence, le procureur de la République ou le procureur général peut retirer provisoirement l'habilitation jusqu'à la
-décision de la prochaine assemblée générale ou commission.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°58-1304 1958-12-23
-
-	**Modifié par**:
-
-	  - Décret n°96-305 du 10 avril 1996 - art. 1 () JORF 12 avril 1996
-
-	**Abrogé par**:
-
-	  - Décret n°2001-475 du 30 mai 2001 - art. 2 () JORF 3 juin 2001
-
-	**Cite**:
-
-	  - CODE DE PROCEDURE PENALE - art. D15-6 (Ab)
-
-
 ### Titre III : Des juridictions d'instruction
 
 #### Chapitre Ier : Du juge d'instruction : juridiction d'instruction du premier degré
@@ -54529,22 +54302,26 @@ Le juge d'instruction qui ordonne les enquêtes et examens visés à l'article D
 doivent lui être adressés. 
 
 En cas de retards injustifiés, la personne désignée peut être remplacée et il en est donné avis aux fins de droit au
-procureur général et au président de la chambre d'accusation.
+procureur général et au président de la chambre d'instruction.
 
 **Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°58-1304 1958-12-23
 
 	**Liens**:
 
 	  - SPEC_APPLI: Décret n°58-1304 1958-12-23
 	  - TXT_SOURCE: Code de procédure pénale 81 al. 5 et al. 6
 
+	**Codifié par**:
+
+	  - Décret n°58-1304 1958-12-23
+
+	**Modifié par**:
+
+	  - Décret n°2001-475 du 30 mai 2001 - art. 3 () JORF 3 juin 2001
+
 	**Cite**:
 
-	  - CODE DE PROCEDURE PENALE - art. D16 (M)
+	  - Code de procédure pénale - art. D16 (V)
 
 
 ###### Article D19
@@ -54969,14 +54746,14 @@ d'enregistrement.
 	  - Code de procédure pénale 155 al. 2
 
 
-#### Chapitre II : De la chambre d'accusation : juridiction d'instruction du second degré
+#### Chapitre II : De la chambre d'instruction : juridiction d'instruction du second degré
 
 ##### Section 1 : Dispositions générales
 
 ###### Article D43
 
 Dans les cours d'appel comportant quatre chambres au plus, non compris les chambres détachées, et jusqu'à ce qu'il puisse en
-être autrement disposé, le président de la chambre d'accusation peut, en cas de nécessité, assurer à titre exceptionnel le
+être autrement disposé, le président de la chambre d'instruction peut, en cas de nécessité, assurer à titre exceptionnel le
 service d'une autre chambre de la même cour, conformément aux dispositions de l'article 191, alinéa 4.
 
 **Liens relatifs à cet article**
@@ -54984,6 +54761,10 @@ service d'une autre chambre de la même cour, conformément aux dispositions de 
 	**Codifié par**:
 
 	  - Décret n°58-1304 1958-12-23
+
+	**Modifié par**:
+
+	  - Décret n°2001-475 du 30 mai 2001 - art. 3 () JORF 3 juin 2001
 
 	**Cité par**:
 
@@ -54998,16 +54779,8 @@ service d'une autre chambre de la même cour, conformément aux dispositions de 
 
 	  - CODE DE PROCEDURE PENALE - art. 191 (M)
 
-	**Liens**:
 
-	  - TXT_SOURCE: CODE DE PROCEDURE PENALE - art. 191 (M)
-
-	**Modifié par**:
-
-	  - Décret n°60-134 1960-02-02 art. 1 JORF 17 février 1960
-
-
-##### Section 3 : De la notation et du contrôle de l'activité judiciaire des officiers de police judiciaire [ Dispositions prises pour l'application des articles 13, 16, 19-1, 224 à 230 et R. 14 à R. 15-6 du code de procédure pénale ]
+##### Section 3 : De la notation et du contrôle de l'activité judiciaire des officiers de police judiciaire (Dispositions prises pour l'application des articles 13, 16, 19-1, 224 à 230 et R. 14 à R. 15-6 du code de procédure pénale)
 
 ###### Article D44
 
@@ -55029,7 +54802,7 @@ l'exercice des activités judiciaires de l'intéressé ;
 
 5° Les notations annuelles établies en application des dispositions ci-après.
 
-Le dossier est communiqué à la chambre d'accusation lorsque celle-ci se trouve saisie dans les conditions fixées à l'article
+Le dossier est communiqué à la chambre d'instruction lorsque celle-ci se trouve saisie dans les conditions fixées à l'article
 225.
 
 **Liens relatifs à cet article**
@@ -55051,7 +54824,7 @@ Le dossier est communiqué à la chambre d'accusation lorsque celle-ci se trouve
 
 	**Modifié par**:
 
-	  - Décret n°98-1203 du 28 décembre 1998 - art. 1 () JORF 29 décembre 1998
+	  - Décret n°2001-475 du 30 mai 2001 - art. 3 () JORF 3 juin 2001
 
 	**Cite**:
 
@@ -55080,7 +54853,7 @@ chambres correctionnelles, établit une proposition de notation qu'il transmet c
 d'appel.
 
 La notation est établie par le procureur général, après consultation, le cas échéant, des présidents de la chambre
-d'accusation et des cours d'assises du ressort.
+d'instruction et des cours d'assises du ressort.
 
 **Liens relatifs à cet article**
 
@@ -55091,17 +54864,10 @@ d'accusation et des cours d'assises du ressort.
 	**Liens**:
 
 	  - SPEC_APPLI: Décret n°58-1304 1958-12-23 art. 6
-	  - TXT_SOURCE: CODE DE PROCEDURE PENALE - art. 224 (M)
-	  - TXT_SOURCE: CODE DE PROCEDURE PENALE - art. 225 (M)
-	  - TXT_SOURCE: CODE DE PROCEDURE PENALE - art. 226 (M)
-	  - TXT_SOURCE: CODE DE PROCEDURE PENALE - art. 227 (M)
-	  - TXT_SOURCE: CODE DE PROCEDURE PENALE - art. 228 (M)
-	  - TXT_SOURCE: CODE DE PROCEDURE PENALE - art. 229 (M)
-	  - TXT_SOURCE: CODE DE PROCEDURE PENALE - art. 230 (M)
 
 	**Modifié par**:
 
-	  - Décret n°98-1203 du 28 décembre 1998 - art. 1 () JORF 29 décembre 1998
+	  - Décret n°2001-475 du 30 mai 2001 - art. 3 () JORF 3 juin 2001
 
 	**Cité par**:
 
@@ -55117,7 +54883,7 @@ l'application des peines et celles du ou des présidents des chambres correction
 qu'il transmet chaque année au procureur général près la cour d'appel.
 
 Celui-ci établit la notation après avoir, le cas échéant, recueilli les observations des autres procureurs de la République
-concernés de son ressort, des présidents de la chambre d'accusation et des cours d'assises. Lorsque le service ou l'unité
+concernés de son ressort, des présidents de la chambre d'instruction et des cours d'assises. Lorsque le service ou l'unité
 dans lequel l'officier de police judiciaire est affecté excède le ressort de la cour d'appel, le procureur général peut
 également recueillir l'avis des autres procureurs généraux concernés.
 
@@ -55127,18 +54893,18 @@ dans lequel l'officier de police judiciaire est affecté excède le ressort de l
 
 	  - Décret n°58-1304 1958-12-23
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°98-1203 du 28 décembre 1998 - art. 2 () JORF 29 décembre 1998
+	  - Décret n°2001-475 du 30 mai 2001 - art. 3 () JORF 3 juin 2001
+
+	**Abrogé par**:
+
+	  - Décret n°2007-1817 du 24 décembre 2007 - art. 4
 
 	**Cité par**:
 
 	  - CODE DE PROCEDURE PENALE - art. D46 (V)
 
-
-#### Chapitre II : De la chambre de l'instruction : juridiction d'instruction du second degré
-
-##### Section 3 : De la notation et du contrôle de l'activité judiciaire des officiers de police judiciaire [ Dispositions prises pour l'application des articles 13, 16, 19-1, 224 à 230 et R. 14 à R. 15-6 du code de procédure pénale ]
 
 ###### Article D46
 
@@ -55171,17 +54937,10 @@ alinéa porte pour seule mention les mots : "activité judiciaire non observée"
 	**Liens**:
 
 	  - SPEC_APPLI: Décret n°58-1304 1958-12-23 art. 6
-	  - TXT_SOURCE: CODE DE PROCEDURE PENALE - art. 224 (M)
-	  - TXT_SOURCE: CODE DE PROCEDURE PENALE - art. 225 (M)
-	  - TXT_SOURCE: CODE DE PROCEDURE PENALE - art. 226 (M)
-	  - TXT_SOURCE: CODE DE PROCEDURE PENALE - art. 227 (M)
-	  - TXT_SOURCE: CODE DE PROCEDURE PENALE - art. 228 (M)
-	  - TXT_SOURCE: CODE DE PROCEDURE PENALE - art. 229 (M)
-	  - TXT_SOURCE: CODE DE PROCEDURE PENALE - art. 230 (M)
 
 	**Modifié par**:
 
-	  - Décret n°98-1203 du 28 décembre 1998 - art. 1 () JORF 29 décembre 1998
+	  - Décret n°2001-475 du 30 mai 2001 - art. 3 () JORF 3 juin 2001
 
 	**Cite**:
 
@@ -55203,7 +54962,15 @@ communiquée à l'autorité administrative ou militaire chargée d'établir les 
 
 	**Modifié par**:
 
-	  - Décret n°98-1203 du 28 décembre 1998 - art. 1 () JORF 29 décembre 1998
+	  - Décret n°2001-475 du 30 mai 2001 - art. 3 () JORF 3 juin 2001
+
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2008-1490 du 30 décembre 2008 - art. 1
+
+	**Nouveaux textes**:
+
+	  - CODE DE PROCEDURE PENALE - art. D46-1 (T)
 
 
 ## Livre IV : De quelques procédures particulières
@@ -55946,7 +55713,7 @@ PRISON DE RATTACHEMENT : M.A. des Yvelines.
 
 ###### Article D55
 
-Conformément aux dispositions de l'article 715, le juge d'instruction, le président de la chambre d'accusation et le
+Conformément aux dispositions de l'article 715, le juge d'instruction, le président de la chambre d'instruction et le
 président de la cour d'assises, ainsi que le procureur de la République et le procureur général, peuvent donner tous les
 ordres nécessaires [*compétence*] soit pour l'instruction, soit pour le jugement, qui devront être exécutés dans les maisons
 d'arrêt. 
@@ -55963,8 +55730,7 @@ Les mêmes prérogatives appartiennent au juge des enfants à l'égard des mineu
 
 	**Modifié par**:
 
-	  - Décret n°83-48 1983-01-26 art. 1 JORF 28 janvier 1983
-	  - Décret n°85-836 1985-08-06 art. 1 JORF 8 août 1985
+	  - Décret n°2001-475 du 30 mai 2001 - art. 3 () JORF 3 juin 2001
 
 	**Cité par**:
 
@@ -55975,10 +55741,6 @@ Les mêmes prérogatives appartiennent au juge des enfants à l'égard des mineu
 	**Cite**:
 
 	  - CODE DE PROCEDURE PENALE - art. 715 (M)
-
-	**Liens**:
-
-	  - TXT_SOURCE: Code de procédure pénale 714 à 728
 
 
 ###### Article D55-1
@@ -60038,32 +59800,32 @@ la levée d'écrou d'un détenu hospitalisé au moment de sa libération.
 ###### Article D152
 
 Indépendamment du registre d'écrou, des registres ou livres prévus par la réglementation comptable, le chef de
-l'établissement doit tenir ou faire tenir les registres et les fichiers suivants :
+l'établissement doit tenir ou faire tenir les registres et les fichiers suivants : 
 
-1° Répertoire alphabétique des détenus écroués ;
+1° Répertoire alphabétique des détenus écroués ; 
 
-2° Registre des demandes de mise en liberté, de saisine de la chambre d'accusation, de demandes d'actes ou de mesures utiles
-à l'instruction et de requêtes en annulation ;
+2° Registre des demandes de mise en liberté, de saisine de la chambre d'instruction, de demandes d'actes ou de mesures utiles
+à l'instruction et de requêtes en annulation ; 
 
-3° Registre des déclarations d'opposition ;
+3° Registre des déclarations d'opposition ; 
 
-4° Registre des déclarations d'appel et de pourvoi ;
+4° Registre des déclarations d'appel et de pourvoi ; 
 
-5° Registre des libérations par mois ;
+5° Registre des libérations par mois ; 
 
-6° Fichier des libérations conditionnelles ;
+6° Fichier des libérations conditionnelles ; 
 
-7° Fichier des interdits de séjour ;
+7° Fichier des interdits de séjour ; 
 
-8° Registre du contrôle numérique ;
+8° Registre du contrôle numérique ; 
 
-9° Registre des mesures d'individualisation de la peine ;
+9° Registre des mesures d'individualisation de la peine ; 
 
-10° Registre des inspections et carnet d'ordres de service ;
+10° Registre des inspections et carnet d'ordres de service ; 
 
-11° Registre des entrées et sorties ;
+11° Registre des entrées et sorties ; 
 
-12° Registre des mesures mentionnées à l'article 723 ;
+12° Registre des mesures mentionnées à l'article 723 ; 
 
 13° Fichier des réductions de peine.
 
@@ -60075,11 +59837,11 @@ l'établissement doit tenir ou faire tenir les registres et les fichiers suivant
 
 	**Modifié par**:
 
-	  - Décret n°98-1099 du 8 décembre 1998 - art. 40 () JORF 9 décembre 1998
+	  - Décret n°2001-475 du 30 mai 2001 - art. 3 () JORF 3 juin 2001
 
 	**Cite**:
 
-	  - CODE DE PROCEDURE PENALE - art. 723 (M)
+	  - Code de procédure pénale - art. 723 (V)
 
 	**Liens**:
 
@@ -60088,11 +59850,12 @@ l'établissement doit tenir ou faire tenir les registres et les fichiers suivant
 
 ###### Article D153
 
-Pour l'application des articles 81, 82-1, 148-7, 148-8, 156, 167, 173, 221-2, 490-1, 503, 547 et 577, le chef de
-l'établissement, ou, sous son autorité, le fonctionnaire chargé du greffe, tient dans chaque établissement un registre des
-déclarations d'appel ou de pourvoi, un registre des déclarations d'opposition et un registre des demandes de mise en liberté,
-de saisine de la chambre d'accusation, de demandes d'actes ou de mesures utiles à l'instruction et de requêtes en annulation,
-dans lesquels sont conservées les déclarations, demandes et requêtes qu'il est appelé à recevoir et à transmettre.
+Pour l'application des articles 81,82-1,148-7,148-8,
+156,167,173,221-2,490-1,503,547 et 577, le chef de l'établissement, ou, sous son autorité, le fonctionnaire chargé du greffe,
+tient dans chaque établissement un registre des déclarations d'appel ou de pourvoi, un registre des déclarations d'opposition
+et un registre des demandes de mise en liberté, de saisine de la chambre d'instruction, de demandes d'actes ou de mesures
+utiles à l'instruction et de requêtes en annulation, dans lesquels sont conservées les déclarations, demandes et requêtes
+qu'il est appelé à recevoir et à transmettre. 
 
 Ces registres sont composés de la copie des exemplaires numérotés desdites déclarations, demandes et requêtes.
 
@@ -60104,22 +59867,21 @@ Ces registres sont composés de la copie des exemplaires numérotés desdites d�
 
 	**Modifié par**:
 
-	  - Décret n°98-1099 du 8 décembre 1998 - art. 40 () JORF 9 décembre 1998
+	  - Décret n°2001-475 du 30 mai 2001 - art. 3 () JORF 3 juin 2001
 
 	**Cite**:
 
-	  - CODE DE PROCEDURE PENALE - art. 148-7 (M)
-	  - CODE DE PROCEDURE PENALE - art. 148-8 (M)
-	  - CODE DE PROCEDURE PENALE - art. 156 (M)
-	  - CODE DE PROCEDURE PENALE - art. 167 (M)
-	  - CODE DE PROCEDURE PENALE - art. 173 (M)
-	  - CODE DE PROCEDURE PENALE - art. 221-2 (M)
-	  - CODE DE PROCEDURE PENALE - art. 490-1 (V)
-	  - CODE DE PROCEDURE PENALE - art. 503 (V)
-	  - CODE DE PROCEDURE PENALE - art. 547 (M)
-	  - CODE DE PROCEDURE PENALE - art. 577 (V)
-	  - CODE DE PROCEDURE PENALE - art. 81 (M)
-	  - CODE DE PROCEDURE PENALE - art. 82-1 (M)
+	  - Code de procédure pénale - art. 148-7 (V)
+	  - Code de procédure pénale - art. 156 (V)
+	  - Code de procédure pénale - art. 167 (V)
+	  - Code de procédure pénale - art. 173 (V)
+	  - Code de procédure pénale - art. 221-2 (V)
+	  - Code de procédure pénale - art. 490-1 (V)
+	  - Code de procédure pénale - art. 503 (V)
+	  - Code de procédure pénale - art. 547 (V)
+	  - Code de procédure pénale - art. 577 (V)
+	  - Code de procédure pénale - art. 81 (V)
+	  - Code de procédure pénale - art. 82-1 (V)
 
 	**Liens**:
 
@@ -60559,11 +60321,11 @@ rapport sur l'application des peines.
 
 ###### Article D177
 
-Conformément aux dispositions de l'article 222, le président de la chambre d'accusation visite, chaque fois qu'il l'estime
+Conformément aux dispositions de l'article 222, le président de la chambre d'instruction visite, chaque fois qu'il l'estime
 nécessaire et au moins une fois par trimestre, les maisons d'arrêt du ressort de la cour d'appel, et y vérifie la situation
 des personnes mises en examen en état de détention provisoire.
 
-Il transmet ses observations éventuelles au président de la chambre d'accusation compétent à l'égard des prévenus qui ne
+Il transmet ses observations éventuelles au président de la chambre d'instruction compétent à l'égard des prévenus qui ne
 relèvent pas d'une juridiction du ressort de sa cour d'appel.
 
 Le juge d'instruction et, en ce qui concerne les mineurs relevant de sa juridiction, le juge des enfants, peuvent également
@@ -60581,7 +60343,7 @@ compétentes pour y donner suite.
 
 	**Modifié par**:
 
-	  - Décret n°98-1099 du 8 décembre 1998 - art. 144 () JORF 9 décembre 1998
+	  - Décret n°2001-475 du 30 mai 2001 - art. 3 () JORF 3 juin 2001
 
 	**Cite**:
 
