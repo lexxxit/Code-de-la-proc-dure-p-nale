@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 2005-01-29
+Version Consolidée au 2005-02-05
 
 # Partie législative
 
@@ -51098,6 +51098,79 @@ l'application des peines conformément aux dispositions du deuxième alinéa de 
 
 # Partie réglementaire - Décrets en Conseil d'Etat
 
+## Titre préliminaire : De l'action publique et de l'action civile
+
+###### Article R1
+
+I. - Toute fédération d'associations visée au troisième alinéa de l'article 2-15 peut être inscrite auprès du ministre de la
+justice, selon les modalités précisées au II du présent article, si elle remplit, à la date de sa demande d'inscription, les
+trois conditions suivantes :
+
+a) Justifier de l'existence d'au moins cinq années d'activité effective en vue de la défense des intérêts des victimes
+d'accidents collectifs ;
+
+b) Rassembler au moins dix associations de victimes agréées sur le fondement du premier alinéa de l'article 2-15 ;
+
+c) Justifier d'un nombre total d'adhérents à ces associations, ayant la qualité de victimes d'infraction, supérieur ou égal à
+1 000.
+
+II. - La demande d'inscription, adressée au ministre de la justice, comprend les documents suivants :
+
+a) Les statuts de la fédération ;
+
+b) Un extrait du Journal officiel de la République française attestant de la date de sa déclaration ;
+
+c) Un rapport d'activité portant sur les cinq dernières années ;
+
+d) Un document justifiant du nombre d'associations agréées affiliées à la fédération et du nombre de leurs adhérents.
+
+Lorsque le dossier remis est complet, il en est délivré récépissé.
+
+La décision d'inscription ou de refus d'inscription est notifiée à la fédération intéressée dans un délai de deux mois à
+compter de la date de délivrance du récépissé. Si aucune décision n'est notifiée dans ce délai, l'inscription est réputée
+acquise. La décision de refus d'inscription est motivée.
+
+Le ministre de la justice établit et tient à jour dans un registre la liste des fédérations habilitées à se constituer partie
+civile en application du troisième alinéa de l'article 2-15.
+
+L'inscription peut être retirée, par décision motivée du ministre de la justice, lorsque la fédération ne remplit plus les
+conditions énoncées au I du présent article. La fédération est au préalable mise en demeure de présenter ses observations.
+
+La fédération qui entend contester une décision de refus ou de retrait d'inscription doit, préalablement à tout recours
+contentieux, présenter un recours gracieux auprès du ministre de la justice.
+
+III. - Toute fédération inscrite adresse chaque année au ministre de la justice son rapport d'activité, qui précise notamment
+le nombre des associations qui la composent et celui de leurs adhérents.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°58-358 1958-04-02
+
+	**Modifié par**:
+
+	  - Décret n°2005-84 du 3 février 2005 - art. 3 () JORF 5 février 2005
+
+	**Transféré par**:
+
+	  - Décret n°2007-1388 du 26 septembre 2007 - art. 6 () JORF 28 septembre 2007
+
+	**Liens**:
+
+	  - TXT_SOURCE: CODE DE PROCEDURE PENALE - art. 16 (M)
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. 2-15 (M)
+
+	**Nouveaux textes**:
+
+	  - CODE DE PROCEDURE PENALE - art. R1-1 (V)
+	  - CODE DE PROCEDURE PENALE - art. R2 (V)
+	  - CODE DE PROCEDURE PENALE - art. R2-1 (V)
+
+
 ## Livre Ier : De l'exercice de l'action publique et de l'instruction
 
 ### Titre Ier : Des autorités chargées de l'action publique et de l'instruction
@@ -51106,7 +51179,7 @@ l'application des peines conformément aux dispositions du deuxième alinéa de 
 
 ##### Section 1 : Dispositions générales
 
-###### Article R1
+###### Article R2
 
 Les officiers de police judiciaire, à l'occasion d'une enquête ou de l'exécution d'une commission rogatoire, ne peuvent
 solliciter ou recevoir des ordres ou instructions que de l'autorité judiciaire dont ils dépendent.
@@ -51119,25 +51192,29 @@ solliciter ou recevoir des ordres ou instructions que de l'autorité judiciaire 
 
 	**Modifié par**:
 
-	  - Décret n°2002-801 du 3 mai 2002 - art. 8 () JORF 5 mai 2002
-
-	**Transféré par**:
-
-	  - Décret n°2005-84 du 3 février 2005 - art. 1 () JORF 5 février 2005
+	  - Décret n°2005-84 du 3 février 2005 - art. 3 () JORF 5 février 2005
 
 	**Liens**:
 
+	  - TRANSFERE: Décret n°2011-1271 du 12 octobre 2011 - art. 1
 	  - TXT_SOURCE: CODE DE PROCEDURE PENALE - art. 16 (M)
+
+	**Cité par**:
+
+	  - Arrêté du 16 février 2012 - art. 1 (VT)
+	  - Code de procédure pénale - art. R2-1 (VD)
+
+	**Anciens textes**:
+
+	  - CODE DE PROCEDURE PENALE - art. R1 (M)
+	  - CODE DE PROCEDURE PENALE - art. R1 (T)
 
 	**Nouveaux textes**:
 
-	  - CODE DE PROCEDURE PENALE - art. R1-1 (V)
-	  - CODE DE PROCEDURE PENALE - art. R2 (T)
-	  - CODE DE PROCEDURE PENALE - art. R2 (V)
-	  - CODE DE PROCEDURE PENALE - art. R2-1 (V)
+	  - Code de procédure pénale - art. R2-16 (VD)
 
 
-###### Article R2
+###### Article R2-1
 
 Les officiers de police judiciaire doivent rendre compte de leurs diverses opérations à l'autorité judiciaire dont ils
 dépendent sans attendre la fin de leur mission.
@@ -51148,34 +51225,30 @@ dépendent sans attendre la fin de leur mission.
 
 	  - Décret n°58-358 1958-04-02
 
-	**Modifié par**:
-
-	  - Décret n°66-716 1966-09-28 art. 1 JORF 29 septembre 1966
-
-	**Transféré par**:
+	**Créé par**:
 
 	  - Décret n°2005-84 du 3 février 2005 - art. 2 () JORF 5 février 2005
 
-	**Cité par**:
-
-	  - Arrêté du 16 février 2012 - art. 1 (VT)
-	  - Code de procédure pénale - art. R2-1 (VD)
-
 	**Liens**:
 
+	  - TRANSFERE: Décret n°2011-1271 du 12 octobre 2011 - art. 1
 	  - TXT_SOURCE: CODE DE PROCEDURE PENALE - art. 16 (M)
 
-	**Cite**:
+	**Cité par**:
 
-	  - CODE DE PROCEDURE PENALE - art. 30 (M)
+	  - Arrêté du 16 février 2012 - art. 2 (VT)
+	  - Code de procédure pénale - art. R2 (VD)
+	  - Code de procédure pénale - art. R2-2 (VD)
+	  - Code de procédure pénale - art. R2-3 (VD)
 
 	**Anciens textes**:
 
-	  - CODE DE PROCEDURE PENALE - art. R1 (T)
+	  - CODE DE PROCEDURE PENALE - art. R1 (M)
+	  - CODE DE PROCEDURE PENALE - art. R2 (T)
 
 	**Nouveaux textes**:
 
-	  - CODE DE PROCEDURE PENALE - art. R2-1 (V)
+	  - Code de procédure pénale - art. R2-17 (VD)
 
 
 ##### Section 2 : Des officiers de police judiciaire
