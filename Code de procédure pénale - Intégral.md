@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 1971-10-01
+Version Consolidée au 1972-05-30
 
 # Partie législative
 
@@ -16352,6 +16352,85 @@ Si le travail doit être refait, toute rémunération peut être refusée.
 	  - Code de procédure pénale - art. R340 (V)
 
 
+###### Article R111
+
+Il est alloué aux experts qui se déplacent une indemnité journalière de séjour calculée suivant la réglementation relative
+aux frais de déplacement des personnels civils de l'Etat.
+
+Pour le calcul de ces indemnités, les experts sont assimilés aux fonctionnaires du groupe I.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°59-318 1959-02-23 JORF 25 février 1959 en vigueur le 2 mars 1959 rectificatif JORF 13 juin 1959
+
+	**Modifié par**:
+
+	  - Décret n°67-62 1967-01-14 art. 1 JORF 20 janvier 1967
+	  - Décret n°72-436 1972-05-29 art. 1 JORF 30 mai 1972
+
+	**Liens**:
+
+	  - TXT_SOURCE: CODE DE PROCEDURE PENALE - art. 800 (M)
+
+	**Cité par**:
+
+	  - CODE DE PROCEDURE PENALE - art. R122 (M)
+	  - CODE DE PROCEDURE PENALE - art. R323 (M)
+	  - Code de la route. - art. R235-12 (VD)
+	  - Code de la route. - art. R245-2 (VD)
+	  - Code de procédure pénale - art. R135 (V)
+	  - Code de procédure pénale - art. R142 (V)
+	  - Code de procédure pénale - art. R249-2 (VD)
+	  - Code des débits de boissons et des mesures contre  - art. R*29 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°59-318 1989-02-23
+
+
+###### Article R112
+
+Lorsque les experts sont entendus, soit devant les cours ou tribunaux, soit devant les magistrats instructeurs à l'occasion
+de la mission qui leur est confiée, il leur est alloué, outre leurs frais de déplacement et de séjour s'il y a lieu, une
+indemnité déterminée par la formule suivante : I = 20 + (S x 4), dans laquelle :
+
+I est le montant de l'indemnité forfaitaire exprimée en francs ;
+
+S le salaire minimum interprofessionnel de croissance tel qu'il est fixé au 1er janvier de l'année en cours.
+
+Les experts qui justifient d'une perte de salaire ou de traitement, au moyen d'une attestation délivrée par leur employeur ou
+chef de service, ont droit, en outre, à une indemnité supplémentaire calculée suivant la formule I = S x D, dans laquelle :
+
+S est le salaire minimum interprofessionnel de croissance déterminé comme ci-dessus ;
+
+D la durée horaire de comparution, celle-ci ne pouvant excéder huit heures par jour ouvrable.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-318 1959-02-23
+
+	**Créé par**:
+
+	  - Décret n°59-318 1959-02-23 JORF 25 février 1959 en vigueur le 2 mars 1959 rectificatif JORF 13 juin 1959
+
+	**Modifié par**:
+
+	  - Décret n°67-62 1967-01-14 art. 1 JORF 20 janvier 1967
+	  - Décret n°72-436 1972-05-29 art. 1 JORF 30 mai 1972
+
+	**Liens**:
+
+	  - TXT_SOURCE: CODE DE PROCEDURE PENALE - art. 800 (M)
+
+	**Cité par**:
+
+	  - Code de procédure pénale - art. R318 (V)
+
+
 ###### Article R113
 
 Lorsque les experts justifient qu'ils se sont trouvés, par suite de circonstances indépendantes de leur volonté, dans
@@ -16455,29 +16534,6 @@ Elles leur sont payées par ceux qui les ont appelés en témoignage.
 	  - TXT_SOURCE: CODE DE PROCEDURE PENALE - art. 800 (M)
 
 
-###### Article R126
-
-[Article abrogé].
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°59-318 1959-02-23
-
-	**Créé par**:
-
-	  - Décret n°59-318 1959-02-23 JORF 25 février 1959 en vigueur le 2 mars 1959 rectificatif JORF 13 juin 1959
-
-	**Abrogé par**:
-
-	  - Décret n°72-436 1972-05-29 art. 2 JORF 30 mai 1972
-
-	**Liens**:
-
-	  - TXT_SOURCE: CODE DE PROCEDURE PENALE - art. 800 (M)
-
-
 ###### Article R127
 
 Les militaires des armées de terre, de mer et de l'air, en activité de service, lorsqu'ils sont appelés en témoignage, n'ont
@@ -16525,6 +16581,56 @@ Les magistrats sont tenus d'énoncer, dans les mandats qu'ils délivrent au prof
 
 
 ##### B : Indemnités de comparution
+
+###### Article R129
+
+Les témoins âgés de seize ans ou plus, appelés à déposer soit à l'instruction, soit devant les cours et tribunaux statuant en
+matière criminelle, correctionnelle ou de police reçoivent une indemnité de comparution déterminée par la formule suivante :
+
+I = 10 + (S x 4) dans laquelle :
+
+I est le montant de l'indemnité forfaitaire exprimée en francs ;
+
+S le salaire minimum interprofessionnel de croissance tel qu'il est fixé au 1er janvier de l'année en cours.
+
+Les témoins qui justifient d'une perte de salaire ou de traitement, au moyen d'une attestation délivrée par leur employeur ou
+chef de service, ont droit, en outre, à une indemnité supplémentaire calculée suivant la formule I = S x D dans laquelle :
+
+S est le salaire minimum interprofessionnel de croissance déterminé comme ci-dessus ;
+
+D la durée horaire de comparution, celle-ci ne pouvant excéder huit heures par jour ouvrable.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-318 1959-02-23
+
+	**Créé par**:
+
+	  - Décret n°59-318 1959-02-23 JORF 25 février 1959 en vigueur le 2 mars 1959 rectificatif JORF 13 juin 1959
+
+	**Modifié par**:
+
+	  - Décret n°61-448 1961-05-08 art. 1 JORF 9 mai 1961
+	  - Décret n°67-62 1967-01-14 art. 1 JORF 20 janvier 1967
+	  - Décret n°72-436 1972-05-29 art. 1 JORF 30 mai 1972
+
+	**Cité par**:
+
+	  - Décret n°2004-593 du 17 juin 2004 - art. 33 (V)
+	  - CODE DE PROCEDURE PENALE - art. R130 (M)
+	  - Code de la sécurité sociale. - art. R144-15 (V)
+	  - Code de la sécurité sociale. - art. R144-7-4 (T)
+	  - Code de procédure pénale - art. R131 (V)
+	  - Code de procédure pénale - art. R132 (V)
+	  - Code de procédure pénale - art. R249-2 (VD)
+	  - Code de procédure pénale - art. R324 (V)
+
+	**Liens**:
+
+	  - TXT_SOURCE: CODE DE PROCEDURE PENALE - art. 800 (M)
+
 
 ###### Article R130
 
@@ -16612,9 +16718,31 @@ pour frais de voyage et de séjour.
 
 ##### C : Frais de voyage et de séjour
 
-###### Article R136
+###### Article R133
 
-[Article abrogé].
+Lorsque les témoins se déplacent, il leur est alloué sur justification une indemnité de transport qui est calculée ainsi
+qu'il suit :
+
+1° Si le voyage est fait par chemin de fer, l'indemnité est égale au prix d'un billet de deuxième classe tant à l'aller qu'au
+retour ;
+
+2° Si le voyage est fait par un autre service de transport en commun, l'indemnité est égale au prix d'un voyage, d'après le
+tarif de ce service, tant à l'aller qu'au retour ;
+
+3° Si le voyage n'est pas fait par l'un des moyens visés ci-dessus, l'indemnité est fixé à 0,38 F par kilomètre parcouru,
+tant à l'aller qu'au retour ;
+
+4° Si le voyage est fait par mer, il est accordé, sur le vu du duplicata du billet de voyage délivré par la compagnie de
+navigation, le remboursement du prix de passage en 2ème classe tant à l'aller qu'au retour ;
+
+5° Si le voyage est fait par air, il est accordé sur le vu du billet de voyage délivré par la compagnie aérienne le
+remboursement du prix de passage sur la base du tarif de la classe la plus économique.
+
+Les témoins, titulaires de permis de circulation ou jouissant à titre personnel ou en raison de leur emploi, de réductions de
+tarifs n'ont pas droit au remboursement des frais de transport pour la partie correspondant à l'exonération dont ils
+bénéficient. Les demandes de remboursement des frais de transport doivent être obligatoirement accompagnées d'une déclaration
+des intéressés certifiant qu'ils ne bénéficient pas, à quelque titre que ce soit, d'avantages de tarifs ou, dans le cas
+contraire, qu'ils ne bénéficient pas d'autres avantages que ceux dont il est fait état dans la demande.
 
 **Liens relatifs à cet article**
 
@@ -16626,18 +16754,34 @@ pour frais de voyage et de séjour.
 
 	  - Décret n°59-318 1959-02-23 JORF 25 février 1959 en vigueur le 2 mars 1959 rectificatif JORF 13 juin 1959
 
-	**Abrogé par**:
+	**Modifié par**:
 
-	  - Décret n°72-436 1972-05-29 art. 2 JORF 30 mai 1972
+	  - Décret n°67-62 1967-01-14 art. 1 JORF 20 janvier 1967
+	  - Décret n°72-436 1972-05-29 art. 1 JORF 30 mai 1972
+	  - Décret n°61-448 1981-05-08 art. 1 JORF 9 mai 1961
+
+	**Cité par**:
+
+	  - Décret n°91-1266 du 19 décembre 1991 - art. 119-1 (V)
+	  - Décret n°2004-593 du 17 juin 2004 - art. 33 (V)
+	  - Code de la sécurité sociale. - art. R144-15 (V)
+	  - Code de la sécurité sociale. - art. R144-7-4 (T)
+	  - Code de procédure pénale - art. R138 (V)
+	  - Code de procédure pénale - art. R249-2 (VD)
+	  - Code de procédure pénale - art. R325 (V)
+	  - Code de procédure pénale - art. R409 (V)
 
 	**Liens**:
 
 	  - TXT_SOURCE: CODE DE PROCEDURE PENALE - art. 800 (M)
 
 
-###### Article R137
+###### Article R135
 
-[Article abrogé].
+Les témoins retenus en dehors de leur résidence par l'accomplissement de leurs obligations ont droit à une indemnité
+journalière calculée dans les conditions fixées à l'article R. 111.
+
+Pour le calcul des taux journaliers, les témoins sont assimilés aux fonctionnaires du groupe III.
 
 **Liens relatifs à cet article**
 
@@ -16649,13 +16793,26 @@ pour frais de voyage et de séjour.
 
 	  - Décret n°59-318 1959-02-23 JORF 25 février 1959 en vigueur le 2 mars 1959 rectificatif JORF 13 juin 1959
 
-	**Abrogé par**:
-
-	  - Décret n°72-436 1972-05-29 art. 2 JORF 30 mai 1972
-
 	**Liens**:
 
+	  - SPEC_APPLI: Décret n°59-318 1959-02-23 art. 5
 	  - TXT_SOURCE: CODE DE PROCEDURE PENALE - art. 800 (M)
+
+	**Modifié par**:
+
+	  - Décret n°67-62 1967-01-14 art. 1 JORF 20 janvier 1967
+	  - Décret n°72-436 1972-05-29 art. 1 JORF 30 mai 1972
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. R111 (V)
+
+	**Cité par**:
+
+	  - Code de justice militaire. - art. D269-4 (V)
+	  - Code de justice militaire. - art. D269-9 (V)
+	  - Code de procédure pénale - art. R327 (Ab)
+	  - Code de procédure pénale - art. R413 (Ab)
 
 
 ###### Article R138
@@ -16689,6 +16846,56 @@ des mineurs de seize ans ou des témoins malades ou infirmes dans les conditions
 
 
 ##### Paragraphe 2 : Des membres du jury criminel
+
+###### Article R140
+
+Il est accordé aux jurés, pendant la durée de la session, une indemnité journalière déterminée par la formule suivante :
+
+I = 40 + (S x 8), dans laquelle :
+
+I est le montant de l'indemnité forfaitaire exprimé en francs ;
+
+S le salaire minimum interprofessionnel de croissance tel qu'il est fixé au 1er janvier de l'année en cours.
+
+Les jurés qui justifient d'une perte de salarié ou traitement, au moyen d'une attestation délivrée par leur employeur ou chef
+de service, ont droit, en outre, à une indemnité supplémentaire calculée suivant la formule suivante : I = S x D, dans
+laquelle :
+
+S est le salaire minimum interprofessionnel de croissance déterminé comme ci-dessus ;
+
+D la durée horaire de l'audience, celle-ci ne pouvant excéder huit heures par jour ouvrable.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-318 1959-02-23
+
+	**Créé par**:
+
+	  - Décret n°59-318 1959-02-23 JORF 25 février 1959 en vigueur le 2 mars 1959 rectificatif JORF 13 juin 1959
+
+	**Modifié par**:
+
+	  - Décret n°61-448 1961-05-08 art. 1 JORF 9 mai 1961
+	  - Décret n°67-62 1967-01-14 art. 1 JORF 20 janvier 1967
+	  - Décret n°72-436 1972-05-29 art. 1 JORF 30 mai 1972
+
+	**Cité par**:
+
+	  - Décret n°2015-261 du 5 mars 2015 - art. 14 (V)
+	  - Arrêté du 28 avril 1959 - art. 3 (Ab)
+	  - Code de la sécurité sociale. - art. R144-13 (V)
+	  - Code de la sécurité sociale. - art. R144-7-2 (T)
+	  - Code de procédure pénale - art. R146-2 (Ab)
+	  - Code de procédure pénale - art. R249-2 (VD)
+	  - Code de procédure pénale - art. R328 (V)
+	  - Code de procédure pénale - art. R412 (V)
+
+	**Liens**:
+
+	  - TXT_SOURCE: CODE DE PROCEDURE PENALE - art. 800 (M)
+
 
 ###### Article R142
 
@@ -16728,9 +16935,12 @@ Pour le calcul des taux journaliers, les jurés sont assimilés aux fonctionnair
 	  - Code de procédure pénale - art. R413 (Ab)
 
 
-###### Article R143
+###### Article R144
 
-[Article abrogé].
+Les indemnités de session et de séjour pendant la durée de la session sont dues pour chaque journée où le juré titulaire ou
+supplémentaire a été présent à l'appel pour concourir à la formation du jury de jugement.
+
+Les jurés complémentaires n'ont droit à l'indemnité de session que s'ils ont été inscrits sur la liste de service.
 
 **Liens relatifs à cet article**
 
@@ -16744,11 +16954,7 @@ Pour le calcul des taux journaliers, les jurés sont assimilés aux fonctionnair
 
 	**Modifié par**:
 
-	  - Décret n°67-62 1967-01-14 art. 1 JORF 20 janvier 1967
-
-	**Abrogé par**:
-
-	  - Décret n°72-436 1972-05-29 art. 2 JORF 30 mai 1972
+	  - Décret n°72-436 1972-05-29 art. 1 JORF 30 mai 1972
 
 	**Liens**:
 
