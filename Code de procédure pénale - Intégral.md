@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 1990-01-21
+Version Consolidée au 1990-02-22
 
 # Partie législative
 
@@ -49017,6 +49017,38 @@ Toute tentative d'évasion doit également être portée sans délai à la conna
 
 ##### Section 1 : Des entrées et sorties des détenus
 
+###### Article D284
+
+A leur arrivée dans un établissement et jusqu'au moment où ils peuvent être conduits soit dans les cellules, soit dans les
+quartiers où ils sont affectés, les détenus sont placés isolément dans des cellules d'attente ou dans des locaux en tenant
+lieu.
+
+Ils sont fouillés, soumis aux formalités de l'écrou et aux mensurations anthropométriques, ainsi qu'aux soins de propreté
+nécessaires. Des vêtements leur sont fournis par l'administration s'ils en expriment le désir.
+
+Chaque détenu doit être immédiatement mis en mesure d'informer sa famille de son incarcération. S'il s'agit d'un détenu âgé
+de moins de dix-huit ans, le chef de l'établissement procède à cette diligence en l'absence d'initiative de l'intéressé. Il
+informe également les services de la protection judiciaire de la jeunesse.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-322 1959-02-23
+
+	**Modifié par**:
+
+	  - Décret n°72-582 1972-09-12 art. 1 JORF 20 septembre 1972 rectificatif JORF 14 octobre 1972
+	  - Décret n°75-402 1975-05-23 art. 1 et art. 2 4° JORF 23 mai 1975
+	  - Décret n°83-48 1983-01-26 art. 1 JORF 28 janvier 1983
+	  - Décret n°85-836 1985-08-06 art. 1 JORF 8 août 1985
+	  - Décret n°90-166 du 21 février 1990 - art. 4 (V) JORF 22 février 1990
+
+	**Liens**:
+
+	  - TXT_SOURCE: Code de procédure pénale 714 à 728
+
+
 ###### Article D285
 
 Le jour de son arrivée à la prison ou, au plus tard, le lendemain, chaque détenu doit être visité par le chef de
@@ -49751,6 +49783,42 @@ soumis à leur sortie de prison.
 
 	  - SPEC_APPLI: Décret n°59-322 1959-02-23 art. 6
 	  - TXT_SOURCE: Code de procédure pénale 714 à 728
+
+
+###### Article D313
+
+Les mineurs qui ont été placés provisoirement dans une maison d'arrêt, et qui doivent faire l'objet d'une des mesures prévues
+par les articles 15, 16 et 28 de l'ordonnance n° 45-174 du 2 février 1945 relatives à l'enfance délinquante sont dirigés sans
+retard sur l'institution ou auprès de la personne chargée de les recevoir.
+
+A cette fin, le chef de l'établissement pénitentiaire qui en a la garde les signale au procureur de la République du siège du
+tribunal pour enfants, et à la direction de la protection judiciaire de la jeunesse au ministère de la justice.
+
+Leur prise en charge et leur conduite à destination incombent aux services de la protection judiciaire de la jeunesse et ne
+comportent aucune intervention de l'administration pénitentiaire.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Ordonnance 45-174 1945-02-02 art. 15, art. 16 et art. 28
+	  - Ordonnance n°45-174 du 2 février 1945 - art. 15 (M)
+
+	**Codifié par**:
+
+	  - Décret n°59-322 1959-02-23
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°59-322 1959-02-23 art. 6
+
+	**Modifié par**:
+
+	  - Décret n°90-166 du 21 février 1990 - art. 4 (V) JORF 22 février 1990
+
+	**Cité par**:
+
+	  - Code de procédure pénale - art. D149-2 (V)
 
 
 ##### Paragraphe 3 : Extractions
