@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 1995-02-05
+Version Consolidée au 1995-02-09
 
 # Partie législative
 
@@ -451,6 +451,39 @@ août 1994 relative à l'emploi de la langue française.
 	  - Décret n°95-240 du 3 mars 1995 - art. 9 (V)
 
 
+###### Article 2-15
+
+Toute association régulièrement déclarée ayant pour objet statutaire la défense des victimes d'un accident survenu dans les
+transports collectifs ou dans un lieu ou local ouvert au public et regroupant plusieurs de ces victimes peut, si elle a été
+agréée à cette fin, exercer les droits reconnus à la partie civile en ce qui concerne cet accident lorsque l'action publique
+a été mise en mouvement par le ministère public ou la partie lésée.
+
+Les conditions dans lesquelles les associations visées au premier alinéa peuvent être agréées, après avis du ministère
+public, compte tenu de leur représentativité, sont fixées par décret.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°57-1426 1957-12-31
+
+	**Créé par**:
+
+	  - Loi n°95-125 du 8 février 1995 - art. 51 () JORF 9 février 1995
+
+	**Cité par**:
+
+	  - Arrêté du 19 octobre 2009 (V)
+	  - Arrêté du 19 octobre 2009 - art. 1 (V)
+	  - Arrêté du 6 janvier 2010 - art. 1 (V)
+	  - Décret n°2017-888 du 6 mai 2017 - art. 6
+	  - CODE DE PROCEDURE PENALE - art. R1 (T)
+	  - Code de l'environnement - art. R142-10 (V)
+	  - Code de procédure pénale - art. 90-1 (V)
+	  - Code de procédure pénale - art. D1 (V)
+	  - Code de procédure pénale - art. R1-1 (V)
+
+
 ###### Article 3
 
 L'action civile peut être exercée en même temps que l'action publique et devant la même juridiction.
@@ -582,6 +615,24 @@ de plainte, lorsque celle-ci est une condition nécessaire de la poursuite.
 	  - Code de procédure pénale - art. 2 (V)
 	  - Code de procédure pénale - art. D1-1 (V)
 	  - Code monétaire et financier - art. L465-3-6 (V)
+
+
+###### Article 6-1
+
+Lorsqu'un crime ou un délit prétendument commis à l'occasion d'une poursuite judiciaire impliquerait la violation d'une
+disposition de procédure pénale, l'action publique ne peut être exercée que si le caractère illégal de la poursuite ou de
+l'acte accompli à cette occasion a été constaté par une décision devenue définitive de la juridiction répressive saisie. Le
+délai de prescription de l'action publique court à compter de cette décision.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°57-1426 1957-12-31
+
+	**Créé par**:
+
+	  - Loi n°95-125 du 8 février 1995 - art. 55 () JORF 9 février 1995
 
 
 ###### Article 7
@@ -935,11 +986,9 @@ Ont la qualité d'officier de police judiciaire :
 nominativement désignés par arrêté des ministres de la justice et des armées, après avis conforme d'une commission ;
 
 3° Les inspecteurs généraux, les sous-directeurs de police active, les contrôleurs généraux, les commissaires de police ; les
-fonctionnaires du corps des inspecteurs de police de la police nationale titulaires, nominativement désignés par arrêté des
-ministres de la justice et de l'intérieur, après avis conforme d'une commission.
-
-La composition des commissions prévues aux 2° et 3° sera déterminée par un décret en Conseil d'Etat pris sur le rapport du
-ministre de la justice et des ministres intéressés.
+fonctionnaires du corps des inspecteurs de police de la police nationale titulaires, et les commandants, les officiers de
+paix principaux ainsi que, sous réserve qu'ils comptent au moins deux ans de services effectifs en qualité de titulaires, les
+officiers de paix de la police nationale.
 
 Ont également la qualité d'officier de police judiciaire les personnes exerçant des fonctions de directeur ou sous-directeur
 de la police judiciaire relevant du ministre de l'intérieur et de directeur ou sous-directeur de la gendarmerie au ministère
@@ -1034,7 +1083,7 @@ alinéa sont fixées par décret en Conseil d'Etat pris sur le rapport du minist
 
 	**Modifié par**:
 
-	  - Loi n°94-89 du 1 février 1994 - art. 2 () JORF 2 février 1994 en vigueur le 2 février 1994
+	  - Loi n°95-125 du 8 février 1995 - art. 53 (V) JORF 9 février 1995
 
 
 ###### Article 16-1
@@ -1185,13 +1234,19 @@ des tribunaux de grande instance de Paris, Nanterre, Bobigny et Créteil sont co
 
 En cas d'urgence, les officiers de police judiciaire peuvent, sur commission rogatoire expresse du juge d'instruction ou sur
 réquisitions du procureur de la République, prises au cours d'une enquête préliminaire ou d'une enquête de flagrance,
-procéder aux opérations prescrites par ces magistrats sur toute l'étendue du territoire national. Ils doivent être assistés
-d'un officier de police judiciaire exerçant ses fonctions dans la circonscription intéressée. Le procureur de la République
-territorialement compétent en est informé par le magistrat ayant prescrit l'opération.
+procéder aux opérations prescrites par ces magistrats sur toute l'étendue du territoire national. Ils sont tenus d'être
+assistés d'un officier de police judiciaire exerçant ses fonctions dans la circonscription intéressée si le magistrat dont
+ils tiennent la commission ou la réquisition le décide. Le procureur de la République territorialement compétent en est
+informé par le magistrat ayant prescrit l'opération.
 
 Ils peuvent, sur proposition des autorités administratives dont ils dépendent et par habilitation du procureur général,
 recevoir compétence dans les limites territoriales de la circonscription des officiers de police judiciaire qu'ils sont
 appelés à suppléer en cas de besoin.
+
+Les officiers ou agents de police judiciaire exerçant leur mission dans des véhicules affectés au transport collectif de
+voyageurs ou dans les lieux destinés à l'accès à ces moyens de transport dont les limites territoriales excèdent le ressort
+de leur circonscription d'affectation sont compétents pour opérer dans ces lieux ou véhicules, dans des conditions
+déterminées par décret en Conseil d'Etat, pris sur le rapport du ministre de la justice et du ministre intéressé.
 
 **Liens relatifs à cet article**
 
@@ -1205,7 +1260,7 @@ appelés à suppléer en cas de besoin.
 
 	**Modifié par**:
 
-	  - Loi n°94-89 du 1 février 1994 - art. 3 () JORF 2 février 1994 en vigueur le 2 février 1994
+	  - Loi n°95-125 du 8 février 1995 - art. 54 () JORF 9 février 1995
 
 	**Cité par**:
 
@@ -5366,6 +5421,36 @@ Il est dressé procès-verbal de l'opération de destruction.
 	  - Code de procédure pénale - art. 230-45 (V)
 
 
+###### Article 100-7
+
+Aucune interception ne peut avoir lieu sur la ligne d'un député ou d'un sénateur sans que le président de l'assemblée à
+laquelle il appartient en soit informé par le juge d'instruction.
+
+Aucune interception ne peut avoir lieu sur une ligne dépendant du cabinet d'un avocat ou de son domicile sans que le
+bâtonnier en soit informé par le juge d'instruction.
+
+Les formalités prévues par le présent article sont prescrites à peine de nullité.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°57-1426 1957-12-31
+
+	**Modifié par**:
+
+	  - Loi n°95-125 du 8 février 1995 - art. 50 () JORF 9 février 1995
+
+	**Cité par**:
+
+	  - CODE DE PROCEDURE PENALE - art. 171 (M)
+	  - Code de procédure pénale - art. 230-34 (VD)
+	  - Code de procédure pénale - art. 706-102-5 (VD)
+	  - Code de procédure pénale - art. 706-95-3 (V)
+	  - Code de procédure pénale - art. 706-96 (VD)
+	  - Code de procédure pénale - art. 706-96-1 (V)
+
+
 ##### Section 4 : Des auditions de témoins
 
 ###### Article 104
@@ -8210,6 +8295,25 @@ soit désigné plusieurs. Les dispositions du dernier alinéa de l'article 81 so
 	  - Décret n°1919-01-22 du 22 janvier 1919 - art. 30 (Ab)
 
 
+###### Article 167-1
+
+Lorsque les conclusions de l'expertise sont de nature à conduire le juge d'instruction à déclarer qu'il n'y a lieu à suivre
+en application des dispositions du premier alinéa de l'article 122-1 du code pénal, leur notification à la partie civile doit
+être effectuée dans les conditions prévues par le premier alinéa de l'article 167. La partie civile dispose alors d'un délai
+de quinze jours pour présenter des observations ou formuler une demande de complément d'expertise ou de contre-expertise. La
+contre-expertise demandée par la partie civile est de droit. Elle doit être accomplie par au moins deux experts.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°57-1426 1957-12-31
+
+	**Créé par**:
+
+	  - Loi n°95-125 du 8 février 1995 - art. 56 () JORF 9 février 1995
+
+
 ###### Article 168
 
 Les experts exposent à l'audience, s'il y a lieu, le résultat des opérations techniques auxquelles ils ont procédé, après
@@ -9004,6 +9108,34 @@ Dans la négative, il ordonne par décision motivée que le dossier de l'informa
 	  - Code de procédure pénale - art. 99 (VD)
 
 
+###### Article 187
+
+Lorsqu'il est interjeté appel d'une ordonnance autre qu'une ordonnance de règlement ou que la chambre d'accusation est
+directement saisie, en application des articles 81, neuvième alinéa, 82-1, deuxième alinéa, 156, deuxième alinéa, ou 167,
+quatrième alinéa, le juge d'instruction poursuit son information, y compris, le cas échéant, jusqu'au règlement de celle-ci,
+sauf décision contraire du président de la chambre d'accusation. Cette décision n'est pas susceptible de recours.
+
+Il en est de même lorsque la chambre d'accusation est saisie d'une requête en nullité en application de l'article 173.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°57-1426 1957-12-31
+
+	**Modifié par**:
+
+	  - Loi n°95-125 du 8 février 1995 - art. 57 () JORF 9 février 1995
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. 156 (M)
+	  - CODE DE PROCEDURE PENALE - art. 167 (M)
+	  - CODE DE PROCEDURE PENALE - art. 173 (M)
+	  - CODE DE PROCEDURE PENALE - art. 81 (M)
+	  - CODE DE PROCEDURE PENALE - art. 82-1 (M)
+
+
 ##### Section 13 : De la reprise de l'information sur charges nouvelles
 
 ###### Article 188
@@ -9388,37 +9520,6 @@ chambre d'accusation.
 	  - CODE DE PROCEDURE PENALE - art. 137 (M)
 
 
-##### Section 3 : Des transports, des perquisitions, des saisies et des interceptions de correspondances émises par la voie des télécommunications
-
-##### Sous-section 2 : Des interceptions de correspondances émises par la voie des télécommunications
-
-###### Article 100-7
-
-Aucune interception ne peut avoir lieu sur une ligne dépendant du cabinet d'un avocat ou de son domicile sans que le
-bâtonnier en soit informé par le juge d'instruction.
-
-Les formalités prévues par le présent article sont prescrites à peine de nullité.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°57-1426 1957-12-31
-
-	**Modifié par**:
-
-	  - Loi n°93-1013 1993-08-24 art. 20 JORF 25 août 1993 en vigueur le 2 septembre 1993
-
-	**Cité par**:
-
-	  - CODE DE PROCEDURE PENALE - art. 171 (M)
-	  - Code de procédure pénale - art. 230-34 (VD)
-	  - Code de procédure pénale - art. 706-102-5 (VD)
-	  - Code de procédure pénale - art. 706-95-3 (V)
-	  - Code de procédure pénale - art. 706-96 (VD)
-	  - Code de procédure pénale - art. 706-96-1 (V)
-
-
 ##### Section 5 : Des interrogatoires et confrontations
 
 ###### Article 114
@@ -9733,34 +9834,6 @@ manifestement anormal et d'une particulière gravité.
 
 
 ##### Section 12 : De l'appel des ordonnances du juge d'instruction
-
-###### Article 187
-
-Lorsqu'il est interjeté appel d'une ordonnance autre qu'une ordonnance de règlement ou que la chambre d'accusation est
-directement saisie, en application des articles 81, neuvième alinéa, 82-1, deuxième alinéa, 156, deuxième alinéa, ou 167,
-quatrième alinéa, le juge d'instruction poursuit son information, sauf décision contraire du président de la chambre
-d'accusation. Cette décision n'est pas susceptible de recours.
-
-Il en est de même lorsque la chambre d'accusation est saisie d'une requête en nullité en application de l'article 173.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°57-1426 1957-12-31
-
-	**Modifié par**:
-
-	  - Loi n°93-1013 1993-08-24 art. 38 JORF 25 août 1993 en vigueur le 2 septembre 1993
-
-	**Cite**:
-
-	  - CODE DE PROCEDURE PENALE - art. 156 (M)
-	  - CODE DE PROCEDURE PENALE - art. 167 (M)
-	  - CODE DE PROCEDURE PENALE - art. 173 (M)
-	  - CODE DE PROCEDURE PENALE - art. 81 (M)
-	  - CODE DE PROCEDURE PENALE - art. 82-1 (M)
-
 
 ###### Article 187-1
 
@@ -10085,6 +10158,41 @@ prolongé de cinq jours.
 	**Cite**:
 
 	  - CODE DE PROCEDURE PENALE - art. 194 (M)
+
+
+###### Article 199-1
+
+En cas d'appel d'une ordonnance de non-lieu motivée par les dispositions du premier alinéa de l'article 122-1 du code pénal,
+la chambre d'accusation doit, à la demande de la partie civile, ordonner la comparution personnelle de la personne mise en
+examen, si l'état de cette dernière le permet. Cette demande doit, à peine d'irrecevabilité, être présentée en même temps que
+la demande d'appel.
+
+Si la comparution personnelle de la personne mise en examen a été ordonnée, et si la partie civile ou son avocat en fait la
+demande dès l'ouverture des débats, ceux-ci se déroulent et l'arrêt est rendu en séance publique, sauf si la publicité est de
+nature à nuire à l'ordre public ou aux bonnes moeurs ; la chambre d'accusation statue su r cette demande de publicité, après
+avoir recueilli les observations du procureur général, de la personne mise en examen et de son avocat ainsi que, le cas
+échéant, des avocats des autres parties, par un arrêt rendu en chambre du conseil qui n'est susceptible de pourvoi en
+cassation qu'en même temps que l'arrêt portant sur la demande principale.
+
+Les experts ayant examiné la personne mise en examen doivent être entendus par la chambre d'accusation.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°57-1426 1957-12-31
+
+	**Créé par**:
+
+	  - Loi n°95-125 du 8 février 1995 - art. 56 () JORF 9 février 1995
+
+	**Cité par**:
+
+	  - Décret n°2008-361 du 16 avril 2008 - art. 5 (V)
+
+	**Cite**:
+
+	  - Code pénal - art. 122-1 (V)
 
 
 ###### Article 200
@@ -15411,6 +15519,44 @@ procès-verbal dont copie lui est remise sur-le-champ.
 	  - Code de procédure pénale - art. D32-20 (V)
 
 
+###### Article 395
+
+Si le maximum de l'emprisonnement prévu par la loi est au moins égal à deux ans sans excéder sept ans, le procureur de la
+République, lorsqu'il lui apparaît que les charges réunies sont suffisantes et que l'affaire est en l'état d'être jugée,
+peut, s'il estime que les éléments de l'espèce justifient une comparution immédiate, traduire le prévenu sur-le-champ devant
+le tribunal.
+
+En cas de délit flagrant, si le maximum de l'emprisonnement prévu par la loi est au moins égal à un an sans excéder sept ans,
+le procureur de la République, s'il estime que les éléments de l'espèce justifient une comparution immédiate, peut traduire
+le prévenu sur-le-champ devant le tribunal.
+
+Le prévenu est retenu jusqu'à sa comparution qui doit avoir lieu le jour même ; il est conduit sous escorte devant le
+tribunal.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 58-1296 1958-12-23
+
+	**Modifié par**:
+
+	  - Loi n°95-125 du 8 février 1995 - art. 58 () JORF 9 février 1995
+
+	**Cité par**:
+
+	  - Arrêté du 23 novembre 2011 - art. 1 (V)
+	  - CODE DE PROCEDURE PENALE - art. 396 (MMN)
+	  - CODE DE PROCEDURE PENALE - art. 495-12 (V)
+	  - Code de l'éducation - art. L472-1 (V)
+	  - Code de procédure pénale - art. 397 (V)
+	  - Code de procédure pénale - art. 397-3 (V)
+	  - Code de procédure pénale - art. 397-3-1 (V)
+	  - Code de procédure pénale - art. 397-4 (V)
+	  - Code de procédure pénale - art. 41 (V)
+	  - Code de procédure pénale - art. 495-10 (VD)
+
+
 ###### Article 396
 
 Dans le cas prévu par l'article précédent, si la réunion du tribunal est impossible le jour même et si les éléments de
@@ -15680,53 +15826,6 @@ politiques ou d'infractions dont la procédure de poursuite est prévue par une 
 	**Cite**:
 
 	  - Code de procédure pénale - art. 393 (V)
-
-
-##### Paragraphe 3 : De la convocation par procès-verbal et de la compuration immédiate
-
-###### Article 395
-
-Si le maximum de l'emprisonnement prévu par la loi est au moins égal à deux ans sans excéder cinq ans, le procureur de la
-République, lorsqu'il lui apparaît que les charges réunies sont suffisantes et que l'affaire est en l'état d'être jugée,
-peut, s'il estime que les éléments de l'espèce justifient une comparution immédiate, traduire le prévenu sur-le-champ devant
-le tribunl.
-
-En cas de délit flagrant, si le maximum de l'emprisonnement prévu par la loi est au moins égal à un an sans excéder cinq ans,
-le procureur de la République, s'il estime que les éléments de l'espèce justifient une comparution immédiate, peut traduire
-le prévenu sur-le-champ devant le tribunal.
-
-Le prévenu est retenu jusqu'à sa comparution qui doit avoir lieu le jour même ; il est conduit sous escorte devant le
-tribunal.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance 58-1296 1958-12-23
-
-	**Modifié par**:
-
-	  - Loi n°75-701 1975-08-06 art. 11 JORF 7 août 1975 en vigueur le 1er janvier 1976
-	  - Loi n°81-82 1981-02-02 art. 51-I JORF 3 février 1981
-	  - Loi n°83-466 du 10 juin 1983 - art. 25 () JORF 11 juin 1983 en vigueur le 27 juin 1983
-	  - Loi n°86-1019 du 9 septembre 1986 - art. 5 () JORF 10 septembre 1986
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°83-466 1983-06-10 art. 43
-
-	**Cité par**:
-
-	  - Arrêté du 23 novembre 2011 - art. 1 (V)
-	  - CODE DE PROCEDURE PENALE - art. 396 (MMN)
-	  - CODE DE PROCEDURE PENALE - art. 495-12 (V)
-	  - Code de l'éducation - art. L472-1 (V)
-	  - Code de procédure pénale - art. 397 (V)
-	  - Code de procédure pénale - art. 397-3 (V)
-	  - Code de procédure pénale - art. 397-3-1 (V)
-	  - Code de procédure pénale - art. 397-4 (V)
-	  - Code de procédure pénale - art. 41 (V)
-	  - Code de procédure pénale - art. 495-10 (VD)
 
 
 ##### Section 2 : De la composition du tribunal et de la tenue des audiences
@@ -16182,6 +16281,49 @@ Si ces conditions sont remplies, le prévenu non comparant et non excusé est ju
 	  - CODE DE PROCEDURE PENALE - art. 557 (M)
 	  - CODE DE PROCEDURE PENALE - art. 558 (M)
 	  - CODE DE PROCEDURE PENALE - art. 560 (M)
+
+
+###### Article 410-1
+
+Lorsque le prévenu cité dans les conditions prévues par le premier alinéa de l'article 410 ne comparaît pas et que la peine
+qu'il encourt est égale ou supérieure à deux années d'emprisonnement, le tribunal peut ordonner le renvoi de l'affaire et,
+par décision spéciale et motivée, décerner mandat d'amener.
+
+Le prévenu arrêté en vertu du mandat d'amener est conduit dans les vingt-quatre heures suivant son arrestation devant le
+procureur de la République, qui procède immédiatement à son interrogatoire d'identité, faute de quoi il est mis en liberté
+d'office. Toutefois, si le prévenu est trouvé à plus de deux cents kilomètres du siège de la juridiction qui a délivré le
+mandat d'amener, il est conduit, dans le même délai, soit, avec son accord, devant le procureur de la République de la
+juridiction qui a décerné mandat d'amener, soit devant celui du lieu de l'arrestation. Dans ce dernier cas, celui-ci
+l'interroge sur son identité, transmet sans délai le procès-verbal de comparution contenant un signalement complet, avec
+toutes les indications propres à faciliter la reconnaissance d'identité, au président de la juridiction saisie et requiert
+son transfèrement, qui doit être exécuté au plus tard dans les cinq jours suivant son arrestation. Dans tous les cas, le
+prévenu est conduit à la maison d'arrêt la plus proche du lieu d'arrestation.
+
+Le prévenu doit comparaître devant la juridiction qui a décerné mandat d'amener dès que possible et au plus tard avant
+l'expiration du troisième jour à compter de son arrivée à la maison d'arrêt du siège de cette juridiction, faute de quoi il
+est mis en liberté d'office ; la juridiction apprécie s'il y a lieu de le soumettre, jusqu'à l'audience de jugement, à une
+mesure de contrôle judiciaire ou de détention provisoire.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 58-1296 1958-12-23
+
+	**Créé par**:
+
+	  - Loi n°95-125 du 8 février 1995 - art. 41 () JORF 9 février 1995
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. 410 (M)
+
+	**Cité par**:
+
+	  - CODE DE PROCEDURE PENALE - art. 411 (V)
+	  - CODE DE PROCEDURE PENALE - art. 412 (V)
+	  - CODE DE PROCEDURE PENALE - art. 840 (Ab)
+	  - CODE DE PROCEDURE PENALE - art. 891 (Ab)
 
 
 ###### Article 411
@@ -19110,9 +19252,17 @@ Le prévenu ou son avocat auront toujours la parole les derniers.
 
 	  - Ordonnance 58-1296 1958-12-23
 
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°93-1013 1993-08-24 art. 34
+
 	**Modifié par**:
 
-	  - Loi n°93-2 du 4 janvier 1993 - art. 224 () JORF 5 janvier 1993 en vigueur le 1er mars 1993
+	  - Loi n°95-125 du 8 février 1995 - art. 59 () JORF 9 février 1995
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. 460 (M)
 
 	**Cité par**:
 
@@ -20941,6 +21091,10 @@ l'intéressé de cette remise, par lettre recommandée avec avis de réception. 
 par l'intéressé, que celui-ci a reçu la lettre recommandée de l'huissier, l'exploit remis à domicile produit les mêmes effets
 que s'il avait été délivré à personne.
 
+L'huissier peut également envoyer à l'intéressé par lettre simple une copie de l'acte accompagnée d'un récépissé que le
+destinataire est invité à réexpédier par voie postale ou à déposer à l'étude de l'huissier, revêtu de sa signature. Lorsque
+ce récépissé signé a été renvoyé, l'exploit remis à domicile produit les mêmes effets que s'il avait été remis à personne.
+
 Le domicile de la personne morale s'entend du lieu de son siège.
 
 **Liens relatifs à cet article**
@@ -20951,7 +21105,7 @@ Le domicile de la personne morale s'entend du lieu de son siège.
 
 	**Modifié par**:
 
-	  - Loi n°92-1336 du 16 décembre 1992 - art. 53 () JORF 23 décembre 1992 en vigueur le 1er mars 1994
+	  - Loi n°95-125 du 8 février 1995 - art. 42 () JORF 9 février 1995
 
 	**Cité par**:
 
@@ -20981,6 +21135,10 @@ jugement rendu par itératif défaut, la lettre recommandée mentionne la nature
 Lorsqu'il résulte de l'avis de réception, signé par l'intéressé, que celui-ci a reçu la lettre recommandée de l'huissier,
 l'exploit remis à la mairie produit les mêmes effets que s'il avait été délivré à personne.
 
+L'huissier peut également envoyer à l'intéressé par lettre simple une copie de l'acte accompagnée d'un récépissé que le
+destinataire est invité à réexpédier par voie postale ou à déposer à l'étude de l'huissier, revêtu de sa signature. Lorsque
+ce récépissé a été renvoyé, l'exploit remis à la mairie produit les mêmes effets que s'il avait été remis à personne.
+
 Si l'exploit est une citation à comparaître, il ne pourra produire les effets visés à l'alinéa précédent que si le délai
 entre le jour où l'avis de réception est signé par l'intéressé et le jour indiqué pour la comparution devant le tribunal
 correctionnel ou de police est au moins égal à celui fixé, compte tenu de l'éloignement du domicile de l'intéressé, par
@@ -20998,7 +21156,7 @@ l'article 552.
 
 	**Modifié par**:
 
-	  - loi 72-1226 1972-12-29 art. 35 JORF 30 décembre 1972 en vigueur le 1er janvier 1973
+	  - Loi n°95-125 du 8 février 1995 - art. 43 () JORF 9 février 1995
 
 	**Cité par**:
 
@@ -21009,10 +21167,6 @@ l'article 552.
 	  - CODE DE PROCEDURE PENALE - art. 561 (V)
 	  - CODE DE PROCEDURE PENALE - art. D46-4 (V)
 	  - CODE DE PROCEDURE PENALE - art. R181 (M)
-
-	**Cite**:
-
-	  - CODE DE PROCEDURE PENALE - art. 552 (M)
 
 
 ###### Article 559
@@ -21036,14 +21190,26 @@ inconnu.
 
 ###### Article 560
 
-Lorsqu'il n'est pas établi que l'intéressé a reçu la lettre recommandée qui lui a été adressée par l'huissier conformément
-aux dispositions des articles 557 et 558, ou lorsque l'exploit a été délivré au parquet, un officier ou un agent de police
+Lorsqu'il n'est pas établi que l'intéressé a reçu la lettre qui lui a été adressée par l'huissier conformément aux
+dispositions des articles 557 et 558, ou lorsque l'exploit a été délivré au parquet, un officier ou un agent de police
 judiciaire peut être requis par le procureur de la République à l'effet de procéder à des recherches en vue de découvrir
 l'adresse de l'intéressé. En cas de découverte de ce dernier, l'officier ou l'agent de police judiciaire lui donne
 connaissance de l'exploit, qui produit alors les mêmes effets que s'il avait été délivré à personne.
 
 Dans tous les cas, l'officier ou l'agent de police judiciaire dresse procès-verbal de ses recherches et le transmet sans
 délai au procureur de la République.
+
+Lorsqu'il s'agit d'une citation à prévenu, le procureur de la République peut également donner l'ordre à la force publique de
+rechercher l'intéressé. En cas de découverte de ce dernier, il en est immédiatement avisé et peut adresser, par tout moyen,
+une copie de l'exploit pour notification par un officier ou un agent de police judiciaire. Cette notification vaut
+signification à personne. Lorsqu'un prévenu visé par un acte de citation n'a pu être découvert avant la date fixée pour
+l'audience, l'ordre de recherche peut être maintenu. En cas de découverte, le procureur de la République peut faire notifier
+à l'intéressé, en application de l'article 390-1, une convocation en justice.
+
+Le procureur de la République peut également requérir de toute administration, entreprise, établissement ou organisme de
+toute nature soumis au contrôle de l'autorité administrative, sans qu'il soit possible de lui opposer le secret
+professionnel, de lui communiquer tous renseignements en sa possession aux fins de déterminer l'adresse du domicile ou de la
+résidence du prévenu.
 
 **Liens relatifs à cet article**
 
@@ -21065,10 +21231,11 @@ délai au procureur de la République.
 
 	**Modifié par**:
 
-	  - loi 85-1407 1985-12-30 art. 65 art. 94 JORF 31 décembre 1985 en vigueur le 1er février 1986
+	  - Loi n°95-125 du 8 février 1995 - art. 44 () JORF 9 février 1995
 
 	**Cite**:
 
+	  - CODE DE PROCEDURE PENALE - art. 390-1 (M)
 	  - CODE DE PROCEDURE PENALE - art. 557 (M)
 	  - CODE DE PROCEDURE PENALE - art. 558 (M)
 
@@ -26370,6 +26537,34 @@ conformément au premier alinéa de l'article 214, constate que les faits entren
 	  - CODE DE PROCEDURE PENALE - art. 706-16 (M)
 
 
+###### Article 706-25-1
+
+L'action publique des crimes mentionnés à l'article 706-16 se prescrit par trente ans. La peine prononcée en cas de
+condamnation pour l'un de ces crimes se prescrit par trente ans à compter de la date à laquelle la condamnation est devenue
+définitive.
+
+L'action publique relative au délit mentionné à l'article 706-16 se prescrit par vingt ans. La peine prononcée en cas de
+condamnation pour ce délit se prescrit par vingt ans à compter de la date à laquelle la condamnation est devenue définitive.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 58-1296 1958-12-23
+
+	**Créé par**:
+
+	  - Loi n°95-125 du 8 février 1995 - art. 52 () JORF 9 février 1995
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. 706-16 (M)
+
+	**Cité par**:
+
+	  - Code de procédure pénale - art. R15-33-66-7 (V)
+
+
 ### Titre XVI : De la poursuite, de l'instruction et du jugement des infractions en matière de trafic de stupéfiants
 
 ###### Article 706-26
@@ -26554,13 +26749,17 @@ ordonnées. Il en est de même en cas d'extinction de l'action publique.
 
 ###### Article 706-31
 
-L'action publique pour la répression des délits prévus par les articles 222-34 à 222-38 du code pénal se prescrit par dix
-ans. La peine prononcée en cas de condamnation pour l'une de ces infractions se prescrit par vingt ans à compter de la date à
-laquelle la décision de condamnation est devenue définitive.
+L'action publique des crimes mentionnés à l'article 706-26 se prescrit par trente ans. La peine prononcée en cas de
+condamnation pour l'un de ces crimes se prescrit par trente ans à compter de la date à laquelle la condamnation est devenue
+définitive.
+
+L'action publique relative aux délits mentionnés à l'article 706-26 se prescrit par vingt ans. La peine prononcée en cas de
+condamnation pour l'un de ces délits se prescrit par vingt ans à compter de la date à laquelle la condamnation est devenue
+définitive.
 
 Par dérogation aux dispositions de l'article 750, la durée de la contrainte judiciaire est fixée à deux années lorsque
 l'amende et les condamnations pécuniaires prononcées pour l'une des infractions mentionnées à l'alinéa précédent ou pour les
-infractions douanières connexes excèdent 500 000 F.
+infractions douanières connexes excèdent 500.000 F.
 
 **Liens relatifs à cet article**
 
@@ -26568,13 +26767,13 @@ infractions douanières connexes excèdent 500 000 F.
 
 	  - Ordonnance 58-1296 1958-12-23
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°92-1336 du 16 décembre 1992 - art. 77 () JORF 23 décembre 1992 en vigueur le 1er mars 1994
+	  - Loi n°95-125 du 8 février 1995 - art. 52 () JORF 9 février 1995
 
 	**Cite**:
 
-	  - Code pénal 222-34 à 222-38
+	  - CODE DE PROCEDURE PENALE - art. 706-26 (M)
 	  - CODE DE PROCEDURE PENALE - art. 750 (M)
 
 	**Cité par**:
@@ -27632,10 +27831,10 @@ application des articles 741-2 et 741-3.
 ###### Article 717
 
 Les condamnés purgent leur peine dans un établissement pour peines ; toutefois, les condamnés à l'emprisonnement d'une durée
-inférieure ou égale à trois ans l'exécutent dans un établissement qui leur est spécialement réservé.
+inférieure ou égale à cinq ans l'exécutent dans un établissement qui leur est spécialement réservé.
 
-Les condamnés à des peines inférieures à cinq ans peuvent exécuter leur peine dans les établissements prévus à l'alinéa
-précédent si le reliquat de peine leur restant à purger après leur condamnation est inférieur à trois ans.
+Les condamnés à des peines inférieures à sept ans peuvent exécuter leur peine dans les établissements prévus à l'alinéa
+précédent si le reliquat de peine leur restant à purger après leur condamnation est inférieur à cinq ans.
 
 Les condamnés à l'emprisonnement d'une durée inférieure ou égale à un an peuvent, cependant, à titre exceptionnel, être
 maintenus en maison d'arrêt et incarcérés, dans ce cas, dans un quartier distinct, lorsque des conditions tenant à la
@@ -27662,7 +27861,7 @@ d'une durée inférieure à un an.
 
 	**Modifié par**:
 
-	  - Loi n°87-432 du 22 juin 1987 - art. 5
+	  - Loi n°95-125 du 8 février 1995 - art. 60 () JORF 9 février 1995
 
 
 ###### Article 718
@@ -28569,6 +28768,30 @@ excédant la période de sûreté prévue par l'article 132-23 du code pénal.
 	  - Code pénal - art. 132-23 (M)
 	  - CODE DE PROCEDURE PENALE - art. 721 (M)
 	  - CODE DE PROCEDURE PENALE - art. 721-1 (M)
+
+
+###### Article 729-2
+
+Lorsqu'un étranger condamné à une peine privative de liberté est l'objet d'une mesure d'interdiction du territoire français,
+de reconduite à la frontière, d'expulsion ou d'extradition, sa libération conditionnelle est subordonnée à la condition que
+cette mesure soit exécutée. Elle peut être décidée sans son consentement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 58-1296 1958-12-23
+
+	**Modifié par**:
+
+	  - Loi n°95-125 du 8 février 1995 - art. 46 () JORF 9 février 1995
+
+	**Cité par**:
+
+	  - Loi n°2011-672 du 16 juin 2011 - art. 109 (V)
+	  - Loi n°2016-274 du 7 mars 2016 - art. 58 (V)
+	  - Code de procédure pénale - art. D531 (V)
+	  - Code de procédure pénale - art. D541 (V)
 
 
 ###### Article 730
