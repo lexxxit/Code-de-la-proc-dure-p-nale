@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 2000-03-15
+Version Consolidée au 2000-05-19
 
 # Partie législative
 
@@ -42465,6 +42465,406 @@ le cas échéant, les formalités accomplies en vue du placement des sommes per�
 	  - Code de procédure pénale - art. R53-4 (V)
 
 
+#### Chapitre II : Du fichier national automatisé des empreintes génétiques et du service central de préservation des prélèvements biologiques
+
+###### Article R53-9
+
+Le traitement, au moyen du fichier national automatisé des empreintes génétiques, des informations mentionnées au premier
+alinéa de l'article 706-54 est mis en oeuvre par la direction centrale de la police judiciaire du ministère de l'intérieur.
+
+Ce fichier est placé sous le contrôle d'un magistrat du parquet.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-318 1959-02-23
+
+	**Créé par**:
+
+	  - Décret n°2000-413 du 18 mai 2000 - art. 1 () JORF 19 mai 2000
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. 706-54 (M)
+
+	**Cité par**:
+
+	  - Code de procédure pénale - art. R53-20 (V)
+
+
+###### Article R53-10
+
+Font l'objet d'un enregistrement au fichier :
+
+1° Les résultats des analyses d'identification par empreintes génétiques des traces de matériel biologique issu de personnes
+inconnues, recueillies dans le cadre d'une enquête préliminaire, d'une enquête pour crime ou délit flagrant, ou d'une
+instruction préparatoire concernant l'une des infractions mentionnées à l'article 706-47 ;
+
+2° Avec l'autorisation, selon le cas, du procureur de la République ou du procureur général, les résultats des analyses
+d'identification par empreintes génétiques des échantillons de matériel biologique prélevés dans le cadre d'une enquête
+préliminaire, d'une enquête pour crime ou délit flagrant, d'une instruction préparatoire ou de la procédure prévue à
+l'article R. 53-21 sur une personne définitivement condamnée pour l'une des infractions mentionnées à l'article 706-47.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-318 1959-02-23
+
+	**Créé par**:
+
+	  - Décret n°2000-413 du 18 mai 2000 - art. 1 () JORF 19 mai 2000
+
+	**Cité par**:
+
+	  - Décret n°2000-413 du 18 mai 2000 - art. 2 (V)
+	  - Décret n°2004-470 du 25 mai 2004 - art. 13 (V)
+	  - Code de procédure pénale - art. R53-11 (V)
+	  - Code de procédure pénale - art. R53-12 (V)
+	  - Code de procédure pénale - art. R53-13-1 (V)
+	  - Code de procédure pénale - art. R53-14 (V)
+	  - Code de procédure pénale - art. R53-14-2 (V)
+	  - Code de procédure pénale - art. R53-20 (V)
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. 706-47 (T)
+	  - CODE DE PROCEDURE PENALE - art. R53-21 (M)
+
+
+###### Article R53-11
+
+Les données enregistrées, visées au 1° de l'article R. 53-10, sont accompagnées des informations suivantes :
+
+1° La nature de l'affaire et la référence de la procédure ;
+
+2° Le service ayant procédé au prélèvement et à la mise sous scellé ;
+
+3° Les lieu, date et numéro du scellé du prélèvement ;
+
+4° Les nom et prénom de l'expert ayant procédé à l'analyse d'identification et la date de l'analyse ;
+
+5° Les segments d'ADN analysés pour l'identification ;
+
+6° Les rapprochements déjà effectués avec d'autres traces figurant au fichier.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-318 1959-02-23
+
+	**Créé par**:
+
+	  - Décret n°2000-413 du 18 mai 2000 - art. 1 () JORF 19 mai 2000
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. R53-10 (M)
+
+	**Cité par**:
+
+	  - Code de procédure pénale - art. R53-12 (V)
+	  - Code de procédure pénale - art. R53-20 (V)
+
+
+###### Article R53-12
+
+Les données enregistrées, visées au 2° de l'article R. 53-10, sont accompagnées des informations suivantes :
+
+1° Les nom, prénoms, date et lieu de naissance, filiation et sexe du condamné ;
+
+2° Les références de la transmission par laquelle le magistrat du ministère public a informé le responsable du fichier de
+l'autorisation d'enregistrement de l'empreinte génétique du condamné ;
+
+3° La date à laquelle la condamnation est devenue définitive ;
+
+4° Les lieu, date et numéro du scellé du prélèvement ;
+
+5° Les nom et prénom de l'expert ayant procédé à l'analyse d'identification et la date de l'analyse ;
+
+6° Les segments d'ADN analysés pour l'identification.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-318 1959-02-23
+
+	**Créé par**:
+
+	  - Décret n°2000-413 du 18 mai 2000 - art. 1 () JORF 19 mai 2000
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. R53-10 (M)
+
+	**Cité par**:
+
+	  - Code de procédure pénale - art. R53-14 (V)
+
+
+###### Article R53-13
+
+Les analyses d'identification par empreintes génétiques ne peuvent porter, outre le segment correspondant au marqueur du
+sexe, que sur des segments d'ADN non codants.
+
+Le nombre et la nature de ces segments d'ADN sont définis par arrêté du ministre de la justice, du ministre de l'intérieur et
+du ministre de la défense pris après avis de la commission chargée d'agréer les personnes habilitées à effectuer des missions
+d'identification par empreintes génétiques dans le cadre des procédures judiciaires, prévue par l'article 1er du décret n°
+97-109 du 6 février 1997 relatif aux conditions d'agrément des personnes habilitées à procéder à des identifications par
+empreintes génétiques dans le cadre d'une procédure judiciaire.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-318 1959-02-23
+
+	**Cite**:
+
+	  - Décret n°97-109 du 6 février 1997 - art. 1 (M)
+
+	**Créé par**:
+
+	  - Décret n°2000-413 du 18 mai 2000 - art. 1 () JORF 19 mai 2000
+
+	**Cité par**:
+
+	  - Arrêté du 10 août 2015 (V)
+
+
+###### Article R53-14
+
+Les informations enregistrées ne peuvent être conservées au-delà d'une durée de quarante ans, soit à compter de l'analyse
+d'identification lorsqu'il s'agit des résultats visés au 1° de l'article R. 53-10, soit, lorsqu'il s'agit des résultats visés
+au 2° du même article, à compter du jour où la condamnation est devenue définitive sans que cette durée puisse dépasser la
+date du quatre-vingtième anniversaire du condamné.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-318 1959-02-23
+
+	**Créé par**:
+
+	  - Décret n°2000-413 du 18 mai 2000 - art. 1 () JORF 19 mai 2000
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. R53-10 (M)
+
+	**Cité par**:
+
+	  - Code de procédure pénale - art. R53-11 (V)
+	  - Code de procédure pénale - art. R53-20 (V)
+
+
+###### Article R53-15
+
+Le droit d'accès prévu par l'article 34 de la loi n° 78-17 du 6 janvier 1978 modifiée relative à l'informatique, aux fichiers
+et aux libertés s'exerce auprès du directeur central de la police judiciaire au ministère de l'intérieur.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-318 1959-02-23
+
+	**Cite**:
+
+	  - Loi n°78-17 1978-01-06 art. 34
+
+	**Créé par**:
+
+	  - Décret n°2000-413 du 18 mai 2000 - art. 1 () JORF 19 mai 2000
+
+
+###### Article R53-16
+
+Le fichier national automatisé des empreintes génétiques est placé sous le contrôle d'un magistrat du parquet hors
+hiérarchie, nommé pour trois ans par arrêté du garde des sceaux, ministre de la justice, et assisté par un comité composé de
+trois membres nommés dans les mêmes conditions.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-318 1959-02-23
+
+	**Créé par**:
+
+	  - Décret n°2000-413 du 18 mai 2000 - art. 1 () JORF 19 mai 2000
+
+	**Cité par**:
+
+	  - Code de procédure pénale - art. R53-17 (V)
+	  - Code de procédure pénale - art. R53-20 (V)
+
+
+###### Article R53-17
+
+Le magistrat mentionné à l'article R. 53-16 et, à sa demande, les membres du comité prévu au même article disposent d'un
+accès permanent au fichier et au lieu où se trouve celui-ci.
+
+L'autorité gestionnaire du fichier lui adresse un rapport annuel d'activité ainsi que, sur sa demande, toutes informations
+relatives au fichier.
+
+Ce magistrat peut ordonner toutes mesures nécessaires à l'exercice de son contrôle, telles que saisies ou copies
+d'informations, ainsi que l'effacement d'enregistrements illicites.
+
+Les pouvoirs qui lui sont confiés s'exercent sans préjudice du contrôle exercé par la Commission nationale de l'informatique
+et des libertés en application des dispositions et selon les modalités prévues par l'article 21 de la loi n° 78-17 du 6
+janvier 1978 relative à l'informatique, aux fichiers et aux libertés.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-318 1959-02-23
+
+	**Cite**:
+
+	  - Loi n°78-17 du 6 janvier 1978 - art. 21 (M)
+	  - CODE DE PROCEDURE PENALE - art. R53-16 (M)
+
+	**Créé par**:
+
+	  - Décret n°2000-413 du 18 mai 2000 - art. 1 () JORF 19 mai 2000
+
+
+###### Article R53-18
+
+Les fonctionnaires de la sous-direction de la police technique et scientifique du ministère de l'intérieur et les personnels
+de l'institut de recherche criminelle de la gendarmerie nationale, spécialement affectés dans le service mettant en oeuvre le
+traitement, et dûment habilités, pourront seuls, à la demande de l'autorité judiciaire ou des officiers de police judiciaire
+de la police nationale ou de la gendarmerie nationale, assurer l'alimentation du fichier, avoir accès aux informations
+enregistrées et procéder aux opérations de rapprochement.
+
+Un dispositif permettant de retracer, par suivi informatique, la consultation du fichier sera mis en place par l'autorité
+gestionnaire de celui-ci.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-318 1959-02-23
+
+	**Créé par**:
+
+	  - Décret n°2000-413 du 18 mai 2000 - art. 1 () JORF 19 mai 2000
+
+	**Cité par**:
+
+	  - Code de procédure pénale - art. R53-19-1 (V)
+	  - Code de procédure pénale - art. R53-19-2 (V)
+
+
+###### Article R53-19
+
+Le fichier national automatisé des empreintes génétiques ne peut faire l'objet d'aucune interconnexion ni de rapprochement ou
+de mise en relation avec un autre traitement automatisé d'informations nominatives, sous réserve des dispositions du deuxième
+alinéa de l'article R. 53-20.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-318 1959-02-23
+
+	**Créé par**:
+
+	  - Décret n°2000-413 du 18 mai 2000 - art. 1 () JORF 19 mai 2000
+
+	**Cité par**:
+
+	  - Code de procédure pénale - art. R53-20 (V)
+
+
+###### Article R53-20
+
+Sur décision du procureur de la République ou, en cours d'information, du juge d'instruction, les scellés contenant des
+échantillons de matériel biologique saisis dans le cadre d'une enquête préliminaire, d'une enquête pour crime ou délit
+flagrant, ou d'une instruction préparatoire suivie pour l'une des infractions mentionnées à l'article 706-47 et ayant fait
+l'objet d'un conditionnement normalisé, sont conservés, jusqu'à l'expiration des délais prévus par l'article R. 53-14, par le
+service central de préservation des prélèvements biologiques de l'institut de recherche criminelle de la gendarmerie
+nationale.
+
+Dans les conditions prévues par la loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux libertés,
+les informations transmises au service central pourront faire l'objet d'un traitement informatisé. Celui-ci pourra, par
+dérogation à l'article R. 53-19, comporter un numéro d'ordre commun avec le fichier mentionné à l'article R. 53-9. Il ne
+pourra, en aucun cas, contenir des résultats d'analyses d'identification par empreintes génétiques.
+
+Le magistrat mentionné à l'article R. 53-16 contrôle les conditions dans lesquelles fonctionne le service central de
+préservation des prélèvements biologiques. Il peut procéder à toute vérification sur place.
+
+L'autorité responsable du service lui adresse un rapport annuel d'activité ainsi que, sur sa demande, toutes informations
+relatives au fonctionnement du service.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-318 1959-02-23
+
+	**Cite**:
+
+	  - Loi n°78-17 1978-01-06
+	  - CODE DE PROCEDURE PENALE - art. 706-47 (T)
+	  - CODE DE PROCEDURE PENALE - art. R53-14 (M)
+	  - CODE DE PROCEDURE PENALE - art. R53-16 (M)
+	  - CODE DE PROCEDURE PENALE - art. R53-9 (M)
+
+	**Créé par**:
+
+	  - Décret n°2000-413 du 18 mai 2000 - art. 1 () JORF 19 mai 2000
+
+	**Cité par**:
+
+	  - Décret n°2000-413 du 18 mai 2000 - art. 2 (V)
+	  - CODE DE PROCEDURE PENALE - art. R53-21 (M)
+	  - Code de procédure pénale - art. R53-19 (V)
+
+
+###### Article R53-21
+
+Lorsqu'elle n'a pas été réalisée au cours de la procédure d'enquête, d'instruction ou de jugement, l'analyse d'identification
+par empreintes génétiques d'une personne définitivement condamnée pour l'une des infractions énumérées à l'article 706-47 est
+ordonnée par le procureur de la République. Cette analyse est effectuée par un expert habilité conformément aux dispositions
+de l'article 16-12 du code civil.
+
+Cette analyse est ordonnée dans les six mois suivant la date à laquelle la condamnation est devenue définitive. Si, en raison
+de sa condamnation, la personne exécute une peine privative de liberté, un travail d'intérêt général, fait l'objet d'un
+sursis avec mise à l'épreuve ou se trouve placée sous le régime de la libération conditionnelle, l'analyse est ordonnée
+pendant la période d'exécution de peine ou le temps d'épreuve.
+
+Le procureur de la République peut si nécessaire requérir un officier ou un agent de police judiciaire pour procéder ou faire
+procéder aux prélèvements destinés à l'analyse. Ceux-ci sont placés sous scellés. Lorsque l'analyse a été effectuée, ces
+scellés sont conservés par le service central de préservation des prélèvements biologiques prévu par l'article R. 53-20.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-318 1959-02-23
+
+	**Créé par**:
+
+	  - Décret n°2000-413 du 18 mai 2000 - art. 1 () JORF 19 mai 2000
+
+	**Cite**:
+
+	  - Code civil - art. 16-12 (M)
+	  - CODE DE PROCEDURE PENALE - art. 706-47 (T)
+	  - CODE DE PROCEDURE PENALE - art. R53-20 (M)
+
+	**Cité par**:
+
+	  - CODE DE PROCEDURE PENALE - art. R53-10 (M)
+
+
 ## Livre V : Des procédures d'exécution.
 
 ### Titre Ier : De l'application des peines.
@@ -68508,6 +68908,68 @@ consultés sur le site internet d'admifrance [http://www.admifrance.gouv.fr/].
 
 	  - Code de procédure pénale - art. A37-11 (VD)
 	  - Code de procédure pénale - art. A37-13 (V)
+
+
+## Livre IV
+
+### Titre XIX : De la procédure applicable aux infractions de nature sexuelle et aux mineurs victimes
+
+#### Chapitre Ier : Du fichier national automatisé des empreintes génétiques
+
+###### Article A38
+
+La liste des segments d'ADN sur lesquels portent les analyses destinées à l'identification génétique figure dans le tableau
+ci-après :
+
+SEGMENTS D'ADN OU loci
+
+selon la nomenclature internationale
+
+LOCALISATION
+
+D21S11
+
+Chromosome n° 21 
+
+VWA
+
+Chromosome n° 12 
+
+THO1
+
+Chromosome n° 11 
+
+FGA
+
+Chromosome n°  4 
+
+D8S1179
+
+Chromosome n°  8 
+
+D3S1358
+
+Chromosome n°  3 
+
+D18S51
+
+Chromosome n° 18 
+
+Les analyses portent également sur le gène de l'amélogénine.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Arrêté 1958-12-23
+
+	**Modifié par**:
+
+	  - Arrêté 2000-05-18 art. 1 JORF 19 mai 2000
+
+	**Abrogé par**:
+
+	  - Arrêté 2002-02-14 art. 1 I JORF 6 mars 2002
 
 
 ## Livre V : Des procédures d'exécution
