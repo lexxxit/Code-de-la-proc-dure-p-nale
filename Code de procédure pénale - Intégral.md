@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 1982-11-13
+Version Consolidée au 1983-01-01
 
 # Partie législative
 
@@ -16961,6 +16961,684 @@ La réciprocité sera légalement constatée par des conventions internationales
 	  - CODE PENAL - art. 133 (Ab)
 
 
+###### Article 696
+
+Dans les cas prévus au présent titre et dans les cas de crime, délit ou contravention qui sont de la compétence des
+juridictions françaises en application d'une convention internationale, le tribunal compétent est celui du lieu où réside le
+prévenu ou celui de sa dernière résidence connue, celui du lieu où il est trouvé ou celui de la résidence de la victime de
+l'infraction. A défaut de tout autre tribunal, le tribunal compétent est celui de Paris.
+
+La Cour de cassation peut, sur la demande du ministère public ou des parties, renvoyer la connaissance de l'affaire devant
+une cour ou un tribunal plus voisin du lieu du crime ou du délit.
+
+Dans le cas de crimes ou de délits mentionnés aux articles 697-1 et 702 qui sont de la compétence des juridictions établies
+sur le territoire de la République, la juridiction territorialement compétente est celle prévue par l'article 697-3. A défaut
+de toute autre juridiction, la juridiction compétente est celle prévue par cet article siégeant dans le ressort de la cour
+d'appel de Paris.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Ordonnance n°45-174 du 2 février 1945 - art. 7 (M)
+	  - Loi n°2013-711 du 5 août 2013 - art. 27 (V)
+	  - CODE PENAL - art. 133 (Ab)
+
+	**Codifié par**:
+
+	  - Ordonnance 58-1296 1958-12-23
+
+	**Modifié par**:
+
+	  - Loi n°75-624 du 11 juillet 1975 - art. 14 () JORF 13 juillet 1975
+	  - Loi n°82-621 du 21 juillet 1982 - art. 2 () JORF 22 juillet 1982 en vigueur le 1er janvier 1983
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°82-621 1982-07-21 art. 14
+	  - SPEC_APPLI: Décret n°82-1146 1982-12-29
+
+	**Abrogé par**:
+
+	  - Loi n°92-1336 du 16 décembre 1992 - art. 64 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. 697-1 (M)
+	  - CODE DE PROCEDURE PENALE - art. 697-3 (M)
+	  - CODE DE PROCEDURE PENALE - art. 702 (M)
+
+
+### Titre XI : Des crimes et des délits en matière militaire et des crimes et délits contre les intérêts fondamentaux de la nation
+
+#### Chapitre Ier : De la poursuite, de l'instruction et du jugement des crimes et délits en matière militaire en temps de paix
+
+##### Section 2 : Procédure
+
+###### Article 698-1
+
+Sans préjudice de l'application de l'article 36, l'action publique est mise en mouvement par le procureur de la République
+territorialement compétent, qui apprécie la suite à donner aux frais portés à sa connaissance, notamment par la dénonciation
+du ministre chargé de la défense ou de l'autorité militaire habilitée par lui. A défaut de cette dénonciation, le procureur
+de la République doit demander préalablement à tout acte de poursuite, sauf en cas de crime ou de délit flagrant, l'avis du
+ministre chargé de la défense ou de l'autorité militaire habilitée par lui. Hormis le cas d'urgence, cet avis est donné dans
+le délai d'un mois. L'avis est demandé par tout moyen dont il est fait mention au dossier de la procédure.
+
+La dénonciation ou l'avis figure au dossier de la procédure, à peine de nullité, sauf si cet avis n'a pas été formulé dans le
+délai précité ou en cas d'urgence.
+
+L'autorité militaire visée au premier alinéa du présent article est habilitée par arrêté du ministre chargé de la défense.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 58-1296 1958-12-23
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°82-621 1982-07-21 art. 14
+	  - SPEC_APPLI: Décret n°82-1146 1982-12-29
+
+	**Créé par**:
+
+	  - Loi n°82-621 du 21 juillet 1982 - art. 3 () JORF 22 juillet 1982 en vigueur le 1er janvier 1983
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. 36 (M)
+
+	**Cité par**:
+
+	  - Code de justice militaire. - art. L2 (VD)
+	  - Code de justice militaire. - art. L211-11 (V)
+	  - Code de procédure pénale - art. 698 (MMN)
+	  - Code de procédure pénale - art. 701 (MMN)
+	  - Code du service national - art. L149-2 (V)
+
+
+###### Article 698-2
+
+L'action civile en réparation du dommage causé par l'une des infractions mentionnées au premier alinéa de l'article 697-1
+appartient à ceux qui ont personnellement souffert du dommage directement causé par l'infraction. La partie lésée ne peut
+toutefois mettre en mouvement l'action publique.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 58-1296 1958-12-23
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°82-621 1982-07-21 art. 14
+	  - SPEC_APPLI: Décret n°82-1146 1982-12-29
+
+	**Créé par**:
+
+	  - Loi n°82-621 du 21 juillet 1982 - art. 3 () JORF 22 juillet 1982 en vigueur le 1er janvier 1983
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. 697-1 (M)
+
+
+###### Article 698-3
+
+Lorsque le procureur de la République, le juge d'instruction et les officiers de police judiciaire sont amenés, soit à
+constater des infractions dans les établissements militaires, soit à rechercher, en ces mêmes lieux, des personnes ou des
+objets relatifs à ces infractions, ils doivent adresser à l'autorité militaire des réquisitions tendant à obtenir l'entrée
+dans ces établissements.
+
+Les réquisitions doivent, sauf nécessité, préciser la nature et les motifs des investigations jugées nécessaires. L'autorité
+militaire est tenue de s'y soumettre et se fait représenter aux opérations.
+
+Le procureur de la République, le juge d'instruction et les officiers de police judiciaire veillent, en liaison avec le
+représentant qualifié de l'autorité militaire, au respect des prescriptions relatives au secret militaire. Le représentant de
+l'autorité militaire est tenu au respect du secret de l'enquête et de l'instruction.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 58-1296 1958-12-23
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°82-621 1982-07-21 art. 14
+	  - SPEC_APPLI: Décret n°82-1146 1982-12-29
+
+	**Créé par**:
+
+	  - Loi n°82-621 du 21 juillet 1982 - art. 3 () JORF 22 juillet 1982 en vigueur le 1er janvier 1983
+
+
+###### Article 698-4
+
+Les supérieurs hiérarchiques doivent satisfaire à la demande des officiers de police judiciaire tendant à mettre à leur
+disposition un militaire en activité de service, lorsque soit les nécessités de l'enquête, soit l'exécution d'une commission
+rogatoire ou d'un mandat de justice exigent cette mesure.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°1982-1146 1982-12-29
+	  - SPEC_APPLI: Loi n°82-621 1982-07-21 art. 14
+
+	**Codifié par**:
+
+	  - Ordonnance 58-1296 1958-12-23
+
+	**Créé par**:
+
+	  - Loi n°82-621 du 21 juillet 1982 - art. 3 () JORF 22 juillet 1982 en vigueur le 1er janvier 1983
+
+
+###### Article 698-5
+
+Les articles 73 à 77, 93, 94, 137, 302, 307 à 318, 357, 371, 374, 375, 377 et 384 alinéa 3 du Code de justice militaire sont
+applicables. Conformément à l'article 135 de ce même code, l'inculpé, le prévenu ou le condamné militaire doit être détenu
+dans des locaux séparés.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 58-1296 1958-12-23
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°82-621 1982-07-21 art. 14
+	  - SPEC_APPLI: Décret n°82-1146 1982-12-29
+
+	**Créé par**:
+
+	  - Loi n°82-621 du 21 juillet 1982 - art. 3 () JORF 22 juillet 1982 en vigueur le 1er janvier 1983
+
+	**Cite**:
+
+	  - Code de justice militaire - art. 135 (M)
+	  - Code de justice militaire - art. 137 (M)
+	  - Code de justice militaire - art. 302 (Ab)
+	  - Code de justice militaire - art. 357 (M)
+	  - Code de justice militaire - art. 371 (M)
+	  - Code de justice militaire - art. 374 (M)
+	  - Code de justice militaire - art. 375 (Ab)
+	  - Code de justice militaire - art. 377 (Ab)
+	  - Code de justice militaire - art. 93 (Ab)
+	  - Code de justice militaire - art. 94 (Ab)
+	  - Code de justice militaire 73 à 77, 93, 94, 135, 137, 302, 307 à 318, 357, 371, 374, 375, 377, 384 al. 3
+
+
+###### Article 698-6
+
+Par dérogation aux dispositions du titre Ier du livre II, notamment aux articles 240 et 248, premier alinéa, et sous réserve
+des dispositions de l'article 698-7, la cour d'assises prévue par l'article 697 est composée d'un président et de six
+assesseurs désignés comme il est dit aux alinéas 2 et 3 de l'article 248 et aux articles 249 à 253.
+
+La cour ainsi composée applique les dispositions du titre Ier du livre II sous les réserves suivantes :
+
+1° Il n'est pas tenu compte des dispositions qui font mention du jury ou des jurés ;
+
+2° Les dispositions des articles 254 à 267, 282, 288 à 292, 293, alinéas 2 et 3, 295 à 305 ne sont pas applicables ;
+
+3° Pour l'application des articles 359 et 360, les décisions sont prises à la majorité.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 58-1296 1958-12-23
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°82-621 1982-07-21 art. 14
+	  - SPEC_APPLI: Décret n°82-1146 1982-12-29
+
+	**Créé par**:
+
+	  - Loi n°82-621 du 21 juillet 1982 - art. 3 () JORF 22 juillet 1982 en vigueur le 1er janvier 1983
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. 240 (V)
+	  - CODE DE PROCEDURE PENALE - art. 248 (V)
+	  - CODE DE PROCEDURE PENALE - art. 282 (M)
+	  - CODE DE PROCEDURE PENALE - art. 359 (M)
+	  - CODE DE PROCEDURE PENALE - art. 360 (M)
+	  - CODE DE PROCEDURE PENALE - art. 697 (M)
+	  - Code de procédure pénale 240, 248, 698-7, 697, 249 à 253, 254 à 267, 282, 288 à 292, 293 al. 2 et 3, 295 à 305, 359, 360
+
+	**Cité par**:
+
+	  - Code de justice militaire - art. 205 (Ab)
+	  - Code de justice militaire - art. 6 (Ab)
+	  - Code de justice militaire. - art. L111-3 (VT)
+	  - Code de justice militaire. - art. L221-4 (VT)
+	  - Code de procédure pénale - art. 698-7 (V)
+	  - Code de procédure pénale - art. 702 (V)
+	  - Code de procédure pénale - art. 706-174 (V)
+	  - Code de procédure pénale - art. 706-25 (MMN)
+	  - Code de procédure pénale - art. 706-27 (V)
+
+
+###### Article 698-7
+
+Les dispositions de l'article 698-6 ne sont applicables, pour le jugement des crimes de droit commun commis dans l'exécution
+du service par les militaires, que s'il existe un risque
+
+de divulgation d'un secret de la défense nationale. 
+
+Lorsque la mise en accusation est prononcée en application de l'article 214, premier alinéa, la chambre de l'instruction
+constate dans son arrêt, s'il y a lieu, qu'il existe un risque de divulgation d'un secret de la défense nationale et ordonne
+que la cour d'assises saisie soit composée conformément aux dispositions de l'article 698-6.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 58-1296 1958-12-23
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°82-621 1982-07-21 art. 14
+	  - SPEC_APPLI: Décret n°82-1146 1982-12-29
+
+	**Créé par**:
+
+	  - Loi n°82-621 du 21 juillet 1982 - art. 3 () JORF 22 juillet 1982 en vigueur le 1er janvier 1983
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. 214 (M)
+
+	**Cité par**:
+
+	  - Code de justice militaire - art. 6 (Ab)
+	  - Code de justice militaire. - art. L111-3 (VT)
+	  - Code de procédure pénale - art. 698-6 (V)
+
+
+###### Article 698-8
+
+Les juridictions compétentes pour juger les infractions prévues par le livre III du code de justice militaire peuvent
+également prononcer les peines militaires de la destitution et de la perte du grade.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 58-1296 1958-12-23
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°82-621 1982-07-21 art. 24
+	  - SPEC_APPLI: Décret n°82-1146 1982-12-29
+
+	**Créé par**:
+
+	  - Loi n°82-621 du 21 juillet 1982 - art. 3 () JORF 22 juillet 1982 en vigueur le 1er janvier 1983
+
+
+#### Chapitre II : Des juridictions compétentes en cas de guerre, de mobilisation, d'état de siège ou d'état d'urgence
+
+###### Article 699
+
+En temps de guerre, les tribunaux des forces armées sont immédiatement établis.
+
+Jusqu'à leur mise en place effective, les affaires de leur compétence sont portées devant les juridictions mentionnées à
+l'article 697. Celles-ci se dessaisissent des affaires au profit des tribunaux des forces armées dès que ceux-ci les
+revendiquent.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 58-1296 1958-12-23
+
+	**Modifié par**:
+
+	  - Ordonnance 60-529 1960-06-04 art. 2 JORF 8 juin 1960
+	  - Loi n°63-22 1963-01-15 art. 1 JORF 16 janvier 1963
+	  - Loi n°74-631 du 5 juillet 1974 - art. 13 () JORF 7 juillet 1974
+	  - Loi n°81-737 1981-08-04 art. 2 JORF 5 août 1981
+	  - Loi n°82-621 du 21 juillet 1982 - art. 3 () JORF 22 juillet 1982 en vigueur le 1er janvier 1983
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°82-621 1982-07-021 art. 14
+	  - SPEC_APPLI: Décret n°82-1146 1982-12-29
+
+	**Cité par**:
+
+	  - Loi n°82-621 du 21 juillet 1982 - art. 1 (Ab)
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. 697 (M)
+
+
+###### Article 699-1
+
+Lorsque le Gouvernement décide l'application des mesures de mobilisation ou de mise en garde dans les conditions prévues par
+l'ordonnance n° 59-147 du 7 janvier 1959 portant organisation générale de la défense, les dispositions du code de justice
+militaire relatives au temps de guerre peuvent être rendues applicables par décret en conseil des ministres pris sur le
+rapport du garde des sceaux, ministre de la justice, et du ministre chargé de la défense.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 58-1296 1958-12-23
+
+	**Cite**:
+
+	  - Ordonnance 59-147 1959-01-07
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°82-621 1982-07-21 art. 14
+	  - SPEC_APPLI: Décret n°82-1146 1982-12-29
+
+	**Créé par**:
+
+	  - Loi n°82-621 du 21 juillet 1982 - art. 3 () JORF 22 juillet 1982 en vigueur le 1er janvier 1983
+
+	**Cité par**:
+
+	  - Loi n°82-621 du 21 juillet 1982 - art. 1 (Ab)
+	  - Code du service national - art. L142 (Ab)
+	  - Code du service national - art. L149-2 (V)
+
+
+###### Article 700
+
+En cas d'état de siège ou d'état d'urgence déclaré, un décret en conseil des ministres, pris sur le rapport du garde des
+sceaux, ministre de la justice, et du ministre chargé de la défense, peut établir des tribunaux territoriaux des forces
+armées dans les conditions prévues par le code de justice militaire.
+
+La compétence de ces tribunaux résulte des dispositions du code de justice militaire pour le temps de guerre et des
+dispositions particulières des lois sur l'état de siège ou l'état d'urgence.
+
+En ce qu'elles concernent la procédure, les lois sur l'état de siège et l'état d'urgence ne sont applicables que si elles
+sont compatibles avec les dispositions de procédure pénale militaire relatives au temps de guerre.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 58-1296 1958-12-23
+
+	**Modifié par**:
+
+	  - Ordonnance 60-529 1960-06-04 art. 2 JORF 8 juin 1960
+	  - Loi n°63-22 1963-01-15 art. 1 JORF 16 janvier 1963
+	  - Loi n°81-737 1981-08-04 art. 2 JORF 5 août 1981
+	  - Loi n°82-621 du 21 juillet 1982 - art. 3 () JORF 22 juillet 1982 en vigueur le 1er janvier 1983
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°82-621 1982-07-21 art. 14
+	  - SPEC_APPLI: Décret n°82-1146 1982-12-29
+
+	**Cité par**:
+
+	  - Code du service national - art. L142 (Ab)
+	  - Code du service national - art. L149-2 (V)
+
+
+#### Chapitre III : Des crimes et délits contre les intérêts fondamentaux de la Nation
+
+###### Article 701
+
+En temps de guerre, les crimes et délits contre les intérêts fondamentaux de la Nation et les infractions qui leur sont
+connexes sont instruits et jugés par les juridictions des forces armées ainsi qu'il est dit au code de justice militaire. 
+
+Toutefois, le procureur de la République a qualité pour accomplir ou faire accomplir les actes nécessités par l'urgence et
+requérir à cet effet le juge d'instruction de son siège. Les dispositions des articles 698-1 à 698-5 sont alors applicables. 
+
+Il doit se dessaisir ou requérir le dessaisissement du juge d'instruction dès que l'urgence a cessé.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 58-1296 1958-12-23
+
+	**Modifié par**:
+
+	  - Ordonnance 60-529 1960-06-04 art. 2 JORF 8 juin 1960
+	  - Loi n°63-22 1963-01-15 art. 1 JORF 16 janvier 1963
+	  - Loi n°81-737 1981-08-04 art. 2 JORF 5 août 1981
+	  - Loi n°82-621 du 21 juillet 1982 - art. 3 () JORF 22 juillet 1982 en vigueur le 1er janvier 1983
+	  - Loi n°92-1336 du 16 décembre 1992 - art. 65 () JORF 23 décembre 1992 en vigueur le 1er mars 1994
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°82-621 1982-07-21 art. 14
+	  - SPEC_APPLI: Décret n°82-1146 1982-12-29
+
+	**Cite**:
+
+	  - Code de procédure pénale - art. 698-1 (V)
+
+
+### Titre XI : Des crimes et délits en matière militaire et en matière de sûreté de l'Etat
+
+#### Chapitre Ier : De la poursuite, de l'instruction et du jugement des crimes et délits en matière militaire en temps de paix
+
+##### Section 1 : Compétence
+
+###### Article 697
+
+Dans le ressort de chaque cour d'appel, un tribunal de grande instance est compétent pour l'instruction et, s'il s'agit de
+délits, le jugement des infractions mentionnées à l'article 697-1.
+
+Des magistrats sont affectés, après avis de l'assemblée générale, aux formations de jugement, spécialisées en matière
+militaire, de ce tribunal.
+
+Dans le même ressort, une cour d'assises est compétente pour le jugement des crimes mentionnés à l'article 697-1.
+
+Un décret pris sur le rapport conjoint du garde des sceaux, ministre de la justice, et du ministre chargé de la défense fixe
+la liste de ces juridictions.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 58-1296 1958-12-23
+
+	**Modifié par**:
+
+	  - Ordonnance 60-529 1960-06-04 art. 2 JORF 8 juin 1960
+	  - Loi n°82-621 du 21 juillet 1982 - art. 3 () JORF 22 juillet 1982 en vigueur le 1er janvier 1983
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°82-621 1982-07-21 art. 14
+	  - SPEC_APPLI: Décret n°82-1146 1986-12-29
+
+	**Cité par**:
+
+	  - Décret n°2008-930 du 12 septembre 2008 - art. 1 (VD)
+	  - Décret n°2014-1443 du 3 décembre 2014 (V)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L632-1 (Ab)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L632-2 (Ab)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R*761-24 (Ab)
+	  - Code de justice militaire. - art. L111-1 (V)
+	  - Code de procédure pénale - art. 697-1 (V)
+	  - Code de procédure pénale - art. 697-2 (V)
+	  - Code de procédure pénale - art. 697-3 (V)
+	  - Code de procédure pénale - art. 697-4 (V)
+	  - Code de procédure pénale - art. 698 (MMN)
+	  - Code de procédure pénale - art. 698-6 (V)
+	  - Code de procédure pénale - art. 698-9 (V)
+	  - Code de procédure pénale - art. 699 (V)
+	  - Code de procédure pénale - art. 702 (V)
+	  - Code de procédure pénale - art. D526 (V)
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L632-1 (Ab)
+
+
+###### Article 697-1
+
+Les juridictions mentionnées à l'article 697 connaissent des infractions militaires prévues par le livre III du Code de
+justice militaire ; elles connaissent également des crimes et délits de droit commun commis dans l'exécution du service par
+les militaires, tels que ceux-ci sont définis par les articles 61 à 63 du Code de justice militaire.
+
+Ces juridictions sont compétentes à l'égard de toutes personnes majeures, auteurs ou complices, ayant pris part à
+l'infraction.
+
+Par dérogation aux dispositions du premier alinéa ci-dessus, ces juridictions ne peuvent connaître des infractions de droit
+commun commises par les militaires de la gendarmerie dans l'exercice de leurs fonctions relatives à la police judiciaire ou à
+la police administrative ; elles restent néanmoins compétentes [*limites*] à leur égard pour les infractions commises dans le
+service du maintien de l'ordre.
+
+Si le tribunal correctionnel mentionné à l'article 697 se déclare incompétent pour connaître des faits dont il a été saisi,
+il renvoie le ministère public à se pourvoir ainsi qu'il avisera ; il peut, le ministère public entendu, décerner par la même
+décision mandat de dépôt ou d'arrêt contre le prévenu.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 58-1296 1958-12-23
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°82-621 1982-07-21 art. 14
+	  - SPEC_APPLI: Décret n°82-1146 1982-12-29
+
+	**Créé par**:
+
+	  - Loi n°82-621 du 21 juillet 1982 - art. 3 () JORF 22 juillet 1982 en vigueur le 1er janvier 1983
+
+	**Cite**:
+
+	  - Code de justice militaire 61 à 63
+
+	**Cité par**:
+
+	  - CODE DE PROCEDURE PENALE - art. 696 (M)
+	  - Code de procédure pénale - art. 697 (V)
+	  - Code de procédure pénale - art. 698-2 (V)
+
+
+###### Article 697-2
+
+Lorsqu'en temps de paix, un tribunal aux armées n'a pas été établi auprès d'une force [*militaire*] qui stationne ou opère
+hors du territoire de la République, les crimes et délits [*atteinte à la sûreté de l'Etat*] qui seraient de la compétence de
+ce tribunal sont, sous réserve des conventions internationales, portés devant une des juridictions [*tribunal de grande
+instance*] mentionnées à l'article 697.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 58-1296 1958-12-23
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°82-621 1982-07-21 art. 14
+	  - SPEC_APPLI: Décret n°82-1146 1982-12-29
+
+	**Créé par**:
+
+	  - Loi n°82-621 du 21 juillet 1982 - art. 3 () JORF 22 juillet 1982 en vigueur le 1er janvier 1983
+
+	**Cité par**:
+
+	  - Loi n°99-929 du 10 novembre 1999 - art. 57 (Ab)
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. 697 (M)
+
+
+###### Article 697-3
+
+La compétence territoriale des juridictions mentionnées à l'article 697 est déterminée conformément aux articles 43, 52, 382
+et 663. sont également compétentes les juridictions du lieu de l'affectation ou du débarquement. En outre, la juridiction
+territorialement compétente à l'égard des personnels des navires convoyés est celle à laquelle seraient déférés les
+personnels du navire convoyeur.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 58-1296 1958-12-23
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°82-621 1982-07-21 art. 14
+	  - SPEC_APPLI: Décret n°82-1146 1982-12-29
+
+	**Créé par**:
+
+	  - Loi n°82-621 du 21 juillet 1982 - art. 3 () JORF 22 juillet 1982 en vigueur 1er janvier 1983
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. 382 (M)
+	  - CODE DE PROCEDURE PENALE - art. 43 (M)
+	  - CODE DE PROCEDURE PENALE - art. 52 (M)
+	  - CODE DE PROCEDURE PENALE - art. 663 (M)
+	  - CODE DE PROCEDURE PENALE - art. 697 (M)
+
+	**Cité par**:
+
+	  - CODE DE PROCEDURE PENALE - art. 696 (M)
+	  - Code de procédure pénale - art. 693 (VD)
+
+
+#### Chapitre III : Des crimes et délits contre la sûreté de l'Etat
+
+###### Article 702
+
+En temps de paix, les crimes et délits contre la sûreté de l'Etat sont instruits et jugés par les juridictions de droit
+commun et selon les règles du présent code.
+
+Lorsque les faits poursuivis constituent un crime ou un délit prévu et réprimé par les articles 70 à 85 du Code pénal ou une
+infraction connexe, la compétence est dévolue aux juridictions prévues et organisées par les articles 697 et 698-6.
+
+Si le tribunal correctionnel mentionné à l'article 697 se déclare incompétent pour connaître des faits dont il a été saisi,
+il renvoie le ministère public à se pourvoir ainsi qu'il avisera ; il peut, le ministère public entendu, décerner par la même
+décision mandat de dépôt ou d'arrêt contre le prévenu.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 58-1296 1958-12-23
+
+	**Modifié par**:
+
+	  - Ordonnance 60-529 1960-06-04 art. 2 JORF 8 juin 1960
+	  - Loi n°63-22 1963-01-15 art. 1 JORF 16 janvier 1963
+	  - Loi n°81-737 1981-08-04 art. 2 JORF 5 août 1981
+	  - Loi n°82-621 du 21 juillet 1982 - art. 3 () JORF 22 juillet 1982 en vigueur le 1er janvier 1983
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°82-621 1982-07-21 art. 14
+	  - SPEC_APPLI: Décret n°82-1146 1982-12-29
+
+	**Cite**:
+
+	  - Code pénal 70 à 85
+	  - CODE DE PROCEDURE PENALE - art. 697 (M)
+	  - CODE DE PROCEDURE PENALE - art. 698-6 (M)
+
+	**Cité par**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R*761-24 (Ab)
+	  - CODE DE PROCEDURE PENALE - art. 696 (M)
+	  - Code de procédure pénale - art. 706-168 (VD)
+
+
 ### Titre XII : Des demandes présentées en vue d'être relevé des interdictions, déchéances, incapacités ou mesures de publication
 
 ###### Article 703
@@ -17232,6 +17910,34 @@ en application de l'article 522.
 
 
 ### Titre XIV : Du recours en indemnité ouvert à certaines victimes de dommages résultant d'une infraction
+
+###### Article 706-5
+
+A peine de forclusion, la demande d'indemnité doit être présentée dans le délai d'un an à compter de la date de l'infraction.
+Lorsque des poursuites pénales sont exercées, ce délai est prorogé et n'expire qu'un an après la décision de la juridiction
+qui a statué définitivement sur l'action publique ou sur l'action civile engagée devant la juridiction répressive. Toutefois,
+la commission relève le requérant de la forclusion lorsqu'il n'a pas été en mesure de faire valoir ses droits dans les délais
+requis ou lorsqu'il a subi une aggravation de son préjudice ou pour tout autre motif légitime.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 58-1296 1958-12-23
+
+	**Modifié par**:
+
+	  - Loi n°81-82 du 2 février 1981 - art. 95 () JORF 3 février 1981
+	  - Loi n°83-608 1983-07-08 art. 17 JORF 9 juillet 1983 en vigueur le 1er janvier 1983
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°83-608 du 8 juillet 1983 - art. 23, v. init.
+
+	**Cité par**:
+
+	  - Code de procédure pénale - art. R50-7 (V)
+
 
 ###### Article 706-7
 
