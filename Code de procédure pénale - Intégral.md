@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 1968-07-14
+Version Consolidée au 1970-06-20
 
 # Partie législative
 
@@ -14123,6 +14123,26 @@ Les bulletins n° 1 établis par le casier judiciaire central sont délivrés gr
 	**Liens**:
 
 	  - SPEC_APPLI: Décret n°59-318 1959-02-23 art. 5
+	  - TXT_SOURCE: CODE DE PROCEDURE PENALE - art. 779 (M)
+	  - TXT_SOURCE: Code de procédure pénale 776 (3°), 779
+
+
+###### Article R86
+
+Les bulletins n° 2 du casier judiciaire sont délivrés gratuitement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-318 1959-02-23
+
+	**Créé par**:
+
+	  - Décret n°59-318 1959-02-23 JORF 25 février 1959 en vigueur le 2 mars 1959 rectificatif JORF 13 juin 1959
+
+	**Liens**:
+
 	  - TXT_SOURCE: CODE DE PROCEDURE PENALE - art. 779 (M)
 	  - TXT_SOURCE: Code de procédure pénale 776 (3°), 779
 
