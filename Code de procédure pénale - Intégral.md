@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 1997-12-31
+Version Consolidée au 1998-01-01
 
 # Partie législative
 
@@ -39809,6 +39809,73 @@ préparer, le cas échéant, une prise en charge post-pénale adaptée.
 	  - Décret n°59-318 1959-02-03
 
 
+###### Article R50-36
+
+Le directeur régional des services pénitentiaires est compétent pour prendre les décisions administratives individuelles
+suivantes :
+
+1° Agrément des associations pour le compte desquelles les détenus peuvent être autorisés à travailler ;
+
+2° Délivrance des autorisations de visiter ou de communiquer avec des détenus non nominativement désignés incarcérés dans les
+établissements pénitentiaires situés dans le ressort de sa direction régionale ;
+
+3° Restitution de tout ou partie de la part disponible du compte nominatif d'un détenu réincarcéré après une évasion ;
+
+4° Autorisation, pour un détenu, de se faire soigner par un médecin de son choix ;
+
+5° Délivrance d'une autorisation de portée régionale d'effectuer des photographies, croquis, prises de vues ou
+enregistrements sonores se rapportant à la détention ;
+
+6° Autorisation, pour une mère détenue avec son enfant, de le garder auprès d'elle au-delà de l'âge de dix-huit mois ;
+
+7° Nomination des membres non fonctionnaires de la commission consultative devant émettre un avis sur la demande d'une mère
+détenue aux fins de garder auprès d'elle, son enfant, au-delà de la limite réglementaire ;
+
+8° Habilitation des aumôniers assurant le service religieux dans les établissements pénitentiaires ;
+
+9° Autorisation de sortie des écrits faits par un détenu en vue de leur publication ou divulgation sous quelque forme que ce
+soit ;
+
+10° Délivrance d'une autorisation, pour un détenu, d'être hospitalisé dans un établissement de santé privé ;
+
+11° Autorisation d'hospitalisation d'un détenu dans un établissement de santé situé dans le ressort de la direction régionale
+des services pénitentiaires.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-318 1959-02-03
+
+	**Créé par**:
+
+	  - Décret n°97-1188 du 24 décembre 1997 - art. 1 () JORF 27 décembre 1997 en vigueur le 1er janvier 1998
+
+	**Abrogé par**:
+
+	  - Décret n°99-818 du 16 septembre 1999 - art. 1 () JORF 19 septembre 1999
+
+
+###### Article R50-37
+
+Le procureur général près la cour d'appel saisie de la procédure est compétent pour délivrer les permis de visiter des
+détenus écroués à la suite d'une demande d'extradition émanant d'un gouvernement étranger.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-318 1959-02-03
+
+	**Créé par**:
+
+	  - Décret n°97-1188 du 24 décembre 1997 - art. 1 () JORF 27 décembre 1997 en vigueur le 1er janvier 1998
+
+	**Abrogé par**:
+
+	  - Décret n°99-818 du 16 septembre 1999 - art. 1 () JORF 19 septembre 1999
+
+
 ### Titre IV : Du sursis
 
 #### Chapitre II : Du sursis avec mise à l'épreuve.
@@ -42388,7 +42455,7 @@ En sus du remboursement de leurs frais de déplacement, calculés dans les condi
 fonctionnaires du groupe II, il est alloué aux personnes habilitées :
 
 1° Pour la vérification de la situation matérielle, familiale ou sociale des personnes faisant l'objet d'une enquête prévue
-par les articles 41 (alinéa 5) et 81 (alinéa 7) : 255 F ;
+par les articles 41 (alinéa 5) et 81 (alinéa 7) : [*francs*] 255 F ;
 
 2° Pour l'enquête sur la personnalité des inculpés ainsi que sur leur situation matérielle, familiale ou sociale, prévue par
 l'article 81 (alinéa 6) : 480 F ;
@@ -42396,10 +42463,11 @@ l'article 81 (alinéa 6) : 480 F ;
 3° Pour une mission de médiation ou une mission tendant à favoriser la réparation du dommage préalablement à la décision du
 procureur de la République sur les poursuites : 255 F.
 
-Lorsque la personne habilitée est une association qui a passé une convention avec le ministère de la justice, l'indemnité
-prévue au 1° ci-dessus est portée à 420 F, l'indemnité prévue au 2° à 1 000 F et l'indemnité prévue au 3° à 500 F lorsque la
-durée de la mission est inférieure ou égale à un mois, 1 000 F lorsque cette durée est supérieure à un mois et inférieure ou
-égale à trois mois, 2 000 F lorsqu'elle est supérieure à trois mois.
+Lorsque la personne habilitée est une association qui a passé une convention avec le premier président et le procureur
+général de la cour d'appel dans le ressort de laquelle est situé son siège social, l'indemnité prévue au 1° ci-dessus est
+portée à 420 F, l'indemnité prévue au 2° à 1.000 F et l'indemnité prévue au 3° à 500 F lorsque la durée de la mission est
+inférieure ou égale à un mois, 1.000 F lorsque cette durée est supérieure à un mois et inférieure ou égale à trois mois,
+2.000 F lorsqu'elle est supérieure à trois mois.
 
 **Liens relatifs à cet article**
 
@@ -42418,7 +42486,7 @@ durée de la mission est inférieure ou égale à un mois, 1 000 F lorsque cette
 
 	**Modifié par**:
 
-	  - Décret n°92-1181 du 4 novembre 1992 - art. 2 () JORF 5 novembre 1992
+	  - Décret n°97-1188 du 24 décembre 1997 - art. 18 () JORF 27 décembre 1997 en vigueur le 1er janvier 1998
 
 	**Cite**:
 
@@ -42443,8 +42511,9 @@ inculpé, en application du 6° de l'article 138 (alinéa 2) :
 
 1.000 F lorsque la mission de contrôle judiciaire dure plus d'un an.
 
-Lorsque cette mission est effectuée par une association qui a passé une convention avec le ministère de la justice,
-l'indemnité allouée est portée respectivement à 1 000 F, 1 670 F et 2 670 F.
+Lorsque cette mission est effectuée par une association qui a passé une convention avec le premier président et le procureur
+général de la cour d'appel dans le ressort de laquelle est situé son siège social, l'indemnité allouée est portée
+respectivement à 1.000 F, 1.670 F et 2.670 F.
 
 **Liens relatifs à cet article**
 
@@ -42454,7 +42523,7 @@ l'indemnité allouée est portée respectivement à 1 000 F, 1 670 F et 2 670 F.
 
 	**Modifié par**:
 
-	  - Décret n°92-1181 du 4 novembre 1992 - art. 3 () JORF 5 novembre 1992
+	  - Décret n°97-1188 du 24 décembre 1997 - art. 18 () JORF 27 décembre 1997 en vigueur le 1er janvier 1998
 
 	**Cité par**:
 
