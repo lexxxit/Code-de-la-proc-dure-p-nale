@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 1970-07-19
+Version Consolidée au 1970-08-04
 
 # Partie législative
 
@@ -19498,6 +19498,26 @@ s'ils ne désirent y assister eux-mêmes.
 	**Liens**:
 
 	  - SPEC_APPLI: Décret n°59-322 1959-02-23 art. 6
+	  - TXT_SOURCE: Code de procédure pénale 714 à 728
+
+
+###### Article D185
+
+Les commissions de surveillance instituées auprès d'établissements pénitentiaires d'un même département peuvent avoir la même
+composition.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-322 1959-02-23
+
+	**Modifié par**:
+
+	  - Décret n°70-696 1970-07-31 art. 4 JORF 4 août 1970
+
+	**Liens**:
+
 	  - TXT_SOURCE: Code de procédure pénale 714 à 728
 
 
