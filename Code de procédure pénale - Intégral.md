@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 1984-12-22
+Version Consolidée au 1985-01-01
 
 # Partie législative
 
@@ -2931,6 +2931,39 @@ mandat, soit devant le procureur de la République du lieu de l'arrestation.
 	  - Code de procédure pénale - art. D49-35-1 (V)
 
 
+###### Article 128
+
+Ce magistrat l'interroge sur son identité, reçoit ses déclarations, après l'avoir averti qu'il est libre de ne pas en faire,
+l'interpelle afin de savoir s'il consent à être transféré ou s'il préfère prolonger les effets du mandat d'amener, en
+attendant, au lieu où il se trouve, la décision du juge d'instruction saisi de l'affaire. Si l'inculpé déclare s'opposer au
+transfèrement, il est conduit dans la maison d'arrêt et avis immédiat est donné au juge d'instruction compétent. L'original
+ou la copie du procès-verbal de la comparution contenant un signalement complet est transmis sans délai à ce magistrat, avec
+toutes les indications propres à faciliter la reconnaissance d'identité.
+
+Ce procès-verbal doit mentionner que l'inculpé a reçu avis qu'il est libre de ne pas faire de déclaration.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°57-1426 1957-12-31
+
+	**Cité par**:
+
+	  - Loi n°71-569 du 15 juillet 1971 - art. 4 (V)
+	  - Loi n°83-520 du 27 juin 1983 - art. 16 (V)
+	  - Code de procédure pénale - art. 130 (V)
+	  - Code de procédure pénale - art. 822 (V)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°84-576 du 9 juillet 1984 - art. 19 ()
+
+	**Modifié par**:
+
+	  - Loi n°84-576 du 9 juillet 1984 - art. 2 () JORF 10 juillet 1984 en vigueur le 1er janvier 1985
+
+
 ###### Article 129
 
 Le juge d'instruction saisi de l'affaire décide, aussitôt après la réception de ces pièces, s'il y a lieu d'ordonner le
@@ -2950,6 +2983,73 @@ transfèrement.
 
 	  - Loi n°71-569 du 15 juillet 1971 - art. 4 (V)
 	  - CODE DE PROCEDURE PENALE - art. 130 (M)
+
+
+###### Article 130
+
+Lorsqu'il y a lieu à transfèrement dans les conditions prévues par les articles 128 et 129, l'inculpé doit être conduit
+devant le juge d'instruction qui a délivré le mandat dans les quatre jours de la notification du mandat.
+
+Toutefois, ce délai est porté à six jours en cas de transfèrement d'un département d'outre-mer vers un autre département ou
+de la France métropolitaine vers un département d'outre-mer.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°57-1426 1957-12-31
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°84-576 du 9 juillet 1984 - art. 19 ()
+
+	**Modifié par**:
+
+	  - Loi n°84-576 du 9 juillet 1984 - art. 3 () JORF 10 juillet 1984 en vigueur le 1er janvier 1985
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. 128 (M)
+	  - CODE DE PROCEDURE PENALE - art. 129 (V)
+
+	**Cité par**:
+
+	  - CODE DE PROCEDURE PENALE - art. 907-1 (V)
+	  - CODE DE PROCEDURE PENALE - art. D116-8 (Ab)
+	  - CODE DE PROCEDURE PENALE - art. D541 (Ab)
+	  - Code de procédure pénale - art. 130-1 (V)
+	  - Code de procédure pénale - art. 133 (V)
+	  - Code de procédure pénale - art. 821 (V)
+	  - Code de procédure pénale - art. 883 (V)
+
+
+###### Article 130-1
+
+En cas de non-respect des délais fixés par les articles 127 et 130, l'inculpé est libéré, sur ordre du juge d'instruction
+saisi de l'affaire, à moins que sa conduite ait été retardée par des circonstances insurmontables.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°57-1426 1957-12-31
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°84-576 du 9 juillet 1984 - art. 19 ()
+
+	**Créé par**:
+
+	  - Loi n°84-576 du 9 juillet 1984 - art. 4 () JORF 10 juillet 1984 en vigueur le 1er janvier 1985
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. 127 (M)
+	  - CODE DE PROCEDURE PENALE - art. 130 (M)
+
+	**Cité par**:
+
+	  - Code de procédure pénale - art. 133 (V)
 
 
 ###### Article 131
@@ -2997,6 +3097,57 @@ Le surveillant-chef délivre à l'agent chargé de l'exécution une reconnaissan
 	  - Code de procédure pénale 133 al. 2
 
 
+###### Article 133
+
+Dans les vingt-quatre heures de l'incarcération de l'inculpé, il est procédé à son interrogatoire et il est statué sur le
+maintien de sa détention dans les conditions prévues par l'article 145. A défaut et à l'expiration de ce délai, les
+dispositions des articles 125 (troisième alinéa) et 126 sont applicables.
+
+Si l'inculpé est arrêté à plus de deux cents kilomètres du siège du juge d'instruction qui a délivré le mandat, il est
+conduit immédiatement devant le procureur de la République du lieu de l'arrestation qui reçoit ses déclarations après l'avoir
+averti qu'il est libre de ne pas en faire. Mention est faite de cet avis au procès-verbal.
+
+Le procureur de la République informe sans délai le magistrat qui a délivré le mandat et requiert le transfèrement. Si celui-
+ci ne peut être effectué immédiatement, le procureur de la République en réfère au juge mandant.
+
+Lorsqu'il y a lieu à transfèrement, l'inculpé doit être conduit à la maison d'arrêt indiquée sur le mandat dans les délais
+prévus à l'article 130. Les dispositions de l'article 130-1 sont applicables.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°57-1426 1957-12-31
+
+	**Modifié par**:
+
+	  - Loi n°70-643 du 17 juillet 1970 - art. 2 () JORF 19 juillet 1970
+	  - Loi n°84-576 1984-07-09 art. 5-I, 5-II, 5-III JORF 10 juillet 1984 en vigueur le 1er janvier 1985
+
+	**Cité par**:
+
+	  - Loi n°83-520 du 27 juin 1983 - art. 15 (V)
+	  - CODE DE PROCEDURE PENALE - art. 755 (Ab)
+	  - CODE DE PROCEDURE PENALE - art. D541 (Ab)
+	  - Code de justice militaire - art. 112 (Ab)
+	  - Code de justice militaire. - art. L211-19 (VD)
+	  - Code de procédure pénale - art. 133-1 (V)
+	  - Code de procédure pénale - art. 820 (V)
+	  - Code de procédure pénale - art. D150 (V)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°84-576 du 9 juillet 1984 - art. 19 ()
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. 126 (M)
+	  - CODE DE PROCEDURE PENALE - art. 130 (M)
+	  - CODE DE PROCEDURE PENALE - art. 130-1 (M)
+	  - CODE DE PROCEDURE PENALE - art. 145 (MMN)
+	  - Code de procédure pénale 125 al. 3, 126, 130, 130-1, 145
+
+
 ###### Article 134
 
 L'agent chargé de l'exécution d'un mandat d'amener ou d'arrêt ne peut s'introduire dans le domicile d'un citoyen avant 6
@@ -3026,27 +3177,6 @@ a délivré le mandat.
 	**Cité par**:
 
 	  - Code de procédure pénale - art. 70 (V)
-
-
-###### Article 135-1
-
-**Nota:**
-
-Nota : Article abrogé loi 84-576 du 9 juillet 1984 art. 7.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°57-1426 1957-12-31
-
-	**Créé par**:
-
-	  - Loi n°75-701 1975-08-06 art. 5 JORF 7 août 1975 en vigueur le 1er janvier 1976
-
-	**Abrogé par**:
-
-	  - Loi n°84-576 du 9 juillet 1984 - art. 7 () JORF 10 juillet 1984 en vigueur le 1er janvier 1985
 
 
 ###### Article 136
@@ -3930,6 +4060,111 @@ Nota : Article abrogé loi 85-1407 du 30 décembre 1985, art. 17.
 	  - CODE DE PROCEDURE PENALE - art. 397-3 (M)
 
 
+##### Section 1 : Dispositions générales
+
+###### Article 81
+
+Le juge d'instruction procède, conformément à la loi, à tous les actes d'information qu'il juge utiles à la manifestation de
+la vérité.
+
+Il est établi une copie de ces actes ainsi que de toutes les pièces de la procédure ; chaque copie est certifiée conforme par
+le greffier ou l'officier de police judiciaire commis mentionné à l'alinéa 4. Toutes les pièces du dossier sont cotées par le
+greffier au fur et à mesure de leur rédaction ou de leur réception par le juge d'instruction.
+
+Toutefois, si les copies peuvent être établies à l'aide de procédés photographiques ou similaires, elles sont exécutées à
+l'occasion de la transmission du dossier. Il en est alors établi autant d'exemplaires qu'il est nécessaire à l'administration
+de la justice. Le greffier certifie la conformité du dossier reproduit avec le dossier original. Si le dessaisissement
+momentané a pour cause l'exercice d'une voie de recours, l'établissement des copies doit être effectué immédiatement pour
+qu'en aucun cas ne soit retardée la mise en état de l'affaire prévue à l'article 194.
+
+Si le juge d'instruction est dans l'impossibilité de procéder lui-même à tous les actes d'instruction, il peut donner
+commission rogatoire aux officiers de police judiciaire afin de leur faire exécuter tous les actes d'information nécessaires
+dans les conditions et sous les réserves prévues aux articles 151 et 152.
+
+Le juge d'instruction doit vérifier les éléments d'information ainsi recueillis.
+
+Le juge d'instruction procède ou fait procéder, soit par des officiers de police judiciaire conformément à l'alinéa 4, soit
+par toute personne habilitée dans des conditions fixées par décret en Conseil d'Etat, à une enquête sur la personnalité des
+inculpés, ainsi que sur leur situation matérielle, familiale ou sociale. Toutefois, en matière de délit, cette enquête est
+facultative.
+
+Le juge d'instruction peut prescrire un examen médical, confier à un médecin le soin de procéder à un examen médico-
+psychologique ou ordonner toutes autres mesures utiles. Si ces examens sont demandés par l'inculpé ou son conseil, il ne peut
+les refuser que par ordonnance motivée.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°57-1426 1957-12-31
+
+	**Modifié par**:
+
+	  - ordonnance 60-529 1960-06-04 art. 2 JORF 8 juin 1960
+	  - Loi n°83-466 du 10 juin 1983 - art. 28 () JORF 11 juin 1983
+	  - Loi n°84-576 du 9 juillet 1984 - art. 18 () JORF 10 juillet 1984 en vigueur le 1er janvier 1985
+
+	**Cité par**:
+
+	  - Décret n°67-902 du 12 octobre 1967 - art. 27 (Ab)
+	  - Décret n°67-902 du 12 octobre 1967 - art. Annexe II (Ab)
+	  - Arrêté du 21 octobre 1991 - art. 2 (V)
+	  - Décret n°2004-32 du 9 janvier 2004 - art. 8 (V)
+	  - CODE DE PROCEDURE PENALE - art. 113-8 (M)
+	  - CODE DE PROCEDURE PENALE - art. 145-5 (V)
+	  - CODE DE PROCEDURE PENALE - art. 156 (V)
+	  - CODE DE PROCEDURE PENALE - art. 167-2 (V)
+	  - CODE DE PROCEDURE PENALE - art. 186 (V)
+	  - CODE DE PROCEDURE PENALE - art. 186-1 (V)
+	  - CODE DE PROCEDURE PENALE - art. 187 (V)
+	  - CODE DE PROCEDURE PENALE - art. 220 (V)
+	  - CODE DE PROCEDURE PENALE - art. 463 (V)
+	  - CODE DE PROCEDURE PENALE - art. 648 (V)
+	  - CODE DE PROCEDURE PENALE - art. 80-3 (Ab)
+	  - CODE DE PROCEDURE PENALE - art. D23 (V)
+	  - CODE DE PROCEDURE PENALE - art. D32-3 (V)
+	  - CODE DE PROCEDURE PENALE - art. R121 (M)
+	  - CODE DE PROCEDURE PENALE - art. R121-1 (V)
+	  - CODE DE PROCEDURE PENALE - art. R121-3 (V)
+	  - CODE DE PROCEDURE PENALE - art. R15-34 (V)
+	  - Code de justice militaire - art. 130 (Ab)
+	  - Code de procédure pénale - art. 116 (MMN)
+	  - Code de procédure pénale - art. 161-1 (M)
+	  - Code de procédure pénale - art. 167 (V)
+	  - Code de procédure pénale - art. 175 (V)
+	  - Code de procédure pénale - art. 175-1 (MMN)
+	  - Code de procédure pénale - art. 194 (V)
+	  - Code de procédure pénale - art. 207 (VT)
+	  - Code de procédure pénale - art. 41 (V)
+	  - Code de procédure pénale - art. 570 (V)
+	  - Code de procédure pénale - art. 80-1-1 (MMN)
+	  - Code de procédure pénale - art. 82-1 (V)
+	  - Code de procédure pénale - art. 82-3 (V)
+	  - Code de procédure pénale - art. 89-1 (V)
+	  - Code de procédure pénale - art. D15-7 (V)
+	  - Code de procédure pénale - art. D153 (V)
+	  - Code de procédure pénale - art. D16 (V)
+	  - Code de procédure pénale - art. D32-31 (V)
+	  - Code de procédure pénale - art. D40 (V)
+	  - Code de procédure pénale - art. D40-2 (V)
+	  - Code de procédure pénale - art. D40-3 (V)
+	  - Code de procédure pénale - art. D47-21 (V)
+	  - Code de procédure pénale - art. D591 (V)
+	  - Code de procédure pénale - art. D77 (V)
+	  - Code de procédure pénale - art. R242 (V)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°84-576 du 9 juillet 1984 - art. 19 ()
+	  - TXT_SOURCE: CODE DE PROCEDURE PENALE - art. D17 (M)
+	  - TXT_SOURCE: CODE DE PROCEDURE PENALE - art. D25 (V)
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. 151 (V)
+	  - CODE DE PROCEDURE PENALE - art. 152 (M)
+
+
 ##### Section 2 : De la constitution de la partie civile et de ses effets
 
 ###### Article 88
@@ -4351,6 +4586,38 @@ Si cette autorisation leur est refusée, le texte des questions sera reproduit o
 
 
 ##### Section 7 : Du contrôle judiciaire et de la détention provisoire
+
+###### Article 137
+
+L'inculpé reste libre sauf, à raison des nécessités de l'instruction ou à titre de mesure de sûreté, à être soumis au
+contrôle judiciaire ou, à titre exceptionnel, placé en détention provisoire selon les règles et conditions énoncées ci-après.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Ordonnance n°45-174 du 2 février 1945 - art. 11 (V)
+	  - Ordonnance n°45-174 du 2 février 1945 - art. 14-2 (V)
+	  - CODE DE PROCEDURE PENALE - art. 139 (M)
+	  - CODE DE PROCEDURE PENALE - art. 144 (M)
+	  - CODE DE PROCEDURE PENALE - art. 144-1 (MMN)
+	  - CODE DE PROCEDURE PENALE - art. 207 (M)
+	  - CODE DE PROCEDURE PENALE - art. 82 (M)
+	  - Code de procédure pénale - art. 143-1 (V)
+
+	**Codifié par**:
+
+	  - Loi n°57-1426 1957-12-31
+
+	**Modifié par**:
+
+	  - Loi n°70-643 du 17 juillet 1970 - art. 1 () JORF 19 juillet 1970
+	  - Loi n°84-576 du 9 juillet 1984 - art. 8 () JORF 10 juillet 1984 en vigueur le 1er janvier 1985
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°84-576 du 9 juillet 1984 - art. 19 ()
+
 
 ##### Sous-section 1 : Du contrôle judiciaire
 
@@ -9930,6 +10197,63 @@ Mention de ces formalités est faite au procès-verbal à peine de nullité de l
 	  - Code de procédure pénale 394 à 396
 
 
+###### Article 396
+
+Dans le cas prévu par l'article précédent, si la réunion du tribunal est impossible le jour même et si les éléments de
+l'espèce lui paraissent exiger une mesure de détention provisoire, le procureur de la République peut traduire le prévenu
+devant le président du tribunal ou le juge délégué par lui, statuant en chambre du conseil avec l'assistance d'un greffier.
+
+Le président du tribunal ou le juge, après avoir recueilli les déclarations du prévenu, son conseil ayant été avisé, et après
+avait fait procéder, s'il y a lieu, aux vérifications prévues par le cinquième alinéa de l'article 41, statue sur les
+réquisitions du ministère public aux fins de détention provisoire, après avoir recueilli les observations éventuelles du
+prévenu ou de son avocat ; l'ordonnance rendue n'est pas susceptible d'appel.
+
+Il peut placer le prévenu en détention provisoire jusqu'à sa comparution devant le tribunal. L'ordonnance prescrivant la
+détention est rendue suivant les modalités prévues par les articles 135, 145, alinéa premier, et 145-1, quatrième alinéa, et
+est motivée par référence aux dispositions des 1° et 2° de l'article 144. Elle énonce les faits retenus et saisit le
+tribunal. Copie du procès-verbal est remise sur-le-champ au prévenu. Celui-ci doit comparaître devant le tribunal le premier
+jour ouvrable suivant. A défaut, il est mis d'office en liberté.
+
+Si le président du tribunal ou le juge estime que la détention provisoire n'est pas nécessaire, le ministère public procède
+comme il est dit à l'article 394.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 58-1296 1958-12-23
+
+	**Modifié par**:
+
+	  - Loi n°75-701 1975-08-06 art. 12 JORF 7 août 1975 en vigueur le 1er janvier 1976
+	  - Loi n°81-82 du 2 février 1981 - art. 51 () JORF 3 février 1981
+	  - Loi n°83-466 du 10 juin 1983 - art. 25 () JORF 11 juin 1983 en vigueur le 27 juin 1983
+	  - Loi n°84-576 du 9 juillet 1984 - art. 16 () JORF 10 juillet 1984 en vigueur le 1er janvier 1985
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°84-576 du 9 juillet 1984 - art. 19 ()
+
+	**Cité par**:
+
+	  - Loi n°2007-224 du 21 février 2007 - art. 19 (V)
+	  - CODE DE PROCEDURE PENALE - art. 495-10 (V)
+	  - CODE DE PROCEDURE PENALE - art. 495-12 (V)
+	  - CODE DE PROCEDURE PENALE - art. 823-1 (V)
+	  - Code de procédure pénale - art. 397-7 (V)
+	  - Code de procédure pénale - art. 80 (VT)
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. 135 (M)
+	  - CODE DE PROCEDURE PENALE - art. 144 (M)
+	  - CODE DE PROCEDURE PENALE - art. 145 (MMN)
+	  - CODE DE PROCEDURE PENALE - art. 145-1 (M)
+	  - CODE DE PROCEDURE PENALE - art. 394 (M)
+	  - CODE DE PROCEDURE PENALE - art. 395 (M)
+	  - CODE DE PROCEDURE PENALE - art. 41 (M)
+
+
 ###### Article 397
 
 Lorsque le tribunal est saisi en application des articles 395 et 396, troisième alinéa, le président constate l'identité du
@@ -9960,6 +10284,61 @@ Si le prévenu consent à être jugé séance tenante, mention en est faite dans
 
 	  - CODE DE PROCEDURE PENALE - art. 395 (M)
 	  - Code de procédure pénale 395, 396 al. 3
+
+
+###### Article 397-3
+
+Dans tous les cas prévus par le présent paragraphe, le tribunal peut, conformément aux dispositions de l'article 141-1,
+placer ou maintenir le prévenu sous contrôle judiciaire. Cette décision est exécutoire par provision.
+
+Dans les cas prévus par les articles 395 et suivants, le tribunal peut également placer ou maintenir le prévenu en détention
+provisoire par décision spécialement motivée. La décision prescrivant la détention est rendue suivant les modalités prévues
+par les articles 135, 145, alinéa premier, 145-1, quatrième alinéa et 464-1 et est motivée par référence aux dispositions des
+1. et 2. de l'article 144. Elle est exécutoire par provision.
+
+Lorsque le prévenu est en détention provisoire, le jugement au fond doit être rendu dans les deux mois qui suivent le jour de
+sa première comparution devant le tribunal. Faute de décision au fond à l'expiration de ce délai, il est mis fin à la
+détention provisoire. Le prévenu, s'il n'est pas détenu pour autre cause, est mis d'office en liberté.
+
+**Nota:**
+
+NOTA : Selon la loi 83-466 du 10 juin 1983 art. 43 al. 7, entrée en vigueur le 27 juin 1983, "Le délai de comparution fixé
+par l'ancien article 397-3, alinéa premier, du code de procédure pénale demeurera applicable pour les procédures engagées
+avant la date d'entrée en vigueur de la présente loi".
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 58-1296 1958-12-23
+
+	**Créé par**:
+
+	  - loi 81-82 1981-02-02 art. 51-I JORF 3 février 1981
+
+	**Modifié par**:
+
+	  - Loi n°84-576 du 9 juillet 1984 - art. 16 () JORF 10 juillet 1984 en vigueur le 1er janvier 1985
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°84-576 du 9 juillet 1984 - art. 19 ()
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. 135 (M)
+	  - CODE DE PROCEDURE PENALE - art. 141 (Ab)
+	  - CODE DE PROCEDURE PENALE - art. 144 (M)
+	  - CODE DE PROCEDURE PENALE - art. 145 (MMN)
+	  - CODE DE PROCEDURE PENALE - art. 145-1 (M)
+	  - CODE DE PROCEDURE PENALE - art. 395 (M)
+	  - CODE DE PROCEDURE PENALE - art. 464-1 (V)
+
+	**Cité par**:
+
+	  - Code de procédure pénale - art. 142-12 (V)
+	  - Code de procédure pénale - art. 397-3-1 (V)
+	  - Code pénal - art. 132-70-1 (VD)
 
 
 ###### Article 397-4
