@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 2005-03-05
+Version Consolidée au 2005-04-01
 
 # Partie législative
 
@@ -2768,13 +2768,13 @@ recueillir tous renseignements qu'il estime utiles à une bonne administration d
 ###### Article 39
 
 Le procureur de la République représente en personne ou par ses substituts le ministère public près le tribunal de grande
-instance, sans préjudice des dispositions de l'article 105 du code forestier et de l'article 446 du code rural.
+instance, sans préjudice des dispositions de l'article 105 du code forestier et de l'article 446 du code rural. 
 
 Il représente également en personne ou par ses substituts le ministère public auprès de la cour d'assises instituée au siège
-du tribunal.
+du tribunal. 
 
-Il représente de même, en personne ou par ses substituts, le ministère public auprès du tribunal de police dans les
-conditions fixées par l'article 45 du présent code.
+Il représente de même, en personne ou par ses substituts, le ministère public auprès du tribunal de police ou de la
+juridiction de proximité dans les conditions fixées par l'article 45 du présent code.
 
 **Liens relatifs à cet article**
 
@@ -2784,8 +2784,7 @@ conditions fixées par l'article 45 du présent code.
 
 	**Modifié par**:
 
-	  - Ordonnance n°58-1296 du 23 décembre 1958 - art. 1 () JORF 24 décembre 1958 en vigueur le 2 mars 1959
-	  - Ordonnance 60-529 1960-06-04 art. 2 JORF 8 juin 1960
+	  - Loi n°2005-47 du 26 janvier 2005 - art. 9 () JORF 27 janvier 2005 en vigueur le 1er avril 2005
 
 	**Nouveaux textes**:
 
@@ -2798,9 +2797,7 @@ conditions fixées par l'article 45 du présent code.
 
 	**Cite**:
 
-	  - CODE DE PROCEDURE PENALE - art. 45 (M)
-	  - Code forestier 105
-	  - Code rural 446
+	  - Code de procédure pénale - art. 45 (V)
 
 
 ###### Article 40
@@ -3235,7 +3232,16 @@ Les compositions pénales exécutées sont inscrites au bulletin n° 1 du casier
 Les dispositions du présent article ne sont applicables ni aux mineurs de dix-huit ans ni en matière de délits de presse, de
 délits d'homicides involontaires ou de délits politiques.
 
+Le président du tribunal peut désigner, aux fins de validation de la composition pénale, tout juge du tribunal ainsi que tout
+juge de proximité exerçant dans le ressort du tribunal.
+
 Les modalités d'application du présent article sont fixées par décret en Conseil d'Etat.
+
+**Nota:**
+
+NOTA : Loi n° 2005-47, article 11 : Ces dispositions entrent en vigueur le premier jour du troisième mois suivant sa
+publication. Toutefois, les affaires dont le tribunal de police ou la juridiction de proximité sont régulièrement saisis à
+cette date demeurent de la compétence de ces juridictions.
 
 **Liens relatifs à cet article**
 
@@ -3290,21 +3296,23 @@ Les modalités d'application du présent article sont fixées par décret en Con
 
 	**Modifié par**:
 
-	  - Loi n°2004-204 du 9 mars 2004 - art. 71 () JORF 10 mars 2004
+	  - Loi n°2005-47 du 26 janvier 2005 - art. 8 () JORF 27 janvier 2005 en vigueur le 1er avril 2005
 
 
 ###### Article 41-3
 
-La procédure de composition pénale est également applicable aux contraventions.
+La procédure de composition pénale est également applicable aux contraventions. 
 
 La durée de la privation du permis de conduire ou du permis de chasser ne peut dépasser trois mois, la durée du travail non
 rémunéré ne peut être supérieure à trente heures, dans un délai maximum de trois mois, et la durée d'interdiction d'émettre
 des chèques ne peut dépasser elle aussi trois mois. Les mesures prévues par les 9° à 12° de l'article 41-2 ne sont pas
 applicables. La mesure prévue par le 6° dudit article n'est pas applicable aux contraventions de la première classe à la
 quatrième classe. Il en est de même des mesures prévues par les 2° à 5° et 8° de cet article, sauf si la contravention est
-punie des peines complémentaires visées aux 1° à 5° de l'article 131-16 du code pénal.
+punie des peines complémentaires visées aux 1° à 5° de l'article 131-16 du code pénal. 
 
-La requête en validation est portée devant le juge d'instance.
+La requête en validation est portée, selon la nature de la contravention, devant le juge du tribunal de police ou devant le
+juge de la juridiction de proximité, sauf si le juge de proximité est désigné par le président du tribunal aux fins de
+validation de l'ensemble des compositions pénales contraventionnelles.
 
 **Liens relatifs à cet article**
 
@@ -3326,12 +3334,12 @@ La requête en validation est portée devant le juge d'instance.
 
 	**Modifié par**:
 
-	  - Loi n°2004-204 du 9 mars 2004 - art. 71 () JORF 10 mars 2004
+	  - Loi n°2005-47 du 26 janvier 2005 - art. 8 () JORF 27 janvier 2005 en vigueur le 1er avril 2005
 
 	**Cite**:
 
-	  - Code pénal - art. 131-16 (M)
-	  - CODE DE PROCEDURE PENALE - art. 41-2 (M)
+	  - Code pénal - art. 131-16 (V)
+	  - Code de procédure pénale - art. 41-2 (V)
 
 
 ###### Article 41-4
@@ -3456,9 +3464,15 @@ décision du procureur général constitue une mesure d'administration judiciair
 
 ###### Article 44
 
-Le procureur de la République a autorité sur les officiers du ministère public près les tribunaux de police de son ressort.
-Il peut leur dénoncer les contraventions dont il est informé et leur enjoindre d'exercer des poursuites. Il peut aussi, le
-cas échéant, requérir l'ouverture d'une information.
+Le procureur de la République a autorité sur les officiers du ministère public près les tribunaux de police et les
+juridictions de proximité de son ressort. Il peut leur dénoncer les contraventions dont il est informé et leur enjoindre
+d'exercer des poursuites. Il peut aussi, le cas échéant, requérir l'ouverture d'une information.
+
+**Nota:**
+
+Loi n° 2005-47, article 11 : Ces dispositions entrent en vigueur le premier jour du troisième mois suivant sa publication.
+Toutefois, les affaires dont le tribunal de police ou la juridiction de proximité sont régulièrement saisis à cette date
+demeurent de la compétence de ces juridictions.
 
 **Liens relatifs à cet article**
 
@@ -3473,7 +3487,7 @@ cas échéant, requérir l'ouverture d'une information.
 
 	**Modifié par**:
 
-	  - Ordonnance n°58-1296 du 23 décembre 1958 - art. 1 () JORF 24 décembre 1958 en vigueur le 2 mars 1959
+	  - Loi n°2005-47 du 26 janvier 2005 - art. 9 () JORF 27 janvier 2005 en vigueur le 1er avril 2005
 
 	**Cité par**:
 
@@ -3482,17 +3496,18 @@ cas échéant, requérir l'ouverture d'une information.
 	  - Code forestier (nouveau) - art. L161-22 (VD)
 
 
-##### Section 4 : Du ministère public près le tribunal de police
+##### Section 4 : Du ministère public près le tribunal de police et la juridiction de proximité
 
 ###### Article 45
 
 Le procureur de la République près le tribunal de grande instance occupe le siège du ministère public devant le tribunal de
-police pour les contraventions de la 5e classe. Il peut l'occuper également en toute matière, s'il le juge à propos, au lieu
-et place du commissaire de police qui exerce habituellement ces fonctions.
+police pour les contraventions de la 5e classe. Il peut l'occuper également en toute matière devant le tribunal de police ou
+devant la juridiction de proximité, s'il le juge à propos, au lieu et place du commissaire de police qui exerce
+habituellement ces fonctions.
 
-Toutefois, dans le cas où les infractions forestières sont soumises aux tribunaux de police, les fonctions du ministère
-public sont remplies, soit par un ingénieur des eaux et forêts, soit par un chef de district ou un agent technique, désigné
-par le conservateur des eaux et forêts.
+Toutefois, dans le cas où les infractions forestières sont soumises aux tribunaux de police ou aux juridictions de proximité,
+les fonctions du ministère public sont remplies, soit par un ingénieur des eaux et forêts, soit par un chef de district ou un
+agent technique, désigné par le conservateur des eaux et forêts.
 
 **Liens relatifs à cet article**
 
@@ -3516,7 +3531,8 @@ par le conservateur des eaux et forêts.
 
 	**Modifié par**:
 
-	  - Loi n°92-1336 du 16 décembre 1992 - art. 10 () JORF 23 décembre 1992 en vigueur le 1er mars 1994
+	  - Loi n°2005-47 2005-01-26 art. 9 V, VI JORF 27 janvier 2005 en vigueur le 1er avril 2005
+	  - Loi n°2005-47 du 26 janvier 2005 - art. 9 () JORF 27 janvier 2005 en vigueur le 1er avril 2005
 
 
 ###### Article 46
@@ -3526,7 +3542,7 @@ remplaçants qu'il choisit parmi les commissaires et les commandants ou capitain
 tribunal de grande instance.
 
 A titre exceptionnel et en cas de nécessité absolue pour la tenue de l'audience, le juge du tribunal d'instance peut appeler,
-pour exercer les fonctions du ministère public, le maire du lieu où siège le tribunal de police ou un de ses adjoints.
+pour exercer les fonctions du ministère public, le maire du lieu où siège la juridiction de proximité ou un de ses adjoints.
 
 **Liens relatifs à cet article**
 
@@ -3540,19 +3556,20 @@ pour exercer les fonctions du ministère public, le maire du lieu où siège le 
 	  - Code de procédure pénale - art. 811 (V)
 	  - Code de procédure pénale - art. R200 (Ab)
 
-	**Modifié par**:
-
-	  - Loi n°96-647 du 22 juillet 1996 - art. 22 () JORF 23 juillet 1996
-
 	**Liens**:
 
 	  - SPEC_APPLI: Loi n°96-647 du 22 juillet 1996 - art. 27 (M)
 
+	**Modifié par**:
+
+	  - Loi n°2005-47 2005-01-26 art. 9 V, VII JORF 27 janvier 2005 en vigueur le 1er avril 2005
+	  - Loi n°2005-47 du 26 janvier 2005 - art. 9 () JORF 27 janvier 2005 en vigueur le 1er avril 2005
+
 
 ###### Article 47
 
-S'il y a plusieurs commissaires de police au lieu où siège le tribunal, le procureur général désigne celui qui remplit les
-fonctions du ministère public.
+S'il y a plusieurs commissaires de police au lieu où siège la juridiction de proximité, le procureur général désigne celui
+qui remplit les fonctions du ministère public.
 
 **Liens relatifs à cet article**
 
@@ -3564,12 +3581,18 @@ fonctions du ministère public.
 
 	  - SPEC_APPLI: Loi n°57-1426 1957-12-31 art. 18
 
+	**Modifié par**:
+
+	  - Loi n°2005-47 2005-01-26 art. 9 V, VIII JORF 27 janvier 2005 en vigueur le 1er avril 2005
+	  - Loi n°2005-47 du 26 janvier 2005 - art. 9 () JORF 27 janvier 2005 en vigueur le 1er avril 2005
+
 
 ###### Article 48
 
-S'il n'y a pas de commissaire de police au lieu où siège le tribunal, le procureur général désigne, pour exercer les
-fonctions du ministère public, un commissaire ou un commandant ou capitaine de police en résidence dans le ressort du
-tribunal de grande instance ou, à défaut, d'un tribunal de grande instance limitrophe situé dans le même département.
+S'il n'y a pas de commissaire de police au lieu où siège la juridiction de proximité, le procureur général désigne, pour
+exercer les fonctions du ministère public, un commissaire ou un commandant ou capitaine de police en résidence dans le
+ressort du tribunal de grande instance ou, à défaut, d'un tribunal de grande instance limitrophe situé dans le même
+département.
 
 **Liens relatifs à cet article**
 
@@ -3585,11 +3608,8 @@ tribunal de grande instance ou, à défaut, d'un tribunal de grande instance lim
 
 	**Modifié par**:
 
-	  - Loi n°96-647 du 22 juillet 1996 - art. 22 () JORF 23 juillet 1996
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°96-647 du 22 juillet 1996 - art. 27 (M)
+	  - Loi n°2005-47 2005-01-26 art. 9 V, VIII JORF 27 janvier 2005 en vigueur le 1er avril 2005
+	  - Loi n°2005-47 du 26 janvier 2005 - art. 9 () JORF 27 janvier 2005 en vigueur le 1er avril 2005
 
 
 ##### Section 5 : Du bureau d'ordre national automatisé des procédures judiciaires
@@ -12916,9 +12936,15 @@ représentant légal, si la mauvaise foi de ce dernier est établie.
 ###### Article 178
 
 Si le juge estime que les faits constituent une contravention, il prononce, par ordonnance, le renvoi de l'affaire devant le
-tribunal de police.
+tribunal de police ou devant la juridiction de proximité.
 
 Lorsqu'elle est devenue définitive, cette ordonnance couvre, s'il en existe, les vices de la procédure.
+
+**Nota:**
+
+Loi n° 2005-47, article 11 : Ces dispositions entrent en vigueur le premier jour du troisième mois suivant sa publication.
+Toutefois, les affaires dont le tribunal de police ou la juridiction de proximité sont régulièrement saisis à cette date
+demeurent de la compétence de ces juridictions.
 
 **Liens relatifs à cet article**
 
@@ -12932,7 +12958,7 @@ Lorsqu'elle est devenue définitive, cette ordonnance couvre, s'il en existe, le
 
 	**Modifié par**:
 
-	  - Loi n°93-1013 1993-08-24 art. 37 JORF 25 août 1993 en vigueur le 2 septembre 1993
+	  - Loi n°2005-47 du 26 janvier 2005 - art. 9 () JORF 27 janvier 2005 en vigueur le 1er avril 2005
 
 
 ###### Article 179
@@ -12998,11 +13024,17 @@ procédure.
 
 ###### Article 179-1
 
-Toute ordonnance renvoyant la personne mise en examen devant le tribunal de police ou le tribunal correctionnel informe
-celle-ci qu'elle doit signaler auprès du procureur de la République, jusqu'au jugement définitif de l'affaire, tout
-changement de l'adresse déclarée lors de sa mise en examen, par lettre recommandée avec demande d'avis de réception.
-L'ordonnance l'informe également que toute citation, notification ou signification faite à la dernière adresse déclarée sera
-réputée faite à sa personne.
+Toute ordonnance renvoyant la personne mise en examen devant la juridiction de proximité, le tribunal de police ou le
+tribunal correctionnel informe celle-ci qu'elle doit signaler auprès du procureur de la République, jusqu'au jugement
+définitif de l'affaire, tout changement de l'adresse déclarée lors de sa mise en examen, par lettre recommandée avec demande
+d'avis de réception. L'ordonnance l'informe également que toute citation, notification ou signification faite à la dernière
+adresse déclarée sera réputée faite à sa personne.
+
+**Nota:**
+
+Loi n° 2005-47, article 11 : Ces dispositions entrent en vigueur le premier jour du troisième mois suivant sa publication.
+Toutefois, les affaires dont le tribunal de police ou la juridiction de proximité sont régulièrement saisis à cette date
+demeurent de la compétence de ces juridictions.
 
 **Liens relatifs à cet article**
 
@@ -13010,16 +13042,16 @@ réputée faite à sa personne.
 
 	  - Loi n°57-1426 1957-12-31
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2004-204 du 9 mars 2004 - art. 123 () JORF 10 mars 2004 en vigueur le 1er octobre 2004
+	  - Loi n°2005-47 du 26 janvier 2005 - art. 9 () JORF 27 janvier 2005 en vigueur le 1er avril 2005
 
 
 ###### Article 180
 
-Dans les cas de renvoi, soit devant le tribunal de police, soit devant le tribunal correctionnel, le juge d'instruction
-transmet le dossier avec son ordonnance au procureur de la République. Celui-ci est tenu de l'envoyer sans retard au greffe
-du tribunal qui doit statuer.
+Dans les cas de renvoi, soit devant la juridiction de proximité, soit devant le tribunal de police, soit devant le tribunal
+correctionnel, le juge d'instruction transmet le dossier avec son ordonnance au procureur de la République. Celui-ci est tenu
+de l'envoyer sans retard au greffe du tribunal qui doit statuer.
 
 Si la juridiction correctionnelle est saisie, le procureur de la République doit faire donner assignation au prévenu pour
 l'une des plus prochaines audiences, en observant les délais de citation prévus au présent code.
@@ -13030,14 +13062,9 @@ l'une des plus prochaines audiences, en observant les délais de citation prévu
 
 	  - Loi n°57-1426 1957-12-31
 
-	**Liens**:
-
-	  - SPEC_APPLI: Ordonnance 58-1273 1958-12-22 art. 18
-	  - SPEC_APPLI: Ordonnance n°58-1296 du 23 décembre 1958 - art. 10, v. init.
-
 	**Modifié par**:
 
-	  - Ordonnance n°58-1296 du 23 décembre 1958 - art. 1 () JORF 24 décembre 1958 en vigueur le 2 mars 1959
+	  - Loi n°2005-47 du 26 janvier 2005 - art. 9 () JORF 27 janvier 2005 en vigueur le 1er avril 2005
 
 
 ###### Article 181
@@ -14505,14 +14532,15 @@ mauvaise foi de ce dernier est établie.
 ###### Article 213
 
 Si la chambre de l'instruction estime que les faits constituent un délit ou une contravention, elle prononce le renvoi de
-l'affaire, dans le premier cas devant le tribunal correctionnel, dans le second cas devant le tribunal de police.
+l'affaire, dans le premier cas devant le tribunal correctionnel, dans le second cas devant le tribunal de police ou devant la
+juridiction de proximité. 
 
 Le prévenu détenu est immédiatement remis en liberté et le contrôle judiciaire prend fin. Toutefois, la chambre de
 l'instruction peut faire application, par un arrêt spécialement motivé, des dispositions prévues aux troisième et quatrième
-alinéas de l'article 179.
+alinéas de l'article 179. 
 
-En cas de renvoi devant le tribunal de police, le prévenu détenu est immédiatement remis en liberté ; le contrôle judiciaire
-prend fin.
+En cas de renvoi devant le tribunal de police ou devant la juridiction de proximité, le prévenu détenu est immédiatement
+remis en liberté ; le contrôle judiciaire prend fin.
 
 **Liens relatifs à cet article**
 
@@ -14522,7 +14550,7 @@ prend fin.
 
 	**Modifié par**:
 
-	  - Loi n°2000-516 du 15 juin 2000 - art. 83 () JORF 16 juin 2000 en vigueur le 1er janvier 2001
+	  - Loi n°2005-47 du 26 janvier 2005 - art. 9 () JORF 27 janvier 2005 en vigueur le 1er avril 2005
 
 	**Cité par**:
 
@@ -14531,7 +14559,7 @@ prend fin.
 
 	**Cite**:
 
-	  - Code de procédure pénale 179 al. 3 et 4
+	  - Code de procédure pénale - art. 179 (V)
 
 
 ###### Article 214
@@ -25352,13 +25380,19 @@ sauf s'il y a appel formé par le ministère public.
 
 ### Titre III : Du jugement des contraventions
 
-#### Chapitre Ier : De la compétence du tribunal de police
+#### Chapitre Ier : De la compétence du tribunal de police et de la juridiction de proximité
 
 ###### Article 521
 
-Le tribunal de police connaît des contraventions.
+Le tribunal de police connaît des contraventions de la cinquième classe.
 
-Sont des contraventions les infractions que la loi punit d'une peine d'amende n'excédant pas 3 000 euros.
+La juridiction de proximité connaît des contraventions des quatre premières classes.
+
+Un décret en Conseil d'Etat peut toutefois préciser les contraventions des quatre premières classes qui sont de la compétence
+du tribunal de police.
+
+Le tribunal de police est également compétent en cas de poursuite concomitante d'une contravention relevant de sa compétence
+avec une contravention connexe relevant de la compétence de la juridiction de proximité.
 
 **Liens relatifs à cet article**
 
@@ -25378,7 +25412,8 @@ Sont des contraventions les infractions que la loi punit d'une peine d'amende n'
 
 	**Modifié par**:
 
-	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+	  - Loi n°2005-47 2005-01-26 art. 7 I, II JORF 27 janvier 2005 en vigueur le 1er avril 2005
+	  - Loi n°2005-47 du 26 janvier 2005 - art. 7 () JORF 27 janvier 2005 en vigueur le 1er avril 2005
 
 	**Nouveaux textes**:
 
@@ -25404,7 +25439,7 @@ Les articles 383 à 387 sont applicables au jugement des infractions de la comp�
 
 	**Modifié par**:
 
-	  - Loi n°2003-495 du 12 juin 2003 - art. 33 () JORF 13 juin 2003
+	  - Loi n°2005-47 du 26 janvier 2005 - art. 7 () JORF 27 janvier 2005 en vigueur le 1er avril 2005
 
 	**Cité par**:
 
@@ -25422,17 +25457,90 @@ Les articles 383 à 387 sont applicables au jugement des infractions de la comp�
 	  - Code de procédure pénale 383 à 387
 
 
+###### Article 522-1
+
+La compétence territoriale des juridictions de proximité est identique à celle prévue par l'article 522 pour les tribunaux de
+police, y compris les tribunaux d'instance ayant compétence exclusive en matière pénale en application des dispositions de
+l'article L. 623-2 du code de l'organisation judiciaire.
+
+**Nota:**
+
+L'article unique de la loi n° 2012-1441 du 24 décembre 2012 a modifié la date d'entrée en vigueur des articles 1 et 2 de la
+loi n° 2011-1862 du 13 décembre 2011 prévue à l'article 70 de ladite loi en la reportant du 1er janvier 2013 au 1er janvier
+2015.
+
+L'article 99 de la loi n° 2014-1654 du 29 décembre 2014 a modifié cette date en la reportant du 1er janvier 2015 au 1er
+janvier 2017.
+
+Le 3° du IV de l'article 15 de la loi n° 2016-1547 du 18 novembre 2016 a modifié cette date en la reportant du 1er janvier
+2017 au 1er juillet 2017.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°58-1296 du 23 décembre 1958
+
+	**Créé par**:
+
+	  - Loi n°2005-47 du 26 janvier 2005 - art. 7 () JORF 27 janvier 2005 en vigueur le 1er avril 2005
+
+	**Abrogé par**:
+
+	  - Loi n°2011-1862 du 13 décembre 2011 - art. 1
+
+	**Cité par**:
+
+	  - Code de procédure pénale - art. 529-5-1 (V)
+	  - Code de procédure pénale - art. 705 (T)
+	  - Code de procédure pénale - art. 706-109 (VT)
+	  - Code de procédure pénale - art. 706-76 (VT)
+
+	**Cite**:
+
+	  - Code de l'organisation judiciaire - art. L623-2 (Ab)
+
+
+###### Article 522-2
+
+Lorsque la juridiction de proximité constate que la qualification retenue dans l'acte qui la saisit concerne des faits
+relevant de la compétence du tribunal de police, elle renvoie l'affaire devant ce tribunal après s'être déclarée
+incompétente. Il en est de même lorsque le tribunal de police est saisi de faits relevant de la juridiction de proximité. Ce
+renvoi peut le cas échéant se faire à une audience qui se tient le même jour.
+
+**Nota:**
+
+L'article unique de la loi n° 2012-1441 du 24 décembre 2012 a modifié la date d'entrée en vigueur des articles 1 et 2 de la
+loi n° 2011-1862 du 13 décembre 2011 prévue à l'article 70 de ladite loi en la reportant du 1er janvier 2013 au 1er janvier
+2015.
+
+L'article 99 de la loi n° 2014-1654 du 29 décembre 2014 a modifié cette date en la reportant du 1er janvier 2015 au 1er
+janvier 2017.
+
+Le 3° du IV de l'article 15 de la loi n° 2016-1547 du 18 novembre 2016 a modifié cette date en la reportant du 1er janvier
+2017 au 1er juillet 2017.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 58-1296 1958-12-23
+
+	**Modifié par**:
+
+	  - Loi n°2005-47 du 26 janvier 2005 - art. 7 () JORF 27 janvier 2005 en vigueur le 1er avril 2005
+
+	**Abrogé par**:
+
+	  - Loi n°2011-1862 du 13 décembre 2011 - art. 1
+
+
 ###### Article 523
 
 Le tribunal de police est constitué par le juge du tribunal d'instance, un officier du ministère public ainsi qu'il est dit
 aux articles 45 et suivants, et un greffier.
 
 **Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - SPEC_APPLI: Ordonnance 58-1273 1958-12-22 art. 18
-	  - SPEC_APPLI: Ordonnance n°58-1296 du 23 décembre 1958 - art. 10, v. init.
 
 	**Codifié par**:
 
@@ -25445,13 +25553,53 @@ aux articles 45 et suivants, et un greffier.
 	  - CODE DE PROCEDURE PENALE - art. 930 (V)
 	  - Code de procédure pénale - art. R41-11 (VD)
 
+	**Modifié par**:
+
+	  - Loi n°2005-47 du 26 janvier 2005 - art. 7 () JORF 27 janvier 2005 en vigueur le 1er avril 2005
+
 	**Nouveaux textes**:
 
 	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L881-5 (Ab)
 
+
+###### Article 523-1
+
+La juridiction de proximité est constituée comme il est dit aux articles L. 331-7 et L. 331-9 du code de l'organisation
+judiciaire. 
+
+Les fonctions du ministère public près la juridiction de proximité sont exercées par un officier du ministère public
+conformément aux dispositions des articles 45 à 48 du présent code.
+
+**Nota:**
+
+L'article unique de la loi n° 2012-1441 du 24 décembre 2012 a modifié la date d'entrée en vigueur des articles 1 et 2 de la
+loi n° 2011-1862 du 13 décembre 2011 prévue à l'article 70 de ladite loi en la reportant du 1er janvier 2013 au 1er janvier
+2015.
+
+L'article 99 de la loi n° 2014-1654 du 29 décembre 2014 a modifié cette date en la reportant du 1er janvier 2015 au 1er
+janvier 2017.
+
+Le 3° du IV de l'article 15 de la loi n° 2016-1547 du 18 novembre 2016 a modifié cette date en la reportant du 1er janvier
+2017 au 1er juillet 2017.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 58-1296 1958-12-23
+
+	**Créé par**:
+
+	  - Loi n°2005-47 du 26 janvier 2005 - art. 7 () JORF 27 janvier 2005 en vigueur le 1er avril 2005
+
+	**Abrogé par**:
+
+	  - Loi n°2011-1862 du 13 décembre 2011 - art. 1
+
 	**Cite**:
 
-	  - Code de procédure pénale 45 et s.
+	  - Code de l'organisation judiciaire - art. L331-7 (Ab)
+	  - Code de l'organisation judiciaire - art. L331-9 (Ab)
 
 
 #### Chapitre II : De la procédure simplifiée
@@ -25499,8 +25647,8 @@ directement le prévenu avant qu'ait été rendue l'ordonnance prévue à l'arti
 
 ###### Article 525
 
-Le ministère public qui choisit la procédure simplifiée communique au juge du tribunal de police le dossier de la poursuite
-et ses réquisitions.
+Le ministère public qui choisit la procédure simplifiée communique au juge du tribunal de police ou de la juridiction de
+proximité le dossier de la poursuite et ses réquisitions.
 
 Le juge statue sans débat préalable par une ordonnance pénale portant soit relaxe, soit condamnation à une amende ainsi que,
 le cas échéant, à une ou plusieurs des peines complémentaires encourues.
@@ -25514,13 +25662,9 @@ les formes de la procédure ordinaire.
 
 	  - Ordonnance 58-1296 1958-12-23
 
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°72-5 1972-01-03 art. 8
-
 	**Modifié par**:
 
-	  - Loi n°99-515 du 23 juin 1999 - art. 8 () JORF 24 juin 1999
+	  - Loi n°2005-47 du 26 janvier 2005 - art. 9 () JORF 27 janvier 2005 en vigueur le 1er avril 2005
 
 	**Cité par**:
 
@@ -25602,10 +25746,10 @@ greffe.
 ###### Article 528
 
 En cas d'opposition formée par le ministère public ou par le prévenu, l'affaire est portée à l'audience du tribunal de police
-dans les formes de la procédure ordinaire. Le jugement rendu par défaut, sur l'opposition du prévenu, ne sera pas susceptible
-d'opposition.
+ou de la juridiction de proximité dans les formes de la procédure ordinaire. Le jugement rendu par défaut, sur l'opposition
+du prévenu, ne sera pas susceptible d'opposition.
 
-Jusqu'à l'ouverture des débats, le prévenu peut renoncer expressément à son opposition.  L'ordonnance pénale reprend alors sa
+Jusqu'à l'ouverture des débats, le prévenu peut renoncer expressément à son opposition. L'ordonnance pénale reprend alors sa
 force exécutoire et une nouvelle opposition est irrecevable.
 
 **Liens relatifs à cet article**
@@ -25616,11 +25760,7 @@ force exécutoire et une nouvelle opposition est irrecevable.
 
 	**Modifié par**:
 
-	  - Loi n°72-5 1972-01-03 art. 1 JORF 5 janvier 1972 en vigueur le 30 juin 1972
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°72-5 1972-01-03 art. 8
+	  - Loi n°2005-47 du 26 janvier 2005 - art. 9 () JORF 27 janvier 2005 en vigueur le 1er avril 2005
 
 
 ###### Article 528-1
@@ -25648,13 +25788,13 @@ l'infraction.
 ###### Article 528-2
 
 Les dispositions du présent chapitre ne font pas échec au droit de la partie lésée de citer directement le contrevenant
-devant le tribunal de police, dans les conditions prévues par le présent code.
+devant le tribunal de police ou devant la juridiction de proximité, dans les conditions prévues par le présent code. 
 
-Lorsque la citation est délivrée après qu'une ordonnance pénale a été rendue sur les mêmes faits, le tribunal de police
-statue :
+Lorsque la citation est délivrée après qu'une ordonnance pénale a été rendue sur les mêmes faits, le tribunal de police ou la
+juridiction de proximité statue : 
 
 Sur l'action publique et sur les intérêts civils si l'ordonnance pénale a fait l'objet d'une opposition dans les délais
-prévus à l'article 527 et au plus tard à l'ouverture des débats ;
+prévus à l'article 527 et au plus tard à l'ouverture des débats ; 
 
 Sur les intérêts civils seulement si aucune opposition n'a été formée ou si le prévenu a déclaré expressément, au plus tard à
 l'ouverture des débats, renoncer à son opposition ou à son droit d'opposition. Il en est de même s'il est établi que
@@ -25666,17 +25806,13 @@ l'ordonnance pénale a fait l'objet d'un paiement volontaire.
 
 	  - Ordonnance 58-1296 1958-12-23
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°72-5 1972-01-03 art. 1 JORF 5 janvier 1972 en vigueur le 30 juin 1972
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°72-5 1972-01-03 art. 8
+	  - Loi n°2005-47 du 26 janvier 2005 - art. 9 () JORF 27 janvier 2005 en vigueur le 1er avril 2005
 
 	**Cite**:
 
-	  - CODE DE PROCEDURE PENALE - art. 527 (M)
+	  - Code de procédure pénale - art. 527 (V)
 
 
 #### Chapitre II bis : De la procédure de l'amende forfaitaire
@@ -26152,8 +26288,9 @@ réserve énoncée au considérant 7, l'article 529-10 du code de procédure pé
 
 L'avis de contravention prévu par les articles 529-1 et 529-8 peut être envoyé à la suite de la constatation d'une
 contravention au code de la route réalisée grâce à un appareil homologué de contrôle automatique. En cas de réclamation
-portée devant le tribunal de police, le procès-verbal ou le rapport de l'officier ou de l'agent de police judiciaire faisant
-état du résultat de ce contrôle est alors dressé. Ce procès-verbal peut être revêtu d'une signature manuelle numérisée.
+portée devant la juridiction de proximité, le procès-verbal ou le rapport de l'officier ou de l'agent de police judiciaire
+faisant état du résultat de ce contrôle est alors dressé. Ce procès-verbal peut être revêtu d'une signature manuelle
+numérisée.
 
 **Liens relatifs à cet article**
 
@@ -26170,7 +26307,7 @@ portée devant le tribunal de police, le procès-verbal ou le rapport de l'offic
 
 	**Modifié par**:
 
-	  - Loi n°2004-204 du 9 mars 2004 - art. 56 () JORF 10 mars 2004
+	  - Loi n°2005-47 du 26 janvier 2005 - art. 9 () JORF 27 janvier 2005 en vigueur le 1er avril 2005
 
 	**Cite**:
 
@@ -26295,7 +26432,7 @@ de paiement de l'amende forfaitaire ou ayant fait l'objet des poursuites. En cas
 ###### Article 530-2
 
 Les incidents contentieux relatifs à l'exécution du titre exécutoire et à la rectification des erreurs matérielles qu'il peut
-comporter sont déférés au tribunal de police, qui statue conformément aux dispositions de l'article 711.
+comporter sont déférés à la juridiction de proximité, qui statue conformément aux dispositions de l'article 711.
 
 **Liens relatifs à cet article**
 
@@ -26310,16 +26447,15 @@ comporter sont déférés au tribunal de police, qui statue conformément aux di
 
 	**Modifié par**:
 
-	  - Loi n°85-1407 1985-12-30 art. 51 et art. 94 JORF 31 décembre 1985 en vigueur le 1er octobre 1986
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°85-1407 1985-12-30, art. 94
-	  - PILOTE_SUIVEUR: Code de la route. - art. L121-5 (M)
+	  - Loi n°2005-47 du 26 janvier 2005 - art. 9 () JORF 27 janvier 2005 en vigueur le 1er avril 2005
 
 	**Cite**:
 
 	  - CODE DE PROCEDURE PENALE - art. 711 (M)
+
+	**Liens**:
+
+	  - PILOTE_SUIVEUR: Code de la route. - art. L121-5 (M)
 
 
 ###### Article 530-2-1
@@ -26388,24 +26524,24 @@ sont assermentés et perçoivent le montant des amendes forfaitaires et celui de
 	  - Loi n°89-469 du 10 juillet 1989 - art. 2 () JORF 11 juillet 1989 en vigueur le 1er janvier 1990
 
 
-#### Chapitre III : De la saisine du tribunal de police
+#### Chapitre III : De la saisine du tribunal de police et de la juridiction de proximité
 
 ###### Article 531
 
-Le tribunal de police est saisi des infractions de sa compétence soit par le renvoi qui lui en est fait par la juridiction
-d'instruction, soit par la comparution volontaire des parties, soit par la citation délivrée directement au prévenu et à la
-personne civilement responsable de l'infraction.
+Le tribunal de police ou la juridiction de proximité est saisi des infractions de sa compétence soit par le renvoi qui lui en
+est fait par la juridiction d'instruction, soit par la comparution volontaire des parties, soit par la citation délivrée
+directement au prévenu et à la personne civilement responsable de l'infraction.
 
 **Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - SPEC_APPLI: Ordonnance 58-1273 1958-12-22 art. 18
-	  - SPEC_APPLI: Ordonnance n°58-1296 du 23 décembre 1958 - art. 10, v. init.
 
 	**Codifié par**:
 
 	  - Ordonnance 58-1296 1958-12-23
+
+	**Modifié par**:
+
+	  - Loi n°2005-47 2005-01-26 art. 9 XVIII, XIX JORF 27 janvier 2005 en vigueur le 1er avril 2005
+	  - Loi n°2005-47 du 26 janvier 2005 - art. 9 () JORF 27 janvier 2005 en vigueur le 1er avril 2005
 
 	**Cité par**:
 
@@ -26426,19 +26562,25 @@ Il indique l'infraction poursuivie et vise le texte de loi qui la réprime.
 
 **Liens relatifs à cet article**
 
-	**Liens**:
-
-	  - SPEC_APPLI: Ordonnance 58-1273 1958-12-22 art. 18
-	  - SPEC_APPLI: Ordonnance n°58-1296 du 23 décembre 1958 - art. 10, v. init.
-
 	**Codifié par**:
 
 	  - Ordonnance 58-1296 1958-12-23
 
+	**Modifié par**:
+
+	  - Loi n°2005-47 du 26 janvier 2005 - art. 9 () JORF 27 janvier 2005 en vigueur le 1er avril 2005
+
 
 ###### Article 533
 
-Les articles 388-1, 388-2, 388-3 et 390 à 392-1 sont applicables devant le tribunal de police.
+Les articles 388-1, 388-2, 388-3 et 390 à 392-1 sont applicables devant le tribunal de police et devant la juridiction de
+proximité.
+
+**Nota:**
+
+Loi n° 2005-47, article 11 : Ces dispositions entrent en vigueur le premier jour du troisième mois suivant sa publication.
+Toutefois, les affaires dont le tribunal de police ou la juridiction de proximité sont régulièrement saisis à cette date
+demeurent de la compétence de ces juridictions.
 
 **Liens relatifs à cet article**
 
@@ -26448,14 +26590,27 @@ Les articles 388-1, 388-2, 388-3 et 390 à 392-1 sont applicables devant le trib
 
 	**Modifié par**:
 
-	  - Loi n°94-89 du 1 février 1994 - art. 17 () JORF 2 février 1994 en vigueur le 2 février 1994
-
-	**Cite**:
-
-	  - Code de procédure pénale 388-1 à 388-3, 390 à 392-1
+	  - Loi n°2005-47 2005-01-26 art. 9 XVIII, XX JORF 27 janvier 2005 en vigueur le 1er avril 2005
+	  - Loi n°2005-47 du 26 janvier 2005 - art. 9 () JORF 27 janvier 2005 en vigueur le 1er avril 2005
 
 
 #### Chapitre IV : De l'instruction définitive devant le tribunal de police et la juridiction de proximité
+
+###### Article 534
+
+Avant le jour de l'audience, le président peut, sur la requête du ministère public ou de la partie civile, estimer ou faire
+estimer les dommages, dresser ou faire dresser des procès-verbaux, faire ou ordonner tous actes requérant célérité.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 58-1296 1958-12-23
+
+	**Modifié par**:
+
+	  - Loi n°2005-47 du 26 janvier 2005 - art. 9 () JORF 27 janvier 2005 en vigueur le 1er avril 2005
+
 
 ###### Article 535
 
@@ -26488,25 +26643,6 @@ relatant l'incident.
 	  - Code de procédure pénale - art. D594 (V)
 
 
-#### Chapitre IV : De l'instruction définitive devant le tribunal de police
-
-###### Article 534
-
-Avant le jour de l'audience, le président peut, sur la requête du ministère public ou de la partie civile, estimer ou faire
-estimer les dommages, dresser ou faire dresser des procès-verbaux, faire ou ordonner tous actes requérant célérité.
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - SPEC_APPLI: Ordonnance 58-1273 1958-12-22 art. 18
-	  - SPEC_APPLI: Ordonnance n°58-1296 du 23 décembre 1958 - art. 10, v. init.
-
-	**Codifié par**:
-
-	  - Ordonnance 58-1296 1958-12-23
-
-
 ###### Article 536
 
 Sont également applicables les règles édictées par les articles 418 à 426 concernant la constitution de partie civile ; par
@@ -26515,18 +26651,13 @@ articles 458 à 461 concernant la discussion par les parties ; par l'article 462
 
 **Liens relatifs à cet article**
 
-	**Liens**:
-
-	  - SPEC_APPLI: Ordonnance 58-1273 1958-12-22 art. 18
-	  - SPEC_APPLI: Ordonnance n°58-1296 du 23 décembre 1958 - art. 10, v. init.
-
 	**Codifié par**:
 
 	  - Ordonnance 58-1296 1958-12-23
 
 	**Modifié par**:
 
-	  - Loi n°93-1013 1993-08-24 art. 28 JORF 25 août 1993 en vigueur le 2 septembre 1993
+	  - Loi n°2005-47 du 26 janvier 2005 - art. 9 () JORF 27 janvier 2005 en vigueur le 1er avril 2005
 
 	**Cité par**:
 
@@ -26559,10 +26690,6 @@ La preuve contraire ne peut être rapportée que par écrit ou par témoins.
 
 	  - Ordonnance 58-1296 1958-12-23
 
-	**Modifié par**:
-
-	  - loi 78-788 1978-07-28 art. 10 JORF 29 juillet 1978
-
 	**Cité par**:
 
 	  - Loi - art. 37 (V)
@@ -26571,11 +26698,15 @@ La preuve contraire ne peut être rapportée que par écrit ou par témoins.
 	  - Code forestier de Mayotte - art. L342-6 (VT)
 	  - Livre des procédures fiscales - art. L61 B (V)
 
+	**Modifié par**:
+
+	  - Loi n°2005-47 du 26 janvier 2005 - art. 9 () JORF 27 janvier 2005 en vigueur le 1er avril 2005
+
 
 ###### Article 538
 
-S'il y a lieu à supplément d'information, il y est procédé par le juge du tribunal de police, conformément aux articles 114,
-119, 120 et 121.
+S'il y a lieu à supplément d'information, il y est procédé par le juge du tribunal de police ou par le juge de proximité,
+conformément aux articles 114, 119, 120 et 121. 
 
 Les dispositions de l'article 463, alinéa 3, sont applicables.
 
@@ -26587,21 +26718,19 @@ Les dispositions de l'article 463, alinéa 3, sont applicables.
 
 	**Modifié par**:
 
-	  - Loi n°93-2 du 4 janvier 1993 - art. 208 () JORF 5 janvier 1993 en vigueur le 1er mars 1993
+	  - Loi n°2005-47 2005-01-26 art. 9 XXI, XXIII JORF 27 janvier 2005 en vigueur le 1er avril 2005
+	  - Loi n°2005-47 du 26 janvier 2005 - art. 9 () JORF 27 janvier 2005 en vigueur le 1er avril 2005
 
 	**Cite**:
 
-	  - CODE DE PROCEDURE PENALE - art. 114 (M)
-	  - CODE DE PROCEDURE PENALE - art. 119 (M)
-	  - CODE DE PROCEDURE PENALE - art. 120 (M)
-	  - CODE DE PROCEDURE PENALE - art. 121 (M)
-	  - CODE DE PROCEDURE PENALE - art. 463 (M)
+	  - Code de procédure pénale - art. 114 (V)
+	  - Code de procédure pénale - art. 463 (V)
 
 
 ###### Article 539
 
-Si le tribunal de police estime que le fait constitue une contravention, il prononce la peine, sous réserve des dispositions
-des articles 132-59 à 132-70 du code pénal et des articles 747-3 et 747-4 du présent code.
+Si le tribunal de police ou la juridiction de proximité estime que le fait constitue une contravention, il prononce la peine,
+sous réserve des dispositions des articles 132-59 à 132-70 du code pénal et des articles 747-3 et 747-4 du présent code. 
 
 Il statue s'il y a lieu sur l'action civile conformément aux dispositions de l'article 464, alinéas 2 et 3.
 
@@ -26613,14 +26742,14 @@ Il statue s'il y a lieu sur l'action civile conformément aux dispositions de l'
 
 	**Modifié par**:
 
-	  - Loi n°92-1336 du 16 décembre 1992 - art. 46 () JORF 23 décembre 1992 en vigueur le 1er mars 1994
+	  - Loi n°2005-47 2005-01-26 art. 9 XXI, XXIV JORF 27 janvier 2005 en vigueur le 1er avril 2005
+	  - Loi n°2005-47 du 26 janvier 2005 - art. 9 () JORF 27 janvier 2005 en vigueur le 1er avril 2005
 
 	**Cite**:
 
-	  - Code pénal 132-59 à 132-70
-	  - CODE DE PROCEDURE PENALE - art. 464 (M)
-	  - CODE DE PROCEDURE PENALE - art. 747-3 (M)
-	  - CODE DE PROCEDURE PENALE - art. 747-4 (M)
+	  - Code pénal - art. 132-59 (V)
+	  - Code de procédure pénale - art. 464 (V)
+	  - Code de procédure pénale - art. 747-3 (V)
 
 	**Cité par**:
 
@@ -26629,25 +26758,25 @@ Il statue s'il y a lieu sur l'action civile conformément aux dispositions de l'
 
 ###### Article 540
 
-Si le tribunal de police estime que le fait constitue un crime ou un délit, il se déclare incompétent. Il renvoie le
-ministère public à se pourvoir ainsi qu'il avisera.
+Si le tribunal de police ou la juridiction de proximité estime que le fait constitue un crime ou un délit, il se déclare
+incompétent. Il renvoie le ministère public à se pourvoir ainsi qu'il avisera.
 
 **Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - SPEC_APPLI: Ordonnance 58-1273 1958-12-22 art. 18
-	  - SPEC_APPLI: Ordonnance n°58-1296 du 23 décembre 1958 - art. 10, v. init.
 
 	**Codifié par**:
 
 	  - Ordonnance 58-1296 1958-12-23
 
+	**Modifié par**:
+
+	  - Loi n°2005-47 2005-01-26 art. 9 XXI, XXIV JORF 27 janvier 2005 en vigueur le 1er avril 2005
+	  - Loi n°2005-47 du 26 janvier 2005 - art. 9 () JORF 27 janvier 2005 en vigueur le 1er avril 2005
+
 
 ###### Article 541
 
-Si le tribunal de police estime que le fait ne constitue aucune infraction à la loi pénale, ou que le fait n'est pas établi,
-ou qu'il n'est pas imputable au prévenu, il renvoie celui-ci des fins de la poursuite.
+Si le tribunal de police ou la juridiction de proximité estime que le fait ne constitue aucune infraction à la loi pénale, ou
+que le fait n'est pas établi, ou qu'il n'est pas imputable au prévenu, il renvoie celui-ci des fins de la poursuite.
 
 Les dispositions de l'article 470-1 sont applicables.
 
@@ -26659,11 +26788,8 @@ Les dispositions de l'article 470-1 sont applicables.
 
 	**Modifié par**:
 
-	  - Loi n°83-608 1983-07-08 art. 14 JORF 9 juillet 1983 en vigueur le 1er septembre 1983
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°83-608 du 8 juillet 1983 - art. 23, v. init.
+	  - Loi n°2005-47 2005-01-26 art. 9 XXI, XXIV JORF 27 janvier 2005 en vigueur le 1er avril 2005
+	  - Loi n°2005-47 du 26 janvier 2005 - art. 9 () JORF 27 janvier 2005 en vigueur le 1er avril 2005
 
 	**Cite**:
 
@@ -26672,8 +26798,8 @@ Les dispositions de l'article 470-1 sont applicables.
 
 ###### Article 542
 
-Si le prévenu bénéficie d'une cause légale d'exemption de peine, le tribunal de police le déclare coupable et l'exempte de
-peine. Il statue, s'il y a lieu, sur l'action civile ainsi qu'il est dit à l'article 539.
+Si le prévenu bénéficie d'une cause légale d'exemption de peine, le tribunal de police ou la juridiction de proximité le
+déclare coupable et l'exempte de peine. Il statue, s'il y a lieu, sur l'action civile ainsi qu'il est dit à l'article 539.
 
 **Liens relatifs à cet article**
 
@@ -26683,7 +26809,7 @@ peine. Il statue, s'il y a lieu, sur l'action civile ainsi qu'il est dit à l'ar
 
 	**Modifié par**:
 
-	  - Loi n°92-1336 du 16 décembre 1992 - art. 48 () JORF 23 décembre 1992 en vigueur le 1er mars 1994
+	  - Loi n°2005-47 2005-01-26 art. XXI, XXIV JORF 27 janvier 2005 en vigueur le 1er avril 2005
 
 	**Cite**:
 
@@ -26692,8 +26818,9 @@ peine. Il statue, s'il y a lieu, sur l'action civile ainsi qu'il est dit à l'ar
 
 ###### Article 543
 
-Sont applicables à la procédure devant le tribunal de police les articles 475-1 à 486 et 749 à 762 concernant les frais de
-justice et dépens, la restitution des objets placés sous la main de la justice et la forme des jugements.
+Sont applicables à la procédure devant le tribunal de police et devant la juridiction de proximité les articles 475-1 à 486
+et 749 à 762 concernant les frais de justice et dépens, la restitution des objets placés sous la main de la justice et la
+forme des jugements.
 
 Toutefois, les dispositions de l'article 480-1 ne sont applicables qu'aux condamnés pour contraventions de la cinquième
 classe.
@@ -26706,7 +26833,8 @@ classe.
 
 	**Modifié par**:
 
-	  - Loi n°2004-204 du 9 mars 2004 - art. 198 (V) JORF 10 mars 2004
+	  - Loi n°2005-47 2005-01-26 art. 9 XXI, XXV JORF 27 janvier 2005 en vigueur le 1er avril 2005
+	  - Loi n°2005-47 du 26 janvier 2005 - art. 9 () JORF 27 janvier 2005 en vigueur le 1er avril 2005
 
 	**Cite**:
 
@@ -26718,22 +26846,21 @@ classe.
 
 ###### Article 544
 
-Sont applicables devant le tribunal de police les dispositions des articles 410 à 415 relatives à la comparution et à la
-représentation du prévenu et de la personne civilement responsable.
+Sont applicables devant le tribunal de police et devant la juridiction de proximité les dispositions des articles 410 à 415
+relatives à la comparution et à la représentation du prévenu et de la personne civilement responsable.
 
 Toutefois, lorsque la contravention poursuivie n'est passible que d'une peine d'amende, le prévenu peut se faire représenter
 par un avocat ou par un fondé de procuration spéciale.
 
 **Liens relatifs à cet article**
 
-	**Liens**:
-
-	  - SPEC_APPLI: Ordonnance 58-1273 1958-12-22 art. 18
-	  - SPEC_APPLI: Ordonnance n°58-1296 du 23 décembre 1958 - art. 10, v. init.
-
 	**Codifié par**:
 
 	  - Ordonnance 58-1296 1958-12-23
+
+	**Modifié par**:
+
+	  - Loi n°2005-47 du 26 janvier 2005 - art. 9 () JORF 27 janvier 2005 en vigueur le 1er avril 2005
 
 	**Cité par**:
 
@@ -26776,10 +26903,10 @@ relatives à l'opposition.
 ###### Article 546
 
 La faculté d'appeler appartient au prévenu, à la personne civilement responsable, au procureur de la République, au procureur
-général et à l'officier du ministère public près le tribunal de police, lorsque l'amende encourue est celle prévue pour les
-contraventions de la cinquième classe, lorsqu'a été prononcée la peine prévue par le 1° de l'article 131-16 du code pénal, ou
-lorsque la peine d'amende prononcée est supérieure au maximum de l'amende encourue pour les contraventions de la deuxième
-classe.
+général et à l'officier du ministère public près le tribunal de police et la juridiction de proximité, lorsque l'amende
+encourue est celle prévue pour les contraventions de la cinquième classe, lorsqu'a été prononcée la peine prévue par le 1° de
+l'article 131-16 du code pénal, ou lorsque la peine d'amende prononcée est supérieure au maximum de l'amende encourue pour
+les contraventions de la deuxième classe.
 
 Lorsque des dommages et intérêts ont été alloués, la faculté d'appeler appartient également au prévenu et à la personne
 civilement responsable.
@@ -26805,7 +26932,7 @@ de toutes les parties, quelles que soient la nature et l'importance des condamna
 
 	**Modifié par**:
 
-	  - Loi n°99-515 du 23 juin 1999 - art. 10 () JORF 24 juin 1999
+	  - Loi n°2005-47 du 26 janvier 2005 - art. 9 () JORF 27 janvier 2005 en vigueur le 1er avril 2005
 
 	**Cite**:
 
@@ -26875,10 +27002,12 @@ l'infraction, dans le délai de deux mois à compter du jour du prononcé du jug
 
 ###### Article 549
 
-Les dispositions des articles 506 à 509, 511 et 514 à 520, sont applicables aux jugements rendus par les tribunaux de police.
+Les dispositions des articles 506 à 509, 511 et 514 à 520, sont applicables aux jugements rendus par les tribunaux de police
+ou les juridictions de proximité.
 
-La cour d'appel, saisie de l'appel d'un jugement d'incompétence du tribunal de police, si elle constate que le fait poursuivi
-constitue un délit, prononce la peine et statue, s'il y a lieu, sur les dommages-intérêts.
+La cour d'appel, saisie de l'appel d'un jugement d'incompétence du tribunal de police ou de la juridiction de proximité, si
+elle constate que le fait poursuivi constitue un délit, prononce la peine et statue, s'il y a lieu, sur les dommages-
+intérêts.
 
 **Liens relatifs à cet article**
 
@@ -26888,7 +27017,7 @@ constitue un délit, prononce la peine et statue, s'il y a lieu, sur les dommage
 
 	**Modifié par**:
 
-	  - Loi n°2004-204 du 9 mars 2004 - art. 142 () JORF 10 mars 2004
+	  - Loi n°2005-47 du 26 janvier 2005 - art. 9 () JORF 27 janvier 2005 en vigueur le 1er avril 2005
 
 	**Cite**:
 
@@ -30413,10 +30542,10 @@ le conflit de compétence subsiste, il est procédé, selon les cas, conforméme
 
 ###### Article 658
 
-Lorsque deux tribunaux correctionnels, deux juges d'instruction ou deux tribunaux de police appartenant au même ressort de
-cour d'appel se trouvent saisis simultanément de la même infraction, il est réglé de juges par la chambre de l'instruction
-qui statue sur requête présentée par le ministère public ou les parties. Cette décision est susceptible d'un recours en
-cassation.
+Lorsque deux tribunaux correctionnels, deux juges d'instruction, deux tribunaux de police ou deux juridictions de proximité
+appartenant au même ressort de cour d'appel se trouvent saisis simultanément de la même infraction, il est réglé de juges par
+la chambre de l'instruction qui statue sur requête présentée par le ministère public ou les parties. Cette décision est
+susceptible d'un recours en cassation.
 
 **Liens relatifs à cet article**
 
@@ -30426,7 +30555,7 @@ cassation.
 
 	**Modifié par**:
 
-	  - Loi n°2000-516 du 15 juin 2000 - art. 83 () JORF 16 juin 2000 en vigueur le 1er janvier 2001
+	  - Loi n°2005-47 du 26 janvier 2005 - art. 9 () JORF 27 janvier 2005 en vigueur le 1er avril 2005
 
 	**Cité par**:
 
@@ -31009,16 +31138,16 @@ peines portées par la loi.
 
 Si le fait commis pendant la durée de l'audience d'un tribunal correctionnel ou d'une cour est un délit, il peut être procédé
 comme il est dit à l'article précédent. Dans ce cas, si la peine prononcée est supérieure à un mois d'emprisonnement, un
-mandat de dépôt peut être décerné.
+mandat de dépôt peut être décerné. 
 
-Si le fait, qualifié délit, a été commis à l'audience d'un tribunal de police, le président en dresse procès-verbal, qu'il
-transmet au procureur de la République ; il peut, si la peine encourue est supérieure à six mois d'emprisonnement, ordonner
-l'arrestation de l'auteur, et sa conduite immédiate devant le procureur de la République.
+Si le fait, qualifié délit, a été commis à l'audience d'un tribunal de police ou d'une juridiction de proximité, le président
+en dresse procès-verbal, qu'il transmet au procureur de la République ; il peut, si la peine encourue est supérieure à six
+mois d'emprisonnement, ordonner l'arrestation de l'auteur, et sa conduite immédiate devant le procureur de la République. 
 
-Par dérogation aux dispositions qui précèdent, lorsqu'il a été commis pendant la durée d'une audience d'un tribunal ou d'une
-cour le délit d'outrage prévu par l'article 434-24 du code pénal, le président en dresse procès-verbal qu'il transmet au
-procureur de la République. Les magistrats ayant participé à l'audience lors de la commission du délit ne peuvent composer la
-juridiction saisie des poursuites.
+Par dérogation aux dispositions qui précèdent, lorsqu'il a été commis pendant la durée d'une audience d'une juridiction de
+proximité, d'un tribunal de police, d'un tribunal correctionnel ou d'une cour le délit d'outrage prévu par l'article 434-24
+du code pénal, le président en dresse procès-verbal qu'il transmet au procureur de la République. Les magistrats ayant
+participé à l'audience lors de la commission du délit ne peuvent composer la juridiction saisie des poursuites.
 
 **Liens relatifs à cet article**
 
@@ -31028,30 +31157,29 @@ juridiction saisie des poursuites.
 
 	**Modifié par**:
 
-	  - Loi n°94-89 du 1 février 1994 - art. 10 () JORF 2 février 1994 en vigueur le 1er mars 1994
+	  - Loi n°2005-47 du 26 janvier 2005 - art. 9 () JORF 27 janvier 2005 en vigueur le 1er avril 2005
 
 	**Cite**:
 
-	  - Code pénal - art. 434-24 (M)
-	  - CODE DE PROCEDURE PENALE - art. 676 (V)
+	  - Code pénal - art. 434-24 (V)
 
 
 ###### Article 678
 
-Si le fait commis est un crime, la cour ou le tribunal, après avoir fait arrêter l'auteur, l'interroge et dresse procès-
-verbal des faits ; cette juridiction transmet les pièces et ordonne la conduite immédiate de l'auteur devant le procureur de
-la République compétent qui requiert l'ouverture d'une information.
+Si le fait commis est un crime, la cour, le tribunal de police, le tribunal correctionnel ou la juridiction de proximité
+après avoir fait arrêter l'auteur, l'interroge et dresse procès-verbal des faits ; cette juridiction transmet les pièces et
+ordonne la conduite immédiate de l'auteur devant le procureur de la République compétent qui requiert l'ouverture d'une
+information.
 
 **Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - SPEC_APPLI: Ordonnance 58-1273 1958-12-22 art. 18
-	  - SPEC_APPLI: Ordonnance n°58-1296 du 23 décembre 1958 - art. 10, v. init.
 
 	**Codifié par**:
 
 	  - Ordonnance 58-1296 1958-12-23
+
+	**Modifié par**:
+
+	  - Loi n°2005-47 du 26 janvier 2005 - art. 9 () JORF 27 janvier 2005 en vigueur le 1er avril 2005
 
 
 ### Titre IX : Des infractions commises hors du territoire de la République
@@ -35625,15 +35753,22 @@ national.
 Pour la poursuite, l'instruction et, s'il s'agit de délits, le jugement des infractions prévues à l'article 704 et des
 infractions connexes, le procureur de la République, le juge d'instruction et la formation correctionnelle spécialisée du
 tribunal de grande instance visé au même article exercent une compétence concurrente à celle qui résulte de l'application des
-articles 43, 52, 382 et 706-42.
+articles 43,
+52, 382 et 706-42. 
 
 Lorsqu'ils sont compétents pour la poursuite et l'instruction des infractions entrant dans le champ d'application de
 l'article 704, le procureur de la République et le juge d'instruction exercent leurs attributions sur toute l'étendue du
-ressort fixé en application de l'article 704.
+ressort fixé en application de l'article 704. 
 
 La juridiction saisie reste compétente quelles que soient les incriminations retenues lors du règlement ou du jugement de
 l'affaire sous réserve de l'application des dispositions des articles 181 et 469. Si les faits constituent une contravention,
-le juge d'instruction prononce le renvoi de l'affaire devant le tribunal de police compétent en application de l'article 522.
+le juge d'instruction prononce le renvoi de l'affaire devant le tribunal de police compétent en application de l'article 522
+ou devant la juridiction de proximité compétente en application de l'article 522-1.
+
+**Nota:**
+
+Aux termes de l'article 73 de la loi n° 2013-1117 du 6 décembre 2013 ces dispositions entrent en vigueur à une date fixée par
+décret et au plus tard le 1er février 2014.
 
 **Liens relatifs à cet article**
 
@@ -35646,7 +35781,6 @@ le juge d'instruction prononce le renvoi de l'affaire devant le tribunal de poli
 	  - Loi n°75-624 du 11 juillet 1975 - art. 68 (V)
 	  - Loi n°2016-1691 du 9 décembre 2016 - art. 3 (V)
 	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L622-1 (Ab)
-	  - CODE DE PROCEDURE PENALE - art. 704 (M)
 	  - CODE DE PROCEDURE PENALE - art. 706 (Ab)
 	  - CODE DE PROCEDURE PENALE - art. 706-1 (Ab)
 	  - CODE DE PROCEDURE PENALE - art. 706-2 (AbD)
@@ -35658,17 +35792,26 @@ le juge d'instruction prononce le renvoi de l'affaire devant le tribunal de poli
 
 	**Modifié par**:
 
-	  - Loi n°2004-204 du 9 mars 2004 - art. 112 () JORF 10 mars 2004
-	  - Loi n°2004-204 du 9 mars 2004 - art. 21 () JORF 10 mars 2004
+	  - Loi n°2005-47 du 26 janvier 2005 - art. 9 () JORF 27 janvier 2005 en vigueur le 1er avril 2005
+
+	**Liens**:
+
+	  - TRANSFERE: Loi n°2013-1117 du 6 décembre 2013 - art. 64 (V)
 
 	**Cite**:
 
-	  - CODE DE PROCEDURE PENALE - art. 181 (M)
-	  - CODE DE PROCEDURE PENALE - art. 382 (M)
-	  - CODE DE PROCEDURE PENALE - art. 43 (M)
-	  - CODE DE PROCEDURE PENALE - art. 469 (M)
-	  - CODE DE PROCEDURE PENALE - art. 52 (M)
-	  - CODE DE PROCEDURE PENALE - art. 522 (M)
+	  - Code de procédure pénale - art. 181 (VT)
+	  - Code de procédure pénale - art. 382 (V)
+	  - Code de procédure pénale - art. 43 (V)
+	  - Code de procédure pénale - art. 469 (VT)
+	  - Code de procédure pénale - art. 52 (VT)
+	  - Code de procédure pénale - art. 522 (V)
+	  - Code de procédure pénale - art. 522-1 (VT)
+	  - Code de procédure pénale - art. 704 (VT)
+
+	**Nouveaux textes**:
+
+	  - Code de procédure pénale - art. 704-1 (VD)
 
 
 ###### Article 705-1
@@ -39045,8 +39188,8 @@ devant la juridiction de jugement pour l'audition des témoins, des parties civi
 Ces dispositions sont également applicables à l'audition ou à l'interrogatoire par un juge d'instruction d'une personne
 détenue, au débat contradictoire préalable au placement en détention provisoire d'une personne détenue pour une autre cause,
 au débat contradictoire prévu pour la prolongation de la détention provisoire, à l'examen des demandes de mise en liberté par
-la chambre de l'instruction ou la juridiction de jugement, ou à l'interrogatoire du prévenu devant le tribunal de police si
-celui-ci est détenu pour une autre cause.
+la chambre de l'instruction ou la juridiction de jugement, ou à l'interrogatoire du prévenu devant le tribunal de police ou
+devant la juridiction de proximité si celui-ci est détenu pour une autre cause.
 
 Pour l'application des dispositions des deux alinéas précédents, si la personne est assistée par un avocat, celui-ci peut se
 trouver auprès de la juridiction compétente ou auprès de l'intéressé. Dans le premier cas, il doit pouvoir s'entretenir avec
@@ -39059,6 +39202,12 @@ télécommunications.
 
 Un décret en Conseil d'Etat précise, en tant que de besoin, les modalités d'application du présent article.
 
+**Nota:**
+
+NOTA : Loi n° 2005-47, article 11 : Ces dispositions entrent en vigueur le premier jour du troisième mois suivant sa
+publication. Toutefois, les affaires dont le tribunal de police ou la juridiction de proximité sont régulièrement saisis à
+cette date demeurent de la compétence de ces juridictions.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
@@ -39067,8 +39216,7 @@ Un décret en Conseil d'Etat précise, en tant que de besoin, les modalités d'a
 
 	**Modifié par**:
 
-	  - Loi n°2004-204 du 9 mars 2004 - art. 143 () JORF 10 mars 2004
-	  - Loi n°2004-204 du 9 mars 2004 - art. 17 () JORF 10 mars 2004
+	  - Loi n°2005-47 du 26 janvier 2005 - art. 9 () JORF 27 janvier 2005 en vigueur le 1er avril 2005
 
 	**Cite**:
 
@@ -39108,71 +39256,6 @@ Un décret en Conseil d'Etat précise, en tant que de besoin, les modalités d'a
 	  - Code de procédure pénale - art. R53-35 (V)
 	  - Code de procédure pénale - art. R53-39 (V)
 	  - Code de procédure pénale - art. R61-10 (V)
-
-
-### Titre XXIV : Dispositions relatives à la juridiction de proximité
-
-###### Article 706-72
-
-La juridiction de proximité est compétente pour juger des contraventions de police dont la liste est fixée par décret en
-Conseil d'Etat. Elle statue alors selon la procédure applicable devant le tribunal de police, conformément aux dispositions
-des articles 521 à 549.
-
-La juridiction de proximité peut également valider, sur délégation donnée par le président du tribunal de grande instance,
-les mesures de composition pénale prévues aux articles 41-2 et 41-3.
-
-Pour le jugement des contraventions mentionnées au premier alinéa et relevant des quatre premières classes, les fonctions du
-ministère public sont exercées par un officier du ministère public, conformément aux dispositions des articles 45 à 48.
-
-Pour le jugement des contraventions mentionnées au premier alinéa, et notamment des contraventions au code de la route, la
-compétence territoriale des juridictions de proximité est celle des tribunaux de police, y compris des tribunaux d'instance
-ayant compétence exclusive en matière pénale en application des dispositions de l'article L. 623-2 du code de l'organisation
-judiciaire.
-
-Lorsque la juridiction de proximité constate que la qualification retenue dans l'acte qui la saisit concerne des faits
-relevant de la compétence du tribunal de police, elle renvoie l'affaire devant ce tribunal après s'être déclarée
-incompétente. Il en est de même lorsque le tribunal de police est saisi de faits relevant de la compétence de la juridiction
-de proximité. Ce renvoi peut le cas échéant se faire à une audience qui se tient le même jour.
-
-**Nota:**
-
-NOTA : Loi n° 2005-47, article 11 : Ces dispositions entrent en vigueur le premier jour du troisième mois suivant sa
-publication. Toutefois, les affaires dont le tribunal de police ou la juridiction de proximité sont régulièrement saisis à
-cette date demeurent de la compétence de ces juridictions.
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Ordonnance n°45-174 du 2 février 1945 - art. 21 (M)
-	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L331-5 (M)
-	  - CODE DE PROCEDURE PENALE - art. R53-41 (Ab)
-	  - Code de l'organisation judiciaire - art. L532-22 (VT)
-	  - Code de l'organisation judiciaire - art. L552-16 (VT)
-	  - Code de l'organisation judiciaire - art. L562-32 (VT)
-	  - Code de procédure pénale - art. 706-72-1 (V)
-	  - Code de procédure pénale - art. 706-72-2 (V)
-	  - Code de procédure pénale - art. 706-72-3 (V)
-	  - Code de procédure pénale - art. 706-87-1 (V)
-
-	**Codifié par**:
-
-	  - Ordonnance 58-1296 1958-12-23
-
-	**Modifié par**:
-
-	  - Loi n°2004-204 du 9 mars 2004 - art. 144 () JORF 10 mars 2004
-
-	**Abrogé par**:
-
-	  - Loi n°2005-47 du 26 janvier 2005 - art. 7 () JORF 27 janvier 2005 en vigueur le 1er avril 2005
-
-	**Cite**:
-
-	  - CODE DE PROCEDURE PENALE - art. 41-2 (M)
-	  - CODE DE PROCEDURE PENALE - art. 41-3 (M)
-	  - Code de procédure pénale 521 à 549, 41-2, 41-3, 45 à 48
-	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L623-2 (V)
 
 
 ### Titre XXV : De la procédure applicable à la criminalité et à la délinquance organisées
@@ -39399,11 +39482,12 @@ d'instruction et de jugement spécialisées pour connaître de ces infractions.
 
 Le procureur de la République, le juge d'instruction, la formation correctionnelle spécialisée du tribunal de grande instance
 et la cour d'assises visés à l'article 706-75 exercent, sur toute l'étendue du ressort fixé en application de cet article,
-une compétence concurrente à celle qui résulte de l'application des articles 43, 52, 382 et 706-42.
+une compétence concurrente à celle qui résulte de l'application des articles 43,52,382 et 706-42. 
 
 La juridiction saisie demeure compétente, quelles que soient les incriminations retenues lors du règlement ou du jugement de
 l'affaire. Toutefois, si les faits constituent une contravention, le juge d'instruction prononce le renvoi de l'affaire
-devant le tribunal de police compétent en application de l'article 522.
+devant le tribunal de police compétent en application de l'article 522 ou devant la juridiction de proximité compétente en
+application de l'article 522-1.
 
 **Liens relatifs à cet article**
 
@@ -39420,18 +39504,19 @@ devant le tribunal de police compétent en application de l'article 522.
 	  - Code des douanes - art. 67 bis (V)
 	  - Code des douanes - art. 67 ter A (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2004-204 du 9 mars 2004 - art. 1 () JORF 10 mars 2004 en vigueur le 1er octobre 2004
+	  - Loi n°2005-47 du 26 janvier 2005 - art. 9 () JORF 27 janvier 2005 en vigueur le 1er avril 2005
 
 	**Cite**:
 
-	  - CODE DE PROCEDURE PENALE - art. 382 (M)
-	  - CODE DE PROCEDURE PENALE - art. 43 (M)
-	  - CODE DE PROCEDURE PENALE - art. 52 (M)
-	  - CODE DE PROCEDURE PENALE - art. 522 (M)
-	  - CODE DE PROCEDURE PENALE - art. 706-42 (V)
-	  - CODE DE PROCEDURE PENALE - art. 706-75 (V)
+	  - Code de procédure pénale - art. 382 (V)
+	  - Code de procédure pénale - art. 43 (V)
+	  - Code de procédure pénale - art. 52 (VT)
+	  - Code de procédure pénale - art. 522 (V)
+	  - Code de procédure pénale - art. 522-1 (VT)
+	  - Code de procédure pénale - art. 706-42 (VT)
+	  - Code de procédure pénale - art. 706-75 (V)
 
 
 ###### Article 706-77
@@ -40503,22 +40588,26 @@ ces infractions sont commises dans la zone économique exclusive ou dans la zone
 	  - PILOTE_SUIVEUR: Code de l'environnement - art. L218-29 (MMN)
 
 
+#### Chapitre Ier : De la pollution des eaux maritimes par rejets des navires
+
 ###### Article 706-109
 
 Le procureur de la République, le juge d'instruction, la formation correctionnelle spécialisée du tribunal de grande instance
 mentionné à l'article 706-107 exercent, sur toute l'étendue du ressort fixé en application de cet article, une compétence
-concurrente à celle qui résulte de l'application des articles 43, 52, 382 et 706-42.
+concurrente à celle qui résulte de l'application des articles 43
+,52,382 et 706-42. 
 
 Ils exercent également, dans les mêmes conditions, une compétence concurrente à celle qui résulte des critères de compétence
-suivants :
+suivants : 
 
-1° Lieu d'immatriculation du navire, engin ou plate-forme ou de son attachement en douanes ;
+1° Lieu d'immatriculation du navire, engin ou plate-forme ou de son attachement en douanes ; 
 
-2° Lieu où le navire, engin ou plate-forme est ou peut être trouvé.
+2° Lieu où le navire, engin ou plate-forme est ou peut être trouvé. 
 
 La juridiction spécialisée saisie demeure compétente, quelles que soient les incriminations retenues lors du règlement ou du
 jugement de l'affaire. Toutefois, si les faits constituent une contravention, le juge d'instruction prononce le renvoi de
-l'affaire devant le tribunal de police compétent en application de l'article 522.
+l'affaire devant le tribunal de police compétent en application de l'article 522 ou devant la juridiction de proximité
+compétente en application de l'article 522-1.
 
 **Liens relatifs à cet article**
 
@@ -40526,18 +40615,13 @@ l'affaire devant le tribunal de police compétent en application de l'article 52
 
 	  - Ordonnance 58-1296 1958-12-23
 
+	**Modifié par**:
+
+	  - Loi n°2005-47 du 26 janvier 2005 - art. 9 () JORF 27 janvier 2005 en vigueur le 1er avril 2005
+
 	**Créé par**:
 
-	  - Loi n°2004-204 du 9 mars 2004 - art. 29 () JORF 10 mars 2004
-
-	**Cite**:
-
-	  - CODE DE PROCEDURE PENALE - art. 382 (M)
-	  - CODE DE PROCEDURE PENALE - art. 43 (M)
-	  - CODE DE PROCEDURE PENALE - art. 52 (M)
-	  - CODE DE PROCEDURE PENALE - art. 522 (M)
-	  - CODE DE PROCEDURE PENALE - art. 706-107 (AbD)
-	  - CODE DE PROCEDURE PENALE - art. 706-42 (V)
+	  - Loi n°2016-1547 du 18 novembre 2016 - art. 27
 
 	**Liens**:
 
@@ -40548,8 +40632,16 @@ l'affaire devant le tribunal de police compétent en application de l'article 52
 	  - Code de l'environnement - art. L218-29 (VT)
 	  - Code de procédure pénale - art. 706-110 (MMN)
 
+	**Cite**:
 
-#### Chapitre Ier : De la pollution des eaux maritimes par rejets des navires
+	  - Code de procédure pénale - art. 382 (V)
+	  - Code de procédure pénale - art. 43 (V)
+	  - Code de procédure pénale - art. 52 (VT)
+	  - Code de procédure pénale - art. 522 (V)
+	  - Code de procédure pénale - art. 522-1 (VT)
+	  - Code de procédure pénale - art. 706-107 (VT)
+	  - Code de procédure pénale - art. 706-42 (VT)
+
 
 ###### Article 706-110
 
@@ -40817,15 +40909,21 @@ la peine.
 
 L'exécution d'une peine de police ou d'une peine correctionnelle non privative de liberté peut être suspendue ou fractionnée
 pour motifs graves d'ordre médical, familial, professionnel ou social. La décision est prise soit par le ministère public,
-soit, sur la proposition du ministère public, par le tribunal correctionnel ou de police statuant en chambre du conseil,
-selon que l'exécution de la peine doit être suspendue pendant moins ou plus de trois mois. La suspension ou le fractionnement
-de la peine de suspension de permis de conduire n'est toutefois pas possible en cas de délits ou de contraventions pour
-lesquels la loi ou le règlement prévoit que cette peine ne peut pas être limitée à la conduite en dehors de l'activité
-professionnelle.
+soit, sur la proposition du ministère public, par le tribunal correctionnel, par le tribunal de police ou la juridiction de
+proximité statuant en chambre du conseil, selon que l'exécution de la peine doit être suspendue pendant moins ou plus de
+trois mois. La suspension ou le fractionnement de la peine de suspension de permis de conduire n'est toutefois pas possible
+en cas de délits ou de contraventions pour lesquels la loi ou le règlement prévoit que cette peine ne peut pas être limitée à
+la conduite en dehors de l'activité professionnelle.
 
 Lorsque l'exécution fractionnée d'une peine d'amende, de jours-amende ou de suspension du permis de conduire a été décidée
 par la juridiction de jugement en application de l'article 132-28 du code pénal, cette décision peut être modifiée dans les
 conditions prévues à l'alinéa précédent.
+
+**Nota:**
+
+Loi n° 2005-47, article 11 : Ces dispositions entrent en vigueur le premier jour du troisième mois suivant sa publication.
+Toutefois, les affaires dont le tribunal de police ou la juridiction de proximité sont régulièrement saisis à cette date
+demeurent de la compétence de ces juridictions.
 
 **Liens relatifs à cet article**
 
@@ -40845,7 +40943,7 @@ conditions prévues à l'alinéa précédent.
 
 	**Modifié par**:
 
-	  - Loi n°2004-204 du 9 mars 2004 - art. 163 () JORF 10 mars 2004 en vigueur le 1er janvier 2005
+	  - Loi n°2005-47 du 26 janvier 2005 - art. 9 () JORF 27 janvier 2005 en vigueur le 1er avril 2005
 
 	**Cite**:
 
@@ -56675,6 +56773,47 @@ juridiction désignée.
 
 ### Titre III : Du jugement des contraventions
 
+#### Chapitre Ier : De la compétence du tribunal de police
+
+###### Article R41-3
+
+En application de l'article 521, les contraventions suivantes relèvent de la compétence du tribunal de police :
+
+1° Diffamation non publique prévue par l'article R. 621-1 du code pénal ;
+
+2° Injure non publique prévue par l'article R. 621-2 du code pénal ;
+
+3° Diffamation non publique présentant un caractère raciste ou discriminatoire prévue par l'article R. 624-3 du code pénal ;
+
+4° Injure non publique présentant un caractère raciste ou discriminatoire prévue par l'article R. 624-4 du code pénal.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2005-284 du 25 mars 2005 - art. 5 () JORF 30 mars 2005 en vigueur le 1er avril 2005
+
+	**Transféré par**:
+
+	  - Décret n°2007-1388 du 26 septembre 2007 - art. 10
+
+	**Cite**:
+
+	  - Code pénal - art. R621-1 (V)
+	  - Code pénal - art. R621-2 (V)
+	  - Code pénal - art. R624-3 (M)
+	  - Code pénal - art. R624-4 (M)
+	  - CODE DE PROCEDURE PENALE - art. 521 (M)
+
+	**Nouveaux textes**:
+
+	  - CODE DE PROCEDURE PENALE - art. R41-11 (V)
+
+	**Cité par**:
+
+	  - CODE DE PROCEDURE PENALE - art. R55-2 (V)
+
+
 #### Chapitre II : Procédure simplifiée
 
 ###### Article R42
@@ -60273,182 +60412,6 @@ police judiciaire qui procède à l'audition de la personne, par l'intermédiair
 
 	  - Code de procédure pénale - art. 102 (V)
 	  - Code de procédure pénale - art. 706-71 (VT)
-
-
-### Titre XXIV : Dispositions relatives à la juridiction de proximité
-
-###### Article R53-40
-
-La juridiction de proximité est compétente pour juger les contraventions de police suivantes, lorsqu'elles sont commises par
-des personnes physiques sous les réserves indiquées au dernier alinéa du présent article,
-
-1° Contraventions réprimées par les articles suivants du code pénal :
-
-a) Contraventions contre les personnes réprimées par :
-
-- l'article R. 622-1 relatif aux atteintes involontaires à l'intégrité de la personne n'ayant entraîné aucune incapacité de
-travail ;
-
-- l'article R. 622-2 relatif à la divagation d'animaux dangereux ;
-
-- l'article R. 623-1 relatif aux menaces de violences ;
-
-- l'article R. 623-2 relatif aux bruits ou tapages injurieux ou nocturnes ;
-
-- l'article R. 623-3 relatif à l'excitation d'animaux dangereux ;
-
-- l'article R. 624-1 relatif aux violences légères ;
-
-- l'article R. 624-2 relatif à la diffusion de messages contraires à la décence ;
-
-- l'article R. 625-1 relatif aux violences ayant entraîné une incapacité totale de travail d'une durée inférieure ou égale à
-huit jours ;
-
-b) Contraventions contre les biens réprimées par :
-
-- l'article R. 610-5 relatif à la violation des interdictions ou au manquement aux obligations édictées par les décrets et
-arrêtés de police ;
-
-- l'article R. 631-1 relatif aux menaces de destruction, de dégradation ou de détérioration n'entraînant qu'un dommage
-léger ;
-
-- l'article R. 632-1 relatif à l'abandon d'ordures, déchets, matériaux ou autres objets ;
-
-- l'article R. 634-1 relatif aux menaces de destruction, de dégradation ou de détérioration ne présentant pas de danger pour
-les personnes ;
-
-- l'article R. 635-1 relatif aux destructions, dégradations et détériorations dont il n'est résulté qu'un dommage léger ;
-
-- l'article R. 635-8 relatif à l'abandon d'épaves de véhicules ou d'ordures, déchets, matériaux et autres objets transportés
-dans un véhicule ;
-
-c) Contraventions contre la nation, l'Etat ou la paix publique réprimées par :
-
-- l'article R. 641-1 relatif à l'abandon d'armes ou d'objets dangereux ;
-
-- l'article R. 645-12 relatif à l'intrusion dans les établissements scolaires ;
-
-d) Autres contraventions réprimées par :
-
-- l'article R. 653-1 relatif aux atteintes involontaires à la vie ou à l'intégrité d'un animal ;
-
-- l'article R. 654-1 relatif aux mauvais traitements envers un animal ;
-
-- l'article R. 655-1 relatif aux atteintes volontaires à la vie d'un animal ;
-
-2° Contraventions des quatre premières classes réprimées par le code de la route ;
-
-3° Contraventions réprimées par les articles suivants du code de la santé publique :
-
-- l'article R. 48-2 relatif à la lutte contre les bruits de voisinage ;
-
-- le premier alinéa de l'article R. 355-28-13 relatif à l'interdiction de fumer dans les lieux affectés à un usage
-collectif ;
-
-4° Contraventions réprimées par les articles suivants du code forestier :
-
-- l'article R. 322-5 relatif à la défense et à la lutte contre les incendies ;
-
-- l'article R. 331-3 relatif à la protection de tous bois et forêts ;
-
-5° Contravention réprimée par l'article R. 4 du code des débits de boissons et des mesures contre l'alcoolisme et relative à
-la répression de l'ivresse publique ;
-
-6° Contraventions réprimées par les articles 80-1, 80-2 et 80-3 du décret n° 42-730 du 22 mars 1942 sur la police, la sûreté
-et l'exploitation des voies ferrées d'intérêt général et local et relatives à la police des chemins de fer ;
-
-7° Contraventions réprimées par l'article 18 du décret n° 96-596 du 27 juin 1996 relatif à la lutte contre la rage ;
-
-8° Contraventions réprimées par l'article 8 du décret n° 99-1164 du 29 décembre 1999 pris pour l'application du chapitre III
-du titre II du livre II du code rural et relatives à la détention de chiens dangereux ;
-
-9° Contraventions énumérées à l'article R. 48-1 du présent code, relatif à la liste des contraventions pour lesquelles
-l'action publique est éteinte par le paiement d'une amende forfaitaire.
-
-Toutefois, la juridiction de proximité n'est pas compétente en cas de poursuite concomitante de l'une des contraventions
-susvisées avec des contraventions relevées à l'encontre d'une personne morale ou avec d'autres contraventions connexes ne
-relevant pas de la compétence de la juridiction de proximité.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°59-318 1959-02-23
-
-	**Cite**:
-
-	  - Décret n°96-596 du 27 juin 1996 - art. 18 (Ab)
-	  - Décret n°99-1164 du 29 décembre 1999 - art. 8 (Ab)
-	  - CODE DE PROCEDURE PENALE - art. R48-1 (Ab)
-	  - CODE DE PROCEDURE PENALE - art. R48-2 (Ab)
-	  - Code de procédure pénale R622-1, R622-2, R623-1, R623-2, R623-3, R624-1, R624-2, R625-1, R610-5, R631-1, R632-1, R634-1, R635-1, R635-8, R641-1, R645-12, R653-1, R654-1, R655-1, R48-2, R355-28-13, R322-5, R331-3, R48-1
-	  - Code des débits de boissons R4
-	  - Décret n°42-730 1942-03-22 art. 80-1, art. 80-2, art. 80-3
-
-	**Modifié par**:
-
-	  - Décret n°2004-1021 du 27 septembre 2004 - art. 10 () JORF 29 septembre 2004 en vigueur le 1er janvier 2005
-
-	**Abrogé par**:
-
-	  - Décret n°2005-284 du 25 mars 2005 - art. 6 () JORF 30 mars 2005 en vigueur le 1er avril 2005
-
-	**Cité par**:
-
-	  - Code de procédure pénale - art. R287 (V)
-
-
-###### Article R53-41
-
-En application des dispositions du deuxième alinéa de l'article 706-72, la juridiction de proximité peut, par délégation du
-président du tribunal de grande instance, valider les compositions pénales proposées, sur le fondement des articles 41-2 et
-41-3, aux auteurs de délits ou contraventions entrant dans la compétence territoriale du procureur de la République près ce
-tribunal.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°59-318 1959-02-23
-
-	**Modifié par**:
-
-	  - Décret n°2004-1021 du 27 septembre 2004 - art. 11 () JORF 29 septembre 2004
-
-	**Abrogé par**:
-
-	  - Décret n°2005-284 du 25 mars 2005 - art. 6 () JORF 30 mars 2005 en vigueur le 1er avril 2005
-
-	**Cite**:
-
-	  - CODE DE PROCEDURE PENALE - art. 41-2 (M)
-	  - CODE DE PROCEDURE PENALE - art. 41-3 (M)
-	  - CODE DE PROCEDURE PENALE - art. 706-72 (M)
-
-
-###### Article R53-42
-
-Le droit fixe de procédure institué par l'article 1018 A du code général des impôts, applicable devant la juridiction de
-proximité statuant en matière contraventionnelle, est celui prévu par le 2° de cet article pour les décisions du tribunal de
-police.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 1018 A
-
-	**Codifié par**:
-
-	  - Décret n°59-318 1959-02-23
-
-	**Créé par**:
-
-	  - Décret n°2004-1021 du 27 septembre 2004 - art. 12 () JORF 29 septembre 2004
-
-	**Abrogé par**:
-
-	  - Décret n°2005-284 du 25 mars 2005 - art. 6 () JORF 30 mars 2005 en vigueur le 1er avril 2005
 
 
 ## Livre V : Des procédures d'exécution.
