@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 2003-11-27
+Version Consolidée au 2003-12-23
 
 # Partie législative
 
@@ -38111,64 +38111,6 @@ définitif à l'interdiction de séjour dans le département où demeurent la vi
 
 ### Titre VII : De la prescription de la peine
 
-###### Article 764
-
-Les peines portées par un arrêt ou jugement rendu en matière correctionnelle se prescrivent par cinq années révolues, à
-compter de la date où cet arrêt ou jugement est devenu définitif, sous réserve des dispositions de l'article 738, alinéa 3.
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - SPEC_APPLI: Ordonnance 58-1273 1958-12-22 art. 18
-	  - SPEC_APPLI: Ordonnance n°58-1296 du 23 décembre 1958 - art. 10, v. init.
-
-	**Codifié par**:
-
-	  - Ordonnance 58-1296 1958-12-23
-
-	**Abrogé par**:
-
-	  - Loi n°92-1336 du 16 décembre 1992 - art. 113 () JORF 23 décembre 2003
-
-	**Cité par**:
-
-	  - CODE DE PROCEDURE PENALE - art. 765 (Ab)
-	  - Code de justice militaire - art. 362 (Ab)
-
-	**Cite**:
-
-	  - Code de procédure pénale 738 al. 3
-
-
-###### Article 765
-
-Les peines portées par un arrêt ou jugement rendu pour contravention de police se prescrivent par deux années révolues, à
-compter de la date où cet arrêt ou jugement est devenu définitif.
-
-Toutefois, les peines prononcées pour une contravention de police connexe à un délit se prescrivent selon les dispositions de
-l'article 764.
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - SPEC_APPLI: Ordonnance 58-1273 1958-12-22 art. 18
-	  - SPEC_APPLI: Ordonnance n°58-1296 du 23 décembre 1958 - art. 10, v. init.
-
-	**Codifié par**:
-
-	  - Ordonnance 58-1296 1958-12-23
-
-	**Abrogé par**:
-
-	  - Loi n°92-1336 du 16 décembre 1992 - art. 113 () JORF 23 décembre 2003
-
-	**Cite**:
-
-	  - CODE DE PROCEDURE PENALE - art. 764 (Ab)
-
-
 ###### Article 765-1
 
 Pour le recouvrement des amendes en matière criminelle, correctionnelle et de police, la prescription est interrompue par un
@@ -38187,52 +38129,6 @@ commandement notifié au condamné ou une saisie signifiée à celui-ci.
 	**Abrogé par**:
 
 	  - Loi n°2004-204 du 9 mars 2004 - art. 159 () JORF 10 mars 2004 en vigueur le 1er janvier 2005
-
-
-###### Article 766
-
-En aucun cas, les condamnés par défaut ou par contumace dont la peine est prescrite ne peuvent être admis à se présenter pour
-purger le défaut ou la contumace.
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - SPEC_APPLI: Ordonnance 58-1273 1958-12-22 art. 18
-	  - SPEC_APPLI: Ordonnance n°58-1296 du 23 décembre 1958 - art. 10, v. init.
-
-	**Codifié par**:
-
-	  - Ordonnance 58-1296 1958-12-23
-
-	**Abrogé par**:
-
-	  - Loi n°92-1336 du 16 décembre 1992 - art. 113 () JORF 23 décembre 2003
-
-
-###### Article 767
-
-Les condamnations civiles portées par les arrêts ou par les jugements rendus en matière criminelle, correctionnelle et de
-police, et devenus irrévocables, se prescrivent d'après les règles établies par le Code civil.
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - SPEC_APPLI: Ordonnance 58-1273 1958-12-22 art. 18
-	  - SPEC_APPLI: Ordonnance n°58-1296 du 23 décembre 1958 - art. 10, v. init.
-
-	**Codifié par**:
-
-	  - Ordonnance 58-1296 1958-12-23
-
-	**Abrogé par**:
-
-	  - Loi n°92-1336 du 16 décembre 1992 - art. 113 () JORF 23 décembre 2003
-
-	**Cite**:
-
-	  - Code civil
 
 
 ### Titre VII bis : Du suivi socio-judiciaire
@@ -59215,6 +59111,8 @@ biologiques et chimiques ;
 
 10° Office central chargé des disparitions inquiétantes de personnes.
 
+11° Office central chargé des personnes recherchées ou en fuite.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
@@ -59238,7 +59136,7 @@ biologiques et chimiques ;
 
 	**Modifié par**:
 
-	  - Décret n°2002-730 du 3 mai 2002 - art. 1 () JORF 4 mai 2002
+	  - Décret n°2003-1226 du 18 décembre 2003 - art. 1 () JORF 23 décembre 2003
 
 	**Cite**:
 
