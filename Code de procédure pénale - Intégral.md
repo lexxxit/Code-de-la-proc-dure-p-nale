@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 1973-03-16
+Version Consolidée au 1973-03-21
 
 # Partie législative
 
@@ -28254,13 +28254,18 @@ pour le deuxième et 10 % pour le troisième.
 	  - CODE DE PROCEDURE PENALE - art. D112 (Ab)
 
 
-#### Chapitre IV : De l'administration des établissements pénitentiaires
+#### Chapitre VII : De la gestion des biens et de l'entretien des détenus
 
-##### Section 1 : Du rôle et de l'organisation générale de l'administration pénitentiaire
+##### Section 1 : De la gestion des biens des détenus
 
-###### Article A40
+##### Paragraphe 1er : Pécule.
 
-[Article abrogé].
+###### Article A42-1
+
+L'association régulièrement constituée auprès d'un établissement pénitentiaire aux fins visées à l'article D. 449-1 est
+agréée par le ministre de la justice si son statut est conforme à un type établi par une instruction de service. 
+
+Le trésorier de l'association est un fonctionnaire.
 
 **Liens relatifs à cet article**
 
@@ -28268,17 +28273,52 @@ pour le deuxième et 10 % pour le troisième.
 
 	  - Arrêté 1959-02-27
 
-	**Modifié par**:
+	**Créé par**:
 
-	  - Arrêté 1964-02-27 art. 3 JORF 19 mars 1964
+	  - Arrêté 1973-03-07 art. 1 JORF 21 mars 1973
 
-	**Abrogé par**:
+	**Cite**:
 
-	  - Arrêté 1973-03-07 art. 3 JORF 21 mars 1973
+	  - Code de procédure pénale - art. D449-1 (Ab)
 
-	**Cité par**:
 
-	  - Arrêté du 25 avril 2008 - art. 2 (V)
+###### Article A42-2
+
+Le contrôle du fonctionnement de l'association et de sa gestion financière est assuré, soit sur pièces par le ministre de la
+justice, soit sur place par ses représentants dûment habilités à cet effet.
+
+Ce contrôle doit comporter notamment la vérification de la comptabilité de l'association et de l'utilisation de ses
+ressources.
+
+Les fonctionnaires habilités par le ministre de la justice peuvent procéder à toutes vérifications de caisse et de
+comptabilité. Tous registres et dossiers, ainsi que tous documents relatifs au fonctionnement de l'association doivent leur
+être communiqués.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Arrêté 1959-02-27
+
+	**Créé par**:
+
+	  - Arrêté 1973-03-07 art. 1 JORF 21 mars 1973
+
+
+###### Article A42-3
+
+Chaque année, le président de l'association adresse au ministre de la justice un compte rendu administratif technique et
+financier comprenant notamment un état de la situation financière et des comptes de l'exercice budgétaire écoulé.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Arrêté 1959-02-27
+
+	**Créé par**:
+
+	  - Arrêté 1973-03-07 art. 1 JORF 21 mars 1973
 
 
 #### Chapitre XI : Des différentes catégories de détenus.
@@ -28348,7 +28388,111 @@ lesquels n'ont pas voix délibérative.
 
 ##### Section 2 : Des autorités chargées de contrôler le régime de la mise à l'épreuve
 
+##### Paragraphe 1er : De la répartition et de la composition des comités de probation et d'assistance aux libérés.
+
+###### Article A45
+
+Les délégués bénévoles visés à l'article D. 551 sont agréés par le juge de l'application des peines pour une période de deux
+ans renouvelable.
+
+Pour obtenir cet agrément, les requérants doivent être âgés de plus de vingt-et-un ans et satisfaire notamment aux conditions
+suivantes :
+
+1° Ne pas avoir été condamnés pour faits contraires à la probité, aux bonnes moeurs ou à l'honneur ;
+
+2° S'engager à respecter l'obligation au secret visée à l'article D. 562.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Arrêté 1959-02-27
+
+	**Modifié par**:
+
+	  - Arrêté 1960-08-24 art. 1 JORF 25 août 1960
+	  - Arrêté 1973-03-07 art. 1 et art. 2 JORF 21 mars 1973
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. D551 (Ab)
+	  - CODE DE PROCEDURE PENALE - art. D562 (Ab)
+
+
+###### Article A46
+
+L'agrément des délégués bénévoles est subordonné à un stage probatoire de six mois.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Arrêté 1959-02-27
+
+	**Modifié par**:
+
+	  - Arrêté 1973-03-07 art. 1 et art. 2 JORF 21 mars 1973
+
+
+###### Article A47
+
+Le juge de l'application des peines délivre aux délégués bénévoles un document justifiant de leurs fonctions.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Arrêté 1959-02-27
+
+	**Modifié par**:
+
+	  - Arrêté 1973-03-07 art. 1 et art. 2 JORF 21 mars 1973
+
+
 ##### Paragraphe 3 : Des associations placées auprès des comités
+
+###### Article A48
+
+L'association régulièrement constituée et instituée auprès du comité de probation et d'assistance aux libérés aux fins visées
+à l'article D. 567 peut être agréée, par le ministère de la justice si son statut satisfait en outre aux conditions fixées
+ci-après.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Arrêté 1959-02-27
+
+	**Modifié par**:
+
+	  - Arrêté 1973-03-07 art. 2 JORF 21 mars 1973
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. D567 (Ab)
+
+
+###### Article A49
+
+Le secrétaire général de l'association est un agent de probation ou un membre du comité désigné à cet effet par le juge de
+l'application des peines, président du comité.
+
+Ce magistrat est membre de droit du bureau de l'association.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Arrêté 1959-02-27
+
+	**Modifié par**:
+
+	  - Arrêté 1973-03-07 art. 1 JORF 21 mars 1973
+
+	**Abrogé par**:
+
+	  - Arrêté 2001-04-18 art. 3 JORF 9 juin 2001
+
 
 ###### Article A50
 
@@ -28389,6 +28533,23 @@ leur être communiqués.
 	  - Arrêté 2001-04-18 art. 3 JORF 9 juin 2001
 
 
+###### Article A52
+
+Chaque année, le président de l'association adresse au ministère de la justice sous couvert du président du comité de
+probation et d'assistance aux libérés, un compte rendu administratif, technique et financier, comprenant notamment un état de
+la situation financière et des comptes de l'exercice budgétaire écoulé.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Arrêté 1959-02-27
+
+	**Modifié par**:
+
+	  - Arrêté 1973-03-07 art. 2 JORF 21 mars 1973
+
+
 ### Titre XI : Le service pénitentiaire d'insertion et de probation
 
 #### Disposition générale
@@ -28410,6 +28571,68 @@ la Martinique et de la Réunion.
 
 
 ## Livre VI : Modalités d'application en ce qui concerne les départements de la Guadeloupe, de la Guyane, de la Martinique et de la Réunion
+
+###### Article A54
+
+Par dérogation aux dispositions du second alinéa de l'article D. 77, l'orientation des condamnés à une longue peine relève,
+dans les départements où est établie une maison centrale, de la commission de l'application des peines instituée à l'article
+D. 95. 
+
+Dans les autres départements visés au présent titre, l'orientation est effectuée, après avis du juge de l'application des
+peines, par le fonctionnaire de l'administration pénitentiaire exerçant pour ces départements les attributions dévolues aux
+directeurs régionaux.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Arrêté 1959-02-27
+
+	**Modifié par**:
+
+	  - Arrêté 1973-03-07 art. 2 JORF 21 mars 1973
+
+	**Cité par**:
+
+	  - Code de procédure pénale - art. A55 (V)
+	  - Code de procédure pénale - art. A56 (V)
+
+	**Cite**:
+
+	  - Code de procédure pénale - art. D77 (V)
+	  - Code de procédure pénale - art. D95 (V)
+
+
+###### Article A55
+
+Le bulletin concernant chaque condamné ayant à subir une longue peine et visé à l'article D. 80 est adressé par le chef de
+l'établissement de détention au fonctionnaire de l'administration pénitentiaire exerçant les attributions dévolues au
+directeur régional. 
+
+L'examen du bulletin est effectué, selon les distinctions visées à l'article A. 54, par ce fonctionnaire ou par la commission
+de l'application des peines à laquelle le bulletin est alors transmis. Cet examen donne lieu : 
+
+Soit à une décision d'affectation dans un établissement pénitentiaire du département où est situé l'établissement de
+détention ; 
+
+Soit à une proposition d'affectation dans un des autres départements visés au présent titre. Cette proposition est soumise,
+pour décision, au ministre de la justice.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Arrêté 1959-02-27
+
+	**Modifié par**:
+
+	  - Arrêté 1973-03-07 art. 2 JORF 21 mars 1973
+
+	**Cite**:
+
+	  - Code de procédure pénale - art. A54 (V)
+	  - Code de procédure pénale - art. D80 (V)
+
 
 ###### Article A56
 
