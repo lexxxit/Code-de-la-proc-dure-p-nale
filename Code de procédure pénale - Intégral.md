@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 1990-06-15
+Version Consolidée au 1990-07-11
 
 # Partie législative
 
@@ -264,6 +264,34 @@ personne à raison de son handicap.
 	**Cité par**:
 
 	  - CODE DE PROCEDURE PENALE - art. 808 (V)
+
+
+###### Article 2-9
+
+Toute association régulièrement déclarée depuis au moins cinq ans à la date des faits qui se propose, par ses statuts,
+d'assister les victimes d'infractions peut exercer les droits reconnus à la partie civile en ce qui concerne les infractions
+entrant dans le champ d'application de l'article 706-16 lorsque l'action publique a été mise en mouvement par le ministère
+public ou la partie lésée.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°57-1426 1957-12-31
+
+	**Créé par**:
+
+	  - Loi n°90-589 du 6 juillet 1990 - art. 1 () JORF 11 juillet 1990
+
+	**Cité par**:
+
+	  - Loi n°90-589 du 6 juillet 1990 - art. 18 (V)
+	  - Décret n°2016-1455 du 28 octobre 2016 (V)
+	  - Code de procédure pénale - art. 90-1 (V)
+
+	**Cite**:
+
+	  - Code de procédure pénale - art. 706-16 (V)
 
 
 ###### Article 3
