@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 1970-12-25
+Version Consolidée au 1971-01-01
 
 # Partie législative
 
@@ -2325,6 +2325,127 @@ Il en est de même dans toute instance civile fondée sur des faits constitutifs
 	  - CODE DE PROCEDURE PENALE - art. 97 (M)
 
 
+##### Section 7 : Du contrôle judiciaire et de la détention provisoire
+
+##### Sous-section 1 : Du contrôle judiciaire
+
+###### Article 141-1
+
+Les pouvoirs conférés au juge d'instruction par les articles 139 et 140 appartiennent, en tout état de cause, à la
+juridiction compétente selon les distinctions de l'article 148-1.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°57-1426 1957-12-31
+
+	**Créé par**:
+
+	  - Loi n°70-643 du 17 juillet 1970 - art. 1 () JORF 19 juillet 1970 en vigueur le 1er janvier 1971
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°70-643 du 17 juillet 1970 - art. 55 (V)
+
+	**Cité par**:
+
+	  - CODE DE PROCEDURE PENALE - art. 148-2 (V)
+	  - Code de procédure pénale - art. 397-3 (V)
+
+	**Cite**:
+
+	  - Code de procédure pénale - art. 139 (VT)
+	  - Code de procédure pénale - art. 148-1 (V)
+
+
+###### Article 143
+
+Lorsqu'une juridiction de jugement est appelée à statuer dans les cas prévus à la présente sous-section, elle le fait dans
+les conditions déterminées par l'article 148-2.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°57-1426 1957-12-31
+
+	**Modifié par**:
+
+	  - Loi n°70-643 du 17 juillet 1970 - art. 1 () JORF 19 juillet 1970 en vigueur le 1er janvier 1971
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°70-643 du 17 juillet 1970 - art. 55 (V)
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. 148-2 (M)
+
+
+##### Sous-section 3 : De l'indemnisation à raison d'une détention provisoire
+
+###### Article 149-2
+
+La commission, saisie par voie de requête dans le délai de six mois de la décision de non-lieu, de relaxe ou d'acquittement
+devenue définitive, statue par une décision non motivée qui n'est susceptible d'aucun recours de quelque nature que ce soit.
+
+Les débats ont lieu et la décision est rendue en chambre du conseil. Le débat est oral et le requérant peut être entendu
+personnellement sur sa demande.
+
+La procédure devant la commission qui a le caractère d'une juridiction civile est fixée par un décret en Conseil d'Etat.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°57-1426 1957-12-31
+
+	**Créé par**:
+
+	  - Loi n°70-643 du 17 juillet 1970 - art. 1 () JORF 19 juillet 1970 en vigueur le 1er janvier 1971
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°70-643 du 17 juillet 1970 - art. 55 (V)
+
+	**Cité par**:
+
+	  - Décret n°91-1266 du 19 décembre 1991 - art. 38 (M)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L141-2 (M)
+	  - CODE DE PROCEDURE PENALE - art. 149-3 (V)
+	  - CODE DE PROCEDURE PENALE - art. R26 (M)
+	  - CODE DE PROCEDURE PENALE - art. R40-2 (M)
+	  - Code de procédure pénale - art. 626 (V)
+	  - Code de procédure pénale - art. R36 (V)
+
+
+###### Article 150
+
+L'indemnité allouée en application de la présente sous-section est à la charge de l'Etat, sauf le recours de celui-ci contre
+le dénonciateur de mauvaise foi ou le faux témoin dont la faute aurait provoqué la détention ou sa prolongation. Elle est
+payée comme frais de justice criminelle.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°57-1426 1957-12-31
+
+	**Modifié par**:
+
+	  - Loi n°70-643 du 17 juillet 1970 - art. 1 () JORF 19 juillet 1970 en vigueur le 1er janvier 1971
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°70-643 du 17 juillet 1970 - art. 55 (V)
+
+	**Cité par**:
+
+	  - CODE DE PROCEDURE PENALE - art. R92 (M)
+	  - Code de justice militaire - art. 150 (Ab)
+
+
 ##### Section 9 : De l'expertise
 
 ###### Article 158
@@ -2813,6 +2934,33 @@ d'assises. Il en est de même dans le cas prévu à l'article 141-2.
 
 #### Chapitre Ier : Du juge d'instruction : juridiction d'instruction du premier degré
 
+###### Article 141
+
+**Nota:**
+
+Nota : Article abrogé loi 85-1407 du 30 décembre 1985, art. 17.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°57-1426 1957-12-31
+
+	**Modifié par**:
+
+	  - Loi n°70-643 du 17 juillet 1970 - art. 1 () JORF 19 juillet 1970 en vigueur le 1er janvier 1971
+
+	**Abrogé par**:
+
+	  - Loi n°85-1407 1985-12-30 art. 17 et art. 94 JORF 31 décembre 1985 en vigueur le 1er février 1986
+
+	**Cité par**:
+
+	  - CODE DE PROCEDURE PENALE - art. 136 (MMN)
+	  - CODE DE PROCEDURE PENALE - art. 394 (M)
+	  - CODE DE PROCEDURE PENALE - art. 397-3 (M)
+
+
 ##### Section 2 : De la constitution de la partie civile et de ses effets
 
 ###### Article 91
@@ -3115,6 +3263,327 @@ Si cette autorisation leur est refusée, le texte des questions sera reproduit o
 	  - CODE DE PROCEDURE PENALE - art. 463 (V)
 	  - CODE DE PROCEDURE PENALE - art. 538 (M)
 	  - Code de procédure pénale - art. 82-2 (V)
+
+
+##### Section 7 : Du contrôle judiciaire et de la détention provisoire
+
+##### Sous-section 1 : Du contrôle judiciaire
+
+###### Article 141-2
+
+Si l'inculpé se soustrait volontairement aux obligations du contrôle judiciaire, le juge d'instruction, quelle que soit la
+durée de la peine d'emprisonnement encourue, pourra décerner à son encontre mandat d'arrêt ou de dépôt en vue de sa détention
+provisoire. 
+
+Les mêmes droits appartiennent en tout état de cause à la juridiction qui est compétente selon les distinctions de l'article
+148-1. Toutefois, à l'encontre de l'accusé, il n'y a pas lieu à délivrance d'un mandat et l'ordonnance de prise de corps est
+exécutée sur l'ordre du président de la cour d'assises ou, dans l'intervalle des sessions, du président de la chambre de
+l'instruction.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Ordonnance n°45-174 du 2 février 1945 - art. 14-2 (V)
+	  - CODE DE PROCEDURE PENALE - art. 144 (M)
+	  - CODE DE PROCEDURE PENALE - art. 215-1 (Ab)
+	  - Code de justice militaire - art. 137 (Ab)
+	  - Code de procédure pénale - art. 142-8 (V)
+	  - Code de procédure pénale - art. 143-1 (V)
+	  - Code de procédure pénale - art. 394 (V)
+	  - Code de procédure pénale - art. 396 (M)
+	  - Code de procédure pénale - art. 397-3 (V)
+	  - Code de procédure pénale - art. 471 (V)
+	  - Code de procédure pénale - art. D32-20 (V)
+
+	**Codifié par**:
+
+	  - Loi n°57-1426 1957-12-31
+
+	**Créé par**:
+
+	  - Loi n°70-643 du 17 juillet 1970 - art. 1 () JORF 19 juillet 1970 en vigueur le 1er janvier 1971
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°70-643 du 17 juillet 1970 - art. 55 (V)
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. 148-1 (M)
+
+
+###### Article 142
+
+Lorsque l'inculpé est astreint à fournir un cautionnement, ce cautionnement garantit :
+
+1° La représentation de l'inculpé, du prévenu ou de l'accusé à tous les actes de la procédure et pour l'exécution du
+jugement, ainsi que, le cas échéant, l'exécution des autres obligations qui lui ont été imposées ;
+
+2° Le paiement dans l'ordre suivant :
+
+a) Des frais avancés par la partie civile, de la réparation des dommages causés par l'infraction et des restitutions, ainsi
+que de la dette alimentaire lorsque l'inculpé est poursuivi pour le défaut de paiement de cette dette ;
+
+b) Des frais avancés par la partie publique ;
+
+c) Des amendes.
+
+La décision qui astreint l'inculpé à fournir un cautionnement détermine les sommes affectées à chacune des deux parties de ce
+cautionnement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°57-1426 1957-12-31
+
+	**Cité par**:
+
+	  - Loi n°64-1331 du 26 décembre 1964 - art. 6 bis (Ab)
+	  - Loi n°76-599 du 7 juillet 1976 - art. 10 (V)
+	  - Loi n°76-600 du 7 juillet 1976 - art. 13 (V)
+	  - Loi n°83-582 du 5 juillet 1983 - art. 3 (Ab)
+	  - Loi n°83-583 du 5 juillet 1983 - art. 13 (Ab)
+	  - Loi n°91-1385 du 31 décembre 1991 - art. 9 (VT)
+	  - Loi n°2016-1547 du 18 novembre 2016 - art. 25 (V)
+	  - CODE DE PROCEDURE PENALE - art. 142-3 (V)
+	  - Code de l'environnement - art. L218-30 (V)
+	  - Code de l'environnement - art. L218-55 (V)
+	  - Code de l'environnement - art. L218-68 (V)
+	  - Code de procédure pénale - art. R21 (V)
+	  - Code de procédure pénale - art. R249-2 (VD)
+	  - Code des transports - art. L4472-4 (VD)
+	  - Code forestier (nouveau) - art. L161-20 (VD)
+	  - Code rural et de la pêche maritime - art. L943-4 (V)
+	  - Code rural et de la pêche maritime - art. L943-5 (V)
+
+	**Modifié par**:
+
+	  - Loi n°70-643 du 17 juillet 1970 - art. 1 () JORF 19 juillet 1970 en vigueur le 1er janvier 1971
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°70-643 du 17 juillet 1970 - art. 55 (V)
+
+
+###### Article 142-2
+
+La première partie du cautionnement est restituée si l'inculpé, le prévenu ou l'accusé s'est présenté à tous les actes de la
+procédure, a satisfait aux obligations du contrôle judiciaire et s'est soumis à l'exécution du jugement.
+
+Elle est acquise à l'Etat dans le cas contraire, sauf motif légitime d'excuse.
+
+Elle est néanmoins toujours restituée en cas de non-lieu, d'absolution ou d'acquittement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°57-1426 1957-12-31
+
+	**Cité par**:
+
+	  - Loi n°64-1331 du 26 décembre 1964 - art. 6 bis (Ab)
+	  - Loi n°76-599 du 7 juillet 1976 - art. 10 (V)
+	  - Loi n°76-600 du 7 juillet 1976 - art. 13 (V)
+	  - Loi n°83-583 du 5 juillet 1983 - art. 13 (Ab)
+	  - CODE DE PROCEDURE PENALE - art. R24-11 (V)
+	  - Code de l'environnement - art. L218-30 (VT)
+	  - Code de l'environnement - art. L218-55 (V)
+	  - Code de l'environnement - art. L218-68 (V)
+	  - Code de procédure pénale - art. 471 (V)
+	  - Code de procédure pénale - art. 569 (V)
+	  - Code de procédure pénale - art. R24-8 (V)
+
+	**Créé par**:
+
+	  - Loi n°70-643 du 17 juillet 1970 - art. 1 () JORF 19 juillet 1970 en vigueur le 1er janvier 1971
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°70-643 du 17 juillet 1970 - art. 55 (V)
+
+
+###### Article 142-3
+
+Le montant affecté à la deuxième partie du cautionnement qui n'a pas été versé à la victime de l'infraction ou au créancier
+d'une dette alimentaire est restitué en cas de non-lieu et, sauf s'il est fait application de l'article 372, en cas
+d'absolution ou d'acquittement.
+
+En cas de condamnation, il est employé conformément aux dispositions du 2° de l'article 142. Le surplus est restitué.
+
+Les conditions d'application du présent article sont fixées par un décret en Conseil d'Etat.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°57-1426 1957-12-31
+
+	**Cité par**:
+
+	  - Loi n°64-1331 du 26 décembre 1964 - art. 6 bis (Ab)
+	  - Loi n°76-599 du 7 juillet 1976 - art. 10 (V)
+	  - Loi n°76-600 du 7 juillet 1976 - art. 13 (V)
+	  - Loi n°83-583 du 5 juillet 1983 - art. 13 (Ab)
+	  - CODE DE PROCEDURE PENALE - art. R24-11 (V)
+	  - Code de l'environnement - art. L218-30 (VT)
+	  - Code de l'environnement - art. L218-55 (M)
+	  - Code de procédure pénale - art. 471 (V)
+	  - Code de procédure pénale - art. 569 (V)
+
+	**Créé par**:
+
+	  - Loi n°70-643 du 17 juillet 1970 - art. 1 () JORF 19 juillet 1970 en vigueur le 1er janvier 1971
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°70-643 du 17 juillet 1970 - art. 55 (V)
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. 142 (M)
+	  - CODE DE PROCEDURE PENALE - art. 372 (M)
+
+
+##### Sous-section 2 : De la détention provisoire
+
+###### Article 148-1
+
+La mise en liberté peut aussi être demandée en tout état de cause par tout inculpé, prévenu ou accusé, et en toute période de
+la procédure. 
+
+Lorsqu'une juridiction de jugement est saisie, il lui appartient de statuer sur la liberté provisoire ; avant le renvoi en
+cour d'assises et dans l'intervalle des sessions d'assises, ce pouvoir appartient à la chambre d'accusation. 
+
+En cas de pourvoi et jusqu'à l'arrêt de la Cour de cassation,
+
+il est statué sur la demande de mise en liberté par la juridiction qui a connu en dernier lieu de l'affaire au fond. Si le
+pourvoi a été formé contre un arrêt de la cour d'assises, il est statué sur la détention par la chambre d'accusation. 
+
+En cas de décision d'incompétence et généralement dans tous les cas où aucune juridiction n'est saisie, la chambre
+d'accusation connaît des demandes de mise en liberté.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°57-1426 1957-12-31
+
+	**Créé par**:
+
+	  - Loi n°70-643 du 17 juillet 1970 - art. 1 () JORF 11 juillet 1970 en vigueur le 1er janvier 1971
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°70-643 du 17 juillet 1970 - art. 55 (V)
+
+	**Cité par**:
+
+	  - Loi n°95-1 du 2 janvier 1995 - art. 14 (V)
+	  - CODE DE PROCEDURE PENALE - art. 141-2 (M)
+	  - CODE DE PROCEDURE PENALE - art. 148-2 (V)
+	  - CODE DE PROCEDURE PENALE - art. 148-6 (V)
+	  - CODE DE PROCEDURE PENALE - art. 148-7 (V)
+	  - CODE DE PROCEDURE PENALE - art. 465 (M)
+	  - Code de la santé publique - art. L3424-1 (V)
+	  - Code de la santé publique - art. L628-2 (Ab)
+	  - Code de la santé publique - art. L629-1 (M)
+	  - Code de procédure pénale - art. 141-1 (MMN)
+	  - Code de procédure pénale - art. 181 (VT)
+	  - Code de procédure pénale - art. 367 (V)
+	  - Code de procédure pénale - art. 501 (V)
+	  - Code de procédure pénale - art. 625 (V)
+	  - Code de procédure pénale - art. 626-5 (VT)
+	  - Code de procédure pénale - art. 627-9 (V)
+	  - Code de procédure pénale - art. 706-33 (V)
+	  - Code de procédure pénale - art. 706-36 (V)
+
+
+##### Sous-section 3 : De l'indemnisation à raison d'une détention provisoire
+
+###### Article 149
+
+Sans préjudice de l'application des dispositions des articles 505 et suivants du Code de procédure civile, une indemnité peut
+être accordée à la personne ayant fait l'objet d'une détention provisoire au cours d'une procédure terminée à son égard par
+une décision de non-lieu, de relaxe ou d'acquittement devenue définitive, lorsque cette détention lui a causé un préjudice
+manifestement anormal et d'une particulière gravité.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°57-1426 1957-12-31
+
+	**Modifié par**:
+
+	  - Loi n°70-643 du 17 juillet 1970 - art. 1 () JORF 19 juillet 1970 en vigueur le 1er janvier 1971
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°70-643 du 17 juillet 1970 - art. 55 (V)
+
+	**Cité par**:
+
+	  - Loi n°70-643 du 17 juillet 1970 - art. 55 (V)
+	  - Loi n°83-520 du 27 juin 1983 - art. 80 (V)
+	  - Décret n°2010-355 du 1er avril 2010 - art. 2 (V)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L141-1 (Ab)
+	  - CODE DE PROCEDURE PENALE - art. 145 (AbD)
+	  - CODE DE PROCEDURE PENALE - art. 149-1 (V)
+	  - Code de justice militaire - art. 150 (Ab)
+	  - Code de justice militaire. - art. D269-4 (V)
+	  - Code de procédure pénale - art. 142-10 (V)
+	  - Code de procédure pénale - art. D32-22 (V)
+	  - Code de procédure pénale - art. R92 (V)
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L141-1 (Ab)
+
+	**Cite**:
+
+	  - Code de procédure pénale 505 et S.
+
+
+###### Article 149-1
+
+L'indemnité prévue à l'article précédent est allouée par décision d'une commission qui statue souverainement.
+
+La commission est composée de trois magistrats du siège à la Cour de cassation ayant le grade de président de chambre ou de
+conseiller. Ces magistrats sont désignés annuellement, en même temps que trois suppléants, par le bureau de la Cour de
+cassation.
+
+Les fonctions du ministère public sont remplies par le parquet général près la Cour de cassation.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°57-1426 1957-12-31
+
+	**Créé par**:
+
+	  - Loi n°70-643 du 17 juillet 1970 - art. 1 () JORF 19 juillet 1970 en vigueur le 1er janvier 1971
+
+	**Cité par**:
+
+	  - Décret n°91-1266 du 19 décembre 1991 - art. 38 (M)
+	  - Loi n°2000-516 du 15 juin 2000 - art. 72 (V)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L141-2 (M)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R*141-1 (Ab)
+	  - CODE DE PROCEDURE PENALE - art. 626 (M)
+	  - Code de procédure pénale - art. 149 (V)
+	  - Code de procédure pénale - art. R26 (V)
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R*141-1 (V)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°70-643 art.
 
 
 ##### Section 8 : Des commissions rogatoires
