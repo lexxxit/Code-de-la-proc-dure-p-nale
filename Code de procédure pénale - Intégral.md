@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 2002-03-05
+Version Consolidée au 2002-03-06
 
 # Partie législative
 
@@ -77073,14 +77073,11 @@ consultés sur le site internet d'admifrance [http://www.admifrance.gouv.fr/].
 
 ## Livre IV
 
-### Titre XIX : De la procédure applicable aux infractions de nature sexuelle et aux mineurs victimes
-
-#### Chapitre Ier : Du fichier national automatisé des empreintes génétiques
+### Titre XX : Du fichier national automatisé des empreintes génétiques.
 
 ###### Article A38
 
-La liste des segments d'ADN sur lesquels portent les analyses destinées à l'identification génétique figure dans le tableau
-ci-après :
+Les segments d'ADN sur lesquels portent les analyses destinées à l'identification génétique figure dans le tableau ci-après :
 
 SEGMENTS D'ADN OU loci
 
@@ -77088,13 +77085,25 @@ selon la nomenclature internationale
 
 LOCALISATION
 
-D21S11
+D3S1358
 
-Chromosome n° 21 
+Chromosome n° 3 
 
 VWA
 
 Chromosome n° 12 
+
+D8S1179
+
+Chromosome n° 8 
+
+D21S11
+
+Chromosome n° 21 
+
+D18S51
+
+Chromosome n° 18 
 
 THO1
 
@@ -77102,21 +77111,57 @@ Chromosome n° 11
 
 FGA
 
-Chromosome n°  4 
+Chromosome n° 4 
 
-D8S1179
+Amélogénine
 
-Chromosome n°  8 
+Chromosomes X et Y
 
-D3S1358
+Les analyses peuvent également porter sur les segments d'ADN suivants :
 
-Chromosome n°  3 
+SEGMENTS D'ADN OU loci
 
-D18S51
+selon la nomenclature internationale
 
-Chromosome n° 18 
+LOCALISATION
 
-Les analyses portent également sur le gène de l'amélogénine.
+D16S539
+
+Chromosome n° 16
+
+D2S1338
+
+Chromosome n° 2
+
+D19S433
+
+Chromosome n° 19
+
+PentaE Chromosome n° 15
+
+D5S818
+
+Chromosome n° 5
+
+D13S317
+
+Chromosome n° 13
+
+D7S820
+
+Chromosome n° 7
+
+CSF1PO
+
+Chromosome n° 5
+
+PentaD
+
+Chromosome n° 21
+
+TPOX
+
+Chromosome n° 2
 
 **Liens relatifs à cet article**
 
@@ -77124,13 +77169,9 @@ Les analyses portent également sur le gène de l'amélogénine.
 
 	  - Arrêté 1958-12-23
 
-	**Modifié par**:
+	**Créé par**:
 
-	  - Arrêté 2000-05-18 art. 1 JORF 19 mai 2000
-
-	**Abrogé par**:
-
-	  - Arrêté 2002-02-14 art. 1 I JORF 6 mars 2002
+	  - Arrêté 2002-02-14 art. 1 II JORF 6 mars 2002
 
 
 ## Livre V : Des procédures d'exécution
