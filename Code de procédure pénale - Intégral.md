@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 1980-01-05
+Version Consolidée au 1980-04-01
 
 # Partie législative
 
@@ -27916,25 +27916,6 @@ nature et du lieu des activités ou du traitement.
 
 ##### Paragraphe 3 : Régime de semi-liberté
 
-###### Article D140
-
-[Article abrogé]
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°59-322 1959-02-23
-
-	**Abrogé par**:
-
-	  - Décret n°80-227 1980-03-27 art. 3 JORF 1er avril 1980
-
-	**Liens**:
-
-	  - TXT_SOURCE: Code de procédure pénale 714 à 728
-
-
 ###### Article D141
 
 Par exception au principe rappelé à l'article D110, les condamnés admis au régime de semi-liberté relèvent du régime général
@@ -28403,6 +28384,45 @@ Les rémunérations versées sur crédits budgétaires sont nettes de tout prél
 	  - CODE DE PROCEDURE PENALE - art. D111 (M)
 	  - CODE DE PROCEDURE PENALE - art. D114 (M)
 	  - CODE DE PROCEDURE PENALE - art. D327. (M)
+
+	**Liens**:
+
+	  - TXT_SOURCE: Code de procédure pénale 714 à 728
+
+
+###### Article D113
+
+Une part égale à 20 % [*pourcentage*] de la rémunération telle qu'elle résulte de l'article D111 est affectée à la
+constitution d'un pécule de libération ainsi qu'à l'indemnisation des parties civiles.
+
+Les prélèvements relatifs à l'indemnisation des parties civiles sont limités à la moitié de cette part.
+
+La part prévue par le premier alinéa du présent article est réduite à 10 % [*pourcentage*] pour les semi-libres. Elle est
+exclusivement réservée à l'indemnisation des parties civiles.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-322 1959-02-23
+
+	**Modifié par**:
+
+	  - Décret n°75-128 1975-03-07 art. 1 et art. 3 JORF 9 mars 1975
+	  - Décret n°78-460 1978-03-28 art. 1 JORF 1er avril 1978
+	  - Décret n°80-227 1980-03-27 art. 1 JORF 1er avril 1980
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. D111 (M)
+
+	**Cité par**:
+
+	  - CODE DE PROCEDURE PENALE - art. D114 (Ab)
+	  - CODE DE PROCEDURE PENALE - art. D324. (M)
+	  - CODE DE PROCEDURE PENALE - art. D325. (M)
+	  - CODE DE PROCEDURE PENALE - art. D328. (Ab)
+	  - CODE DE PROCEDURE PENALE - art. D329. (Ab)
 
 	**Liens**:
 
