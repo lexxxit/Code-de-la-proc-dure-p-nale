@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 1983-12-27
+Version Consolidée au 1984-01-01
 
 # Partie législative
 
@@ -18942,6 +18942,58 @@ en application de l'article 522.
 
 ### Titre XIV : Du recours en indemnité ouvert à certaines victimes de dommages résultant d'une infraction
 
+###### Article 706-4
+
+L'indemnité est allouée par une commission instituée dans le ressort de chaque tribunal de grande instance. Cette commission
+a le caractère d'une juridiction civile qui se prononce en premier et dernier ressort.
+
+La commission est composée de deux magistrats du siège du tribunal de grande instance et d'une personne majeure, de
+nationalité française et jouissant de ses droits civiques, s'étant signalée par l'intérêt qu'elle porte aux problèmes des
+victimes. Elle est présidée par l'un des magistrats.
+
+Les membres de la commission et leurs suppléants sont désignés pour une durée de trois ans par l'assemblée générale des
+magistrats du siège du tribunal.
+
+Les fonctions du ministère public sont exercées par le procureur de la République ou l'un de ses substituts.
+
+Un décret en Conseil d'Etat détermine les modalités d'application du présent article.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 58-1296 1958-12-23
+
+	**Modifié par**:
+
+	  - Loi n°83-608 1983-07-08 art. 16 JORF 9 juillet 1983 en vigueur le 1er janvier 1984
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°83-608 du 8 juillet 1983 - art. 23, v. init.
+
+	**Cité par**:
+
+	  - Loi n°2000-1257 du 23 décembre 2000 - art. 53 (V)
+	  - Décret n°2001-963 du 23 octobre 2001 - art. 42 (V)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L313-2 (Ab)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L924-12-1 (Ab)
+	  - CODE DE PROCEDURE PENALE - art. 862 (V)
+	  - CODE DE PROCEDURE PENALE - art. 933 (V)
+	  - CODE DE PROCEDURE PENALE - art. R50-1 (V)
+	  - CODE GENERAL DES IMPOTS, CGI. - art. 2020 (Ab)
+	  - Code de procédure pénale - art. 706-12 (V)
+	  - Code de procédure pénale - art. 898 (Ab)
+	  - Code de procédure pénale - art. R92 (V)
+	  - Code de procédure pénale - art. R93 (V)
+	  - Code des assurances - art. L422-5 (V)
+	  - Livre des procédures fiscales - art. L146 (V)
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L231-2 (Ab)
+
+
 ###### Article 706-5
 
 A peine de forclusion, la demande d'indemnité doit être présentée dans le délai d'un an à compter de la date de l'infraction.
@@ -18968,6 +19020,50 @@ requis ou lorsqu'il a subi une aggravation de son préjudice ou pour tout autre 
 	**Cité par**:
 
 	  - Code de procédure pénale - art. R50-7 (V)
+
+
+###### Article 706-6
+
+La commission ou son président peut procéder ou faire procéder à toutes auditions et investigations utiles, sans que puisse
+leur être opposé le secret professionnel. Ils peuvent notamment se faire communiquer copie des procès-verbaux constatant
+l'infraction ou de toutes les pièces de la procédure pénale, même en cours. Ils peuvent également requérir :
+
+1° De toute personne ou administration, la communication de renseignements sur la situation professionnelle, financière,
+fiscale ou sociale des personnes ayant à répondre du dommage causé par l'infraction ou du requérant ;
+
+2° De tout service de l'Etat, collectivité publique, organisme de sécurité sociale, organisme assurant la gestion des
+prestations sociales ou compagnies d'assurance susceptibles de réparer tout ou partie du préjudice, la communication des
+renseignements relatifs à l'exécution de leurs obligations éventuelles.
+
+Les renseignements ainsi recueillis ne peuvent être utilisés à d'autres fins que l'instruction de la demande d'indemnité et
+leur divulgation est interdite.
+
+Des provisions peuvent être accordées par le président. Lorsqu'une provision est demandée, dès le dépôt de la requête en
+indemnisation, le président statue dans le délai d'un mois ; dans ce cas, elle ne peut excéder le quart du maximum fixé en
+application de l'article 706-9.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 58-1296 1958-12-23
+
+	**Modifié par**:
+
+	  - Loi n°83-608 1983-07-08 art. 18 JORF 9 juillet 1983 en vigueur le 1er janvier 1983
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°83-608 du 8 juillet 1983 - art. 23, v. init.
+
+	**Cité par**:
+
+	  - Loi n°2000-1257 du 23 décembre 2000 - art. 53 (V)
+	  - CODE GENERAL DES IMPOTS, CGI. - art. 2020 (Ab)
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. 706-9 (M)
 
 
 ###### Article 706-7
@@ -19048,6 +19144,31 @@ Leurs montants ne peuvent dépasser des maxima fixés, chaque année, par décre
 	  - CODE DE PROCEDURE PENALE - art. R92 (M)
 	  - Code de procédure pénale - art. 706-10 (V)
 	  - Livre des procédures fiscales - art. L146 B (Dis)
+
+
+###### Article 706-10
+
+Lorsque la victime, postérieurement au paiement de l'indemnité, obtient, à un titre quelconque, une réparation ou une
+indemnisation effective de son préjudice, l'Etat peut demander à la commission qui l'avait accordée d'ordonner le
+remboursement total ou partiel de l'indemnité ou de la provision.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 58-1296 1958-12-23
+
+	**Modifié par**:
+
+	  - Loi n°83-608 1983-07-08 art. 19 JORF 9 juillet 1983 en vigueur le 1er janvier 1984
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°83-608 du 8 juillet 1983 - art. 23, v. init.
+
+	**Cité par**:
+
+	  - Code de procédure pénale - art. R50-25 (V)
 
 
 ###### Article 706-11
@@ -23825,11 +23946,286 @@ Le secrétariat du jury d'examen est assuré par la direction du personnel et de
 
 #### Chapitre Ier : Du juge d'instruction : juridiction d'instruction du premier degré
 
+##### Section 1 : Dispositions générales
+
+###### Article R15-18
+
+Lorsqu'il ne procède pas lui-même ou ne fait pas procéder par un officier de police judiciaire à l'enquête de personnalité
+prévue par l'alinéa 6 de l'article 81, le juge d'instruction saisi de la procédure ou, sur délégation ou, sur délégation,
+celui dans le ressort duquel réside l'inculpé peut désigner à cette fin toute personne physique ou morale habilitée comme il
+est dit ci-après ou, à titre exceptionnel, un contrôleur judiciaire.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°58-358 1958-04-02
+
+	**Créé par**:
+
+	  - Décret n°83-1164 1983-12-23 art. 1 et art. 4 JORF 28 décembre 1983 en vigueur le 1er janvier 1984
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°83-1164 1983-12-23 art. 4
+
+	**Cité par**:
+
+	  - Arrêté du 24 août 2009 (V)
+	  - CODE DE PROCEDURE PENALE - art. R13 (M)
+	  - Code de procédure pénale - art. A34 (VD)
+	  - Code de procédure pénale - art. D8-1 (V)
+
+	**Cite**:
+
+	  - Code de procédure pénale 81 al. 6
+
+
+###### Article R15-19
+
+La personne physique ou morale, selon qu'elle désire être habilitée à procéder à des enquêtes de personnalité dans le ressort
+du tribunal de grande instance ou dans celui de la cour d'appel, en fait la demande au moyen des juges d'instruction ou au
+président de la chambre de l'instruction. 
+
+La demande présentée par une association comporte notamment : 
+
+1° La copie du Journal officiel portant publication de la déclaration de l'association ou, en ce qui concerne les
+départements du Bas-Rhin, du Haut-Rhin ou de la Moselle, une copie de l'extrait du registre des associations du tribunal
+d'instance : 
+
+2° Un exemplaire des statuts et, s'il y a lieu, du règlement intérieur ; 
+
+3° La liste des établissements de l'association avec indication de leur siège ; 
+
+4° Un exposé indiquant les conditions de fonctionnement de l'association et, le cas échéant, l'organisation et les conditions
+de fonctionnement des comités locaux, ainsi que leurs rapports avec l'association ; 
+
+5° La mention des nom, prénoms, date et lieu de naissance, nationalité, profession et domicile des membres du conseil
+d'administration et du bureau de l'association ainsi que, le cas échéant, ceux de ses représentants locaux ; 
+
+6° Les pièces financières qui doivent comprendre les comptes du dernier exercice, le budget de l'exercice courant et un bilan
+ou un état de l'actif mobilier et immobilier et du passif.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°58-358 1958-04-02
+
+	**Créé par**:
+
+	  - Décret n°83-1164 1983-12-23 art. 1 et art. 4 JORF 28 décembre 1983 en vigueur le 1er janvier 1984
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°83-1164 1983-12-23 art. 4
+
+	**Cité par**:
+
+	  - Arrêté du 6 juin 2006 - art. 2122-1 (V)
+	  - Arrêté du 6 juin 2006 - art. 2123-1 (V)
+	  - Arrêté du 6 juin 2006 - art. 2124-1 (V)
+	  - Arrêté du 6 juin 2006 - art. 2125-1 (V)
+	  - Arrêté du 6 juin 2006 - art. 2126-1 (V)
+	  - Arrêté du 25 août 2011 (V)
+	  - Décret n°2012-869 du 9 juillet 2012 (V)
+	  - Décret n°2013-952 du 23 octobre 2013 (V)
+	  - Décret n°2015-1205 du 30 septembre 2015 - art. 2 (VD)
+	  - CODE DE PROCEDURE PENALE - art. R16 (M)
+	  - Code de procédure pénale - art. A34 (VD)
+	  - Code de procédure pénale - art. A35 (V)
+	  - Code de procédure pénale - art. R15-20 (V)
+	  - Code de procédure pénale - art. R15-29 (V)
+
+
+###### Article R15-20
+
+Après avoir procédé à toute les diligences qu'il juge utiles, le doyen des juges d'instruction ou le président de la chambre
+de l'instruction communique la demande au président du tribunal ou au premier président.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°58-358 1958-04-02
+
+	**Créé par**:
+
+	  - Décret n°83-1164 1983-12-23 art. 1 et art. 4 JORF 28 décembre 1983 en vigueur le 1er janvier 1984
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°83-1164 1983-12-23 art. 4
+
+	**Cité par**:
+
+	  - Arrêté du 9 avril 1999 - art. 1 (V)
+	  - Arrêté du 5 août 2009 (V)
+	  - CODE DE PROCEDURE PENALE - art. R15-21 (M)
+	  - CODE DE PROCEDURE PENALE - art. R16 (M)
+	  - Code de procédure pénale - art. R15-29 (V)
+
+
+###### Article R15-21
+
+L'assemblée générale des magistrats du siège et du parquet du tribunal ou de la cour d'appel, sur le rapport du magistrat
+saisi de la demande, statue sur l'habilitation à la majorité de ses membres présents.
+
+La commission restreinte de l'assemblée générale des magistrats du siège et du parquet, dans les juridictions où sa
+constitution est obligatoire, exerce les attributions mentionnées à l'alinéa précédent.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°58-358 1958-04-02
+
+	**Créé par**:
+
+	  - Décret n°83-1164 1983-12-23 art. 1 et art. 4 JORF 28 décembre 1983 en vigueur le 1er janvier 1984
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°83-1164 1983-12-23 art. 4
+
+	**Cité par**:
+
+	  - Décret n°2012-328  du 6 mars 2012 (V)
+	  - CODE DE PROCEDURE PENALE - art. R16 (M)
+
+
+###### Article R15-22
+
+En cas d'urgence, une habilitation provisoire, valable jusqu'à la décision de la prochaine assemblée générale ou commission
+restreinte, peut être prise par le doyen des juges d'instruction, sur proposition ou après avis conforme du procureur de la
+République, ou par le président de la chambre de l'instruction, sur proposition ou après avis conforme du procureur général.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°58-358 1958-04-02
+
+	**Créé par**:
+
+	  - Décret n°83-1164 1983-12-23 art. 1 et art. 4 JORF 28 décembre 1983 en vigueur le 1er janvier 1984
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°83-1164 1983-12-23 art. 4
+
+	**Cité par**:
+
+	  - CODE DE PROCEDURE PENALE - art. R16 (M)
+	  - Code de procédure pénale - art. D8-1 (V)
+
+
+###### Article R15-23
+
+Ne peut être habilitée une personne qui a fait l'objet d'une condamnation, incapacité ou déchéance mentionnée au bulletin n°
+2 du casier judiciaire.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°58-358 1958-04-02
+
+	**Créé par**:
+
+	  - Décret n°83-1164 1983-12-23 art. 1 et art. 4 JORF 28 décembre 1983 en vigueur le 1er janvier 1984
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°83-1164 1983-12-23 art. 4
+
+	**Cité par**:
+
+	  - Décret n°2009-127 du 4 février 2009 (Ab)
+	  - Décret n°2016-568 du 10 mai 2016 - art. 1 (V)
+	  - Code de procédure pénale - art. R15-24 (V)
+
+
+###### Article R15-24
+
+L'habilitation peut être retirée selon la procédure prévue par les articles R. 15-20 et R. 15-21. 
+
+Le procureur de la République ou le procureur général peut, aux fins de retrait d'habilitation, saisir, selon le cas,
+l'assemblée générale des magistrats du siège et du parquet du tribunal, celle de la cour d'appel ou la commission restreinte
+compétente. 
+
+En cas d'urgence, le doyen des juges d'instruction, sur proposition ou avis conforme du procureur de la République, ou le
+président de la chambre de l'instruction, sur proposition ou avis conforme du procureur général, peut retirer provisoirement
+l'habilitation jusqu'à la décision de la prochaine assemblée générale ou commissaire restreinte.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°58-358 1958-04-02
+
+	**Créé par**:
+
+	  - Décret n°83-1164 1983-12-23 art. 1 et art. 4 JORF 28 décembre 1983 en vigueur le 1er janvier 1984
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°83-1164 1983-12-23 art. 4
+
+	**Cité par**:
+
+	  - Code de procédure pénale - art. R15-23 (V)
+	  - Code de procédure pénale - art. R15-32 (V)
+	  - Code de procédure pénale - art. R15-33 (V)
+
+	**Cite**:
+
+	  - Code de procédure pénale R15-20 et R15-21
+
+
 ##### Section 7 : Du contrôle judiciaire et de la détention provisoire
 
 ##### Sous-section 1 : Du contrôle judiciaire
 
 ##### Paragraphe 1er : Des autorités ou personnes contribuant au contrôle judiciaire
+
+###### Article R16
+
+Le juge d'instruction saisi de la procédure ou, sur délégation, celui dans le ressort duquel l'inculpé, désigne, pour
+contribuer à l'application du contrôle judiciaire, soit une personne physique ou morale habilitée à cette fin, soit un
+service de police ou de gendarmerie ou tout service judiciaire ou administratif compétent, soit, à titre exceptionnel, un
+enquêteur de personnalité.
+
+Les contrôleurs judiciaires sont habilités sous les conditions et selon les règles de compétence et de procédure définies par
+les articles R. 15-19 à R. 15-24.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°58-358 1958-04-02
+
+	**Modifié par**:
+
+	  - Décret n°83-1164 1983-12-23 art. 2 et art. 4 JORF 28 décembre 1983 en vigueur le 1er janvier 1984
+	  - Décret n°70-1223 1970-12-23 art. 1 JORF 25 décembre 1970
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°83-1164 1983-12-23 art. 4
+
+	**Cité par**:
+
+	  - Décret n°88-949 du 6 octobre 1988 - art. 5 (V)
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. R15-19 (M)
+	  - CODE DE PROCEDURE PENALE - art. R15-20 (M)
+	  - CODE DE PROCEDURE PENALE - art. R15-21 (M)
+	  - CODE DE PROCEDURE PENALE - art. R15-22 (M)
+	  - Code de procédure pénale R15-19, R15-20, R15-21, R15-22, R15-23 et R15-24
+
 
 ###### Article R16-1
 
@@ -24723,6 +25119,47 @@ Siège : Carpentras (à titre temporaire).
 	  - Décret n°75-929 1975-10-07 art. 1 et art. 2 JORF 14 octobre 1975
 
 
+### Titre II : Du jugement des délits
+
+#### Chapitre Ier : Du tribunal correctionnel
+
+###### Article R41-2
+
+Dans le cas prévu par l'alinéa 2 de l'article 470-1, la décision de renvoi de la juridiction pénale désigne la juridiction
+civile compétente et précise l'identité des tiers responsables qui paraissent devoir être mis en cause.
+
+Une copie de la décision de renvoi et le dossier de l'affaire sont aussitôt transmis par le secrétariat-greffe à la
+juridiction désignée.
+
+**Nota:**
+
+
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-318 1959-02-23
+
+	**Créé par**:
+
+	  - Décret n°83-1155 1983-12-23 art. 1 et art. 5 JORF 27 décembre 1983 en vigueur le 1er janvier 1984
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°83-1155 1983-12-23 art. 5
+
+	**Cité par**:
+
+	  - Code de procédure civile - art. 852-1 (V)
+	  - Code de procédure pénale - art. R49-20 (VD)
+	  - Code de procédure pénale - art. R50 (VT)
+
+	**Cite**:
+
+	  - Code de procédure pénale 470-1 al. 2
+
+
 ### Titre III : Du jugement des contraventions
 
 #### Chapitre II : Procédure simplifiée
@@ -24965,9 +25402,188 @@ l'Economie et des Finances.
 	  - Code de procédure pénale 527 al. 3 et al. 4
 
 
+#### Chapitre III : De l'instruction définitive devant le tribunal de police
+
+###### Article R50
+
+Dans le cas prévu par l'alinéa 2 de l'article 470-1, il est procédé comme il est dit à l'article R. 41-1.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-318 1959-02-23
+
+	**Créé par**:
+
+	  - Décret n°83-1155 1983-12-23 art. 2 et art. 5 JORF 27 décembre 1983 en vigueur le 1er janvier 1984
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°83-1155 1983-12-23 art. 5
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. R41-1 (M)
+	  - Code de procédure pénale 470-1 al. 2, R41-1
+
+
 ## Livre IV : De quelques procédures particulières
 
 ### Titre XIV : Du recours en indemnité ouvert à certaines victimes de dommages résultant d'une infraction
+
+###### Article R50-1
+
+Tous les trois ans, au cours du dernier trimestre, l'assemblée générale des magistrats du siège du tribunal de grande
+instance désigne les membres titulaires de la commission prévue par l'article 706-4 ainsi que parmi ceux-ci, le magistrat qui
+en assure la présidence. Elle désigne également deux magistrats du siège suppléants ainsi que la personne susceptible de
+suppléer le troisième membre de la commission.
+
+Elle peut décider que la commission comportera plusieurs formations composées comme il est dit à l'alinéa précédent.
+
+En cas d'empêchement ou de cessation de fonctions du président, la présidence de la commission est assurée par l'autre
+magistrat.
+
+En cas d'empêchement ou de cessation de fonctions d'un des membres, la composition de la commission est complétée en faisant
+appel aux suppléants dans les conditions prévues par le présent article. Les fonctions du nouveau membre expirent à la date
+du renouvellement normal de la commission. Il est procédé au remplacement du membre suppléant par l'assemblée générale des
+magistrats du siege.
+
+En cas d'urgence, s'il ne peut être fait immédiatement application des dispositions qui précèdent, le président du tribunal
+pourvoit provisoirement, par ordonnance, au remplacement du membre de la commission. Cette ordonnance ne peut produire effet
+au-delà de la prochaine assemblée générale.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-318 1959-02-23
+
+	**Créé par**:
+
+	  - Décret n°77-194 1977-03-03 art. 2 JORF 5 mars 1977
+
+	**Modifié par**:
+
+	  - Décret n°83-1156 1983-12-23 art. 2 et art. 14 JORF 27 décembre 1983 en vigueur le 1er janvier 1984
+
+	**Cité par**:
+
+	  - Décret n°94-183 du 1 mars 1994 - art. 2 (Ab)
+	  - Décret n°94-183 du 1 mars 1994 - art. 3 (Ab)
+	  - CODE DE PROCEDURE PENALE - art. R280 (Ab)
+	  - CODE DE PROCEDURE PENALE - art. R374 (Ab)
+
+
+###### Article R50-1-1
+
+Les personnes, autres que les magistrats en activité, qui souhaitent faire acte de candidature en qualité d'assesseurs à la
+commission d'indemnisation du tribunal de grande instance de leur lieu de résidence en font la demande auprès du président de
+ce tribunal avant le 30 avril de l'année au cours de laquelle doit être renouvelée la commission.
+
+Le président du tribunal procède ou fait procéder à toutes diligences utiles pour l'instruction de la demande. L'assemblée
+générale statue sur son rapport.
+
+Avant de prendre leurs fonctions, les assesseurs désignés, titulaires et suppléants, prêtent serment devant le tribunal de
+bien et fidèlement remplir leur mission et de garder le secret des délibérations. Une indemnité horaire est allouée aux
+assesseurs qui siègent à la commission ; le montant et les modalités de versement de cette indemnité sont fixés par arrêté
+conjoint du garde des sceaux, ministre de la justice, et du ministre chargé du budget.
+
+Lorsqu'ils se sont abstenus, sans motif légitime, de déférer à trois convocations successives, les assesseurs peuvent être
+déclarés démissionnaires. En cas de fautre grave entachant l'honneur ou la probité, ils sont déchus de leurs fonctions.
+
+Les décisions prévues par l'alinéa précédent sont prises, à la demande du président de la commission ou du procureur de la
+République, par l'assemblée générale des magistrats du siège du tribunal ; en cas d'urgence, le président du tribunal peut,
+par ordonnance, prononcer une suspension provisoire. Cette ordonnance ne peut produire effet au-delà de la prochaine
+assemblée générale.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-318 1959-02-23
+
+	**Créé par**:
+
+	  - Décret n°83-1186 1983-12-23 art. 3 et art. 14 JORF 27 décembre 1983 en vigueur le 1er janvier 1984
+
+	**Cité par**:
+
+	  - Décret n°94-183 du 1 mars 1994 - art. 3 (Ab)
+	  - CODE DE PROCEDURE PENALE - art. R280 (Ab)
+
+	**Abrogé par**:
+
+	  - Décret n°2008-522 du 2 juin 2008 - art. 5
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R214-3 (V)
+
+
+###### Article R50-2
+
+Le secrétariat de la commission est assuré par le greffier en chef ou par un secrétaire-greffier du tribunal de grande
+instance.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-318 1959-02-23
+
+	**Créé par**:
+
+	  - Décret n°77-194 1977-03-03 art. 2 JORF 5 mars 1977
+
+	**Modifié par**:
+
+	  - Décret n°83-1156 1983-12-23 art. 4 et art. 14 JORF 27 décembre 1983 en vigueur le 1er janvier 1984
+
+	**Cité par**:
+
+	  - Décret n°94-183 du 1 mars 1994 - art. 3 (Ab)
+	  - CODE DE PROCEDURE PENALE - art. R281 (Ab)
+
+	**Abrogé par**:
+
+	  - Décret n°2008-522 du 2 juin 2008 - art. 5
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R214-4 (V)
+
+
+###### Article R50-3
+
+Le siège et le ressort de la commission sont les mêmes que ceux du tribunal de grande instance.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-318 1959-02-23
+
+	**Créé par**:
+
+	  - Décret n°77-194 1977-03-03 art. 2 JORF 5 mars 1977
+
+	**Modifié par**:
+
+	  - Décret n°83-1156 1983-12-23 art. 4 et art. 14 JORF 27 décembre 1983 en vigueur le 1er janvier 1984
+
+	**Cité par**:
+
+	  - Décret n°94-183 du 1 mars 1994 - art. 3 (Ab)
+
+	**Abrogé par**:
+
+	  - Décret n°2008-522 du 2 juin 2008 - art. 5
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. D214-5 (V)
+
 
 ###### Article R50-4
 
@@ -24989,6 +25605,39 @@ Le demandeur peut, à son choix, présenter sa requête devant l'une ou l'autre 
 	**Créé par**:
 
 	  - Décret n°77-194 1977-03-03 art. 2 JORF 5 mars 1977
+
+	**Abrogé par**:
+
+	  - Décret n°2008-522 du 2 juin 2008 - art. 5
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R214-6 (V)
+
+
+###### Article R50-5
+
+Si le demandeur ne demeure pas en France métropolitaine ou dans les départements d'outre-mer et si aucune juridiction pénale
+n'a été saisie dans ces départements ou en métropole, la commission compétente est celle du tribunal de grande instance.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-318 1959-02-23
+
+	**Créé par**:
+
+	  - Décret n°77-194 1977-03-03 art. 2 JORF 5 mars 1977
+
+	**Modifié par**:
+
+	  - Décret n°83-1156 1983-12-23 art. 4 et art. 14 JORF 27 décembre 1983 en vigueur le 1er janvier 1984
+
+	**Cité par**:
+
+	  - Décret n°94-183 du 1 mars 1994 - art. 4 (Ab)
+	  - CODE DE PROCEDURE PENALE - art. R283 (Ab)
 
 	**Abrogé par**:
 
@@ -25021,6 +25670,38 @@ En cas de pluralité de demandeurs victimes d'une même infraction, la commissio
 	**Nouveaux textes**:
 
 	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R214-6 (V)
+
+
+###### Article R50-7
+
+L'admission au bénéfice de l'aide juridictionnelle devant la commission peut être accordée par le bureau établi près le
+tribunal de grande instance. 
+
+La demande d'aide juridictionnelle interrompt les délais prévus aux articles 706-5 et 706-8.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-318 1959-02-23
+
+	**Créé par**:
+
+	  - Décret n°77-194 1977-03-03 art. 2 JORF 5 mars 1977
+
+	**Modifié par**:
+
+	  - Décret n°83-1156 1983-12-23 art. 4 et art. 14 JORF 27 décembre 1983 en vigueur le 1er janvier 1984
+	  - Décret n°91-1266 du 19 décembre 1991 - art. 159 (V)
+
+	**Cité par**:
+
+	  - Décret n°94-183 du 1 mars 1994 - art. 3 (Ab)
+
+	**Cite**:
+
+	  - Code de procédure pénale - art. 706-5 (V)
+	  - Code de procédure pénale - art. 706-8 (V)
 
 
 ###### Article R50-8
@@ -25084,6 +25765,36 @@ La requête est accompagnée de toutes pièces justificatives.
 	  - Décret n°77-194 1977-03-03 art. 2 JORF 5 mars 1977
 
 
+###### Article R50-10
+
+Lorsque le préjudice consiste en une perte ou une diminution de revenus, en un accroissement de charges ou en une inaptitude
+à exercer une activité professionnelle, le demandeur doit faire connaître l'ensemble des ressources dont il dispose. Il doit
+produire notamment :
+
+1° Une copie de la déclaration de ses revenus de l'année précédant l'infraction et de l'année précédant celle au cours de
+laquelle la commission est saisie ou, s'il n'est pas imposable, un certificat de non-imposition ;
+
+2° Le cas échéant, la liste de ses biens immobiliers.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-318 1959-02-23
+
+	**Créé par**:
+
+	  - Décret n°77-194 1977-03-03 art. 2 JORF 5 mars 1977
+
+	**Modifié par**:
+
+	  - Décret n°83-1156 1983-12-23 art. 5 et art. 14 JORF 27 décembre 1983 en vigueur le 1er janvier 1984
+
+	**Cité par**:
+
+	  - CODE DE PROCEDURE PENALE - art. R50-12 (M)
+
+
 ###### Article R50-11
 
 S'il s'agit d'une requête en complément d'indemnité fondée sur l'article 706-8, elle doit être accompagnée d'une expédition
@@ -25102,6 +25813,64 @@ de la décision, passée en force de chose jugée, qui a statué sur les intér�
 	**Cite**:
 
 	  - CODE DE PROCEDURE PENALE - art. 706-8 (M)
+
+
+###### Article R50-12
+
+Le secrétaire de la commission transmet, sans délai, copie de la requête et des pièces annexes mentionnées à l'article R.
+50-10 au procureur de la République près le tribunal de grande instance et, par lettre simple, à l'agent judiciaire du
+Trésor.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-318 1959-02-23
+
+	**Créé par**:
+
+	  - Décret n°77-194 1977-03-03 art. 2 JORF 5 mars 1977
+
+	**Modifié par**:
+
+	  - Décret n°83-1156 1983-12-23 art. 6 et art. 14 JORF 27 décembre 1983 en vigueur le 1er janvier 1984
+
+	**Cité par**:
+
+	  - Décret n°94-183 du 1 mars 1994 - art. 3 (Ab)
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. R50-10 (M)
+
+
+###### Article R50-13
+
+Le président de la commission ou le magistrat assesseur instruit l'affaire ; il peut procéder ou faire procéder à toutes
+auditions et investigations utiles. 
+
+Toutefois, lorsqu'il est manifeste au vu des énonciations de la requête ou des pièces annexes que le demandeur ne remplit par
+une des conditions prévues à l'article 706-3, il est procédé immédiatement comme il est dit aux articles R. 50-17 et
+suivants.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-318 1959-02-23
+
+	**Créé par**:
+
+	  - Décret n°77-194 1977-03-03 art. 2 JORF 5 mars 1977
+
+	**Modifié par**:
+
+	  - Décret n°83-1156 1983-12-23 art. 7 et art. 14 JORF 27 décembre 1983 en vigueur le 1er janvier 1984
+
+	**Cite**:
+
+	  - Code de procédure pénale - art. 706-3 (V)
+	  - Code de procédure pénale - art. R50-17 (V)
 
 
 ###### Article R50-14
@@ -25124,6 +25893,37 @@ copies est subordonné à l'autorisation du ministère public.
 	**Créé par**:
 
 	  - Décret n°77-194 1977-03-03 art. 2 JORF 5 mars 1977
+
+
+###### Article R50-15
+
+Lorsque le demandeur sollicite l'attribution d'une provision, le président de la commission communique sans délai la requête
+au procureur de la République et à l'agent judiciaire du Trésor et recueille leurs observations. Dans le délai d'un mois ou
+de deux mois selon que la requête est faite dès le dépot de la demande en indemnisation ou ultérieurement, il statue par une
+ordonnance portée à la connaissance du procureur de la République. Il est procédé comme il est dit à l'article R. 50-22.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-318 1959-02-23
+
+	**Créé par**:
+
+	  - Décret n°77-194 1977-03-03 art. 2 JORF 5 mars 1977
+
+	**Modifié par**:
+
+	  - Décret n°83-1156 1983-12-23 art. 8 et art. 14 JORF 27 décembre 1983 en vigueur le 1er janvier 1984
+
+	**Cité par**:
+
+	  - Décret n°94-183 du 1 mars 1994 - art. 5 (Ab)
+	  - CODE DE PROCEDURE PENALE - art. R50-28 (V)
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. R50-22 (M)
 
 
 ###### Article R50-16
@@ -25170,6 +25970,48 @@ quinze jours avant la date de l'audience mais qu'elles peuvent consulter le doss
 	  - Code de procédure pénale - art. R50-25 (V)
 
 
+###### Article R50-18
+
+Le procureur de la République est informé de la date de l'audience et dépose ses conclusions quinze jours au moins avant
+cette date.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-318 1959-02-23
+
+	**Créé par**:
+
+	  - Décret n°77-194 1977-03-03 art. 2 JORF 5 mars 1977
+
+	**Modifié par**:
+
+	  - Décret n°83-1156 1983-12-23 art. 9 et art. 14 JORF 27 décembre 1983 en vigueur le 1er janvier 1984
+
+
+###### Article R50-19
+
+A l'audience, le magistrat qui a procédé à l'instruction de l'affaire fait son rapport ; le demandeur et l'agent judiciaire
+du Trésor, s'ils sont présents ou représentés, sont ensuite entendus.
+
+Le procureur de la République développe ses conclusions.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-318 1959-02-23
+
+	**Créé par**:
+
+	  - Décret n°77-194 1977-03-03 art. 2 JORF 5 mars 1977
+
+	**Modifié par**:
+
+	  - Décret n°83-1156 1983-12-23 art. 10 et art. 14 JORF 27 décembre 1983 en vigueur le 1er janvier 1984
+
+
 ###### Article R50-20
 
 A l'audience, la commission, lorsqu'elle estime qu'il y a lieu de renvoyer l'affaire à une autre audience, fixe immédiatement
@@ -25205,6 +26047,84 @@ totalité.
 	**Créé par**:
 
 	  - Décret n°77-194 1977-03-03 art. 2 JORF 5 mars 1977
+
+
+###### Article R50-22
+
+La décision de la commission est notifiée sans délai, par lettre recommandée avec demande d'avis de réception, au demandeur
+et à l'agent judiciaire du Trésor.
+
+Si une indemnité est accordée, la décision accompagnée de l'exécutoire établi par le président de la commission est notifiée
+au comptable direct du Trésor du siège du tribunal de grande instance chargé du paiement des frais de justice ou, en ce qui
+concerne les départements du Bas-Rhin, du Haut-Rhin et de la Moselle, au comptable des impôts.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-318 1959-02-23
+
+	**Créé par**:
+
+	  - Décret n°77-194 1977-03-03 art. 2 JORF 5 mars 1977
+
+	**Modifié par**:
+
+	  - Décret n°83-1156 1983-12-23 art. 10 et art. 14 JORF 27 décembre 1983 en vigueur le 1er janvier 1984
+
+	**Cité par**:
+
+	  - CODE DE PROCEDURE PENALE - art. R50-24 (M)
+	  - Code de procédure pénale - art. R284 (V)
+	  - Code de procédure pénale - art. R50-15 (V)
+
+
+###### Article R50-23
+
+Les décisions de la commission et du président de la commission ne peuvent être frappées d'opposition. Elles peuvent être
+l'objet d'un pourvoi en cassation.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-318 1959-02-23
+
+	**Créé par**:
+
+	  - Décret n°77-194 1977-03-03 art. 2 JORF 5 mars 1977
+
+	**Modifié par**:
+
+	  - Décret n°83-1156 1983-12-23 art. 12 et art. 14 JORF 27 décembre 1983 en vigueur le 1er janvier 1984
+
+
+###### Article R50-24
+
+Le paiement de la provision ou de l'indemnité est fait par le comptable mentionné à l'article R. 50-22 ; avis du paiement est
+donné sans délai au président de la commission.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-318 1959-02-23
+
+	**Créé par**:
+
+	  - Décret n°77-194 1977-03-03 art. 2 JORF 5 mars 1977
+
+	**Modifié par**:
+
+	  - Décret n°83-1156 1983-12-23 art. 13 et art. 14 JORF 27 décembre 1983 en vigueur le 1er janvier 1984
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. R50-22 (M)
+
+	**Cité par**:
+
+	  - Code des assurances - art. R422-9 (V)
 
 
 ###### Article R50-25
@@ -25538,6 +26458,817 @@ Dès son retour à la vie civile, il doit se présenter au juge de l'application
 	**Cité par**:
 
 	  - CODE DE PROCEDURE PENALE - art. R61-4 (V)
+
+
+### Titre V : Le travail d'intérêt général
+
+#### Chapitre Ier : Modalités d'habilitation des associations et d'établissement de la liste des travaux d'intérêt général
+
+##### Section 1 : Des modalités d'habilitation des associations
+
+###### Article R61-1
+
+Les associations qui désirent obtenir l'habilitation prévue par l'article 43-3-5 du Code pénal et l'article 747-7 du Code de
+procédure pénale en font la demande au juge de l'application des peines du ressort dans lequel elles envisagent de mettre en
+oeuvre des travaux d'intérêt général.
+
+La demande comporte :
+
+1° La copie du Journal officiel portant publication de la déclaration de l'association ou, pour les associations déclarées
+dans les départements du Bas-Rhin, du Haut-Rhin et de la Moselle, une copie du registre des associations du tribunal
+d'instance ;
+
+2° Un exemplaire des statuts et, s'il y a lieu, du règlement intérieur de l'association ;
+
+3° La liste des établissements de l'association avec indication de leur siège ;
+
+4° Un exposé indiquant les conditions de fonctionnement de l'association et, le cas échéant, l'organisation et les conditions
+de fonctionnement des comités locaux, ainsi que leurs rapports avec l'association ; 
+
+5° La mention des nom, prénoms, date et lieu de naissance, nationalité, profession et domicile des membres du conseil
+d'administration et du bureau de l'association ainsi que, le cas échéant, ceux de leurs représentants locaux ;
+
+6° Les pièces financières qui doivent comprendre les comptes du dernier exercice, le budget de l'exercice courant et un bilan
+ou un état de l'actif mobilier et immobilier et du passif.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-318 1959-02-23
+
+	**Créé par**:
+
+	  - Décret n°83-1163 1983-12-23 art. 1 et art. 2 JORF 27 décembre 1983 en vigueur le 1er janvier 1984
+
+	**Abrogé par**:
+
+	  - Décret n°93-726 1993-03-29 art. 9 JORF 30 mars 1993 en vigueur le 1er mars 1994
+
+	**Cite**:
+
+	  - Code pénal 43-3-5
+	  - CODE DE PROCEDURE PENALE - art. 747-7 (Ab)
+
+	**Cité par**:
+
+	  - CODE DE PROCEDURE PENALE - art. R61-4 (M)
+
+
+###### Article R61-2
+
+Le juge de l'application des peines procède à toutes diligences qu'il juge utiles. Il consulte le conseil départemental de
+prévention de la délinquance prévu par le décret n° 83-459 du 8 juin 1983 qui a trois mois pour donner son avis. Il
+communique ensuite la demande d'habilitation au président du tribunal.
+
+L'assemblée générale des magistrats du siège et du parquet du tribunal statue sur la demande d'habilitation [*compétence*],
+après rapport du juge de l'application des peines et à la majorité des membres présents.
+
+La commission restreinte de l'assemblée générale des magistrats du siège et du parquet, dans les tribunaux où sa constitution
+est obligatoire, exerce les attributions mentionnées à l'alinéa précédent.
+
+L'habilitation accordée est valable pour une durée de trois ans.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-318 1959-02-23
+
+	**Cite**:
+
+	  - Décret n°83-459 1983-06-08
+
+	**Créé par**:
+
+	  - Décret n°83-1163 1983-12-23 art. 1 et art. 2 JORF 27 décembre 1983 en vigueur le 1er janvier 1984
+
+	**Abrogé par**:
+
+	  - Décret n°93-726 1993-03-29 art. 9 JORF 30 mars 1993 en vigueur le 1er mars 1994
+
+	**Cité par**:
+
+	  - CODE DE PROCEDURE PENALE - art. R61-5 (M)
+
+
+###### Article R61-3
+
+En cas d'urgence ou à titre probatoire, le juge de l'application des peines peut, sur proposition ou après avis conforme du
+procureur de la République, habiliter provisoirement l'association.
+
+L'habilitation provisoire accordée en raison de l'urgence est valable jusqu'à la décision de la prochaine assemblée générale
+ou commission restreinte. Celle accordée à titre probatoire est valable pour une durée non renouvelable qui est fixée par le
+juge de l'application des peines dans la limite d'un an.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-318 1959-02-23
+
+	**Créé par**:
+
+	  - Décret n°83-1163 1983-12-23 art. 1 et art. 2 JORF 27 décembre 1983 en vigueur le 1er janvier 1984
+
+	**Abrogé par**:
+
+	  - Décret n°93-726 1993-03-29 art. 9 JORF 30 mars 1993 en vigueur le 1er mars 1994
+
+	**Cité par**:
+
+	  - Code de procédure pénale - art. R61-4 (V)
+
+
+###### Article R61-4
+
+L'association habilitée porte à la connaissance du juge de l'application des peines toute modification de l'un des éléments
+mentionnés à l'article R. 61-1. Elle est tenue de faire parvenir chaque année le budget et ses comptes.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-318 1959-02-23
+
+	**Créé par**:
+
+	  - Décret n°83-1163 1983-12-23 art. 1 et art. 2 JORF 27 décembre 1983 en vigueur le 1er janvier 1984
+
+	**Abrogé par**:
+
+	  - Décret n°93-726 1993-03-29 art. 9 JORF 30 mars 1993 en vigueur le 1er mars 1994
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. R61-1 (M)
+
+
+###### Article R61-5
+
+L'habilitation peut être retirée selon la procédure prévue par l'article R. 61-2.
+
+Le procureur de la République peut saisir l'assemblée générale des magistrats du siège et du parquet du tribunal ou la
+commission restreinte aux fins de retrait de l'habilitation.
+
+En cas d'urgence, le juge de l'application des peines peut, sur proposition ou après avis conforme du procureur de la
+République, retirer provisoirement l'habilitation jusqu'à la décision de la prochaine assemblée générale ou commission
+restreinte.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-318 1959-02-23
+
+	**Créé par**:
+
+	  - Décret n°83-1163 1983-12-23 art. 1 et art. 2 JORF 27 décembre 1983 en vigueur le 1er janvier 1984
+
+	**Abrogé par**:
+
+	  - Décret n°93-726 1993-03-29 art. 9 JORF 30 mars 1993 en vigueur le 1er mars 1994
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. R61-2 (M)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. R355-55 (Ab)
+	  - Code de la santé publique - art. R3711-24 (V)
+
+
+##### Section 2 : De l'établissement de la liste des travaux d'intérêt général
+
+###### Article R61-6
+
+Les collectivités publiques, les établissements publics et les associations qui désirent faire inscrire des travaux d'intérêt
+général sur la liste prévue par les articles 43-3-5 du Code pénal et 747-7 du Code de procédure pénale en font la demande au
+juge de l'application des peines du ressort dans lequel ils envisagent de faire exécuter ces travaux.
+
+Pour les collectivités publiques et les établissements publics, la demande mentionne les nom, prénoms, date et lieu de
+naissance ainsi que les fonctions des représentants qualifiés.
+
+Pour les associations qui ne sont pas encore habilitées, la demande prévue par l'alinéa 1er du présent article est jointe à
+la demande d'habilitation. Pour les associations déjà habilitées, elle comporte mention de la date de cette habilitation.
+
+A la demande est annexée une note indiquant la nature et les modalités d'exécution des travaux proposés, les nom et qualité
+des personnes chargées de l'encadrement technique ainsi que le nombre de postes de travail susceptibles d'être offerts.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-318 1959-02-23
+
+	**Créé par**:
+
+	  - Décret n°83-1163 1983-12-23 art. 1 et art. 2 JORF 27 décembre 1983 en vigueur le 1er janvier 1984
+
+	**Abrogé par**:
+
+	  - Décret n°93-726 1993-03-29 art. 9 JORF 30 mars 1993 en vigueur le 1er mars 1994
+
+	**Cite**:
+
+	  - Code pénal 43-3-5
+	  - CODE DE PROCEDURE PENALE - art. 747-7 (Ab)
+
+
+###### Article R61-7
+
+Le juge de l'application des peines procède à toutes diligences et consultations utiles. A cette fin, il adresse copie de la
+demande au conseil départemental de prévention de la délinquance.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-318 1959-02-23
+
+	**Créé par**:
+
+	  - Décret n°83-1163 1983-12-23 art. 1 et art. 2 JORF 27 décembre 1983 en vigueur le 1er janvier 1984
+
+	**Abrogé par**:
+
+	  - Décret n°93-726 1993-03-29 art. 9 JORF 30 mars 1993 en vigueur le 1er mars 1994
+
+	**Cité par**:
+
+	  - Arrêté du 23 août 2007 - art. 1 (Ab)
+	  - Code de procédure pénale - art. A37-16 (V)
+	  - Code de procédure pénale - art. A37-30 (T)
+	  - Code de procédure pénale - art. A37-34 (V)
+	  - Code de procédure pénale - art. D527-1 (V)
+
+
+###### Article R61-8
+
+Après que le procureur de la République a donné son avis ou dix jours au plus tôt après l'avoir saisi, le juge de
+l'application des peines prend sa décision en tenant compte de l'utilité sociale des travaux proposés et des perspectives
+d'insertion sociale ou professionnelle qu'ils offrent aux condamnés.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-318 1959-02-23
+
+	**Créé par**:
+
+	  - Décret n°83-1163 1983-12-23 art. 1 et art. 2 JORF 27 décembre 1983 en vigueur le 1er janvier 1984
+
+	**Abrogé par**:
+
+	  - Décret n°93-726 1993-03-29 art. 9 JORF 30 mars 1993 en vigueur le 1er mars 1994
+
+	**Cité par**:
+
+	  - CODE DE PROCEDURE PENALE - art. R61-9 (Ab)
+	  - Code de procédure pénale - art. D48-5-2 (V)
+	  - Code de procédure pénale - art. D527-1 (V)
+	  - Code de procédure pénale - art. R61-11 (V)
+
+
+###### Article R61-9
+
+La radiation d'un travail inscrit sur la liste peut être prononcée selon la procédure prévue par l'article R. 61-8.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-318 1959-02-23
+
+	**Créé par**:
+
+	  - Décret n°83-1163 1983-12-23 art. 1 et art. 2 JORF 27 décembre 1983 en vigueur le 1er janvier 1984
+
+	**Abrogé par**:
+
+	  - Décret n°93-726 1993-03-29 art. 9 JORF 30 mars 1993 en vigueur le 1er mars 1994
+
+	**Cité par**:
+
+	  - CODE DE PROCEDURE PENALE - art. R61-35 (V)
+	  - Code de procédure pénale - art. R61-33 (V)
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. R61-8 (Ab)
+
+
+##### Section 3 : Disposition diverses
+
+###### Article R61-10
+
+Les décisions relatives à l'habilitation provisoire des associations et à l'établissement de las liste des travaux d'intérêt
+général sont communiquées au président du tribunal de grande instance et au procureur de la République.
+
+Toutes les décisions relatives à l'habilitation ou au retrait d'habilitation des associations sont protées à la connaissance
+du garde des sceaux et du commissaire de la République par le juge de l'application des peines.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-318 1959-02-23
+
+	**Créé par**:
+
+	  - Décret n°83-1163 1983-12-23 art. 1 et art. 2 JORF 27 décembre 1983 en vigueur le 1er janvier 1984
+
+	**Abrogé par**:
+
+	  - Décret n°93-726 1993-03-29 art. 9 JORF 30 mars 1993 en vigueur le 1er mars 1994
+
+	**Cité par**:
+
+	  - CODE DE PROCEDURE PENALE - art. R61-35 (V)
+
+
+##### Section 3 : Dispositions diverses
+
+###### Article R61-11
+
+Les organismes mettant en oeuvre des travaux d'intérêt général adressent chaque année un rapport au juge de l'application des
+peines.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-318 1959-02-23
+
+	**Créé par**:
+
+	  - Décret n°83-1163 1983-12-23 art. 1 et art. 2 JORF 27 décembre 1983 en vigueur le 1er janvier 1984
+
+	**Abrogé par**:
+
+	  - Décret n°93-726 1993-03-29 art. 9 JORF 30 mars 1993 en vigueur le 1er mars 1994
+
+	**Cité par**:
+
+	  - CODE DE PROCEDURE PENALE - art. R61-34 (V)
+	  - CODE DE PROCEDURE PENALE - art. R61-35 (V)
+
+
+#### Chapitre II : De l'exécution du travail d'intérêt général
+
+##### Section 1 : De la décision du juge de l'application des peines fixant les modalités d'exécution du travail d'intérêt général
+
+###### Article R61-13
+
+La décision prise en application de l'article R. 61-12 peut être modifiée à tout moment.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-318 1959-02-23
+
+	**Créé par**:
+
+	  - Décret n°83-1163 1983-12-23 art. 1 et art. 2 JORF 27 décembre 1983 en vigueur le 1er janvier 1984
+
+	**Abrogé par**:
+
+	  - Décret n°93-726 1993-03-29 art. 9 JORF 30 mars 1993 en vigueur le 1er mars 1994
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. R61-12 (Ab)
+
+
+###### Article R61-14
+
+Le juge de l'application des peines choisit un travail d'intérêt général parmi ceux inscrits sur la liste de son ressort ou,
+avec l'accord du juge de l'application des peines territorialement compétent, sur la liste d'un autre ressort.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-318 1959-02-23
+
+	**Créé par**:
+
+	  - Décret n°83-1163 1983-12-23 art. 1 et art. 2 JORF 27 décembre 1983 en vigueur le 1er janvier 1984
+
+	**Abrogé par**:
+
+	  - Décret n°93-726 1993-03-29 art. 9 JORF 30 mars 1993 en vigueur le 1er mars 1994
+
+	**Cité par**:
+
+	  - Décret n°2012-268 du 24 février 2012 - art. 3 (V)
+
+
+###### Article R61-15
+
+Lorsqu'un condamné exerce une activité salariée, la durée hebdomadaire cumulée de cette activité et du travail d'intérêt
+général ne peut excéder de plus de douze heures la durée légale du travail.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-318 1959-02-23
+
+	**Créé par**:
+
+	  - Décret n°83-1163 1983-12-23 art. 1 et art. 2 JORF 27 décembre 1983 en vigueur le 1er janvier 1984
+
+	**Abrogé par**:
+
+	  - Décret n°93-726 1993-03-29 art. 9 JORF 30 mars 1993 en vigueur le 1er mars 1994
+
+
+###### Article R61-16
+
+La durée du travail d'intérêt général n'inclut pas les délais de route et le temps des repas.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-318 1959-02-23
+
+	**Créé par**:
+
+	  - Décret n°83-1163 1983-12-23 art. 1 et art. 2 JORF 27 décembre 1983 en vigueur le 1er janvier 1984
+
+	**Abrogé par**:
+
+	  - Décret n°93-726 1993-03-29 art. 9 JORF 30 mars 1993 en vigueur le 1er mars 1994
+
+
+###### Article R61-17
+
+Le juge de l'application des peines notifie sa décision au condamné et à l'organisme au profit duquel le travail d'intérêt
+général sera accompli. Il en donne avis au procureur de la République.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-318 1959-02-23
+
+	**Créé par**:
+
+	  - Décret n°83-1163 1983-12-23 art. 1 et art. 2 JORF 27 décembre 1983 en vigueur le 1er janvier 1984
+
+	**Abrogé par**:
+
+	  - Décret n°93-726 1993-03-29 art. 9 JORF 30 mars 1993 en vigueur le 1er mars 1994
+
+	**Cité par**:
+
+	  - Code de procédure pénale - art. R61-13 (V)
+
+
+###### Article R61-18
+
+Avant d'exécuter sa peine, le condamné se soumet à un examen médical qui a pour but :
+
+1° De rechercher s'il n'est pas atteint d'une affection dangereuse pour les autres travailleurs ;
+
+2° De s'assurer qu'il est médicalement apte au travail auquel le juge de l'application des peines entend l'affecter.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-318 1959-02-23
+
+	**Créé par**:
+
+	  - Décret n°83-1163 1983-12-23 art. 1 et art. 2 JORF 27 décembre 1983 en vigueur le 1er janvier 1984
+
+	**Abrogé par**:
+
+	  - Décret n°93-726 1993-03-29 art. 9 JORF 30 mars 1993 en vigueur le 1er mars 1994
+
+	**Cité par**:
+
+	  - CODE DE PROCEDURE PENALE - art. R61-19 (Ab)
+	  - CODE DE PROCEDURE PENALE - art. R61-31 (Ab)
+	  - Code de procédure pénale - art. R61-27 (V)
+
+
+##### Section 2 : Des mesures de contrôle du condamné au travail d'intérêt général
+
+###### Article R61-19
+
+Le condamné au travail d'intérêt général doit se soumettre aux mesures de contrôle suivantes [*obligation*] :
+
+1° Répondre aux convocations du juge de l'application des peines ou de l'agent de probation désigné ;
+
+2° Se soumettre à l'examen médical prévu par l'article R. 61-18 ;
+
+3° Justifier des motifs de ses changements d'emploi ou de résidence qui font obstacle à l'exécution du travail d'intérêt
+général selon les modalités fixées ;
+
+4° Obtenir l'autorisation préalable du juge de l'application des peines pour tout déplacement qui ferait obstacle à
+l'exécution du travail d'intérêt général selon les modalités fixées ;
+
+5° Recevoir les visites de l'agent de probation et lui communiquer tous documents ou renseignements relatifs à l'exécution de
+la peine.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-318 1959-02-23
+
+	**Créé par**:
+
+	  - Décret n°83-1163 1983-12-23 art. 1 et art. 2 JORF 27 décembre 1983 en vigueur le 1er janvier 1984
+
+	**Abrogé par**:
+
+	  - Décret n°93-726 1993-03-29 art. 9 JORF 30 mars 1993 en vigueur le 1er mars 1994
+
+	**Cité par**:
+
+	  - Décret n°2012-268 du 24 février 2012 - art. 4 (V)
+	  - Code de procédure pénale - art. R61-13 (V)
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. R61-18 (Ab)
+
+
+###### Article R61-22
+
+Pour chaque condamné, l'organisme au profit duquel le travail d'intérêt général est effectué fait connaître au juge de
+l'application des peines ou à l'agent de probation le responsable désigné pour assurer la direction et le contrôle techniques
+du travail.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-318 1959-02-23
+
+	**Créé par**:
+
+	  - Décret n°83-1163 1983-12-23 art. 1 et art. 2 JORF 27 décembre 1983 en vigueur le 1er janvier 1984
+
+	**Abrogé par**:
+
+	  - Décret n°93-726 1993-03-29 art. 9 JORF 30 mars 1993 en vigueur le 1er mars 1994
+
+	**Cité par**:
+
+	  - CODE DE PROCEDURE PENALE - art. R53-8-50 (V)
+	  - CODE DE PROCEDURE PENALE - art. R53-8-70 (V)
+	  - CODE DE PROCEDURE PENALE - art. R61-24 (V)
+	  - Code de procédure pénale - art. D32-4 (V)
+	  - Code de procédure pénale - art. D32-6 (V)
+	  - Code de procédure pénale - art. R61-23 (V)
+	  - Code de procédure pénale - art. R61-27 (V)
+
+
+###### Article R61-23
+
+Le juge de l'application des peines ou l'agent de probation s'assure de l'exécution du travail auprès du responsable désigné.
+Il visite, le cas échéant, le condamné sur son lieu de travail.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-318 1959-02-23
+
+	**Créé par**:
+
+	  - Décret n°83-1163 1983-12-23 art. 1 et art. 2 JORF 27 décembre 1983 en vigueur le 1er janvier 1984
+
+	**Abrogé par**:
+
+	  - Décret n°93-726 1993-03-29 art. 9 JORF 30 mars 1993 en vigueur le 1er mars 1994
+
+
+###### Article R61-24
+
+Le responsable désigné informe sans délai le juge de l'application des peines ou l'agent de probation de toute violation de
+l'obligation de travail et de tout incident causé ou subi par le condamné à l'occasion de l'exécution de sa tâche.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-318 1959-02-23
+
+	**Créé par**:
+
+	  - Décret n°83-1163 1983-12-23 art. 1 et art. 2 JORF 27 décembre 1983 en vigueur le 1er janvier 1984
+
+	**Abrogé par**:
+
+	  - Décret n°93-726 1993-03-29 art. 9 JORF 30 mars 1993 en vigueur le 1er mars 1994
+
+
+###### Article R61-25
+
+En cas de danger immédiat pour le condamné ou pour autrui ou en cas de faute grave du condamné, le responsable désigné peut
+suspendre l'exécution du travail. Il en donne sans délai avis au juge de l'application des peines ou à l'agent de probation.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-318 1959-02-23
+
+	**Créé par**:
+
+	  - Décret n°83-1163 1983-12-23 art. 1 et art. 2 JORF 27 décembre 1983 en vigueur le 1er janvier 1984
+
+	**Abrogé par**:
+
+	  - Décret n°93-726 1993-03-29 art. 9 JORF 30 mars 1993 en vigueur le 1er mars 1994
+
+
+###### Article R61-26
+
+L'organisme au profit duquel le travail d'intérêt général a été accompli délivre au juge de l'application des peines ou à
+l'agent de probation ainsi qu'au cOndamné un document attestant que ce travail a été exécuté.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-318 1959-02-23
+
+	**Créé par**:
+
+	  - Décret n°83-1163 1983-12-23 art. 1 et art. 2 JORF 27 décembre 1983 en vigueur le 1er janvier 1984
+
+	**Abrogé par**:
+
+	  - Décret n°93-726 1993-03-29 art. 9 JORF 30 mars 1993 en vigueur le 1er mars 1994
+
+
+#### Chapitre III : Dispositions applicables aux condamnations prononcées par les juridictions pour mineurs.
+
+###### Article R61-27
+
+Lorsque la condamnation à un travail d'intérêt général ou à une peine d'emprisonnement avec sursis assorti de l'obligation
+d'accomplir un travail d'intérêt général est prononcée par une juridiction pour mineurs, les attributions du juge de
+l'application des peines sont dévolues au juge des enfants. Les dispositions des sarticles R. 61-1 à R. 61-18 et R. 61-20 à
+R. 61-26 sont applicables sous réserve des dispositions particulières édictées par les articles R. 61-28 à R. 61-32.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-318 1959-02-23
+
+	**Créé par**:
+
+	  - Décret n°83-1163 1983-12-23 art. 1 et art. 2 JORF 27 décembre 1983 en vigueur le 1er janvier 1984
+
+	**Abrogé par**:
+
+	  - Décret n°93-726 1993-03-29 art. 9 JORF 30 mars 1993 en vigueur le 1er mars 1994
+
+	**Cité par**:
+
+	  - Code de procédure pénale - art. D147-42 (V)
+	  - Code de procédure pénale - art. D539 (V)
+
+	**Cite**:
+
+	  - Code de procédure pénale R61-1 à R61-18, R61-20 à R61-26, R61-28 à R61-32
+
+
+###### Article R61-28
+
+Pour l'habilitation des associations désirant mettre en oeuvre des travaux d'intérêt général spécifiquement adaptés aux
+mineurs, le juge des enfants, avant de communiquer la demande au président du tribunal, saisit le directeur départemental de
+la protection judiciaire de la jeunesse. Celui-ci fait connaître par écrit son avis sur les garanties offertes par
+l'association.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-318 1959-02-23
+
+	**Créé par**:
+
+	  - Décret n°83-1163 1983-12-23 art. 1 et art. 2 JORF 27 décembre 1983 en vigueur le 1er janvier 1984
+
+	**Modifié par**:
+
+	  - Décret n°90-166 du 21 février 1990 - art. 4 (V)
+
+
+###### Article R61-29
+
+Pour l'inscription sur la liste, prévue par les articles 43-3-5 du Code pénal et 747-7 du Code de procédure pénale, des
+travaux d'intérêt général applicables aux mineurs, le juge des enfants recueille l'avis du directeur départemental de
+l'éducation surveillée et prend sa décision en tenant compte du caractère formateur du travail proposé ou de son apport à
+l'insertion sociale des jeunes condamnés.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-318 1959-02-23
+
+	**Créé par**:
+
+	  - Décret n°83-1163 1983-12-23 art. 1 et art. 2 JORF 27 décembre 1983 en vigueur le 1er janvier 1984
+
+	**Abrogé par**:
+
+	  - Décret n°93-726 1993-03-29 art. 9 JORF 30 mars 1993 en vigueur le 1er mars 1994
+
+	**Cite**:
+
+	  - Code pénal 43-3-5
+	  - CODE DE PROCEDURE PENALE - art. 747-7 (Ab)
+
+
+###### Article R61-30
+
+La décision du juge des enfants fixant les modalités d'exécution du travail d'intérêt général est notifiée au condamné mineur
+et à ses parents tuteurs ou gardiens ; avis en est donné au procureur de la République.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-318 1959-02-23
+
+	**Créé par**:
+
+	  - Décret n°83-1163 1983-12-23 art. 1 et art. 2 JORF 27 décembre 1983 en vigueur le 1er janvier 1984
+
+	**Abrogé par**:
+
+	  - Décret n°93-726 1993-03-29 art. 9 JORF 30 mars 1993 en vigueur le 1er mars 1994
+
+
+###### Article R61-31
+
+Le jeune condamné au travail d'intérêt général doit se soumettre aux mesures de contrôles suivantes.
+
+1° Répondre aux convocations du juge des enfants ;
+
+2° Se soumettre à l'examen médical prévu par l'article R. 61-18 ;
+
+3° Informer le juge des enfants de tout changement d'emploi ou de résidence ou de tout déplacement qui ferait obstacle à
+l'exécution de travaux d'intérêt général selon les modalités fixées.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-318 1959-02-23
+
+	**Créé par**:
+
+	  - Décret n°83-1163 1983-12-23 art. 1 et art. 2 JORF 27 décembre 1983 en vigueur le 1er janvier 1984
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. R61-18 (Ab)
+
+
+###### Article R61-32
+
+Le juge des enfants s'assure de l'exécution du travail d'intérêt général.
+
+Il peut demander à un éducateur ou à une structure éducative de l'éducation surveillée d'apprécier si le travail effectué
+conserve son caractère formateur ou de nature à permettre l'insertion sociale du jeune condamné et s'il demeure adapté à la
+personnalité de celui-ci.
+
+Lorsque le mineur est condamné à une peine d'emprisonnement avec sursis assortie de l'obligation d'accomplir un travail
+d'intérêt général, le juge des enfants peut faire application des dispositions de l'article R. 60.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-318 1959-02-23
+
+	**Créé par**:
+
+	  - Décret n°83-1163 1983-12-23 art. 1 et art. 2 JORF 27 décembre 1983 en vigueur le 1er janvier 1984
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. R60 (M)
+
+	**Cité par**:
+
+	  - CODE DE PROCEDURE PENALE - art. R61-31 (Ab)
 
 
 ### Titre VIII : Du casier judiciaire
