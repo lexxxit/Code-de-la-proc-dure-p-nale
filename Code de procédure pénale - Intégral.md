@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 1972-06-30
+Version Consolidée au 1972-07-09
 
 # Partie législative
 
@@ -4187,7 +4187,53 @@ détention provisoire.
 
 ### Titre Ier : De la cour d'assises
 
+#### Chapitre Ier : De la compétence de la cour d'assises
+
+###### Article 231
+
+La cour d'assises a plénitude de juridiction pour juger les individus renvoyés devant elle par l'arrêt de mise en accusation.
+
+Elle ne peut connaître d'aucune autre accusation.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Ordonnance n°45-174 du 2 février 1945 - art. 20 (V)
+
+	**Codifié par**:
+
+	  - Ordonnance 58-1296 1958-12-23
+
+	**Modifié par**:
+
+	  - Loi n°72-625 1972-07-05 art. 3 JORF 9 juillet 1972
+
+
 #### Chapitre II : De la tenue des assises
+
+###### Article 232
+
+Il est tenu des assises à Paris et dans chaque département.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 58-1296 1958-12-23
+
+	**Modifié par**:
+
+	  - Loi n°72-625 1972-07-05 art. 3 JORF 9 juillet 1972
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L621-1 (Ab)
+
+	**Cité par**:
+
+	  - Code de procédure pénale - art. 877 (V)
+
 
 ###### Article 233
 
@@ -17694,6 +17740,95 @@ Le même droit appartient à la partie civile et aux personnes civilement respon
 	  - Code de procédure pénale - art. 279 (V)
 
 
+###### Article R155
+
+En matière criminelle, correctionnelle ou de police, et sans préjudice, le cas échéant, de l'application des dispositions des
+articles 91 et D. 32, il peut être délivré aux parties et à leurs frais :
+
+1° Sur leur demande, expédition de la plainte ou de la dénonciation des ordonnances définitives, des arrêts, des jugements,
+des ordonnances pénales et des titres exécutoires prévus à l'article L. 27-I, alinéa 2, du Code de la route ;
+
+2° Avec l'autorisation du procureur de la République ou du procureur général selon le cas, expédition de toutes les autres
+pièces de la procédure, notamment, en ce qui concerne les pièces d'une enquête terminée par une décision de classement sans
+suite.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-318 1959-02-23
+
+	**Créé par**:
+
+	  - Décret n°59-318 1959-02-23 JORF 25 février 1959 en vigueur le 2 mars 1959 rectificatif JORF 13 juin 1959
+
+	**Modifié par**:
+
+	  - Décret n°72-630 1972-07-04 art. 1 JORF 9 juillet 1972
+
+	**Cité par**:
+
+	  - Décret n°75-177 du 12 mars 1975 - art. 8 (Ab)
+	  - CODE DE PROCEDURE PENALE - art. R156 (V)
+	  - Code de l'environnement - art. R211-19 (V)
+	  - Code de la sécurité sociale. - art. D412-56 (V)
+	  - Code de procédure pénale - art. D47-16 (V)
+	  - Code de procédure pénale - art. D591 (V)
+	  - Code de procédure pénale - art. R57-6-1 (V)
+
+	**Liens**:
+
+	  - TXT_SOURCE: CODE DE PROCEDURE PENALE - art. 800 (M)
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. 91 (M)
+	  - CODE DE PROCEDURE PENALE - art. D32 (M)
+	  - Code de la route L27-I al. 2
+
+
+###### Article R156
+
+En matière criminelle, correctionnelle ou de police, aucune expédition autre que celle des arrêts, jugements, ordonnances
+pénales définitifs et titres exécutoires ne peut être délivrée à un tiers sans une autorisation du procureur de la République
+ou du procureur général, selon le cas, notamment en ce qui concerne les pièces d'une enquête terminée par une décision de
+classement sans suite.
+
+Toutefois, dans les cas prévus au présent article et à l'article précédent, l'autorisation doit être donnée par le procureur
+général lorsqu'il s'agit de pièces déposées au greffe de la cour ou faisant partie d'une procédure close par une décision de
+non-lieu ou d'une affaire dans laquelle le huis clos a été ordonné.
+
+Dans les cas prévus au présent article et à l'article précédent si l'autorisation n'est pas accordée, le magistrat compétent
+pour la donner doit notifier sa décision en la forme administrative et faire connaître les motifs du refus.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-318 1959-02-23
+
+	**Créé par**:
+
+	  - Décret n°59-318 1959-02-23 JORF 25 février 1959 en vigueur le 2 mars 1959 rectificatif JORF 13 juin 1959
+
+	**Modifié par**:
+
+	  - Décret n°72-630 1972-07-04 art. 2 JORF 9 juillet 1972
+
+	**Cité par**:
+
+	  - Décret n°2001-583 du 5 juillet 2001 - art. 6 (M)
+	  - Décret n°2001-751 du 27 août 2001 - art. 4 (V)
+
+	**Liens**:
+
+	  - TXT_SOURCE: CODE DE PROCEDURE PENALE - art. 800 (M)
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. R155 (M)
+
+
 ###### Article R157
 
 Toutes les fois qu'une procédure en matière criminelle, correctionnelle ou de police est transmise à quelque cour ou tribunal
@@ -17743,6 +17878,30 @@ sans frais, ainsi qu'il est prescrit à l'article 586.
 	**Cite**:
 
 	  - Code de procédure pénale - art. 586 (V)
+
+
+###### Article R159
+
+Sont seuls expédiés dans la forme exécutoire les arrêts, jugements, ordonnances pénales et ordonnances de justice que les
+parties ou le ministère public demandent dans cette forme.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-318 1959-02-23
+
+	**Créé par**:
+
+	  - Décret n°59-318 1959-02-23 JORF 25 février 1959 en vigueur le 2 mars 1959 rectificatif JORF 13 juin 1959
+
+	**Modifié par**:
+
+	  - Décret n°72-630 1972-07-04 art. 3 JORF 9 juillet 1972
+
+	**Liens**:
+
+	  - TXT_SOURCE: CODE DE PROCEDURE PENALE - art. 800 (M)
 
 
 ###### Article R160
