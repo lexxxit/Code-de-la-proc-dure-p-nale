@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 1959-03-02
+Version Consolidée au 1960-02-17
 
 # Partie législative
 
@@ -14909,6 +14909,44 @@ d'enregistrement.
 	**Abrogé par**:
 
 	  - Décret n°74-1184 du 31 décembre 1974 - art. 40 (Ab) JORF 5 janvier 1975 rectificatif JORF 14 janvier 1975
+
+
+#### Chapitre II : De la chambre d'accusation : juridiction d'instruction du second degré
+
+##### Section 1 : Dispositions générales
+
+###### Article D43
+
+Dans les cours d'appel comportant quatre chambres au plus, non compris les chambres détachées, et jusqu'à ce qu'il puisse en
+être autrement disposé, le président de la chambre d'accusation peut, en cas de nécessité, assurer à titre exceptionnel le
+service d'une autre chambre de la même cour, conformément aux dispositions de l'article 191, alinéa 4.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°58-1304 1958-12-23
+
+	**Cité par**:
+
+	  - Décret n°2007-699 du 3 mai 2007 - art. 14 (V)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R612-1 (Ab)
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R612-1 (V)
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. 191 (M)
+
+	**Liens**:
+
+	  - TXT_SOURCE: CODE DE PROCEDURE PENALE - art. 191 (M)
+
+	**Modifié par**:
+
+	  - Décret n°60-134 1960-02-02 art. 1 JORF 17 février 1960
 
 
 #### Chapitre II : De la chambre de l'instruction : juridiction d'instruction du second degré
