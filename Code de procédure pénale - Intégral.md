@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 1997-11-08
+Version Consolidée au 1997-12-20
 
 # Partie législative
 
@@ -28193,6 +28193,8 @@ accordées aux personnes mises en examen, prévenus et accusés pour l'exercice 
 
 #### Chapitre II : De l'exécution des peines privatives de liberté
 
+##### Section 1 : Dispositions générales
+
 ###### Article 716-1
 
 La peine d'un jour d'emprisonnement est de vingt-quatre heures. Celle d'un mois est de trente jours. Celle de plus d'un mois
@@ -28204,9 +28206,9 @@ se calcule de quantième en quantième.
 
 	  - Ordonnance 58-1296 1958-12-23
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°92-1336 du 16 décembre 1992 - art. 81 () JORF 23 décembre 1992 en vigueur le 1er mars 1994
+	  - Loi n°97-1159 du 19 décembre 1997 - art. 1 () JORF 20 décembre 1997
 
 
 ###### Article 716-2
@@ -28220,9 +28222,9 @@ définitive.
 
 	  - Ordonnance 58-1296 1958-12-23
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°92-1336 du 16 décembre 1992 - art. 81 () JORF 23 décembre 1992 en vigueur le 1er mars 1994
+	  - Loi n°97-1159 du 19 décembre 1997 - art. 1 () JORF 20 décembre 1997
 
 
 ###### Article 716-3
@@ -28236,9 +28238,9 @@ précédent.
 
 	  - Ordonnance 58-1296 1958-12-23
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°92-1336 du 16 décembre 1992 - art. 81 () JORF 23 décembre 1992 en vigueur le 1er mars 1994
+	  - Loi n°97-1159 du 19 décembre 1997 - art. 1 () JORF 20 décembre 1997
 
 
 ###### Article 716-4
@@ -28256,9 +28258,9 @@ application des articles 741-2 et 741-3.
 
 	  - Ordonnance 58-1296 1958-12-23
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°92-1336 du 16 décembre 1992 - art. 81 () JORF 23 décembre 1992 en vigueur le 1er mars 1994
+	  - Loi n°97-1159 du 19 décembre 1997 - art. 1 () JORF 20 décembre 1997
 
 	**Cite**:
 
@@ -28304,7 +28306,7 @@ d'une durée inférieure à un an.
 
 	**Modifié par**:
 
-	  - Loi n°95-125 du 8 février 1995 - art. 60 () JORF 9 février 1995
+	  - Loi n°97-1159 du 19 décembre 1997 - art. 1 () JORF 20 décembre 1997
 
 
 ###### Article 718
@@ -28330,7 +28332,11 @@ permettant d'assurer un suivi médical et psychologique adapté.
 
 	**Modifié par**:
 
-	  - Loi n°94-89 du 1 février 1994 - art. 7 () JORF 2 février 1994 en vigueur le 1er mars 1994
+	  - Loi n°97-1159 du 19 décembre 1997 - art. 1 () JORF 20 décembre 1997
+
+	**Transféré par**:
+
+	  - Loi n°2004-204 du 9 mars 2004 - art. 168 () JORF 10 mars 2004 en vigueur le 1er janvier 2005
 
 	**Cite**:
 
@@ -28345,6 +28351,7 @@ permettant d'assurer un suivi médical et psychologique adapté.
 
 	**Nouveaux textes**:
 
+	  - CODE DE PROCEDURE PENALE - art. 717-1 (M)
 	  - CODE DE PROCEDURE PENALE - art. 717-1 (V)
 
 	**Anciens textes**:
@@ -28367,10 +28374,6 @@ encombrement temporaire ou des nécessités d'organisation du travail.
 
 	  - Ordonnance 58-1296 1958-12-23
 
-	**Modifié par**:
-
-	  - Loi n°87-432 du 22 juin 1987 - art. 5
-
 	**Cité par**:
 
 	  - Loi n°88-82 du 22 janvier 1988 - art. 145 (V)
@@ -28380,6 +28383,14 @@ encombrement temporaire ou des nécessités d'organisation du travail.
 	  - Code de l'entrée et du séjour des étrangers et ... - art. R221-4 (V)
 	  - Code de l'entrée et du séjour des étrangers et ... - art. R553-15 (V)
 	  - Code de procédure pénale - art. D522 (VD)
+
+	**Modifié par**:
+
+	  - Loi n°97-1159 du 19 décembre 1997 - art. 1 () JORF 20 décembre 1997
+
+	**Transféré par**:
+
+	  - Loi n°2004-204 du 9 mars 2004 - art. 168 () JORF 10 mars 2004 en vigueur le 1er janvier 2005
 
 	**Nouveaux textes**:
 
@@ -28396,8 +28407,10 @@ Les activités de travail et de formation professionnelle sont prises en compte 
 et de bonne conduite des condamnés.
 
 Au sein des établissements pénitentiaires, toutes dispositions sont prises pour assurer une activité professionnelle aux
-personnes incarcérées qui le souhaitent. Les relations de travail des personnes incarcérées ne font pas l'objet d'un contrat
-de travail. Il peut être dérogé à cette règle pour les activités exercées à l'extérieur des établissements pénitentiaires.
+personnes incarcérées qui le souhaitent.
+
+Les relations de travail des personnes incarcérées ne font pas l'objet d'un contrat de travail. Il peut être dérogé à cette
+règle pour les activités exercées à l'extérieur des établissements pénitentiaires.
 
 Les règles relatives à la répartition des produits du travail des détenus sont fixées par décret.
 
@@ -28421,12 +28434,14 @@ Les règles relatives à la répartition des produits du travail des détenus so
 
 	**Modifié par**:
 
-	  - Loi n°90-9 du 2 janvier 1990 - art. 9 () JORF 4 janvier 1990
+	  - Loi n°97-1159 du 19 décembre 1997 - art. 1 () JORF 20 décembre 1997
 
 	**Nouveaux textes**:
 
 	  - CODE DE PROCEDURE PENALE - art. 717-3 (V)
 
+
+##### Section 2 : De la suspension et du fractionnement des peines privatives de liberté
 
 ###### Article 720-1
 
@@ -28449,7 +28464,7 @@ l'article 132-27 du code pénal, cette décision peut être modifiée dans les c
 
 	**Modifié par**:
 
-	  - Loi n°92-1336 du 16 décembre 1992 - art. 82 () JORF 23 décembre 1992 en vigueur le 1er mars 1994
+	  - Loi n°97-1159 du 19 décembre 1997 - art. 1 () JORF 20 décembre 1997
 
 	**Cite**:
 
@@ -28464,11 +28479,13 @@ l'article 132-27 du code pénal, cette décision peut être modifiée dans les c
 	  - Code de procédure pénale - art. D340 (Ab)
 
 
+##### Section 3 : De la période de sûreté
+
 ###### Article 720-2
 
 Les dispositions concernant la suspension ou le fractionnement de la peine, le placement à l'extérieur, les permissions de
 sortir, la semi-liberté et la libération conditionnelle ne sont pas applicables pendant la durée de la période de sûreté
-prévue à l'article 132-23 du code pénal.
+prévue à l'article 132-23 du code pénal. 
 
 Sauf s'il en est décidé autrement par le décret de grâce, la commutation ou la remise d'une peine privative de liberté
 assortie d'une période de sûreté entraîne de plein droit le maintien de cette période pour une durée globale qui correspond à
@@ -28483,11 +28500,11 @@ sûreté attachée à la peine prononcée.
 
 	**Modifié par**:
 
-	  - Loi n°92-1336 du 16 décembre 1992 - art. 83 () JORF 23 décembre 1992 en vigueur le 1er mars 1994
+	  - Loi n°97-1159 du 19 décembre 1997 - art. 1 () JORF 20 décembre 1997
 
 	**Cite**:
 
-	  - Code pénal - art. 132-23 (M)
+	  - Code pénal - art. 132-23 (V)
 
 	**Cité par**:
 
@@ -28500,14 +28517,14 @@ sûreté attachée à la peine prononcée.
 
 ###### Article 720-4
 
-Lorsque le condamné présente des gages sérieux de réadaptation sociale, le juge de l'application des peines peut, dans les
-conditions de l'article 722, saisir la juridiction du lieu de détention, de même degré que celle qui a prononcé la
-condamnation pour qu'il soit mis fin à l'application de tout ou partie des dispositions de l'article 720-2 ou pour que la
-durée de la période de sûreté soit réduite. Si la condamnation a été prononcée par une cour d'assises, la juridiction
-compétente pour statuer sur la demande est la chambre de l'instruction dans le ressort de laquelle le condamné est détenu.
-Toutefois, lorsque la cour d'assises a, en application du dernier alinéa des articles 221-3 et 221-4 du code pénal, décidé de
-porter la durée de la période de sûreté à trente ans, la chambre de l'instruction ne peut être saisie qu'après que le
-condamné a subi une incarcération d'une durée au moins égal au deux tiers de la période de sûreté.
+Lorsque le condamné présente des gages sérieux de réadaptation sociale, le juge de l'application des peines peut, à titre
+exceptionnel et dans les conditions de l'article 722, saisir la juridiction du lieu de détention, de même degré que celle qui
+a prononcé la condamnation pour qu'il soit mis fin à l'application de tout ou partie des dispositions de l'article 720-2 ou
+pour que la durée de la période de sûreté soit réduite. Si la condamnation a été prononcée par une cour d'assises, la
+juridiction compétente pour statuer sur la demande est la chambre de l'instruction dans le ressort de laquelle le condamné
+est détenu. Toutefois, lorsque la cour d'assises a, en application du dernier alinéa des articles 221-3 et 221-4 du code
+pénal, décidé de porter la durée de la période de sûreté à trente ans, la chambre de l'instruction ne peut être saisie
+qu'après que le condamné a subi une incarcération d'une durée au moins égal au deux tiers de la période de sûreté.
 
 Dans le cas où la cour d'assises a décidé qu'aucune des mesures énumérées à l'article 132-23 du code pénal ne pourrait être
 accordée au condamné à la réclusion criminelle à perpétuité, le juge de l'application des peines peut, à l'expiration d'une
@@ -28530,7 +28547,7 @@ décision de libération conditionnelle ultérieure pourront être fixées sans 
 
 	**Modifié par**:
 
-	  - Loi n°94-89 du 1 février 1994 - art. 6 () JORF 2 février 1994 en vigueur le 1er mars 1994
+	  - Loi n°97-1159 du 19 décembre 1997 - art. 1 () JORF 20 décembre 1997
 
 	**Cite**:
 
@@ -28562,7 +28579,7 @@ commission de l'application des peines, décide du placement en semi-liberté et
 
 	**Modifié par**:
 
-	  - Loi n°92-1336 du 16 décembre 1992 - art. 86 () JORF 23 décembre 1992 en vigueur le 1er mars 1994
+	  - Loi n°97-1159 du 19 décembre 1997 - art. 1 () JORF 20 décembre 1997
 
 	**Cité par**:
 
@@ -28570,6 +28587,8 @@ commission de l'application des peines, décide du placement en semi-liberté et
 	  - Code de procédure pénale - art. D527-2 (V)
 	  - Code de procédure pénale - art. D541 (V)
 
+
+##### Section 4 : Des réductions de peines
 
 ###### Article 721
 
@@ -28596,15 +28615,13 @@ Pour l'application du présent article, la situation de chaque condamné est exa
 
 	  - Ordonnance 58-1296 1958-12-23
 
-	**Modifié par**:
-
-	  - Loi n°70-643 du 17 juillet 1970 - art. 25 () JORF 19 juillet 1970
-	  - loi 72-1226 1972-12-29 art. 45 JORF 30 décembre 1972
-	  - loi 85-1407 1985-12-30 art. 75 et art. 94 JORF 31 décembre 1985 en vigueur le 1er février 1986
-
 	**Liens**:
 
 	  - SPEC_APPLI: loi 85-1407 1985-12-30 art. 94
+
+	**Modifié par**:
+
+	  - Loi n°97-1159 du 19 décembre 1997 - art. 1 () JORF 20 décembre 1997
 
 	**Cité par**:
 
@@ -28658,13 +28675,13 @@ applicables.
 
 	  - Ordonnance 58-1296 1958-12-23
 
-	**Modifié par**:
-
-	  - Loi n°86-1021 du 9 septembre 1986 - art. 1 () JORF 10 septembre 1986 en vigueur le 1er octobre 1986
-
 	**Liens**:
 
 	  - SPEC_APPLI: Loi n°86-1021 du 9 septembre 1986 - art. 5 (V)
+
+	**Modifié par**:
+
+	  - Loi n°97-1159 du 19 décembre 1997 - art. 1 () JORF 20 décembre 1997
 
 	**Cité par**:
 
@@ -28680,18 +28697,17 @@ applicables.
 
 	  - Code de procédure pénale 721 al. 3
 
-	**Créé par**:
 
-	  - Loi n°75-6241 1975-07-11 art. 38 JORF 13 juillet 1975 en vigueur le 1er janvier 1976
-
+##### Section 5 : Des attributions du juge de l'application des peines et de la commission de l'application des peines
 
 ###### Article 722
 
 Auprès de chaque établissement pénitentiaire, le juge de l'application des peines détermine pour chaque condamné les
 principales modalités du traitement pénitentiaire. Dans les limites et conditions prévues par la loi, il accorde les
 placements à l'extérieur, la semi-liberté, les réductions, fractionnements et suspensions de peines, les autorisations de
-sortie sous escorte, les permissions de sortir, la libération conditionnelle ou il saisit la juridiction compétente pour
-aménager l'exécution de la peine. Sauf urgence, il statue après avis de la commission de l'application des peines.
+sortie sous escorte, les permissions de sortir, la libération conditionnelle, le placement sous surveillance électronique ou
+il saisit la juridiction compétente pour aménager l'exécution de la peine. Sauf urgence, il statue après avis de la
+commission de l'application des peines.
 
 Cette commission est réputée avoir rendu son avis si celui-ci n'est pas intervenu dans le délai d'un mois à compter du jour
 de sa saisine.
@@ -28726,7 +28742,7 @@ exécution jusqu'à ce que la chambre de l'instruction ait statué.
 
 	**Modifié par**:
 
-	  - Loi n°94-89 du 1 février 1994 - art. 8 () JORF 2 février 1994 en vigueur le 1er mars 1994
+	  - Loi n°97-1159 du 19 décembre 1997 - art. 1 () JORF 20 décembre 1997
 
 	**Cité par**:
 
@@ -28774,6 +28790,8 @@ exécution jusqu'à ce que la chambre de l'instruction ait statué.
 	  - Code pénal 222-23 à 222-32, 227-25 à 227-27
 
 
+##### Section 6 : Du placement à l'extérieur, de la semi-liberté, des permissions de sortir et des autorisations de sortie sous escorte
+
 ###### Article 723
 
 Le placement à l'extérieur permet au condamné d'être employé au dehors d'un établissement pénitentiaire à des travaux
@@ -28791,7 +28809,7 @@ Un décret détermine les conditions auxquelles ces diverses mesures sont accord
 
 	**Modifié par**:
 
-	  - Loi n°92-1336 du 16 décembre 1992 - art. 87 () JORF 23 décembre 1992 en vigueur le 1er mars 1994
+	  - Loi n°97-1159 du 19 décembre 1997 - art. 1 () JORF 20 décembre 1997
 
 	**Cité par**:
 
@@ -28840,7 +28858,7 @@ probatoire au régime de la semi-liberté.
 
 	**Modifié par**:
 
-	  - Loi n°92-1336 du 16 décembre 1992 - art. 88 () JORF 23 décembre 1992 en vigueur le 1er mars 1994
+	  - Loi n°97-1159 du 19 décembre 1997 - art. 1 () JORF 20 décembre 1997
 
 	**Cité par**:
 
@@ -28874,7 +28892,7 @@ Dans ce cas, le tribunal doit statuer dans les cinq jours sur le maintien ou le 
 
 	**Modifié par**:
 
-	  - Loi n°92-1336 du 16 décembre 1992 - art. 89 () JORF 23 décembre 1992 en vigueur le 1er mars 1994
+	  - Loi n°97-1159 du 19 décembre 1997 - art. 1 () JORF 20 décembre 1997
 
 	**Cite**:
 
@@ -28895,9 +28913,9 @@ lui permettre d'accomplir une obligation exigeant sa présence.
 
 	  - Ordonnance 58-1296 1958-12-23
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - loi 78-1097 1978-11-22 art. 4 JORF 23 novembre 1978
+	  - Loi n°97-1159 du 19 décembre 1997 - art. 1 () JORF 20 décembre 1997
 
 	**Cité par**:
 
@@ -28926,7 +28944,7 @@ réductions de peine qui lui ont été accordées antérieurement.
 
 	**Modifié par**:
 
-	  - Loi n°92-1336 du 16 décembre 1992 - art. 90 () JORF 23 décembre 1992 en vigueur le 1er mars 1994
+	  - Loi n°97-1159 du 19 décembre 1997 - art. 1 () JORF 20 décembre 1997
 
 	**Cite**:
 
@@ -28940,17 +28958,13 @@ escorte.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - Code de procédure pénale art. 722
-
 	**Codifié par**:
 
 	  - Ordonnance 58-1296 1958-12-23
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - loi 78-1097 1978-11-22 art. 5 JORF 23 novembre 1978
+	  - Loi n°97-1159 du 19 décembre 1997 - art. 1 () JORF 20 décembre 1997
 
 	**Cité par**:
 
@@ -28959,6 +28973,262 @@ escorte.
 	  - CODE DE PROCEDURE PENALE - art. D116 (M)
 	  - Code de procédure pénale - art. D147 (V)
 	  - Code de procédure pénale - art. D426 (Ab)
+
+	**Cite**:
+
+	  - Code de procédure pénale art. 722
+
+
+##### Section 7 : Du placement sous surveillance électronique
+
+###### Article 723-7
+
+En cas de condamnation à une ou plusieurs peines privatives de liberté dont la durée totale n'excède pas un an ou lorsqu'il
+reste à subir par le condamné une ou plusieurs peines privatives de liberté dont la durée totale n'excède pas un an, le juge
+de l'application des peines peut décider, sur son initiative ou à la demande du procureur de la République ou du condamné,
+que la peine s'exécutera sous le régime du placement sous surveillance électronique. La décision de recourir au placement
+sous surveillance électronique ne peut être prise qu'après avoir recueilli le consentement du condamné, donné en présence de
+son avocat. A défaut de choix par le condamné, un avocat est désigné d'office par le bâtonnier.
+
+Le placement sous surveillance électronique peut également être décidé, selon les modalités prévues à l'alinéa précédent, à
+titre probatoire de la libération conditionnelle, pour une durée n'excédant pas un an.
+
+Le placement sous surveillance électronique emporte, pour le condamné, interdiction de s'absenter de son domicile ou de tout
+autre lieu désigné par le juge de l'application des peines en dehors des périodes fixées par celui-ci. Les périodes et les
+lieux sont fixés en tenant compte : de l'exercice d'une activité professionnelle par le condamné ; du fait qu'il suit un
+enseignement ou une formation, effectue un stage ou occupe un emploi temporaire en vue de son insertion sociale ; de sa
+participation à la vie de famille ; de la prescription d'un traitement médical.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 58-1296 1958-12-23
+
+	**Créé par**:
+
+	  - Loi n°97-1159 du 19 décembre 1997 - art. 1 () JORF 20 décembre 1997
+
+	**Cité par**:
+
+	  - CODE DE PROCEDURE PENALE - art. 144-2 (Ab)
+	  - CODE DE PROCEDURE PENALE - art. 723-11 (V)
+	  - CODE DE PROCEDURE PENALE - art. 723-13 (M)
+	  - CODE DE PROCEDURE PENALE - art. 733-1 (M)
+	  - CODE DE PROCEDURE PENALE - art. R57-14 (V)
+	  - Code de la santé publique - art. L1411-11 (V)
+	  - Code de procédure pénale - art. D103 (T)
+	  - Code de procédure pénale - art. D118 (V)
+	  - Code de procédure pénale - art. D121-1 (V)
+	  - Code de procédure pénale - art. D122 (V)
+	  - Code de procédure pénale - art. D123 (V)
+	  - Code de procédure pénale - art. D125 (V)
+	  - Code de procédure pénale - art. D125-1 (V)
+	  - Code de procédure pénale - art. D147-8 (V)
+	  - Code de procédure pénale - art. D340 (Ab)
+	  - Code de procédure pénale - art. R57-10 (V)
+
+
+###### Article 723-8
+
+Le contrôle de l'exécution de la mesure est assuré au moyen d'un procédé permettant de détecter à distance la présence ou
+l'absence du condamné dans le seul lieu désigné par le juge de l'application des peines pour chaque période fixée. La mise en
+oeuvre de ce procédé peut conduire à imposer à la personne assignée le port, pendant toute la durée du placement sous
+surveillance électronique, d'un dispositif intégrant un émetteur.
+
+Le procédé utilisé est homologué à cet effet par le ministre de la justice. La mise en oeuvre doit garantir le respect de la
+dignité, de l'intégrité et de la vie privée de la personne.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 58-1296 1958-12-23
+
+	**Créé par**:
+
+	  - Loi n°97-1159 du 19 décembre 1997 - art. 1 () JORF 20 décembre 1997
+
+	**Cité par**:
+
+	  - CODE DE PROCEDURE PENALE - art. 138 (AbD)
+	  - CODE DE PROCEDURE PENALE - art. R57-12 (V)
+	  - CODE DE PROCEDURE PENALE - art. R57-23 (V)
+	  - Code de procédure pénale - art. 142-5 (V)
+	  - Code de procédure pénale - art. 723-12 (V)
+	  - Code de procédure pénale - art. R57-11 (V)
+
+
+###### Article 723-9
+
+La personne sous surveillance électronique est placée sous le contrôle du juge de l'application des peines dans le ressort
+duquel elle est assignée.
+
+Le contrôle à distance du placement sous surveillance électronique est assuré par des fonctionnaires de l'administration
+pénitentiaire qui sont autorisés, pour l'exécution de cette mission, à mettre en oeuvre un traitement automatisé de données
+nominatives.
+
+Dans la limite des périodes fixées dans la décision de placement sous surveillance électronique, les agents chargés du
+contrôle peuvent se rendre sur le lieu de l'assignation pour demander à rencontrer le condamné. Ils ne peuvent toutefois
+pénétrer dans les domiciles sans l'accord des personnes chez qui le contrôle est effectué. Sans réponse de la part du
+condamné à l'invitation de se présenter devant eux, son absence est présumée. Les agents en font aussitôt rapport au juge de
+l'application des peines.
+
+Les services de police ou de gendarmerie peuvent toujours constater l'absence irrégulière du condamné et en faire rapport au
+juge de l'application des peines.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 58-1296 1958-12-23
+
+	**Créé par**:
+
+	  - Loi n°97-1159 du 19 décembre 1997 - art. 1 () JORF 20 décembre 1997
+
+	**Cité par**:
+
+	  - CODE DE PROCEDURE PENALE - art. 138 (AbD)
+	  - Code de procédure pénale - art. 142-5 (V)
+
+
+###### Article 723-10
+
+Le juge de l'application des peines peut également soumettre la personne placée sous surveillance électronique aux mesures
+prévues par les articles 132-43 à 132-46 du code pénal.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 58-1296 1958-12-23
+
+	**Créé par**:
+
+	  - Loi n°97-1159 du 19 décembre 1997 - art. 1 () JORF 20 décembre 1997
+
+	**Cite**:
+
+	  - Code pénal 132-43 à 132-46
+
+	**Cité par**:
+
+	  - Code de la route. - art. R234-5 (V)
+	  - Code de procédure pénale - art. 720 (Ab)
+	  - Code de procédure pénale - art. 723-11 (V)
+	  - Code de procédure pénale - art. 723-13 (V)
+
+
+###### Article 723-11
+
+Le juge de l'application des peines peut, d'office ou à la demande du condamné, et après avis du procureur de la République,
+modifier les conditions d'exécution du placement sous surveillance électronique prévues au troisième alinéa de l'article
+723-7 ainsi que les mesures prévues à l'article 723-10.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 58-1296 1958-12-23
+
+	**Créé par**:
+
+	  - Loi n°97-1159 du 19 décembre 1997 - art. 1 () JORF 20 décembre 1997
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. 723-10 (M)
+	  - CODE DE PROCEDURE PENALE - art. 723-7 (M)
+
+	**Cité par**:
+
+	  - CODE DE PROCEDURE PENALE - art. R57-17 (V)
+
+
+###### Article 723-12
+
+Le juge de l'application des peines peut à tout moment désigner un médecin afin que celui-ci vérifie que la mise en oeuvre du
+procédé mentionné au premier alinéa de l'article 723-8 ne présente pas d'inconvénient pour la santé du condamné. Cette
+désignation est de droit à la demande du condamné. Le certificat médical est versé au dossier.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 58-1296 1958-12-23
+
+	**Créé par**:
+
+	  - Loi n°97-1159 du 19 décembre 1997 - art. 1 () JORF 20 décembre 1997
+
+	**Cité par**:
+
+	  - CODE DE PROCEDURE PENALE - art. 138 (AbD)
+	  - Code de procédure pénale - art. 142-5 (V)
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. 723-8 (M)
+
+
+###### Article 723-13
+
+Le juge de l'application des peines peut, après avoir entendu le condamné en présence de son avocat, retirer la décision de
+placement sous surveillance électronique soit en cas d'inobservation des conditions d'exécution constatée au cours d'un
+contrôle au lieu de l'assignation, d'inobservation des mesures prononcées en application de l'article 723-10, de nouvelle
+condamnation ou de refus par le condamné d'une modification nécessaire des conditions d'exécution, soit à la demande du
+condamné.
+
+La décision est prise en chambre du conseil à l'issue d'un débat contradictoire au cours duquel le juge de l'application des
+peines entend les réquisitions du procureur de la République et les observations du condamné ainsi que, le cas échéant,
+celles de son conseil. Elle est exécutoire par provision. Elle peut faire l'objet d'un appel dans les dix jours devant la
+chambre des appels correctionnels statuant en matière d'application des peines.
+
+En cas de retrait de la décision de placement sous surveillance électronique, le condamné subit, selon les dispositions de la
+décision de retrait, tout ou partie de la durée de la peine qui lui restait à accomplir au jour de son placement sous
+surveillance électronique. Le temps pendant lequel il a été placé sous surveillance électronique compte toutefois pour
+l'exécution de sa peine.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 58-1296 1958-12-23
+
+	**Créé par**:
+
+	  - Loi n°97-1159 du 19 décembre 1997 - art. 1 () JORF 20 décembre 1997
+
+	**Cité par**:
+
+	  - Décret n°2004-837 du 20 août 2004 - art. 17 (V)
+	  - CODE DE PROCEDURE PENALE - art. D147-29 (V)
+	  - CODE DE PROCEDURE PENALE - art. R57-16 (V)
+	  - CODE DE PROCEDURE PENALE - art. R57-18 (V)
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. 723-10 (M)
+
+
+###### Article 723-14
+
+Un décret en Conseil d'Etat détermine les conditions d'application de la présente section.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 58-1296 1958-12-23
+
+	**Créé par**:
+
+	  - Loi n°97-1159 du 19 décembre 1997 - art. 1 () JORF 20 décembre 1997
+
+	**Cité par**:
+
+	  - Code de procédure pénale - art. 712-4 (V)
 
 
 #### Chapitre III : Des dispositions communes aux différents établissements pénitentiaires
@@ -29441,14 +29711,14 @@ Dans ce cas, la peine est réputée terminée depuis le jour de la libération c
 
 Les décisions prises par le juge de l'application des peines sont des mesures d'administration judiciaire.
 
-1° Les décisions qui concernent l'une des mesures prévues par les articles 720-1, 723, 723-3 et 730 peuvent, à la requête du
-procureur de la République, être déférées devant le tribunal correctionnel qui statue en chambre du conseil parès avoir fait
-procéder à toutes les auditions utiles et entendus en leurs observations, s'ils en ont fait la demande, les conseils du
-condamné et de la partie civile.
+1° Les décisions qui concernent l'une des mesures prévues par les articles 720-1, 723, 723-3, 723-7 et 730 peuvent, à la
+requête du procureur de la République, être déférées devant le tribunal correctionnel qui statue en chambre du conseil parès
+avoir fait procéder à toutes les auditions utiles et entendus en leurs observations, s'ils en ont fait la demande, les
+conseils du condamné et de la partie civile.
 
 Cette requête est formée dans les vingt-quatre heures qui suivent soit la date de la décision prise en présence du procureur
 de la République, soit, dans les autres cas, la date de notification au procureur de la République. Elle suspend l'exécution
-de la décision jusqu'à ce que le tribunal ait statué.
+de la décision  jusqu'à ce que le tribunal ait statué.
 
 Le juge de l'application des peines ne peut, à peine de nullité, siéger au sein du tribunal saisi de l'une de ses décisions.
 
@@ -29471,17 +29741,13 @@ et conditions, que pour violation de la loi.
 
 	  - Ordonnance 58-1296 1958-12-23
 
-	**Créé par**:
-
-	  - Loi n°78-1097 1978-11-22 art. 8 JORF 23 novembre 1978
-
-	**Modifié par**:
-
-	  - Loi n°86-1021 du 9 septembre 1986 - art. 4 () JORF 10 septembre 1986 en vigueur le 1er octobre 1986
-
 	**Liens**:
 
 	  - SPEC_APPLI: Loi n°86-1021 du 9 septembre 1986 - art. 5 (V)
+
+	**Modifié par**:
+
+	  - Loi n°97-1159 du 19 décembre 1997 - art. 11 () JORF 20 décembre 1997
 
 	**Cite**:
 
@@ -29491,8 +29757,9 @@ et conditions, que pour violation de la loi.
 	  - CODE DE PROCEDURE PENALE - art. 723 (M)
 	  - CODE DE PROCEDURE PENALE - art. 723-3 (M)
 	  - CODE DE PROCEDURE PENALE - art. 723-6 (M)
+	  - CODE DE PROCEDURE PENALE - art. 723-7 (M)
 	  - CODE DE PROCEDURE PENALE - art. 733 (M)
-	  - Code de procédure pénale 720-1, 721, 721-1, 723, 723-3 , 723-6, 729-1 730, 733
+	  - Code de procédure pénale 720-1, 721, 721-1, 723, 723-3 , 723-6, 729-1 730, 733, 723-7
 
 	**Cité par**:
 
