@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 1994-08-05
+Version Consolidée au 1994-10-01
 
 # Partie législative
 
@@ -25241,7 +25241,10 @@ est la chambre de l'instruction dans le ressort de laquelle la cour d'assises a 
 
 Lorsque la demande est relative à une déchéance, interdiction ou incapacité prononcée en application de l'article 201 de la
 loi n° 85-98 du 25 janvier 1985 relative au redressement et à la liquidation judiciaires des entreprises, la juridiction ne
-peut accorder le relèvement que si l'intéressé a apporté une contribution suffisante au paiement du passif du débiteur.
+peut accorder le relèvement que si l'intéressé a apporté une contribution suffisante au paiement du passif du débiteur. La
+juridiction peut accorder, dans les mêmes conditions, le relèvement des interdictions, déchéances et incapacités résultant
+des condamnations pour banqueroute prononcées en application des articles 126 à 149 de la loi n° 67-563 du 13 juillet 1967
+sur le règlement judiciaire, la liquidation des biens, la faillite personnelle et les banqueroutes.
 
 Sauf lorsqu'il s'agit d'une mesure résultant de plein droit d'une condamnation pénale, la demande ne peut être portée devant
 la juridiction compétente qu'à l'issue d'un délai de six mois après la décision initiale de condamnation. En cas de refus
@@ -25257,6 +25260,12 @@ d'interdiction ou d'incapacité est relative à la peine de suspension du permis
 	**Codifié par**:
 
 	  - Ordonnance 58-1296 1958-12-23
+
+	**Cite**:
+
+	  - Loi n°67-563 1967-07-13 art. 126 à 149
+	  - Loi n°85-98 du 25 janvier 1985 - art. 201 (Ab)
+	  - Code pénal - art. 131-6 (M)
 
 	**Cité par**:
 
@@ -25279,14 +25288,9 @@ d'interdiction ou d'incapacité est relative à la peine de suspension du permis
 	  - TXT_ASSOCIE: Arrêté du 4 avril 1984 - art. 13 (V)
 	  - TXT_ASSOCIE: Code des marchés publics - art. *49 (Ab)
 
-	**Cite**:
-
-	  - Loi n°85-98 du 25 janvier 1985 - art. 201 (Ab)
-	  - Code pénal - art. 131-6 (M)
-
 	**Modifié par**:
 
-	  - Loi n°92-1336 du 16 décembre 1992 - art. 70 () JORF 23 décembre 1992 en vigueur le 1er mars 1994
+	  - Loi n°94-475 du 10 juin 1994 - art. 90 () JORF 11 juin 1994 en vigueur le 1er octobre 1994
 
 
 ###### Article 703
@@ -30263,9 +30267,9 @@ modifiée, relative à l'enfance délinquante ;
 4° Les décisions disciplinaires prononcées par l'autorité judiciaire ou par une autorité administrative lorsqu'elles
 entraînent ou édictent des incapacités ;
 
-5° En matière de redressement judiciaire, les jugements prononçant la liquidation judiciaire à l'égard d'une personne
-physique, la faillite personnelle ou l'interdiction prévue par l'article 192 de la loi n. 85-98 du 25 janvier 1985 relative
-au redressement et à la liquidation judiciaires des entreprises ;
+5° Les jugements prononçant la liquidation judiciaire à l'égard d'une personne physique, la faillite personnelle ou
+l'interdiction prévue par l'article 192 de la loi n. 85-98 du 25 janvier 1985 relative au redressement et à la liquidation
+judiciaires des entreprises ;
 
 6° Tous les jugements prononçant la déchéance de l'autorité parentale ou le retrait de tout ou partie des droits y attachés ;
 
@@ -30316,7 +30320,7 @@ transfèrement des personnes condamnées.
 
 	**Modifié par**:
 
-	  - Loi n°92-1336 du 16 décembre 1992 - art. 114 () JORF 23 décembre 1992 en vigueur le 1er mars 1994
+	  - Loi n°94-475 du 10 juin 1994 - art. 93 () JORF 11 juin 1994 en vigueur le 1er octobre 1994
 
 
 ###### Article 768-1
@@ -30376,8 +30380,7 @@ Sont également retirés du casier judiciaire :
 janvier 1985 précitée lorsque ces mesures sont effacées par un jugement de clôture pour extinction du passif, par la
 réhabilitation ou à l'expiration du délai de cinq ans à compter du jour où ces condamnations sont devenues définitives ainsi
 que le jugement prononçant la liquidation judiciaire à l'égard d'une personne physique, à l'expiration d'un délai de cinq ans
-à compter du jour où ce jugement est devenu définitif ou après le prononcé d'un jugement de clôture pour extinction du
-passif.
+à compter du jour où ce jugement est devenu définitif ou après le prononcé d'un jugement emportant réhabilitation.
 
 Toutefois, si la durée de la faillite personnelle ou de l'interdiction est supérieure à cinq ans, la condamnation relative à
 ces mesures demeure mentionnée sur les fiches du casier judiciaire pendant la même durée ;
@@ -30428,7 +30431,7 @@ devenues définitives.
 
 	**Modifié par**:
 
-	  - Loi n°92-1336 du 16 décembre 1992 - art. 116 () JORF 23 décembre 1992 en vigueur le 1er mars 1994
+	  - Loi n°94-475 du 10 juin 1994 - art. 91 () JORF 11 juin 1994 en vigueur le 1er octobre 1994
 
 
 ###### Article 769-1
