@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 1975-02-08
+Version Consolidée au 1975-03-09
 
 # Partie législative
 
@@ -22447,6 +22447,56 @@ Les prévenus ne doivent pas être réunis contre leur gré avec des condamnés.
 	  - TXT_SOURCE: Code de procédure pénale 714 à 728
 
 
+##### Paragraphe 2 : Dispenses dont bénéficient les prévenus
+
+###### Article D62
+
+Les prévenus peuvent demander qu'il leur soit donné du travail dans les conditions prévues aux articles D99 et suivants.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-322 1959-02-23
+
+	**Modifié par**:
+
+	  - Décret n°72-852 1972-09-12 art. 1 JORF 20 septembre 1972 rectificatif JORF 14 octobre 1972
+	  - Décret n°75-128 1975-03-07 art. 1 et art. 3 JORF 9 mars 1975
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. D99 (M)
+
+	**Liens**:
+
+	  - TXT_SOURCE: Code de procédure pénale 714 à 728
+
+
+###### Article D63
+
+Les sommes appartenant ou venant à échoir aux prévenus sont inscrites à leur compte nominatif dans les conditions fixées aux
+articles D328 et D329.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-322 1959-02-23
+
+	**Modifié par**:
+
+	  - Décret n°75-128 1975-03-07 art. 1 et art. 3 JORF 9 mars 1975
+
+	**Liens**:
+
+	  - TXT_SOURCE: Code de procédure pénale 714 à 728
+
+	**Cite**:
+
+	  - Code de procédure pénale D328 et D329
+
+
 ##### Paragraphe 3 : Visites et correspondance
 
 ###### Article D64
@@ -23273,6 +23323,113 @@ Les dispositions législatives et réglementaires relatives à l'hygiène et à 
 	**Liens**:
 
 	  - SPEC_APPLI: Décret n°59-322 1959-02-23 art. 6
+	  - TXT_SOURCE: Code de procédure pénale 714 à 728
+
+
+##### Section 5 : De la répartition du produit du travail
+
+###### Article D111
+
+La rémunération du travail est répartie conformément aux dispositions des articles D112 et suivants, après qu'aient été
+précomptées les cotisations à caractère social mises à la charge des détenus.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-322 1959-02-23
+
+	**Modifié par**:
+
+	  - Décret n°75-128 1975-03-07 art. 1 et art. 3 JORF 9 mars 1975
+	  - Décret n°71-274 1971-04-15 art. 1 JORF 16 avril 1971
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. D112 (Ab)
+
+	**Cité par**:
+
+	  - CODE DE PROCEDURE PENALE - art. D113 (Ab)
+	  - CODE DE PROCEDURE PENALE - art. D114 (Ab)
+	  - CODE DE PROCEDURE PENALE - art. D327. (M)
+	  - Code de procédure pénale - art. D106 (T)
+
+	**Liens**:
+
+	  - TXT_SOURCE: Code de procédure pénale 714 à 728
+
+
+###### Article D112
+
+Les détenus participent à leurs frais d'entretien sur le produit de leur travail.
+
+Le montant de cette participation est fixé chaque année par arrêté du garde des sceaux, ministre de la justice.
+
+Il ne saurait en toute hypothèse dépasser 30 % de la rémunération après déduction des cotisations à caractère social.
+
+Les rémunérations versées sur crédits budgétaires sont nettes de tout prélèvement au profit du Trésor.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-322 1959-02-23
+
+	**Modifié par**:
+
+	  - Décret n°75-128 1975-03-07 art. 1 et art. 3 JORF 9 mars 1975
+	  - Décret n°71-274 1971-04-15 art. 1 JORF 16 avril 1971
+
+	**Abrogé par**:
+
+	  - Décret n°2003-259 du 20 mars 2003 - art. 15 () JORF 22 mars 2003 en vigueur le 1er janvier 2003
+
+	**Cité par**:
+
+	  - CODE DE PROCEDURE PENALE - art. A39-2 (M)
+	  - CODE DE PROCEDURE PENALE - art. A41 (M)
+	  - CODE DE PROCEDURE PENALE - art. D111 (M)
+	  - CODE DE PROCEDURE PENALE - art. D114 (M)
+	  - CODE DE PROCEDURE PENALE - art. D327. (M)
+
+	**Liens**:
+
+	  - TXT_SOURCE: Code de procédure pénale 714 à 728
+
+
+###### Article D114
+
+Après déduction des versements prévus aux articles D. 111, D. 112 et D. 113, le solde de la rémunération est acquis au détenu
+qui peut en disposer dans les conditions prévues aux articles D. 323, D. 330 et D. 331.
+
+La portion attribuée aux détenus sur les produits de leur travail peut toutefois être accrue de gratifications, à titre
+exceptionnel et sous réserve que celles-ci n'excèdent pas le quart de la rémunération principale.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-322 1959-02-23
+
+	**Modifié par**:
+
+	  - Décret n°75-128 1975-03-07 art. 1 et art. 3 JORF 9 mars 1975
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. D111 (M)
+	  - CODE DE PROCEDURE PENALE - art. D112 (Ab)
+	  - CODE DE PROCEDURE PENALE - art. D113 (M)
+	  - CODE DE PROCEDURE PENALE - art. D323 (M)
+	  - Code de procédure pénale D111, D112, D113, D323, D330 et D331
+
+	**Cité par**:
+
+	  - CODE DE PROCEDURE PENALE - art. D329. (Ab)
+
+	**Liens**:
+
 	  - TXT_SOURCE: Code de procédure pénale 714 à 728
 
 
@@ -25652,6 +25809,226 @@ dans les autres cas.
 #### Chapitre VII : De la gestion des biens et de l'entretien des détenus
 
 ##### Section 1 : De la gestion des biens des détenus
+
+##### Paragraphe 1er : Valeurs pécuniaires.
+
+###### Article D319
+
+L'établissement pénitentiaire où le détenu est écroué tient un compte nominatif où sont inscrites les valeurs pécuniaires lui
+appartenant.
+
+Sous réserve que les détenus n'en aient pas demandé l'envoi à un tiers ou la consignation, les sommes dont ils sont porteurs
+à leur entrée dans la prison sont immédiatement inscrites à leur compte nominatif au moment de leur écrou. L'importance de
+ces sommes ne saurait en aucun cas justifier le refus de la prise en charge.
+
+Le compte nominatif est par la suite crédité ou débité de toutes les sommes qui viennent à être dues au détenu, ou par lui,
+au cours de sa détention, dans les conditions réglementaires.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-322 1959-02-23
+
+	**Modifié par**:
+
+	  - Décret n°75-128 1975-03-07 art. 1 et art. 3 JORF 9 mars 1975
+
+	**Cité par**:
+
+	  - Code de procédure pénale - art. D422 (Ab)
+
+	**Liens**:
+
+	  - TXT_SOURCE: Code de procédure pénale 714 à 728
+
+
+###### Article D320.
+
+Les dispositions de l'article 29 du Code pénal [* article abrogé *] ne font pas obstacle à ce que les condamnés en état
+d'interdiction légale puissent, dans les conditions et limites fixées au présent titre, disposer eux-mêmes des fonds figurant
+à leur compte nominatif et en recevoir directement le solde à leur sortie.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-322 1959-02-23
+
+	**Modifié par**:
+
+	  - Décret n°75-128 1975-03-07 art. 2 JORF 9 mars 1975
+
+	**Abrogé par**:
+
+	  - Décret n°98-1099 du 8 décembre 1998 - art. 197 (V) JORF 9 décembre 1998
+
+	**Cite**:
+
+	  - Code pénal 29
+
+	**Cité par**:
+
+	  - Code de procédure pénale - art. D122 (V)
+	  - Code de procédure pénale - art. D320-3 (V)
+	  - Code de procédure pénale - art. D327 (V)
+	  - Code de procédure pénale - art. D422 (Ab)
+	  - Code de procédure pénale - art. D434 (V)
+
+	**Liens**:
+
+	  - TXT_SOURCE: Code de procédure pénale 714 à 728
+
+
+###### Article D322
+
+Les comptables des établissements pénitentiaires ou leurs préposés bénéficient d'une remise de 2,5 % sur les sommes qui sont
+acquittées pour le compte des détenus au titre des condamnations pécuniaires prononcées au profit de l'Etat ou des
+collectivités publiques.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-322 1959-02-23
+
+	**Modifié par**:
+
+	  - Décret n°72-852 1972-09-12 art. 1 JORF 20 septembre 1972
+	  - Décret n°75-128 1975-03-07 art. 1 et art. 3 JORF 9 mars 1975
+
+	**Liens**:
+
+	  - TXT_SOURCE: Code de procédure pénale 714 à 728
+
+
+###### Article D326
+
+Les sommes représentatives des frais d'entretien prélevées sur la rémunération versée aux prévenus sont restituées aux
+intéressés lorsque les faits qui ont été à l'origine de la détention donnent lieu à un non-lieu, une relaxe ou à un
+acquittement.
+
+Les demandes de restitution doivent être formulées dans les trois mois qui suivent la date où la décision de non-lieu, de
+relaxe ou d'acquittement a été portée à la connaissance de l'intéressé.
+
+Aucune demande ne peut être formulée plus d'un an après la date de libération sauf si l'intéressé fait connaître au greffe de
+l'établissement pénitentiaire, avant l'expiration de ce délai, que la décision définitive n'a pas été rendue.
+
+Une instruction de service précise les conditions dans lesquelles les demandes de restitution doivent être formulées et
+instruites.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-322 1959-02-23
+
+	**Modifié par**:
+
+	  - Décret n°75-128 1975-03-07 art. 1 et art. 3 JORF 9 mars 1975
+
+	**Abrogé par**:
+
+	  - Décret n°2010-1635 du 23 décembre 2010 - art. 46
+
+	**Liens**:
+
+	  - TXT_SOURCE: Code de procédure pénale 714 à 728
+
+
+###### Article D327
+
+La répartition prévue aux articles D111 à D114 est applicable aux détenus soumis à la contrainte judiciaire.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-322 1959-02-23
+
+	**Modifié par**:
+
+	  - Décret n°75-128 1975-03-07 art. 1 et art. 3 JORF 9 mars 1975
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. D111 (M)
+	  - CODE DE PROCEDURE PENALE - art. D112 (Ab)
+	  - Code de procédure pénale D111, D112, D113 et D114
+
+	**Liens**:
+
+	  - TXT_SOURCE: Code de procédure pénale 714 à 728
+
+
+###### Article D330
+
+Tout versement effectué à l'extérieur sur la part disponible d'un détenu doit non seulement avoir été demandé ou consenti par
+ce détenu, mais aussi avoir été autorisé expressément par le magistrat saisi du dossier de l'information s'il s'agit d'un
+prévenu ou, sinon, par le chef d'établissement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-322 1959-02-23
+
+	**Modifié par**:
+
+	  - Décret n°75-128 1975-03-07 art. 1 et art. 3 JORF 9 mars 1975
+
+
+###### Article D332
+
+L'administration pénitentiaire a la faculté d'opérer d'office sur la part disponible des détenus des retenues en réparation
+de dommages matériels causés, sans préjudice de poursuites disciplinaires et pénales, s'il y a lieu. 
+
+Ces retenues sont prononcées par le chef de l'établissement, s'il s'agit d'un membre du personnel de direction, ou sinon par
+le directeur régional des services pénitentiaires et les fonds correspondants sont versés au Trésor. 
+
+Sont de même versées au Trésor les sommes trouvées en possession irrégulière des détenus, à moins qu'elles ne soient saisies
+par ordre de l'autorité judiciaire.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-322 1959-02-23
+
+	**Modifié par**:
+
+	  - Décret n°72-852 1972-09-12 art. 1 JORF 20 septembre 1972 rectificatif JORF 14 octobre 1972
+	  - Décret n°75-128 1975-03-07 art. 2 JORF 9 mars 1975
+
+	**Liens**:
+
+	  - TXT_SOURCE: Code de procédure pénale 714 à 728
+
+
+###### Article D333
+
+Une saisie-arrêt peut, dans les conditions du droit commun, être valablement formée concernant le compte nominatif d'un
+détenu, entre les mains du comptable ou de son préposé.
+
+La saisie-arrêt porte sur les sommes composant la part disponible, sous réserve du cantonnement éventuellement ordonné par
+l'autorité judiciaire et des insaisissabilités reconnues par la loi ; ces dernières s'appliquent à la part du détenu sur le
+produit de son travail.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-322 1959-02-23
+
+	**Modifié par**:
+
+	  - Décret n°72-852 1972-09-12 art. 1 JORF 20 septembre 1972 rectificatif JORF 14 octobre 1972
+	  - Décret n°75-128 1975-03-07 art. 2 JORF 9 mars 1975
+
+	**Liens**:
+
+	  - TXT_SOURCE: Code de procédure pénale 714 à 728
+
 
 ##### Paragraphe 2 : Valeurs non pécuniaires.
 
