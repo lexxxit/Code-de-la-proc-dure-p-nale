@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 2002-03-06
+Version Consolidée au 2002-04-10
 
 # Partie législative
 
@@ -46123,6 +46123,32 @@ de l'exécution du jugement ou de l'arrêt.
 	  - Décret n°70-1223 1970-12-23 art. 1 JORF 25 décembre 1970
 
 
+##### Sous-section 2 : De la détention provisoire et du placement sous surveillance électronique
+
+###### Article R25-1
+
+Le placement sous surveillance électronique par le juge des libertés et de la détention des personnes placées en détention
+provisoire s'effectue dans les conditions fixées aux articles R. 57-10 et suivants.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°58-358 1958-04-02
+
+	**Créé par**:
+
+	  - Décret n°2002-479 du 3 avril 2002 - art. 1 () JORF 10 avril 2002
+
+	**Abrogé par**:
+
+	  - Décret n°2004-243 2004-03-17 art. 2 2° JORF 20 mars 2004
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. R57-10 (M)
+
+
 ##### Sous-section 3 : De la réparation à raison d'une détention provisoire
 
 ##### Paragraphe 1er : De la réparation demandée devant le premier président de la cour d'appel
@@ -50183,6 +50209,355 @@ détenus écroués à la suite d'une demande d'extradition émanant d'un gouvern
 	**Créé par**:
 
 	  - Décret n°99-818 du 16 septembre 1999 - art. 1 () JORF 19 septembre 1999
+
+
+### Titre III : Du placement sous surveillance électronique
+
+###### Article R57-10
+
+Le placement sous surveillance électronique par le juge des libertés et de la détention des personnes placées en détention
+provisoire ou par le juge de l'application des peines des personnes condamnées à une peine privative de liberté, prévu
+respectivement par les articles 144-2 et 723-7, s'effectue dans les conditions fixées par les dispositions du présent titre.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2002-479 du 3 avril 2002 - art. 2 () JORF 10 avril 2002
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. 144-2 (Ab)
+	  - CODE DE PROCEDURE PENALE - art. 723-7 (M)
+
+	**Cité par**:
+
+	  - CODE DE PROCEDURE PENALE - art. R25-1 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°59-318 1959-02-03
+
+
+#### Chapitre unique : Dispositions générales
+
+##### Section 1 : Dispositions concernant le procédé prévu par l'article 723-8
+
+###### Article R57-11
+
+Pour la mise en oeuvre du procédé permettant le placement sous surveillance électronique prévu par l'article 723-8, la
+personne assignée porte un bracelet comportant un émetteur.
+
+Cet émetteur transmet des signaux à un récepteur placé au lieu d'assignation dont le boîtier envoie par l'intermédiaire d'une
+ligne téléphonique, à un centre de surveillance, relevant d'un ou plusieurs établissements pénitentiaires, des messages
+relatifs au fonctionnement du dispositif et à la présence de l'intéressé dans le lieu où il est assigné.
+
+Le bracelet porté par la personne assignée est conçu de façon à ne pouvoir être enlevé par cette dernière sans que soit émis
+un signal d'alarme.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2002-479 du 3 avril 2002 - art. 2 () JORF 10 avril 2002
+
+	**Cité par**:
+
+	  - Arrêté du 1 juillet 2002 - art. 1 (V)
+	  - CODE DE PROCEDURE PENALE - art. R57-12 (V)
+	  - CODE DE PROCEDURE PENALE - art. R57-13 (V)
+	  - CODE DE PROCEDURE PENALE - art. R57-15 (V)
+	  - CODE DE PROCEDURE PENALE - art. R57-19 (V)
+	  - Code de procédure pénale - art. D147-30-20 (VT)
+	  - Code de procédure pénale - art. D32-12 (V)
+	  - Code de procédure pénale - art. D32-4 (V)
+	  - Code de procédure pénale - art. D32-6 (V)
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. 723-8 (M)
+
+	**Codifié par**:
+
+	  - Décret n°59-318 1959-02-03
+
+
+###### Article R57-12
+
+Le procédé décrit à l'article R. 57-11 est homologué par arrêté du garde des sceaux, ministre de la justice.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2002-479 du 3 avril 2002 - art. 2 () JORF 10 avril 2002
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. 723-8 (M)
+	  - CODE DE PROCEDURE PENALE - art. R57-11 (M)
+
+	**Codifié par**:
+
+	  - Décret n°59-318 1959-02-03
+
+
+##### Section 2 : Mesures préalables au placement sous surveillance électronique
+
+###### Article R57-13
+
+Lorsqu'il est saisi d'une demande de placement sous surveillance électronique ou lorsqu'il envisage de prononcer d'office une
+telle mesure, le juge des libertés et de la détention ou le juge de l'application des peines peut charger le service
+pénitentiaire d'insertion et de probation de s'assurer de la disponibilité du dispositif technique décrit à l'article R.
+57-11 et de vérifier la situation familiale, matérielle et sociale de la personne condamnée ou prévenue, notamment aux fins
+de déterminer les horaires et les lieux d'assignation.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2002-479 du 3 avril 2002 - art. 2 () JORF 10 avril 2002
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. R57-11 (M)
+
+	**Codifié par**:
+
+	  - Décret n°59-318 1959-02-03
+
+
+###### Article R57-14
+
+Dans le cas prévu par le deuxième alinéa de l'article 723-7, l'accord écrit du propriétaire, ou du ou des titulaires du
+contrat de location des lieux où pourra être installé le récepteur, est recueilli par le service pénitentiaire d'insertion et
+de probation, sauf si cet accord figure déjà au dossier de la procédure.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-318 1959-02-03
+
+	**Créé par**:
+
+	  - Décret n°2002-479 du 3 avril 2002 - art. 2 () JORF 10 avril 2002
+
+	**Cité par**:
+
+	  - Décret n°2004-837 du 20 août 2004 - art. 5 (V)
+	  - CODE DE PROCEDURE PENALE - art. D147-16 (V)
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. 723-7 (M)
+
+
+###### Article R57-15
+
+Le magistrat informe l'intéressé qu'il peut demander à tout moment qu'un médecin vérifie que la mise en oeuvre du procédé
+décrit à l'article R. 57-11 ne présente pas d'inconvénient pour sa santé.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-318 1959-02-03
+
+	**Créé par**:
+
+	  - Décret n°2002-479 du 3 avril 2002 - art. 2 () JORF 10 avril 2002
+
+	**Cité par**:
+
+	  - CODE DE PROCEDURE PENALE - art. D147-29 (V)
+	  - Code de procédure pénale - art. D147-30-12 (VT)
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. R57-11 (M)
+
+
+##### Section 3 : Décisions de placement sous surveillance électronique, de modification ou de retrait de la mesure
+
+###### Article R57-16
+
+Lorsqu'il décide de placer la personne sous surveillance électronique, le magistrat compétent lui notifie les périodes et les
+lieux d'assignation ainsi que les obligations résultant des dispositions de l'article R. 57-21 et, le cas échéant, les
+mesures prévues aux articles 132-43 à 132-46 du code pénal.
+
+Il l'informe que dans les cas énumérés à l'article 723-13 il pourra retirer sa décision de placement sous surveillance
+électronique.
+
+Il donne connaissance à la personne condamnée à une peine privative de liberté des dispositions des 2° et 4° de l'article
+434-29 du code pénal.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2002-479 du 3 avril 2002 - art. 2 () JORF 10 avril 2002
+
+	**Cite**:
+
+	  - Code pénal - art. 434-29 (M)
+	  - Code pénal 132-43 à 132-46, 434-29
+	  - CODE DE PROCEDURE PENALE - art. 723-13 (M)
+	  - CODE DE PROCEDURE PENALE - art. R57-21 (M)
+
+	**Cité par**:
+
+	  - Code de procédure pénale - art. D147-30-12 (VT)
+
+	**Codifié par**:
+
+	  - Décret n°59-318 1959-02-03
+
+
+###### Article R57-17
+
+Lorsqu'il est fait application des dispositions de l'article 723-11, le magistrat compétent notifie à la personne assignée
+les modifications des conditions d'exécution du placement sous surveillance électronique ou des mesures de contrôle et les
+obligations particulières auxquelles elle est soumise.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-318 1959-02-03
+
+	**Créé par**:
+
+	  - Décret n°2002-479 du 3 avril 2002 - art. 2 () JORF 10 avril 2002
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. 723-11 (M)
+
+
+###### Article R57-18
+
+Pour la tenue du débat contradictoire prévu par le deuxième alinéa de l'article 723-13, l'avocat de la personne est convoqué
+sans délai et par tout moyen.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-318 1959-02-03
+
+	**Créé par**:
+
+	  - Décret n°2002-479 du 3 avril 2002 - art. 2 () JORF 10 avril 2002
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. 723-13 (M)
+
+
+##### Section 4 : Mise en oeuvre du placement sous surveillance électronique
+
+###### Article R57-19
+
+Le personnel de l'administration pénitentiaire assure la pose et la dépose du bracelet prévu à l'article R. 57-11.
+
+Lorsque la décision de placement sous surveillance électronique est exécutoire, la mise en place du dispositif technique doit
+intervenir au plus tard, sous réserve de la disponibilité de ce dispositif, dans les cinq jours qui suivent la décision.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2002-479 du 3 avril 2002 - art. 2 () JORF 10 avril 2002
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. R57-11 (M)
+
+	**Cité par**:
+
+	  - Code de procédure pénale - art. D147-30-41 (VT)
+
+	**Codifié par**:
+
+	  - Décret n°59-318 1959-02-03
+
+
+###### Article R57-20
+
+La personne placée sous surveillance électronique est inscrite au registre d'écrou de l'un des établissements pénitentiaires
+dépendant du centre de surveillance.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2002-479 du 3 avril 2002 - art. 2 () JORF 10 avril 2002
+
+	**Cité par**:
+
+	  - CODE DE PROCEDURE PENALE - art. R57-21 (V)
+	  - Code de procédure pénale - art. R57-34 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°59-318 1959-02-03
+
+
+###### Article R57-21
+
+Le service pénitentiaire d'insertion et de probation de l'établissement mentionné à l'article R. 57-20 assure, le cas
+échéant, le contrôle et le suivi des mesures prévues aux articles 132-43 à 132-46 du code pénal et ordonnées par le juge des
+libertés ou de la détention ou le juge de l'application des peines.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2002-479 du 3 avril 2002 - art. 2 () JORF 10 avril 2002
+
+	**Cite**:
+
+	  - Code pénal 132-43 à 132-46
+	  - CODE DE PROCEDURE PENALE - art. R57-20 (M)
+
+	**Cité par**:
+
+	  - CODE DE PROCEDURE PENALE - art. R57-16 (V)
+	  - CODE DE PROCEDURE PENALE - art. R57-22 (V)
+	  - Code de procédure pénale - art. D147-30-41 (VT)
+	  - Code de procédure pénale - art. D147-30-58 (VT)
+	  - Code de procédure pénale - art. R57-34 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°59-318 1959-02-03
+
+
+###### Article R57-22
+
+Le contrôle du respect des obligations de la personne assignée s'effectue par vérifications téléphoniques, visites au lieu
+d'assignation, convocations à l'établissement d'écrou ou, dans les cas prévus à l'article R. 57-21, au service pénitentiaire
+d'insertion et de probation.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2002-479 du 3 avril 2002 - art. 2 () JORF 10 avril 2002
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. R57-21 (M)
+
+	**Cité par**:
+
+	  - Code de procédure pénale - art. D32-14 (V)
+	  - Code de procédure pénale - art. D32-28 (V)
+
+	**Codifié par**:
+
+	  - Décret n°59-318 1959-02-03
 
 
 ### Titre IV : Du sursis
