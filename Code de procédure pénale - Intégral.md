@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 1977-03-04
+Version Consolidée au 1977-03-05
 
 # Partie législative
 
@@ -19279,6 +19279,26 @@ appartient, soit à l'autorité à l'agrément de laquelle est soumis l'exercice
 	  - Décret n°70-1223 1970-12-23 art. 1 JORF 25 décembre 1970
 
 
+###### Article R18-1
+
+Lorsque le juge d'instruction fait application des mesures prévues par le 13° de l'article 138 (alinéa 2), avis en est donné
+à la succursale ou agence bancaire, à la personne, à l'établissement ou au service qui gèrent le ou les comptes de l'inculpé.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°58-358 1958-04-02
+
+	**Créé par**:
+
+	  - Décret n°77-193 1977-03-03 art. 2 JORF 5 mars 1977
+
+	**Cite**:
+
+	  - Code de procédure pénale 138 al. 2 13°
+
+
 ##### Paragraphe 3 : Du cautionnement
 
 ###### Article R22
@@ -19693,6 +19713,336 @@ l'Economie et des Finances.
 	  - Code de procédure pénale 527 al. 3 et al. 4
 
 
+## Livre IV : De quelques procédures particulières
+
+### Titre XIV : Du recours en indemnité ouvert à certaines victimes de dommages résultant d'une infraction
+
+###### Article R50-4
+
+La commission territorialement compétente est :
+
+Soit celle dans le ressort de laquelle demeure le demandeur ;
+
+Soit, si une juridiction pénale a été saisie en France métropolitaine ou dans les départements d'outre-mer, celle dans le
+ressort de laquelle cette juridiction a son siège.
+
+Le demandeur peut, à son choix, présenter sa requête devant l'une ou l'autre de ces deux commissions.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-318 1959-02-23
+
+	**Créé par**:
+
+	  - Décret n°77-194 1977-03-03 art. 2 JORF 5 mars 1977
+
+	**Abrogé par**:
+
+	  - Décret n°2008-522 du 2 juin 2008 - art. 5
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R214-6 (V)
+
+
+###### Article R50-6
+
+En cas de pluralité de demandeurs victimes d'une même infraction, la commission saisie par l'un d'entre eux peut être
+également saisie par les autres.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-318 1959-02-23
+
+	**Créé par**:
+
+	  - Décret n°77-194 1977-03-03 art. 2 JORF 5 mars 1977
+
+	**Abrogé par**:
+
+	  - Décret n°2008-522 du 2 juin 2008 - art. 5
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R214-6 (V)
+
+
+###### Article R50-8
+
+La commission est saisie par une requête signée de la personne lésée, de son représentant légal ou de son conseil et remise,
+ou adressée par lettre recommandée, au secrétaire de la commission qui en délivre récépissé.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-318 1959-02-23
+
+	**Créé par**:
+
+	  - Décret n°77-194 1977-03-03 art. 2 JORF 5 mars 1977
+
+
+###### Article R50-9
+
+La requête contient tous renseignements utiles à l'instruction de la demande d'indemnité et notamment l'indication :
+
+a) Des nom, prénoms et demeure du demandeur ;
+
+b) De la date, du lieu et des circonstances de l'infraction génératrice du dommage corporel ;
+
+c) De la nature du dommage corporel subi ainsi que, s'il y a lieu, de l'incapacité totale temporaire de travail et de
+l'incapacité permanente qui en sont résultées ;
+
+d) De la juridiction pénale éventuellement saisie de l'infraction ;
+
+e) Des liens de parenté ou relations de droit ou de fait existant entre le demandeur et celui qui a personnellement souffert
+du dommage corporel lorsqu'il ne s'agit pas de la même personne ;
+
+f) De la perte ou de la diminution de revenus, de l'accroissement de charges ou de l'inaptitude à exercer une activité
+professionnelle, qui sont la conséquence du dommage ;
+
+g) Le cas échéant, des organismes publics ou privés dont relève le demandeur ou auprès desquels il est assuré et qui sont
+susceptibles de l'indemniser de tout ou partie du préjudice subi ;
+
+h) Des raisons pour lesquelles il est dans l'impossibilité d'obtenir auprès de ces organismes ou de toute autre personne
+morale ou physique la réparation effective et suffisante de son préjudice ;
+
+i) Des demandes de réparation ou d'indemnité déjà présentées et, en particulier, des actions en dommages-intérêts qui ont été
+engagées ainsi que des sommes qui lui ont déjà été versées en réparation d'une partie du préjudice ;
+
+j) Du montant de l'indemnité réclamée devant la commission ;
+
+k) De l'adresse où doivent être faites les notifications au demandeur.
+
+La requête est accompagnée de toutes pièces justificatives.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-318 1959-02-23
+
+	**Créé par**:
+
+	  - Décret n°77-194 1977-03-03 art. 2 JORF 5 mars 1977
+
+
+###### Article R50-11
+
+S'il s'agit d'une requête en complément d'indemnité fondée sur l'article 706-8, elle doit être accompagnée d'une expédition
+de la décision, passée en force de chose jugée, qui a statué sur les intérêts civils.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-318 1959-02-23
+
+	**Créé par**:
+
+	  - Décret n°77-194 1977-03-03 art. 2 JORF 5 mars 1977
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. 706-8 (M)
+
+
+###### Article R50-14
+
+Le demandeur ainsi que l'agent judiciaire du Trésor peuvent prendre connaissance du dossier au secrétariat de la commission
+et adresser toutes observations qu'ils estiment utiles à l'instruction de la demande d'indemnité.
+
+Le requérant peut se faire délivrer, à ses frais, par le secrétariat copie des pièces du dossier. L'agent judiciaire peut,
+sur sa demande, obtenir que les copies de ces pièces lui soient adressées.
+
+S'il s'agit de procès-verbaux constatant l'infraction ou de pièces de la procédure pénale, la délivrance ou l'envoi des
+copies est subordonné à l'autorisation du ministère public.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-318 1959-02-23
+
+	**Créé par**:
+
+	  - Décret n°77-194 1977-03-03 art. 2 JORF 5 mars 1977
+
+
+###### Article R50-16
+
+Lorsque l'affaire est instruite, le président de la commission fixe la date de l'audience.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-318 1959-02-23
+
+	**Créé par**:
+
+	  - Décret n°77-194 1977-03-03 art. 2 JORF 5 mars 1977
+
+
+###### Article R50-17
+
+Le secrétaire de la commission convoque au moins deux mois à l'avance le demandeur et l'agent judiciaire du Trésor à
+l'audience qui a été fixée. Cette convocation est faite par lettre recommandée avec demande d'avis de réception.
+
+Les parties sont informées dans la convocation que leurs observations doivent être adressées à la commission au plus tard
+quinze jours avant la date de l'audience mais qu'elles peuvent consulter le dossier au secrétariat jusqu'au jour de celle-ci.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-318 1959-02-23
+
+	**Créé par**:
+
+	  - Décret n°77-194 1977-03-03 art. 2 JORF 5 mars 1977
+
+	**Cité par**:
+
+	  - Décret n°94-183 du 1 mars 1994 - art. 5 (Ab)
+	  - CODE DE PROCEDURE PENALE - art. R50-28 (V)
+	  - Code de procédure pénale - art. R284 (V)
+	  - Code de procédure pénale - art. R285 (V)
+	  - Code de procédure pénale - art. R375 (V)
+	  - Code de procédure pénale - art. R50-13 (V)
+	  - Code de procédure pénale - art. R50-25 (V)
+
+
+###### Article R50-20
+
+A l'audience, la commission, lorsqu'elle estime qu'il y a lieu de renvoyer l'affaire à une autre audience, fixe immédiatement
+la date de celle-ci. Les parties, lorsqu'elles ne sont ni présentes ni représentées, sont informées, par lettre recommandée
+avec demande d'avis de réception, de ce renvoi.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-318 1959-02-23
+
+	**Créé par**:
+
+	  - Décret n°77-194 1977-03-03 art. 2 JORF 5 mars 1977
+
+	**Cité par**:
+
+	  - Code de procédure pénale - art. R284 (V)
+
+
+###### Article R50-21
+
+Si la requête est rejetée, le demandeur est condamné aux dépens, à moins que la commission ne l'en décharge en partie ou en
+totalité.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-318 1959-02-23
+
+	**Créé par**:
+
+	  - Décret n°77-194 1977-03-03 art. 2 JORF 5 mars 1977
+
+
+###### Article R50-25
+
+Lorsque l'agent judiciaire du Trésor demande, en application de l'article 706-10, le remboursement total ou partiel de
+l'indemnité qui a été versée par l'Etat, il saisit par simple requête la commission qui se prononce, les parties entendues ou
+appelées dans les conditions prévues aux articles R. 50-17 et suivants.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-318 1959-02-23
+
+	**Créé par**:
+
+	  - Décret n°77-194 1977-03-03 art. 2 JORF 5 mars 1977
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. 706-10 (M)
+	  - CODE DE PROCEDURE PENALE - art. R50-17 (M)
+
+
+###### Article R50-26
+
+Lorsque, postérieurement à l'attribution d'une provision ou d'une indemnité par une commission, des poursuites pénales sont
+engagées contre l'auteur présumé de l'infraction, le ministère public de la juridiction répressive saisie en informe l'agent
+judiciaire du Trésor.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-318 1959-02-23
+
+	**Créé par**:
+
+	  - Décret n°77-194 1977-03-03 art. 2 JORF 5 mars 1977
+
+
+###### Article R50-27
+
+La déclaration de la victime ou de ses ayants droit faite par application des dispositions de l'article 706-12 est
+communiquée par le greffier en chef ou le secrétaire-greffier de la juridiction saisie dans le délai de quinze jours, par
+lettre recommandée avec demande d'avis de réception, à l'agent judiciaire du Trésor. Cette communication est accompagnée des
+renseignements nécessaires à l'exercice de l'action prévue à l'article 706-11. La date de l'audience au cours de laquelle il
+sera statué sur les intérêts civils est notifiée au moins un mois à l'avance par le greffier en chef ou le secrétaire-
+greffier à l'agent judiciaire du Trésor par lettre recommandée avec demande d'avis de réception. En cas de déclaration
+tardive, l'affaire doit être renvoyée à une audience ultérieure dont l'agent judiciaire du Trésor est informé dans le délai
+ci-dessus indiqué.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-318 1959-02-23
+
+	**Créé par**:
+
+	  - Décret n°77-194 1977-03-03 art. 2 JORF 5 mars 1977
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. 706-11 (M)
+	  - CODE DE PROCEDURE PENALE - art. 706-12 (V)
+
+
+###### Article R50-28
+
+Les dispositions des articles 643 à 647 du nouveau code de procédure civile s'appliquent aux délais de deux mois aux articles
+R. 50-15 et R. 50-17.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-318 1959-02-23
+
+	**Créé par**:
+
+	  - Décret n°77-194 1977-03-03 art. 2 JORF 5 mars 1977
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. R50-15 (M)
+	  - CODE DE PROCEDURE PENALE - art. R50-17 (M)
+	  - Nouveau code de procédure civile 643 à 647
+
+
 ## Livre V : Des procédures d'exécution.
 
 ### Titre IV : Du sursis
@@ -19734,6 +20084,45 @@ obligations relatives au régime de la mise à l'épreuve.
 	  - Code de procédure pénale - art. R53-6 (V)
 	  - Code de procédure pénale - art. R92 (V)
 	  - Code de procédure pénale - art. R93 (V)
+
+
+##### Section 5 : Dispositions diverses
+
+###### Article R60
+
+Lorsque le juge des enfants est compétent en vertu de l'article 744-2, il peut s'il l'estime opportun, combiner les mesures
+prévues au présent chapitre avec celles qui sont définies aux articles 15 à 19, 27 et 28 de l'ordonnance n° 45-174 du 2
+février 1945 modifiée relative à l'enfance délinquante.
+
+Le délégué à la liberté surveillée désigné par ce magistrat exerce alors les fonctions d'agent de probation.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Ordonnance 45-174 1945-02-02 art. 15 à art. 19, art. 27 et art. 28
+	  - CODE DE PROCEDURE PENALE - art. 744-2 (M)
+
+	**Codifié par**:
+
+	  - Décret n°59-318 1959-02-23
+
+	**Créé par**:
+
+	  - Décret n°59-318 1959-02-23 JORF 25 février 1959 en vigueur le 2 mars 1959 rectificatif JORF 13 juin 1959
+
+	**Modifié par**:
+
+	  - Décret n°77-193 1977-03-03 art. 3 JORF 5 mars 1977
+
+	**Liens**:
+
+	  - TXT_SOURCE: CODE DE PROCEDURE PENALE - art. 739 (M)
+
+	**Cité par**:
+
+	  - CODE DE PROCEDURE PENALE - art. R61-32 (Ab)
+	  - Code de procédure pénale - art. R289 (V)
 
 
 #### Chapitre II : De sursis avec mise à l'épreuve
@@ -19902,6 +20291,37 @@ Dès son retour à la vie civile, il doit se présenter au juge de l'application
 ### Titre VIII : Du casier judiciaire
 
 #### Chapitre II : De l'établissement des fiches du casier judiciaire
+
+###### Article R66
+
+La fiche constatant l'une des décisions visées par l'article 768 (1° à 6°) est dressée par le greffier de la juridiction qui
+a statué dans les quinze jours qui suivent celui où la décision est devenue définitive si elle a été rendue
+contradictoirement.
+
+En cas de décision par défaut, le délai de quinzaine court du jour de la signification ; pour les arrêts de contumace, il
+court du jour de l'arrêt.
+
+Lorsque les cours et tribunaux ont ordonné qu'il sera sursis à l'exécution de la peine, avec ou sans mise à l'épreuve, cette
+décision est mentionnée sur la fiche constatant la condamnation.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-318 1959-02-23
+
+	**Créé par**:
+
+	  - Décret n°59-318 1959-02-23 JORF 25 février 1959 en vigueur le 2 mars 1959 rectificatif JORF 13 juin 1959
+
+	**Modifié par**:
+
+	  - Décret n°77-193 1977-03-03 art. 4 JORF 5 mars 1977
+
+	**Cite**:
+
+	  - Code de procédure pénale 768 (1° à 6°)
+
 
 ###### Article R72
 
@@ -23207,6 +23627,45 @@ copie de l'état de liquidation rendu exécutoire.
 
 
 ##### Paragraphe 2 : Personnes contre lesquelles le recouvrement des frais peut être poursuivi
+
+###### Article R245
+
+Conformément aux articles 366, 473 à 477, 514, 543 et 549 du Code de procédure pénale et 55 du Code pénal, tout arrêt, tout
+jugement ou toute ordonnance pénale de condamnation doit assujettir au remboursement des frais les condamnés et les personnes
+civilement responsables.
+
+Au cas où l'annulation d'une procédure est fondée sur une nullité qui n'est le fait du condamné ou des personnes civilement
+responsables, ceux-ci ne peuvent être tenus des frais nécessités par cette procédure.
+
+Le juge peut ne pas mettre à la charge de la partie qui succombe, quelle qu'elle soit, les frais qu'il déclare frustratoires.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-318 1959-02-23
+
+	**Créé par**:
+
+	  - Décret n°59-318 1959-02-23 JORF 25 février 1959 en vigueur le 2 mars 1959 rectificatif JORF 13 juin 1959
+
+	**Modifié par**:
+
+	  - Décret n°72-630 1972-07-04 art. 9 JORF 9 juillet 1972
+	  - Décret n°74-88 1974-02-04 art. 1 JORF 6 février 1974
+	  - Décret n°77-193 1977-03-03 art. 6 JORF 5 mars 1977
+
+	**Abrogé par**:
+
+	  - Décret n°93-867 du 28 juin 1993 - art. 20 (V) JORF 29 juin 1993
+
+	**Cite**:
+
+	  - Code pénal 55
+	  - CODE DE PROCEDURE PENALE - art. 366 (M)
+	  - CODE DE PROCEDURE PENALE - art. 514 (M)
+	  - Code de procédure pénale 366, 473 à 477, 514, 543 et 549
+
 
 ###### Article R246
 
