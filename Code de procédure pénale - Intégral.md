@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 1984-04-10
+Version Consolidée au 1984-04-20
 
 # Partie législative
 
@@ -29458,6 +29458,73 @@ judiciaire exercée sur chaque inculpé en application du 6° de l'article 138 (
 	  - Décret n°70-1223 1970-12-23 art. 2 JORF 25 décembre 1970
 
 
+##### Paragraphe 3 : Des interprètes traducteurs
+
+###### Article R122
+
+Les traductions par écrit sont payées 60 F la page de texte français.
+
+Lorsque les interprètes traducteurs sont appelés devant le procureur de la République, les officiers de police judiciaire ou
+leurs auxiliaires, devant les juges d'instruction ou devant les juridictions répressives pour faire les traductions orales,
+il leur est alloué :
+
+1° Pour la première heure de présence, qui est toujours due en entier :
+
+A Paris et dans les départements des Hauts-de-Seine, de la Seine-Saint-Denis et du Val-de-Marne : 80 F ;
+
+Dans les autres départements : 72 F ;
+
+2° Par demi-heure supplémentaire, due en entier dès qu'elle est commencée : 40 F ou 36 F suivant la distinction ci-dessus.
+
+Les sommes fixées par le présent article sont majorées de 25 % lorsque la traduction porte sur une langue autre que
+l'anglais, l'allemand, l'espagnol ou l'italien.
+
+Les interprètes traducteurs ont droit aux indemnités de voyage et de séjour prévues aux articles R. 110 et R. 111.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-318 1959-02-23
+
+	**Créé par**:
+
+	  - Décret n°59-318 1959-02-23 JORF 25 février 1959 en vigueur le 2 mars 1959 rectificatif JORF 13 juin 1959
+
+	**Modifié par**:
+
+	  - Décret n°61-448 1961-05-08 art. 1 JORF 9 mai 1961
+	  - Décret n°67-62 1967-01-14 art. 1 JORF 20 janvier 1967
+	  - Décret n°74-88 1974-02-04 art. 1 JORF 6 février 1974
+	  - Décret n°81-70 1981-01-28 art. 4 JORF 30 janvier 1981
+	  - Décret n°84-289 1984-04-19 art. 1 JORF 20 avril 1984
+
+	**Cité par**:
+
+	  - Décret n°90-226 du 13 mars 1990 - art. 1 (V)
+	  - Décret n°91-1266 du 19 décembre 1991 - art. 119-1 (V)
+	  - CODE DE PROCEDURE PENALE - art. A43-7 (V)
+	  - CODE DE PROCEDURE PENALE - art. R122-1 (Ab)
+	  - CODE DE PROCEDURE PENALE - art. R408 (Ab)
+	  - Code de justice administrative - art. R776-18 (VD)
+	  - Code de justice administrative - art. R776-23 (VD)
+	  - Code de procédure civile - art. 670-3 (V)
+	  - Code de procédure pénale - art. R323 (V)
+	  - Code de procédure pénale - art. R93-1 (V)
+	  - Code de procédure pénale - art. R93-3 (V)
+	  - Code des tribunaux administratifs et des cours adm - art. R241-18 (Ab)
+	  - Nouveau code de procédure civile - art. 178-1 (V)
+
+	**Liens**:
+
+	  - TXT_SOURCE: CODE DE PROCEDURE PENALE - art. 800 (M)
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. R110 (V)
+	  - CODE DE PROCEDURE PENALE - art. R111 (V)
+
+
 ##### Section 3 : Des indemnités qui peuvent être accordées aux témoins et aux jurés
 
 ##### Paragraphe 1er : Des témoins
@@ -30754,6 +30821,87 @@ huissiers de justice audienciers chargés du service de la Cour d'assises de Par
 
 ##### Paragraphe 2 : Citations et significations
 
+###### Article R181
+
+Il est alloué aux huissiers de justice pour toutes citations en matière criminelle, correctionnelle et de police, pour les
+significations des mandats de comparution, pour toutes significations d'ordonnances, jugements et arrêts et tous autres actes
+ou pièces en matière criminelle, correctionnelle et de police, une somme forfaitaire de 18 F pour l'original, les copies et
+l'envoi par lettre recommandée avec avis de réception prévue par les articles 557 et 558 et ce, en sus du coût
+d'affranchissement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-318 1959-02-23
+
+	**Créé par**:
+
+	  - Décret n°59-318 1959-02-23 JORF 25 février 1959 en vigueur le 2 mars 1959 rectificatif JORF 13 juin 1959
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°59-318 1959-02-23 art. 5
+
+	**Modifié par**:
+
+	  - Décret n°60-897 1960-08-24 art. 1 JORF 25 août 1960
+	  - Décret n°61-448 1961-05-08 art. 1 JORF 9 mai 1961
+	  - Décret n°67-62 1967-01-14 art. 1 JORF 20 janvier 1967
+	  - Décret n°74-88 1974-02-04 art. 1 JORF 6 février 1974
+	  - Décret n°78-263 1978-03-09 art. 7 JORF 10 mars 1978
+	  - Décret n°81-384 1981-04-22 art. 1 JORF 23 avril 1981
+	  - Décret n°84-289 1984-04-19 art. 2 JORF 20 avril 1984
+
+	**Cité par**:
+
+	  - Décret n°2010-495 du 14 mai 2010 - art. 23 (V)
+	  - Décret n°2016-1026 du 26 juillet 2016 - art. 85
+	  - CODE DE PROCEDURE PENALE - art. R182 (V)
+	  - Code de commerce - art. R824-1 (V)
+	  - Code de procédure pénale - art. R335 (V)
+	  - Code forestier (nouveau) - art. R161-10 (V)
+	  - Code forestier - art. R122-14 (Ab)
+	  - Code monétaire et financier - art. R612-51 (V)
+	  - Code monétaire et financier - art. R621-40 (V)
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. 557 (M)
+	  - CODE DE PROCEDURE PENALE - art. 558 (M)
+
+
+###### Article R182
+
+Dans les cas prévus à l'article précédent, il est alloué, en outre, aux huissiers de justice une somme de 36 F si la
+délivrance de l'acte a été faite à personne.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-318 1959-02-23
+
+	**Créé par**:
+
+	  - Décret n°59-318 1959-02-23 JORF 25 février 1959 en vigueur le 2 mars 1959 rectificatif JORF 13 juin 1959
+
+	**Modifié par**:
+
+	  - Décret n°74-88 1974-02-04 art. 1 JORF 6 février 1974
+	  - Décret n°78-263 1978-03-09 art. 8 JORF 10 mars 1978
+	  - Décret n°81-384 1981-04-22 art. 2 JORF 23 avril 1981
+	  - Décret n°84-289 1984-04-19 art. 3 JORF 20 avril 1984
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. R181 (M)
+
+	**Cité par**:
+
+	  - Code de procédure pénale - art. R336 (V)
+
+
 ###### Article R183
 
 Lorsqu'il n'a pas été délivré au ministère public d'expédition des actes ou jugements à signifier, les significations sont
@@ -30799,6 +30947,34 @@ Les copies de tous actes, jugements et pièces à signifier sont toujours faites
 	**Cité par**:
 
 	  - Décret n°67-902 du 12 octobre 1967 - art. 34 (Ab)
+
+
+###### Article R185
+
+Lorsqu'il doit être donné copie de certaines pièces, il est alloué, quel que soit le nombre de pages copiées, une somme
+forfaitaire de 6 F en matière de police et de 9 F en matière correctionnelle et criminelle.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-318 1959-02-23
+
+	**Créé par**:
+
+	  - Décret n°59-318 1959-02-23 JORF 25 février 1959 en vigueur le 2 mars 1959 rectificatif JORF 13 juin 1959
+
+	**Modifié par**:
+
+	  - Décret n°67-62 1967-01-14 art. 1 et art. 2 JORF 20 janvier 1967
+	  - Décret n°74-88 1974-02-04 art. 1 JORF 6 février 1974
+	  - Décret n°78-263 1978-03-09 art. 9 JORF 10 mars 1978
+	  - Décret n°84-289 1984-04-19 art. 4 JORF 20 avril 1984
+
+	**Cité par**:
+
+	  - Code de procédure pénale - art. R197 (V)
+	  - Code de procédure pénale - art. R337 (V)
 
 
 ###### Article R187
