@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 1990-07-11
+Version Consolidée au 1990-07-13
 
 # Partie législative
 
@@ -96,10 +96,12 @@ religion déterminée.
 ###### Article 2-2
 
 Toute association régulièrement déclarée depuis au moins cinq ans à la date des faits, dont l'objet statutaire comporte la
-lutte contre les violences sexuelles, peut exercer les droits reconnus à la partie civile, en ce qui concerne les infractions
-prévues par les articles 332, 333 et 333-1 du code pénal. Toutefois, l'association ne sera recevable dans son action que si
-elle justifie avoir reçu l'accord de la victime ou, si celle-ci est mineure, celui du titulaire de l'autorité parentale ou du
-représentant légal.
+lutte contre les violences sexuelles ou contre les violences exercées sur un membre de la famille, peut exercer les droits
+reconnus à la partie civile, en ce qui concerne les infractions prévues par les articles 184, 302, 304, 306, 309, 310, 311,
+316, 330, 331, 331-1, 332, 333, 333-1 et 341 du code pénal.
+
+Toutefois, l'association ne sera recevable dans son action que si elle justifie avoir reçu l'accord de la victime ou, si
+celle-ci est mineure, celui du titulaire de l'autorité parentale ou du représentant légal.
 
 **Liens relatifs à cet article**
 
@@ -107,13 +109,13 @@ représentant légal.
 
 	  - Loi n°57-1426 1957-12-31
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°80-1041 1980-12-23 art. 3 JORF 24 décembre 1980
+	  - Loi n°90-602 du 12 juillet 1990 - art. 12 () JORF 13 juillet 1990
 
 	**Cite**:
 
-	  - Code pénal 332, 333, 333-1
+	  - Code pénal 184, 302, 304, 306, 309, 310, 311, 316, 330, 331, 331-1, 332, 333, 333-1, 341
 
 
 ###### Article 2-3
@@ -243,9 +245,11 @@ vue d'obtenir le remboursement, par le condamné, des frais qu'elles ont exposé
 ###### Article 2-8
 
 Toute association régulièrement déclarée depuis au moins cinq ans à la date des faits ayant, en vertu de ses statuts,
-vocation à défendre ou à assister les personnes handicapées peut exercer les droits reconnus à la partie civile en ce qui
-concerne les infractions prévues par les 1° et 2° de l'article 416 du code pénal qui ont été commises au préjudice d'une
-personne à raison de son handicap.
+vocation à défendre ou à assister les personnes malades ou handicapées peut exercer les droits reconnus à la partie civile en
+ce qui concerne les infractions prévues par les articles 187-1, 187-2, 416 et 416-1 du code pénal qui ont été commises au
+préjudice d'une personne en raison de son état de santé ou de son handicap. Toutefois, l'association ne sera recevable dans
+son action que si elle justifie avoir reçu l'accord de la victime ou, si celle-ci est un mineur ou un majeur protégé, celui
+de son représentant légal.
 
 **Liens relatifs à cet article**
 
@@ -253,13 +257,13 @@ personne à raison de son handicap.
 
 	  - Loi n°57-1426 1957-12-31
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°89-18 du 13 janvier 1989 - art. 66 () JORF 14 janvier 1989
+	  - Loi n°90-602 du 12 juillet 1990 - art. 7 () JORF 13 juillet 1990
 
 	**Cite**:
 
-	  - Code pénal 416
+	  - Code pénal 187-1, 187-2, 416, 416-1
 
 	**Cité par**:
 
@@ -292,6 +296,30 @@ public ou la partie lésée.
 	**Cite**:
 
 	  - Code de procédure pénale - art. 706-16 (V)
+
+
+###### Article 2-10
+
+Toute association régulièrement déclarée depuis au moins cinq ans à la date des faits ayant, en vertu de ses statuts,
+vocation à lutter contre l'exclusion sociale ou culturelle des personnes en état de grande pauvreté ou en raison de leur
+situation de famille peut exercer les droits reconnus à la partie civile en ce qui concerne les infractions prévues par les
+articles 187-1, 187-2, 416 et 416-1 du code pénal. Toutefois l'association ne sera recevable dans son action que si elle
+justifie avoir reçu l'accord de la victime ou, si celle-ci est un mineur ou un majeur protégé, celui de son représentant
+légal.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°57-1426 1957-12-31
+
+	**Créé par**:
+
+	  - Loi n°90-602 du 12 juillet 1990 - art. 8 () JORF 13 juillet 1990
+
+	**Cite**:
+
+	  - Code de procédure pénale - art. 187-1 (V)
 
 
 ###### Article 3
