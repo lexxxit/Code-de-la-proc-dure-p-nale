@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 1968-06-09
+Version Consolidée au 1968-07-14
 
 # Partie législative
 
@@ -17492,6 +17492,23 @@ fixées à l'article 225.
 	  - CODE DE PROCEDURE PENALE - art. D44 (M)
 
 
+## Livre IV : De quelques procédures particulières
+
+### Titre II : Du faux
+
+###### Article D47-1
+
+Le demandeur en inscription de faux contre une pièce produite devant la Cour de cassation, dont le premier président rejette
+la demande, est condamné, sauf s'il en est expressément dispensé, au paiement d'une amende civile de 200 F au moins et de
+1.000 F. au plus.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-322 1959-02-23
+
+
 ## Livre V : Des procédures d'exécution
 
 ### Titre Ier : De l'exécution des sentences pénales
@@ -23505,38 +23522,6 @@ qualité d'officier de police judiciaire, et, éventuellement, toutes propositio
 	**Cité par**:
 
 	  - Code de procédure pénale - art. A10 (M)
-
-
-##### Paragraphe 3 : Désignation des officiers de police de la préfecture de police
-
-###### Article A34
-
-[Article abrogé].
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Arrêté 1958-12-23
-
-	**Abrogé par**:
-
-	  - Arrêté 1968-05-27 art. 2 JORF 9 juin 1968
-
-
-###### Article A35
-
-[Article abrogé].
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Arrêté 1958-12-23
-
-	**Abrogé par**:
-
-	  - Arrêté 1968-05-27 art. 2 JORF 9 juin 1968
 
 
 ## Livre V : Des procédures d'exécution
