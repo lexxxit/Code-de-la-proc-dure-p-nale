@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 2000-12-24
+Version Consolidée au 2000-12-31
 
 # Partie législative
 
@@ -8835,21 +8835,22 @@ lieu de statuer sur cette demande ; dans ce cas, la demande et l'ordonnance sont
 	  - CODE DE PROCEDURE PENALE - art. D153 (M)
 
 
-##### Sous-section 3 : De l'indemnisation à raison d'une détention provisoire
+##### Sous-section 3 : De la réparation à raison d'une détention
 
 ###### Article 149
 
-Sans préjudice de l'application des dispositions des articles 505 et suivants du Code de procédure civile, une indemnité est
-accordée, à sa demande, à la personne ayant fait l'objet d'une détention provisoire au cours d'une procédure terminée à son
-égard par une décision de non-lieu, de relaxe ou d'acquittement devenue définitive, afin de réparer le préjudice moral et
-matériel qu'elle a subi à cette occasion. Toutefois, aucune indemnisation n'est due lorsque cette décision a pour seul
-fondement la reconnaissance de son irresponsabilité au sens de l'article 122-1 du code pénal, une amnistie postérieure à la
-mise en détention provisoire, ou lorsque la personne a fait l'objet d'une détention provisoire pour s'être librement et
-volontairement accusée ou laissé accuser à tort en vue de faire échapper l'auteur des faits aux poursuites. A la demande de
-l'intéressé, le préjudice est évalué par expertise contradictoire réalisée dans les conditions des articles 156 et suivants.
+Sans préjudice de l'application des dispositions des deuxième et troisième alinéas de l'article L. 781-1 du code de
+l'organisation judiciaire, la personne qui a fait l'objet d'une détention provisoire au cours d'une procédure terminée à son
+égard par une décision de non-lieu, de relaxe ou d'acquittement devenue définitive a droit, à sa demande, à réparation
+intégrale du préjudice moral et matériel que lui a causé cette détention. Toutefois, aucune réparation n'est due lorsque
+cette décision a pour seul fondement la reconnaissance de son irresponsabilité au sens de l'article 122-1 du code pénal, une
+amnistie postérieure à la mise en détention provisoire, ou lorsque la personne a fait l'objet d'une détention provisoire pour
+s'être librement et volontairement accusée ou laissé accuser à tort en vue de faire échapper l'auteur des faits aux
+poursuites. A la demande de l'intéressé, le préjudice est évalué par expertise contradictoire réalisée dans les conditions
+des articles 156 et suivants.
 
 Lorsque la décision de non-lieu, de relaxe ou d'acquittement lui est notifiée, la personne est avisée de son droit de
-demander une indemnisation, ainsi que des dispositions de l'article 149-1.
+demander réparation, ainsi que des dispositions des articles 149-1 à 149-3 (premier alinéa).
 
 **Liens relatifs à cet article**
 
@@ -8877,13 +8878,17 @@ demander une indemnisation, ainsi que des dispositions de l'article 149-1.
 
 	**Modifié par**:
 
-	  - Loi n°2000-516 du 15 juin 2000 - art. 70 () JORF 16 juin 2000
+	  - Loi n°2000-1354 2000-12-30 art. 1, 2, 3 et 7 JORF 31 décembre 2000
+	  - Loi n°2000-1354 du 30 décembre 2000 - art. 1 () JORF 31 décembre 2000
+	  - Loi n°2000-1354 du 30 décembre 2000 - art. 2 () JORF 31 décembre 2000
 
 	**Cite**:
 
 	  - Code de procédure civile - art. 505 (V)
 	  - Code pénal - art. 122-1 (V)
 	  - CODE DE PROCEDURE PENALE - art. 156 (M)
+	  - Code de procédure pénale 156, 149-1 à 149-3
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L781-1 (Ab)
 
 	**Nouveaux textes**:
 
@@ -8892,8 +8897,8 @@ demander une indemnisation, ainsi que des dispositions de l'article 149-1.
 
 ###### Article 149-1
 
-L'indemnité prévue à l'article précédent est allouée par décision du premier président de la cour d'appel dans le ressort de
-laquelle a été prononcée la décision de non-lieu, de relaxe ou d'acquittement.
+La réparation prévue à l'article précédent est allouée par décision du premier président de la cour d'appel dans le ressort
+de laquelle a été prononcée la décision de non-lieu, de relaxe ou d'acquittement.
 
 **Liens relatifs à cet article**
 
@@ -8913,7 +8918,7 @@ laquelle a été prononcée la décision de non-lieu, de relaxe ou d'acquittemen
 
 	**Modifié par**:
 
-	  - Loi n°2000-516 du 15 juin 2000 - art. 71 () JORF 16 juin 2000 en vigueur le 16 décembre 2000
+	  - Loi n°2000-1354 du 30 décembre 2000 - art. 4 () JORF 31 décembre 2000
 
 	**Nouveaux textes**:
 
@@ -8950,15 +8955,14 @@ par l'intermédiaire de son conseil.
 
 	**Modifié par**:
 
-	  - Loi n°2000-516 du 15 juin 2000 - art. 71 () JORF 16 juin 2000 en vigueur le 16 décembre 2000
+	  - Loi n°2000-1354 du 30 décembre 2000 - art. 7 () JORF 31 décembre 2000
 
 
 ###### Article 149-3
 
 Les décisions prises par le premier président de la cour d'appel peuvent, dans les dix jours de leur notification, faire
-l'objet d'un recours devant une commission nationale d'indemnisation des détentions provisoires. Cette commission, placée
-auprès de la Cour de cassation, statue souverainement et ses décisions ne sont susceptibles d'aucun recours, de quelque
-nature que ce soit.
+l'objet d'un recours devant une commission nationale de réparation des détentions. Cette commission, placée auprès de la Cour
+de cassation, statue souverainement et ses décisions ne sont susceptibles d'aucun recours, de quelque nature que ce soit.
 
 Le bureau de la Cour de cassation peut décider que la commission nationale comportera plusieurs formations.
 
@@ -8977,9 +8981,9 @@ Les dispositions de l'article 149-2 sont applicables aux décisions rendues par 
 
 	  - Loi n°57-1426 1957-12-31
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2000-516 du 15 juin 2000 - art. 71 () JORF 16 juin 2000 en vigueur le 16 décembre 2000
+	  - Loi n°2000-1354 du 30 décembre 2000 - art. 7 () JORF 31 décembre 2000
 
 	**Cité par**:
 
@@ -9004,16 +9008,16 @@ civiles, est fixée par un décret en Conseil d'Etat.
 
 	  - Loi n°57-1426 1957-12-31
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2000-516 du 15 juin 2000 - art. 71 () JORF 16 juin 2000 en vigueur le 16 décembre 2000
+	  - Loi n°2000-1354 du 30 décembre 2000 - art. 7 () JORF 31 décembre 2000
 
 
 ###### Article 150
 
-L'indemnité allouée en application de la présente sous-section est à la charge de l'Etat, sauf le recours de celui-ci contre
-le dénonciateur de mauvaise foi ou le faux témoin dont la faute aurait provoqué la détention ou sa prolongation. Elle est
-payée comme frais de justice criminelle.
+La réparation allouée en application de la présente sous-section est à la charge de l'Etat, sauf le recours de celui-ci
+contre le dénonciateur de mauvaise foi ou le faux témoin dont la faute aurait provoqué la détention ou sa prolongation. Elle
+est payée comme frais de justice criminelle.
 
 **Liens relatifs à cet article**
 
@@ -9021,13 +9025,13 @@ payée comme frais de justice criminelle.
 
 	  - Loi n°57-1426 1957-12-31
 
-	**Modifié par**:
-
-	  - Loi n°70-643 du 17 juillet 1970 - art. 1 () JORF 19 juillet 1970 en vigueur le 1er janvier 1971
-
 	**Liens**:
 
 	  - SPEC_APPLI: Loi n°70-643 du 17 juillet 1970 - art. 55 (V)
+
+	**Modifié par**:
+
+	  - Loi n°2000-1354 du 30 décembre 2000 - art. 5 () JORF 31 décembre 2000
 
 	**Cité par**:
 
@@ -18314,7 +18318,7 @@ Toute personne citée pour être entendue comme témoin est tenue de comparaîtr
 ###### Article 438
 
 Le témoin qui ne comparaît pas ou qui refuse, soit de prêter serment, soit de faire sa déposition, peut être, sur
-réquisitions du ministère public, condamné par le tribunal à la peine portée à l'article 109.
+réquisitions du ministère public, condamné par le tribunal à une amende de 25 000 F.
 
 **Liens relatifs à cet article**
 
@@ -18329,11 +18333,7 @@ réquisitions du ministère public, condamné par le tribunal à la peine porté
 
 	**Modifié par**:
 
-	  - Loi n°93-1013 1993-08-24 art. 28 JORF 25 août 1993 en vigueur le 2 septembre 1993
-
-	**Cite**:
-
-	  - CODE DE PROCEDURE PENALE - art. 109 (M)
+	  - Loi n°2000-1354 du 30 décembre 2000 - art. 10 () JORF 31 décembre 2000
 
 	**Cité par**:
 
@@ -24297,26 +24297,32 @@ la Cour de cassation ou par un avocat régulièrement inscrit à un barreau.
 
 ###### Article 626
 
-Un condamné reconnu innocent en application du présent titre a droit à une indemnité à raison du préjudice matériel et moral
-que lui a causé la condamnation, à moins qu'il ne soit prouvé que la non-représentation de la pièce nouvelle ou la non-
-révélation de l'élément inconnu en temps utile lui est imputable en tout ou partie.
+Sans préjudice des dispositions des deuxième et troisième alinéas de l'article L. 781-1 du code de l'organisation judiciaire,
+un condamné reconnu innocent en application du présent titre a droit à réparation intégrale du préjudice matériel et moral
+que lui a causé la condamnation. Toutefois, aucune réparation n'est due lorsque la personne a été condamnée pour des faits
+dont elle s'est librement et volontairement accusée ou laissé accuser à tort en vue de faire échapper l'auteur des faits aux
+poursuites. 
 
-Peut également demander une indemnité, dans les mêmes conditions, toute personne justifiant du préjudice que lui a causé la
-condamnation.
+Peut également demander une réparation, dans les mêmes conditions, toute personne justifiant du préjudice que lui a causé la
+condamnation. 
 
-L'indemnité est allouée par la commission et suivant la procédure prévue par les articles 149-1 et 149-2. Si la personne en
-fait la demande, l'indemnisation peut également être allouée par la décision d'où résulte son innocence. Devant la cour
-d'assises, l'indemnisation est allouée par la cour statuant, comme en matière civile, sans l'assistance des jurés.
+A la demande de l'intéressé, le préjudice est évalué par expertise contradictoire réalisée dans les conditions des articles
+156 et suivants. 
 
-Cette indemnité est à la charge de l'Etat, sauf son recours contre la partie civile, le dénonciateur ou le faux témoin par la
-faute desquels la condamnation a été prononcée. Elle est payée comme frais de justice criminelle, correctionnelle et de
-police.
+La réparation est allouée par le premier président de la cour d'appel dans le ressort de laquelle réside l'intéressé et
+suivant la procédure prévue par les articles 149-2 à 149-4. Si la personne en fait la demande, la réparation peut également
+être allouée par la décision d'où résulte son innocence. Devant la cour d'assises, la réparation est allouée par la cour
+statuant, comme en matière civile, sans l'assistance des jurés. 
+
+Cette réparation est à la charge de l'Etat, sauf son recours contre la partie civile, le dénonciateur ou le faux témoin par
+la faute desquels la condamnation a été prononcée. Elle est payée comme frais de justice criminelle, correctionnelle et de
+police. 
 
 Si le demandeur le requiert, l'arrêt ou le jugement de révision d'où résulte l'innocence du condamné est affiché dans la
 ville où a été prononcée la condamnation, dans la commune du lieu où le crime ou le délit a été commis, dans celle du
 domicile des demandeurs en révision, dans celles du lieu de naissance et du dernier domicile de la victime de l'erreur
 judiciaire, si elle est décédée ; dans les mêmes conditions, il est ordonné qu'il soit inséré au Journal officiel et publié
-par extraits dans cinq journaux au choix de la juridiction qui a prononcé la décision.
+par extraits dans cinq journaux au choix de la juridiction qui a prononcé la décision. 
 
 Les frais de la publicité ci-dessus prévue sont à la charge du Trésor.
 
@@ -24328,12 +24334,7 @@ Les frais de la publicité ci-dessus prévue sont à la charge du Trésor.
 
 	**Modifié par**:
 
-	  - Loi n°99-515 du 23 juin 1999 - art. 25 () JORF 24 juin 1999
-
-	**Cite**:
-
-	  - CODE DE PROCEDURE PENALE - art. 149-1 (M)
-	  - CODE DE PROCEDURE PENALE - art. 149-2 (M)
+	  - Loi n°2000-1354 du 30 décembre 2000 - art. 6 () JORF 31 décembre 2000
 
 	**Cité par**:
 
@@ -24341,6 +24342,11 @@ Les frais de la publicité ci-dessus prévue sont à la charge du Trésor.
 	  - Code de justice militaire. - art. L233-3 (VD)
 	  - Code de procédure pénale - art. R210 (V)
 	  - Code de procédure pénale - art. R92 (V)
+
+	**Cite**:
+
+	  - Code de procédure pénale - art. 149-2 (V)
+	  - Code de l'organisation judiciaire - art. L781-1 (Ab)
 
 
 ### Titre III : Du réexamen d'une décision pénale consécutif au prononcé d'un arrêt de la Cour européenne des droits de l'homme
@@ -24525,8 +24531,8 @@ Si, à l'issue de la procédure, le condamné est reconnu innocent, les disposit
 
 ###### Article 627
 
-Lorsque, après un arrêt de mise en accusation, l'accusé n'a pu être saisi ou ne se représente pas dans les dix jours de la
-signification qui en a été faite à son domicile, ou lorsque après s'être présenté ou avoir été saisi, il s'est évadé, le
+Lorsque, après une décision de mise en accusation, l'accusé n'a pu être saisi ou ne se représente pas dans les dix jours de
+la signification qui en a été faite à son domicile, ou lorsque après s'être présenté ou avoir été saisi, il s'est évadé, le
 président de la cour d'assises ou, en son absence, le président du tribunal du lieu où se tiennent les assises, ou le
 magistrat qui le remplace, rend une ordonnance portant qu'il est tenu de se représenter dans un nouveau délai de dix jours,
 sinon, qu'il sera déclaré rebelle à la loi, qu'il sera suspendu de l'exercice de ses droits de citoyen, que ses biens seront
@@ -24550,13 +24556,13 @@ Cette ordonnance fait de plus mention du crime et de l'ordonnance de prise de co
 	  - Code de procédure pénale - art. R192 (V)
 	  - Code de procédure pénale - art. R342 (V)
 
+	**Modifié par**:
+
+	  - Loi n°2000-1354 du 30 décembre 2000 - art. 28 () JORF 31 décembre 2000
+
 	**Nouveaux textes**:
 
 	  - CODE DE PROCEDURE PENALE - art. 627-21 (Ab)
-
-	**Modifié par**:
-
-	  - Ordonnance 60-259 1959-06-04 art. 8 JORF 8 juin 1960
 
 
 ### Titre Ier : Des contumaces
@@ -24656,7 +24662,7 @@ de ses biens pendant un temps qui est fixé eu égard à la nature de l'excuse e
 
 ###### Article 632
 
-Hors ce cas, il est procédé à la lecture de l'arrêt de renvoi à la cour d'assises, de l'exploit de signification de
+Hors ce cas, il est procédé à la lecture de la décision de renvoi à la cour d'assises, de l'exploit de signification de
 l'ordonnance ayant pour objet la représentation du contumax et des procès-verbaux dressés pour en constater la publication et
 l'affichage.
 
@@ -24676,7 +24682,7 @@ civils.
 
 	**Modifié par**:
 
-	  - Loi n°94-89 du 1 février 1994 - art. 10 () JORF 2 février 1994 en vigueur le 1er mars 1994
+	  - Loi n°2000-1354 du 30 décembre 2000 - art. 29 () JORF 31 décembre 2000
 
 	**Cite**:
 
@@ -37555,6 +37561,30 @@ Les personnes visées à l'article 714 peuvent être détenues dans un local aut
 	  - CODE DE PROCEDURE PENALE - art. 714 (M)
 
 
+###### Article 868-1
+
+Par dérogation aux dispositions des deuxième et troisième alinéas de l'article 709-1, le président du tribunal de première
+instance de Wallis-et-Futuna exerce les fonctions de juge de l'application des peines.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 96-268 1996-03-28
+
+	**Créé par**:
+
+	  - Loi n°2000-1354 du 30 décembre 2000 - art. 32 () JORF 31 décembre 2000
+
+	**Cité par**:
+
+	  - Décret n°2006-385 du 30 mars 2006 - art. 23 (V)
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. 709-1 (M)
+
+
 ###### Article 869
 
 Les attributions dévolues au ministre de la justice par les articles 730 à 733 sont exercées par le représentant de l'Etat
@@ -38388,6 +38418,26 @@ L'article 758 est ainsi rédigé :
 	**Cite**:
 
 	  - CODE DE PROCEDURE PENALE - art. 758 (M)
+
+
+###### Article 901-1
+
+Par dérogation aux dispositions des deuxième et troisième alinéas de l'article 709-1, le président du tribunal de première
+instance exerce les fonctions de juge de l'application des peines.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 96-268 1996-03-28
+
+	**Créé par**:
+
+	  - Loi n°2000-1354 du 30 décembre 2000 - art. 32 () JORF 31 décembre 2000
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. 709-1 (M)
 
 
 ###### Article 902
