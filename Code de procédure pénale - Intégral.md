@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 1974-02-06
+Version Consolidée au 1974-04-14
 
 # Partie législative
 
@@ -20727,6 +20727,30 @@ délits commis contre leurs domaines publics ou privés.
 	**Liens**:
 
 	  - TXT_SOURCE: CODE DE PROCEDURE PENALE - art. 800 (M)
+
+
+## Dispositions générales
+
+###### Article R250
+
+Le présent code, ainsi que les règlements qui le modifient, est applicable aux départements de la Guadeloupe, de la Guyane,
+de la Martinique, de la Réunion et de Saint-Pierre-et-Miquelon.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-318 1959-02-23
+
+	**Créé par**:
+
+	  - Décret n°59-318 1959-02-23 JORF 25 février 1959 en vigueur le 2 mars 1959 rectificatif JORF 13 juin 1959
+
+	**Modifié par**:
+
+	  - Décret n°64-118 1964-02-04 art. 2 JORF 9 février 1964
+	  - Décret n°74-88 1974-02-04 art. 1 JORF 6 février 1974
+	  - Décret n°79-299 1979-04-02 art. 2 JORF 14 avril 1979
 
 
 # Partie réglementaire - Décrets simples
