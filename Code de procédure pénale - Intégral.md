@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 2000-11-26
+Version Consolidée au 2000-12-16
 
 # Partie législative
 
@@ -8892,16 +8892,8 @@ demander une indemnisation, ainsi que des dispositions de l'article 149-1.
 
 ###### Article 149-1
 
-L'indemnité prévue à l'article précédent est allouée par décision d'une commission qui statue souverainement.
-
-Le bureau de la Cour de cassation peut décider que la commission comportera plusieurs formations.
-
-La commission, ou chacune des formations qu'elle comporte le cas échéant, est composée du premier président de la Cour de
-cassation, ou de son représentant, qui la préside, et de deux magistrats du siège à la même cour ayant le grade de président
-de chambre, de conseiller ou de conseiller référendaire, désignés annuellement par le bureau de la cour. Outre ces deux
-magistrats, ce bureau désigne également, dans les mêmes conditions, trois suppléants.
-
-Les fonctions du ministère public sont remplies par le parquet général près la Cour de cassation.
+L'indemnité prévue à l'article précédent est allouée par décision du premier président de la cour d'appel dans le ressort de
+laquelle a été prononcée la décision de non-lieu, de relaxe ou d'acquittement.
 
 **Liens relatifs à cet article**
 
@@ -8921,7 +8913,7 @@ Les fonctions du ministère public sont remplies par le parquet général près 
 
 	**Modifié par**:
 
-	  - Loi n°93-2 du 4 janvier 1993 - art. 150 () JORF 5 janvier 1993
+	  - Loi n°2000-516 du 15 juin 2000 - art. 71 () JORF 16 juin 2000 en vigueur le 16 décembre 2000
 
 	**Nouveaux textes**:
 
@@ -8930,13 +8922,11 @@ Les fonctions du ministère public sont remplies par le parquet général près 
 
 ###### Article 149-2
 
-La commission, saisie par voie de requête dans le délai de six mois de la décision de non-lieu, de relaxe ou d'acquittement
-devenue définitive, statue par une décision motivée qui n'est susceptible d'aucun recours de quelque nature que ce soit.
+Le premier président de la cour d'appel, saisi par voie de requête dans le délai de six mois de la décision de non-lieu, de
+relaxe ou d'acquittement devenue définitive, statue par une décision motivée.
 
 Les débats ont lieu en audience publique, sauf opposition du requérant. A sa demande, celui-ci est entendu personnellement ou
 par l'intermédiaire de son conseil.
-
-La procédure devant la commission qui a le caractère d'une juridiction civile est fixée par un décret en Conseil d'Etat.
 
 **Liens relatifs à cet article**
 
@@ -8960,7 +8950,63 @@ La procédure devant la commission qui a le caractère d'une juridiction civile 
 
 	**Modifié par**:
 
-	  - Loi n°2000-516 du 15 juin 2000 - art. 70 () JORF 16 juin 2000
+	  - Loi n°2000-516 du 15 juin 2000 - art. 71 () JORF 16 juin 2000 en vigueur le 16 décembre 2000
+
+
+###### Article 149-3
+
+Les décisions prises par le premier président de la cour d'appel peuvent, dans les dix jours de leur notification, faire
+l'objet d'un recours devant une commission nationale d'indemnisation des détentions provisoires. Cette commission, placée
+auprès de la Cour de cassation, statue souverainement et ses décisions ne sont susceptibles d'aucun recours, de quelque
+nature que ce soit.
+
+Le bureau de la Cour de cassation peut décider que la commission nationale comportera plusieurs formations.
+
+La commission nationale, ou le cas échéant chacune des formations qu'elle comporte, est composée du premier président de la
+Cour de cassation, ou de son représentant, qui la préside, et de deux magistrats du siège de la cour ayant le grade de
+président de chambre, de conseiller ou de conseiller référendaire, désignés annuellement par le bureau de la cour. Outre ces
+deux magistrats, ce bureau désigne également, dans les mêmes conditions, trois suppléants.
+
+Les fonctions du ministère public sont remplies par le parquet général près la Cour de cassation.
+
+Les dispositions de l'article 149-2 sont applicables aux décisions rendues par la commission nationale.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°57-1426 1957-12-31
+
+	**Créé par**:
+
+	  - Loi n°2000-516 du 15 juin 2000 - art. 71 () JORF 16 juin 2000 en vigueur le 16 décembre 2000
+
+	**Cité par**:
+
+	  - Arrêté du 21 avril 2009 - art. 3 (V)
+	  - CODE DE PROCEDURE PENALE - art. R26 (M)
+	  - CODE DE PROCEDURE PENALE - art. R40-17 (V)
+	  - CODE DE PROCEDURE PENALE - art. R40-3 (M)
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. 149-2 (M)
+
+
+###### Article 149-4
+
+La procédure devant le premier président de la cour d'appel et la commission nationale, qui statuent en tant que juridictions
+civiles, est fixée par un décret en Conseil d'Etat.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°57-1426 1957-12-31
+
+	**Créé par**:
+
+	  - Loi n°2000-516 du 15 juin 2000 - art. 71 () JORF 16 juin 2000 en vigueur le 16 décembre 2000
 
 
 ###### Article 150
@@ -41233,34 +41279,43 @@ de l'exécution du jugement ou de l'arrêt.
 
 ##### Sous-section 3 : De l'indemnisation à raison d'une détention provisoire
 
+##### Paragraphe 1er : De l'indemnisation demandée devant le premier président de la cour d'appel
+
 ###### Article R26
 
-La commission prévue à l'article 149-1 est saisie par une requête signée du demandeur et remise ou adressée au secrétaire de
-la commission qui en délivre récépissé.
+Le premier président de la cour d'appel dans le ressort de laquelle a été prononcée la décision de non-lieu, de relaxe ou
+d'acquittement est saisi par une requête signée du demandeur ou d'un des mandataires mentionnés au premier alinéa de
+l'article R. 27 et remise contre récépissé ou adressée par lettre recommandée avec demande d'avis de réception au greffe de
+la cour d'appel.
 
-La requête contient l'exposé des faits et toutes indications utiles, notamment :
+La requête contient l'exposé des faits, le montant de l'indemnité demandée et toutes indications utiles, notamment en ce qui
+concerne :
 
-1° Sur la date et la nature de la décision qui a ordonné la détention provisoire ainsi que sur l'établissement pénitentiaire
-où cette détention a été subie ;
+1° La date et la nature de la décision qui a ordonné la détention provisoire ainsi que l'établissement pénitentiaire où cette
+détention a été subie ;
 
-2° Sur la juridiction qui a pronconcé la décision de non-lieu, de relaxe ou d'acquittement ainsi que sur la date de sa
-décision ;
+2° La juridiction qui a prononcé la décision de non-lieu, de relaxe ou d'acquittement ainsi que la date de cette décision ;
 
-3° Sur la nature et le montant des préjudices allégués ;
+3° L'adresse où doivent être faites les notifications au demandeur.
 
-4° Sur l'adresse où doivent être faites les notifications au demandeur.
+La requête est accompagnée de toutes pièces justificatives, notamment de la copie de la décision de non-lieu, de relaxe ou
+d'acquittement.
 
-La requête est accompagnée de toutes pièces justificatives.
+Le délai de six mois prévu à l'article 149-2 ne court à compter de la décision de non-lieu, de relaxe ou d'acquittement
+devenue définitive que si, lors de la notification de cette décision, la personne a été avisée de son droit de demander une
+indemnisation ainsi que des dispositions de l'article 149-1.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°78-50 1978-01-09 art. 1 JORF 9 janvier 1978
+	  - Décret n°2000-1204 du 12 décembre 2000 - art. 1 () JORF 13 décembre 2000 en vigueur le 16 décembre 2000
 
 	**Cite**:
 
 	  - CODE DE PROCEDURE PENALE - art. 149-1 (M)
+	  - CODE DE PROCEDURE PENALE - art. 149-2 (M)
+	  - CODE DE PROCEDURE PENALE - art. R27 (M)
 
 	**Cité par**:
 
@@ -41273,18 +41328,23 @@ La requête est accompagnée de toutes pièces justificatives.
 
 ###### Article R27
 
-Dans un délai de quinze jours à compter de la réception de la requête, le secrétaire de la commission en transmet copie au
-procureur général près la Cour de cassation et, par lettre recommandée avec demande d'avis de réception, à l'agent judiciaire
-du Trésor.
+Devant le premier président de la cour d'appel, le demandeur et l'agent judiciaire du Trésor peuvent être assistés ou
+représentés par un avocat ou représentés par un avoué inscrit auprès de la cour d'appel.
 
-Il demande au greffe de la juridiction qui a rendu la décision de non-lieu, de relaxe ou d'acquittement la communication du
-dossier de la procédure.
+Lorsqu'une partie est assistée par un avocat, les notifications par lettre recommandée avec demande d'avis de réception
+prévues par les articles suivants sont faites au seul avocat et copie en est adressée par lettre simple à la partie.
+Lorsqu'une partie est représentée par un avocat ou un avoué inscrit auprès de la cour d'appel, ces notifications sont faites
+dans les mêmes formes au seul avocat ou avoué.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Codifié par**:
 
-	  - Décret n°78-50 1978-01-09 art. 1 JORF 9 janvier 1978
+	  - Décret n°58-358 1958-04-22
+
+	**Modifié par**:
+
+	  - Décret n°2000-1204 du 12 décembre 2000 - art. 1 () JORF 13 décembre 2000 en vigueur le 16 décembre 2000
 
 	**Cité par**:
 
@@ -41292,25 +41352,22 @@ dossier de la procédure.
 	  - Code de procédure pénale - art. R26 (V)
 	  - Code de procédure pénale - art. R40-5 (V)
 
-	**Codifié par**:
-
-	  - Décret n°58-358 1958-04-22
-
 
 ###### Article R28
 
-Le demandeur peut se faire délivrer à ses frais copie des pièces de la procédure pénale. Son avocat peut prendre
-communication du dossier au secrétariat de la commission.
+Dès la réception de la requête, le greffe de la cour d'appel demande au greffe de la juridiction qui a rendu la décision de
+non-lieu, de relaxe ou d'acquittement la communication du dossier de la procédure pénale ou, si cette procédure est toujours
+en cours en ce qui concerne d'autres personnes que le demandeur, de la copie du dossier.
 
-**Nota:**
-
-
+Dans un délai de quinze jours à compter de la réception de ce dossier, le greffe de la cour d'appel transmet une copie de la
+requête au procureur général près la cour d'appel et, par lettre recommandée avec demande d'avis de réception, à l'agent
+judiciaire du Trésor.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°78-50 1978-01-09 art. 1 JORF 9 janvier 1978
+	  - Décret n°2000-1204 du 12 décembre 2000 - art. 1 () JORF 13 décembre 2000 en vigueur le 16 décembre 2000
 
 	**Cité par**:
 
@@ -41323,21 +41380,10 @@ communication du dossier au secrétariat de la commission.
 
 ###### Article R29
 
-L'agent judiciaire du Trésor peut prendre connaissance du dossier de la procédure pénale au secrétariat de la commission. Il
-lui est délivré sans frais, sur sa demande, copie des pièces.
-
-L'agent judiciaire du Trésor dépose ses conclusions au secrétariat de la commission dans le délai de deux mois à compter de
-la réception de la lettre recommandée prévue à l'article R. 27.
+Le demandeur peut se faire délivrer sans frais copie des pièces de la procédure pénale. Seul son avocat peut prendre
+communication du dossier au greffe de la cour d'appel.
 
 **Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°78-50 1978-01-09 art. 1 JORF 9 janvier 1978
-
-	**Cite**:
-
-	  - CODE DE PROCEDURE PENALE - art. R27 (M)
 
 	**Cité par**:
 
@@ -41347,61 +41393,71 @@ la réception de la lettre recommandée prévue à l'article R. 27.
 
 	  - Décret n°58-358 1958-04-22
 
+	**Modifié par**:
+
+	  - Décret n°2000-1204 du 12 décembre 2000 - art. 1 () JORF 13 décembre 2000 en vigueur le 16 décembre 2000
+
 
 ###### Article R30
 
-Lorsque l'agent judiciaire du Trésor a déposé ses conclusions ou à l'expiration du délai prévu à l'article précédent, le
-secrétaire de la commission transmet le dossier au procureur général près la Cour de cassation.
-
-Le procureur général dépose ses conclusions dans le mois suivant.
+L'agent judiciaire du Trésor peut prendre connaissance du dossier de la procédure pénale au greffe de la cour d'appel. Il lui
+est délivré sans frais, sur sa demande, copie des pièces.
 
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CODE DE PROCEDURE PENALE - art. R29 (M)
 
 	**Codifié par**:
 
 	  - Décret n°58-358 1958-04-22
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°78-50 1978-01-09 art. 1 JORF 9 janvier 1978
+	  - Décret n°2000-1204 du 12 décembre 2000 - art. 1 () JORF 13 décembre 2000 en vigueur le 16 décembre 2000
 
 
 ###### Article R31
 
-Le secrétaire de la commission notifie au demandeur, par lettre recommandée avec demande d'avis de réception, dans le délai
-de quinze jours à compter de leur dépôt, les conclusions de l'agent judiciaire du Trésor et celles du procureur général.
+L'agent judiciaire du Trésor dépose ses conclusions au greffe de la cour d'appel dans le délai de deux mois à compter de la
+réception de la lettre recommandée prévue à l'article R. 28.
+
+Le greffe de la cour d'appel notifie au demandeur par lettre recommandée avec demande d'avis de réception, dans le délai de
+quinze jours à compter de leur dépôt, les conclusions de l'agent judiciaire du Trésor.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°58-358 1958-04-22
+	  - Décret n°2000-1204 du 12 décembre 2000 - art. 1 () JORF 13 décembre 2000 en vigueur le 16 décembre 2000
 
-	**Créé par**:
+	**Cite**:
 
-	  - Décret n°78-50 1978-01-09 art. 1 JORF 9 janvier 1978
+	  - CODE DE PROCEDURE PENALE - art. R28 (M)
 
 	**Cité par**:
 
 	  - Code de procédure pénale - art. R32 (V)
 	  - Code de procédure pénale - art. R36 (V)
 
+	**Codifié par**:
+
+	  - Décret n°58-358 1958-04-22
+
 
 ###### Article R32
 
-Dans le délai d'un mois à compter de la dernière des notifications prévues à l'article précédent, le demandeur remet ou
-adresse au secrétaire de la commission ses observations en réponse qui sont communiquées à l'agent judiciaire du Trésor et au
-procureur général dans le délai de quinze jours.
+Lorsque l'agent judiciaire du Trésor a déposé ses conclusions ou à l'expiration du délai prévu à l'article précédent, le
+greffe de la cour d'appel transmet le dossier au procureur général.
+
+Le procureur général dépose ses conclusions dans les deux mois.
+
+Le greffe de la cour d'appel notifie au demandeur par lettre recommandée avec demande d'avis de réception, dans le délai de
+quinze jours à compter de leur dépôt, les conclusions du procureur général. Il communique, dans le même délai, ces
+conclusions à l'agent judiciaire du Trésor.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°78-50 1978-01-09 art. 1 JORF 9 janvier 1978
+	  - Décret n°2000-1204 du 12 décembre 2000 - art. 1 () JORF 13 décembre 2000 en vigueur le 16 décembre 2000
 
 	**Cite**:
 
@@ -41418,14 +41474,18 @@ procureur général dans le délai de quinze jours.
 
 ###### Article R33
 
-Dans le mois qui suit l'expiration du délai de quinze jours prévu à l'article précédent, le président de la commission charge
-du rapport un de ses assesseurs ou un conseiller référendaire à la Cour de cassation, lequel n'a pas voix délibérative.
+Dans le délai d'un mois à compter de la notification prévue au dernier alinéa de l'article précédent, le demandeur remet
+contre récépissé ou adresse par lettre recommandée avec demande d'avis de réception au greffe de la cour d'appel ses
+observations en réponse qui sont communiquées à l'agent judiciaire du Trésor et au procureur général dans le délai de quinze
+jours.
+
+Les conclusions produites ultérieurement par les parties sont communiquées entre elles à la diligence de leur auteur.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°78-50 1978-01-09 art. 1 JORF 9 janvier 1978
+	  - Décret n°2000-1204 du 12 décembre 2000 - art. 1 () JORF 13 décembre 2000 en vigueur le 16 décembre 2000
 
 	**Cite**:
 
@@ -41443,8 +41503,9 @@ du rapport un de ses assesseurs ou un conseiller référendaire à la Cour de ca
 
 ###### Article R34
 
-La commission procède ou fait procéder à toutes mesures d'instruction utiles, notamment, s'il y a lieu, à l'audition du
-demandeur.
+Le premier président de la cour d'appel procède ou fait procéder à toutes mesures d'instruction utiles. Il peut, s'il
+l'estime nécessaire, entendre le demandeur, en présence de son avocat ou celui-ci dûment convoqué, et en présence de l'agent
+judiciaire du Trésor et du procureur général ou ceux-ci dûment convoqués.
 
 **Liens relatifs à cet article**
 
@@ -41452,25 +41513,25 @@ demandeur.
 
 	  - Décret n°58-358 1958-04-22
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°78-50 1978-01-09 art. 1 JORF 9 janvier 1978
+	  - Décret n°2000-1204 du 12 décembre 2000 - art. 1 () JORF 13 décembre 2000 en vigueur le 16 décembre 2000
 
 
 ###### Article R35
 
-Le président de la commission fixe la date de l'audience après avis du procureur général. Cette date est notifiée par le
-secrétaire de la commission, par lettre recommandée avec demande d'avis de réception, au demandeur et à l'agent judiciaire du
-Trésor un mois au moins avant l'audience.
+Le premier président de la cour d'appel fixe la date de l'audience après avis du procureur général. Cette date est notifiée
+par le greffe de la cour d'appel, par lettre recommandée avec demande d'avis de réception, au demandeur et à l'agent
+judiciaire du Trésor un mois au moins avant l'audience.
 
-Le demandeur est invité à faire connaître s'il comparaîtra, assisté ou non d'un avocat, devant la commission pour être
-entendu personnellement ou s'il entend se faire représenter par un avocat.
+Le demandeur est avisé, à l'occasion de cette notification, qu'il peut s'opposer jusqu'à l'ouverture des débats à ce que
+ceux-ci aient lieu en audience publique.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°78-50 1978-01-09 art. 1 JORF 9 janvier 1978
+	  - Décret n°2000-1204 du 12 décembre 2000 - art. 1 () JORF 13 décembre 2000 en vigueur le 16 décembre 2000
 
 	**Cité par**:
 
@@ -41483,29 +41544,43 @@ entendu personnellement ou s'il entend se faire représenter par un avocat.
 
 ###### Article R36
 
-Le demandeur et l'agent judiciaire du Trésor peuvent être représentés ou assistés par un avocat au conseil d'Etat et à la
-Cour de cassation ou par un avocat régulièrement inscrit à un barreau.
+Lorsqu'il apparaît manifestement que le demandeur soit ne remplit pas la condition d'avoir fait l'objet d'une détention
+provisoire au cours d'une procédure terminée à son égard par une décision de non-lieu, de relaxe ou d'acquittement devenue
+définitive, soit a formé sa requête après l'expiration du délai de six mois prévu à l'article 149-2, le premier président de
+la cour d'appel peut, après en avoir avisé le demandeur, l'agent judiciaire du Trésor et le procureur général, décider qu'il
+n'y a pas lieu à plus ample instruction ni à l'accomplissement des actes prévus aux articles R. 31 à R. 34.
+
+Il est alors fait application des dispositions de l'article R. 35.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°58-358 1958-04-22
+	  - Décret n°2000-1204 du 12 décembre 2000 - art. 1 () JORF 13 décembre 2000 en vigueur le 16 décembre 2000
 
-	**Créé par**:
+	**Cite**:
 
-	  - Décret n°78-50 1978-01-09 art. 1 JORF 9 janvier 1978
+	  - CODE DE PROCEDURE PENALE - art. 149-2 (M)
+	  - CODE DE PROCEDURE PENALE - art. R35 (M)
+	  - Code de procédure pénale 149-2, R31 à R34, R35
 
 	**Cité par**:
 
 	  - CODE DE PROCEDURE PENALE - art. R40-17 (V)
 
+	**Codifié par**:
+
+	  - Décret n°58-358 1958-04-22
+
 
 ###### Article R37
 
-Après le rapport, le demandeur s'il y a lieu, l'agent judiciaire du Trésor et leurs avocats respectifs sont entendus.
+Au jour de l'audience, le demandeur ou son avocat, puis l'agent judiciaire du Trésor ou son avocat sont entendus en leurs
+observations.
 
 Le procureur général développe ses conclusions.
+
+Les parties peuvent alors répliquer, le demandeur ou son avocat ayant la parole en dernier.
 
 **Liens relatifs à cet article**
 
@@ -41513,17 +41588,20 @@ Le procureur général développe ses conclusions.
 
 	  - Décret n°58-358 1958-04-22
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°78-50 1978-01-09 art. 1 JORF 9 janvier 1978
+	  - Décret n°2000-1204 du 12 décembre 2000 - art. 1 () JORF 13 décembre 2000 en vigueur le 16 décembre 2000
 
 
 ###### Article R38
 
-Si la requête est rejetée, le demandeur est condamné aux dépens, à moins que la commission ne l'en décharge d'une partie ou
-de la totalité.
+La décision du premier président de la cour d'appel est rendue en audience publique.
 
-La décision de la commission comporte exécution forcée pour le paiement des dépens.
+Cette décision est notifiée au demandeur et à l'agent judiciaire du Trésor soit par remise d'une copie contre récépissé, soit
+par lettre recommandée avec demande d'avis de réception. La notification indique que la décision peut faire l'objet d'un
+recours devant la Commission nationale d'indemnisation des détentions provisoires dans un délai de dix jours.
+
+Une copie de la décision est remise au procureur général.
 
 **Liens relatifs à cet article**
 
@@ -41531,26 +41609,21 @@ La décision de la commission comporte exécution forcée pour le paiement des d
 
 	  - Décret n°58-358 1958-04-22
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°78-50 1978-01-09 art. 1 JORF 9 janvier 1978
+	  - Décret n°2000-1204 du 12 décembre 2000 - art. 1 () JORF 13 décembre 2000 en vigueur le 16 décembre 2000
 
 
 ###### Article R39
 
-Si la commission accorde une provision ou une indemnité, le paiement de l'indemnité et le remboursement des frais de copie de
-pièces exposées par le demandeur sont faits à ce dernier par le comptable direct du Trésor de Paris chargé du paiement des
-frais de justice, sur un exécutoire établi par le président de la commission.
+Le premier président de la cour d'appel peut à tout moment de la procédure accorder en référé une provision au demandeur.
+Cette décision n'est susceptible d'aucun recours.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
-
-	  - Décret n°78-50 1978-01-09 art. 1 JORF 9 janvier 1978
-
 	**Modifié par**:
 
-	  - Décret n°83-455 1983-06-02 art. 4 JORF 8 juin 1983 en vigueur le 1er octobre 1983
+	  - Décret n°2000-1204 du 12 décembre 2000 - art. 1 () JORF 13 décembre 2000 en vigueur le 16 décembre 2000
 
 	**Cité par**:
 
@@ -41563,10 +41636,8 @@ frais de justice, sur un exécutoire établi par le président de la commission.
 
 ###### Article R40
 
-La décision de la commission est notifiée sans délai au demandeur et à l'agent judiciaire du Trésor par lettre recommandée
-avec demande d'avis de réception.
-
-Le dossier de la procédure pénale est renvoyé avec une copie de la décision.
+Les décisions du premier président de la cour d'appel accordant une indemnité sont assorties de plein droit de l'exécution
+provisoire.
 
 **Liens relatifs à cet article**
 
@@ -41574,21 +41645,15 @@ Le dossier de la procédure pénale est renvoyé avec une copie de la décision.
 
 	  - Décret n°58-358 1958-04-22
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°78-50 1978-01-09 art. 1 JORF 9 janvier 1978
+	  - Décret n°2000-1204 du 12 décembre 2000 - art. 1 () JORF 13 décembre 2000 en vigueur le 16 décembre 2000
 
 
 ###### Article R40-1
 
-Lorsqu'il apparaît manifestement, au vu des renseignements recueillis sur les énonciations de la requête, que le demandeur ne
-remplit pas la condition d'avoir fait l'objet d'une détention provisoire au cours d'une procédure terminée à son égard par
-une décision de non-lieu, de relaxe ou d'acquittement devenue définitive, le président peut décider qu'il n'y a pas lieu à
-plus ample instruction et fixer sans délai la date de l'audience.
-
-**Nota:**
-
-
+Par dérogation aux dispositions de l'article R. 233, le paiement au demandeur de l'indemnité ou de la provision est effectué
+par les comptables directs du Trésor.
 
 **Liens relatifs à cet article**
 
@@ -41596,22 +41661,21 @@ plus ample instruction et fixer sans délai la date de l'audience.
 
 	  - Décret n°58-358 1958-04-22
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°78-50 1978-01-09 art. 1 JORF 9 janvier 1978
+	  - Décret n°2000-1204 du 12 décembre 2000 - art. 1 () JORF 13 décembre 2000 en vigueur le 16 décembre 2000
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. R233 (M)
 
 
 ###### Article R40-2
 
-L'admission au bénéfice de l'aide judiciaire devant la commission peut être accordée dans les mêmes formes et conditions et
-avec les mêmes effets qu'en matière civile, soit par le bureau établi près la Cour de cassation, soit par le bureau établi
-près la juridiction qui a rendu la décision de non-lieu, de relaxe ou d'acquittement, selon que le demandeur aura demandé à
-être représenté ou assisté par un avocat au Conseil d'Etat et à la Cour de cassation ou par un avocat régulièrement inscrit à
-un barreau.
+Si la requête est rejetée, le demandeur est condamné aux dépens, à moins que le premier président de la cour d'appel ne l'en
+décharge en partie ou en totalité.
 
-La demande d'aide judiciaire est directement adressée au bureau compétent pour en connaître.
-
-Cette demande interrompt le délai prévu à l'article 149-2.
+La décision du premier président comporte exécution forcée pour le paiement des dépens.
 
 **Liens relatifs à cet article**
 
@@ -41619,45 +41683,56 @@ Cette demande interrompt le délai prévu à l'article 149-2.
 
 	  - Décret n°58-358 1958-04-22
 
-	**Créé par**:
-
-	  - Décret n°78-50 1978-01-09 art. 1 JORF 9 janvier 1978
-
 	**Modifié par**:
 
-	  - Décret n°84-255 1984-04-09 art. 17 JORF 10 avril 1984
-
-	**Cite**:
-
-	  - CODE DE PROCEDURE PENALE - art. 149-2 (M)
+	  - Décret n°2000-1204 du 12 décembre 2000 - art. 1 () JORF 13 décembre 2000 en vigueur le 16 décembre 2000
 
 
 ###### Article R40-3
 
-Parmi les magistrats désignés pour composer la commission, le bureau de la Cour de cassation désigne celui qui est chargé
-d'en exercer la présidence, ainsi que son suppléant.
-
-La désignation des magistrats appelés à composer la commission est faite pour l'année judiciaire.
-
-Lorsqu'un des magistrats désignés cesse de pouvoir faire partie de la commission, il est procédé à une désignation en
-remplacement qui produit effet jusqu'à l'expiration de l'année en cours.
+Lorsque le recours prévu au premier alinéa de l'article 149-3 n'est pas exercé, le dossier de la procédure pénale est
+renvoyé, avec une copie de la décision, à la juridiction qui a rendu la décision de non-lieu, de relaxe ou d'acquittement.
 
 **Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. 149-3 (M)
 
 	**Codifié par**:
 
 	  - Décret n°58-358 1958-04-22
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°78-50 1978-01-09 art. 1 JORF 9 janvier 1978
+	  - Décret n°2000-1204 du 12 décembre 2000 - art. 1 () JORF 13 décembre 2000 en vigueur le 16 décembre 2000
 
+
+##### Paragraphe 2 : Du recours devant la Commission nationale d'indemnisation des détentions provisoires
+
+##### A : De l'exercice du recours
 
 ###### Article R40-4
 
-Les fonctions de secrétaire et de greffier de la commission sont remplies par un secrétaire-greffier de la Cour de cassation.
+Les décisions du premier président de la cour d'appel peuvent faire l'objet d'un recours devant la Commission nationale
+d'indemnisation des détentions provisoires de la part :
+
+1° Du demandeur ;
+
+2° De l'agent judiciaire du Trésor ;
+
+3° Du procureur général près la cour d'appel.
+
+La déclaration de recours est remise au greffe de la cour d'appel en quatre exemplaires.
+
+La remise est constatée par le greffe qui en mentionne la date sur chaque exemplaire, dont l'un est immédiatement restitué,
+et qui adresse un exemplaire aux personnes énumérées aux 1° à 3° autres que l'auteur du recours.
 
 **Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°2000-1204 du 12 décembre 2000 - art. 1 () JORF 13 décembre 2000 en vigueur le 16 décembre 2000
 
 	**Cité par**:
 
@@ -41670,9 +41745,427 @@ Les fonctions de secrétaire et de greffier de la commission sont remplies par u
 
 	  - Décret n°58-358 1958-04-22
 
+
+###### Article R40-5
+
+Devant la commission nationale, le demandeur et l'agent judiciaire du Trésor peuvent être assistés ou représentés par un
+avocat au Conseil d'Etat et à la Cour de cassation ou par un avocat inscrit au barreau d'une cour d'appel ou d'un tribunal de
+grande instance.
+
+Les dispositions du second alinéa de l'article R. 27 sont applicables.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. R27 (M)
+
+	**Codifié par**:
+
+	  - Décret n°58-358 1958-04-22
+
 	**Créé par**:
 
-	  - Décret n°78-50 1958-01-09 art. 1 JORF 9 janvier 1978
+	  - Décret n°2000-1204 du 12 décembre 2000 - art. 1 () JORF 13 décembre 2000 en vigueur le 16 décembre 2000
+
+
+###### Article R40-6
+
+Le dossier de la procédure d'indemnisation, assorti de la déclaration de recours et du dossier de la procédure pénale, est
+transmis sans délai par le greffe de la cour d'appel au secrétariat de la commission nationale.
+
+Les fonctions de secrétaire et de greffier de la commission sont remplies par un greffier de la Cour de cassation.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°58-358 1958-04-22
+
+	**Créé par**:
+
+	  - Décret n°2000-1204 du 12 décembre 2000 - art. 1 () JORF 13 décembre 2000 en vigueur le 16 décembre 2000
+
+
+###### Article R40-7
+
+Si cela n'a pas déjà été demandé lors de la procédure devant le premier président de la cour d'appel, le demandeur et l'agent
+judiciaire du Trésor peuvent se faire délivrer sans frais copie des pièces de la procédure pénale. Seuls leurs avocats
+peuvent prendre communication du dossier au secrétariat de la commission.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°58-358 1958-04-22
+
+	**Créé par**:
+
+	  - Décret n°2000-1204 du 12 décembre 2000 - art. 1 () JORF 13 décembre 2000 en vigueur le 16 décembre 2000
+
+
+##### B : De la procédure suivie devant la Commission nationale d'indemnisation des détentions provisoires
+
+##### a : Des communications et notifications applicables lorsque l'auteur du recours est le demandeur ou l'agent judiciaire du Trésor.
+
+###### Article R40-8
+
+Lorsque l'auteur du recours est l'une des personnes énumérées aux 1° et 2° de l'article R. 40-4, le secrétaire de la
+commission demande à celle-ci, dans un délai de quinze jours à compter de la réception du dossier et par lettre recommandée
+avec demande d'avis de réception, de lui adresser ses conclusions dans le délai d'un mois.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. R40-4 (M)
+
+	**Codifié par**:
+
+	  - Décret n°58-358 1958-04-22
+
+	**Créé par**:
+
+	  - Décret n°2000-1204 du 12 décembre 2000 - art. 1 () JORF 13 décembre 2000 en vigueur le 16 décembre 2000
+
+
+###### Article R40-9
+
+Dès réception des conclusions mentionnées à l'article précédent, le secrétaire de la commission en transmet copie au
+procureur général près la Cour de cassation ainsi que, par lettre recommandée avec demande d'avis de réception, à celle des
+personnes énumérées aux 1° et 2° de l'article R. 40-4 qui n'est pas l'auteur du recours.
+
+Cette personne dispose d'un délai de deux mois à compter de la réception de la lettre recommandée prévue à l'alinéa précédent
+pour déposer ses conclusions au secrétariat de la commission.
+
+Lorsque ces conclusions ont été déposées ou à l'expiration du délai prévu à l'alinéa précédent, le secrétaire de la
+commission transmet le dossier au procureur général près la Cour de cassation.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2000-1204 du 12 décembre 2000 - art. 1 () JORF 13 décembre 2000 en vigueur le 16 décembre 2000
+
+	**Cité par**:
+
+	  - CODE DE PROCEDURE PENALE - art. R40-11 (V)
+	  - CODE DE PROCEDURE PENALE - art. R40-12 (V)
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. R40-4 (M)
+
+	**Codifié par**:
+
+	  - Décret n°58-358 1958-04-22
+
+
+###### Article R40-10
+
+Le procureur général dépose ses conclusions dans les deux mois.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°58-358 du 2 avril 1958, v. init.
+
+	**Créé par**:
+
+	  - Décret n°2000-1204 du 12 décembre 2000 - art. 1
+
+
+###### Article R40-11
+
+Le secrétaire de la commission notifie à l'auteur du recours, par lettre recommandée avec demande d'avis de réception, dans
+le délai de quinze jours à compter de leur dépôt, les conclusions du procureur général près la Cour de cassation et les
+conclusions de la personne mentionnée à l'article R. 40-9.
+
+Il communique à cette personne les conclusions du procureur général près la Cour de cassation.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2000-1204 du 12 décembre 2000 - art. 1 () JORF 13 décembre 2000 en vigueur le 16 décembre 2000
+
+	**Cité par**:
+
+	  - CODE DE PROCEDURE PENALE - art. R40-12 (V)
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. R40-9 (M)
+
+	**Codifié par**:
+
+	  - Décret n°58-358 1958-04-22
+
+
+###### Article R40-12
+
+Dans le délai d'un mois à compter de la dernière des notifications prévues au premier alinéa de l'article précédent, l'auteur
+du recours remet contre récépissé ou adresse par lettre recommandée avec demande d'avis de réception au secrétariat de la
+commission ses observations en réponse qui sont communiquées au procureur général près la Cour de cassation et à la personne
+mentionnée à l'article R. 40-9 dans le délai de quinze jours.
+
+Les dispositions du second alinéa de l'article R. 33 sont applicables.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2000-1204 du 12 décembre 2000 - art. 1 () JORF 13 décembre 2000 en vigueur le 16 décembre 2000
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. R33 (M)
+	  - CODE DE PROCEDURE PENALE - art. R40-11 (M)
+	  - CODE DE PROCEDURE PENALE - art. R40-9 (M)
+
+	**Codifié par**:
+
+	  - Décret n°58-358 1958-04-22
+
+
+##### b : Des communications et notifications applicables lorsque l'auteur du recours est le procureur général près la cour d'appel
+
+###### Article R40-13
+
+Lorsque l'auteur du recours est le procureur général près la cour d'appel, le secrétaire de la commission demande à celui-ci,
+dans un délai de quinze jours à compter de la réception du dossier, de lui adresser ses conclusions dans le délai d'un mois.
+
+Dès réception de ces conclusions, il en transmet une copie, d'une part au procureur général près la Cour de cassation,
+d'autre part, par lettre recommandée avec demande d'avis de réception, à l'agent judiciaire du Trésor et au demandeur qui
+disposent d'un délai de deux mois à compter de la réception de cette lettre pour déposer leurs conclusions. Lorsque ces
+conclusions ont été déposées ou à l'expiration du délai de deux mois, le secrétaire de la commission transmet le dossier au
+procureur général près la Cour de cassation qui dépose ses conclusions dans les deux mois.
+
+Les conclusions du procureur général sont communiquées, dans un délai de quinze jours, à l'agent judiciaire du Trésor,
+accompagnées des conclusions du demandeur ; elles sont également, dans le même délai, communiquées au demandeur, accompagnées
+des conclusions de l'agent judiciaire du Trésor.
+
+Les dispositions du second alinéa de l'article R. 33 sont applicables.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2000-1204 du 12 décembre 2000 - art. 1 () JORF 13 décembre 2000 en vigueur le 16 décembre 2000
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. R33 (M)
+
+	**Cité par**:
+
+	  - CODE DE PROCEDURE PENALE - art. R40-14 (V)
+
+	**Codifié par**:
+
+	  - Décret n°58-358 1958-04-22
+
+
+##### c : Des autres actes de procédure.
+
+###### Article R40-14
+
+Dans le mois qui suit l'expiration du délai de quinze jours prévu à l'article R. 40-12 ou au dernier alinéa de l'article R.
+40-13, le président de la commission désigne, parmi les membres de la commission, un rapporteur.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2000-1204 du 12 décembre 2000 - art. 1 () JORF 13 décembre 2000 en vigueur le 16 décembre 2000
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. R40-13 (M)
+
+	**Codifié par**:
+
+	  - Décret n°58-358 1958-04-22
+
+
+###### Article R40-15
+
+Le président de la commission et le rapporteur désigné peuvent procéder ou faire procéder à toutes mesures d'instruction
+complémentaires. Ils peuvent, s'ils l'estiment nécessaire, entendre le demandeur, en présence de son avocat ou celui-ci
+dûment convoqué, et en présence de l'agent judiciaire du Trésor et du procureur général près la Cour de cassation ou ceux-ci
+dûment convoqués.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°58-358 1958-04-22
+
+	**Créé par**:
+
+	  - Décret n°2000-1204 du 12 décembre 2000 - art. 1 () JORF 13 décembre 2000 en vigueur le 16 décembre 2000
+
+
+###### Article R40-16
+
+Le président de la commission fixe la date de l'audience après avis du procureur général près la Cour de cassation. Cette
+date est notifiée par le secrétariat de la commission, par lettre recommandée avec demande d'avis de réception, au demandeur
+et à l'agent judiciaire du Trésor un mois au moins avant l'audience.
+
+Le demandeur est avisé, à l'occasion de cette notification, qu'il peut s'opposer jusqu'à l'ouverture des débats à ce que
+ceux-ci aient lieu en audience publique.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - CODE DE PROCEDURE PENALE - art. R40-17 (V)
+
+	**Codifié par**:
+
+	  - Décret n°58-358 1958-04-22
+
+	**Créé par**:
+
+	  - Décret n°2000-1204 du 12 décembre 2000 - art. 1 () JORF 13 décembre 2000 en vigueur le 16 décembre 2000
+
+
+###### Article R40-17
+
+Lorsqu'il apparaît manifestement que l'auteur du recours a formé celui-ci après l'expiration du délai de dix jours prévu à
+l'article 149-3, le président de la commission peut, après en avoir avisé les personnes énumérées aux 1° à 3° de l'article R.
+40-4, décider qu'il n'y a pas lieu à plus ample instruction ni à l'accomplissement des actes prévus aux articles R. 40-8 à R.
+40-15. Il peut procéder de la même façon lorsque le recours a été formé contre une décision du premier président de la cour
+d'appel rendue en application des dispositions des articles R. 36 ou R. 39.
+
+Il est alors fait application des dispositions de l'article R. 40-16.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2000-1204 du 12 décembre 2000 - art. 1 () JORF 13 décembre 2000 en vigueur le 16 décembre 2000
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. 149-3 (M)
+	  - CODE DE PROCEDURE PENALE - art. R36 (M)
+	  - CODE DE PROCEDURE PENALE - art. R39 (M)
+	  - CODE DE PROCEDURE PENALE - art. R40-16 (M)
+	  - CODE DE PROCEDURE PENALE - art. R40-4 (M)
+	  - Code de procédure pénale 149-3, R40-4, R40-8 à R40-15, R36, R39, R40-16
+
+	**Codifié par**:
+
+	  - Décret n°58-358 1958-04-22
+
+
+###### Article R40-18
+
+Au jour de l'audience, après le rapport, le demandeur et l'agent judiciaire du Trésor ou leurs avocats respectifs sont
+entendus en leurs observations, celle des personnes énumérées aux 1° et 2° de l'article R. 40-4 qui est l'auteur du recours
+ou son avocat ayant la parole en premier. Lorsque le recours a été formé par le procureur général près la cour d'appel, le
+demandeur ou son avocat a la parole en premier.
+
+Le procureur général près la Cour de cassation développe ses conclusions.
+
+Le demandeur et l'agent judiciaire du Trésor ou leurs avocats respectifs peuvent alors répliquer, le demandeur ou son avocat
+ayant la parole en dernier.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°58-358 1958-04-22
+
+	**Créé par**:
+
+	  - Décret n°2000-1204 du 12 décembre 2000 - art. 1 () JORF 13 décembre 2000 en vigueur le 16 décembre 2000
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. R40-4 (M)
+
+
+###### Article R40-19
+
+La décision de la commission est rendue en audience publique.
+
+Cette décision est notifiée au demandeur et à l'agent judiciaire du Trésor soit par remise d'une copie contre récépissé, soit
+par lettre recommandée avec demande d'avis de réception.
+
+Une copie de la décision est remise au procureur général près la Cour de cassation.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°58-358 1958-04-22
+
+	**Créé par**:
+
+	  - Décret n°2000-1204 du 12 décembre 2000 - art. 1 () JORF 13 décembre 2000 en vigueur le 16 décembre 2000
+
+
+###### Article R40-20
+
+Si la commission accorde une provision ou une indemnité d'un montant supérieur à celui fixé par la décision du premier
+président de la cour d'appel, son paiement au demandeur est, par dérogation aux dispositions de l'article R. 233, effectué
+par le comptable direct du Trésor de Paris.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. R233 (M)
+
+	**Codifié par**:
+
+	  - Décret n°58-358 1958-04-22
+
+	**Créé par**:
+
+	  - Décret n°2000-1204 du 12 décembre 2000 - art. 1 () JORF 13 décembre 2000 en vigueur le 16 décembre 2000
+
+
+###### Article R40-21
+
+Si la requête est rejetée, l'auteur du recours est condamné aux dépens, à moins que la commission ne l'en décharge en partie
+ou en totalité.
+
+La décision de la commission comporte exécution forcée pour le paiement des dépens.
+
+Les dispositions du présent article ne sont pas applicables lorsque le recours a été formé par le procureur général près la
+cour d'appel.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°58-358 1958-04-22
+
+	**Créé par**:
+
+	  - Décret n°2000-1204 du 12 décembre 2000 - art. 1 () JORF 13 décembre 2000 en vigueur le 16 décembre 2000
+
+
+###### Article R40-22
+
+Le dossier de la procédure pénale est renvoyé, avec une copie de la décision, au premier président de la cour d'appel pour
+transmission à la juridiction qui a rendu la décision de non-lieu, de relaxe ou d'acquittement.
+
+Une copie de la décision est également adressée au procureur général près la cour d'appel.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°58-358 1958-04-22
+
+	**Créé par**:
+
+	  - Décret n°2000-1204 du 12 décembre 2000 - art. 1 () JORF 13 décembre 2000 en vigueur le 16 décembre 2000
 
 
 ## Livre II : Des juridictions de jugement
