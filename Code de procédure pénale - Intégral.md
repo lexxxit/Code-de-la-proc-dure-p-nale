@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 1986-09-19
+Version Consolidée au 1986-10-01
 
 # Partie législative
 
@@ -9140,6 +9140,49 @@ la juridiction siège de la cour d'assises.
 	  - Code de procédure pénale - art. 258-1 (V)
 
 
+###### Article 264
+
+Une liste spéciale de jurés suppléants est également dressée chaque année par la commission, dans les conditions prévues à
+l'article 263, en dehors de la liste annuelle des jurés. Les jurés suppléants doivent résider dans la ville siège de la cour
+d'assises.
+
+Le nombre des jurés figurant sur cette liste, qui ne peut être inférieur à cinquante ni supérieur à sept cents, est fixé,
+pour chaque cour d'assises, par décret en Conseil d'Etat.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 58-1296 1958-12-23
+
+	**Modifié par**:
+
+	  - Loi n°78-788 1978-07-28 art. 8 JORF 29 juillet 1978
+	  - Loi n°80-1042 1980-12-23 art. 2 V JORF 24 décembre 1980
+	  - Loi n°84-576 du 9 juillet 1984 - art. 15 () JORF 10 juillet 1984 en vigueur le 1er septembre 1984
+	  - Loi n°85-1407 1985-12-30 art. 38 JORF 31 décembre 1985 en vigueur le 1er octobre 1986
+
+	**Cité par**:
+
+	  - Loi n°83-520 du 27 juin 1983 - art. 28 (V)
+	  - Décret n°2001-742 du 23 août 2001 - art. 2 (V)
+	  - Arrêté du 15 janvier 2010 (V)
+	  - Arrêté du 21 octobre 2015 (V)
+	  - CODE DE PROCEDURE PENALE - art. 918 (V)
+	  - CODE DE PROCEDURE PENALE - art. R41-1 (Ab)
+	  - Code de procédure pénale - art. 10-3 (V)
+	  - Code de procédure pénale - art. 833 (V)
+	  - Code de procédure pénale - art. A36-13 (V)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°84-576 1984-07-09 art. 15 et art. 19
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. 263 (V)
+
+
 ###### Article 265
 
 La liste annuelle et la liste spéciale sont transmises par le président de la commission au préfet qui les fait parvenir au
@@ -12720,6 +12763,28 @@ Si le prévenu consent à être jugé séance tenante, mention en est faite dans
 	  - Code de procédure pénale 395, 396 al. 3
 
 
+###### Article 397-1
+
+Si le prévenu ne consent pas à être jugé séance tenante ou si l'affaire ne paraît pas en état d'être jugée, le tribunal,
+après avoir recueilli les observations des parties et de leur conseil, renvoie à une prochaine audience qui doit avoir lieu
+dans un délai qui ne peut être inférieur à deux semaines, sauf renonciation expresse du prévenu, ni supérieur à six semaines.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 58-1296 1958-12-23
+
+	**Modifié par**:
+
+	  - Loi n°86-1019 du 9 septembre 1986 - art. 8 () JORF 10 septembre 1986 en vigueur le 1er octobre 1986
+
+	**Cité par**:
+
+	  - Code de procédure pénale - art. 397-3 (V)
+	  - Code de procédure pénale - art. 706-106 (VT)
+
+
 ###### Article 397-3
 
 Dans tous les cas prévus par le présent paragraphe, le tribunal peut, conformément aux dispositions de l'article 141-1,
@@ -12972,36 +13037,6 @@ tribunal.
 	  - Code de procédure pénale - art. 397-4 (V)
 	  - Code de procédure pénale - art. 41 (V)
 	  - Code de procédure pénale - art. 495-10 (VD)
-
-
-###### Article 397-1
-
-Si le prévenu ne consent pas à être jugé séance tenante ou si l'affaire ne paraît pas en état d'être jugée, le tribunal après
-avoir recueilli les observations des parties et de leur conseil, renvoie à une prochaine audience fixée au plus tôt le
-cinquième et au plus tard le trentième jour suivant.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance 58-1296 1958-12-23
-
-	**Créé par**:
-
-	  - loi 81-82 1981-02-02 art. 51-I JORF 3 février 1981
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°83-466 1983-06-10 art. 43
-
-	**Modifié par**:
-
-	  - Loi n°83-466 du 10 juin 1983 - art. 25 () JORF 11 juin 1983 en vigueur le 27 juin 1983
-
-	**Cité par**:
-
-	  - Code de procédure pénale - art. 397-3 (V)
-	  - Code de procédure pénale - art. 706-106 (VT)
 
 
 ###### Article 397-2
@@ -16961,34 +16996,25 @@ l'ordonnance pénale a fait l'objet d'un paiement volontaire.
 	  - CODE DE PROCEDURE PENALE - art. 527 (M)
 
 
-#### Chapitre II bis : De l'amende forfaitaire
+#### Chapitre II bis : De la procédure de l'amende forfaitaire
+
+##### Section 1 : Dispositions applicables à certaines infractions au code de la route, à la réglementation des transports par route, au code des assurances en ce qui concerne l'assurance obligatoire des véhicules terrestres à moteur et de leurs remorques et semi-remorques ainsi qu'à la réglementation sur les parcs nationaux
 
 ###### Article 529
 
-Dans les matières prévues par la loi, l'action publique née d'une contravention peut être éteinte par le paiement d'une
-amende forfaitaire, qui est exclusive de l'application des règles de la récidive.
+Pour les contraventions des quatre premières classes au Code de la route, à la réglementation des transports par route, au
+Code des assurances en ce qui concerne l'assurance obligatoire des véhicules terrestres à moteur et de leurs remorques et
+semi-remorques et à la règlementation sur les parcs nationaux qui sont punies seulement d'une peine d'amende, l'action
+publique est éteinte par le paiement d'une amende forfaitaire qui est exclusive de l'application des règles de la récidive.
 
-Le montant de l'amende forfaitaire peut être acquitté :
-
-Soit au moment de la constatation de l'infraction, entre les mains de l'agent verbalisateur, contre remise d'une quittance
-détachée d'un carnet à souches ;
-
-Soit au moyen d'un timbre-amende expédié au service indiqué dans l'avis de contravention dans les quinze jours suivant la
-constatation de l'infraction ou, le cas échéant, la date d'envoi de cet avis.
+Toutefois, la procédure de l'amende forfaitaire n'est pas applicable si plusieurs infractions, dont l'une au moins ne peut
+donner lieu à une amende forfaitaire, ont été constatées simultanément.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Ordonnance 58-1296 1958-12-23
-
-	**Modifié par**:
-
-	  - Loi n°72-5 1972-01-03 art. 3 JORF 5 janvier 1972 en vigueur le 30 juin 1972
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°72-5 1972-01-03 art. 8
 
 	**Cité par**:
 
@@ -17017,14 +17043,261 @@ constatation de l'infraction ou, le cas échéant, la date d'envoi de cet avis.
 	  - Code rural - art. L242-28 (Ab)
 	  - Code rural et de la pêche maritime - art. L215-12 (V)
 
+	**Modifié par**:
+
+	  - Loi n°85-1407 1985-12-30 art. 51 et art. 94 JORF 31 décembre 1985 en vigueur le 1er octobre 1986
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°85-1407 1985-12-30 art. 94
+
+
+###### Article 529-1
+
+Le montant de l'amende forfaitaire peut être acquitté soit entre les mains de l'agent verbalisateur au moment de la
+constatation de l'infraction, soit auprès du service indiqué dans l'avis de contravention dans les trente jours qui suivent
+la constatation de l'infraction ou, si cet avis est ultérieurement envoyé à l'intéressé, dans les trente jours qui suivent
+cet envoi.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 58-1296 1958-12-23
+
+	**Créé par**:
+
+	  - Loi n°85-1407 1985-12-30 art. 51 et art. 94 JORF 31 décembre 1985 en vigueur le 1er octobre 1986
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°85-1407 1985-12-30 art. 94
+
+	**Cité par**:
+
+	  - Arrêté du 14 avril 2009 - art. 7 (V)
+	  - CODE DE PROCEDURE PENALE - art. 529-2 (M)
+	  - CODE DE PROCEDURE PENALE - art. 530-2-1 (V)
+	  - CODE DE PROCEDURE PENALE - art. R. 49-3-1 (VD)
+	  - Code de la route. - art. L121-5 (V)
+	  - Code de la voirie routière - art. L118-4 (V)
+	  - Code de procédure pénale - art. 529-11 (VD)
+
+
+###### Article 529-2
+
+Dans le délai prévu par l'article précédent, le contrevenant doit s'acquitter du montant de l'amende forfaitaire, à moins
+qu'il ne formule dans le même délai une requête tendant à son exonération auprès du service indiqué dans l'avis de
+contravention. Cette requête est transmise au ministère public.
+
+A défaut de paiement ou d'une requête présentée dans le délai de trente jours, l'amende forfaitaire est majorée de plein
+droit et recouvrée au profit du Trésor public en vertu d'un titre rendu exécutoire par le ministère public.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 58-1296 1958-12-23
+
+	**Créé par**:
+
+	  - Loi n°85-1407 1985-12-30 art. 51 et art. 94 JORF 31 décembre 1985 en vigueur le 1er octobre 1986
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°85-1407 1985-12-30 art. 94
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. 529-1 (M)
+
+	**Cité par**:
+
+	  - CODE DE PROCEDURE PENALE - art. 530-2-1 (V)
+	  - CODE DE PROCEDURE PENALE - art. R49-14 (V)
+	  - CODE DE PROCEDURE PENALE - art. R49-19 (V)
+	  - CODE DE PROCEDURE PENALE - art. R49-4 (V)
+	  - CODE DE PROCEDURE PENALE - art. R49-5 (V)
+	  - Code de la route. - art. L121-5 (V)
+	  - Code de procédure pénale - art. 529-10 (V)
+	  - Code de procédure pénale - art. 529-9 (V)
+	  - Code de procédure pénale - art. 530 (V)
+	  - Code de procédure pénale - art. 530-1 (V)
+	  - Code de procédure pénale - art. R155 (V)
+	  - Code de procédure pénale - art. R49-1 (V)
+	  - Code de procédure pénale - art. R49-10 (V)
+	  - Code de procédure pénale - art. R49-18 (VD)
+	  - Code rural - art. L215-12 (V)
+
+
+##### Section 2 : Dispositions applicables à certaines infractions à la police des services publics de transports terrestres
+
+###### Article 529-3
+
+Pour les contraventions des quatre premières classes à la police des services publics de transports ferroviaires et des
+services de transports publics de personnes, réguliers et à la demande, constatées par les agents assermentés de
+l'exploitant, l'action publique est éteinte, par dérogation à l'article 521 du présent code, par une transaction entre
+l'exploitant et le contrevenant.
+
+Toutefois, les dispositions de l'alinéa précédent ne sont pas applicables si plusieurs infractions dont l'une au moins ne
+peut donner lieu à transaction ont été constatées simultanément.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Loi du 29 juillet 1881 - art. 40 (V)
+	  - Décret du 22 mars 1942 - art. 80-5 (Ab)
+	  - Loi n°2016-339 du 22 mars 2016 - art. 17
+	  - Loi n°2016-339 du 22 mars 2016 - art. 18
+	  - CODE DE PROCEDURE PENALE - art. R49-8-1 (V)
+	  - Code de procédure pénale - art. 529-5-1 (VD)
+	  - Code de procédure pénale - art. 804 (VT)
+	  - Code de procédure pénale - art. D46-1-2 (VD)
+	  - Code des transports - art. L1721-1 (VD)
+	  - Code des transports - art. L2241-2-1 (V)
+	  - Code des transports - art. L2241-3 (V)
+	  - Code des transports - art. L2242-6 (V)
+	  - Livre des procédures fiscales - art. L166 F (V)
+	  - Loi du 15 juillet 1845 - art. 24-1 (VT)
+
+	**Codifié par**:
+
+	  - Ordonnance 58-1296 1958-12-23
+
+	**Créé par**:
+
+	  - Loi n°85-1407 1985-12-30 art. 51 et art. 94 JORF 31 décembre 1985 en vigueur le 1er octobre 1986
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°85-1407 1985-12-30 art. 94
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. 521 (M)
+
+
+###### Article 529-4
+
+La transaction est réalisée par le versement à l'exploitant d'une indemnité forfaitaire et, le cas échéant, de la somme due
+au titre du transport.
+
+Ce versement est effectué :
+
+1. Soit, au moment de la constatation de l'infraction, entre les mains de l'agent de l'exploitant ;
+
+2. Soit, dans un délai de quatre mois à compter de la constatation de l'infraction, auprès du service de l'exploitant indiqué
+dans la proposition de transaction ; dans ce dernier cas, il y est ajouté aux sommes dues le montant des frais de
+constitution du dossier.
+
+A défaut de paiement immédiat entre ses mains, l'agent de l'exploitant est habilité à recueillir le nom et l'adresse du
+contrevenant ; en cas de besoin, il peut requérir l'assistance d'un officier ou d'un agent de police judiciaire.
+
+Le montant de l'indemnité forfaitaire et, le cas échéant, celui des frais de constitution du dossier sont acquis à
+l'exploitant.
+
+**Nota:**
+
+Pour le calcul du montant de l'indemnité forfaitaire art. 80-4 du décret 730 du 22 mars 1942, dans la rédaction issue du
+décret 86-1405 du 18 septembre 1986 art. 3 JORF 19 septembre 1986.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret du 22 mars 1942 - art. 80-4 (Ab)
+	  - Décret du 22 mars 1942 - art. 80-7 (Ab)
+	  - Décret n°2005-1124 du 6 septembre 2005 - art. 1 (VT)
+	  - Décret n°2016-541 du 3 mai 2016 - art. 22 (V)
+	  - Décret n°2016-541 du 3 mai 2016 - art. 23 (V)
+	  - Décret n°2016-541 du 3 mai 2016 - art. 24 (V)
+	  - Décret n°2016-541 du 3 mai 2016 - art. 25 (V)
+	  - CODE DE PROCEDURE PENALE - art. 529-5 (V)
+	  - CODE DE PROCEDURE PENALE - art. R49-8-1 (V)
+	  - CODE DE PROCEDURE PENALE - art. R49-8-3 (V)
+	  - CODE DE PROCEDURE PENALE - art. R49-8-4 (V)
+	  - Code de la sécurité intérieure - art. R114-2 (V)
+	  - Code des transports - art. L2241-2 (VD)
+	  - Code du tourisme. - art. R342-15 (M)
+	  - Code du tourisme. - art. R342-20 (V)
+	  - Loi du 15 juillet 1845 - art. 23 (VT)
+
+	**Codifié par**:
+
+	  - Ordonnance 58-1296 1958-12-23
+
+	**Créé par**:
+
+	  - Loi n°85-1407 1985-12-30 art. 51 et art. 94 JORF 31 décembre 1985 en vigueur le 1er octobre 1986
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°85-1407 1985-12-30 art. 94
+	  - TXT_SOURCE: Décret n°2000-1136 du 24 novembre 2000
+	  - TXT_SOURCE: Décret n°2000-1136 du 24 novembre 2000 - art. 1 ()
+	  - TXT_SOURCE: Décret n°2000-1136 du 24 novembre 2000 - art. 2 ()
+
+
+###### Article 529-5
+
+Dans le délai prévu par l'article précédent, le contrevenant doit s'acquitter du montant des sommes dues au titre de la
+transaction, à moins qu'il ne formule dans le délai de quatre mois à compter de la constatation de l'infraction une
+protestation auprès du service de l'exploitant. Cette protestation, accompagnée du procès-verbal d'infraction, est transmise
+au ministère public.
+
+A défaut de paiement ou de protestation dans le délai de quatre mois précité, le procès-verbal d'infraction est adressé par
+l'exploitant au ministère public et le contrevenant devient redevable de plein droit d'une amende forfaitaire majorée
+recouvrée par le Trésor public en vertu d'un titre rendu exécutoire par le ministère public.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret du 22 mars 1942 - art. 80-6 (Ab)
+	  - Décret du 22 mars 1942 - art. 80-8 (Ab)
+	  - Décret n°64-1333 du 22 décembre 1964 - art. 2 (V)
+	  - Loi n°2016-339 du 22 mars 2016 - art. 18
+	  - Décret n°2016-541 du 3 mai 2016 - art. 24 (V)
+	  - Décret n°2016-541 du 3 mai 2016 - art. 26 (V)
+	  - CODE DE PROCEDURE PENALE - art. R49-5 (V)
+	  - Code de la route. - art. L121-5 (V)
+	  - Code de procédure pénale - art. 529-5-1 (VD)
+	  - Code de procédure pénale - art. 530 (V)
+	  - Code de procédure pénale - art. 530-1 (V)
+	  - Code de procédure pénale - art. D46-1-1 (VD)
+	  - Code de procédure pénale - art. D46-1-2 (VD)
+	  - Livre des procédures fiscales - art. L166 F (V)
+
+	**Codifié par**:
+
+	  - Ordonnance 58-1296 1958-12-23
+
+	**Créé par**:
+
+	  - Loi n°85-1407 1985-12-30 art. 51 et art. 94 JORF 31 décembre 1985 en vigueur le 1er octobre 1986
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°85-1407 1985-12-30 art. 94
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. 529-4 (M)
+
+
+##### Section 3 : Dispositions communes
 
 ###### Article 530
 
-La procédure de l'amende forfaitaire ne peut intervenir :
+Le titre mentionné au second alinéa de l'article 529-2 ou au second alinéa de l'article 529-5 est exécuté suivant les règles
+prévues par le présent code pour l'exécution des jugements de police. La prescription de la peine commence à courir à compter
+de la signature par le ministère public de l'état récapitulatif des titres de recouvrement [*point de départ*].
 
-Si la contravention expose son auteur à la réparation de dommages aux personnes ou aux biens ;
-
-Si plusieurs contraventions, dont l'une au moins ne peut donner lieu à amende forfaitaire, ont été constatées simultanément.
+Dans les dix jours [*délai*] de l'envoi de l'avertissement invitant le contrevenant à payer l'amende majorée, l'intéressé
+peut former auprès du ministère public une réclamation, qui a pour effet d'annuler le titre exécutoire. Cette réclamation
+reste recevable tant que la peine n'est pas prescrite, s'il ne résulte pas d'un acte d'exécution ou de tout autre moyen de
+preuve que l'intéressé a eu connaissance de l'amende forfaitaire majorée [*conditions*].
 
 **Liens relatifs à cet article**
 
@@ -17057,18 +17330,30 @@ Si plusieurs contraventions, dont l'une au moins ne peut donner lieu à amende f
 
 	**Modifié par**:
 
-	  - Loi n°72-5 1972-01-03 art. 3 JORF 5 janvier 1972 en vigueur le 30 juin 1972
+	  - Loi n°85-1407 1985-12-30 art. 51 et art. 94 JORF 31 décembre 1985 en vigueur le 1er octobre 1986
 
 	**Liens**:
 
-	  - SPEC_APPLI: Loi n°72-5 1972-01-03 art. 8
+	  - SPEC_APPLI: Loi n°85-1407 1985-12-30 art. 94
 	  - PILOTE_SUIVEUR: Code de la route. - art. L121-5 (M)
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. 529-2 (M)
+	  - CODE DE PROCEDURE PENALE - art. 529-5 (M)
 
 
 ###### Article 530-1
 
-A défaut de paiement de l'amende forfaitaire, la répression de la contravention est poursuivie selon les règles de la
-procédure ordinaire ou celles de la procédure simplifiée.
+Au vu de la requête faite en application du premier alinéa de l'article 529-2, de la protestation formulée en application du
+premier alinéa de l'article 529-5 ou de la réclamation faite en application du second alinéa de l'article 530, le ministère
+public peut soit renoncer à l'exercice des poursuites, soit procéder conformément aux articles 524 à 528-2 ou aux articles
+531 et suivants.
+
+En cas de condamnation, l'amende prononcée ne peut être inférieure au montant de l'amende ou de l'indemnité forfaitaire dans
+les cas prévus par le premier alinéa de l'article 529-2 et le premier alinéa de l'article 529-5, ni être inférieure au
+montant de l'amende forfaitaire majorée dans les cas prévus par le second alinéa de l'article 529-2 et le second alinéa de
+l'article 529-5.
 
 **Liens relatifs à cet article**
 
@@ -17076,14 +17361,22 @@ procédure ordinaire ou celles de la procédure simplifiée.
 
 	  - Ordonnance 58-1296 1958-12-23
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°72-5 1972-01-03 art. 3 JORF 5 janvier 1972 en vigueur le 30 juin 1972
+	  - Loi n°85-1407 1985-12-30 art. 51 et art. 94 JORF 31 décembre 1985 en vigueur le 1er Octobre 1986
 
 	**Liens**:
 
-	  - SPEC_APPLI: Loi n°72-5 1972-01-03 art. 8
+	  - SPEC_APPLI: Loi n°85-1407 1985-12-30 art. 94
 	  - PILOTE_SUIVEUR: Code de la route. - art. L121-5 (M)
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. 529-2 (M)
+	  - CODE DE PROCEDURE PENALE - art. 529-5 (M)
+	  - CODE DE PROCEDURE PENALE - art. 530 (M)
+	  - CODE DE PROCEDURE PENALE - art. 531 (M)
+	  - Code de procédure pénale 524 à 528-2, 529-2, 529-5, 530, 531
 
 	**Cité par**:
 
@@ -17092,10 +17385,44 @@ procédure ordinaire ou celles de la procédure simplifiée.
 
 ###### Article 530-2
 
-Un décret pris dans les formes prévues pour les décrets en Conseil d'Etat fixe le tarif des amendes forfaitaires.
+Les incidents contentieux relatifs à l'exécution du titre exécutoire et à la rectification des erreurs matérielles qu'il peut
+comporter sont déférés au tribunal de police, qui statue conformément aux dispositions de l'article 711.
 
-Un décret en Conseil d'Etat détermine les catégories d'agents habilités à percevoir directement des amendes. Il fixe, en tant
-que de besoin, les conditions et les modalités d'application des articles 529 à 530-1.
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 58-1296 1958-12-23
+
+	**Cité par**:
+
+	  - Loi n°83-520 du 27 juin 1983 - art. 43 (V)
+	  - Loi n°84-821 du 6 septembre 1984 - art. 66 (Ab)
+
+	**Modifié par**:
+
+	  - Loi n°85-1407 1985-12-30 art. 51 et art. 94 JORF 31 décembre 1985 en vigueur le 1er octobre 1986
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°85-1407 1985-12-30, art. 94
+	  - PILOTE_SUIVEUR: Code de la route. - art. L121-5 (M)
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. 711 (M)
+
+
+#### Chapitre II bis : De la procédure de l'amende forfaitaire
+
+##### Section 3 : Dispositions communes
+
+###### Article 530-3
+
+Un décret en Conseil d'Etat fixe le montant des amendes et indemnités forfaitaires et des amendes forfaitaires majorées ainsi
+que des frais de constitution de dossier et précise les modalités d'application du présent chapitre, en déterminant notamment
+les conditions dans lesquelles les agents habilités à constater les infractions sont assermentés et perçoivent le montant de
+l'amende forfaitaire ou celui de la transaction.
 
 **Liens relatifs à cet article**
 
@@ -17105,21 +17432,16 @@ que de besoin, les conditions et les modalités d'application des articles 529 �
 
 	**Créé par**:
 
-	  - Loi n°72-5 1972-01-03 art. 3 JORF 5 janvier 1972 en vigueur le 30 juin 1972
+	  - Loi n°85-1407 1985-12-30 art. 51 et art. 94 JORF 31 décembre 1985 en vigueur le 1er octobre 1986
 
 	**Liens**:
 
-	  - SPEC_APPLI: Loi n°72-5 1972-01-03 art. 8
+	  - SPEC_APPLI: Loi n°85-1407 1985-12-30 art. 94
 	  - PILOTE_SUIVEUR: Code de la route. - art. L121-5 (M)
 
 	**Cité par**:
 
-	  - Loi n°83-520 du 27 juin 1983 - art. 43 (V)
-	  - Loi n°84-821 du 6 septembre 1984 - art. 66 (Ab)
-
-	**Cite**:
-
-	  - Code de procédure pénale 529 à 530-1
+	  - Loi n°88-82 du 22 janvier 1988 - art. 71 (Ab)
 
 
 #### Chapitre III : De la saisine du tribunal de police
