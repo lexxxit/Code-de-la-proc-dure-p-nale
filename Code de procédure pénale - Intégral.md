@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 1993-03-01
+Version Consolidée au 1993-03-17
 
 # Partie législative
 
@@ -49004,7 +49004,8 @@ l'administration pénitentiaire et aux personnes ayant accès dans la détention
 
 - d'user, à leur égard, soit de dénominations injurieuses, soit de tutoiement, soit de langage grossier ou familier ;
 
-- de fumer ou de boire à l'intérieur de la détention ou d'y paraître en état d'ébriété ;
+- de fumer dans les lieux fermés et couverts affectés à un usage collectif, sous réserve de ceux spécialement aménagés à cet
+effet ou de boire à l'intérieur de la détention ou d'y paraître en état d'ébriété ;
 
 - d'occuper sans autorisation les détenus pour leur service particulier ;
 
@@ -49029,6 +49030,10 @@ défenseur.
 
 	  - SPEC_APPLI: Décret n°59-322 1959-02-23 art. 6
 	  - TXT_SOURCE: Code de procédure pénale 714 à 728
+
+	**Modifié par**:
+
+	  - Décret n°93-347 du 15 mars 1993 - art. 2 () JORF 17 mars 1993
 
 	**Cité par**:
 
@@ -52691,9 +52696,11 @@ La vente en cantine de toute autre boisson alcoolisée, et notamment du vin, est
 
 ###### Article D347
 
-Sauf prescription médicale, l'usage du tabac est autorisé.
+Il est interdit de fumer dans les lieux affectés à un usage collectif, notamment dans les couloirs, les salles de spectacle
+ou de culte, les salles de sport, les locaux médicaux, les ateliers et les cuisines.
 
-Il est interdit de fumer dans les couloirs, les ateliers, les lieux affectés au culte et les salles de spectacles.
+Le chef d'établissement détermine, en fonction de la configuration des lieux, les locaux dans lesquels les détenus sont
+autorisés à fumer, en tenant compte notamment de leur aération et de leur destination.
 
 **Liens relatifs à cet article**
 
@@ -52703,8 +52710,7 @@ Il est interdit de fumer dans les couloirs, les ateliers, les lieux affectés au
 
 	**Modifié par**:
 
-	  - Décret n°75-402 1975-05-23 art. 1 JORF 27 mai 1975
-	  - Décret n°83-48 1983-01-26 art. 1 JORF 28 janvier 1983
+	  - Décret n°93-347 du 15 mars 1993 - art. 1 () JORF 17 mars 1993
 
 	**Liens**:
 
