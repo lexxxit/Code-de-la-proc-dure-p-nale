@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 2001-12-16
+Version Consolidée au 2001-12-29
 
 # Partie législative
 
@@ -50739,7 +50739,9 @@ demande des autorités judiciaires par les organismes agréés mentionnés à l'
 de la Cour de justice de la République selon les modalités prévues au décret n° 95-692 du 9 mai 1995 ;
 
 21° Les frais des administrateurs ad hoc lorsqu'ils figurent sur la liste prévue à l'article R. 53 ou qu'il a été fait
-application des dispositions de l'article R. 53-6.
+application des dispositions de l'article R. 53-6 ;
+
+22° Les indemnités accordées en application de l'article 800-2.
 
 **Liens relatifs à cet article**
 
@@ -50757,9 +50759,10 @@ application des dispositions de l'article R. 53-6.
 	  - CODE DE PROCEDURE PENALE - art. 41-1 (M)
 	  - CODE DE PROCEDURE PENALE - art. 422 (V)
 	  - CODE DE PROCEDURE PENALE - art. 706-4 (M)
+	  - CODE DE PROCEDURE PENALE - art. 800-2 (V)
 	  - CODE DE PROCEDURE PENALE - art. R53 (M)
 	  - CODE DE PROCEDURE PENALE - art. R53-6 (M)
-	  - Code de procédure pénale 41-1, R123 à R146, 375-1, 422, 149, 150, 706-4, R53, R53-6
+	  - Code de procédure pénale 41-1, R123 à R146, 375-1, 422, 149, 150, 706-4, R53, R53-6, 800-2
 
 	**Cité par**:
 
@@ -50786,7 +50789,7 @@ application des dispositions de l'article R. 53-6.
 
 	**Modifié par**:
 
-	  - Décret n°2001-71 du 29 janvier 2001 - art. 3 () JORF 30 janvier 2001
+	  - Décret n°2001-1321 du 27 décembre 2001 - art. 1 () JORF 29 décembre 2001
 
 
 ###### Article R93
@@ -53827,10 +53830,10 @@ d'instruction du ressort de la cour d'appel, conformément aux dispositions de l
 3° (dispositions abrogées)
 
 4° Par les transports des magistrats du ressort de la cour d'appel qui siègent comme présidents ou assesseurs dans une cour
-d'assises tenue hors du chef-lieu du ressort, et du procureur général ou de ses substituts qui vont y porter la parole, sans
-qu'il y ait lieu de distinguer entre les sessions ordinaires et extraordinaires, ainsi que du procureur de la République
-lorsqu'il occupe le siège du ministère public devant les tribunaux d'instance de son ressort, en application de l'article 45
-du présent code ou de l'article 4 de l'ordonnance n° 58-1273 du 22 décembre 1958 ;
+d'assises tenue hors du siège de la juridiction où ils sont affectés, et du procureur général ou de ses substituts qui vont y
+porter la parole, sans qu'il y ait lieu de distinguer entre les sessions ordinaires et extraordinaires, ainsi que du
+procureur de la République lorsqu'il occupe le siège du ministère public devant les tribunaux d'instance de son ressort, en
+application de l'article 45 du présent code ou de l'article 4 de l'ordonnance n° 58-1273 du 22 décembre 1958 ;
 
 5° Par les transports des commissaires de police, ou des officiers de police désignés par le procureur général, conformément
 aux articles 46 et 48, pour occuper le siège du ministère public près le tribunal de police d'une autre ville que celle où
@@ -53842,23 +53845,27 @@ ils exercent leurs fonctions ;
 
 	**Cite**:
 
-	  - Ordonnance 58-1273 1958-12-22 art. 4
-	  - CODE DE PROCEDURE PENALE - art. 220 (M)
-	  - CODE DE PROCEDURE PENALE - art. 45 (M)
-	  - CODE DE PROCEDURE PENALE - art. 46 (M)
-	  - CODE DE PROCEDURE PENALE - art. 48 (M)
+	  - Ordonnance n°58-1273 du 22 décembre 1958
+	  - Code de procédure pénale - art. 220
+	  - Code de procédure pénale - art. 45
+	  - Code de procédure pénale - art. 46
+	  - Code de procédure pénale - art. 48
 
 	**Codifié par**:
 
-	  - Décret n°59-318 1959-02-23
-
-	**Modifié par**:
-
-	  - Décret n°2001-709 du 31 juillet 2001 - art. 5 () JORF 3 août 2001
+	  - Décret n°59-318 du 23 février 1959
 
 	**Liens**:
 
 	  - SPEC_APPLI: Décret n°2001-709 du 31 juillet 2001 - art. 6 (V)
+
+	**Modifié par**:
+
+	  - Décret n°2001-1321 du 27 décembre 2001 - art. 2 () JORF 29 décembre 2001
+
+	**Abrogé par**:
+
+	  - Décret n°2013-770 du 26 août 2013 - art. 5
 
 	**Cité par**:
 
@@ -54847,6 +54854,217 @@ décision est devenue définitive.
 	**Créé par**:
 
 	  - Décret n°93-867 du 28 juin 1993 - art. 19 () JORF 29 juin 1993
+
+
+#### Chapitre V : De l'indemnité pouvant être accordée en cas non-lieu, relaxe ou acquittement
+
+###### Article R249-2
+
+L'indemnité prévue par l'article 800-2 comporte l'indemnisation des frais d'avocat exposés par la personne poursuivie, dont
+le montant ne peut excéder la contribution de l'Etat à la rétribution de l'avocat qui aurait prêté son concours à l'intéressé
+au titre de l'aide juridictionnelle pour l'ensemble de la procédure ayant abouti à la décision de non-lieu, de relaxe ou
+d'acquittement.
+
+Cette indemnité comporte également, sauf si la personne poursuivie était en détention provisoire lors de ses comparutions
+devant les juridictions d'instruction ou de jugement :
+
+1° Pour les interrogatoires de la personne devant le juge d'instruction, la chambre de l'instruction ou un magistrat d'une
+juridiction de jugement chargé d'un supplément d'information, sa comparution devant le tribunal ou le juge pour enfants, le
+tribunal de police, le tribunal correctionnel ou la chambre des appels correctionnels, des indemnités de comparution ne
+pouvant excéder celles calculées dans les conditions fixées aux articles R. 129, R. 130 et R. 131 ;
+
+2° En cas de comparution devant la cour d'assises, des indemnités journalières ne pouvant excéder celles calculées dans les
+conditions fixées à l'article R. 140 ;
+
+3° Des indemnités de transport ne pouvant excéder celles calculées dans les conditions fixées aux articles R. 133 et R. 138 ;
+
+4° Si l'intéressé a été retenu hors de sa résidence du fait de ses comparutions devant les juridictions d'instruction ou de
+jugement, des indemnités de séjour ne pouvant excéder celles calculées dans les conditions fixées à l'article R. 111.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-318 1959-02-23
+
+	**Créé par**:
+
+	  - Décret n°2001-1321 du 27 décembre 2001 - art. 3 () JORF 29 décembre 2001
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. 800-2 (V)
+	  - CODE DE PROCEDURE PENALE - art. R111 (V)
+	  - CODE DE PROCEDURE PENALE - art. R129 (M)
+	  - CODE DE PROCEDURE PENALE - art. R130 (M)
+	  - CODE DE PROCEDURE PENALE - art. R131 (V)
+	  - CODE DE PROCEDURE PENALE - art. R133 (M)
+	  - CODE DE PROCEDURE PENALE - art. R138 (V)
+	  - CODE DE PROCEDURE PENALE - art. R140 (M)
+
+	**Cité par**:
+
+	  - Code de procédure pénale - art. R249-3 (V)
+
+
+###### Article R249-3
+
+L'indemnité doit être demandée à la juridiction d'instruction ou de jugement avant que celle-ci ne statue sur l'action
+publique.
+
+La demande fait l'objet d'une requête datée et signée du demandeur ou de son avocat, adressée à la juridiction soit par
+lettre recommandée avec demande d'accusé de réception, soit par remise au greffe contre récépissé :
+
+1° Au plus tard avant l'expiration du délai de vingt jours prévu par l'article 175, si la demande est formée devant le juge
+d'instruction ou la chambre de l'instruction ;
+
+2° Avant la clôture des débats, si la demande est formée devant une juridiction de jugement.
+
+Cette requête indique le montant de l'indemnité demandée pour chacun des frais exposés, conformément aux distinctions prévues
+par l'article R. 249-2. Elle est accompagnée des pièces justificatives des frais exposés, comprenant notamment une
+attestation de l'avocat indiquant soit le montant de ses honoraires, soit le fait que ceux-ci ont dépassé le montant prévu au
+premier alinéa du même article.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-318 1959-02-23
+
+	**Créé par**:
+
+	  - Décret n°2001-1321 du 27 décembre 2001 - art. 3 () JORF 29 décembre 2001
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. 175 (M)
+	  - CODE DE PROCEDURE PENALE - art. R249-2 (M)
+
+
+###### Article R249-4
+
+La décision statuant sur la demande d'indemnisation est rendue par la juridiction en même temps que la décision statuant sur
+l'action publique, sauf si l'état du dossier ne permet pas de déterminer le montant de l'indemnité.
+
+En matière criminelle, cette décision est rendue par la cour statuant sans l'assistance des jurés.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-318 1959-02-23
+
+	**Créé par**:
+
+	  - Décret n°2001-1321 du 27 décembre 2001 - art. 3 () JORF 29 décembre 2001
+
+
+###### Article R249-5
+
+Lorsque l'action publique a été mise en mouvement par la partie civile, la juridiction d'instruction ou de jugement ne peut
+mettre l'indemnité à la charge de cette dernière que sur réquisitions du procureur de la République et par décision motivée,
+si elle estime que la constitution de partie civile a été abusive ou dilatoire. 
+
+Il est alors fait application, selon le cas, des dispositions du deuxième alinéa de l'article 177-2 ou du deuxième alinéa de
+l'article 392-1.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-318 1959-02-23
+
+	**Créé par**:
+
+	  - Décret n°2001-1321 du 27 décembre 2001 - art. 3 () JORF 29 décembre 2001
+
+	**Cite**:
+
+	  - Code de procédure pénale - art. 177-2 (V)
+	  - Code de procédure pénale - art. 392-1 (V)
+
+
+###### Article R249-6
+
+Le demandeur ou le ministère public peuvent former appel, dans les dix jours de sa notification, de la décision rendue sur la
+demande d'indemnisation lorsqu'elle émane d'une juridiction répressive statuant en premier ressort. Le même droit est ouvert
+à la partie civile lorsque l'indemnité est mise à sa charge.
+
+Cet appel est porté :
+
+a) Devant la chambre de l'instruction lorsque la décision a été rendue par le juge d'instruction ;
+
+b) Devant la chambre des appels correctionnels lorsque la décision a été rendue par le tribunal de police, le tribunal des
+enfants ou le tribunal correctionnel, ou par la cour d'assises statuant en premier ressort.
+
+L'appel de la décision de non-lieu ou de relaxe par le ministère public vaut également appel de la décision sur la demande
+d'indemnisation. Il en est de même de l'appel de la décision de non-lieu par la partie civile.
+
+Pendant le délai d'appel et durant l'instance d'appel, il est sursis à l'exécution de la décision.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-318 1959-02-23
+
+	**Créé par**:
+
+	  - Décret n°2001-1321 du 27 décembre 2001 - art. 3 () JORF 29 décembre 2001
+
+	**Cité par**:
+
+	  - Code de procédure pénale - art. R249-8 (VD)
+	  - Code de procédure pénale - art. R359 (VT)
+	  - Code de procédure pénale - art. R429 (V)
+
+
+###### Article R249-7
+
+Le paiement de l'indemnité est effectué par le régisseur d'avances au vu de la décision de la juridiction.
+
+Lorsque la décision met l'indemnité à la charge de la partie civile, l'indemnité est payée par le régisseur à titre d'avance
+faite par le Trésor public. Le recouvrement du montant de l'indemnité auprès de la partie civile est poursuivi à la diligence
+des comptables du Trésor par toutes voies de droit.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-318 1959-02-23
+
+	**Créé par**:
+
+	  - Décret n°2001-1321 du 27 décembre 2001 - art. 3 () JORF 29 décembre 2001
+
+	**Cité par**:
+
+	  - Code de procédure pénale - art. R358 (VT)
+	  - Code de procédure pénale - art. R428 (V)
+
+
+###### Article R249-8
+
+Après le paiement de l'indemnité par le régisseur, un recours contre la décision peut être formé devant la juridiction
+mentionnée au a ou au b de l'article R. 249-6 par le ministère public à la demande du comptable assignataire, dans un délai
+d'un mois à compter du versement de la pièce de dépense par le régisseur entre les mains de ce comptable. 
+
+Le refus motivé du ministère public d'exercer le recours est porté à la connaissance du comptable assignataire. Dans ce cas,
+celui-ci exécute la décision et reconstitue l'avance de la régie.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-318 1959-02-23
+
+	**Créé par**:
+
+	  - Décret n°2001-1321 du 27 décembre 2001 - art. 3 () JORF 29 décembre 2001
+
+	**Cite**:
+
+	  - Code de procédure pénale - art. R249-6 (V)
 
 
 ## Dispositions générales
