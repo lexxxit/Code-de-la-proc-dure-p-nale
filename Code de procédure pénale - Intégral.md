@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 1999-06-24
+Version Consolidée au 1999-07-09
 
 # Partie législative
 
@@ -42061,10 +42061,11 @@ révocation de la mesure dont bénéficie le condamné, qui serait de la compét
 
 ###### Article R50-33
 
-Les personnes condamnées pour le meurtre ou l'assassinat d'un mineur de quinze ans précédé ou accompagné d'un viol, de
-tortures ou d'actes de barbarie ou pour toute infraction visée aux articles 222-23 à 222-32 et 227-25 à 227-27 du code pénal
-exécutent leur peine dans les établissements pénitentiaires permettant d'assurer un suivi médical et psychologique adapté.
-Ces établissements sont les suivants :
+Les personnes condamnées à un suivi socio-judiciaire, quel qu'en soit le motif, ainsi que les personnes condamnées pour le
+meurtre ou l'assassinat d'un mineur de quinze ans précédé ou accompagné d'un viol, de tortures ou d'actes de barbarie ou pour
+toute infraction visée aux articles 222-23 à 222-32 et 227-25 à 227-27 du code pénal exécutent leur peine dans les
+établissements pénitentiaires permettant d'assurer un suivi médical et psychologique adapté. Ces établissements sont les
+suivants :
 
 1° Les établissements pénitentiaires sièges d'un service médico-psychologique régional ;
 
@@ -42078,6 +42079,10 @@ loi n° 87-432 du 22 juin 1987 relative au service public pénitentiaire.
 
 **Liens relatifs à cet article**
 
+	**Codifié par**:
+
+	  - Décret n°59-318 1959-02-03
+
 	**Cite**:
 
 	  - Loi n°87-432 1987-06-22
@@ -42087,16 +42092,20 @@ loi n° 87-432 du 22 juin 1987 relative au service public pénitentiaire.
 
 	**Modifié par**:
 
-	  - Décret n°95-886 1995-08-04 art. 1 et art. 2 JORF 6 août 1995
+	  - Décret n°99-571 du 7 juillet 1999 - art. 2 () JORF 9 juillet 1999
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°99-571 du 7 juillet 1999 - art. 3 (M)
+
+	**Abrogé par**:
+
+	  - Décret n°99-818 du 16 septembre 1999 - art. 1 () JORF 19 septembre 1999
 
 	**Cité par**:
 
 	  - CODE DE PROCEDURE PENALE - art. R50-34 (Ab)
 	  - CODE DE PROCEDURE PENALE - art. R50-35 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°59-318 1959-02-03
 
 
 ###### Article R50-34
@@ -42321,6 +42330,251 @@ Le délégué à la liberté surveillée désigné par ce magistrat exerce alors
 
 	  - CODE DE PROCEDURE PENALE - art. R61-32 (Ab)
 	  - Code de procédure pénale - art. R289 (V)
+
+
+### Titre V : Du suivi socio-judiciaire
+
+#### Chapitre Ier : Dispositions communes
+
+###### Article R61
+
+Le juge de l'application des peines mentionné à l'article 763-1 convoque la personne condamnée à un suivi socio-judiciaire
+pour lui rappeler les obligations auxquelles elle est soumise en application de la décision de condamnation et, le cas
+échéant, lui notifier les obligations complémentaires qu'il a ordonnées en application de l'article 763-3. Il porte à sa
+connaissance les conditions dans lesquelles le respect de ces obligations sera contrôlé. Il lui rappelle la durée du suivi
+socio-judiciaire ainsi que la durée maximum de l'emprisonnement encouru en application de l'article 131-36-1 du code pénal en
+cas d'inobservation de ces obligations.
+
+Lorsque, conformément aux dispositions de l'article 763-8, les dispositions du présent article sont mises en oeuvre par le
+juge des enfants à l'égard d'un mineur, ce magistrat convoque également les titulaires de l'exercice de l'autorité parentale.
+
+Si le condamné fait l'objet d'une injonction de soins, le juge lui indique le médecin coordonnateur qu'il a désigné. Il
+l'avise qu'il devra rencontrer ce médecin dans un délai qu'il fixe et qui ne peut être supérieur à un mois.
+
+Le juge de l'application des peines informe le condamné dans les mêmes formes en cas de modification de ses obligations.
+
+L'accomplissement de ces formalités est constaté par procès-verbal dont une copie est remise à l'intéressé après émargement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-318 1959-02-23
+
+	**Modifié par**:
+
+	  - Décret n°99-571 du 7 juillet 1999 - art. 1 () JORF 9 juillet 1999
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°99-571 du 7 juillet 1999 - art. 3 (M)
+
+	**Cite**:
+
+	  - Code pénal - art. 131-36-1 (M)
+	  - CODE DE PROCEDURE PENALE - art. 763-1 (M)
+	  - CODE DE PROCEDURE PENALE - art. 763-3 (M)
+	  - CODE DE PROCEDURE PENALE - art. 763-8 (M)
+
+	**Cité par**:
+
+	  - CODE DE PROCEDURE PENALE - art. R61-4 (V)
+
+
+###### Article R61-1
+
+Lorsque le juge de l'application des peines procède au débat contradictoire prévu à l'article 763-5, il est dressé un procès-
+verbal d'audience, qui est signé par le juge de l'application des peines et par son greffier.
+
+Si le juge de l'application des peines ordonne la mise à exécution de l'emprisonnement prévu par le troisième alinéa de
+l'article 131-36-1 du code pénal, sa décision précise la durée de l'emprisonnement qui doit être subi. Une copie de la
+décision est remise au condamné, ainsi que, le cas échéant, à son avocat. Cette décision vaut ordre donné au chef de
+l'établissement pénitentiaire désigné de recevoir et de détenir le condamné.
+
+Appel de cette décision peut être fait soit auprès du greffier du juge de l'application des peines selon les modalités
+prévues aux deux premiers alinéas de l'article 502, soit auprès du chef de l'établissement pénitentiaire selon les modalités
+prévues à l'article 503.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-318 1959-02-23
+
+	**Modifié par**:
+
+	  - Décret n°99-571 du 7 juillet 1999 - art. 1 () JORF 9 juillet 1999
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°99-571 du 7 juillet 1999 - art. 3 (M)
+
+	**Cite**:
+
+	  - Code pénal - art. 131-36-1 (M)
+	  - CODE DE PROCEDURE PENALE - art. 502 (V)
+	  - CODE DE PROCEDURE PENALE - art. 503 (V)
+	  - CODE DE PROCEDURE PENALE - art. 763-5 (M)
+
+	**Cité par**:
+
+	  - CODE DE PROCEDURE PENALE - art. R61-4 (M)
+
+
+###### Article R61-2
+
+Le juge de l'application des peines peut décider par ordonnance motivée qu'il soit mis fin à l'emprisonnement prévu au
+troisième alinéa de l'article 131-36-1 du code pénal s'il lui apparaît que le condamné est en mesure de respecter les
+obligations du suivi socio-judiciaire. Seule la période d'emprisonnement effectivement accomplie est prise en compte pour
+l'application des dispositions du dernier alinéa de l'article 763-5.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-318 1959-02-23
+
+	**Modifié par**:
+
+	  - Décret n°99-571 du 7 juillet 1999 - art. 1 () JORF 9 juillet 1999
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°99-571 du 7 juillet 1999 - art. 3 (M)
+
+	**Cite**:
+
+	  - Code pénal - art. 131-36-1 (M)
+	  - CODE DE PROCEDURE PENALE - art. 763-5 (M)
+
+	**Cité par**:
+
+	  - CODE DE PROCEDURE PENALE - art. R61-5 (M)
+
+
+###### Article R61-3
+
+Un dossier individuel concernant la personne condamnée à un suivi socio-judiciaire est tenu par le greffier du juge de
+l'application des peines.
+
+Ce dossier comprend des copies des documents issus de la procédure ayant abouti à la condamnation et qui sont nécessaires au
+suivi de la mesure.
+
+Il comprend également les rapports établis et les décisions prises pendant le déroulement de la mesure et, le cas échéant, au
+cours de l'exécution de la peine privative de liberté.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-318 1959-02-23
+
+	**Modifié par**:
+
+	  - Décret n°99-571 du 7 juillet 1999 - art. 1 () JORF 9 juillet 1999
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°99-571 du 7 juillet 1999 - art. 3 (M)
+
+	**Cité par**:
+
+	  - Code de procédure pénale - art. R61-4 (V)
+
+
+#### Chapitre II : Dispositions particulières applicables aux personnes exécutant une peine privative de liberté.
+
+###### Article R61-4
+
+Lorsque le condamné est détenu, le rappel des obligations auxquelles il est soumis et qui est prévu au premier alinéa de
+l'article R. 61 est fait, dans les jours précédant sa libération, par le juge de l'application des peines sous le contrôle
+duquel le suivi socio-judiciaire doit être effectué.
+
+Si le condamné décide de fixer, après sa libération, sa résidence habituelle dans le ressort d'un tribunal de grande instance
+autre que celui dans le ressort duquel est situé l'établissement pénitentiaire, le juge de l'application des peines du lieu
+de détention communique en temps utile au juge de l'application des peines compétent pour contrôler le suivi socio-judiciaire
+le dossier individuel mentionné à l'article R. 61-3.
+
+Lorsque le détenu est mineur, le juge de l'application des peines avertit le juge des enfants de la date à laquelle sa
+libération devra intervenir, afin de permettre à ce magistrat de procéder, dans les jours précédant cette libération, au
+rappel des obligations auxquelles le condamné est soumis.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-318 1959-02-23
+
+	**Modifié par**:
+
+	  - Décret n°99-571 du 7 juillet 1999 - art. 1 () JORF 9 juillet 1999
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°99-571 du 7 juillet 1999 - art. 3 (M)
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. R61 (M)
+	  - CODE DE PROCEDURE PENALE - art. R61-3 (M)
+
+
+###### Article R61-5
+
+Lorsque le suivi socio-judiciaire accompagne une peine privative de liberté, la période pendant laquelle le condamné se
+trouve en permission de sortir, ou est placé sous le régime de la semi-liberté ou fait l'objet d'un placement à l'extérieur
+ou d'un placement sous surveillance électronique ne s'impute pas sur la durée du suivi socio-judiciaire. Le juge de
+l'application des peines peut décider que les obligations résultant de l'injonction de soins ne seront pas applicables si
+leur mise en oeuvre s'avère incompatible avec la mesure d'aménagement dont bénéficie l'intéressé, notamment en raison de la
+brièveté de la sortie de l'établissement pénitentiaire.
+
+En cas de violation des obligations du suivi socio-judiciaire au cours d'une permission de sortir, d'un placement en semi-
+liberté, d'un placement à l'extérieur ou d'un placement sous surveillance électronique, les sanctions attachées à ces mesures
+d'aménagement sont prononcées en premier lieu, avant l'application éventuelle de la mesure d'emprisonnement prévue au premier
+alinéa de l'article 763-5.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-318 1959-02-23
+
+	**Modifié par**:
+
+	  - Décret n°99-571 du 7 juillet 1999 - art. 1 () JORF 9 juillet 1999
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°99-571 du 7 juillet 1999 - art. 3 (M)
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. 763-5 (M)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. R355-55 (Ab)
+	  - Code de la santé publique - art. R3711-24 (V)
+
+
+###### Article R61-6
+
+Une personne peut être soumise en même temps aux obligations d'un suivi socio-judiciaire et à celles d'un sursis avec mise à
+l'épreuve ou d'une libération conditionnelle.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-318 1959-02-23
+
+	**Modifié par**:
+
+	  - Décret n°99-571 du 7 juillet 1999 - art. 1 () JORF 9 juillet 1999
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°99-571 du 7 juillet 1999 - art. 3 (M)
 
 
 ### Titre VIII : Du casier judiciaire
