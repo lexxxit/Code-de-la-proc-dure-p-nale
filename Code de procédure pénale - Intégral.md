@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 1989-07-14
+Version Consolidée au 1989-09-01
 
 # Partie législative
 
@@ -7501,6 +7501,28 @@ essentielles de l'original et spécialement la nature de l'inculpation, le nom e
 
 	  - Code de procédure pénale - art. D35 (V)
 	  - Code de procédure pénale - art. D36 (V)
+
+
+##### Section 12 : De l'appel des ordonnances du juge d'instruction
+
+###### Article 187
+
+Lorsqu'il est interjeté appel d'une ordonnance autre qu'une ordonnance de règlement, le juge d'instruction poursuit son
+information sauf décision contraire à la chambre d'accusation.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°57-1426 1957-12-31
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°57-1426 1957-12-31 art. 18
+
+	**Modifié par**:
+
+	  - Loi n°87-1062 du 30 décembre 1987 - art. 9 () JORF 31 décembre 1987 en vigueur le 1er septembre 1989
 
 
 #### Chapitre II : De la chambre d'accusation : juridiction d'instruction du second degré
