@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 1999-08-31
+Version Consolidée au 1999-09-19
 
 # Partie législative
 
@@ -41967,11 +41967,282 @@ prévus aux articles R. 50-15 et R. 50-17.
 	  - Nouveau code de procédure civile 643 à 647
 
 
+### Titre XIX : De la procédure applicable aux infractions de nature sexuelle et aux mineurs victimes
+
+#### Chapitre Ier : De l'administrateur ad hoc
+
+##### Section 1 : De la liste des administrateurs ad hoc
+
+###### Article R53
+
+Il est dressé tous les quatre ans, dans le ressort de chaque cour d'appel, une liste sur laquelle sont inscrits les
+administrateurs ad hoc. Elle peut faire l'objet, en tant que de besoin, de mises à jour annuelles.
+
+La liste des administrateurs ad hoc est tenue à la disposition du public dans les locaux du secrétariat-greffe de la cour
+d'appel et des tribunaux de grande instance. Elle peut également être affichée dans ces locaux.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-318 1959-02-23
+
+	**Modifié par**:
+
+	  - Décret n°99-818 du 16 septembre 1999 - art. 2 () JORF 19 septembre 1999
+
+	**Cité par**:
+
+	  - Décret n°2003-841 du 2 septembre 2003 - art. 11 (Ab)
+	  - Code de justice militaire. - art. D269-4 (V)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. R111-23 (V)
+	  - Code de procédure civile - art. 1210-1 (V)
+	  - Code de procédure civile - art. 1210-3 (V)
+	  - Code de procédure pénale - art. R130 (V)
+	  - Code de procédure pénale - art. R216 (V)
+	  - Code de procédure pénale - art. R53-4 (V)
+	  - Code de procédure pénale - art. R53-6 (V)
+	  - Code de procédure pénale - art. R92 (V)
+	  - Code de procédure pénale - art. R93 (V)
+
+
+###### Article R53-1
+
+Une personne physique ne peut être inscrite sur la liste que si elle réunit les conditions suivantes :
+
+1° Etre âgée de trente ans au moins et de soixante-dix ans au plus ;
+
+2° S'être signalée depuis un temps suffisant par l'intérêt qu'elle porte aux questions de l'enfance et par sa compétence ;
+
+3° Avoir sa résidence dans le ressort de la cour d'appel ;
+
+4° N'avoir pas été l'auteur de faits ayant donné lieu à condamnation pénale ou à sanction disciplinaire ou administrative
+pour agissements contraires à l'honneur, à la probité et aux bonnes moeurs ;
+
+5° N'avoir pas été frappée de faillite personnelle ou d'une autre sanction en application du titre VI de la loi n° 85-98 du
+25 janvier 1985 relative au redressement et à la liquidation judiciaires des entreprises.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-318 1959-02-23
+
+	**Cite**:
+
+	  - Loi n°85-98 1985-01-25
+
+	**Créé par**:
+
+	  - Décret n°99-818 du 16 septembre 1999 - art. 2 () JORF 19 septembre 1999
+
+	**Cité par**:
+
+	  - CODE DE PROCEDURE PENALE - art. R53-2 (V)
+	  - Code de procédure pénale - art. R53-5 (V)
+	  - Code de procédure pénale - art. R53-6 (V)
+
+
+###### Article R53-2
+
+En vue de l'inscription d'une personne morale sur une liste d'administrateurs ad hoc, il doit être justifié :
+
+1° Que les dirigeants de la personne morale remplissent les conditions prévues aux 4° et 5° de l'article précédent ;
+
+2° Que chacune des personnes susceptibles d'exercer pour le compte de la personne morale une mission d'administrateur ad hoc
+remplit les conditions prévues audit article.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-318 1959-02-23
+
+	**Créé par**:
+
+	  - Décret n°99-818 du 16 septembre 1999 - art. 2 () JORF 19 septembre 1999
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. R53-1 (M)
+
+	**Cité par**:
+
+	  - CODE DE PROCEDURE PENALE - art. R53-5 (M)
+	  - CODE DE PROCEDURE PENALE - art. R53-6 (M)
+
+
+###### Article R53-3
+
+Les demandes d'inscription sont adressées au procureur de la République près le tribunal de grande instance dans le ressort
+duquel le candidat a sa résidence. Le procureur instruit les demandes. Il recueille l'avis du juge d'instruction, du juge des
+tutelles et, le cas échéant, du juge des enfants.
+
+Il transmet le dossier, pour avis de l'assemblée générale de la juridiction, au président du tribunal de grande instance.
+
+Le procureur de la République transmet ensuite le dossier avec l'avis de l'assemblée générale du tribunal au procureur
+général qui en saisit le premier président de la cour d'appel aux fins d'examen par l'assemblée générale de la cour.
+
+L'assemblée générale dresse la liste des administrateurs ad hoc après avoir entendu le magistrat chargé du rapport et le
+ministère public.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-318 1959-02-23
+
+	**Créé par**:
+
+	  - Décret n°99-818 du 16 septembre 1999 - art. 2 () JORF 19 septembre 1999
+
+	**Cité par**:
+
+	  - Code de procédure pénale - art. R53-4 (V)
+
+
+###### Article R53-4
+
+Tous les quatre ans, les administrateurs ad hoc figurant sur la liste prévue à l'article R. 53 formulent une nouvelle demande
+d'inscription qui est instruite conformément aux dispositions de l'article R. 53-3. Ils justifient à cette occasion qu'ils
+ont respecté les obligations résultant des missions qui leur ont été confiées, et notamment celles qui figurent à l'article
+R. 53-8.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-318 1959-02-23
+
+	**Créé par**:
+
+	  - Décret n°99-818 du 16 septembre 1999 - art. 2 () JORF 19 septembre 1999
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. R53 (M)
+	  - CODE DE PROCEDURE PENALE - art. R53-3 (M)
+	  - CODE DE PROCEDURE PENALE - art. R53-8 (M)
+
+
+###### Article R53-58
+
+La radiation d'un administrateur ad hoc peut être prononcée chaque année par l'assemblée générale de la cour d'appel, soit à
+la demande de l'intéressé, soit à l'initiative du premier président ou du procureur général, après que l'intéressé ait été
+mis à même de présenter ses observations, dès lors que l'une des conditions prévues aux articles R. 53-1 et R. 53-2 cesse
+d'être remplie ou que l'administrateur ad hoc n'a pas respecté les obligations résultant de sa mission.
+
+En cas d'urgence, et après avoir mis l'intéressé en mesure de présenter ses observations, le premier président peut
+prononcer, à titre provisoire, la radiation de l'administrateur ad hoc.
+
+La décision de radiation ne peut donner lieu qu'à un recours devant la Cour de cassation dans un délai d'un mois.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-318 1959-02-23
+
+	**Créé par**:
+
+	  - Décret n°99-818 du 16 septembre 1999 - art. 2 () JORF 19 septembre 1999
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. R53-1 (M)
+	  - CODE DE PROCEDURE PENALE - art. R53-2 (M)
+
+
+##### Section 2 : De la désignation d'un administrateur ad hoc
+
+###### Article R53-6
+
+Lorsque, dans le ressort de la cour d'appel, il n'est pas possible de désigner l'une des personnes figurant sur la liste
+prévue à l'article R. 53 ou que cette liste n'a pas encore été constituée, et qu'il ne peut être fait appel à l'une des
+personnes proches de l'enfant, la désignation d'un administrateur ad hoc en application de l'article 706-50 est faite, à
+titre provisoire et jusqu'à l'établissement ou la mise à jour annuelle de la liste, parmi les personnes physiques ou morales
+remplissant les conditions définies aux articles R. 53-1 et R. 53-2.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-318 1959-02-23
+
+	**Créé par**:
+
+	  - Décret n°99-818 du 16 septembre 1999 - art. 2 () JORF 19 septembre 1999
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. 706-50 (V)
+	  - CODE DE PROCEDURE PENALE - art. R53 (M)
+	  - CODE DE PROCEDURE PENALE - art. R53-1 (M)
+	  - CODE DE PROCEDURE PENALE - art. R53-2 (M)
+
+	**Cité par**:
+
+	  - Code de justice militaire. - art. D269-4 (V)
+	  - Code de procédure pénale - art. R130 (V)
+	  - Code de procédure pénale - art. R216 (V)
+	  - Code de procédure pénale - art. R92 (V)
+
+
+###### Article R53-7
+
+La désignation d'un administrateur ad hoc en application des dispositions de l'article 706-50 est notifiée aux représentants
+légaux du mineur et peut être contestée par ces derniers par la voie de l'appel dans un délai de dix jours à compter de la
+notification. Cet appel n'est pas suspensif. Il est porté devant la chambre d'accusation ou la chambre des appels
+correctionnels.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-318 1959-02-23
+
+	**Créé par**:
+
+	  - Décret n°99-818 du 16 septembre 1999 - art. 2 () JORF 19 septembre 1999
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. 706-50 (V)
+
+
+###### Article R53-8
+
+Dans les trois mois de l'achèvement de sa mission, l'administrateur ad hoc transmet à l'autorité qui l'a désigné un rapport
+dans lequel sont détaillées les démarches effectuées pour l'exercice de la mission définie à l'article 706-50, et précisées,
+le cas échéant, les formalités accomplies en vue du placement des sommes perçues par le mineur à l'occasion de la procédure.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-318 1959-02-23
+
+	**Créé par**:
+
+	  - Décret n°99-818 du 16 septembre 1999 - art. 2 () JORF 19 septembre 1999
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. 706-50 (V)
+
+	**Cité par**:
+
+	  - Code de l'entrée et du séjour des étrangers et ... - art. R111-20 (V)
+	  - Code de procédure civile - art. 1210-3 (V)
+	  - Code de procédure pénale - art. R216 (V)
+	  - Code de procédure pénale - art. R53-4 (V)
+
+
 ## Livre V : Des procédures d'exécution.
 
 ### Titre Ier : De l'application des peines.
 
-###### Article R50-29
+###### Article R57-1
 
 Le premier président désigne, après avis de l'Assemblée générale des magistrats du siège, un ou plusieurs conseillers chargés
 de suivre l'application des peines et de coordonner l'action des juges de l'application des peines dans le ressort de la cour
@@ -41981,20 +42252,20 @@ Il est mis fin à leurs fonctions et pourvu à leur remplacement dans les mêmes
 
 **Liens relatifs à cet article**
 
+	**Créé par**:
+
+	  - Décret n°99-818 du 16 septembre 1999 - art. 1 () JORF 19 septembre 1999
+
+	**Cité par**:
+
+	  - Code de procédure pénale - art. D49-8 (V)
+
 	**Codifié par**:
 
 	  - Décret n°59-318 1959-02-03
 
-	**Créé par**:
 
-	  - Décret n°86-461 1986-03-14 art. 1 JORF 16 mars 1986
-
-	**Abrogé par**:
-
-	  - Décret n°99-818 du 16 septembre 1999 - art. 1 () JORF 19 septembre 1999
-
-
-###### Article R50-30
+###### Article R57-2
 
 Chaque année, le juge de l'application des peines adresse au ministre de la justice un rapport sur l'application des peines
 dans son ressort. Ce rapport est également transmis au conseiller chargé de l'application des peines et au procureur général.
@@ -42003,24 +42274,20 @@ parquet.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
-
-	  - Décret n°86-461 1986-03-14 art. 1 JORF 16 mars 1986
-
-	**Abrogé par**:
-
-	  - Décret n°99-818 du 16 septembre 1999 - art. 1 () JORF 19 septembre 1999
-
 	**Cité par**:
 
-	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R*312-8 (Ab)
+	  - Code de procédure pénale - art. D48-5-1 (V)
 
 	**Codifié par**:
 
 	  - Décret n°59-318 1959-02-03
 
+	**Créé par**:
 
-###### Article R50-31
+	  - Décret n°99-818 du 16 septembre 1999 - art. 1 () JORF 19 septembre 1999
+
+
+###### Article R57-3
 
 Le juge de l'application des peines est assisté par le comité de probation et d'assistance aux libérés.
 
@@ -42032,14 +42299,10 @@ Le juge de l'application des peines est assisté par le comité de probation et 
 
 	**Créé par**:
 
-	  - Décret n°86-461 1986-03-14 art. 1 JORF 16 mars 1986
-
-	**Abrogé par**:
-
 	  - Décret n°99-818 du 16 septembre 1999 - art. 1 () JORF 19 septembre 1999
 
 
-###### Article R50-32
+###### Article R57-4
 
 En cas de nouvelle poursuite exercée contre un condamné placé sous son contrôle, le juge de l'application des peines en est
 avisé par le procureur de la République. Il communique à ce magistrat les renseignements qui lui paraissent utiles sur le
@@ -42054,16 +42317,12 @@ révocation de la mesure dont bénéficie le condamné, qui serait de la compét
 
 	**Créé par**:
 
-	  - Décret n°86-461 1986-03-14 art. 1 JORF 16 mars 1986
-
-	**Abrogé par**:
-
 	  - Décret n°99-818 du 16 septembre 1999 - art. 1 () JORF 19 septembre 1999
 
 
 ### Titre II : Des conditions de détention.
 
-###### Article R50-33
+###### Article R57-5
 
 Les personnes condamnées à un suivi socio-judiciaire, quel qu'en soit le motif, ainsi que les personnes condamnées pour le
 meurtre ou l'assassinat d'un mineur de quinze ans précédé ou accompagné d'un viol, de tortures ou d'actes de barbarie ou pour
@@ -42083,10 +42342,6 @@ loi n° 87-432 du 22 juin 1987 relative au service public pénitentiaire.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Décret n°59-318 1959-02-03
-
 	**Cite**:
 
 	  - Loi n°87-432 1987-06-22
@@ -42094,74 +42349,68 @@ loi n° 87-432 du 22 juin 1987 relative au service public pénitentiaire.
 	  - Code de la santé publique - art. R711-10 (M)
 	  - Code de la santé publique - art. R711-17 (Ab)
 
-	**Modifié par**:
-
-	  - Décret n°99-571 du 7 juillet 1999 - art. 2 () JORF 9 juillet 1999
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°99-571 du 7 juillet 1999 - art. 3 (M)
-
-	**Abrogé par**:
+	**Créé par**:
 
 	  - Décret n°99-818 du 16 septembre 1999 - art. 1 () JORF 19 septembre 1999
 
 	**Cité par**:
 
-	  - CODE DE PROCEDURE PENALE - art. R50-34 (Ab)
-	  - CODE DE PROCEDURE PENALE - art. R50-35 (Ab)
+	  - CODE DE PROCEDURE PENALE - art. R288 (V)
+	  - CODE DE PROCEDURE PENALE - art. R57-7 (V)
+	  - Code de procédure pénale - art. D52 (V)
+	  - Code de procédure pénale - art. R57-6 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°59-318 1959-02-03
 
 
-###### Article R50-34
+###### Article R57-6
 
-Les personnes mentionnées à l'article R. 50-33 sont signalées au psychiatre intervenant en milieu pénitentiaire par le chef
+Les personnes mentionnées à l'article R. 57-5 sont signalées au psychiatre intervenant en milieu pénitentiaire par le chef
 d'établissement qui met en outre à la disposition de ce praticien un résumé de la situation pénale ainsi que les expertises
 psychologiques ou psychiatriques conservées dans le dossier individuel.
 
 **Liens relatifs à cet article**
 
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. R57-5 (M)
+
 	**Codifié par**:
 
 	  - Décret n°59-318 1959-02-03
 
-	**Modifié par**:
-
-	  - Décret n°95-886 1995-08-04 art. 1 et art. 2 JORF 6 août 1995
-
-	**Abrogé par**:
+	**Créé par**:
 
 	  - Décret n°99-818 du 16 septembre 1999 - art. 1 () JORF 19 septembre 1999
 
-	**Cite**:
 
-	  - CODE DE PROCEDURE PENALE - art. R50-33 (M)
+###### Article R57-7
 
-
-###### Article R50-35
-
-Avant leur libération les personnes mentionnées à l'article R. 50-33 font l'objet d'un examen psychiatrique en vue de
+Avant leur libération les personnes mentionnées à l'article R. 57-5 font l'objet d'un examen psychiatrique en vue de
 préparer, le cas échéant, une prise en charge post-pénale adaptée.
 
 **Liens relatifs à cet article**
 
-	**Modifié par**:
-
-	  - Décret n°95-886 1995-08-04 art. 1 et art. 2 JORF 6 août 1995
-
-	**Abrogé par**:
+	**Créé par**:
 
 	  - Décret n°99-818 du 16 septembre 1999 - art. 1 () JORF 19 septembre 1999
 
 	**Cite**:
 
-	  - CODE DE PROCEDURE PENALE - art. R50-33 (M)
+	  - CODE DE PROCEDURE PENALE - art. R57-5 (M)
+
+	**Cité par**:
+
+	  - Code de procédure pénale - art. Annexe à l'article R57-6-18 (V)
 
 	**Codifié par**:
 
 	  - Décret n°59-318 1959-02-03
 
 
-###### Article R50-36
+###### Article R57-8
 
 Le directeur régional des services pénitentiaires est compétent pour prendre les décisions administratives individuelles
 suivantes :
@@ -42201,14 +42450,15 @@ des services pénitentiaires.
 
 	**Créé par**:
 
-	  - Décret n°97-1188 du 24 décembre 1997 - art. 1 () JORF 27 décembre 1997 en vigueur le 1er janvier 1998
-
-	**Abrogé par**:
-
 	  - Décret n°99-818 du 16 septembre 1999 - art. 1 () JORF 19 septembre 1999
 
+	**Cité par**:
 
-###### Article R50-37
+	  - Décret n°2008-1489 du 30 décembre 2008 (V)
+	  - CODE DE PROCEDURE PENALE - art. R251 (V)
+
+
+###### Article R57-9
 
 Le procureur général près la cour d'appel saisie de la procédure est compétent pour délivrer les permis de visiter des
 détenus écroués à la suite d'une demande d'extradition émanant d'un gouvernement étranger.
@@ -42221,10 +42471,6 @@ détenus écroués à la suite d'une demande d'extradition émanant d'un gouvern
 
 	**Créé par**:
 
-	  - Décret n°97-1188 du 24 décembre 1997 - art. 1 () JORF 27 décembre 1997 en vigueur le 1er janvier 1998
-
-	**Abrogé par**:
-
 	  - Décret n°99-818 du 16 septembre 1999 - art. 1 () JORF 19 septembre 1999
 
 
@@ -42232,9 +42478,7 @@ détenus écroués à la suite d'une demande d'extradition émanant d'un gouvern
 
 #### Chapitre II : Du sursis avec mise à l'épreuve.
 
-##### Section 2 : Des autorités chargées de contrôler le régime de la mise à l'épreuve
-
-###### Article R53
+###### Article R58
 
 Le juge de l'application des peines dans le ressort duquel réside le condamné contrôle l'exécution des mesures et des
 obligations relatives au régime de la mise à l'épreuve.
@@ -42245,31 +42489,16 @@ obligations relatives au régime de la mise à l'épreuve.
 
 	  - Décret n°59-318 1959-02-23
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°59-318 1959-02-23 JORF 25 février 1959 en vigueur le 2 mars 1959 rectificatif JORF 13 juin 1959
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°59-318 1959-02-23 art. 5
-	  - TXT_SOURCE: CODE DE PROCEDURE PENALE - art. 739 (M)
+	  - Décret n°99-818 du 16 septembre 1999 - art. 1 () JORF 19 septembre 1999
 
 	**Cité par**:
 
-	  - Décret n°2003-841 du 2 septembre 2003 - art. 11 (Ab)
-	  - Code de justice militaire. - art. D269-4 (V)
-	  - Code de l'entrée et du séjour des étrangers et ... - art. R111-23 (V)
-	  - Code de procédure civile - art. 1210-1 (V)
-	  - Code de procédure civile - art. 1210-3 (V)
-	  - Code de procédure pénale - art. R130 (V)
-	  - Code de procédure pénale - art. R216 (V)
-	  - Code de procédure pénale - art. R53-4 (V)
-	  - Code de procédure pénale - art. R53-6 (V)
-	  - Code de procédure pénale - art. R92 (V)
-	  - Code de procédure pénale - art. R93 (V)
+	  - CODE DE PROCEDURE PENALE - art. R61-20 (Ab)
 
 
-###### Article R54
+###### Article R59
 
 Le juge de l'application des peines convoque le condamné pour lui rappeler les mesures de contrôle auxquelles il est soumis
 ainsi que, le cas échéant, les obligations particulières imposées par la décision de condamnation. Il lui notifie les
@@ -42286,18 +42515,14 @@ L'accomplissement de ces formalités est constaté par procès-verbal dont copie
 
 	**Modifié par**:
 
-	  - Décret n°93-726 1993-03-29 art. 4 JORF 30 mars 1993 en vigueur le 1er mars 1994
-
-	**Abrogé par**:
-
 	  - Décret n°99-818 du 16 septembre 1999 - art. 1 () JORF 19 septembre 1999
 
-	**Liens**:
+	**Cité par**:
 
-	  - TXT_SOURCE: CODE DE PROCEDURE PENALE - art. 739 (M)
+	  - Arrêté du 14 mai 2007 - art. 22 (VD)
+	  - Arrêté du 23 décembre 1959 - art. 23 (Ab)
+	  - Code de la sécurité intérieure - art. R321-28 (VD)
 
-
-##### Section 5 : Dispositions diverses
 
 ###### Article R60
 
@@ -42318,13 +42543,9 @@ Le délégué à la liberté surveillée désigné par ce magistrat exerce alors
 
 	  - Décret n°59-318 1959-02-23
 
-	**Créé par**:
-
-	  - Décret n°59-318 1959-02-23 JORF 25 février 1959 en vigueur le 2 mars 1959 rectificatif JORF 13 juin 1959
-
 	**Modifié par**:
 
-	  - Décret n°77-193 1977-03-03 art. 3 JORF 5 mars 1977
+	  - Décret n°99-818 du 16 septembre 1999 - art. 1 () JORF 19 septembre 1999
 
 	**Liens**:
 
@@ -43849,7 +44070,10 @@ demande des autorités judiciaires par les organismes agréés mentionnés à l'
 1990 sur la réglementation des télécommunications ;
 
 20° Les indemnités et vacations qui peuvent être accordées aux membres titulaires et suppléants de la formation de jugement
-de la Cour de justice de la République selon les modalités prévues au décret n° 95-692 du 9 mai 1995.
+de la Cour de justice de la République selon les modalités prévues au décret n° 95-692 du 9 mai 1995 ;
+
+21° Les frais des administrateurs ad hoc lorsqu'ils figurent sur la liste prévue à l'article R. 53 ou qu'il a été fait
+application des dispositions de l'article R. 53-6.
 
 **Liens relatifs à cet article**
 
@@ -43868,11 +44092,13 @@ de la Cour de justice de la République selon les modalités prévues au décret
 	  - CODE DE PROCEDURE PENALE - art. 706-4 (M)
 	  - CODE DE PROCEDURE PENALE - art. R121 (M)
 	  - CODE DE PROCEDURE PENALE - art. R121-1 (M)
-	  - Code de procédure pénale R121, R121-1, R123 à R146, 375-1, 422, 149, 150, 706-4
+	  - CODE DE PROCEDURE PENALE - art. R53 (M)
+	  - CODE DE PROCEDURE PENALE - art. R53-6 (M)
+	  - Code de procédure pénale R121, R121-1, R123 à R146, 375-1, 422, 149, 150, 706-4, R53, R53-6
 
 	**Modifié par**:
 
-	  - Décret n°99-203 du 18 mars 1999 - art. 2 () JORF 20 mars 1999
+	  - Décret n°99-818 du 16 septembre 1999 - art. 3 () JORF 19 septembre 1999
 
 	**Cité par**:
 
@@ -43955,6 +44181,9 @@ justice en application de l'article 131-35 du code pénal.
 20° Les frais d'une immobilisation décidée en application du 5° de l'article 131-6 et du 2° de l'article 131-14 du code
 pénal.
 
+21° Les frais des administrateurs ad hoc désignés en application des articles 388-2 et 389-3 du code civil, lorsqu'ils
+figurent sur la liste prévue à l'article R. 53.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
@@ -43994,14 +44223,17 @@ pénal.
 	  - Code de la consommation - art. L332-2 (M)
 	  - Code pénal - art. 131-14 (M)
 	  - Code pénal - art. 131-35 (M)
+	  - Code civil - art. 388-2 (AbD)
+	  - Code civil - art. 389-3 (M)
 	  - CODE DE PROCEDURE PENALE - art. 16-2 (V)
+	  - CODE DE PROCEDURE PENALE - art. R53 (M)
 	  - CODE DE PROCEDURE PENALE - art. R92 (M)
-	  - Code de procédure pénale 16-2, R92, 131-6
+	  - Code de procédure pénale 16-2, R92, 131-6, R53
 	  - Nouveau code de procédure civile 696
 
 	**Modifié par**:
 
-	  - Décret n°99-203 du 18 mars 1999 - art. 3 () JORF 20 mars 1999
+	  - Décret n°99-818 du 16 septembre 1999 - art. 8 () JORF 19 septembre 1999
 
 	**Liens**:
 
@@ -45434,7 +45666,8 @@ D la durée horaire de comparution, celle-ci ne pouvant excéder huit heures par
 
 Lorsque les enfants de moins de seize ans appelés en témoignage dans les conditions prévues à l'article précédent sont
 accompagnés par une personne sous l'autorité de laquelle ils se trouvent ou, par son délégué, cette personne a droit à
-l'indemnité prévue à l'article précédent.
+l'indemnité prévue à l'article précédent sauf lorsqu'elle a été désignée, en qualité d'administrateur ad hoc et qu'elle
+figure sur la liste prévue à l'article R. 53 ou qu'il a été fait application des dispositions de l'article R. 53-6.
 
 **Liens relatifs à cet article**
 
@@ -45442,23 +45675,24 @@ l'indemnité prévue à l'article précédent.
 
 	  - Décret n°59-318 1959-02-23
 
-	**Créé par**:
-
-	  - Décret n°59-318 1959-02-23 JORF 25 février 1959 en vigueur le 2 mars 1959 rectificatif JORF 13 juin 1959
-
 	**Liens**:
 
 	  - SPEC_APPLI: Décret n°59-318 1959-02-23 art. 5
 	  - TXT_SOURCE: CODE DE PROCEDURE PENALE - art. 800 (M)
 
-	**Cite**:
+	**Modifié par**:
 
-	  - CODE DE PROCEDURE PENALE - art. R129 (M)
+	  - Décret n°99-818 du 16 septembre 1999 - art. 4 () JORF 19 septembre 1999
 
 	**Cité par**:
 
 	  - CODE DE PROCEDURE PENALE - art. R249-2 (M)
 	  - Code de procédure pénale - art. R138 (V)
+
+	**Cite**:
+
+	  - Code de procédure pénale - art. R53 (V)
+	  - Code de procédure pénale - art. R53-6 (V)
 
 
 ###### Article R131
@@ -47195,6 +47429,68 @@ civil, et sur la célébration des mariages, dans le cas prévu à l'article 192
 
 
 ##### Section 2 : Règles spéciales
+
+##### Paragraphe 1er : Des dépenses résultant de la désignation des administrateurs ad hoc
+
+###### Article R216
+
+Il est alloué à chaque personne désignée en qualité d'administrateur ad hoc, lorsqu'elle figure sur la liste prévue à
+l'article R. 53 ou qu'il a été fait application des dispositions de l'article R. 53-6, pour l'ensemble des frais exposés pour
+la défense des intérêts d'une victime mineure :
+
+1° Lorsque les faits ont donné lieu à l'ouverture d'une information devant le juge d'instruction : 2 500 F ;
+
+2° Lorsque la désignation de l'administrateur ad hoc a été faite par le procureur de la République au cours d'une enquête qui
+n'a pas été suivie d'une instruction préparatoire : 1 500 F ;
+
+3° En cas de désignation par la juridiction de jugement :
+
+1 000 F.
+
+Lorsque l'administrateur ad hoc est désigné pour assurer la protection des intérêts de plusieurs mineurs d'une même fratrie,
+l'indemnité est réduite de 50 % pour chaque enfant à partir du deuxième.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-318 1959-02-23
+
+	**Modifié par**:
+
+	  - Décret n°99-818 du 16 septembre 1999 - art. 5 () JORF 19 septembre 1999 rectificatif JORF 8 janvier 2000
+
+	**Cité par**:
+
+	  - Décret n°99-818 du 16 septembre 1999 - art. 8-1 (V)
+	  - CODE DE PROCEDURE PENALE - art. A43-8 (V)
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. R53 (M)
+	  - CODE DE PROCEDURE PENALE - art. R53-6 (M)
+
+
+###### Article R216-1
+
+En cas d'ouverture d'une information judiciaire, une provision d'un montant maximum de 1 500 F peut être accordée par le juge
+d'instruction à l'administrateur ad hoc, sur sa demande, si ce dernier remet en cours de mission et au moins six mois après
+sa désignation, un rapport récapitulant les démarches effectuées et les formalités accomplies.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-318 1959-02-23
+
+	**Créé par**:
+
+	  - Décret n°99-818 du 16 septembre 1999 - art. 5 () JORF 19 septembre 1999
+
+	**Cité par**:
+
+	  - Décret n°99-818 du 16 septembre 1999 - art. 8-1 (V)
+
 
 ##### Paragraphe 2 : Procédures suivies en application de la législation sur les incapables
 
