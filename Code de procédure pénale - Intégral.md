@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 2000-11-04
+Version Consolidée au 2000-11-26
 
 # Partie législative
 
@@ -42326,7 +42326,146 @@ l'annulation du titre exécutoire en ce qui concerne l'amende contestée.
 	  - Décret n°95-457 du 26 avril 1995 - art. 6 () JORF 28 avril 1995
 
 
-#### Chapitre II ter : Dispositions applicables à certaines infractions au code de la route
+#### Chapitre II ter : Dispositions applicables à certaines infractions à la police des services publics de transports terrestres
+
+###### Article R49-8-1
+
+L'exploitant d'un service public de transport terrestre mentionné à l'article 529-3 qui entend faire agréer ses agents pour
+procéder au relevé d'identité des voyageurs dépourvus de titres réguliers de transport, prévu au II de l'article 529-4,
+doit :
+
+I. - Assurer une formation de ses agents portant sur :
+
+- les contrôles, vérifications et relevés d'identité ;
+
+- les conditions de leur mise en oeuvre ;
+
+- les personnes habilitées à y procéder.
+
+II. - Mettre en place les modalités d'une liaison permanente entre ses agents et les officiers de police judiciaire
+territorialement compétents, et doter ses agents de moyens de transmission leur permettant une communication immédiate avec
+ceux-ci.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-318 1959-02-23
+
+	**Créé par**:
+
+	  - Décret n°2000-1136 du 24 novembre 2000 - art. 2 () JORF 26 novembre 2000
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. 529-3 (V)
+	  - CODE DE PROCEDURE PENALE - art. 529-4 (M)
+
+	**Cité par**:
+
+	  - CODE DE PROCEDURE PENALE - art. R49-8-2 (V)
+	  - Code de procédure pénale - art. R251 (VT)
+	  - Code de procédure pénale - art. R277 (V)
+
+
+###### Article R49-8-2
+
+I. - L'exploitant d'un service public de transport terrestre soumet au représentant de l'Etat dans le département dans lequel
+il a son siège et à Paris, au préfet de police, un dossier décrivant les modalités de la formation et de l'organisation
+prévues à l'article R. 49-8-1.
+
+Ce dossier comprend les renseignements suivants :
+
+1° La dénomination de l'organisme ou de la personne dispensant la formation ;
+
+2° Le contenu et la durée de la formation ;
+
+3° La description des modalités de la liaison permanente mentionnée au II de l'article R. 49-8-1 ;
+
+4° L'inventaire et la description des moyens de transmission dont sont dotés les agents.
+
+II. - Le représentant de l'Etat dans le département et à Paris le préfet de police approuve par arrêté le contenu du dossier
+mentionné au I ci-dessus s'il estime que les dispositions qu'il prévoit garantissent le bon déroulement des relevés
+d'identité.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-318 1959-02-23
+
+	**Créé par**:
+
+	  - Décret n°2000-1136 du 24 novembre 2000 - art. 2 () JORF 26 novembre 2000
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. R49-8-1 (M)
+
+	**Cité par**:
+
+	  - CODE DE PROCEDURE PENALE - art. R49-8-3 (V)
+	  - Code de procédure pénale - art. R278 (V)
+
+
+###### Article R49-8-3
+
+I. - Le procureur de la République compétent pour délivrer l'agrément mentionné au premier alinéa du II de l'article 529-4
+est le procureur près le tribunal de grande instance dans le ressort duquel est situé le siège de l'exploitant.
+
+II. - Le procureur de la République se prononce au vu du dossier présenté par l'exploitant. Ce dossier comprend les
+renseignements suivants :
+
+1° L'arrêté mentionné au II de l'article R. 49-8-2 ;
+
+2° L'identité de l'agent concerné ;
+
+3° La justification de la formation suivie par cet agent.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-318 1959-02-23
+
+	**Créé par**:
+
+	  - Décret n°2000-1136 du 24 novembre 2000 - art. 2 () JORF 26 novembre 2000
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. 529-4 (M)
+	  - CODE DE PROCEDURE PENALE - art. R49-8-2 (V)
+
+	**Cité par**:
+
+	  - Code de procédure pénale - art. R251 (VT)
+
+
+###### Article R49-8-4
+
+L'agent justifie en cas de besoin de l'agrément mentionné au premier alinéa du II de l'article 529-4.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-318 1959-02-23
+
+	**Créé par**:
+
+	  - Décret n°2000-1136 du 24 novembre 2000 - art. 2 () JORF 26 novembre 2000
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. 529-4 (M)
+
+	**Cité par**:
+
+	  - Code de procédure pénale - art. R279 (V)
+
+
+#### Chapitre II quater : Dispositions applicables à certaines infractions au code de la route
 
 ###### Article R49-9
 
@@ -42344,9 +42483,9 @@ Le montant de l'amende forfaitaire minorée prévue par l'article 529-7 est fix�
 
 	  - Décret n°59-318 1959-02-23
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°90-388 du 10 mai 1990 - art. 1 () JORF 12 mai 1990
+	  - Décret n°2000-1136 du 24 novembre 2000 - art. 1 () JORF 26 novembre 2000
 
 	**Cite**:
 
@@ -42375,9 +42514,9 @@ du certificat d'immatriculation.
 
 	  - Décret n°59-318 1959-02-23
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°90-388 du 10 mai 1990 - art. 1 () JORF 12 mai 1990
+	  - Décret n°2000-1136 du 24 novembre 2000 - art. 1 () JORF 26 novembre 2000
 
 	**Cite**:
 
@@ -42412,7 +42551,7 @@ au moyen d'un chèque libellé à l'ordre du Trésor public.
 
 	**Modifié par**:
 
-	  - Décret n°95-457 du 26 avril 1995 - art. 7 () JORF 28 avril 1995
+	  - Décret n°2000-1136 du 24 novembre 2000 - art. 1 () JORF 26 novembre 2000
 
 	**Cité par**:
 
@@ -42434,9 +42573,9 @@ dispositions des articles R. 49, R. 49-3 à R. 49-8 lui sont applicables.
 
 	  - Décret n°59-318 1959-02-23
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°90-388 du 10 mai 1990 - art. 1 () JORF 12 mai 1990
+	  - Décret n°2000-1136 du 24 novembre 2000 - art. 1 () JORF 26 novembre 2000
 
 	**Cite**:
 
@@ -42455,9 +42594,9 @@ applicable sont soumises aux dispositions des articles R. 49 à R. 49-8.
 
 	  - Décret n°59-318 1959-02-23
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°90-388 du 10 mai 1990 - art. 1 () JORF 12 mai 1990
+	  - Décret n°2000-1136 du 24 novembre 2000 - art. 1 () JORF 26 novembre 2000
 
 	**Cite**:
 
