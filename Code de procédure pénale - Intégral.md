@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 2005-05-10
+Version Consolidée au 2005-05-12
 
 # Partie législative
 
@@ -98911,5 +98911,193 @@ affectés dans les établissements de leur département respectif.
 	**Modifié par**:
 
 	  - Arrêté 2003-03-04 art. 1 JORF 15 mars 2003
+
+
+## Livre VII : Dispositions applicables en Nouvelle-Calédonie
+
+###### Article A58
+
+Le siège du service pénitentiaire d'insertion et de probation et la liste des antennes locales d'insertion et de probation de
+la Nouvelle-Calédonie prévus par l'article D.N.C. 572 sont fixés conformément au tableau ci-dessous :
+
+<table>
+  <tbody>
+    <tr>
+      <td>
+
+SPIP
+
+</td>
+      <td>
+
+SIÈGE
+
+</td>
+      <td>
+
+ANTENNE
+
+</td>
+      <td>
+
+RESSORT DE COMPÉTENCE
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top">
+
+Nouvelle-Calédonie.
+
+</td>
+      <td valign="top">
+
+Nouméa.
+
+</td>
+      <td valign="top">
+
+Nouméa.
+
+</td>
+      <td valign="top">
+
+Camp est.
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top">
+      </td><td valign="top">
+      </td><td valign="top">
+      </td><td valign="top">
+
+Province sud.
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top">
+      </td><td valign="top">
+      </td><td valign="top">
+      </td><td valign="top">
+
+Province des îles Loyauté.
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top">
+      </td><td valign="top">
+      </td><td valign="top">
+
+Koné.
+
+</td>
+      <td valign="top">
+
+Province nord.
+
+</td>
+    </tr>
+  </tbody>
+</table>
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Arrêté 1959-02-27
+
+	**Créé par**:
+
+	  - Arrêté 2005-04-27 art. 1 JORF 12 mai 2005
+
+
+## Livre VIII : Dispositions applicables en Polynésie française
+
+###### Article A59
+
+Le siège du service pénitentiaire d'insertion et de probation et la liste des antennes locales d'insertion et de probation de
+la Polynésie française prévus par l'article D.P. 572 sont fixés conformément au tableau ci-dessous :
+
+<table>
+  <tbody>
+    <tr>
+      <td>
+
+SPIP
+
+</td>
+      <td>
+
+SIÈGE
+
+</td>
+      <td>
+
+ANTENNE
+
+</td>
+      <td>
+
+RESSORT DE COMPÉTENCE
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top">
+
+Polynésie française.
+
+</td>
+      <td valign="top">
+
+Papeete.
+
+</td>
+      <td valign="top">
+
+Néant.
+
+</td>
+      <td valign="top">
+
+Centre pénitentiaire de Faa'a-Nuutanie.
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top">
+      </td><td valign="top">
+      </td><td valign="top">
+      </td><td valign="top">
+
+Centre de détention d'Uturoa (Raïatea).
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top">
+      </td><td valign="top">
+      </td><td valign="top">
+      </td><td valign="top">
+
+Centre de détention de Taiohae (Marquises), Polynésie française.
+
+</td>
+    </tr>
+  </tbody>
+</table>
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Arrêté 1959-02-27
+
+	**Créé par**:
+
+	  - Arrêté 2005-04-27 art. 1 JORF 12 mai 2005
 
 
