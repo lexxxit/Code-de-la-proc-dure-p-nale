@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 2005-05-19
+Version Consolidée au 2005-05-28
 
 # Partie législative
 
@@ -58538,6 +58538,54 @@ d'autres infractions.
 	  - Décret n°94-183 du 1 mars 1994 - art. 3 (Ab)
 
 
+###### Article R50-12-1
+
+L'offre d'indemnisation faite à la victime en application de l'article 706-5-1 indique l'évaluation retenue par le fonds de
+garantie pour chaque chef de préjudice et le montant des indemnités qui reviennent à la victime compte tenu des prestations
+énumérées à l'article 29 de la loi n° 85-677 du 5 juillet 1985 et des indemnités de toute nature reçues ou à recevoir
+d'autres débiteurs du chef du même préjudice. Elle est accompagnée, le cas échéant, de la copie des décomptes produits par
+les personnes ou organismes débiteurs de ces prestations ou indemnités.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-318 1959-02-23
+
+	**Cite**:
+
+	  - Loi n°85-677 du 5 juillet 1985 - art. 29 (V)
+	  - Code de procédure pénale - art. 706-5-1 (V)
+
+	**Créé par**:
+
+	  - Décret n°2005-564 du 27 mai 2005 - art. 1 () JORF 28 mai 2005
+
+
+###### Article R50-12-2
+
+Le président de la commission est saisi par le fonds d'une requête aux fins d'homologation du constat d'accord. En cas
+d'homologation, il est conféré force exécutoire au constat. La décision est notifiée sans délai par lettre recommandée avec
+demande d'avis de réception au demandeur et au fonds.
+
+Si la victime ne répond pas à l'offre d'indemnisation, son silence est regardé à l'expiration d'un délai de deux mois à
+compter de sa présentation comme valant désaccord. L'offre mentionne les conséquences attachées au silence de la victime.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-318 1959-02-23
+
+	**Créé par**:
+
+	  - Décret n°2005-564 du 27 mai 2005 - art. 1 () JORF 28 mai 2005
+
+	**Cité par**:
+
+	  - CODE DE PROCEDURE PENALE - art. R50-28 (V)
+
+
 ###### Article R50-13
 
 Le président de la commission ou le magistrat assesseur instruit l'affaire ; il peut procéder ou faire procéder à toutes
@@ -58774,8 +58822,8 @@ frappées d'appel quel que soit le montant de la demande.
 ###### Article R50-24
 
 Les sommes allouées à la victime en application des articles 706-3 à 706-14 sont versées par le fonds de garantie dans le
-délai d'un mois à compter de la notification de la décision de la commission ; avis du paiement est donné sans délai au
-président de la commission.
+délai d'un mois à compter de la notification de la décision de la commission ou de l'homologation du constat d'accord ; avis
+du paiement est donné sans délai au président de la commission.
 
 **Liens relatifs à cet article**
 
@@ -58785,11 +58833,11 @@ président de la commission.
 
 	**Modifié par**:
 
-	  - Décret n°90-1211 du 21 décembre 1990 - art. 7 () JORF 30 décembre 1990 en vigueur le 1er janvier 1991
+	  - Décret n°2005-564 du 27 mai 2005 - art. 2 () JORF 28 mai 2005
 
 	**Cite**:
 
-	  - Code de procédure pénale 706-3 à 706-14
+	  - Code de procédure pénale - art. 706-3 (V)
 
 	**Cité par**:
 
@@ -58864,7 +58912,12 @@ l'affaire doit être renvoyée à une audience ultérieure dont le fonds de gara
 ###### Article R50-28
 
 Les dispositions des articles 643 à 647 du nouveau code de procédure civile s'appliquent aux délais d'un mois et de deux mois
-prévus aux articles R. 50-15 et R. 50-17.
+prévus aux articles R. 50-15, R. 50-12-2 et R. 50-17.
+
+**Nota:**
+
+Décret 2005-564 du 27 mai 2005 art. 4 : les dispositions du présent décret sont applicables aux demandes d'indemnisation
+déposées à compter de sa publication.
 
 **Liens relatifs à cet article**
 
@@ -58874,13 +58927,7 @@ prévus aux articles R. 50-15 et R. 50-17.
 
 	**Modifié par**:
 
-	  - Décret n°90-1211 du 21 décembre 1990 - art. 9 () JORF 30 décembre 1990 en vigueur le 1er janvier 1991
-
-	**Cite**:
-
-	  - CODE DE PROCEDURE PENALE - art. R50-15 (M)
-	  - CODE DE PROCEDURE PENALE - art. R50-17 (M)
-	  - Nouveau code de procédure civile 643 à 647
+	  - Décret n°2005-564 du 27 mai 2005 - art. 3 () JORF 28 mai 2005
 
 
 ### Titre XV : Diligences incombant au ministère public pour l'application de l'article 706-37
