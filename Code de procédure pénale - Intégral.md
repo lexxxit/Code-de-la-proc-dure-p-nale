@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 2005-05-28
+Version Consolidée au 2005-06-30
 
 # Partie législative
 
@@ -59020,7 +59020,7 @@ des sûretés inscrites.
 
 ### Titre XIX : De la procédure applicable aux infractions de nature sexuelle et aux mineurs victimes
 
-#### Chapitre unique : De l'administrateur ad hoc
+#### Chapitre Ier : De l'administrateur ad hoc
 
 ##### Section 1 : De la liste des administrateurs ad hoc
 
@@ -59038,10 +59038,6 @@ d'appel et des tribunaux de grande instance. Elle peut également être affiché
 
 	  - Décret n°59-318 1959-02-23
 
-	**Modifié par**:
-
-	  - Décret n°2002-697 du 30 avril 2002 - art. 1 () JORF 3 mai 2002
-
 	**Cité par**:
 
 	  - Décret n°2003-841 du 2 septembre 2003 - art. 11 (Ab)
@@ -59056,19 +59052,23 @@ d'appel et des tribunaux de grande instance. Elle peut également être affiché
 	  - Code de procédure pénale - art. R92 (V)
 	  - Code de procédure pénale - art. R93 (V)
 
+	**Modifié par**:
+
+	  - Décret n°2005-627 du 30 mai 2005 - art. 1 () JORF 31 mai 2005 en vigueur le  30 juin 2005
+
 
 ###### Article R53-1
 
-Une personne physique ne peut être inscrite sur la liste que si elle réunit les conditions suivantes :
+Une personne physique ne peut être inscrite sur la liste que si elle réunit les conditions suivantes : 
 
-1° Etre âgée de trente ans au moins et de soixante-dix ans au plus ;
+1° Etre âgée de trente ans au moins et de soixante-dix ans au plus ; 
 
-2° S'être signalée depuis un temps suffisant par l'intérêt qu'elle porte aux questions de l'enfance et par sa compétence ;
+2° S'être signalée depuis un temps suffisant par l'intérêt qu'elle porte aux questions de l'enfance et par sa compétence ; 
 
-3° Avoir sa résidence dans le ressort de la cour d'appel ;
+3° Avoir sa résidence dans le ressort de la cour d'appel ; 
 
 4° N'avoir pas été l'auteur de faits ayant donné lieu à condamnation pénale ou à sanction disciplinaire ou administrative
-pour agissements contraires à l'honneur, à la probité et aux bonnes moeurs ;
+pour agissements contraires à l'honneur, à la probité et aux bonnes moeurs ; 
 
 5° N'avoir pas été frappée de faillite personnelle ou d'une autre sanction en application du titre VI de la loi n° 85-98 du
 25 janvier 1985 relative au redressement et à la liquidation judiciaires des entreprises.
@@ -59081,11 +59081,11 @@ pour agissements contraires à l'honneur, à la probité et aux bonnes moeurs ;
 
 	**Cite**:
 
-	  - Loi n°85-98 1985-01-25
+	  - Loi n°85-98 du 25 janvier 1985 (V)
 
 	**Modifié par**:
 
-	  - Décret n°2002-697 du 30 avril 2002 - art. 1 () JORF 3 mai 2002
+	  - Décret n°2005-627 du 30 mai 2005 - art. 1 () JORF 31 mai 2005 en vigueur le  30 juin 2005
 
 	**Cité par**:
 
@@ -59111,7 +59111,7 @@ remplit les conditions prévues audit article.
 
 	**Modifié par**:
 
-	  - Décret n°2002-697 du 30 avril 2002 - art. 1 () JORF 3 mai 2002
+	  - Décret n°2005-627 du 30 mai 2005 - art. 1 () JORF 31 mai 2005 en vigueur le  30 juin 2005
 
 	**Cite**:
 
@@ -59145,7 +59145,7 @@ ministère public.
 
 	**Modifié par**:
 
-	  - Décret n°2002-697 du 30 avril 2002 - art. 1 () JORF 3 mai 2002
+	  - Décret n°2005-627 du 30 mai 2005 - art. 1 () JORF 31 mai 2005 en vigueur le  30 juin 2005
 
 	**Cité par**:
 
@@ -59167,13 +59167,13 @@ R. 53-8.
 
 	**Modifié par**:
 
-	  - Décret n°2002-697 du 30 avril 2002 - art. 1 () JORF 3 mai 2002
+	  - Décret n°2005-627 du 30 mai 2005 - art. 1 () JORF 31 mai 2005 en vigueur le  30 juin 2005
 
 	**Cite**:
 
-	  - CODE DE PROCEDURE PENALE - art. R53 (M)
-	  - CODE DE PROCEDURE PENALE - art. R53-3 (M)
-	  - CODE DE PROCEDURE PENALE - art. R53-8 (M)
+	  - Code de procédure pénale - art. R53 (V)
+	  - Code de procédure pénale - art. R53-3 (V)
+	  - Code de procédure pénale - art. R53-8 (V)
 
 
 ###### Article R53-5
@@ -59181,10 +59181,10 @@ R. 53-8.
 La radiation d'un administrateur ad hoc peut être prononcée chaque année par l'assemblée générale de la cour d'appel, soit à
 la demande de l'intéressé, soit à l'initiative du premier président ou du procureur général, après que l'intéressé ait été
 mis à même de présenter ses observations, dès lors que l'une des conditions prévues aux articles R. 53-1 et R. 53-2 cesse
-d'être remplie ou que l'administrateur ad hoc n'a pas respecté les obligations résultant de sa mission.
+d'être remplie ou que l'administrateur ad hoc n'a pas respecté les obligations résultant de sa mission. 
 
 En cas d'urgence, et après avoir mis l'intéressé en mesure de présenter ses observations, le premier président peut
-prononcer, à titre provisoire, la radiation de l'administrateur ad hoc.
+prononcer, à titre provisoire, la radiation de l'administrateur ad hoc. 
 
 La décision de radiation ne peut donner lieu qu'à un recours devant la Cour de cassation dans un délai d'un mois.
 
@@ -59196,12 +59196,11 @@ La décision de radiation ne peut donner lieu qu'à un recours devant la Cour de
 
 	**Modifié par**:
 
-	  - Décret n°2002-697 du 30 avril 2002 - art. 1 () JORF 3 mai 2002
+	  - Décret n°2005-627 du 30 mai 2005 - art. 1 () JORF 31 mai 2005 en vigueur le  30 juin 2005
 
 	**Cite**:
 
-	  - CODE DE PROCEDURE PENALE - art. R53-1 (M)
-	  - CODE DE PROCEDURE PENALE - art. R53-2 (M)
+	  - Code de procédure pénale - art. R53-1 (V)
 
 
 ##### Section 2 : De la désignation d'un administrateur ad hoc
@@ -59222,14 +59221,7 @@ remplissant les conditions définies aux articles R. 53-1 et R. 53-2.
 
 	**Modifié par**:
 
-	  - Décret n°2002-697 du 30 avril 2002 - art. 1 () JORF 3 mai 2002
-
-	**Cite**:
-
-	  - CODE DE PROCEDURE PENALE - art. 706-50 (V)
-	  - CODE DE PROCEDURE PENALE - art. R53 (M)
-	  - CODE DE PROCEDURE PENALE - art. R53-1 (M)
-	  - CODE DE PROCEDURE PENALE - art. R53-2 (M)
+	  - Décret n°2005-627 du 30 mai 2005 - art. 1 () JORF 31 mai 2005 en vigueur le  30 juin 2005
 
 	**Cité par**:
 
@@ -59237,6 +59229,12 @@ remplissant les conditions définies aux articles R. 53-1 et R. 53-2.
 	  - Code de procédure pénale - art. R130 (V)
 	  - Code de procédure pénale - art. R216 (V)
 	  - Code de procédure pénale - art. R92 (V)
+
+	**Cite**:
+
+	  - Code de procédure pénale - art. 706-50 (V)
+	  - Code de procédure pénale - art. R53 (V)
+	  - Code de procédure pénale - art. R53-1 (V)
 
 
 ###### Article R53-7
@@ -59258,11 +59256,11 @@ correctionnels.
 
 	**Modifié par**:
 
-	  - Décret n°2002-697 du 30 avril 2002 - art. 1 () JORF 3 mai 2002
+	  - Décret n°2005-627 du 30 mai 2005 - art. 1 () JORF 31 mai 2005 en vigueur le  30 juin 2005
 
 	**Cite**:
 
-	  - CODE DE PROCEDURE PENALE - art. 706-50 (V)
+	  - Code de procédure pénale - art. 706-50 (V)
 
 
 ###### Article R53-8
@@ -59279,11 +59277,7 @@ le cas échéant, les formalités accomplies en vue du placement des sommes per�
 
 	**Modifié par**:
 
-	  - Décret n°2002-697 du 30 avril 2002 - art. 1 () JORF 3 mai 2002
-
-	**Cite**:
-
-	  - CODE DE PROCEDURE PENALE - art. 706-50 (V)
+	  - Décret n°2005-627 du 30 mai 2005 - art. 1 () JORF 31 mai 2005 en vigueur le  30 juin 2005
 
 	**Cité par**:
 
@@ -59291,6 +59285,1017 @@ le cas échéant, les formalités accomplies en vue du placement des sommes per�
 	  - Code de procédure civile - art. 1210-3 (V)
 	  - Code de procédure pénale - art. R216 (V)
 	  - Code de procédure pénale - art. R53-4 (V)
+
+	**Cite**:
+
+	  - Code de procédure pénale - art. 706-50 (V)
+
+
+#### Chapitre II : Du fichier judiciaire national automatisé des auteurs d'infractions sexuelles.
+
+###### Article R53-8-1
+
+Le fichier judiciaire national automatisé des auteurs d'infractions sexuelles est tenu sous le contrôle du magistrat
+dirigeant le service du casier judiciaire, qui veille au respect des dispositions du présent chapitre.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-318 1959-02-23
+
+	**Créé par**:
+
+	  - Décret n°2005-627 du 30 mai 2005 - art. 1 () JORF 31 mai 2005 en vigueur le  30 juin 2005
+
+
+##### Section 1 : Inscription dans le fichier
+
+###### Article R53-8-2
+
+L'enregistrement dans le fichier des données à caractère personnel prévues aux 1° à 4° de l'article 706-53-2 est réalisé par
+le procureur de la République. 
+
+L'enregistrement des données à caractère personnel prévues au 5° de l'article 706-53-2 est réalisé par le juge d'instruction
+ou son greffier. 
+
+L'enregistrement des données à caractère personnel prévues au 6° de l'article 706-53-2 est réalisé par le service
+gestionnaire du fichier destinataire des avis adressés aux autorités françaises ou par le procureur de la République du lieu
+de détention où sont exécutées les peines à la suite des transfèrements des personnes condamnées.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-318 1959-02-23
+
+	**Créé par**:
+
+	  - Décret n°2005-627 du 30 mai 2005 - art. 1 () JORF 31 mai 2005 en vigueur le  30 juin 2005
+
+	**Cite**:
+
+	  - Code de procédure pénale - art. 706-53-2 (V)
+
+
+###### Article R53-8-3
+
+La vérification de l'identité des personnes inscrites au fichier prévu par le premier alinéa de l'article 706-53-2 est
+effectuée, lorsqu'elle est possible, au vu des informations communiquées au service du casier judiciaire conformément aux
+dispositions de l'article R. 64.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-318 1959-02-23
+
+	**Créé par**:
+
+	  - Décret n°2005-627 du 30 mai 2005 - art. 1 () JORF 31 mai 2005 en vigueur le  30 juin 2005
+
+	**Cite**:
+
+	  - Code de procédure pénale - art. 706-53-2 (V)
+
+	**Cité par**:
+
+	  - Code de procédure pénale - art. R64 (VD)
+
+
+###### Article R53-8-4
+
+Le procureur de la République informe sans délai le gestionnaire du fichier des décisions de relaxe ou d'acquittement
+intervenues dans les procédures ayant donné lieu à enregistrement au fichier une fois acquis leur caractère définitif.
+
+Le juge d'instruction ou son greffier, enregistre les décisions de non-lieu, de cessation ou de mainlevée du contrôle
+judiciaire dans les procédures ayant donné lieu à enregistrement au fichier.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-318 1959-02-23
+
+	**Créé par**:
+
+	  - Décret n°2005-627 du 30 mai 2005 - art. 1 () JORF 31 mai 2005 en vigueur le  30 juin 2005
+
+
+###### Article R53-8-5
+
+L'administration pénitentiaire informe sans délai le procureur de la République du lieu de détention de la notification,
+conformément à l'article R. 53-8-9, des obligations incombant à la personne qui exécutait une peine privative de liberté en
+application de la condamnation ayant entraîné son inscription au fichier et qui est libérée définitivement ou fait l'objet
+d'une mesure d'aménagement de peine entraînant sa sortie de l'établissement pénitentiaire autre qu'une permission de sortir.
+
+Le procureur de la République enregistre cette information dans le fichier.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-318 1959-02-23
+
+	**Créé par**:
+
+	  - Décret n°2005-627 du 30 mai 2005 - art. 1 () JORF 31 mai 2005 en vigueur le  30 juin 2005
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. R53-8-9 (V)
+
+
+###### Article R53-8-6
+
+Les agents des services de police ou des unités de gendarmerie spécialement habilités enregistrent dans le fichier les
+justifications d'adresse ou de changement d'adresse dont ils ont eu connaissance en application des dispositions de l'article
+706-53-5 ou du deuxième alinéa de l'article 706-53-8.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-318 1959-02-23
+
+	**Créé par**:
+
+	  - Décret n°2005-627 du 30 mai 2005 - art. 1 () JORF 31 mai 2005 en vigueur le  30 juin 2005
+
+	**Cite**:
+
+	  - Code de procédure pénale - art. 706-53-5 (V)
+	  - Code de procédure pénale - art. 706-53-8 (V)
+
+
+###### Article R53-8-7
+
+Pour chaque personne faisant l'objet d'une inscription au fichier, sont enregistrées les données à caractère personnel
+suivantes :
+
+1° Informations relatives à la personne elle-même :
+
+- nom, prénom, sexe, date et lieu de naissance de la personne, la ou les nationalités, ainsi que le cas échéant alias,
+changement de nom et nom d'usage ; sont également enregistrées les informations relatives à la filiation de la personne, si
+cette personne ne figure pas au répertoire national d'identification des personnes physiques, ces informations ne pouvant
+toutefois constituer un critère de recherche ;
+
+- adresses successives du domicile et de la ou des résidences de la personne ou, pour les personnes mentionnées à l'article
+R. 53-8-22, de leur commune de rattachement, ainsi que le cas échéant les dates correspondantes ;
+
+2° Informations relatives à la ou aux décisions ayant donné lieu à l'enregistrement :
+
+- nature et date de la décision ;
+
+- juridiction ayant prononcé la décision ;
+
+- peines principales ou complémentaires ou mesures prononcées ;
+
+- nature de l'infraction ou des infractions pour lesquelles la personne est poursuivie ou condamnée ;
+
+- lieu des faits ;
+
+- date des faits ;
+
+- caractère exprès de l'enregistrement ;
+
+- date de notification des obligations prévues par l'article 706-53-6 et de l'alinéa 2 du II de l'article 216 de la loi n°
+2004-204 du 9 mars 2004 ;
+
+- date d'exécution ou de fin d'exécution de la peine ou de la mesure ;
+
+3° Informations diverses :
+
+- dates de justification d'adresse ;
+
+- périodicité de l'obligation de présentation si elle existe ;
+
+- décisions prises en application de l'article 706-53-10 et de l'alinéa 2 du I de l'article 216 de la loi n° 2004-204 du 9
+mars 2004.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-318 1959-02-23
+
+	**Cite**:
+
+	  - Loi n°2004-204 2004-03-09 art. 216
+	  - CODE DE PROCEDURE PENALE - art. 706-53-10 (M)
+	  - CODE DE PROCEDURE PENALE - art. 706-53-6 (M)
+	  - CODE DE PROCEDURE PENALE - art. R53-8-22 (V)
+
+	**Créé par**:
+
+	  - Décret n°2005-627 du 30 mai 2005 - art. 1 () JORF 31 mai 2005 en vigueur le  30 juin 2005
+
+
+###### Article R53-8-8
+
+Le gestionnaire du fichier contrôle la validité des informations enregistrées et, selon le cas, refuse ou efface les
+enregistrements qui ne respectent pas les exigences légales.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-318 1959-02-23
+
+	**Créé par**:
+
+	  - Décret n°2005-627 du 30 mai 2005 - art. 1 () JORF 31 mai 2005 en vigueur le  30 juin 2005
+
+
+##### Section 2 : Information de la personne inscrite dans le fichier
+
+###### Article R53-8-9
+
+L'information des personnes condamnées est faite conformément aux dispositions du présent article.
+
+Lorsque la personne est présente à l'audience, l'information de son inscription dans le fichier et la notification de ses
+obligations est faite par le président de la juridiction ou le greffier ou la personne habilitée qu'il désigne. Toutefois, il
+n'est pas procédé à la notification des obligations en cas de placement ou de maintien en détention.
+
+Lorsque la personne n'est pas présente à l'audience, cette information est faite, à la diligence du ministère public, par
+lettre recommandée adressée à sa dernière adresse déclarée.
+
+Lorsque la personne exécute une peine privative de liberté en application de la condamnation ayant entraîné son inscription
+au fichier, cette information lui est donnée par le greffe de l'établissement pénitentiaire, au moment de sa libération
+définitive ou préalablement à la première mesure d'aménagement de sa peine entraînant la sortie de l'établissement
+pénitentiaire, autre qu'une permission de sortir.
+
+Dans tous les cas, il lui est remis contre récépissé ou adressé en annexe du courrier prévu au deuxième alinéa un document
+récapitulant ses obligations et précisant les conditions selon lesquelles il doit y être satisfait conformément aux
+dispositions des articles R. 53-8-13 à R. 53-8-15. Le modèle de ce document est fixé par le ministre de la justice.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-318 1959-02-23
+
+	**Créé par**:
+
+	  - Décret n°2005-627 du 30 mai 2005 - art. 1 () JORF 31 mai 2005 en vigueur le  30 juin 2005
+
+	**Cité par**:
+
+	  - Décret n°2005-627 du 30 mai 2005 - art. 11 (V)
+	  - Code de procédure pénale - art. R53-8-10 (V)
+	  - Code de procédure pénale - art. R53-8-11 (V)
+	  - Code de procédure pénale - art. R53-8-12 (V)
+	  - Code de procédure pénale - art. R53-8-12-1 (V)
+	  - Code de procédure pénale - art. R53-8-5 (V)
+
+	**Cite**:
+
+	  - Code de procédure pénale R53-8-13 à R53-8-15
+
+
+###### Article R53-8-10
+
+En cas de composition pénale prévue par le 3° de l'article 706-53-2, l'information de la personne est faite par le procureur
+de la République ou le délégué du procureur qui remet le document prévu à l'article R. 53-8-9 à l'intéressé.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-318 1959-02-23
+
+	**Créé par**:
+
+	  - Décret n°2005-627 du 30 mai 2005 - art. 1 () JORF 31 mai 2005 en vigueur le  30 juin 2005
+
+	**Cite**:
+
+	  - Code de procédure pénale - art. 706-53-2 (V)
+	  - Code de procédure pénale - art. R53-8-9 (V)
+
+
+###### Article R53-8-11
+
+Dans les cas prévus par le 4° de l'article 706-53-2, le magistrat ou la juridiction qui rend la décision informe l'intéressé
+et lui notifie ses obligations soit oralement soit par lettre recommandée avec accusé de réception. Le document prévu à
+l'article R. 53-8-9 est remis ou adressé à l'intéressé.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-318 1959-02-23
+
+	**Créé par**:
+
+	  - Décret n°2005-627 du 30 mai 2005 - art. 1 () JORF 31 mai 2005 en vigueur le  30 juin 2005
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. 706-53-2 (M)
+	  - CODE DE PROCEDURE PENALE - art. R53-8-9 (V)
+
+
+###### Article R53-8-12
+
+Dans le cas d'un placement sous contrôle judiciaire prévu par le 5° de l'article 706-53-2, l'information de la personne et la
+remise du document prévu à l'article R. 53-8-9 sont faites par le juge d'instruction qui ordonne l'inscription au fichier,
+même si la mesure de contrôle a été ordonnée par le juge des libertés et de la détention.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-318 1959-02-23
+
+	**Créé par**:
+
+	  - Décret n°2005-627 du 30 mai 2005 - art. 1 () JORF 31 mai 2005 en vigueur le  30 juin 2005
+
+	**Cite**:
+
+	  - Code de procédure pénale - art. 706-53-2 (V)
+	  - Code de procédure pénale - art. R53-8-9 (V)
+
+
+##### Section 3 : Obligations incombant à la personne inscrite dans le fichier
+
+###### Article R53-8-13
+
+La justification et la déclaration de changement d'adresse prévues par l'article 706-53-5 se font au moyen de tout document
+de moins de trois mois au nom de l'intéressé établissant la réalité de son domicile, notamment d'une quittance ou d'une
+facture. Si le justificatif produit se rapporte au domicile d'un tiers, il doit être accompagné d'une attestation
+d'hébergement établie et signée par celui-ci.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-318 1959-02-23
+
+	**Créé par**:
+
+	  - Décret n°2005-627 du 30 mai 2005 - art. 1 () JORF 31 mai 2005 en vigueur le  30 juin 2005
+
+	**Cite**:
+
+	  - Code de procédure pénale - art. 706-53-5 (V)
+
+	**Cité par**:
+
+	  - Code de procédure pénale - art. R53-8-14 (V)
+	  - Code de procédure pénale - art. R53-8-15 (V)
+	  - Code de procédure pénale - art. R53-8-9 (V)
+
+
+###### Article R53-8-14
+
+Pour l'application des 1° et 2° de l'article 706-53-5, le justificatif visé à l'article R. 53-8-13 est remis ou adressé par
+lettre recommandée avec demande d'avis de réception au commissariat de police ou à la brigade territoriale de gendarmerie
+dont dépend le domicile de l'intéressé, ou adressé par lettre recommandée avec demande d'avis de réception au service
+gestionnaire du fichier dans le courant du mois de la date anniversaire de sa naissance. Si l'état civil déclaré par
+l'intéressé ne permet pas de déterminer ou de connaître le mois de sa naissance, le justificatif est remis ou adressé dans le
+courant du mois de janvier.
+
+Le justificatif est également remis ou adressé dans les quinze jours suivant la date à laquelle la notification des
+obligations a été faite ou adressée à la personne, sauf si cette notification intervient moins de deux mois avant le premier
+jour du mois anniversaire de sa naissance ou sauf si l'intéressé, en raison d'une précédente inscription dans le fichier, est
+déjà tenu de justifier annuellement de son adresse.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-318 1959-02-23
+
+	**Créé par**:
+
+	  - Décret n°2005-627 du 30 mai 2005 - art. 1 () JORF 31 mai 2005 en vigueur le  30 juin 2005
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. 706-53-5 (M)
+	  - CODE DE PROCEDURE PENALE - art. R53-8-13 (V)
+
+	**Cité par**:
+
+	  - Code de procédure pénale - art. R53-8-15 (V)
+	  - Code de procédure pénale - art. R53-8-16 (V)
+
+
+###### Article R53-8-15
+
+Pour satisfaire à l'obligation de présentation visée au cinquième alinéa de l'article 706-53-5, le justificatif visé à
+l'article R. 53-8-13 est remis en personne par l'intéressé au groupement de gendarmerie départemental ou à la direction
+départementale de la sécurité publique dont dépend le domicile de l'intéressé ou au service désigné par la préfecture de
+police de Paris dans les autres cas, dans les quinze premiers jours du mois de la date anniversaire visée à l'article R.
+53-8-14 et dans les quinze premiers jours du sixième mois suivant.
+
+Le justificatif est également remis en personne par l'intéressé dans les quinze jours suivant la date à laquelle la
+notification des obligations lui a été donnée ou adressée, sauf si cette notification intervient moins de deux mois avant le
+premier jour du mois anniversaire ou sauf si l'intéressé, en raison d'une précédente inscription dans le fichier, est déjà
+tenu à une obligation de présentation.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-318 1959-02-23
+
+	**Créé par**:
+
+	  - Décret n°2005-627 du 30 mai 2005 - art. 1 () JORF 31 mai 2005 en vigueur le  30 juin 2005
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. 706-53-5 (M)
+	  - CODE DE PROCEDURE PENALE - art. R53-8-13 (V)
+	  - CODE DE PROCEDURE PENALE - art. R53-8-14 (V)
+
+	**Cité par**:
+
+	  - Code de procédure pénale - art. R53-8-16 (V)
+
+
+###### Article R53-8-16
+
+A défaut de réception du courrier visé au premier alinéa de l'article R. 53-8-14 dans les huit jours des dates définies à
+l'article R. 53-8-14, le service gestionnaire du fichier adresse au ministère de l'intérieur l'avis prévu par les articles
+706-53-8 et R. 53-8-25.
+
+A défaut de présentation dans les délais définis à l'article R. 53-8-15, le service gestionnaire du fichier adresse au
+ministère de l'intérieur l'avis prévu par les articles 706-53-8 et R. 53-8-25.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-318 1959-02-23
+
+	**Créé par**:
+
+	  - Décret n°2005-627 du 30 mai 2005 - art. 1 () JORF 31 mai 2005 en vigueur le  30 juin 2005
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. 706-53-8 (M)
+	  - CODE DE PROCEDURE PENALE - art. R53-8-14 (V)
+	  - CODE DE PROCEDURE PENALE - art. R53-8-15 (V)
+	  - CODE DE PROCEDURE PENALE - art. R53-8-25 (V)
+
+
+###### Article R53-8-17
+
+L'obligation de présentation prévue par le cinquième alinéa de l'article 706-53-5 est exécutée, tous les six mois ou tous les
+ans selon les cas, dans les périodes déterminées en application des dispositions qui précèdent.
+
+Cette obligation ne dispense pas la personne de déclarer ses éventuels changements d'adresse.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-318 1959-02-23
+
+	**Créé par**:
+
+	  - Décret n°2005-627 du 30 mai 2005 - art. 1 () JORF 31 mai 2005 en vigueur le  30 juin 2005
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. 706-53-5 (M)
+
+
+###### Article R53-8-18
+
+Lorsque la personne réside à l'étranger, la justification de son adresse se fait par lettre recommandée avec demande d'avis
+de réception adressée au service gestionnaire du fichier.
+
+Les documents justificatifs doivent alors être accompagnés ou revêtus d'un visa émanant soit des autorités étrangères soit
+des postes diplomatiques ou consulaires.
+
+Durant le séjour à l'étranger, l'obligation de présentation, si elle existe, est suspendue sans que cette suspension ait
+d'incidence sur la durée de l'inscription de la personne dans le fichier.
+
+Si la personne établit à nouveau sa résidence sur le territoire national, elle est tenue de se présenter pour justifier de sa
+nouvelle adresse dans un délai de quinze jours au plus tard, conformément au 2° de l'article 706-53-5.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-318 1959-02-23
+
+	**Créé par**:
+
+	  - Décret n°2005-627 du 30 mai 2005 - art. 1 () JORF 31 mai 2005 en vigueur le  30 juin 2005
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. 706-53-5 (M)
+
+
+###### Article R53-8-19
+
+Lorsque la personne exécute une peine privative de liberté en application de la condamnation ayant entraîné son inscription
+au fichier, son obligation de justification d'adresse, de déclaration de changement d'adresse et, le cas échéant, de
+présentation, ne naît qu'à compter de sa libération définitive ou de la date d'exécution d'une mesure d'aménagement de sa
+peine entraînant la sortie de l'établissement pénitentiaire, autre qu'une permission de sortir.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-318 1959-02-23
+
+	**Créé par**:
+
+	  - Décret n°2005-627 du 30 mai 2005 - art. 1 () JORF 31 mai 2005 en vigueur le  30 juin 2005
+
+
+###### Article R53-8-20
+
+Lorsque la personne se trouve dans un établissement public ou privé dans lequel elle est placée, retenue ou détenue en
+application d'une décision judiciaire ou administrative, la justification d'adresse peut consister en une attestation
+délivrée par le responsable de cet établissement. Cette attestation est adressée au service gestionnaire du fichier par ce
+responsable, qui a été informé de la situation juridique de la personne soit par l'intéressé soit par l'autorité ayant pris
+la décision.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-318 1959-02-23
+
+	**Créé par**:
+
+	  - Décret n°2005-627 du 30 mai 2005 - art. 1 () JORF 31 mai 2005 en vigueur le  30 juin 2005
+
+
+###### Article R53-8-21
+
+Lorsque l'intéressé est mineur, la justification d'adresse ou la déclaration de changement d'adresse est effectuée par ses
+représentants légaux ou les personnes auxquelles sa garde a été confiée.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-318 1959-02-23
+
+	**Créé par**:
+
+	  - Décret n°2005-627 du 30 mai 2005 - art. 1 () JORF 31 mai 2005 en vigueur le  30 juin 2005
+
+
+###### Article R53-8-22
+
+Lorsque la personne est titulaire d'un livret ou d'un carnet de circulation, la justification d'adresse est effectuée dans
+les délais prévus par l'article 706-53-5, indépendamment des obligations qui lui incombent en application de l'article 18 du
+décret n° 70-708 du 31 juillet 1970. 
+
+La justification d'adresse consiste en la présentation du livret ou du carnet de circulation à jour du dernier visa
+réglementaire, effectuée au commissariat de police ou à la brigade territoriale de gendarmerie, le plus proche du lieu où se
+trouve la personne à la date à laquelle cette justification doit intervenir. 
+
+L'obligation de déclaration de changement d'adresse consiste dans l'obligation d'informer par lettre recommandée avec demande
+d'avis de réception le service gestionnaire du fichier en cas de changement de la commune de rattachement ou, le cas échéant,
+d'établissement d'un domicile en indiquant son adresse selon les mêmes modalités.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-318 1959-02-23
+
+	**Cite**:
+
+	  - Décret n°70-708 du 31 juillet 1970 - art. 18 (V)
+	  - Code de procédure pénale - art. 706-53-5 (V)
+
+	**Créé par**:
+
+	  - Décret n°2005-627 du 30 mai 2005 - art. 1 () JORF 31 mai 2005 en vigueur le  30 juin 2005
+
+	**Cité par**:
+
+	  - Code de procédure pénale - art. R53-8-7 (V)
+
+
+##### Section 4 : Interrogation du fichier et information directe du ministère de l'intérieur
+
+###### Article R53-8-23
+
+Des autorités judiciaires, ainsi que les officiers de police judiciaire spécialement habilités, saisis dans le cadre d'une
+procédure mentionnée au 2° de l'article 706-53-7 ou avisés conformément à l'article R. 53-8-25, peuvent interroger le fichier
+à partir des critères suivants, même incomplets :
+
+" - numéro de dossier ;
+
+" - données d'identité ;
+
+" - données d'adresse ou éléments de localisation ;
+
+" - nature des infractions ;
+
+" - date des faits ;
+
+" - lieu de commission des faits ;
+
+" - nature et date de la décision judiciaire ;
+
+" - nature de peines principales ou complémentaires et mesures prononcées ;
+
+" - personnes en défaut de justification.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-318 1959-02-23
+
+	**Créé par**:
+
+	  - Décret n°2005-627 du 30 mai 2005 - art. 1 () JORF 31 mai 2005 en vigueur le  30 juin 2005
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. 706-53-7 (M)
+	  - CODE DE PROCEDURE PENALE - art. R53-8-25 (V)
+
+
+###### Article R53-8-24
+
+Les préfets, ou les agents des préfectures spécialement habilités par eux à cette fin, ne peuvent interroger le fichier, en
+application de l'article 706-53-7, qu'à partir de l'identité de la personne intéressée par une demande d'agrément.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-318 1959-02-23
+
+	**Créé par**:
+
+	  - Décret n°2005-627 du 30 mai 2005 - art. 1 () JORF 31 mai 2005 en vigueur le  30 juin 2005
+
+	**Cité par**:
+
+	  - Arrêté du 25 mars 2016 - art. 1
+	  - Code de procédure pénale - art. R53-8-9 (V)
+	  - Code de procédure pénale - art. R64 (VD)
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. 706-53-7 (M)
+
+
+###### Article R53-8-25
+
+Lors des interrogations, les identités consultées comportent également le résultat de la vérification effectuée par le
+service gestionnaire du fichier conformément à l'article 706-53-3 au moyen des informations communiquées au service du casier
+judiciaire en application de l'article R. 64.
+
+Si l'intéressé est né hors de la France métropolitaine, si son lieu de naissance est inconnu ou s'il est âgé de moins de
+douze ans, est inscrite la mention : " identité non vérifiable par le service ".
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-318 1959-02-23
+
+	**Créé par**:
+
+	  - Décret n°2005-627 du 30 mai 2005 - art. 1 () JORF 31 mai 2005 en vigueur le  30 juin 2005
+
+	**Cité par**:
+
+	  - Décret n°2005-627 du 30 mai 2005 - art. 11 (V)
+	  - CODE DE PROCEDURE PENALE - art. R53-8-16 (V)
+	  - CODE DE PROCEDURE PENALE - art. R53-8-23 (V)
+
+	**Cite**:
+
+	  - Code de procédure pénale - art. 706-53-3 (V)
+	  - Code de procédure pénale - art. R64 (V)
+
+
+###### Article R53-8-26
+
+En application de l'article 706-53-8, le gestionnaire du fichier adresse quotidiennement au ministère de l'intérieur les avis
+relatifs aux nouvelles inscriptions, aux modifications d'adresse relatives à une inscription ou aux défauts de justification
+d'adresse.
+
+Etabli après consultation automatisée du fichier national des personnes incarcérées, l'avis visé à l'alinéa précédent
+précise, s'il y a lieu, le nom de l'établissement où la personne intéressée est détenue, l'adresse déclarée à la sortie et la
+date prévisible de sa libération.
+
+Le service gestionnaire du fichier est habilité à mettre en oeuvre la consultation automatisée du fichier national des
+personnes incarcérées pour les besoins du fichier tels que définis aux deux alinéas précédents.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-318 1959-02-23
+
+	**Créé par**:
+
+	  - Décret n°2005-627 du 30 mai 2005 - art. 1 () JORF 31 mai 2005 en vigueur le  30 juin 2005
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. 706-53-8 (M)
+
+	**Cité par**:
+
+	  - Code de procédure pénale - art. R53-8-16 (V)
+	  - Code de procédure pénale - art. R53-8-23 (V)
+
+
+##### Section 5 : Demande de rectification, d'effacement ou de limitation de l'obligation de présentation
+
+###### Article R53-8-27
+
+Le procureur de la République compétent, en application des dispositions de l'article 706-53-10, pour ordonner, à la demande
+de l'intéressé, la rectification ou l'effacement des informations figurant au fichier ou la limitation à un an de
+l'obligation de présentation est celui de la juridiction dans le ressort de laquelle ont été exercées les poursuites ayant
+donné lieu à cet enregistrement.
+
+Si l'inscription résulte de l'application du 6° de l'article 706-53-2, le procureur de la République compétent, au sens de
+l'alinéa précédent, est celui du tribunal de grande instance de Nantes.
+
+La demande prévue par l'article 706-53-10 doit, à peine d'irrecevabilité, être adressée par lettre recommandée avec demande
+d'avis de réception ou effectuée par déclaration au greffe.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-318 1959-02-23
+
+	**Créé par**:
+
+	  - Décret n°2005-627 du 30 mai 2005 - art. 1 () JORF 31 mai 2005 en vigueur le  30 juin 2005
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. 706-53-10 (M)
+	  - CODE DE PROCEDURE PENALE - art. 706-53-2 (M)
+
+
+###### Article R53-8-28
+
+Le magistrat compétent doit faire connaître sa décision à l'intéressé, par lettre recommandée dans un délai de deux mois à
+compter de la réception de la demande.
+
+A défaut de réponse dans ce délai, ou si le magistrat ne fait pas droit à la demande, l'intéressé peut saisir aux mêmes fins
+le juge des libertés et de la détention dans un délai de dix jours par lettre recommandée avec demande d'avis de réception ou
+par déclaration au greffe.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-318 1959-02-23
+
+	**Créé par**:
+
+	  - Décret n°2005-627 du 30 mai 2005 - art. 1 () JORF 31 mai 2005 en vigueur le  30 juin 2005
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. 706-50 (V)
+
+
+###### Article R53-8-29
+
+Après avoir sollicité les réquisitions écrites du procureur de la République, le juge des libertés et de la détention statue
+par ordonnance motivée dans un délai de deux mois. L'ordonnance est notifiée au procureur de la République et par lettre
+recommandée à l'intéressé.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-318 1959-02-23
+
+	**Créé par**:
+
+	  - Décret n°2005-627 du 30 mai 2005 - art. 1 () JORF 31 mai 2005 en vigueur le  30 juin 2005
+
+	**Cité par**:
+
+	  - Code de procédure pénale - art. R53-8-30 (V)
+
+
+###### Article R53-8-30
+
+Faute pour le juge des libertés et de la détention de statuer dans le délai de deux mois ou s'il n'est pas fait droit à sa
+demande, l'intéressé peut, dans un délai de dix jours, saisir le président de la chambre de l'instruction par lettre
+recommandée avec demande d'avis de réception ou par déclaration au greffe de la cour d'appel. A peine d'irrecevabilité, sa
+contestation doit être motivée.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-318 1959-02-23
+
+	**Créé par**:
+
+	  - Décret n°2005-627 du 30 mai 2005 - art. 1 () JORF 31 mai 2005 en vigueur le  30 juin 2005
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. 706-53-2 (M)
+	  - CODE DE PROCEDURE PENALE - art. R64 (M)
+
+
+###### Article R53-8-31
+
+S'il est fait droit à la demande, le procureur de la République peut, dans un délai de dix jours, contester cette décision
+devant le président de la chambre de l'instruction. Cette contestation suspend l'exécution de la décision.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-318 1959-02-23
+
+	**Créé par**:
+
+	  - Décret n°2005-627 du 30 mai 2005 - art. 1 () JORF 31 mai 2005 en vigueur le  30 juin 2005
+
+
+###### Article R53-8-32
+
+Le président de la chambre de l'instruction statue, après avoir sollicité les réquisitions écrites du procureur général, par
+une ordonnance motivée dans un délai de deux mois. Cette ordonnance est notifiée au procureur de la République et par lettre
+recommandée à l'intéressé. Elle ne peut faire l'objet d'un pourvoi en cassation que si elle ne satisfait pas, en la forme,
+aux conditions essentielles de son existence légale.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-318 1959-02-23
+
+	**Créé par**:
+
+	  - Décret n°2005-627 du 30 mai 2005 - art. 1 () JORF 31 mai 2005 en vigueur le  30 juin 2005
+
+
+###### Article R53-8-33
+
+S'il est fait droit aux demandes prévues par l'article 706-53-10, le procureur de la République informe le service
+gestionnaire du fichier de la décision, lequel procède sans délai, selon les cas, à l'effacement des données, à leur
+rectification ou à l'enregistrement dans le fichier de la nouvelle périodicité de l'obligation de comparution.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-318 1959-02-23
+
+	**Créé par**:
+
+	  - Décret n°2005-627 du 30 mai 2005 - art. 1 () JORF 31 mai 2005 en vigueur le  30 juin 2005
+
+	**Cite**:
+
+	  - Code de procédure pénale - art. 706-53-10 (V)
+
+
+##### Section 6 : Conservation de la trace des interrogations et consultations
+
+###### Article R53-8-34
+
+Le fichier conserve pendant une durée de trois ans les informations relatives aux enregistrements et interrogations dont il
+fait l'objet, en précisant la qualité de la personne ou autorité ayant procédé à l'opération.
+
+Ces informations ne peuvent être consultées que par le magistrat chef du service gestionnaire du fichier ou, avec son
+autorisation, par les personnes qu'il habilite spécialement.
+
+Elles peuvent donner lieu à des exploitations statistiques.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-318 1959-02-23
+
+	**Créé par**:
+
+	  - Décret n°2005-627 du 30 mai 2005 - art. 1 () JORF 31 mai 2005 en vigueur le  30 juin 2005
+
+
+##### Section 7 : Effacement des données inscrites dans le fichier
+
+###### Article R53-8-35
+
+Le service gestionnaire du fichier procède à l'effacement des données qui y sont inscrites : 
+
+a) A l'expiration des délais prévus par les 1° et 2° de l'article 706-53-4 ; 
+
+b) Lorsqu'il est informé d'une des décisions mentionnées au dernier alinéa de l'article 706-53-4 ; 
+
+c) Lorsqu'il est informé du décès de la personne ; 
+
+d) Lorsqu'il est informé d'une décision d'effacement prise en application de l'article 706-53-10.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-318 1959-02-23
+
+	**Créé par**:
+
+	  - Décret n°2005-627 du 30 mai 2005 - art. 1 () JORF 31 mai 2005 en vigueur le  30 juin 2005
+
+	**Cite**:
+
+	  - Code de procédure pénale - art. 706-53-10 (V)
+	  - Code de procédure pénale - art. 706-53-4 (V)
+
+
+###### Article R53-8-36
+
+Le juge d'instruction, ou son greffier, procède à l'effacement des données inscrites dans le fichier en cas de décision de
+non-lieu, de cessation ou de mainlevée du contrôle judiciaire.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-318 1959-02-23
+
+	**Créé par**:
+
+	  - Décret n°2005-627 du 30 mai 2005 - art. 1 () JORF 31 mai 2005 en vigueur le  30 juin 2005
+
+
+##### Section 8 : Dispositions communes
+
+###### Article R53-8-37
+
+Les magistrats du parquet et tout fonctionnaire du parquet spécialement habilité par le procureur de la République exercent
+les compétences reconnues à ce magistrat pour l'application du présent chapitre.
+
+Il en est de même pour celles reconnues au service gestionnaire du fichier, pour les magistrats placés sous son autorité et
+les fonctionnaires spécialement habilités par lui.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-318 1959-02-23
+
+	**Créé par**:
+
+	  - Décret n°2005-627 du 30 mai 2005 - art. 1 () JORF 31 mai 2005 en vigueur le  30 juin 2005
+
+
+###### Article R53-8-38
+
+Pour les décisions rendues par les cours d'appel ou, le cas échéant, par les cours d'assises, les pouvoirs reconnus au
+présent chapitre au juge d'instruction ou à son greffier sont exercés par le président de la chambre de l'instruction ou le
+greffier de cette chambre.
+
+Ceux reconnus au procureur de la République le sont par le procureur général, les magistrats du parquet général et tout
+fonctionnaire du parquet général spécialement habilité par le procureur général.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-318 1959-02-23
+
+	**Créé par**:
+
+	  - Décret n°2005-627 du 30 mai 2005 - art. 1 () JORF 31 mai 2005 en vigueur le  30 juin 2005
+
+
+###### Article R53-8-39
+
+L'enregistrement des données à caractère personnel dans le fichier est réalisé directement par les personnes autorisées ou
+habilitées.
+
+L'enregistrement et la consultation du fichier se font par l'intermédiaire de moyens de télécommunication sécurisés. La
+transmission de données entre le service gestionnaire du fichier et le ministère de l'intérieur se fait par un moyen
+informatique sécurisé.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-318 1959-02-23
+
+	**Créé par**:
+
+	  - Décret n°2005-627 du 30 mai 2005 - art. 1 () JORF 31 mai 2005 en vigueur le  30 juin 2005
 
 
 ### Titre XX : Du fichier national automatisé des empreintes génétiques et du service central de préservation des prélèvements biologiques
@@ -61820,19 +62825,27 @@ les informations destinées au casier judiciaire ainsi que celles qui peuvent ac
 ###### Article R64
 
 Le directeur de l'institut national de la statistique et des études économiques communique au service du casier judiciaire
-national automatisé les  noms de famille, les prénoms, les dates et lieu de naissance et le sexe des personnes âgées de plus
+national automatisé les noms de famille, les prénoms, les dates et lieu de naissance et le sexe des personnes âgées de plus
 de douze ans qui figurent au répertoire national d'identification ainsi que les modifications dont ces données auront
-éventuellement été l'objet.
+éventuellement été l'objet. 
 
 Cette communication, effectuée sur support magnétique ou par téléinformatique, a lieu périodiquement, au moins une fois par
-an. Il peut y être procédé par plusieurs envois séparés.
+an. Il peut y être procédé par plusieurs envois séparés. 
 
 Le service du casier judiciaire national automatisé ne peut utiliser l'extrait du répertoire national d'identification des
 personnes physiques qui lui est communiqué à des fins autres que la vérification de l'état civil des personnes dont le casier
-judiciaire est demandé.
+judiciaire est demandé ou, en sa qualité de gestionnaire du fichier judiciaire national automatisé des auteurs d'infractions
+sexuelles, à d'autres fins que la vérification de l'identité des personnes qui y sont inscrites, conformément aux articles
+706-53-3, R. 53-8-3 et R. 53-8-24. 
 
 En aucun cas le numéro attribué par l'institut national de la statistique et des études économiques pour servir de base aux
 vérifications d'identité n'est communiqué au service du casier judiciaire national automatisé.
+
+**Nota:**
+
+Décret 2005-627 du 31 mai 2005 art. 10 : Outre son application de plein droit à Mayotte en vertu du 5° du I de l'article 3 de
+la loi du 11 juillet 2001, le présent décret est applicable en Polynésie française, dans les îles Wallis et Futuna et en
+Nouvelle-Calédonie.
 
 **Liens relatifs à cet article**
 
@@ -61842,15 +62855,20 @@ vérifications d'identité n'est communiqué au service du casier judiciaire nat
 
 	**Modifié par**:
 
-	  - Décret n°2004-1159 du 29 octobre 2004 - art. 19 (V) JORF 31 octobre 2004 en vigueur le 1er janvier 2005
+	  - Décret n°2005-627 du 30 mai 2005 - art. 3 () JORF 31 mai 2005 en vigueur le  30 juin 2005
 
 	**Cité par**:
 
 	  - CODE DE PROCEDURE PENALE - art. R53-8-30 (V)
 	  - Code de procédure pénale - art. R251 (M)
 	  - Code de procédure pénale - art. R53-8-25 (V)
-	  - Code de procédure pénale - art. R53-8-3 (V)
 	  - Code de procédure pénale - art. R77 (V)
+
+	**Cite**:
+
+	  - Code de procédure pénale - art. 706-53-3 (V)
+	  - Code de procédure pénale - art. R53-8-24 (V)
+	  - Code de procédure pénale - art. R53-8-3 (V)
 
 
 #### Chapitre II : De l'établissement des fiches du casier judiciaire
