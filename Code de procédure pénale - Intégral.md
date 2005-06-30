@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 2005-06-30
+Version Consolidée au 2005-07-01
 
 # Partie législative
 
@@ -15948,19 +15948,14 @@ magistrat des tribunaux de commerce, assesseur des tribunaux paritaires de baux 
 
 3° Secrétaire général du Gouvernement ou d'un ministère, directeur de ministère, membre du corps préfectoral ;
 
-4° Fonctionnaire des services de police ou de l'administration pénitentiaire, militaire, en activité de service.
+4° Fonctionnaire des services de police ou de l'administration pénitentiaire et militaire de la gendarmerie, en activité de
+service.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Ordonnance 58-1296 1958-12-23
-
-	**Modifié par**:
-
-	  - Loi n°72-1226 1972-12-29 art. 4 JORF 30 décembre 1972
-	  - Loi n°78-788 1978-07-28 art. 14 JORF 29 juillet 1978
-	  - Loi n°85-1407 1985-12-30 art. 37 et art. 94 JORF 31 décembre 1985 en vigueur le 1er février 1986
 
 	**Cité par**:
 
@@ -15973,6 +15968,10 @@ magistrat des tribunaux de commerce, assesseur des tribunaux paritaires de baux 
 	**Liens**:
 
 	  - SPEC_APPLI: Loi n°85-1407 1985-12-30 art. 94
+
+	**Modifié par**:
+
+	  - Loi n°2005-270 du 24 mars 2005 - art. 94 () JORF 26 mars 2005 en vigueur au  1er juillet 2005
 
 
 ###### Article 258
@@ -96326,8 +96325,25 @@ service dans cette armée.
 
 ###### Article A2
 
-Les listes des candidats admis à se présenter à l'examen technique sont établies par les commandants de légion de gendarmerie
-départementale (ou autorités assimilées) et arrêtées par le ministre chargé des armées.
+Les listes des candidats admis à se présenter à l'examen technique sont arrêtées par :
+
+- les commandants de région de gendarmerie ;
+
+- le commandant de la gendarmerie outre-mer ;
+
+- le commandant des écoles de la gendarmerie nationale ;
+
+- le commandant de la gendarmerie de l'air ;
+
+- le commandant de la gendarmerie des transports aériens ;
+
+- le commandant de la gendarmerie de l'armement ;
+
+- le commandant de la gendarmerie maritime ;
+
+- le commandant du centre administratif de la gendarmerie nationale ;
+
+- le commandant du centre technique de la gendarmerie nationale.
 
 **Liens relatifs à cet article**
 
@@ -96337,7 +96353,15 @@ départementale (ou autorités assimilées) et arrêtées par le ministre charg�
 
 	**Modifié par**:
 
-	  - Arrêté 1992-06-12 art. 1 JORF 9 juillet 1992 en vigueur le 1er octobre 1992
+	  - Arrêté 2005-08-18 art. 1 JORF 1er septembre 2005 en vigueur le 1er juillet 2005
+
+	**Liens**:
+
+	  - TRANSFERE: Arrêté du 13 décembre 2016 - art. 3
+
+	**Nouveaux textes**:
+
+	  - Code de procédure pénale - art. A3 (V)
 
 	**Cité par**:
 
@@ -96484,22 +96508,22 @@ criminelles et des grâces et par le directeur général de la gendarmerie natio
 
 ###### Article A7
 
-Les épreuves de l'examen technique se déroulent dans un ou plusieurs centres organisés par les commandants de légion de
-gendarmerie départementale (ou autorités assimilées) concernés.
+Les épreuves de l'examen technique se déroulent dans un ou plusieurs centres organisés par les commandants de formations
+énumérés à l'article A. 2 concernés. 
 
 Il est interdit aux candidats, sous peine d'exclusion, d'avoir par-devers eux des documents imprimés ou manuscrits ou des
 codes annotés et commentés article par article par des praticiens du droit. Toutefois, ils peuvent consulter des codes ou
 recueils de lois et décrets ; ces derniers peuvent comporter des références à des textes législatifs ou réglementaires ainsi
-qu'à des articles de doctrine ou des décisions de jurisprudence.
+qu'à des articles de doctrine ou des décisions de jurisprudence. 
 
 Toute fraude ou tentative de fraude dans l'une quelconque des épreuves entraîne l'exclusion immédiate de l'examen, prononcée
 sans délai et sans appel, par l'officier surveillant ; le candidat, en dehors d'une sanction disciplinaire, peut ne pas être
-autorisé à se présenter à l'examen les années suivantes.
+autorisé à se présenter à l'examen les années suivantes. 
 
 L'enveloppe renfermant chaque sujet de composition est décachetée, en présence des candidats, à l'ouverture de la séance
-affectée à l'épreuve, par l'officier surveillant.
+affectée à l'épreuve, par l'officier surveillant. 
 
-Toutes les compositions sont faites sur des feuilles fournies par la direction générale de la gendarmerie nationale.
+Toutes les compositions sont faites sur des feuilles fournies par la direction générale de la gendarmerie nationale. 
 
 L'organisation matérielle des épreuves de l'examen technique est assurée par le commandant de légion de gendarmerie
 départementale (ou autorité assimilée) conformément aux directives données par circulaire.
@@ -96512,7 +96536,19 @@ départementale (ou autorité assimilée) conformément aux directives données 
 
 	**Modifié par**:
 
-	  - Arrêté 1992-06-12 art. 1 JORF 9 juillet 1992 en vigueur le 1er octobre 1992
+	  - Arrêté 2005-08-18 art. 2 JORF 1er septembre 2005 en vigueur le 1er juillet 2005
+
+	**Liens**:
+
+	  - TRANSFERE: Arrêté du 13 décembre 2016 - art. 8
+
+	**Cite**:
+
+	  - Code de procédure pénale - art. A2 (V)
+
+	**Nouveaux textes**:
+
+	  - Code de procédure pénale - art. A8 (V)
 
 
 ###### Article A8
