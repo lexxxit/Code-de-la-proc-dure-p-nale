@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 2005-07-06
+Version Consolidée au 2005-07-27
 
 # Partie législative
 
@@ -24220,22 +24220,14 @@ homologation.
 
 Le président du tribunal de grande instance ou le juge délégué par lui entend la personne et son avocat. Après avoir vérifié
 la réalité des faits et leur qualification juridique, il peut décider d'homologuer les peines proposées par le procureur de
-la République. Il statue le jour même par ordonnance motivée. En cas d'homologation, cette ordonnance est lue en audience
-publique.
-
-**Nota:**
-
-
+la République. Il statue le jour même par ordonnance motivée. La procédure prévue par le présent alinéa se déroule en
+audience publique ; la présence du procureur de la République à cette audience n'est pas obligatoire.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Ordonnance 58-1296 1958-12-23
-
-	**Créé par**:
-
-	  - Loi n°2004-204 du 9 mars 2004 - art. 137 () JORF 10 mars 2004 en vigueur le 1er octobre 2004
 
 	**Cité par**:
 
