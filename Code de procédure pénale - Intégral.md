@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 2005-09-01
+Version Consolidée au 2005-09-04
 
 # Partie législative
 
@@ -57471,6 +57471,8 @@ Draguignan (à titre temporaire)
 
 #### Chapitre Ier : Du tribunal correctionnel
 
+##### Section 5 : Du jugement
+
 ###### Article R41-2
 
 Dans le cas prévu par l'alinéa 2 de l'article 470-1, la décision de renvoi de la juridiction pénale désigne la juridiction
@@ -57479,23 +57481,15 @@ civile compétente et précise l'identité des tiers responsables qui paraissent
 Une copie de la décision de renvoi et le dossier de l'affaire sont aussitôt transmis par le secrétariat-greffe à la
 juridiction désignée.
 
-**Nota:**
-
-
-
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°59-318 1959-02-23
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°83-1155 1983-12-23 art. 1 et art. 5 JORF 27 décembre 1983 en vigueur le 1er janvier 1984
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°83-1155 1983-12-23 art. 5
+	  - Décret n°2005-1099 du 2 septembre 2005 - art. 2 () JORF 4 septembre 2005
 
 	**Cité par**:
 
@@ -57508,48 +57502,170 @@ juridiction désignée.
 	  - Code de procédure pénale 470-1 al. 2
 
 
-### Titre III : Du jugement des contraventions
-
-#### Chapitre Ier : De la compétence du tribunal de police
+##### Section 7 : De la procédure simplifiée
 
 ###### Article R41-3
 
-En application de l'article 521, les contraventions suivantes relèvent de la compétence du tribunal de police :
+Dès que le ministère public décide de poursuivre l'exécution de l'ordonnance pénale, le greffier en chef de la juridiction
+notifie l'ordonnance pénale au prévenu par une lettre recommandée avec demande d'avis de réception qui comporte les mentions
+prévues à l'article 495-3. 
 
-1° Diffamation non publique prévue par l'article R. 621-1 du code pénal ;
+Cette lettre indique les délais et modalités d'opposition fixés aux troisième et cinquième alinéas de l'article 495-3 et à
+l'article R. 41-8 ainsi que, en cas de condamnation à une peine d'amende, les délais et modalités de paiement de l'amende. 
 
-2° Injure non publique prévue par l'article R. 621-2 du code pénal ;
+Sauf si ces précisions figurent dans l'ordonnance pénale, cette lettre indique qu'en cas de paiement volontaire de l'amende,
+du droit fixe de procédure et, s'il y a lieu, de la majoration de l'amende, dans le délai d'un mois à compter de la date
+d'envoi, le montant des sommes dues sera diminué de 20 %. 
 
-3° Diffamation non publique présentant un caractère raciste ou discriminatoire prévue par l'article R. 624-3 du code pénal ;
+Ces informations sont également communiquées au prévenu lorsque l'ordonnance pénale lui est notifiée par le procureur de la
+République ou son délégué.
 
-4° Injure non publique présentant un caractère raciste ou discriminatoire prévue par l'article R. 624-4 du code pénal.
+**Nota:**
+
+Décret 2005-1099 du 2 septembre 2005 : Les dispositions du troisième alinéa de l'article R. 41-3 du code de procédure pénale,
+résultant de l'article 3 du décret 2005-1099, entrent en vigueur le 1er octobre 2005 pour les condamnations prononcées à
+compter de cette date.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2005-284 du 25 mars 2005 - art. 5 () JORF 30 mars 2005 en vigueur le 1er avril 2005
-
-	**Transféré par**:
-
-	  - Décret n°2007-1388 du 26 septembre 2007 - art. 10
-
-	**Cite**:
-
-	  - Code pénal - art. R621-1 (V)
-	  - Code pénal - art. R621-2 (V)
-	  - Code pénal - art. R624-3 (M)
-	  - Code pénal - art. R624-4 (M)
-	  - CODE DE PROCEDURE PENALE - art. 521 (M)
-
-	**Nouveaux textes**:
-
-	  - CODE DE PROCEDURE PENALE - art. R41-11 (V)
+	  - Décret n°2005-1099 du 2 septembre 2005 - art. 3 () JORF 4 septembre 2005
 
 	**Cité par**:
 
 	  - CODE DE PROCEDURE PENALE - art. R55-2 (V)
 
+	**Cite**:
+
+	  - Code de procédure pénale - art. 495-3 (V)
+	  - Code de procédure pénale - art. R41-8 (V)
+
+
+###### Article R41-4
+
+Le délai d'opposition de quarante-cinq jours court à compter de la date d'envoi de la lettre recommandée, sous réserve des
+dispositions du cinquième alinéa de l'article 495-3.
+
+En cas de notification par le procureur de la République ou son délégué, ce délai court à compter de cette notification.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2005-1099 du 2 septembre 2005 - art. 3 () JORF 4 septembre 2005
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. 495-3 (M)
+
+
+###### Article R41-5
+
+Le ministère public vérifie les extraits des ordonnances pénales. Il vérifie et vise l'état récapitulatif des ordonnances
+pénales, auquel sont joints les extraits mentionnés dans cet état qui est adressé, par tout moyen, par le greffier en chef au
+comptable du Trésor.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2005-1099 du 2 septembre 2005 - art. 3 () JORF 4 septembre 2005
+
+
+###### Article R41-6
+
+Dans les quarante-cinq jours de la date d'envoi de la lettre recommandée, le prévenu doit acquitter l'amende, le droit fixe
+de procédure et, s'il y a lieu, la majoration de l'amende, en versant leur montant entre les mains du comptable du Trésor, à
+moins qu'il ne fasse opposition.
+
+En cas de notification par le procureur de la République ou son délégué, ce délai court à compter de cette notification.
+
+Dans tous les cas, le prévenu doit, à l'appui du paiement, indiquer au comptable du Trésor les références portées sur
+l'ordonnance.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2005-1099 du 2 septembre 2005 - art. 3 () JORF 4 septembre 2005
+
+
+###### Article R41-7
+
+Si plusieurs délits et contraventions donnent lieu à une seule ordonnance, le prévenu acquitte une seule fois le droit fixe
+de procédure.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2005-1099 du 2 septembre 2005 - art. 3 () JORF 4 septembre 2005
+
+
+###### Article R41-8
+
+L'opposition faite par le prévenu, dans le délai prévu soit au troisième soit au cinquième alinéa de l'article 495-3, est
+formée :
+
+1° Soit par lettre adressée au greffier en chef du tribunal qui a rendu la décision. La lettre doit être expédiée dans le
+délai prescrit, le cachet de la poste faisant foi ;
+
+2° Soit par une déclaration faite au greffier en chef, enregistrée et signée par celui-ci et par le prévenu lui-même ou par
+un avocat ou un fondé de pouvoir spécial. Le pouvoir est annexé à l'acte dressé par le greffier en chef.
+
+Dans les deux cas, le prévenu doit, à l'appui de l'opposition, remettre ou adresser la lettre de notification au greffier en
+chef ou lui faire connaître les références portées sur celle-ci. Les déclarations d'opposition sont inscrites sur un
+registre.
+
+En cas de notification par le procureur de la République ou son délégué, l'opposition peut être faite devant lui à l'issue de
+cette notification, par une mention portée sur l'imprimé de notification de l'ordonnance, signée par le procureur ou son
+délégué et par le prévenu. Le procureur ou son délégué en avise sans délai le greffier en chef.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2005-1099 du 2 septembre 2005 - art. 3 () JORF 4 septembre 2005
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. 495-3 (M)
+
+	**Cité par**:
+
+	  - Code de procédure pénale - art. R41-3 (V)
+	  - Code de procédure pénale - art. R41-3-1 (V)
+
+
+###### Article R41-9
+
+A l'expiration du délai d'opposition, le greffier en chef donne avis au comptable du Trésor des oppositions reçues et de
+l'annulation des extraits correspondants.
+
+En cas d'opposition, le greffier en chef avise sans délai le procureur de la République.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2005-1099 du 2 septembre 2005 - art. 3 () JORF 4 septembre 2005
+
+
+###### Article R41-10
+
+Le comptable du Trésor procède au recouvrement de l'ordonnance pénale à l'expiration du délai de quarante-cinq jours à
+compter de la date d'envoi de la lettre recommandée prévue aux articles 495-3 et R. 41-3 ou de la notification par le
+procureur de la République ou son délégué prévue par ces mêmes articles, à moins qu'il ne soit fait opposition.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2005-1099 du 2 septembre 2005 - art. 3 () JORF 4 septembre 2005
+
+
+### Titre III : Du jugement des contraventions
 
 #### Chapitre II : Procédure simplifiée
 
@@ -57559,20 +57675,25 @@ A l'expiration du délai d'opposition ouvert au ministère public, le chef du gr
 pénale au prévenu par une lettre recommandée avec demande d'avis de réception qui comporte les mentions prévues à l'article
 526 et indique les délais et modalités de paiement et d'opposition fixés aux articles R. 43 à R. 46.
 
+Sauf si ces précisions figurent dans l'ordonnance pénale, cette lettre indique qu'en cas de paiement volontaire de l'amende,
+du droit fixe de procédure et, s'il y a lieu, de la majoration de l'amende, dans le délai d'un mois à compter de sa date
+d'envoi, le montant des sommes dues sera diminué de vingt pour cent.
+
 Les magistrats ou officiers du ministère public vérifient les extraits d'ordonnances pénales. Ils vérifient et visent l'état
 récapitulatif des ordonnances pénales, auquel sont joints les extraits mentionnés dans cet état, qui est adressé par le chef
 du greffe au comptable principal du Trésor.
+
+**Nota:**
+
+NOTA : Décret 2005-1099 du 2 septembre 2005 : Les dispositions du deuxième alinéa de l'article R42 du code de procédure
+pénale, résultant de l'article 4 du décret 2005-1099, entrent en vigueur le 1er octobre 2005 pour les condamnations
+prononcées à compter de cette date.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°59-318 1959-02-23
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°59-318 1959-02-23 art. 5
-	  - TXT_SOURCE: Code de procédure pénale 524 à 528-2
 
 	**Cité par**:
 
@@ -57585,12 +57706,16 @@ du greffe au comptable principal du Trésor.
 
 	**Modifié par**:
 
-	  - Décret n°95-457 du 26 avril 1995 - art. 1 () JORF 28 avril 1995 en vigueur le 1er septembre 1995
+	  - Décret n°2005-1099 du 2 septembre 2005 - art. 4 () JORF 4 septembre 2005
 
 	**Cite**:
 
 	  - CODE DE PROCEDURE PENALE - art. 526 (M)
 	  - Code de procédure pénale 526, R43 à R46
+
+	**Liens**:
+
+	  - TXT_SOURCE: Code de procédure pénale 524 à 528-2
 
 
 ###### Article R43
@@ -62199,7 +62324,257 @@ police judiciaire qui procède à l'audition de la personne, par l'intermédiair
 
 ## Livre V : Des procédures d'exécution.
 
-### Titre Ier : De l'application des peines.
+### Titre Ier : De l'exécution des sentences pénales
+
+#### Chapitre Ier : Diminution de l'amende du fait du paiement volontaire
+
+##### Section 1 : Domaine d'application
+
+###### Article R55
+
+Les dispositions des articles 707-2 et 707-3 relatives à la diminution du montant des amendes en cas de paiement volontaire
+dans le délai d'un mois sont applicables :
+
+1° Aux amendes prononcées par le tribunal de police, par la juridiction de proximité, par le tribunal pour enfants, par le
+tribunal correctionnel ou par la cour d'appel ainsi que par toute autre juridiction répressive à l'encontre d'une personne
+reconnue coupable d'une contravention ou d'un délit, qu'il s'agisse d'une décision contradictoire, d'une décision
+contradictoire à signifier, d'une décision par défaut ou d'une ordonnance pénale ;
+
+2° Aux amendes prononcées par la cour d'assises à l'encontre d'une personne qui est uniquement condamnée pour une
+contravention ou un délit ;
+
+3° Aux amendes homologuées selon la procédure de comparution sur reconnaissance préalable de culpabilité ;
+
+4° Aux jours-amendes, lorsque l'amende est payée dans le délai d'un mois prévu par l'article 707-2, indépendamment de la date
+d'exigibilité résultant de l'application des dispositions de l'article 131-25 du code pénal, qu'il s'agisse d'une décision
+contradictoire, d'une décision contradictoire à signifier ou d'une décision par défaut.
+
+Elles ne sont pas applicables :
+
+1° Aux amendes de composition prévues par le 1° de l'article 41-2 ;
+
+2° Aux amendes forfaitaires prévues par les articles 529 et suivants ;
+
+3° Aux amendes douanières ou aux amendes fiscales.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-318 1959-02-03
+
+	**Modifié par**:
+
+	  - Décret n°2005-1099 du 2 septembre 2005 - art. 5 () JORF 4 septembre 2005
+
+	**Cité par**:
+
+	  - Code de procédure pénale - art. D45-11 (VD)
+
+
+###### Article R55-1
+
+Lorsque la condamnation à une peine d'amende résulte d'une décision contradictoire à signifier ou d'une décision par défaut,
+le délai d'un mois prévu par l'article 707-2 court à compter de la date de la signification.
+
+L'avis prévu par l'article 707-3 figure dans le jugement ou est joint à l'acte de signification.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2005-1099 du 2 septembre 2005 - art. 5 () JORF 4 septembre 2005
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. 707-2 (V)
+	  - CODE DE PROCEDURE PENALE - art. 707-3 (M)
+
+	**Codifié par**:
+
+	  - Décret n°59-318 1959-02-03
+
+
+###### Article R55-2
+
+Lorsque la condamnation à une peine d'amende résulte d'une ordonnance pénale, le délai d'un mois prévu par l'article 707-2
+court à compter de l'envoi de la lettre recommandée prévue par les articles 495-3 et 527 ou de la notification par le
+procureur de la République ou son délégué prévue par l'article 495-3. Dans le cas prévu par l'avant-dernier alinéa des
+articles 495-3 et 527, il court à compter de la date à laquelle la personne a eu connaissance de la condamnation.
+
+L'avis prévu par l'article 707-3 figure dans l'ordonnance pénale ou est joint à la notification de la décision conformément
+aux modalités prévues par les articles R. 41-3 et R. 42.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2005-1099 du 2 septembre 2005 - art. 5 () JORF 4 septembre 2005
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. 495-3 (M)
+	  - CODE DE PROCEDURE PENALE - art. 527 (M)
+	  - CODE DE PROCEDURE PENALE - art. 707-2 (V)
+	  - CODE DE PROCEDURE PENALE - art. 707-3 (M)
+	  - CODE DE PROCEDURE PENALE - art. R41-3 (M)
+	  - CODE DE PROCEDURE PENALE - art. R42 (M)
+
+	**Codifié par**:
+
+	  - Décret n°59-318 1959-02-03
+
+
+###### Article R55-3
+
+La diminution de l'amende prévue par l'article 707-2 ne s'applique qu'en cas de paiement simultané, dans le délai d'un mois,
+de l'amende, du droit fixe de procédure prévu par les dispositions de l'article 1018 A du code général des impôts et, s'il y
+a lieu, de la majoration de l'amende prévue par les articles L. 211-27 et L. 421-8 du code des assurances en cas de
+condamnation pour le délit de défaut d'assurance prévu par l'article L. 324-2 du code de la route ou pour les infractions en
+matière de chasse.
+
+La diminution porte sur l'ensemble des sommes dues.
+
+**Nota:**
+
+
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 1018 A
+	  - CODE DE PROCEDURE PENALE - art. 707-2 (V)
+	  - Code des assurances - art. L211-27 (V)
+	  - Code des assurances - art. L421-8 (M)
+	  - Code de la route. - art. L324-2 (V)
+
+	**Créé par**:
+
+	  - Décret n°2005-1099 du 2 septembre 2005 - art. 5 () JORF 4 septembre 2005
+
+	**Codifié par**:
+
+	  - Décret n°59-318 1959-02-03
+
+
+##### Section 2 : Procédure
+
+###### Article R55-4
+
+En cas de décision contradictoire rendue en présence du condamné ou de son représentant, il est remis à ce dernier à l'issue
+de l'audience, s'il en fait la demande, un relevé de condamnation pénale lui permettant de s'acquitter volontairement de
+l'amende dans le délai d'un mois auprès du comptable du Trésor.
+
+Le condamné peut également demander la délivrance de ce relevé auprès du greffe de la juridiction qui a rendu la décision
+dans le délai d'un mois à compter de son prononcé.
+
+Ce relevé est joint aux décisions contradictoires à signifier et aux décisions rendues par défaut au moment de leur
+signification.
+
+Le modèle du relevé de condamnation est arrêté conjointement par le garde des sceaux, ministre de la justice, et par le
+ministre des finances.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2005-1099 du 2 septembre 2005 - art. 5 () JORF 4 septembre 2005
+
+	**Cité par**:
+
+	  - Code de procédure pénale - art. R55-5 (V)
+
+	**Codifié par**:
+
+	  - Décret n°59-318 1959-02-03
+
+
+###### Article R55-5
+
+Dans le cas prévu par le premier alinéa de l'article R. 55-4, le greffier en chef adresse au comptable du Trésor un
+exemplaire de chaque relevé de condamnation pénale au plus tard le deuxième jour ouvrable suivant le prononcé de la
+décision. 
+
+Dans les autres cas, ce relevé est adressé au comptable du Trésor en même temps qu'il est procédé à la signification ou à la
+notification de la décision. 
+
+Ces relevés sont adressés sous un bordereau d'envoi simplifié, dont le modèle est arrêté conjointement par le garde des
+sceaux, ministre de la justice, et par le ministre des finances. 
+
+L'envoi de ces relevés dispense d'adresser ultérieurement un extrait de la décision lorsque celle-ci est devenue exécutoire.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2005-1099 du 2 septembre 2005 - art. 5 () JORF 4 septembre 2005
+
+	**Cité par**:
+
+	  - CODE DE PROCEDURE PENALE - art. R41-5 (V)
+	  - Code de procédure pénale - art. A38-3 (V)
+	  - Code de procédure pénale - art. D48-33 (V)
+	  - Code de procédure pénale - art. R42 (V)
+	  - Code de procédure pénale - art. R55-6 (V)
+
+	**Cite**:
+
+	  - Code de procédure pénale - art. R55-4 (V)
+
+	**Codifié par**:
+
+	  - Décret n°59-318 1959-02-03
+
+
+##### Section 3 : Voie de recours
+
+###### Article R55-6
+
+Si une voie de recours est exercée contre la décision ayant donné lieu à l'envoi du relevé de condamnation conformément aux
+dispositions de l'article R. 55-5, le greffier en chef en donne avis au comptable du Trésor ainsi que de l'annulation du
+relevé correspondant. 
+
+Cet avis est donné au plus tard le deuxième jour ouvrable suivant l'enregistrement du recours.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-318 1959-02-03
+
+	**Créé par**:
+
+	  - Décret n°2005-1099 du 2 septembre 2005 - art. 5 () JORF 4 septembre 2005
+
+	**Cite**:
+
+	  - Code de procédure pénale - art. R55-5 (V)
+
+
+###### Article R55-7
+
+Si, à la suite de l'exercice d'une voie de recours, la personne qui s'est acquittée volontairement du paiement de l'amende
+demande la restitution des sommes versées conformément aux dispositions du troisième alinéa de l'article 707-2, cette demande
+doit être déposée auprès du comptable du Trésor du département dans le ressort duquel siège la juridiction ayant prononcé
+l'amende.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2005-1099 du 2 septembre 2005 - art. 5 () JORF 4 septembre 2005
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. 707-2 (V)
+
+	**Codifié par**:
+
+	  - Décret n°59-318 1959-02-03
+
+
+#### Chapitre II : De l'application des peines.
 
 ###### Article R57-1
 
@@ -62211,9 +62586,9 @@ Il est mis fin à leurs fonctions et pourvu à leur remplacement dans les mêmes
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°99-818 du 16 septembre 1999 - art. 1 () JORF 19 septembre 1999
+	  - Décret n°2005-1099 du 2 septembre 2005 - art. 5 () JORF 4 septembre 2005
 
 	**Cité par**:
 
@@ -62241,9 +62616,9 @@ parquet.
 
 	  - Décret n°59-318 1959-02-03
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°99-818 du 16 septembre 1999 - art. 1 () JORF 19 septembre 1999
+	  - Décret n°2005-1099 du 2 septembre 2005 - art. 5 () JORF 4 septembre 2005
 
 
 ###### Article R57-3
@@ -62258,7 +62633,7 @@ Le juge de l'application des peines est assisté par le service pénitentiaire d
 
 	**Modifié par**:
 
-	  - Décret n°2001-71 du 29 janvier 2001 - art. 9 () JORF 30 janvier 2001
+	  - Décret n°2005-1099 du 2 septembre 2005 - art. 5 () JORF 4 septembre 2005
 
 
 ###### Article R57-4
@@ -62274,9 +62649,9 @@ révocation de la mesure dont bénéficie le condamné, qui serait de la compét
 
 	  - Décret n°59-318 1959-02-03
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°99-818 du 16 septembre 1999 - art. 1 () JORF 19 septembre 1999
+	  - Décret n°2005-1099 du 2 septembre 2005 - art. 5 () JORF 4 septembre 2005
 
 
 ### Titre II : Des conditions de détention.
