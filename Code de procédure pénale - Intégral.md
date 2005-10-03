@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 2005-09-06
+Version Consolidée au 2005-10-04
 
 # Partie législative
 
@@ -100250,6 +100250,8 @@ Les directeurs d'établissement de santé ;
 
 Le président de la Commission nationale de l'informatique et des libertés ;
 
+Le président de la Haute Autorité de lutte contre les discriminations et pour l'égalité ;
+
 Le Défenseur des enfants ;
 
 Le président de la Commission nationale de déontologie de la sécurité.
@@ -100296,21 +100298,17 @@ Tous membres du Comité des droits de l'homme, Genève.
 
 **Liens relatifs à cet article**
 
+	**Codifié par**:
+
+	  - Arrêté 1959-02-27
+
 	**Modifié par**:
 
-	  - Arrêté 2005-07-11 art. 1 JORF 3 août 2005
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°2001-709 du 31 juillet 2001 - art. 6 (V)
+	  - Arrêté 2005-09-16 art. 1 JORF 4 octobre 2005
 
 	**Cité par**:
 
 	  - Arrêté du 25 avril 2008 - art. 2 (V)
-
-	**Cite**:
-
-	  - CODE DE PROCEDURE PENALE - art. D262. (M)
 
 
 ###### Article A40-1
