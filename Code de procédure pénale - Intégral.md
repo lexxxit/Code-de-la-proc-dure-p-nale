@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 2005-12-13
+Version Consolidée au 2005-12-24
 
 # Partie législative
 
@@ -100612,7 +100612,7 @@ par l'article R. 711-2 du code de l'organisation judiciaire.
 La liste des établissements pénitentiaires classés dans la catégorie des maisons centrales ou comportant un quartier maison
 centrale prévue à l'article D. 71 est fixée comme suit :
 
-Maison centrale d'Arles (Bouches-du-Rhône).
+Quartier maison centrale du centre pénitentiaire d'Arles (Bouches-du-Rhône).
 
 Quartier maison centrale du centre pénitentiaire de Château-Thierry (Aisne).
 
@@ -100644,7 +100644,7 @@ Maison centrale de Saint-Maur (Indre).
 
 	**Modifié par**:
 
-	  - Arrêté 2003-09-17 art. 1 JORF 30 octobre 2003
+	  - Arrêté 2005-12-13 art. 1 JORF 24 décembre 2005
 
 	**Cité par**:
 
@@ -100663,6 +100663,8 @@ centre de détention prévue à l'article D. 72 est fixée comme suit :
 Quartier centre de détention du centre pénitentiaire d'Aiton (Savoie).
 
 Centre de détention d'Argentan (Orne).
+
+Quartier centre de détention pénitentiaire d'Arles (Bouche-du-Rhône).
 
 Quartier centre de détention du centre pénitentiaire d'Avignon-Le Pontet (Vaucluse).
 
@@ -100775,7 +100777,7 @@ Centre de détention de Villenauxe-la-Grande (Aube).
 
 	**Modifié par**:
 
-	  - Arrêté 2005-03-30 art. 1 JORF 7 avril 2005
+	  - Arrêté 2005-12-13 art. 2 JORF 24 décembre 2005
 
 	**Cite**:
 
@@ -100811,8 +100813,6 @@ Centre de semi-liberté de Souffelweyersheim (hommes, femmes) (Bas-Rhin).
 
 Centre de semi-liberté de Toulouse (Haute-Garonne).
 
-Centre de semi-liberté de Villejuif (Val-de-Marne).
-
 **Liens relatifs à cet article**
 
 	**Codifié par**:
@@ -100821,7 +100821,7 @@ Centre de semi-liberté de Villejuif (Val-de-Marne).
 
 	**Modifié par**:
 
-	  - Arrêté 2003-09-17 art. 3 JORF 30 octobre 2003
+	  - Arrêté 2005-12-13 art. 3 JORF 24 décembre 2005
 
 	**Cité par**:
 
@@ -100842,15 +100842,17 @@ Quartier pour peines aménagées du centre pénitentiaire de Marseille (Bouches-
 
 Quartier pour peines aménagées du centre pénitentiaire de Metz (Moselle).
 
+Centre pour peines aménagées de Villejuif (Val-de-Marne).
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Arrêté 1959-02-27
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Arrêté 2003-09-17 art. 4 JORF 30 octobre 2003
+	  - Arrêté 2005-12-13 art. 4 JORF 24 décembre 2005
 
 	**Cite**:
 
