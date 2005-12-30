@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 2005-12-29
+Version Consolidée au 2005-12-31
 
 # Partie législative
 
@@ -79488,6 +79488,54 @@ projet d'aménagement de la peine.
 	  - CODE DE PROCEDURE PENALE - art. D49-29 (M)
 
 
+###### Article D49-41-1
+
+En cas d'appel d'une ordonnance rendue par le juge de l'application des peines en application des dispositions de l'article
+712-5, la copie du dossier individuel du condamné adressé au président de la chambre de l'application des peines de la cour
+d'appel ne comporte que les éléments nécessaires à l'examen de l'appel. En cas d'appel contre une ordonnance de retrait d'un
+crédit de réduction de peine, peut ne figurer au dossier que le rapport d'incident à l'origine du retrait. Le président de la
+chambre de l'application des peines peut demander des pièces supplémentaires s'il l'estime utile.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-322 1959-02-23
+
+	**Créé par**:
+
+	  - Décret n°2005-1632 du 26 décembre 2005 - art. 2 () JORF 27 décembre 2005 en vigueur le 31 décembre 2005
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. 712-5 (V)
+
+
+###### Article D49-41-2
+
+S'il confirme une ordonnance refusant l'octroi d'une permission de sortir, d'une autorisation de sortir sous escorte ou d'une
+réduction de peine supplémentaire, le président de la chambre de l'application des peines de la cour d'appel peut, par une
+décision motivée, décider que le condamné n'est pas recevable à déposer une demande similaire pendant un délai d'un an.
+
+En cas d'appel d'une ordonnance de retrait d'un crédit de réduction de peine, le président peut, sur appel incident du
+parquet ou sur réquisition du procureur général, ordonner un retrait d'une durée plus importante que celle fixée par le juge
+de l'application des peines, dans la limite résultant des dispositions de l'article 721.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-322 1959-02-23
+
+	**Créé par**:
+
+	  - Décret n°2005-1632 du 26 décembre 2005 - art. 2 () JORF 27 décembre 2005 en vigueur le 31 décembre 2005
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. 721 (M)
+
+
 ###### Article D49-42
 
 La chambre de l'application des peines de la cour d'appel statue, au vu du dossier, à la suite d'un débat contradictoire tenu
@@ -79552,6 +79600,28 @@ d'insertion et de probation et, lorsque le condamné est incarcéré, au chef de
 	**Créé par**:
 
 	  - Décret n°2004-1364 du 13 décembre 2004 - art. 3 () JORF 15 décembre 2004 en vigueur le 1er janvier 2005
+
+
+###### Article D49-44-1
+
+Les dispositions du présent code applicables devant la chambre des appels correctionnels et son président, et notamment
+celles relatives aux désistements d'appel ou aux appels tardifs ou devenus sans objet, sont applicables devant la chambre de
+l'application des peines de la cour d'appel et son président, sous réserve des dispositions particulières prévues par le
+présent chapitre ou par les articles 712-11 à 712-22.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-322 1959-02-23
+
+	**Créé par**:
+
+	  - Décret n°2005-1632 du 26 décembre 2005 - art. 3 () JORF 27 décembre 2005 en vigueur le 31 décembre 2005
+
+	**Cite**:
+
+	  - Code de procédure pénale 712-11 à 712-22
 
 
 ##### Section 3 : Dispositions applicables aux mineurs
@@ -84844,8 +84914,7 @@ L'appel de l'ordonnance, qui est porté devant le président de la chambre de l'
 formé conformément aux dispositions de l'article D. 49-39.
 
 Le condamné peut faire appel de l'ordonnance refusant d'homologuer la proposition d'aménagement de peine dans le délai de
-vingt-quatre heures à compter de la notification. Il ne peut faire appel d'une ordonnance refusant d'homologuer une
-proposition de permission de sortir.
+vingt-quatre heures à compter de la notification.
 
 Le procureur de la République peut faire appel des ordonnances d'homologation ou de refus d'homologation dans le délai de
 vingt-quatre heures de leur notification. Il en informe sans délai le juge de l'application des peines, le directeur du
@@ -84867,7 +84936,7 @@ n'est plus tenu de statuer, à l'exception d'une demande de libération conditio
 
 	**Créé par**:
 
-	  - Décret n°2004-1364 du 13 décembre 2004 - art. 35 (V) JORF 15 décembre 2004 en vigueur le 1er janvier 2005
+	  - Décret n°2004-1364 du 13 décembre 2004 - art. 13 () JORF 15 décembre 2004 en vigueur le 31 décembre 2005
 
 	**Cite**:
 
