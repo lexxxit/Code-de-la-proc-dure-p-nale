@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 2006-02-02
+Version Consolidée au 2006-03-26
 
 # Partie législative
 
@@ -65927,7 +65927,10 @@ de la Cour de justice de la République selon les modalités prévues au décret
 21° Les frais des administrateurs ad hoc lorsqu'ils figurent sur la liste prévue à l'article R. 53 ou qu'il a été fait
 application des dispositions de l'article R. 53-6 ;
 
-22° Les indemnités accordées en application de l'article 800-2.
+22° Les indemnités accordées en application de l'article 800-2 ;
+
+23° Les frais correspondant à la fourniture des données conservées en application du II de l'article L. 34-1 du code des
+postes et des communications électroniques.
 
 **Liens relatifs à cet article**
 
@@ -65939,6 +65942,7 @@ application des dispositions de l'article R. 53-6 ;
 
 	  - Loi n°90-1170 1990-12-29 art. 28
 	  - Décret n°95-692 1995-05-09
+	  - Code des postes et des communications électronique - art. L34-1 (M)
 	  - CODE DE PROCEDURE PENALE - art. 149 (M)
 	  - CODE DE PROCEDURE PENALE - art. 150 (M)
 	  - CODE DE PROCEDURE PENALE - art. 375-1 (V)
@@ -65975,7 +65979,7 @@ application des dispositions de l'article R. 53-6 ;
 
 	**Modifié par**:
 
-	  - Décret n°2001-1321 du 27 décembre 2001 - art. 1 () JORF 29 décembre 2001
+	  - Décret n°2006-358 du 24 mars 2006 - art. 3 () JORF 26 mars 2006
 
 
 ###### Article R93
@@ -69286,6 +69290,41 @@ et une indemnité de 0,08 euro par page pour les reproductions délivrées de ce
 	**Modifié par**:
 
 	  - Ordonnance 2000-916 2000-09-19 annexe JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+
+
+##### Section 11 : Des frais des opérateurs de communications électroniques
+
+###### Article R213-1
+
+Les tarifs relatifs aux frais mentionnés au 23° de l'article R. 92 correspondant à la fourniture des données conservées en
+application du II de l'article L. 34-1 du code des postes et des communications électroniques sont fixés par un arrêté du
+ministre de l'économie, des finances et de l'industrie et du garde des sceaux. Cet arrêté distingue les tarifs applicables
+selon les catégories de données et les prestations requises, en tenant compte, le cas échéant, des surcoûts identifiables et
+spécifiques supportés par les opérateurs requis par les autorités judiciaires pour la fourniture de ces données.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-318 1959-02-23
+
+	**Créé par**:
+
+	  - Décret n°2006-358 du 24 mars 2006 - art. 3 () JORF 26 mars 2006
+
+	**Cité par**:
+
+	  - Arrêté du 21 août 2013 (V)
+	  - Arrêté du 14 novembre 2016 (V)
+	  - CODE DE PROCEDURE PENALE - art. A43-2 (T)
+	  - CODE DE PROCEDURE PENALE - art. A43-4 (M)
+	  - Code de procédure pénale - art. A43-9 (V)
+	  - Code des postes et des communications électroni... - art. R10-13 (V)
+
+	**Cite**:
+
+	  - Code des postes et des communications électronique - art. L34-1 (M)
+	  - CODE DE PROCEDURE PENALE - art. R92 (M)
 
 
 #### Chapitre III : Des dépenses assimilées à celles de l'instruction des procès criminels
