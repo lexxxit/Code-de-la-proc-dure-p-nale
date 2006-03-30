@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 2006-03-26
+Version Consolidée au 2006-03-31
 
 # Partie législative
 
@@ -75642,11 +75642,11 @@ techniques mentionnés à l'article 706-96 sont :
 ###### Article D16
 
 L'enquête sur la personnalité des inculpés ainsi que sur leur situation matérielle, familiale ou sociale prévue à l'article
-81, alinéa 6, du Code de procédure pénale et les examens, notamment médical et médico-psychologique, mentionnés à l'alinéa 7
-dudit article, constituent le dossier de personnalité de l'inculpé *définition*.
+81, alinéa 6, du code de procédure pénale et les examens, notamment médical et médico-psychologique, mentionnés à l'alinéa 7
+dudit article, constituent le dossier de personnalité de la personne mise en examen.
 
 Ce dossier a pour objet de fournir à l'autorité judiciaire, sous une forme objective et sans en tirer de conclusion touchant
-à l'affaire en cours, des éléments d'appréciation sur le mode de vie passé et présent de l'inculpé.
+à l'affaire en cours, des éléments d'appréciation sur le mode de vie passé et présent de la personne mise en examen.
 
 Il ne saurait avoir pour but la recherche des preuves de la culpabilité.
 
@@ -75658,7 +75658,11 @@ Il ne saurait avoir pour but la recherche des preuves de la culpabilité.
 
 	**Modifié par**:
 
-	  - Décret n°60-898 1960-08-24 art. 1 JORF 25 août 1960
+	  - Décret n°2006-385 du 30 mars 2006 - art. 22 () JORF 31 mars 2006
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. 81 (M)
 
 	**Cité par**:
 
@@ -75666,33 +75670,28 @@ Il ne saurait avoir pour but la recherche des preuves de la culpabilité.
 	  - Code de procédure pénale - art. D18 (V)
 	  - Code de procédure pénale - art. D19 (V)
 
-	**Liens**:
-
-	  - TXT_SOURCE: Code de procédure pénale 81 al. 5 et al. 6
-
-	**Cite**:
-
-	  - Code de procédure pénale 81 al. 6 et al. 7
-
 
 ###### Article D17
 
 Lorsqu'elles ont à apprécier l'opportunité de requérir ou d'ordonner les enquêtes et examens visés à l'article D. 16, les
-autorités judiciaires tiennent le plus grand compte, notamment :
+autorités judiciaires tiennent le plus grand compte, notamment : 
 
-1° Du fait que l'inculpé est âgé de moins de vingt-cinq ans ;
+1° Du fait que la personne mise en examen est âgée de moins de vingt-cinq ans ; 
 
-2° De sa qualité de récidiviste, spécialement s'il encourt la tutelle pénale (la tutelle pénale a été supprimée par l'article
-70 de la loi n° 81-82 du 2 février 1981 publiée au Journal officiel du 3 février 1981) ;
+2° De sa qualité de récidiviste, spécialement s'il encourt la tutelle pénale (1) ; 
 
-3° De la nature du délit (coups et blessures volontaires, délits sexuels, incendie volontaire) ;
+3° De la nature du délit (coups et blessures volontaires, délits sexuels, incendie volontaire) ; 
 
 4° De la possibilité de prononcer la déchéance de l'autorité parentale, en application des articles 1er et 2 de la loi du 24
-juillet 1889 (dispositions abrogées par l'article 18 de la loi n° 70-459 du 4 juin 1970 publiée au Journal officiel du 5 juin
-1970 - cf. les articles 378 et 378-1 du code civil) ;
+juillet 1889 ; 
 
 5° De l'éventualité d'une décision de sursis avec mise à l'épreuve ou d'admission au régime de semi-liberté conformément aux
 dispositions de l'article 723-1.
+
+**Nota:**
+
+(1) (la tutelle pénale a été supprimée par l'article 70 de la loi 81-82 du 2 février 1981, publiée au Journal officiel du 3
+février 1981).
 
 **Liens relatifs à cet article**
 
@@ -75700,13 +75699,14 @@ dispositions de l'article 723-1.
 
 	  - Décret n°58-1304 1958-12-23
 
-	**Liens**:
-
-	  - TXT_SOURCE: CODE DE PROCEDURE PENALE - art. 81 (M)
-
 	**Modifié par**:
 
-	  - Décret n°72-582 1972-09-12 art. 1 JORF 20 septembre 1972 rectificatif JORF 14 octobre 1972
+	  - Décret n°2006-385 du 30 mars 2006 - art. 22 () JORF 31 mars 2006
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. 723-1 (V)
+	  - CODE DE PROCEDURE PENALE - art. D16 (V)
 
 
 ###### Article D18
@@ -75739,8 +75739,9 @@ procureur général et au président de la chambre d'instruction.
 
 ###### Article D19
 
-Dans les cas où il apparaît nécessaire de soumettre à une expertise psychiatrique un inculpé qui a fait l'objet d'une enquête
-ou d'un examen mentionnés à l'article D. 16, le dossier de personnalité peut être communiqué, en tout ou partie, à l'expert.
+Dans les cas où il apparaît nécessaire de soumettre à une expertise psychiatrique une personne mise en examen qui a fait
+l'objet d'une enquête ou d'un examen mentionnés à l'article D. 16, le dossier de personnalité peut être communiqué, en tout
+ou partie, à l'expert.
 
 **Liens relatifs à cet article**
 
@@ -75748,14 +75749,13 @@ ou d'un examen mentionnés à l'article D. 16, le dossier de personnalité peut 
 
 	  - Décret n°58-1304 1958-12-23
 
-	**Liens**:
+	**Modifié par**:
 
-	  - SPEC_APPLI: Décret n°58-1304 1958-12-23 art. 6
-	  - TXT_SOURCE: Code de procédure pénale 81 al. 5 et al. 6
+	  - Décret n°2006-385 du 30 mars 2006 - art. 22 () JORF 31 mars 2006
 
 	**Cite**:
 
-	  - CODE DE PROCEDURE PENALE - art. D16 (M)
+	  - Code de procédure pénale - art. D16 (V)
 
 
 ###### Article D23
@@ -75938,41 +75938,41 @@ La désignation définitive du juge d'instruction intervient dans les vingt-quat
 
 ###### Article D31
 
-Les dispositions du présent paragraphe ne sont pas applicables :
+Les dispositions du présent paragraphe ne sont pas applicables : 
 
-1° Lorsqu'il n'existe qu'un juge d'instruction ;
+1° Lorsqu'il n'existe qu'un juge d'instruction ; 
 
-2° Lorsqu'il s'agit d'une information comportant un inculpé mineur de dix-huit ans et qu'il n'existe qu'un juge d'instruction
-chargé spécialement des affaires concernant les mineurs désignés conformément à l'article 4, pénultième alinéa, de
-l'ordonnance du 2 février 1945, modifiée, relative à l'enfance délinquante ;
+2° Lorsqu'il s'agit d'une information comportant une personne mise en examen mineure de dix-huit ans et qu'il n'existe qu'un
+juge d'instruction chargé spécialement des affaires concernant les mineurs désignés conformément à l'article 4, pénultième
+alinéa, de l'ordonnance du 2 février 1945, modifiée, relative à l'enfance délinquante ; 
 
-3° Lorsque le juge d'instruction présent sur les lieux d'un crime ou délit flagrant est saisi en vertu de l'article 72,
-dernier alinéa, du Code de procédure pénale.
+3° Lorsque le juge d'instruction présent sur les lieux d'un crime ou délit flagrant est saisi en vertu de l'article 72 du
+code de procédure pénale.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - Ordonnance n°45-174 du 2 février 1945 - art. 4 (M)
-	  - Code de procédure pénale 72 al. 5
+	  - Ordonnance n°45-174 du 2 février 1945 (V)
+	  - CODE DE PROCEDURE PENALE - art. 72 (V)
 
 	**Codifié par**:
 
 	  - Décret n°58-1304 1958-12-23
 
-	**Liens**:
+	**Modifié par**:
 
-	  - SPEC_APPLI: Décret n°58-1304 1958-12-23 art. 6
+	  - Décret n°2006-385 du 30 mars 2006 - art. 22 () JORF 31 mars 2006
 
 
 ##### Section 2 : De la constitution de partie civile et de ses effets
 
 ###### Article D32
 
-Quand, après une information ouverte sur constitution de partie civile, une décision de non-lieu a été rendue, l'inculpé et
-toute personne visée dans la plainte peut se faire délivrer par le procureur de la République, une expédition de la plainte
-et de la décision de non-lieu en vue de l'application éventuelle des dispositions de l'article 91 du code de procédure
-pénale.
+Quand, après une information ouverte sur constitution de partie civile, une décision de non-lieu a été rendue, la personne
+mise en examen et toute personne visée dans la plainte peut se faire délivrer par le procureur de la République, une
+expédition de la plainte et de la décision de non-lieu en vue de l'application éventuelle des dispositions de l'article 91 du
+code de procédure pénale.
 
 **Liens relatifs à cet article**
 
@@ -75980,18 +75980,17 @@ pénale.
 
 	  - Décret n°58-1304 1958-12-23
 
-	**Liens**:
+	**Modifié par**:
 
-	  - SPEC_APPLI: Décret n°58-1304 1958-12-23 art. 6
-	  - TXT_SOURCE: CODE DE PROCEDURE PENALE - art. 91 (M)
-
-	**Cite**:
-
-	  - CODE DE PROCEDURE PENALE - art. 91 (M)
+	  - Décret n°2006-385 du 30 mars 2006 - art. 22 () JORF 31 mars 2006
 
 	**Cité par**:
 
 	  - CODE DE PROCEDURE PENALE - art. R155 (M)
+
+	**Cite**:
+
+	  - Code de procédure pénale - art. 91 (V)
 
 
 ##### Section 3 : Instructions et renseignements donnés par l'autorité judiciaire
@@ -76141,10 +76140,10 @@ armées (sous-direction de la gendarmerie) et au préfet de police (direction de
 ###### Article D36
 
 S'il y a urgence, la commission rogatoire peut être diffusée par tous moyens, et notamment par la voie télégraphique,
-conformément à l'article 155, alinéa 2, du Code de procédure pénale.
+conformément à l'article 155, alinéa 2, du code de procédure pénale. 
 
-Le télégramme ou le message doit préciser les mentions essentielles de l'original, et spécialement la nature de
-l'inculpation, le nom et la qualité du magistrat mandant.
+Le télégramme ou le message doit préciser les mentions essentielles de l'original, et spécialement la qualification des faits
+objet de l'information, le nom et la qualité du magistrat mandant. 
 
 Il porte également, le cas échéant, l'indication des autorités qui en ont assuré la transmission ainsi que le numéro
 d'enregistrement.
@@ -76155,18 +76154,13 @@ d'enregistrement.
 
 	  - Décret n°58-1304 1958-12-23
 
-	**Liens**:
+	**Modifié par**:
 
-	  - SPEC_APPLI: Décret n°58-1304 1958-12-23 art. 6
-	  - TXT_SOURCE: CODE DE PROCEDURE PENALE - art. 151 (V)
-	  - TXT_SOURCE: CODE DE PROCEDURE PENALE - art. 152 (M)
-	  - TXT_SOURCE: CODE DE PROCEDURE PENALE - art. 153 (M)
-	  - TXT_SOURCE: CODE DE PROCEDURE PENALE - art. 154 (M)
-	  - TXT_SOURCE: CODE DE PROCEDURE PENALE - art. 155 (M)
+	  - Décret n°2006-385 du 30 mars 2006 - art. 22 () JORF 31 mars 2006
 
 	**Cite**:
 
-	  - Code de procédure pénale 155 al. 2
+	  - Code de procédure pénale - art. 155 (V)
 
 
 #### Chapitre II : De la chambre d'instruction : juridiction d'instruction du second degré
@@ -78208,7 +78202,8 @@ peines et, pour les peines d'amende, du Trésor, qui tendent à son exécution.
 
 ###### Article D49
 
-Pour le fonctionnement de son cabinet, le juge de l'application des peines est doté d'un secrétariat-greffe.
+Pour le fonctionnement de son cabinet, le juge de l'application des peines est doté d'un secrétariat-greffe conformément aux
+dispositions de l'article 712-2.
 
 Les fonctions de secrétaire et de greffier du juge de l'application des peines sont remplies par un greffier du tribunal de
 grande instance.
@@ -78219,9 +78214,13 @@ grande instance.
 
 	  - Décret n°59-322 1959-02-23
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2004-1364 du 13 décembre 2004 - art. 3 () JORF 15 décembre 2004 en vigueur le 1er janvier 2005
+	  - Décret n°2006-385 du 30 mars 2006 - art. 20 () JORF 31 mars 2006
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. 712-2 (M)
 
 
 ###### Article D49-1
@@ -78864,15 +78863,18 @@ des peines ou le président du tribunal de l'application des peines.
 Le jugement est rendu en chambre du conseil.
 
 Si la décision est rendue immédiatement, une copie du jugement est remise au condamné, ainsi que, le cas échéant, à son
-avocat, contre émargement au dossier de la procédure.
+avocat, contre émargement au dossier de la procédure sauf dans le cas où la copie du jugement n'est pas immédiatement
+disponible.
 
 Si la décision a été mise en délibéré, le jugement est notifié au condamné détenu par le chef de l'établissement
 pénitentiaire qui lui en remet une copie contre émargement ; si le condamné n'est pas détenu, copie du jugement lui est
 adressée par lettre recommandée ; une copie du jugement est également adressée par lettre recommandée ou par télécopie à
 l'avocat du condamné ; lorsqu'il s'agit d'un jugement révoquant ou retirant une mesure, la copie du jugement adressée au
-condamné non détenu l'est par lettre recommandée avec demande d'avis de réception.
+condamné non détenu l'est par lettre recommandée avec demande d'avis de réception. Les dispositions du présent alinéa sont
+également applicables lorsque la copie du jugement rendu dans les circonstances prévues par le deuxième alinéa n'est pas
+immédiatement disponible.
 
-Dès qu'il est rendu, le jugement est notifié au ministère public. Une copie en est adressée au directeur du service
+Dès qu'il est rendu, le jugement est notifié au procureur de la République. Une copie en est adressée au directeur du service
 pénitentiaire d'insertion et de probation et, lorsque le condamné est incarcéré, au chef de l'établissement pénitentiaire.
 
 **Liens relatifs à cet article**
@@ -78883,7 +78885,7 @@ pénitentiaire d'insertion et de probation et, lorsque le condamné est incarcé
 
 	**Modifié par**:
 
-	  - Décret n°2005-163 du 23 février 2005 - art. 8 () JORF 24 février 2005
+	  - Décret n°2006-385 du 30 mars 2006 - art. 20 () JORF 31 mars 2006
 
 	**Cité par**:
 
@@ -79027,18 +79029,15 @@ afin d'apprécier sa dangerosité et le risque de récidive.
 A cette fin, le juge peut également demander une expertise psychiatrique ou psychologique de l'intéressé, notamment si celui-
 ci a été condamné pour crime.
 
-Les dispositions du premier alinéa sont obligatoires si la personne est condamnée pour un crime ou pour un délit puni d'au
-moins dix ans d'emprisonnement, lorsque cette infraction a été commise en état de récidive légale.
-
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°59-322 1959-02-23
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2004-1364 du 13 décembre 2004 - art. 3 () JORF 15 décembre 2004 en vigueur le 1er janvier 2005
+	  - Décret n°2006-385 du 30 mars 2006 - art. 20 () JORF 31 mars 2006
 
 	**Cite**:
 
@@ -79128,6 +79127,26 @@ conformément aux dispositions du présent article lorsqu'elles concernent un co
 	  - CODE DE PROCEDURE PENALE - art. R69 (M)
 
 
+###### Article D49-26-1
+
+La remise en liberté prévue par le deuxième alinéa de l'article 712-18 entraîne de plein droit la remise à exécution de la
+mesure d'aménagement de peine dont le condamné faisait l'objet.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-322 1959-02-23
+
+	**Créé par**:
+
+	  - Décret n°2006-385 du 30 mars 2006 - art. 20 () JORF 31 mars 2006
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. 712-18 (V)
+
+
 ##### Paragraphe 2 : Dispositions relatives au juge de l'application des peines
 
 ###### Article D49-27
@@ -79177,15 +79196,18 @@ l'égard des tiers au secret pour tout ce qui concerne ses travaux.
 
 En l'absence de l'un de ses membres de droit, la commission de l'application des peines n'est pas valablement réunie.
 
+Le chef d'établissement peut être représenté au sein de la commission de l'application des peines par un membre du personnel
+de direction.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°59-322 1959-02-23
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2004-1364 du 13 décembre 2004 - art. 3 () JORF 15 décembre 2004 en vigueur le 1er janvier 2005
+	  - Décret n°2006-385 du 30 mars 2006 - art. 20 () JORF 31 mars 2006
 
 	**Cite**:
 
@@ -79515,15 +79537,18 @@ Le délai d'appel de 24 heures prévu par le 1° de l'article 712-11 expire à m
 notifiée. Lorsque l'ordonnance est notifiée par lettre recommandée, ce délai expire à minuit le lendemain du jour de la
 signature de l'avis de réception ; à défaut de signature, ce délai commence à courir quinze jours après l'envoi de la lettre.
 
+En cas d'appel du condamné, le ministère public dispose d'un délai supplémentaire de 24 heures ou de cinq jours pour former
+appel incident, selon que l'appel porte sur une ordonnance ou un jugement du juge de l'application des peines.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°59-322 1959-02-23
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2004-1364 du 13 décembre 2004 - art. 3 () JORF 15 décembre 2004 en vigueur le 1er janvier 2005
+	  - Décret n°2006-385 du 30 mars 2006 - art. 16 () JORF 31 mars 2006
 
 	**Cite**:
 
@@ -79567,9 +79592,9 @@ minuit, le lendemain du jour où la décision a été notifiée.
 En cas d'appel, une copie du dossier individuel du condamné et de la décision du juge ou du tribunal de l'application des
 peines est transmise à la chambre de l'application des peines de la cour d'appel ou à son président.
 
-A l'appui de son appel, le condamné ou son avocat peut adresser des observations écrites au président ou à la chambre. Ces
-observations doivent être adressées un mois au plus tard après la date de l'appel, sauf dérogation accordée par le président
-de la juridiction.
+A l'appui de son appel, le condamné ou son avocat peut adresser des observations écrites au président ou à la chambre. Hors
+le cas de l'urgence, ces observations doivent être adressées un mois au plus tard après la date de l'appel, sauf dérogation
+accordée par le président de la juridiction.
 
 Pendant l'instance d'appel, les dispositions de l'article D. 49-29 relatives à la communication du dossier individuel du
 condamné sont applicables.
@@ -79584,9 +79609,9 @@ projet d'aménagement de la peine.
 
 	  - Décret n°59-322 1959-02-23
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2004-1364 du 13 décembre 2004 - art. 3 () JORF 15 décembre 2004 en vigueur le 1er janvier 2005
+	  - Décret n°2006-385 du 30 mars 2006 - art. 20 () JORF 31 mars 2006
 
 	**Cite**:
 
@@ -80490,7 +80515,7 @@ qu'elle peut informer ce magistrat en cas de violation par le condamné de ses o
 
 Le juge de l'application des peines peut informer la victime de la mise à exécution d'une peine d'emprisonnement faisant
 l'objet d'une mesure d'aménagement conformément aux dispositions de l'article 723-15, sauf s'il a été fait application des
-dispositions des articles D. 49-64 ou D. 49-73.
+dispositions des articles D. 49-72 ou D. 49-73.
 
 **Liens relatifs à cet article**
 
@@ -80498,14 +80523,14 @@ dispositions des articles D. 49-64 ou D. 49-73.
 
 	  - Décret n°59-322 1959-02-23
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2004-1364 du 13 décembre 2004 - art. 3 () JORF 15 décembre 2004 en vigueur le 1er janvier 2005
+	  - Décret n°2006-385 du 30 mars 2006 - art. 20 () JORF 31 mars 2006
 
 	**Cite**:
 
 	  - CODE DE PROCEDURE PENALE - art. 723-15 (V)
-	  - CODE DE PROCEDURE PENALE - art. D49-64 (M)
+	  - CODE DE PROCEDURE PENALE - art. D49-72 (M)
 	  - CODE DE PROCEDURE PENALE - art. D49-73 (M)
 
 
@@ -80514,7 +80539,7 @@ dispositions des articles D. 49-64 ou D. 49-73.
 Le procureur de la République ou le procureur général, lorsqu'il ramène à exécution une peine d'emprisonnement dans le cas
 prévu par l'article 723-16 ou après que le juge de l'application des peines lui a retourné l'extrait de jugement dans le cas
 prévu par le dernier alinéa de l'article 723-15, peut en informer la victime, sauf s'il a été fait application des
-dispositions des articles D. 49-64 ou D. 49-73.
+dispositions des articles D. 49-72 ou D. 49-73.
 
 Si la victime a obtenu une condamnation à des dommages et intérêts et que le ministère public a fait application des
 dispositions de l'article D. 325, elle peut être avisée de sa possibilité de demander le versement des sommes susceptibles de
@@ -80526,16 +80551,16 @@ figurer dans le compte nominatif du détenu et affectées à l'indemnisation des
 
 	  - Décret n°59-322 1959-02-23
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2004-1364 du 13 décembre 2004 - art. 3 () JORF 15 décembre 2004 en vigueur le 1er janvier 2005
+	  - Décret n°2006-385 du 30 mars 2006 - art. 20 () JORF 31 mars 2006
 
 	**Cite**:
 
 	  - CODE DE PROCEDURE PENALE - art. 723-15 (V)
 	  - CODE DE PROCEDURE PENALE - art. 723-16 (V)
 	  - CODE DE PROCEDURE PENALE - art. D325. (M)
-	  - CODE DE PROCEDURE PENALE - art. D49-64 (M)
+	  - CODE DE PROCEDURE PENALE - art. D49-72 (M)
 	  - CODE DE PROCEDURE PENALE - art. D49-73 (M)
 
 
@@ -80598,6 +80623,43 @@ exécution de cette peine.
 	  - CODE DE PROCEDURE PENALE - art. D49-72 (M)
 
 
+###### Article D49-74
+
+Lorsque l'avocat de la partie civile a fait connaître au juge de l'application des peines, par déclaration au greffe ou par
+lettre recommandée avec demande d'avis de réception, qu'il souhaitait présenter des observations devant le tribunal de
+l'application des peines conformément aux dispositions du dernier alinéa de l'article 712-7, il est avisé de la date à
+laquelle se tiendra le débat contradictoire par lettre recommandée ou par télécopie au plus tard dix jours avant ce débat.
+
+Il en est de même pour le débat devant la chambre de l'application des peines de la cour d'appel, en application des
+dispositions du dernier alinéa de l'article 712-13.
+
+**Nota:**
+
+NOTA : Décret n° 2006-385 du 30 mars 2006 art. 17 II : Les dossiers détenus à la date du 1er mai 2006 par les juges de
+l'application des peines compétents en application de l'article  712-10 sont transférés au juge de l'application des peines
+de Paris. Les procédures en cours d'examen mais sur lesquelles il n'a pas encore été statué sont transférées, selon les cas,
+au juge de l'application des peines du tribunal de grande instance de Paris, au tribunal de l'application des peines de Paris
+ou à la chambre de l'application des peines de Paris. Les délais impartis à ces juridictions pour statuer recommencent à
+courir à compter du 1er mai 2006.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-322 1959-02-23
+
+	**Cite**:
+
+	  - Décret n°2006-385 2006-03-30
+	  - CODE DE PROCEDURE PENALE - art. 712-10 (V)
+	  - CODE DE PROCEDURE PENALE - art. 712-13 (M)
+	  - CODE DE PROCEDURE PENALE - art. 712-7 (M)
+
+	**Créé par**:
+
+	  - Décret n°2006-385 du 30 mars 2006 - art. 17 (V) JORF 31 mars 2006
+
+
 ### Titre II : De la détention
 
 ###### Article D50
@@ -80642,29 +80704,29 @@ les prévenus, et les accusés, que les condamnés ayant formé opposition, appe
 
 ###### Article D51
 
-L'expression "magistrat saisi du dossier de l'information" [*définition*] désigne dans le présent titre, selon le cas et
-conformément aux règles de la procédure pénale, le juge d'instruction ou le juge des enfants, le procureur de la République,
-le président de la cour d'assises, le procureur général près la cour d'appel, et éventuellement le procureur général près la
-Cour de cassation.
+L'expression "magistrat saisi du dossier de l'information" désigne dans le présent titre, selon le cas et conformément aux
+règles de la procédure pénale, le juge d'instruction ou le juge des enfants, le procureur de la République, le président de
+la chambre de l'instruction, le président de la cour d'assises, le procureur général près la cour d'appel, et éventuellement
+le procureur général près la Cour de cassation.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°59-322 1959-02-23
+	  - Décret n°59-322 du 23 février 1959
 
 	**Modifié par**:
 
-	  - Décret n°83-48 1983-01-26 art. 1 JORF 28 janvier 1983
+	  - Décret n°2006-385 du 30 mars 2006 - art. 20 () JORF 31 mars 2006
+
+	**Abrogé par**:
+
+	  - Décret n°2010-1635 du 23 décembre 2010 - art. 46
 
 	**Cité par**:
 
 	  - CODE DE PROCEDURE PENALE - art. D47-19 (V)
 	  - CODE DE PROCEDURE PENALE - art. D52 (V)
-
-	**Liens**:
-
-	  - TXT_SOURCE: Code de procédure pénale 714 à 728
 
 
 ###### Article D52
@@ -80719,278 +80781,829 @@ que l'autorité judiciaire le requiert.
 
 ###### Article D54
 
-Il y a une maison d'arrêt auprès de chaque cour d'assises. Toutefois, les accusés ressortissant aux cours d'assises du Gers
-et de la Haute-Savoie sont retenus respectivement à la maison d'arrêt d'Agen et à la maison d'arrêt de Bonneville.
+Il y a une maison d'arrêt auprès de chaque cour d'assises. Toutefois, les accusés ressortissant aux cours d'assises du Gers,
+de la Haute-Savoie et de Seine-et-Marne sont retenus respectivement à la maison d'arrêt d'Agen, à la maison d'arrêt de
+Bonneville et au quartier maison d'arrêt du centre pénitentiaire de Meaux-Chauconin-Neufmontiers ou à la maison d'arrêt de
+Fleury-Mérogis.
 
 La liste des tribunaux de grande instance auprès desquels il n'y a pas de maison d'arrêt est fixée conformément au tableau
 ci-dessous, qui détermine en outre la ou les maisons d'arrêt où sont retenus les prévenus ou appelants ressortissant à ces
 juridictions.
 
-I- COURS D'APPEL
+<table>
+  <tbody>
+    <tr>
+      <td width="166">
 
-II- JURIDICTIONS
+COURS D'APPEL
 
-III- PRISONS DE RATTACHEMENT
+</td>
+      <td width="130">
 
-I- Agen
+JURIDICTIONS
 
-II- Auch
+</td>
+      <td width="199">
 
-III- Agen. 
+PRISONS DE RATTACHEMENT
 
-II- Marmande
+</td>
+    </tr>
+    <tr>
+      <td width="166" valign="top">
 
-III- Agen.  
+Agen
 
-I- Aix-en-Provence
+</td>
+      <td valign="top" width="130">
 
-II- Tarascon
+Auch
 
-III- Avignon - Le Pontet.  
+</td>
+      <td valign="top" width="199">
 
-I- Amiens
+Agen
 
-II- Abbeville
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="166">
+      </td><td width="130" valign="top">
 
-III- Amiens. 
+Marmande
 
-II- Péronne
+</td>
+      <td width="199" valign="top">
 
-III- Amiens. 
+Agen
 
-II- Saint-Quentin
+</td>
+    </tr>
+    <tr>
+      <td width="166" valign="top">
 
-III- Laon. 
+Aix-en-Provence
 
-II- Senlis
+</td>
+      <td valign="top" width="130">
 
-III- Liancourt. 
+Tarascon
 
-II- Soissons
+</td>
+      <td width="199" valign="top">
 
-III- Laon.  
+Avignon - Le Pontet
 
-I- Angers
+</td>
+    </tr>
+    <tr>
+      <td width="166" valign="top">
 
-II- Saumur
+Amiens
 
-III- Angers.  
+</td>
+      <td valign="top" width="130">
 
-I- Besançon
+Abbeville
 
-II- Dole
+</td>
+      <td width="199" valign="top">
 
-III- Besançon.  
+Amiens
 
-I- Bordeaux
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="166">
+      </td><td valign="top" width="130">
 
-II- Bergerac
+Péronne
 
-III- Périgueux. 
+</td>
+      <td valign="top" width="199">
 
-II- Libourne
+Amiens
 
-III- Bordeaux-Gradignan.  
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="166">
+      </td><td valign="top" width="130">
 
-I- Caen
+Saint-Quentin
 
-II- Argentan
+</td>
+      <td valign="top" width="199">
 
-III- Alençon et Caen. 
+Laon
 
-II- Avranches
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="166">
+      </td><td valign="top" width="130">
 
-III- Saint-Malo et Coutances. 
+Senlis
 
-II- Lisieux
+</td>
+      <td width="199" valign="top">
 
-III- Caen.  
+Liancourt
 
-I- Chambéry
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="166">
+      </td><td valign="top" width="130">
 
-II- Anneçy
+Soissons
 
-III- Bonneville. 
+</td>
+      <td width="199" valign="top">
 
-II- Thonon-les-Bains
+Laon
 
-III- Bonneville.  
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="166">
 
-I- Colmar
+Angers
 
-II- Saverne
+</td>
+      <td width="130" valign="top">
 
-III- Strasbourg.  
+Saumur
 
-I- Dijon
+</td>
+      <td valign="top" width="199">
 
-II- Mâcon
+Angers
 
-III- Varennes-le-Grand.  
+</td>
+    </tr>
+    <tr>
+      <td width="166" valign="top">
 
-I- Douai
+Besançon
 
-II- Boulogne-sur-Mer
+</td>
+      <td valign="top" width="130">
 
-III- Longuenesse. 
+Dole
 
-II- Cambrai
+</td>
+      <td valign="top" width="199">
 
-III- Douai. 
+Besançon
 
-II- Hazebrouck
+</td>
+    </tr>
+    <tr>
+      <td width="166" valign="top">
 
-III- Longuenesse.  
+Bordeaux
 
-I- Grenoble
+</td>
+      <td valign="top" width="130">
 
-II- Bourgoin-Jallieu
+Bergerac
 
-III- Saint-Quentin-Fallavier.
+</td>
+      <td width="199" valign="top">
 
-I- Limoges
+Périgueux
 
-II- Brive-la-Gaillarde
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="166">
+      </td><td width="130" valign="top">
 
-III- Tulle.  
+Libourne
 
-I- Lyon
+</td>
+      <td valign="top" width="199">
 
-II- Belley
+Bordeaux-Gradignan
 
-III- Chambéry. 
+</td>
+    </tr>
+    <tr>
+      <td width="166" valign="top">
 
-II- Montbrizon
+Caen
 
-III- Saint-Etienne - La Talaudière. 
+</td>
+      <td width="130" valign="top">
 
-II- Roanne
+Argentan
 
-III- Villefranche-sur-Saône et Saint-Etienne - La Talaudière.
+</td>
+      <td valign="top" width="199">
 
-I- Metz
+Alençon et Caen
 
-II- Thionville
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="166">
+      </td><td width="130" valign="top">
 
-III- Metz.  
+Avranches
 
-I- Montpellier
+</td>
+      <td width="199" valign="top">
 
-II- Narbonne
+Saint-Malo et Coutances
 
-III- Carcassonne. 
+</td>
+    </tr>
+    <tr>
+      <td width="166" valign="top">
+      </td><td valign="top" width="130">
 
-II- Millau
+Lisieux
 
-III- Rodez.  
+</td>
+      <td valign="top" width="199">
 
-I- Nancy
+Caen
 
-II- Briey
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="166">
 
-III- Metz. 
+Chambéry
 
-II- Saint-Dié
+</td>
+      <td width="130" valign="top">
 
-III- Epinal. 
+Annecy
 
-II- Verdun
+</td>
+      <td width="199" valign="top">
 
-III- Bar-le-Duc.  
+Bonneville
 
-I- Nîmes
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="166">
+      </td><td valign="top" width="130">
 
-II- Alès
+Thonon-les-Bains
 
-III- Nîmes. 
+</td>
+      <td valign="top" width="199">
 
-II- Carpentras
+Bonneville
 
-III- Avignon - Le Pontet.  
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="166">
 
-I- Orléans
+Colmar
 
-II- Montargis
+</td>
+      <td valign="top" width="130">
 
-III- Orléans.  
+Saverne
 
-I- Paris
+</td>
+      <td valign="top" width="199">
 
-II- Fontainebleau
+Strasbourg
 
-III- Melun et Fleury-Mérogis. 
+</td>
+    </tr>
+    <tr>
+      <td width="166" valign="top">
 
-II- Sens
+Dijon
 
-III- Auxerre.  
+</td>
+      <td width="130" valign="top">
 
-I- Pau
+Mâcon
 
-II- Dax
+</td>
+      <td width="199" valign="top">
 
-III- Bayonne et Mont-de-Marsan.  
+Varennes-le-Grand
 
-I- Poitiers
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="166">
 
-II- La Rochelle
+Douai
 
-III- Fontenay-le-Comte. 
+</td>
+      <td width="130" valign="top">
 
-II- Bressuire
+Boulogne-sur-Mer
 
-III- Fontenay-le-Comte. 
+</td>
+      <td width="199" valign="top">
 
-II- Les Sables-d'Olonne
+Longuenesse
 
-III- La Roche-sur-Yon.  
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="166">
+      </td><td valign="top" width="130">
 
-I- Rennes
+Cambrai
 
-II- Dinan
+</td>
+      <td width="199" valign="top">
 
-III- Saint-Malo. 
+Douai
 
-II- Guingamp
+</td>
+    </tr>
+    <tr>
+      <td width="166" valign="top">
+      </td><td width="130" valign="top">
 
-III- Saint-Brieuc. 
+Hazebrouck
 
-II- Morlaix
+</td>
+      <td width="199" valign="top">
 
-III- Brest et Saint-Brieuc. 
+Longuenesse
 
-II- Quimper
+</td>
+    </tr>
+    <tr>
+      <td width="166" valign="top">
 
-III- Brest et Lorient-Ploemeur. 
+Grenoble
 
-II- Saint-Nazaire
+</td>
+      <td width="130" valign="top">
 
-III- Nantes.  
+Bourgoin-Jallieu
 
-I- Riom
+</td>
+      <td width="199" valign="top">
 
-II- Cusset
+Saint-Quentin-Fallavier
 
-III- Moulins-Yzeure.  
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="166">
 
-I- Rouen
+Limoges
 
-II- Bernay
+</td>
+      <td width="130" valign="top">
 
-III- Evreux. 
+Brive-la-Gaillarde
 
-II- Dieppe
+</td>
+      <td valign="top" width="199">
 
-III- Rouen et Caen.  
+Tulle
 
-I- Toulouse
+</td>
+    </tr>
+    <tr>
+      <td width="166" valign="top">
 
-II- Saint-Gaudens
+Lyon
 
-III- Toulouse-Seysses. 
+</td>
+      <td valign="top" width="130">
 
-II- Castres
+Belley
 
-III- Albi et Toulouse-Seysses.
+</td>
+      <td width="199" valign="top">
+
+Chambéry
+
+</td>
+    </tr>
+    <tr>
+      <td width="166" valign="top">
+      </td><td valign="top" width="130">
+
+Montbrizon
+
+</td>
+      <td width="199" valign="top">
+
+Saint-Etienne - La Talaudière
+
+</td>
+    </tr>
+    <tr>
+      <td width="166" valign="top">
+      </td><td valign="top" width="130">
+
+Roanne
+
+</td>
+      <td valign="top" width="199">
+
+Villefranche-sur-Saône et Saint-Etienne - La Talaudière
+
+</td>
+    </tr>
+    <tr>
+      <td width="166" valign="top">
+
+Metz
+
+</td>
+      <td width="130" valign="top">
+
+Thionville
+
+</td>
+      <td valign="top" width="199">
+
+Metz
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="166">
+
+Montpellier
+
+</td>
+      <td width="130" valign="top">
+
+Narbonne
+
+</td>
+      <td valign="top" width="199">
+
+Carcassonne
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="166">
+      </td><td width="130" valign="top">
+
+Millau
+
+</td>
+      <td width="199" valign="top">
+
+Rodez
+
+</td>
+    </tr>
+    <tr>
+      <td width="166" valign="top">
+
+Nancy
+
+</td>
+      <td valign="top" width="130">
+
+Briey
+
+</td>
+      <td valign="top" width="199">
+
+Metz
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="166">
+      </td><td width="130" valign="top">
+
+Saint-Dié
+
+</td>
+      <td valign="top" width="199">
+
+Epinal
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="166">
+      </td><td valign="top" width="130">
+
+Verdun
+
+</td>
+      <td width="199" valign="top">
+
+Bar-le-Duc
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="166">
+
+Nîmes
+
+</td>
+      <td width="130" valign="top">
+
+Alès
+
+</td>
+      <td valign="top" width="199">
+
+Nîmes
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="166">
+      </td><td valign="top" width="130">
+
+Carpentras
+
+</td>
+      <td width="199" valign="top">
+
+Avignon - Le Pontet
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="166">
+
+Orléans
+
+</td>
+      <td valign="top" width="130">
+
+Montargis
+
+</td>
+      <td valign="top" width="199">
+
+Orléans
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="166">
+
+Paris
+
+</td>
+      <td valign="top" width="130">
+
+Fontainebleau
+
+</td>
+      <td width="199" valign="top">
+
+Meaux-Chauconin-Neufmontiers et Fleury-Mérogis 
+
+</td>
+    </tr>
+    <tr>
+      <td width="166" valign="top">
+      </td><td width="130" valign="top">
+
+Melun
+
+</td>
+      <td valign="top" width="199">
+
+Meaux-Chauconin-Neufmontiers et Fleury-Mérogis
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="166">
+      </td><td valign="top" width="130">
+
+Sens
+
+</td>
+      <td valign="top" width="199">
+
+Auxerre
+
+</td>
+    </tr>
+    <tr>
+      <td width="166" valign="top">
+
+Pau
+
+</td>
+      <td valign="top" width="130">
+
+Dax
+
+</td>
+      <td valign="top" width="199">
+
+Bayonne et Mont-de-Marsan
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="166">
+
+Poitiers
+
+</td>
+      <td width="130" valign="top">
+
+La Rochelle
+
+</td>
+      <td width="199" valign="top">
+
+Fontenay-le-Comte
+
+</td>
+    </tr>
+    <tr>
+      <td width="166" valign="top">
+      </td><td valign="top" width="130">
+
+Bressuire
+
+</td>
+      <td valign="top" width="199">
+
+Fontenay-le-Comte
+
+</td>
+    </tr>
+    <tr>
+      <td width="166" valign="top">
+      </td><td valign="top" width="130">
+
+Les Sables-d'Olonne
+
+</td>
+      <td width="199" valign="top">
+
+La Roche-sur-Yon
+
+</td>
+    </tr>
+    <tr>
+      <td width="166" valign="top">
+
+Rennes
+
+</td>
+      <td valign="top" width="130">
+
+Dinan
+
+</td>
+      <td valign="top" width="199">
+
+Saint-Malo
+
+</td>
+    </tr>
+    <tr>
+      <td width="166" valign="top">
+      </td><td valign="top" width="130">
+
+Guingamp
+
+</td>
+      <td width="199" valign="top">
+
+Saint-Brieuc
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="166">
+      </td><td valign="top" width="130">
+
+Morlaix
+
+</td>
+      <td valign="top" width="199">
+
+Brest et Saint-Brieuc
+
+</td>
+    </tr>
+    <tr>
+      <td width="166" valign="top">
+      </td><td valign="top" width="130">
+
+Quimper
+
+</td>
+      <td width="199" valign="top">
+
+Brest et Lorient-Ploemeur
+
+</td>
+    </tr>
+    <tr>
+      <td width="166" valign="top">
+      </td><td width="130" valign="top">
+
+Saint-Nazaire
+
+</td>
+      <td valign="top" width="199">
+
+Nantes
+
+</td>
+    </tr>
+    <tr>
+      <td width="166" valign="top">
+
+Riom
+
+</td>
+      <td valign="top" width="130">
+
+Cusset
+
+</td>
+      <td valign="top" width="199">
+
+Moulins-Yzeure
+
+</td>
+    </tr>
+    <tr>
+      <td width="166" valign="top">
+
+Rouen
+
+</td>
+      <td width="130" valign="top">
+
+Bernay
+
+</td>
+      <td valign="top" width="199">
+
+Evreux
+
+</td>
+    </tr>
+    <tr>
+      <td width="166" valign="top">
+      </td><td valign="top" width="130">
+
+Dieppe
+
+</td>
+      <td valign="top" width="199">
+
+Rouen et Caen
+
+</td>
+    </tr>
+    <tr>
+      <td width="166" valign="top">
+
+Toulouse
+
+</td>
+      <td width="130" valign="top">
+
+Saint-Gaudens
+
+</td>
+      <td width="199" valign="top">
+
+Toulouse-Seysses
+
+</td>
+    </tr>
+    <tr>
+      <td width="166" valign="top">
+      </td><td width="130" valign="top">
+
+Castres
+
+</td>
+      <td valign="top" width="199">
+
+Albi et Toulouse-Seysses
+
+</td>
+    </tr>
+  </tbody>
+</table>
 
 **Liens relatifs à cet article**
 
@@ -81000,11 +81613,7 @@ III- Albi et Toulouse-Seysses.
 
 	**Modifié par**:
 
-	  - Décret n°2004-1100 du 13 octobre 2004 - art. 1 () JORF 20 octobre 2004
-
-	**Liens**:
-
-	  - TXT_SOURCE: Code de procédure pénale 714 à 728
+	  - Décret n°2006-385 du 30 mars 2006 - art. 21 () JORF 31 mars 2006
 
 
 ##### Section 2 : Des ordres donnés par l'autorité judiciaire
@@ -82772,9 +83381,10 @@ calcul se fait sur la partie ferme de la peine.
 
 ###### Article D115-1
 
-Lorsque la peine d'emprisonnement prononcée est supérieure à un an, le total du crédit de réduction de peine correspondant
-aux mois excédant la première année d'emprisonnement ou la ou les années d'emprisonnement qui suivent ne peut dépasser deux
-mois.
+Conformément aux dispositions des alinéas un et deux de l'article 721, lorsque la peine d'emprisonnement prononcée est
+supérieure à un an, le total du crédit de réduction de peine correspondant aux mois excédant la première année
+d'emprisonnement ou la ou les années d'emprisonnement qui suivent ne peut dépasser deux mois ou un mois s'il s'agit d'une
+condamnation pour des faits commis en état de récidive légale.
 
 **Liens relatifs à cet article**
 
@@ -82782,9 +83392,13 @@ mois.
 
 	  - Décret n°59-322 1959-02-23
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2004-1364 du 13 décembre 2004 - art. 4 () JORF 15 décembre 2004 en vigueur le 1er janvier 2005
+	  - Décret n°2006-385 du 30 mars 2006 - art. 20 () JORF 31 mars 2006
+
+	**Cite**:
+
+	  - Code de procédure pénale - art. 721 (V)
 
 
 ###### Article D115-2
@@ -82872,7 +83486,7 @@ Le crédit de réduction de peine ne s'applique pas à l'emprisonnement résulta
 1° Du retrait d'un crédit de réduction de peine ordonné en application des alinéas 2 et 3 de l'article 721 ;
 
 2° Du retrait d'un crédit de réduction de peine ou d'une réduction de peine supplémentaire ordonné en application de
-l'article 721-2 ;
+l'article 721-2 ou en application de l'article 723-35 ;
 
 3° De la contrainte judiciaire.
 
@@ -82882,15 +83496,15 @@ l'article 721-2 ;
 
 	  - Décret n°59-322 1959-02-23
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2004-1364 du 13 décembre 2004 - art. 30 () JORF 15 décembre 2004 en vigueur le 1er janvier 2005
-	  - Décret n°2004-1364 du 13 décembre 2004 - art. 4 () JORF 15 décembre 2004 en vigueur le 1er janvier 2005
+	  - Décret n°2006-385 du 30 mars 2006 - art. 3 () JORF 31 mars 2006
 
 	**Cite**:
 
 	  - CODE DE PROCEDURE PENALE - art. 721 (M)
 	  - CODE DE PROCEDURE PENALE - art. 721-2 (V)
+	  - CODE DE PROCEDURE PENALE - art. 723-35 (V)
 
 	**Cité par**:
 
@@ -82979,8 +83593,8 @@ delà d'un délai d'un an à compter de la date du dernier événement caractér
 ###### Article D115-10
 
 En cas de mauvaise conduite survenue pendant l'incarcération subie sous le régime de la détention provisoire, cette
-ordonnance doit intervenir dans le délai de quatre mois à compter de la date à laquelle la condamnation est devenue
-définitive, quelle que soit la date de l'événement caractérisant la mauvaise conduite du condamné.
+ordonnance doit intervenir dans le délai de quatre mois à compter de la date à laquelle la condamnation est ramenée à
+exécution, quelle que soit la date de l'événement caractérisant la mauvaise conduite du condamné.
 
 **Liens relatifs à cet article**
 
@@ -82988,9 +83602,9 @@ définitive, quelle que soit la date de l'événement caractérisant la mauvaise
 
 	  - Décret n°59-322 1959-02-23
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2004-1364 du 13 décembre 2004 - art. 4 () JORF 15 décembre 2004 en vigueur le 1er janvier 2005
+	  - Décret n°2006-385 du 30 mars 2006 - art. 20 () JORF 31 mars 2006
 
 
 ###### Article D115-11
@@ -83067,6 +83681,67 @@ judiciaire national automatisé en application du 5° de l'article R. 69 précis
 	**Cite**:
 
 	  - Code de procédure pénale - art. R69 (V)
+
+
+###### Article D115-14-1
+
+Le montant maximal du retrait susceptible d'être ordonné ne peut excéder deux ou trois mois pour chaque année de détention et
+cinq ou sept jours pour chaque mois de détention, selon qu'il s'agit ou non d'une condamnation prononcée pour des faits
+commis en récidive, et sous réserve des précisions apportées par l'article D. 115-14-2. Ce montant est calculé au regard de
+la période de détention examinée pour apprécier la conduite du condamné. 
+
+Toutefois, si cette période est inférieure à un mois, ce montant peut atteindre sept jours, ou cinq jours s'il s'agit d'une
+condamnation prononcée pour des faits commis en récidive, dès lors que le total des retraits ordonnés ne dépasse pas le
+montant du crédit de réduction de peine dont a bénéficié le condamné.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-322 1959-02-23
+
+	**Créé par**:
+
+	  - Décret n°2006-385 du 30 mars 2006 - art. 18 () JORF 31 mars 2006
+
+	**Cite**:
+
+	  - Code de procédure pénale - art. D115-14-2 (V)
+
+
+###### Article D115-14-2
+
+Lorsque le retrait de crédit de réduction de peine est ordonné pour une période de détention comportant l'exécution
+successive de plusieurs peines, dont l'une ou plusieurs ont été prononcées pour des infractions commises en récidive et ont
+fait l'objet d'un crédit de réduction de peine réduit en application des dispositions du deuxième alinéa de l'article 721, le
+montant maximum du retrait ne peut excéder cinq jours par mois pour la partie de la période de détention correspondant à
+cette ou ces peines, et sept jours par mois pour la partie de la période correspondant à la peine ou aux peines prononcées
+pour des infractions non commises en récidive. 
+
+Lorsque un mois de détention recouvre au moins deux peines dont une en récidive légale, le montant maximal de retrait
+correspondant à ce mois de détention est de cinq jours.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-322 du 23 février 1959
+
+	**Créé par**:
+
+	  - Décret n°2006-385 du 30 mars 2006 - art. 18 () JORF 31 mars 2006
+
+	**Abrogé par**:
+
+	  - Décret n°2014-1582 du 23 décembre 2014 - art. 24
+
+	**Cite**:
+
+	  - Code de procédure pénale - art. 721
+
+	**Cité par**:
+
+	  - Code de procédure pénale - art. D115-14-1 (V)
 
 
 ##### b) Du retrait ordonné par la juridiction de jugement après la libération du condamné.
@@ -84024,7 +84699,7 @@ ordonner la réincarcération immédiate du condamné en cas de non-respect par 
 permission était subordonnée. Ce retrait peut, pour les mêmes motifs, être ordonné avant la mise à exécution de la
 permission.
 
-Le juge peut à cette fin décerner un mandat d'amener ou d'arrêt en application des dispositions de l'article 712-7.
+Le juge peut à cette fin décerner un mandat d'amener ou d'arrêt en application des dispositions de l'article 712-17.
 
 **Liens relatifs à cet article**
 
@@ -84034,17 +84709,13 @@ Le juge peut à cette fin décerner un mandat d'amener ou d'arrêt en applicatio
 
 	**Modifié par**:
 
-	  - Décret n°2004-1364 du 13 décembre 2004 - art. 7 () JORF 15 décembre 2004 en vigueur le 1er janvier 2005
+	  - Décret n°2006-385 du 30 mars 2006 - art. 20 () JORF 31 mars 2006
 
 	**Cite**:
 
 	  - Code pénal - art. 132-44 (M)
 	  - Code pénal - art. 132-45 (M)
-	  - CODE DE PROCEDURE PENALE - art. 712-7 (M)
-
-	**Liens**:
-
-	  - TXT_SOURCE: Code de procédure pénale 714 à 728
+	  - CODE DE PROCEDURE PENALE - art. 712-17 (M)
 
 
 ###### Article D142-1
@@ -84447,7 +85118,9 @@ Il peut délivrer à cette fin les mandats prévus par l'article 712-17.
 ###### Article D147-5
 
 A tout moment, le procureur de la République peut saisir le juge de l'application des peines afin qu'il ordonne une expertise
-médicale pour vérifier si le condamné remplit toujours les critères prévus à l'article 720-1-1.
+médicale pour vérifier si le condamné remplit toujours les critères prévus à l'article 720-1-1. 
+
+Il peut en outre le saisir pour qu'il ordonne l'expertise exigée par l'avant-dernier alinéa de l'article 720-1-1.
 
 **Liens relatifs à cet article**
 
@@ -84455,13 +85128,13 @@ médicale pour vérifier si le condamné remplit toujours les critères prévus 
 
 	  - Décret n°59-322 1959-02-23
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2002-619 du 26 avril 2002 - art. 1 () JORF 28 avril 2002
+	  - Décret n°2006-385 du 30 mars 2006 - art. 19 (V) JORF 31 mars 2006
 
 	**Cite**:
 
-	  - CODE DE PROCEDURE PENALE - art. 720-1-1 (M)
+	  - Code de procédure pénale - art. 720-1-1 (V)
 
 
 ##### Section 9 : De la mise à exécution de certaines peines privatives de liberté à l'égard des condamnés libres
@@ -84531,7 +85204,7 @@ l'extrait de jugement au procureur de la République après avoir procédé aux 
 
 Lorsque du fait du crédit de réduction de peine et, le cas échéant, des réductions de peine supplémentaires octroyées par le
 juge de l'application des peines, il ne reste plus pour le condamné de reliquat de peine à exécuter, l'information prévue par
-le dernier alinéa de l'article 721 et par l'article D. 115-16 est faite par le juge de l'application des peines ou, sur
+le dernier alinéa de l'article 721 et par l'article D. 115-18 est faite par le juge de l'application des peines ou, sur
 instruction de ce dernier, par le service pénitentiaire d'insertion et de probation. Cette information peut également être
 adressée au condamné par lettre recommandée.
 
@@ -84547,14 +85220,14 @@ crédit de réduction de peine est celui de la date à laquelle la condamnation 
 
 	  - Décret n°59-322 1959-02-23
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2004-1364 du 13 décembre 2004 - art. 13 () JORF 15 décembre 2004 en vigueur le 1er janvier 2005
+	  - Décret n°2006-385 du 30 mars 2006 - art. 20 () JORF 31 mars 2006
 
 	**Cite**:
 
 	  - CODE DE PROCEDURE PENALE - art. 721 (M)
-	  - CODE DE PROCEDURE PENALE - art. D115-16 (M)
+	  - CODE DE PROCEDURE PENALE - art. D115-18 (V)
 
 	**Cité par**:
 
@@ -85256,6 +85929,317 @@ récépissé, soit par télécopie avec accusé de réception.
 	**Cite**:
 
 	  - Code de procédure pénale 723-21 à 723-27
+
+
+##### Section 11 : Dispositions applicables à la surveillance judiciaire des personnes dangereuses condamnées pour crime ou délit
+
+###### Article D147-31
+
+Les crimes et délits pour lesquels le suivi socio-judiciaire est encouru et qui sont susceptibles, conformément aux
+dispositions des articles 723-29 à 723-37, de donner lieu à la surveillance judiciaire d'un condamné dès lors que la peine
+privative de liberté prononcée est égale ou supérieure à dix ans sont :
+
+1° Les crimes d'atteintes volontaires à la vie prévus par les articles 221-1 à 221-5-1 du code pénal ;
+
+2° Les crimes d'actes de tortures et de barbarie prévus par les articles 222-1 à 222-6 du code pénal ;
+
+3° Les crimes de viols prévus par les articles 222-23 à 222-26 du code pénal ;
+
+4° Les délits d'agressions sexuelles prévus par les articles 222-27 à 222-31 du code pénal ;
+
+5° Les crimes d'enlèvement et de séquestration prévus par les articles 224-1 à 224-5-2 du code pénal ;
+
+6° Les délits de corruption de mineurs et d'atteintes sexuelles sur mineur de 15 ans prévus par les articles 227-22, 227-23,
+227-25 et 227-26 du code pénal ;
+
+7° Les destructions, dégradations et détériorations dangereuses pour les personnes prévues par les articles 322-6 à 322-10 du
+code pénal, à l'exception de l'article 322-6-1.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-322 1959-02-23
+
+	**Créé par**:
+
+	  - Décret n°2006-385 du 30 mars 2006 - art. 2 () JORF 31 mars 2006
+
+	**Cité par**:
+
+	  - Décret n°2006-385 du 30 mars 2006 - art. 5 (V)
+	  - CODE DE PROCEDURE PENALE - art. D147-33 (V)
+	  - Code de procédure pénale - art. D147-31-1 (V)
+
+	**Cite**:
+
+	  - Code pénal - art. 227-22 (M)
+	  - Code pénal - art. 227-23 (M)
+	  - Code pénal - art. 227-25 (M)
+	  - Code pénal - art. 227-26 (MMN)
+	  - Code pénal 221-1 à 221-5-1, 222-1 à 222-6, 222-23 à 222-26, 222-27 à 222-31, 224-1 à 224-5-2, 227-22, 227-23, 227-25, 227-26, 322-6 à 322-10
+	  - Code de procédure pénale 322-6-1
+
+
+##### Paragraphe 1er : Condamnés susceptibles de faire l'objet d'une surveillance judiciaire
+
+###### Article D147-32
+
+Au début de chaque mois, le greffe de l'établissement pénitentiaire transmet au procureur de la République, aux fins d'un
+éventuel placement sous surveillance judiciaire, copie de la fiche pénale des personnes condamnées à une peine privative de
+liberté supérieure ou égale à dix ans dont la libération doit intervenir entre le sixième et le douzième mois qui suit.
+
+Une copie de cette transmission est adressée pour information au juge de l'application des peines.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-322 1959-02-23
+
+	**Créé par**:
+
+	  - Décret n°2006-385 du 30 mars 2006 - art. 2 () JORF 31 mars 2006
+
+	**Cité par**:
+
+	  - Décret n°2006-385 du 30 mars 2006 - art. 5 (V)
+
+
+###### Article D147-33
+
+Le procureur de la République vérifie s'il s'agit d'une personne condamnée pour un crime ou un délit mentionné à l'article D.
+147-31 et à l'encontre de laquelle un suivi socio-judiciaire n'a pas été prononcé.
+
+Lorsque tel est le cas, il vérifie auprès du juge de l'application des peines si un projet de libération conditionnelle est
+en cours d'examen.
+
+Si aucune requête tendant à la libération conditionnelle n'est enregistrée au greffe du juge de l'application des peines, ou
+si, une telle requête étant déposée, le ministère public entend s'y opposer, le procureur de la République examine le dossier
+du condamné pour apprécier s'il convient de requérir le prononcé d'une surveillance judiciaire avant la libération de
+l'intéressé.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-322 1959-02-23
+
+	**Créé par**:
+
+	  - Décret n°2006-385 du 30 mars 2006 - art. 2 () JORF 31 mars 2006
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. D147-31 (M)
+
+
+###### Article D147-34
+
+Les dispositions de l'article 712-21 ne sont pas applicables aux expertises ordonnées en application de l'article 723-31.
+
+Lorsque le juge de l'application des peines ordonne une expertise médicale en application des dispositions de l'article
+723-31, il en informe le procureur de la République et lui transmet les conclusions de l'expertise.
+
+Si cette expertise est ordonnée par le procureur de la République, ce magistrat en informe de même le juge de l'application
+des peines, et il lui en transmet les conclusions.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-322 1959-02-23
+
+	**Créé par**:
+
+	  - Décret n°2006-385 du 30 mars 2006 - art. 2 () JORF 31 mars 2006
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. 712-21 (M)
+	  - CODE DE PROCEDURE PENALE - art. 723-31 (M)
+
+
+###### Article D147-35
+
+Si l'expertise ordonnée en application des dispositions de l'article 723-31 conclut à la dangerosité du condamné et constate
+un risque de récidive qui paraît avéré, le procureur de la République requiert du juge de l'application des peines que le
+condamné soit placé sous surveillance judiciaire dès sa libération conformément aux dispositions de l'article 723-29.
+
+S'il s'agit d'une personne condamnée pour des faits commis avant le 14 décembre 2005, le procureur de la République transmet
+ses réquisitions au juge de l'application des peines aux fins de saisine du tribunal de l'application des peines.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-322 1959-02-23
+
+	**Créé par**:
+
+	  - Décret n°2006-385 du 30 mars 2006 - art. 2 () JORF 31 mars 2006
+
+	**Cité par**:
+
+	  - Décret n°2006-385 du 30 mars 2006 - art. 5 (V)
+	  - Code de procédure pénale - art. D147-37 (V)
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. 723-29 (V)
+	  - CODE DE PROCEDURE PENALE - art. 723-31 (M)
+
+
+###### Article D147-36
+
+L'expertise prévue par l'article 723-31 peut ne pas être ordonnée si figure dans le dossier individuel du condamné une
+expertise datant de moins d'un an, ordonnée le cas échéant à l'occasion d'une demande de libération conditionnelle, et qui
+conclut à la dangerosité du condamné et d'où il ressort qu'il existe un risque de récidive paraissant avéré.
+
+Toutefois, s'il s'agit d'une personne condamnée pour des faits commis avant le 14 décembre 2005, elle peut demander une
+contre-expertise avant qu'il ne soit statué sur les réquisitions du ministère public par le tribunal de l'application des
+peines. Cette contre-expertise, qui est alors de droit, est ordonnée par le tribunal de l'application des peines, sauf si
+elle a été préalablement ordonnée par le procureur de la République.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-322 1959-02-23
+
+	**Créé par**:
+
+	  - Décret n°2006-385 du 30 mars 2006 - art. 2 () JORF 31 mars 2006
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. 723-31 (M)
+
+	**Cité par**:
+
+	  - CODE DE PROCEDURE PENALE - art. D147-37 (V)
+	  - Code de procédure pénale - art. D49-24 (V)
+
+
+##### Paragraphe 2 : Contenu et durée de la surveillance judiciaire
+
+###### Article D147-37
+
+La surveillance judiciaire peut comporter l'obligation de respecter l'injonction de soins prévue par l'article 131-36-4 du
+code pénal à la condition que l'expertise médicale prévue par l'article 723-31 ou par l'article D. 147-36 conclue que le
+condamné est susceptible de faire l'objet d'un traitement.
+
+Si l'injonction de soins est ordonnée, les dispositions du suivi socio-judiciaire relatives à cette injonction sont
+applicables, sous réserve des dispositions spécifiques à la surveillance judiciaire.
+
+Le condamné est alors avisé par le juge de l'application des peines, avant sa libération, qu'aucun traitement ne pourra être
+entrepris sans son consentement, mais que, s'il refuse les soins qui lui seront proposés, tout ou partie de la durée des
+réductions de peine dont il a bénéficié pourra lui être retiré.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-322 1959-02-23
+
+	**Créé par**:
+
+	  - Décret n°2006-385 du 30 mars 2006 - art. 2 () JORF 31 mars 2006
+
+	**Cite**:
+
+	  - Code pénal - art. 131-36-4 (AbD)
+	  - CODE DE PROCEDURE PENALE - art. 723-31 (M)
+	  - CODE DE PROCEDURE PENALE - art. D147-36 (M)
+
+
+###### Article D147-38
+
+Lorsque le juge de l'application des peines est saisi par le procureur de la République aux fins de prononcer une
+surveillance judiciaire, il peut, par le même jugement, faire application des dispositions de l'article 721-2.
+
+Lorsque la décision de placement sous surveillance judiciaire concerne une personne condamnée pour des faits commis avant le
+14 décembre 2005 et relève de la compétence du tribunal de l'application des peines, cette juridiction peut également faire
+application des dispositions de l'article 721-2. Elle peut également se prononcer par le même jugement, à la demande du juge
+de l'application des peines initialement saisi, sur une demande d'aménagement de peine relevant de la compétence de ce
+magistrat.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-322 1959-02-23
+
+	**Créé par**:
+
+	  - Décret n°2006-385 du 30 mars 2006 - art. 2 () JORF 31 mars 2006
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. 721-2 (V)
+
+
+###### Article D147-39
+
+Lorsque le juge ou le tribunal de l'application des peines décide que la surveillance judiciaire portera sur la totalité du
+crédit de réduction de peine et des réductions supplémentaires de peine dont la personne a bénéficié et qui n'ont pas fait
+l'objet d'un retrait, le juge ou le tribunal peut fixer dans sa décision la date à laquelle la surveillance judiciaire
+prendra fin et non la durée de cette mesure.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-322 1959-02-23
+
+	**Créé par**:
+
+	  - Décret n°2006-385 du 30 mars 2006 - art. 2 () JORF 31 mars 2006
+
+
+###### Article D147-40
+
+Les dispositions du 3° de l'article 723-30 permettant le placement sous surveillance électronique mobile d'un condamné dans
+le cadre d'une surveillance judiciaire seront applicables à la date qui sera fixée par le décret pris en application de
+l'article 763-14.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-322 1959-02-23
+
+	**Créé par**:
+
+	  - Décret n°2006-385 du 30 mars 2006 - art. 2 () JORF 31 mars 2006
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. 723-30 (M)
+	  - CODE DE PROCEDURE PENALE - art. 763-14 (V)
+
+
+##### Paragraphe 3 : Retrait des réductions de peines en cas d'inobservation des obligations
+
+###### Article D147-41
+
+Le retrait des réductions de peines prévu par l'article 723-35 est ordonné par le juge de l'application des peines, y compris
+s'il s'agit d'une personne condamnée pour des faits commis avant le 14 décembre 2005 et pour laquelle la surveillance
+judiciaire a été ordonnée par le tribunal de l'application des peines.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-322 1959-02-23
+
+	**Créé par**:
+
+	  - Décret n°2006-385 du 30 mars 2006 - art. 2 () JORF 31 mars 2006
+
+	**Cite**:
+
+	  - Code de procédure pénale - art. 723-35 (V)
 
 
 ##### Section 4 : Du travail des détenus
@@ -86069,20 +87053,18 @@ des extraits ou des copies certifiées conformes de toutes pièces qui se trouve
 
 Il leur appartient pareillement de délivrer des expéditions ou extraits des actes d'écrou.
 
+Ils peuvent également légaliser toute signature apposée par les détenus en leur présence pour la gestion de leurs affaires
+privées.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°59-322 1959-02-23
 
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°59-322 1959-02-23 art. 6
-	  - TXT_SOURCE: Code de procédure pénale 714 à 728
-
 	**Modifié par**:
 
-	  - Décret n°98-1099 du 8 décembre 1998 - art. 40 () JORF 9 décembre 1998
+	  - Décret n°2006-385 du 30 mars 2006 - art. 20 () JORF 31 mars 2006
 
 
 ##### Paragraphe 3 : Dossiers individuels des détenus.
@@ -97020,14 +98002,27 @@ pénal, l'une des attributions qui lui sont conférées par l'article 722 du cod
 
 Pour faciliter le contrôle de la situation des condamnés au regard de la libération conditionnelle, un fichier est tenu dans
 tous les établissements pénitentiaires qui fait apparaître la date prévisible de leur libération et la date de l'expiration
-du temps d'épreuve ou de la période de sûreté.
+du temps d'épreuve ou de la période de sûreté. 
 
 Le greffe de l'établissement pénitentiaire avise en temps utile les condamnés qu'ils sont admissibles à la libération
-conditionnelle.
+conditionnelle. 
 
 Ce fichier est présenté au juge de l'application des peines ainsi qu'aux autorités judiciaires et administratives inspectant
 ces établissements. Il peut être également présenté, sur leur demande, aux parlementaires visitant des établissements en
-application de l'article 719.
+application de l'article 719. 
+
+Conformément aux dispositions du deuxième alinéa de l'article 721, la date prévisible de libération prise en compte pour
+déterminer en application des dispositions du deuxième alinéa de l'article 729 la date d'expiration du temps d'épreuve
+rendant un condamné récidiviste admissible à la libération conditionnelle est la date théorique de fin de peine qui serait
+résultée de l'application à l'intéressé du crédit de réduction de peine applicable aux non récidivistes. Les retraits de
+crédit de réduction de peine dont le condamné peut faire l'objet en application des dispositions du quatrième alinéa de
+l'article 721 sont sans incidence sur l'écart existant entre cette date théorique et la date prévisible de libération. 
+
+Si la libération conditionnelle est accordée, cette date théorique est sans incidence sur la durée des mesures d'assistance
+et de contrôle prévue par le deuxième alinéa de l'article 732, ni sur la durée de la peine à subir en cas de révocation de la
+décision de libération prévue par le deuxième alinéa de l'article 733, qui demeurent calculées au regard de la durée de la
+peine qui restait effectivement à subir par le condamné, du fait notamment du crédit de réduction de peine applicable aux
+récidivistes.
 
 **Liens relatifs à cet article**
 
@@ -97037,16 +98032,15 @@ application de l'article 719.
 
 	**Modifié par**:
 
-	  - Décret n°2004-1364 2004-12-13 art. 14 II, III JORF 15 décembre 2004 en vigueur le 1er janvier 2005
-	  - Décret n°2004-1364 du 13 décembre 2004 - art. 14 () JORF 15 décembre 2004 en vigueur le 1er janvier 2005
+	  - Décret n°2006-385 du 30 mars 2006 - art. 6 () JORF 31 mars 2006
 
 	**Cite**:
 
-	  - CODE DE PROCEDURE PENALE - art. 719 (M)
-
-	**Liens**:
-
-	  - TXT_SOURCE: Code de procédure pénale 729 à 733-1
+	  - Code de procédure pénale - art. 719 (V)
+	  - Code de procédure pénale - art. 721 (V)
+	  - Code de procédure pénale - art. 729 (V)
+	  - Code de procédure pénale - art. 732 (V)
+	  - Code de procédure pénale - art. 733 (V)
 
 
 ###### Article D523
@@ -97216,16 +98210,50 @@ cet avis ne figure pas déjà dans le dossier.
 	  - TXT_SOURCE: Code de procédure pénale 729 à 733-1
 
 
-#### Chapitre II : Des mesures et des obligations auxquelles peuvent être soumis les libérés conditionnels
+###### Article D528
+
+Tout jugement ou arrêt ordonnant une libération conditionnelle est motivé conformément aux dispositions des articles 712-4,
+712-13 et 729, ainsi que de celles du présent article. 
+
+Il vise le procès-verbal de débat contradictoire dans lequel est mentionné le sens des réquisitions du ministère public. 
+
+Il précise les garanties de représentation et de resocialisation de la personne concernant notamment sa résidence ou son
+domicile et l'origine, la nature et l'importance des revenus dont elle pourra bénéficier. 
+
+Il mentionne l'ensemble des mesures et conditions imposées au condamné, qu'il s'agisse des mesures et conditions obligatoires
+ou des conditions particulières. 
+
+Les modalités pratiques d'exécution de ces mesures et conditions peuvent être précisées ultérieurement par une instruction
+adressée par le juge de l'application des peines au service chargé de suivre le condamné.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-322 1959-02-23
+
+	**Cité par**:
+
+	  - Décret n°2000-1213 du 13 décembre 2000 - art. 18 (V)
+
+	**Créé par**:
+
+	  - Décret n°2006-385 du 30 mars 2006 - art. 7 () JORF 31 mars 2006
+
+	**Cite**:
+
+	  - Code de procédure pénale - art. 712-13 (V)
+	  - Code de procédure pénale - art. 712-4 (V)
+	  - Code de procédure pénale - art. 729 (V)
+
+
+#### Chapitre II : Des mesures et conditions auxquelles sont soumis ou peuvent être soumis les libérés conditionnels
 
 ###### Article D530
 
-Les condamnés admis au bénéfice de la libération conditionnelle peuvent être soumis, en vertu de la décision dont ils font
-l'objet, aux mesures d'aide et de contrôle prévues à la section I du présent chapitre, destinées à faciliter et à vérifier
-leur réinsertion.
-
-L'octroi ou le maintien de la liberté conditionnelle peut être subordonné, en outre, à l'observation des conditions
-particulières prévues à la section II.
+Les mesures et conditions assortissant la libération conditionnelle sont, selon les distinctions prévues par le présent
+chapitre, obligatoires ou particulières. Elles sont destinées à faciliter et à vérifier la réinsertion du condamné et à
+prévenir la récidive.
 
 **Liens relatifs à cet article**
 
@@ -97235,18 +98263,15 @@ particulières prévues à la section II.
 
 	**Modifié par**:
 
-	  - Décret n°2004-1364 du 13 décembre 2004 - art. 14 () JORF 15 décembre 2004 en vigueur le 1er janvier 2005
-
-	**Liens**:
-
-	  - TXT_SOURCE: Code de procédure pénale 729 à 733-1
+	  - Décret n°2006-385 du 30 mars 2006 - art. 8 () JORF 31 mars 2006
+	  - Décret n°2006-385 du 30 mars 2006 - art. 9 () JORF 31 mars 2006
 
 
 ###### Article D531
 
 Tout condamné, sous réserve de l'application des dispositions de l'article 729-2, a la faculté de refuser son admission à la
 libération conditionnelle, en sorte que les mesures et les conditions particulières qu'elle comporte à son égard ne peuvent
-s'appliquer sans son consentement.
+s'appliquer sans son consentement. 
 
 Ces mesures et conditions doivent en conséquence être portées à la connaissance de l'intéressé avant l'exécution de la
 décision qui les prescrit.
@@ -97259,18 +98284,14 @@ décision qui les prescrit.
 
 	**Modifié par**:
 
-	  - Décret n°2004-1364 du 13 décembre 2004 - art. 14 () JORF 15 décembre 2004 en vigueur le 1er janvier 2005
+	  - Décret n°2006-385 du 30 mars 2006 - art. 8 () JORF 31 mars 2006
 
 	**Cite**:
 
-	  - CODE DE PROCEDURE PENALE - art. 729-2 (Ab)
-
-	**Liens**:
-
-	  - TXT_SOURCE: Code de procédure pénale 729 à 733-1
+	  - Code de procédure pénale - art. 729-2 (V)
 
 
-##### Section 1 : Des mesures d'aide et de contrôle
+##### Section 1 : Des mesures et conditions obligatoires
 
 ###### Article D532
 
@@ -97288,28 +98309,72 @@ cas échéant, des autres services de l'Etat, des collectivités territoriales e
 
 	**Modifié par**:
 
-	  - Décret n°2004-1364 du 13 décembre 2004 - art. 14 () JORF 15 décembre 2004 en vigueur le 1er janvier 2005
-
-	**Liens**:
-
-	  - TXT_SOURCE: Code de procédure pénale 729 à 733-1
+	  - Décret n°2006-385 du 30 mars 2006 - art. 10 () JORF 31 mars 2006
+	  - Décret n°2006-385 du 30 mars 2006 - art. 8 () JORF 31 mars 2006
 
 
 ###### Article D533
 
-Les mesures de contrôle auxquelles le condamné doit se soumettre sont les suivantes :
+Le condamné faisant l'objet d'une libération conditionnelle doit obligatoirement se soumettre aux mesures de contrôle prévues
+par l'article 132-44 du code pénal.
 
-1° Résider au lieu fixé par la décision de libération ;
+**Liens relatifs à cet article**
 
-2° Répondre aux convocations du juge de l'application des peines ou du travailleur social du service pénitentiaire
-d'insertion et de probation ;
+	**Codifié par**:
 
-3° Recevoir les visites du travailleur social du service pénitentiaire d'insertion et de probation et lui communiquer les
-renseignements ou documents de nature à permettre le contrôle de ses moyens d'existence et de l'exécution de ses
-obligations ;
+	  - Décret n°59-322 1959-02-23
 
-4° Prévenir le travailleur social du service pénitentiaire d'insertion et de probation de ses changements d'emploi et,
-lorsqu'ils sont de nature à mettre obstacle à l'exécution de ses obligations, obtenir une autorisation préalable du juge de
+	**Modifié par**:
+
+	  - Décret n°2006-385 du 30 mars 2006 - art. 10 () JORF 31 mars 2006
+	  - Décret n°2006-385 du 30 mars 2006 - art. 11 () JORF 31 mars 2006
+	  - Décret n°2006-385 du 30 mars 2006 - art. 8 () JORF 31 mars 2006
+
+	**Cite**:
+
+	  - Code pénal - art. 132-44 (V)
+
+
+###### Article D533-1
+
+Si la nature des faits commis par le condamné et sa personnalité le justifient, la décision accordant la libération
+conditionnelle peut préciser la périodicité des convocations du travailleur social désigné auxquelles le condamné devra
+répondre en application du 1° de l'article 132-44 du code pénal.
+
+La décision peut également indiquer que le condamné fera l'objet de la part du travailleur social d'un suivi renforcé, sans
+préciser la périodicité des convocations.
+
+Ces indications peuvent également être précisées, postérieurement à la décision de libération conditionnelle, par une
+instruction adressée par le juge de l'application des peines au service chargé de suivre le condamné.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-322 1959-02-23
+
+	**Créé par**:
+
+	  - Décret n°2006-385 du 30 mars 2006 - art. 12 () JORF 31 mars 2006
+
+	**Cite**:
+
+	  - Code pénal - art. 132-44 (M)
+
+
+###### Article D533-2
+
+Les visites que le condamné est tenu de recevoir du travailleur social en application des dispositions du 2° de l'article
+132-44 du code pénal peuvent être faites au domicile ou à la résidence du condamné, ainsi que, le cas échéant, sur son lieu
+de travail.
+
+Les visites à domicile ne peuvent intervenir qu'entre 6 heures et 21 heures. Celles concernant le lieu de travail peuvent
+intervenir pendant les heures de travail, et ne doivent pas gêner ou perturber l'accomplissement de ce travail, ni les
+relations professionnelles du condamné.
+
+Le travailleur social n'est pas tenu de prévenir à l'avance le condamné de sa visite.
+
+En cas de difficulté dans l'application des dispositions du présent article, le travailleur social en informe le juge de
 l'application des peines.
 
 **Liens relatifs à cet article**
@@ -97318,26 +98383,26 @@ l'application des peines.
 
 	  - Décret n°59-322 1959-02-23
 
-	**Modifié par**:
+	**Créé par**:
 
-	  - Décret n°2004-1364 du 13 décembre 2004 - art. 14 () JORF 15 décembre 2004 en vigueur le 1er janvier 2005
+	  - Décret n°2006-385 du 30 mars 2006 - art. 12 () JORF 31 mars 2006
 
-	**Liens**:
+	**Cite**:
 
-	  - TXT_SOURCE: Code de procédure pénale 729 à 733-1
+	  - Code pénal - art. 132-44 (M)
 
 
 ###### Article D534
 
 Le juge de l'application des peines peut autoriser le libéré conditionnel à changer de résidence, après avoir consulté le
 juge de l'application des peines du ressort dans lequel le condamné envisage de s'établir et, lorsque la libération a été
-accordée par le tribunal de l'application des peines, le procureur de la République de ce ressort.
+accordée par le tribunal de l'application des peines, le procureur de la République de ce ressort. 
 
 Le libéré doit obtenir l'autorisation du juge de l'application des peines préalablement à tout déplacement dont la durée
-excéderait quinze jours, ainsi que pour tout déplacement à l'étranger.
+excéderait quinze jours, ainsi que pour tout déplacement à l'étranger. 
 
 L'établissement à l'étranger, s'il n'est pas prévu dans la décision de libération conditionnelle, ne peut être autorisé que
-par une modification de ladite décision dans les conditions fixées au 4ème alinéa de l'article 732.
+par une modification de ladite décision dans les conditions fixées au quatrième alinéa de l'article 732.
 
 **Liens relatifs à cet article**
 
@@ -97347,16 +98412,12 @@ par une modification de ladite décision dans les conditions fixées au 4ème al
 
 	**Modifié par**:
 
-	  - Décret n°2004-1364 du 13 décembre 2004 - art. 14 () JORF 15 décembre 2004 en vigueur le 1er janvier 2005
-	  - Décret n°2004-1364 du 13 décembre 2004 - art. 20 () JORF 15 décembre 2004 en vigueur le 1er janvier 2005
+	  - Décret n°2006-385 du 30 mars 2006 - art. 10 () JORF 31 mars 2006
+	  - Décret n°2006-385 du 30 mars 2006 - art. 8 () JORF 31 mars 2006
 
 	**Cite**:
 
-	  - CODE DE PROCEDURE PENALE - art. 732 (M)
-
-	**Liens**:
-
-	  - TXT_SOURCE: Code de procédure pénale 729 à 733-1
+	  - Code de procédure pénale - art. 732 (V)
 
 
 ##### Section 2 : Des conditions particulières
@@ -97366,8 +98427,9 @@ par une modification de ladite décision dans les conditions fixées au 4ème al
 La décision accordant à un condamné le bénéfice de la libération conditionnelle peut subordonner l'octroi de cette mesure à
 l'une des conditions suivantes :
 
-1° Avoir satisfait à une épreuve de semi-liberté ou de placement à l'extérieur sans surveillance dont les modalités sont
-déterminées par ladite décision ou avoir bénéficié d'une ou plusieurs permissions de sortir ;
+1° Avoir satisfait à une épreuve de semi-liberté, de placement sous surveillance électronique ou de placement à l'extérieur
+sans surveillance dont les modalités sont déterminées par ladite décision ou avoir bénéficié d'une ou plusieurs permissions
+de sortir ;
 
 2° Remettre tout ou partie de son compte nominatif au service pénitentiaire d'insertion et de probation, à charge pour ledit
 service de restitution par fractions ;
@@ -97387,7 +98449,8 @@ territoire national et n'y plus paraître.
 
 	**Modifié par**:
 
-	  - Décret n°2004-1364 du 13 décembre 2004 - art. 14 () JORF 15 décembre 2004 en vigueur le 1er janvier 2005
+	  - Décret n°2006-385 du 30 mars 2006 - art. 13 () JORF 31 mars 2006
+	  - Décret n°2006-385 du 30 mars 2006 - art. 8 () JORF 31 mars 2006
 
 	**Cité par**:
 
@@ -97397,15 +98460,11 @@ territoire national et n'y plus paraître.
 	  - Code de procédure pénale - art. D145 (M)
 	  - Code de procédure pénale - art. D523 (V)
 
-	**Liens**:
-
-	  - TXT_SOURCE: Code de procédure pénale 729 à 733-1
-
 
 ###### Article D536
 
-La décision peut, par ailleurs, subordonner l'octroi et le maintien de la liberté conditionnelle à l'observation par le
-condamné de l'une ou de plusieurs des conditions prévues par les articles 132-44 et 132-45 du code pénal.
+La décision accordant à un condamné le bénéfice de la libération conditionnelle peut également subordonner l'octroi et le
+maintien de cette mesure à l'une des obligations et interdictions prévues par l'article 132-45 du code pénal.
 
 **Liens relatifs à cet article**
 
@@ -97415,12 +98474,11 @@ condamné de l'une ou de plusieurs des conditions prévues par les articles 132-
 
 	**Modifié par**:
 
-	  - Décret n°2004-1364 du 13 décembre 2004 - art. 14 () JORF 15 décembre 2004 en vigueur le 1er janvier 2005
-	  - Décret n°2004-1364 du 13 décembre 2004 - art. 21 () JORF 15 décembre 2004 en vigueur le 1er janvier 2005
+	  - Décret n°2006-385 du 30 mars 2006 - art. 14 () JORF 31 mars 2006
+	  - Décret n°2006-385 du 30 mars 2006 - art. 8 () JORF 31 mars 2006
 
 	**Cite**:
 
-	  - Code pénal - art. 132-44 (M)
 	  - Code pénal - art. 132-45 (M)
 
 	**Cité par**:
@@ -97429,9 +98487,82 @@ condamné de l'une ou de plusieurs des conditions prévues par les articles 132-
 	  - CODE DE PROCEDURE PENALE - art. D138 (M)
 	  - CODE DE PROCEDURE PENALE - art. D142 (M)
 
-	**Liens**:
 
-	  - TXT_SOURCE: Code de procédure pénale 729 à 733-1
+###### Article D537
+
+Lorsqu'il n'est pas établi que la victime a déjà été entièrement indemnisée, le juge de l'application des peines ou le
+tribunal de l'application des peines peut soumettre le condamné à l'obligation de réparer le préjudice causé par l'infraction
+en application des dispositions du 5° de l'article 132-45 du code pénal, à charge pour le service désigné pour suivre le
+condamné de vérifier cette indemnisation, et, s'il y a lieu, le respect de l'obligation de réparation.
+
+Si la situation du condamné le permet, la décision de libération conditionnelle, ou une ordonnance prise ultérieurement par
+le juge de l'application des peines, peut fixer la périodicité et le montant des remboursements.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-322 1959-02-23
+
+	**Créé par**:
+
+	  - Décret n°2006-385 du 30 mars 2006 - art. 15 () JORF 31 mars 2006
+
+	**Cite**:
+
+	  - Code pénal - art. 132-45 (M)
+
+
+###### Article D538
+
+Conformément aux dispositions du premier alinéa de l'article 731-1, la personne peut également être soumise à une injonction
+de soins selon les modalités applicables en matière du suivi socio-judiciaire, si elle a été condamnée pour une infraction
+pour laquelle cette mesure est encourue et qu'une expertise médicale estime qu'elle est susceptible de faire l'objet d'un
+traitement.
+
+Le condamné est alors avisé par le juge de l'application des peines, avant sa libération, qu'aucun traitement ne pourra être
+entrepris sans son consentement, mais que s'il refuse les soins qui lui seront proposés, sa libération conditionnelle pourra
+être révoquée.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-322 1959-02-23
+
+	**Créé par**:
+
+	  - Décret n°2006-385 du 30 mars 2006 - art. 15 () JORF 31 mars 2006
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. 731-1 (M)
+
+
+###### Article D539
+
+Les dispositions du deuxième alinéa de l'article 731-1 permettant le placement sous surveillance électronique mobile de la
+personne faisant l'objet d'une libération conditionnelle seront applicables à la date qui sera fixée par le décret pris en
+application de l'article 763-14.
+
+Toutefois, le placement sous surveillance électronique mobile peut intervenir avant cette date pour les peines d'au moins
+sept ans d'emprisonnement, avec l'accord du condamné, dans le cadre d'une expérimentation menée par le ministère de la
+justice.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-322 1959-02-23
+
+	**Créé par**:
+
+	  - Décret n°2006-385 du 30 mars 2006 - art. 15 () JORF 31 mars 2006
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. 731-1 (M)
+	  - CODE DE PROCEDURE PENALE - art. 763-14 (V)
 
 
 #### Chapitre III : Dispositions diverses
@@ -97740,15 +98871,18 @@ Le service pénitentiaire d'insertion et de probation concourt, sur saisine des 
 décisions de justice à caractère pénal ; il peut être chargé de l'exécution des enquêtes et des mesures préalables au
 jugement. A cet effet, il effectue les vérifications sur la situation matérielle, familiale et sociale des personnes faisant
 l'objet d'enquêtes ou de poursuites judiciaires afin de permettre une meilleure individualisation des mesures ou peines et de
-favoriser l'insertion des intéressés.
+favoriser l'insertion des intéressés. 
 
 Il assure le suivi et le contrôle des personnes placées sous contrôle judiciaire. Il effectue les investigations qui lui sont
-demandées préalablement à l'exécution des peines privatives de liberté.
+demandées préalablement à l'exécution des peines privatives de liberté. 
 
 Le service pénitentiaire d'insertion et de probation met en oeuvre les mesures de contrôle et veille au respect des
 obligations imposées aux condamnés à l'emprisonnement avec sursis avec mise à l'épreuve, à un suivi socio-judiciaire ou à un
 travail d'intérêt général, aux personnes faisant l'objet d'une mesure d'ajournement de peine avec mise à l'épreuve, aux
-libérés conditionnels, aux interdits de séjour et aux personnes visées à l'article L. 51 du code du service national.
+libérés conditionnels, aux condamnés placés sous surveillance judiciaire ou faisant l'objet d'une réduction de peine
+conditionnelle, d'une suspension de peine, d'une semi-liberté, d'un placement extérieur, d'un placement sous surveillance
+électronique ou d'un placement sous surveillance électronique mobile, aux interdits de séjour et aux personnes visées à
+l'article L. 51 du code du service national.
 
 **Liens relatifs à cet article**
 
@@ -97767,11 +98901,11 @@ libérés conditionnels, aux interdits de séjour et aux personnes visées à l'
 
 	**Modifié par**:
 
-	  - Décret n°2004-1364 du 13 décembre 2004 - art. 29 () JORF 15 décembre 2004 en vigueur le 1er janvier 2005
+	  - Décret n°2006-385 du 30 mars 2006 - art. 4 () JORF 31 mars 2006
 
 	**Cite**:
 
-	  - Code du service national - art. L51 (M)
+	  - Code du service national - art. L51 (V)
 
 
 ###### Article D575
