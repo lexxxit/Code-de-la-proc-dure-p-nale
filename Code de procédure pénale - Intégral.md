@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 2006-04-19
+Version Consolidée au 2006-05-01
 
 # Partie législative
 
@@ -37874,6 +37874,41 @@ et 706-19 par lequel une chambre de l'instruction statue sur son dessaisissement
 	**Cite**:
 
 	  - Code de procédure pénale - art. 706-19 (VT)
+
+
+###### Article 706-22-1
+
+Par dérogation aux dispositions de l'article 712-10, sont seuls compétents le juge de l'application des peines du tribunal de
+grande instance de Paris, le tribunal de l'application des peines de Paris et la chambre de l'application des peines de la
+cour d'appel de Paris pour prendre les décisions concernant les personnes condamnées pour une infraction entrant dans le
+champ d'application de l'article 706-16, quel que soit le lieu de détention ou de résidence du condamné. 
+
+Ces décisions sont prises après avis du juge de l'application des peines compétent en application de l'article 712-10. 
+
+Pour l'exercice de leurs attributions, les magistrats des juridictions mentionnées au premier alinéa peuvent se déplacer sur
+l'ensemble du territoire national, sans préjudice de l'application des dispositions de l'article 706-71 sur l'utilisation de
+moyens de télécommunication.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 58-1296 1958-12-23
+
+	**Créé par**:
+
+	  - Loi n°2006-64 du 23 janvier 2006 - art. 14 (V) JORF 24 janvier 2006 en vigueur le 1er mai 2006
+
+	**Cité par**:
+
+	  - Décret n°2016-1455 du 28 octobre 2016 (V)
+	  - Code de procédure pénale - art. D49-75 (V)
+
+	**Cite**:
+
+	  - Code de procédure pénale - art. 706-16 (V)
+	  - Code de procédure pénale - art. 706-71 (VT)
+	  - Code de procédure pénale - art. 712-10 (V)
 
 
 #### Section 2 : Procédure
@@ -80773,6 +80808,255 @@ courir à compter du 1er mai 2006.
 	**Créé par**:
 
 	  - Décret n°2006-385 du 30 mars 2006 - art. 17 (V) JORF 31 mars 2006
+
+
+##### Section 5 : Dispositions applicables aux personnes condamnées pour actes de terrorisme
+
+###### Article D49-75
+
+Les modalités d'application des dispositions de l'article 706-22-1 donnant compétence au juge de l'application des peines du
+tribunal de grande instance de Paris, au tribunal de l'application des peines de Paris et à la chambre de l'application des
+peines de Paris pour prendre les décisions concernant les personnes condamnées pour une infraction entrant dans le champ
+d'application de l'article 706-16 sont précisées par les dispositions de la présente section.
+
+**Nota:**
+
+NOTA : Décret n° 2006-385 du 30 mars 2006 art. 17 II : Les dossiers détenus à la date du 1er mai 2006 par les juges de
+l'application des peines compétents en application de l'article  712-10 sont transférés au juge de l'application des peines
+de Paris. Les procédures en cours d'examen mais sur lesquelles il n'a pas encore été statué sont transférées, selon les cas,
+au juge de l'application des peines du tribunal de grande instance de Paris, au tribunal de l'application des peines de Paris
+ou à la chambre de l'application des peines de Paris. Les délais impartis à ces juridictions pour statuer recommencent à
+courir à compter du 1er mai 2006.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-322 1959-02-23
+
+	**Cite**:
+
+	  - Décret n°2006-385 2006-03-30
+	  - CODE DE PROCEDURE PENALE - art. 706-16 (M)
+	  - CODE DE PROCEDURE PENALE - art. 706-22-1 (V)
+	  - CODE DE PROCEDURE PENALE - art. 712-10 (V)
+
+	**Créé par**:
+
+	  - Décret n°2006-385 du 30 mars 2006 - art. 17 (V) JORF 31 mars 2006 en vigueur le 1er mai 2006
+
+
+###### Article D49-76
+
+Les demandes du condamné prévues par l'article D. 49-11 sont adressées, conformément aux dispositions de cet article, au juge
+de l'application des peines territorialement compétent en application de l'article 712-10, qui les transmet avec son avis,
+celui du procureur de la République et celui du représentant de l'administration pénitentiaire, au juge de l'application des
+peines du tribunal de grande instance de Paris.
+
+En cas d'urgence, la demande peut être directement adressée au juge de l'application des peines de Paris.
+
+**Nota:**
+
+NOTA : Décret n° 2006-385 du 30 mars 2006 art. 17 II : Les dossiers détenus à la date du 1er mai 2006 par les juges de
+l'application des peines compétents en application de l'article  712-10 sont transférés au juge de l'application des peines
+de Paris. Les procédures en cours d'examen mais sur lesquelles il n'a pas encore été statué sont transférées, selon les cas,
+au juge de l'application des peines du tribunal de grande instance de Paris, au tribunal de l'application des peines de Paris
+ou à la chambre de l'application des peines de Paris. Les délais impartis à ces juridictions pour statuer recommencent à
+courir à compter du 1er mai 2006.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-322 1959-02-23
+
+	**Cite**:
+
+	  - Décret n°2006-385 2006-03-30
+	  - CODE DE PROCEDURE PENALE - art. 712-10 (V)
+	  - CODE DE PROCEDURE PENALE - art. D49-11 (M)
+
+	**Créé par**:
+
+	  - Décret n°2006-385 du 30 mars 2006 - art. 17 (V) JORF 31 mars 2006 en vigueur le 1er mai 2006
+
+
+###### Article D49-77
+
+Le dossier individuel du condamné prévu par l'article D. 49-29 est tenu par le greffe du juge de l'application des peines de
+Paris. Une copie de tout ou partie de ce dossier est tenue par le greffe du juge de l'application des peines compétent en
+application de l'article 712-10.
+
+**Nota:**
+
+NOTA : Décret n° 2006-385 du 30 mars 2006 art. 17 II : Les dossiers détenus à la date du 1er mai 2006 par les juges de
+l'application des peines compétents en application de l'article  712-10 sont transférés au juge de l'application des peines
+de Paris. Les procédures en cours d'examen mais sur lesquelles il n'a pas encore été statué sont transférées, selon les cas,
+au juge de l'application des peines du tribunal de grande instance de Paris, au tribunal de l'application des peines de Paris
+ou à la chambre de l'application des peines de Paris. Les délais impartis à ces juridictions pour statuer recommencent à
+courir à compter du 1er mai 2006.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-322 1959-02-23
+
+	**Cite**:
+
+	  - Décret n°2006-385 2006-03-30
+	  - CODE DE PROCEDURE PENALE - art. 712-10 (V)
+	  - CODE DE PROCEDURE PENALE - art. D49-29 (M)
+
+	**Créé par**:
+
+	  - Décret n°2006-385 du 30 mars 2006 - art. 17 (V) JORF 31 mars 2006 en vigueur le 1er mai 2006
+
+
+###### Article D49-78
+
+Le juge de l'application des peines du tribunal de grande instance de Paris peut présider les séances de la commission de
+l'application des peines lorsque est examinée la situation d'une personne condamnée pour une infraction entrant dans le champ
+d'application de l'article 706-16, soit en personne, soit en utilisant un moyen de télécommunication audiovisuelle prévu par
+l'article 706-71.
+
+A défaut, le juge de l'application des peines présidant les séances de la commission pour l'examen de la situation d'une
+telle personne est celui de la juridiction dans le ressort de laquelle est situé l'établissement pénitentiaire. Le juge de
+l'application des peines de Paris peut adresser à ce magistrat tout document susceptible d'éclairer la commission avant que
+celle-ci ne rende son avis. Cet avis est alors adressé par le juge de l'application des peines de l'établissement
+pénitentiaire, avec l'avis de ce dernier, au juge de l'application des peines de Paris.
+
+**Nota:**
+
+NOTA : Décret n° 2006-385 du 30 mars 2006 art. 17 II : Les dossiers détenus à la date du 1er mai 2006 par les juges de
+l'application des peines compétents en application de l'article  712-10 sont transférés au juge de l'application des peines
+de Paris. Les procédures en cours d'examen mais sur lesquelles il n'a pas encore été statué sont transférées, selon les cas,
+au juge de l'application des peines du tribunal de grande instance de Paris, au tribunal de l'application des peines de Paris
+ou à la chambre de l'application des peines de Paris. Les délais impartis à ces juridictions pour statuer recommencent à
+courir à compter du 1er mai 2006.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-322 1959-02-23
+
+	**Cite**:
+
+	  - Décret n°2006-385 2006-03-30
+	  - CODE DE PROCEDURE PENALE - art. 706-16 (M)
+	  - CODE DE PROCEDURE PENALE - art. 706-71 (M)
+
+	**Créé par**:
+
+	  - Décret n°2006-385 du 30 mars 2006 - art. 17 (V) JORF 31 mars 2006 en vigueur le 1er mai 2006
+
+
+###### Article D49-79
+
+En cas d'urgence, le juge de l'application des peines de Paris peut statuer sans l'avis du juge de l'application des peines
+compétent en application de l'article 712-10.
+
+**Nota:**
+
+NOTA : Décret n° 2006-385 du 30 mars 2006 art. 17 II : Les dossiers détenus à la date du 1er mai 2006 par les juges de
+l'application des peines compétents en application de l'article  712-10 sont transférés au juge de l'application des peines
+de Paris. Les procédures en cours d'examen mais sur lesquelles il n'a pas encore été statué sont transférées, selon les cas,
+au juge de l'application des peines du tribunal de grande instance de Paris, au tribunal de l'application des peines de Paris
+ou à la chambre de l'application des peines de Paris. Les délais impartis à ces juridictions pour statuer recommencent à
+courir à compter du 1er mai 2006.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-322 1959-02-23
+
+	**Cite**:
+
+	  - Décret n°2006-385 2006-03-30
+	  - CODE DE PROCEDURE PENALE - art. 712-10 (V)
+
+	**Créé par**:
+
+	  - Décret n°2006-385 du 30 mars 2006 - art. 17 (V) JORF 31 mars 2006 en vigueur le 1er mai 2006
+
+
+###### Article D49-80
+
+Pour la tenue des débats contradictoires devant le juge ou le tribunal de l'application des peines de Paris, le ministère
+public est représenté par le procureur de la République du tribunal de grande instance de Paris. Ces débats ont lieu au
+tribunal de grande instance de Paris, en utilisant, en liaison avec l'établissement pénitentiaire dans lequel le condamné est
+détenu, un moyen de télécommunication audiovisuelle prévu par l'article 706-71. Les dispositions du quatrième alinéa de
+l'article 706-71 sont alors applicables.
+
+Lorsque les circonstances l'imposent, le juge ou le tribunal de l'application des peines de Paris ainsi que le procureur de
+la République près le tribunal de grande instance de Paris peuvent se déplacer, avec le greffier de la juridiction, dans
+l'établissement pénitentiaire dans lequel le condamné est détenu. A titre exceptionnel, le juge de l'application des peines
+peut ordonner l'extraction du détenu.
+
+**Nota:**
+
+NOTA : Décret n° 2006-385 du 30 mars 2006 art. 17 II : Les dossiers détenus à la date du 1er mai 2006 par les juges de
+l'application des peines compétents en application de l'article  712-10 sont transférés au juge de l'application des peines
+de Paris. Les procédures en cours d'examen mais sur lesquelles il n'a pas encore été statué sont transférées, selon les cas,
+au juge de l'application des peines du tribunal de grande instance de Paris, au tribunal de l'application des peines de Paris
+ou à la chambre de l'application des peines de Paris. Les délais impartis à ces juridictions pour statuer recommencent à
+courir à compter du 1er mai 2006.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-322 1959-02-23
+
+	**Cite**:
+
+	  - Décret n°2006-385 2006-03-30
+	  - CODE DE PROCEDURE PENALE - art. 706-71 (M)
+
+	**Créé par**:
+
+	  - Décret n°2006-385 du 30 mars 2006 - art. 17 (V) JORF 31 mars 2006 en vigueur le 1er mai 2006
+
+
+###### Article D49-81
+
+Lorsque le condamné fait l'objet de l'une des mesures prévues aux articles 712-6, 712-7 et 721-2, le juge de l'application
+des peines de Paris peut mandater le service pénitentiaire d'insertion et de probation territorialement compétent au regard
+du lieu de résidence habituelle ou du lieu d'assignation de l'intéressé pour mettre en oeuvre les mesures de contrôle et
+veiller au respect des obligations. Ce service rend compte régulièrement à ce magistrat.
+
+Lorsque les circonstances le justifient, le juge de l'application des peines de Paris peut déléguer le suivi de la mesure au
+juge de l'application des peines du tribunal dans le ressort duquel est située la résidence habituelle ou le lieu
+d'assignation du condamné, lequel le tient informé de son déroulement.
+
+**Nota:**
+
+NOTA : Décret n° 2006-385 du 30 mars 2006 art. 17 II : Les dossiers détenus à la date du 1er mai 2006 par les juges de
+l'application des peines compétents en application de l'article  712-10 sont transférés au juge de l'application des peines
+de Paris. Les procédures en cours d'examen mais sur lesquelles il n'a pas encore été statué sont transférées, selon les cas,
+au juge de l'application des peines du tribunal de grande instance de Paris, au tribunal de l'application des peines de Paris
+ou à la chambre de l'application des peines de Paris. Les délais impartis à ces juridictions pour statuer recommencent à
+courir à compter du 1er mai 2006.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-322 1959-02-23
+
+	**Cite**:
+
+	  - Décret n°2006-385 2006-03-30
+	  - CODE DE PROCEDURE PENALE - art. 712-10 (V)
+	  - CODE DE PROCEDURE PENALE - art. 712-6 (V)
+	  - CODE DE PROCEDURE PENALE - art. 712-7 (M)
+	  - CODE DE PROCEDURE PENALE - art. 721-2 (V)
+
+	**Créé par**:
+
+	  - Décret n°2006-385 du 30 mars 2006 - art. 17 (V) JORF 31 mars 2006 en vigueur le 1er mai 2006
 
 
 ### Titre II : De la détention
