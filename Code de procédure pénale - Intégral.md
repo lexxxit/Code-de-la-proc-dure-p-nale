@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 2006-05-07
+Version Consolidée au 2006-06-01
 
 # Partie législative
 
@@ -63563,6 +63563,8 @@ révocation de la mesure dont bénéficie le condamné, qui serait de la compét
 
 ### Titre II : Des conditions de détention.
 
+#### Chapitre Ier : Du suivi médical de certains détenus.
+
 ###### Article R57-5
 
 Les personnes condamnées à un suivi socio-judiciaire, quel qu'en soit le motif, ainsi que les personnes condamnées pour le
@@ -63590,9 +63592,9 @@ loi n° 87-432 du 22 juin 1987 relative au service public pénitentiaire.
 	  - Code de la santé publique - art. R711-10 (M)
 	  - Code de la santé publique - art. R711-17 (Ab)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°99-818 du 16 septembre 1999 - art. 1 () JORF 19 septembre 1999
+	  - Décret n°2006-337 du 21 mars 2006 - art. 1 () JORF 23 mars 2006 en vigueur le 1er juin 2006
 
 	**Cité par**:
 
@@ -63614,17 +63616,21 @@ psychologiques ou psychiatriques conservées dans le dossier individuel.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - CODE DE PROCEDURE PENALE - art. R57-5 (M)
-
 	**Codifié par**:
 
 	  - Décret n°59-318 1959-02-03
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°99-818 du 16 septembre 1999 - art. 1 () JORF 19 septembre 1999
+	  - Décret n°2006-337 du 21 mars 2006 - art. 1 () JORF 23 mars 2006 en vigueur le 1er juin 2006
+
+	**Abrogé par**:
+
+	  - Décret n°2010-1634 du 23 décembre 2010 - art. 1
+
+	**Cite**:
+
+	  - Code de procédure pénale - art. R57-5
 
 
 ###### Article R57-7
@@ -63634,9 +63640,9 @@ préparer, le cas échéant, une prise en charge post-pénale adaptée.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°99-818 du 16 septembre 1999 - art. 1 () JORF 19 septembre 1999
+	  - Décret n°2006-337 du 21 mars 2006 - art. 1 () JORF 23 mars 2006 en vigueur le 1er juin 2006
 
 	**Cite**:
 
@@ -63650,6 +63656,8 @@ préparer, le cas échéant, une prise en charge post-pénale adaptée.
 
 	  - Décret n°59-318 1959-02-03
 
+
+#### Chapitre II : De l'autorité compétente en matière de décisions administratives individuelles.
 
 ###### Article R57-8
 
@@ -63681,7 +63689,13 @@ soit ;
 10° Délivrance d'une autorisation, pour un détenu, d'être hospitalisé dans un établissement de santé privé ;
 
 11° Autorisation d'hospitalisation d'un détenu dans un établissement de santé situé dans le ressort de la direction régionale
-des services pénitentiaires.
+des services pénitentiaires ;
+
+12° Prolongation de l'isolement au-delà de six mois et jusqu'à un an.
+
+Pour les compétences définies par la partie réglementaire du présent code, le directeur régional des services pénitentiaires
+peut déléguer sa signature à un ou plusieurs fonctionnaires appartenant à un corps de catégorie A occupant un emploi au siège
+de la direction régionale.
 
 **Liens relatifs à cet article**
 
@@ -63689,14 +63703,43 @@ des services pénitentiaires.
 
 	  - Décret n°59-318 1959-02-03
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°99-818 du 16 septembre 1999 - art. 1 () JORF 19 septembre 1999
+	  - Décret n°2006-337 du 21 mars 2006 - art. 1 () JORF 23 mars 2006 en vigueur le 1er juin 2006
+	  - Décret n°2006-337 du 21 mars 2006 - art. 2 () JORF 23 mars 2006 en vigueur le 1er juin 2006
 
 	**Cité par**:
 
 	  - Décret n°2008-1489 du 30 décembre 2008 (V)
 	  - CODE DE PROCEDURE PENALE - art. R251 (V)
+
+
+###### Article R57-8-1
+
+Le chef d'établissement est compétent pour prendre les décisions administratives individuelles suivantes :
+
+1° Placement à l'isolement et première prolongation de l'isolement ;
+
+2° Délivrance des autorisations de visiter l'établissement pénitentiaire qu'il dirige.
+
+Pour les compétences définies par la partie réglementaire du présent code le chef d'établissement pénitentiaire peut déléguer
+sa signature à un agent d'encadrement placé sous son autorité.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Code de procédure pénale - art. R288 (V)
+	  - Code de procédure pénale - art. R57-8-2 (V)
+
+	**Codifié par**:
+
+	  - Décret n°59-318 1959-02-03
+
+	**Créé par**:
+
+	  - Décret n°2006-337 du 21 mars 2006 - art. 1 () JORF 23 mars 2006 en vigueur le 1er juin 2006
+	  - Décret n°2006-337 du 21 mars 2006 - art. 2 () JORF 23 mars 2006 en vigueur le 1er juin 2006
 
 
 ###### Article R57-9
@@ -63710,9 +63753,330 @@ détenus écroués à la suite d'une demande d'extradition émanant d'un gouvern
 
 	  - Décret n°59-318 1959-02-03
 
+	**Modifié par**:
+
+	  - Décret n°2006-337 du 21 mars 2006 - art. 1 () JORF 23 mars 2006 en vigueur le 1er juin 2006
+
+	**Abrogé par**:
+
+	  - Décret n°2010-1634 du 23 décembre 2010 - art. 1
+
+
+#### Chapitre III : De l'application de l'article 24 de la loi n° 2000-321 du 12 avril 2000 aux décisions prises par l'administration pénitentiaire.
+
+##### Section 1 : Des mandataires susceptibles d'être choisis par les personnes détenues
+
+###### Article R57-9-1
+
+Lorsque l'administration pénitentiaire envisage de prendre une décision individuelle défavorable au détenu qui doit être
+motivée conformément aux dispositions des articles 1er et 2 de la loi n° 79-587 du 11 juillet 1979, le détenu peut se faire
+représenter ou assister par un conseil ou, dans les conditions prévues aux articles R. 57-9-2 à R. 57-9-8, par un mandataire
+de son choix.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°79-587 du 11 juillet 1979 - art. 1, v. init.
+	  - Loi n°79-587 du 11 juillet 1979 - art. 2 (V)
+	  - Loi n°2000-321 du 12 avril 2000 - art. 24 (V)
+	  - Code de procédure pénale R57-9-2 à R57-9-8
+
 	**Créé par**:
 
-	  - Décret n°99-818 du 16 septembre 1999 - art. 1 () JORF 19 septembre 1999
+	  - Décret n°2006-337 du 21 mars 2006 - art. 1 () JORF 23 mars 2006 en vigueur le 1er juin 2006
+	  - Décret n°2006-337 du 21 mars 2006 - art. 3 () JORF 23 mars 2006 en vigueur le 1er juin 2006
+
+	**Cité par**:
+
+	  - Code de procédure pénale - art. R57-9-2-1 (V)
+
+	**Codifié par**:
+
+	  - Décret n°59-318 1959-02-03
+
+
+###### Article R57-9-2
+
+Le mandataire prévu par l'article 24 de la loi n° 2000-321 du 12 avril 2000 peut être :
+
+1° Soit le titulaire d'un permis de visite prévu par le décret pris pour l'application de l'article 728 ;
+
+2° Soit le titulaire d'un agrément préalable.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-318 1959-02-03
+
+	**Cite**:
+
+	  - Loi n°2000-321 du 12 avril 2000 - art. 24 (V)
+	  - CODE DE PROCEDURE PENALE - art. 728 (M)
+
+	**Créé par**:
+
+	  - Décret n°2006-337 du 21 mars 2006 - art. 1 () JORF 23 mars 2006 en vigueur le 1er juin 2006
+	  - Décret n°2006-337 du 21 mars 2006 - art. 3 () JORF 23 mars 2006 en vigueur le 1er juin 2006
+
+	**Cité par**:
+
+	  - Décret n°2016-531 du 27 avril 2016 - art. 1
+	  - CODE DE PROCEDURE PENALE - art. R57-9-4 (V)
+	  - Code du travail - art. R5132-2 (V)
+
+
+###### Article R57-9-3
+
+Pour l'exécution du mandat qui lui a été donné par la personne détenue, le mandataire peut demander la délivrance de la copie
+des pièces qui ont été communiquées à la personne détenue.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°2000-321 du 12 avril 2000 - art. 24 (V)
+
+	**Créé par**:
+
+	  - Décret n°2006-337 du 21 mars 2006 - art. 1 () JORF 23 mars 2006 en vigueur le 1er juin 2006
+	  - Décret n°2006-337 du 21 mars 2006 - art. 3 () JORF 23 mars 2006 en vigueur le 1er juin 2006
+
+	**Codifié par**:
+
+	  - Décret n°59-318 1959-02-03
+
+
+###### Article R57-9-4
+
+Toute personne peut solliciter la délivrance de l'agrément mentionné au 2° de l'article R. 57-9-2 si elle remplit les
+conditions suivantes :
+
+1° Ne pas être incarcérée ;
+
+2° Jouir de ses droits civils et politiques ;
+
+3° Ne pas avoir fait l'objet d'une condamnation, incapacité ou déchéance mentionnée sur le bulletin n° 2 du casier
+judiciaire ;
+
+4° Ne pas exercer une activité professionnelle, à quelque titre que ce soit, au sein d'un service relevant du ministère de la
+justice ;
+
+5° S'il s'agit d'une personne de nationalité étrangère, être en situation régulière sur le territoire français.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-318 1959-02-03
+
+	**Cite**:
+
+	  - Loi n°2000-321 du 12 avril 2000 - art. 24 (V)
+	  - CODE DE PROCEDURE PENALE - art. R57-9-2 (V)
+
+	**Créé par**:
+
+	  - Décret n°2006-337 du 21 mars 2006 - art. 1 () JORF 23 mars 2006 en vigueur le 1er juin 2006
+	  - Décret n°2006-337 du 21 mars 2006 - art. 3 () JORF 23 mars 2006 en vigueur le 1er juin 2006
+
+	**Cité par**:
+
+	  - Décret n°2006-337 du 21 mars 2006 - art. 4 (V)
+	  - Décret n°2006-337 du 21 mars 2006 - art. 5 (V)
+	  - CODE DE PROCEDURE PENALE - art. R53-8-73 (V)
+	  - Code de procédure pénale - art. D439-1 (V)
+
+
+###### Article R57-9-5
+
+Sans préjudice des dispositions du premier alinéa de l'article 5 de la loi n° 71-1130 du 31 décembre 1971, la personne
+détenue ne peut se faire assister ou représenter que par un mandataire agréé devant la commission de discipline et lors de la
+procédure d'isolement.
+
+L'agrément du mandataire emporte le bénéfice de la confidentialité des entretiens et de la correspondance entre le mandataire
+agréé et la personne détenue qui l'a désigné ainsi que l'attribution au mandataire d'un titre d'accès à la détention pour
+l'exercice de sa mission.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°71-1130 du 31 décembre 1971 - art. 5 (V)
+	  - Loi n°2000-321 du 12 avril 2000 - art. 24 (V)
+
+	**Créé par**:
+
+	  - Décret n°2006-337 du 21 mars 2006 - art. 1 () JORF 23 mars 2006 en vigueur le 1er juin 2006
+	  - Décret n°2006-337 du 21 mars 2006 - art. 3 () JORF 23 mars 2006 en vigueur le 1er juin 2006
+
+	**Cité par**:
+
+	  - CODE DE PROCEDURE PENALE - art. R57-9-7 (V)
+
+	**Codifié par**:
+
+	  - Décret n°59-318 1959-02-03
+
+
+###### Article R57-9-6
+
+Le directeur régional des services pénitentiaires est l'autorité compétente pour se prononcer sur la demande d'agrément, sur
+proposition du chef d'établissement pénitentiaire qui procède à son instruction et veille notamment à ce que celle-ci n'ait
+pas pour but de contourner les règles régissant l'exercice des droits de visite. Le directeur régional des services
+pénitentiaires peut, préalablement à la délivrance de l'agrément, faire diligenter une enquête administrative dans les
+conditions prévues par le décret n° 2005-1124 du 6 septembre 2005.
+
+Le mandataire agréé lorsqu'il aura été choisi par une personne placée en détention provisoire doit solliciter également la
+délivrance de l'autorisation prévue à l'article 145-4.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Décret n°2005-1124 2005-09-06
+	  - CODE DE PROCEDURE PENALE - art. 145-4 (M)
+	  - Loi n°2000-321 du 12 avril 2000 - art. 24 (V)
+
+	**Codifié par**:
+
+	  - Décret n°59-318 1959-02-03
+
+	**Créé par**:
+
+	  - Décret n°2006-337 du 21 mars 2006 - art. 1 () JORF 23 mars 2006 en vigueur le 1er juin 2006
+	  - Décret n°2006-337 du 21 mars 2006 - art. 3 () JORF 23 mars 2006 en vigueur le 1er juin 2006
+
+
+###### Article R57-9-7
+
+L'agrément est valable pour une période de deux ans, renouvelable, et confère à son titulaire la possibilité d'exécuter dans
+les conditions prévues au deuxième alinéa de l'article R. 57-9-5 des missions d'assistance ou de représentation qui lui sont
+confiées par des personnes détenues dans un ou plusieurs établissements pénitentiaires relevant d'une même direction
+régionale.
+
+Un mandataire, préalablement bénéficiaire d'un agrément en cours de validité, peut, à sa demande, être autorisé par le
+directeur régional des services pénitentiaires d'une autre région pénitentiaire à accomplir des missions d'assistance ou de
+représentation, dans les conditions prévues au deuxième alinéa de l'article R. 57-9-5, dans un ou plusieurs établissements
+pénitentiaires situés dans son ressort. Cette autorisation est valable dans le ou les établissements désignés, jusqu'à la
+date d'expiration de l'agrément en cours.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-318 1959-02-03
+
+	**Cite**:
+
+	  - Loi n°2000-321 du 12 avril 2000 - art. 24 (V)
+	  - CODE DE PROCEDURE PENALE - art. R57-9-5 (V)
+
+	**Créé par**:
+
+	  - Décret n°2006-337 du 21 mars 2006 - art. 1 () JORF 23 mars 2006 en vigueur le 1er juin 2006
+	  - Décret n°2006-337 du 21 mars 2006 - art. 3 () JORF 23 mars 2006 en vigueur le 1er juin 2006
+
+	**Cité par**:
+
+	  - Décret n°2008-1489 du 30 décembre 2008 (V)
+
+
+###### Article R57-9-8
+
+Le directeur régional des services pénitentiaires est tenu de retirer l'agrément lorsque le procureur de la République en
+fait la demande écrite. Il peut en outre retirer l'agrément par décision motivée prise au vu d'un rapport du chef
+d'établissement, notamment en cas de manquement par un mandataire aux règles relatives à la sécurité et au bon ordre de
+l'établissement.
+
+En cas d'urgence et pour des motifs graves, le chef d'établissement peut suspendre l'agrément du mandataire, pour une durée
+qui ne peut excéder deux mois, sous réserve d'en informer sans délai le directeur régional qui prend la décision définitive
+avant l'expiration de ce délai.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-318 1959-02-03
+
+	**Cite**:
+
+	  - Loi n°2000-321 du 12 avril 2000 - art. 24 (V)
+
+	**Créé par**:
+
+	  - Décret n°2006-337 du 21 mars 2006 - art. 1 () JORF 23 mars 2006 en vigueur le 1er juin 2006
+	  - Décret n°2006-337 du 21 mars 2006 - art. 3 () JORF 23 mars 2006 en vigueur le 1er juin 2006
+
+
+##### Section 2 : Du déroulement de la procédure contradictoire
+
+###### Article R57-9-9
+
+Pour l'application des dispositions de l'article 24 de la loi n° 2000-321 du 12 avril 2000 aux décisions prises par
+l'administration pénitentiaire, le détenu dispose d'un délai pour préparer ses observations qui ne peut être inférieur à
+trois heures à partir du moment où il est mis en mesure de consulter les éléments de la procédure, en présence de son avocat
+ou du mandataire agréé, s'il en fait la demande.
+
+L'administration pénitentiaire peut décider de ne pas communiquer au détenu, à son avocat ou au mandataire agréé les
+informations ou documents en sa possession lorsqu'ils contiennent des éléments pouvant porter atteinte à la sécurité des
+établissements pénitentiaires ou des personnes.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°2000-321 du 12 avril 2000 - art. 24 (V)
+
+	**Créé par**:
+
+	  - Décret n°2006-337 du 21 mars 2006 - art. 1 () JORF 23 mars 2006 en vigueur le 1er juin 2006
+	  - Décret n°2006-337 du 21 mars 2006 - art. 3 () JORF 23 mars 2006 en vigueur le 1er juin 2006
+
+	**Cité par**:
+
+	  - Décret n°2015-1000 du 17 août 2015 - art. 2
+	  - Code de l'environnement - art. R221-30 (V)
+	  - Code de procédure pénale - art. A43-3 (V)
+
+	**Codifié par**:
+
+	  - Décret n°59-318 1959-02-03
+
+
+###### Article R57-9-10
+
+Dans le cas où un détenu doit être placé à l'isolement en urgence, le chef d'établissement peut décider le placement
+provisoire à l'isolement du détenu, si la mesure est l'unique moyen de préserver la sécurité de l'établissement ou des
+personnes. Le placement provisoire à l'isolement ne peut excéder cinq jours.
+
+En cas de faute disciplinaire commise par le détenu, le chef d'établissement peut, à titre préventif et sans attendre la
+réunion de la commission de discipline, décider le placement du détenu dans une cellule disciplinaire si la mesure est
+l'unique moyen de mettre fin à la faute ou de préserver l'ordre à l'intérieur de l'établissement.
+
+Le placement préventif en cellule disciplinaire n'est pas applicable aux mineurs de seize ans. Sa durée est limitée au strict
+nécessaire et ne peut excéder deux jours à compter de la date à laquelle les faits ont été portés à la connaissance du chef
+d'établissement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-318 1959-02-03
+
+	**Cite**:
+
+	  - Loi n°2000-321 du 12 avril 2000 - art. 24 (V)
+
+	**Créé par**:
+
+	  - Décret n°2006-337 du 21 mars 2006 - art. 1 () JORF 23 mars 2006 en vigueur le 1er juin 2006
+	  - Décret n°2006-337 du 21 mars 2006 - art. 3 () JORF 23 mars 2006 en vigueur le 1er juin 2006
+
+	**Cité par**:
+
+	  - Code de procédure pénale - art. D283-2-4 (Ab)
 
 
 ### Titre III : Du placement sous surveillance électronique
@@ -82078,9 +82442,9 @@ Cette notice précise, le cas échéant, les mesures prescrites par l'autorité 
 
 ###### Article D56
 
-Indépendamment des mesures d'isolement ou de séparation d'autres détenus qu'il peut ordonner conformément aux dispositions de
-l'article D. 55, le juge d'instruction a le droit de prescrire une interdiction temporaire de communiquer en vertu de
-l'article 145-4.
+Indépendamment des mesures d'isolement ou de séparation d'autres détenus qu'il peut ordonner conformément aux dispositions
+des articles D. 56-1 et D. 56-2, le magistrat saisi du dossier de l'information a le droit de prescrire une interdiction
+temporaire de communiquer en vertu de l'article 145-4. 
 
 En aucun cas, l'interdiction de communiquer ne s'applique au conseil de la personne mise en examen, mais elle s'oppose à ce
 que le détenu qu'elle concerne soit visité par toute autre personne étrangère à l'administration pénitentiaire ou corresponde
@@ -82094,7 +82458,7 @@ avec elle.
 
 	**Modifié par**:
 
-	  - Décret n°98-1099 du 8 décembre 1998 - art. 146 () JORF 9 décembre 1998
+	  - Décret n°2006-338 du 21 mars 2006 - art. 3 () JORF 23 mars 2006 en vigueur le 1er juin 2006
 
 	**Cité par**:
 
@@ -82105,12 +82469,76 @@ avec elle.
 
 	**Cite**:
 
-	  - CODE DE PROCEDURE PENALE - art. 145-4 (M)
-	  - CODE DE PROCEDURE PENALE - art. D55 (M)
+	  - Code de procédure pénale - art. 145-4 (V)
+	  - Code de procédure pénale - art. D56-1 (Ab)
 
-	**Liens**:
 
-	  - TXT_SOURCE: Code de procédure pénale 714 à 728
+###### Article D56-1
+
+Lorsque le magistrat saisi du dossier de l'information ordonne la mise à l'isolement d'une personne placée en détention
+provisoire par le juge des libertés et de la détention en raison des nécessités de l'information, il en précise la durée, qui
+ne peut excéder celle du titre de détention. A défaut de précision, cette durée est celle du titre de détention. Ces
+instructions sont précisées dans la notice prévue par l'article D. 32-1 ou, si la mesure est décidée ultérieurement, dans
+tout autre document transmis au chef d'établissement.
+
+Le magistrat saisi du dossier de l'information peut ordonner le maintien de l'isolement à chaque prolongation de la détention
+provisoire.
+
+Le magistrat saisi du dossier de l'information peut mettre fin à la mesure d'isolement à tout moment, d'office, sur
+réquisitions du procureur de la République, à la requête du chef d'établissement pénitentiaire ou à la demande du détenu.
+
+Le détenu placé à l'isolement par le magistrat saisi du dossier de l'information est soumis au régime de détention prévu par
+les articles D. 283-1-2 à D. 283-1-4.
+
+**Nota:**
+
+Le Conseil d'Etat par arrêt n° 293785 en date du 31 octobre 2008 a annulé l'article 3 II du décret n° 2006-338 du 21 mars
+2006 qui créait le présent article du code pénal.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-322 1959-02-23
+
+	**Créé par**:
+
+	  - Décret n°2006-338 du 21 mars 2006 - art. 3 () JORF 23 mars 2006 en vigueur le 1er juin 2006
+
+	**Cité par**:
+
+	  - Décret n°2006-338 du 21 mars 2006 - art. 5 (V)
+	  - Code de procédure pénale - art. D56 (V)
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. D32-1 (M)
+	  - Code de procédure pénale D32-1, D283-1-2 à D283-1-4
+
+
+###### Article D56-2
+
+Lorsque le magistrat saisi du dossier de l'information ordonne la séparation des détenus en raison des nécessités de
+l'information, ses instructions sont précisées dans la notice individuelle prévue à l'article D. 32-1 ou, si la mesure est
+décidée ultérieurement, dans tout autre document transmis au chef d'établissement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-322 1959-02-23
+
+	**Créé par**:
+
+	  - Décret n°2006-338 du 21 mars 2006 - art. 3 () JORF 23 mars 2006 en vigueur le 1er juin 2006
+
+	**Cité par**:
+
+	  - Décret n°2006-338 du 21 mars 2006 - art. 5 (V)
+
+	**Cite**:
+
+	  - Code de procédure pénale - art. D32-1 (V)
 
 
 ###### Article D57
@@ -91249,32 +91677,25 @@ Toute tentative d'évasion doit également être portée sans délai à la conna
 
 ##### Paragraphe 4 : Mise à l'isolement.
 
+#####    A. - Dispositions générales.
+
 ###### Article D283-1
 
-Tout détenu se trouvant dans un établissement ou quartier en commun peut soit sur sa demande, soit par mesure de précaution
-ou de sécurité, être placé à l'isolement.
+Tout détenu peut être placé à l'isolement par mesure de protection ou de sécurité, soit sur sa demande, soit d'office.
 
-La mise à l'isolement est ordonnée par le chef de l'établissement qui rend compte à bref délai au directeur régional et au
-juge de l'application des peines. Le chef de l'établissement fait en outre rapport à la commission de l'application des
-peines dès la première réunion suivant la mise à l'isolement ou le refus opposé à la demande d'isolement du détenu.
+La décision de placement à l'isolement est prise pour une durée de trois mois maximum. Elle peut être renouvelée pour la même
+durée.
 
-Le détenu peut faire parvenir au juge de l'application des peines soit directement, soit par l'intermédiaire de son conseil,
-toutes observations utiles en ce qui concerne la décision prise à son égard.
+Il peut être mis fin à la mesure d'isolement à tout moment par l'autorité qui a pris la mesure ou qui l'a prolongée, d'office
+ou à la demande du détenu.
 
-La liste des détenus présents au quartier d'isolement est communiquée quotidiennement à l'équipe médicale. Ces détenus font
-l'objet d'un examen médical dans les conditions prévues à l'article D. 381. Il appartient au médecin, chaque fois qu'il
-l'estime utile au regard de l'état de santé du détenu, d'émettre un avis sur l'opportunité de mettre fin à la mesure
-d'isolement.
+Tant pour la décision initiale que pour les décisions ultérieures, il est tenu compte de la personnalité du détenu, de sa
+dangerosité particulière et de son état de santé.
 
-La durée de l'isolement ne peut être prolongée au-delà de trois mois sans qu'un nouveau rapport ait été fait devant la
-commission de l'application des peines et sans une décision du directeur régional.
+**Nota:**
 
-La mesure d'isolement ne peut être prolongée au-delà d'un an à partir de la décision initiale que par décision du ministre de
-la justice, prise sur rapport motivé du directeur régional qui recueille préalablement les avis de la commission de
-l'application des peines et du médecin intervenant à l'établissement.
-
-Un registre des mesures d'isolement est tenu sous la responsabilité du chef d'établissement. Ce registre est visé par les
-autorités administratives et judiciaires lors de leurs visites de contrôle et d'inspection.
+Le Conseil d'Etat par arrêt n° 293785 en date du 31 octobre 2008 a annulé l'article premier du décret n° 2006-338 du 21 mars
+2006 qui créait le présent article du code pénal, en tant qu'il s'applique aux mineurs.
 
 **Liens relatifs à cet article**
 
@@ -91284,7 +91705,7 @@ autorités administratives et judiciaires lors de leurs visites de contrôle et 
 
 	**Modifié par**:
 
-	  - Décret n°98-1099 du 8 décembre 1998 - art. 65 () JORF 9 décembre 1998
+	  - Décret n°2006-338 du 21 mars 2006 - art. 1 () JORF 23 mars 2006 en vigueur le 1er juin 2006
 
 	**Cité par**:
 
@@ -91293,11 +91714,334 @@ autorités administratives et judiciaires lors de leurs visites de contrôle et 
 	  - Code de procédure pénale - art. D283-2-1 (Ab)
 
 
-###### Article D283-2
+###### Article D283-1-1
+
+Toute décision de placement ou de prolongation d'isolement est communiquée par le chef d'établissement au juge de
+l'application des peines s'il s'agit d'un condamné ou au magistrat saisi du dossier de l'information s'il s'agit d'un
+prévenu.
+
+Lorsque l'isolement est prolongé au-delà d'un an, le chef d'établissement, préalablement à la décision, sollicite l'avis du
+juge de l'application des peines s'il s'agit d'un condamné ou du magistrat saisi du dossier de l'information s'il s'agit d'un
+prévenu.
+
+Le détenu peut faire parvenir au juge de l'application des peines ou au magistrat saisi du dossier de l'information toutes
+observations concernant la décision prise à son égard.
+
+Au moins une fois par trimestre le chef d'établissement rend compte à la commission de l'application des peines du nombre et
+de l'identité des détenus placés à l'isolement et de la durée de celui-ci pour chacun d'eux.
+
+**Nota:**
+
+Le Conseil d'Etat par arrêt n° 293785 en date du 31 octobre 2008 a annulé l'article premier du décret n° 2006-338 du 21 mars
+2006 qui créait le présent article du code pénal, en tant qu'il s'applique aux mineurs.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-322 du 23 février 1959
+
+	**Créé par**:
+
+	  - Décret n°2006-338 du 21 mars 2006 - art. 1 () JORF 23 mars 2006 en vigueur le 1er juin 2006
+
+	**Abrogé par**:
+
+	  - Décret n°2010-1635 du 23 décembre 2010 - art. 46
+
+
+#####    B. - Régime de détention à l'isolement.
+
+###### Article D283-1-2
 
 La mise à l'isolement ne constitue pas une mesure disciplinaire.
 
-Les détenus qui en font l'objet sont soumis au régime ordinaire de détention.
+Le détenu placé à l'isolement est seul en cellule.
+
+Il conserve ses droits à l'information, aux visites, à la correspondance, à l'exercice du culte.
+
+Il ne peut participer aux promenades et activités collectives auxquelles peuvent prétendre les détenus soumis au régime de
+détention ordinaire sauf s'il y a été autorisé pour une activité spécifique par le chef d'établissement.
+
+Il bénéficie de la promenade quotidienne prévue à l'article D. 359 du code de procédure pénale.
+
+Toutefois, le chef d'établissement organise, dans toute la mesure du possible et en fonction de la personnalité du détenu,
+des activités communes aux détenus placés à l'isolement.
+
+**Nota:**
+
+Le Conseil d'Etat par arrêt n° 293785 en date du 31 octobre 2008 a annulé l'article premier du décret n° 2006-338 du 21 mars
+2006 qui créait le présent article du code pénal, en tant qu'il s'applique aux mineurs.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-322 du 23 février 1959
+
+	**Créé par**:
+
+	  - Décret n°2006-338 du 21 mars 2006 - art. 1 () JORF 23 mars 2006 en vigueur le 1er juin 2006
+
+	**Abrogé par**:
+
+	  - Décret n°2010-1635 du 23 décembre 2010 - art. 46
+
+	**Cite**:
+
+	  - Code de procédure pénale - art. D359
+
+
+###### Article D283-1-3
+
+La liste des détenus placés à l'isolement est communiquée quotidiennement à l'équipe médicale. Ces détenus font l'objet d'un
+examen médical dans les conditions prévues à l'article D. 381. Le médecin, chaque fois qu'il l'estime utile au regard de
+l'état de santé du détenu, émet un avis sur l'opportunité de mettre fin à l'isolement.
+
+**Nota:**
+
+Le Conseil d'Etat par arrêt n° 293785 en date du 31 octobre 2008 a annulé l'article premier du décret n° 2006-338 du 21 mars
+2006 qui créait le présent article du code pénal, en tant qu'il s'applique aux mineurs.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-322 du 23 février 1959
+
+	**Créé par**:
+
+	  - Décret n°2006-338 du 21 mars 2006 - art. 1 () JORF 23 mars 2006 en vigueur le 1er juin 2006
+
+	**Abrogé par**:
+
+	  - Décret n°2010-1635 du 23 décembre 2010 - art. 46
+
+	**Cité par**:
+
+	  - Code de procédure pénale - art. D381 (Ab)
+
+
+###### Article D283-1-4
+
+Toute décision de placement, prolongation ou levée de l'isolement est consignée dans une fiche versée au dossier individuel
+du détenu.
+
+Il est tenu un registre des mesures d'isolement sous la responsabilité du chef d'établissement. Ce registre est visé par les
+autorités administratives et judiciaires lors de leurs visites de contrôle et d'inspection.
+
+**Nota:**
+
+Le Conseil d'Etat par arrêt n° 293785 en date du 31 octobre 2008 a annulé l'article premier du décret n° 2006-338 du 21 mars
+2006 qui créait le présent article du code pénal, en tant qu'il s'applique aux mineurs.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-322 du 23 février 1959
+
+	**Créé par**:
+
+	  - Décret n°2006-338 du 21 mars 2006 - art. 1 () JORF 23 mars 2006 en vigueur le 1er juin 2006
+
+	**Abrogé par**:
+
+	  - Décret n°2010-1635 du 23 décembre 2010 - art. 46
+
+
+#####    C. - Autorité compétente pour décider de l'isolement.
+
+###### Article D283-1-5
+
+Le chef d'établissement décide de la mise à l'isolement. Il peut renouveler la mesure une fois.
+
+Il rend compte de sa décision au directeur régional.
+
+**Nota:**
+
+Le Conseil d'Etat par arrêt n° 293785 en date du 31 octobre 2008 a annulé l'article premier du décret n° 2006-338 du 21 mars
+2006 qui créait le présent article du code pénal, en tant qu'il s'applique aux mineurs.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-322 1959-02-23
+
+	**Créé par**:
+
+	  - Décret n°2006-338 du 21 mars 2006 - art. 1 () JORF 23 mars 2006 en vigueur le 1er juin 2006
+
+	**Abrogé par**:
+
+	  - Décret n°2010-1635 du 23 décembre 2010 - art. 46
+
+	**Cité par**:
+
+	  - Code de procédure pénale - art. D283-1-8 (Ab)
+
+
+###### Article D283-1-6
+
+A l'issue du renouvellement de la mesure, le directeur régional des services pénitentiaires peut prolonger l'isolement.
+
+La décision est prise sur rapport motivé du chef d'établissement.
+
+Cette décision peut être renouvelée une fois.
+
+**Nota:**
+
+Le Conseil d'Etat par arrêt n° 293785 en date du 31 octobre 2008 a annulé l'article premier du décret n° 2006-338 du 21 mars
+2006 qui créait le présent article du code pénal, en tant qu'il s'applique aux mineurs.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-322 1959-02-23
+
+	**Créé par**:
+
+	  - Décret n°2006-338 du 21 mars 2006 - art. 1 () JORF 23 mars 2006 en vigueur le 1er juin 2006
+
+
+###### Article D283-1-7
+
+Lorsque le détenu est à l'isolement depuis un an à compter de la décision initiale, le ministre de la justice peut, par
+dérogation à l'article D. 283-1, décider de prolonger l'isolement pour une durée de quatre mois renouvelable.
+
+La décision est prise sur rapport motivé du directeur régional qui recueille préalablement les observations du chef
+d'établissement et l'avis écrit du médecin intervenant à l'établissement.
+
+L'isolement ne peut être prolongé au-delà de deux ans sauf, à titre exceptionnel, si le placement à l'isolement constitue
+l'unique moyen d'assurer la sécurité des personnes ou de l'établissement.
+
+Dans ce cas, la décision de prolongation doit être spécialement motivée.
+
+**Nota:**
+
+Le Conseil d'Etat par arrêt n° 293785 en date du 31 octobre 2008 a annulé l'article premier du décret n° 2006-338 du 21 mars
+2006 qui créait le présent article du code pénal, en tant qu'il s'applique aux mineurs.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-322 du 23 février 1959
+
+	**Créé par**:
+
+	  - Décret n°2006-338 du 21 mars 2006 - art. 1 () JORF 23 mars 2006 en vigueur le 1er juin 2006
+
+	**Abrogé par**:
+
+	  - Décret n°2010-1635 du 23 décembre 2010 - art. 46
+
+	**Cite**:
+
+	  - Code de procédure pénale - art. D283-1
+
+
+###### Article D283-1-8
+
+Pour l'application des articles D. 283-1-5 à D. 283-1-7, lorsque le détenu a déjà été placé à l'isolement, la durée de
+l'isolement antérieur s'impute sur la durée de la nouvelle mesure si l'interruption de l'isolement est inférieure à un an.
+
+Si l'interruption est supérieure à un an, il est fait application de l'article D. 283-1-5.
+
+**Nota:**
+
+Le Conseil d'Etat par arrêt n° 293785 en date du 31 octobre 2008 a annulé l'article premier du décret n° 2006-338 du 21 mars
+2006 qui créait le présent article du code pénal, en tant qu'il s'applique aux mineurs.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-322 du 23 février 1959
+
+	**Créé par**:
+
+	  - Décret n°2006-338 du 21 mars 2006 - art. 1 () JORF 23 mars 2006 en vigueur le 1er juin 2006
+
+	**Abrogé par**:
+
+	  - Décret n°2010-1635 du 23 décembre 2010 - art. 46
+
+	**Cite**:
+
+	  - Code de procédure pénale
+	  - Code de procédure pénale - art. D283-1-5
+
+
+###### Article D283-1-9
+
+Lorsque le détenu faisant l'objet d'une mesure d'isolement d'office est transféré, le placement à l'isolement est maintenu
+provisoirement à l'arrivée du détenu dans le nouvel établissement.
+
+A l'issue d'un délai de quinze jours, si aucune décision d'isolement n'a été prise, il est mis fin à l'isolement.
+
+**Nota:**
+
+Le Conseil d'Etat par arrêt n° 293785 en date du 31 octobre 2008 a annulé l'article premier du décret n° 2006-338 du 21 mars
+2006 qui créait le présent article du code pénal, en tant qu'il s'applique aux mineurs.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-322 1959-02-23
+
+	**Créé par**:
+
+	  - Décret n°2006-338 du 21 mars 2006 - art. 1 () JORF 23 mars 2006 en vigueur le 1er juin 2006
+
+	**Abrogé par**:
+
+	  - Décret n°2010-1635 du 23 décembre 2010 - art. 46
+
+
+###### Article D283-1-10
+
+L'hospitalisation du détenu ou son placement en cellule disciplinaire sont sans effet sur le terme de l'isolement
+antérieurement décidé.
+
+**Nota:**
+
+Le Conseil d'Etat par arrêt n° 293785 en date du 31 octobre 2008 a annulé l'article premier du décret n° 2006-338 du 21 mars
+2006 qui créait le présent article du code pénal, en tant qu'il s'applique aux mineurs.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-322 1959-02-23
+
+	**Créé par**:
+
+	  - Décret n°2006-338 du 21 mars 2006 - art. 1 () JORF 23 mars 2006 en vigueur le 1er juin 2006
+
+	**Abrogé par**:
+
+	  - Décret n°2010-1635 du 23 décembre 2010 - art. 46
+
+
+#####    D. - Isolement à la demande d'un détenu.
+
+###### Article D283-2
+
+Le détenu qui demande son placement à l'isolement ou la prolongation de son isolement adresse au chef d'établissement une
+demande écrite et motivée. Si le détenu est dans l'impossibilité de présenter une requête écrite, sa demande fait l'objet
+d'un compte rendu écrit.
+
+Lorsque la décision relève de la compétence du directeur régional des services pénitentiaires ou du ministre de la justice,
+le chef d'établissement transmet dans les meilleurs délais la demande du détenu et un rapport motivé au directeur régional.
+
+**Nota:**
+
+Le Conseil d'Etat par arrêt n° 293785 en date du 31 octobre 2008 a annulé l'article premier du décret n° 2006-338 du 21 mars
+2006 qui modifiait le présent article du code pénal, en tant qu'il s'applique aux mineurs.
 
 **Liens relatifs à cet article**
 
@@ -91307,7 +92051,142 @@ Les détenus qui en font l'objet sont soumis au régime ordinaire de détention.
 
 	**Modifié par**:
 
-	  - Décret n°98-1099 du 8 décembre 1998 - art. 190 () JORF 9 décembre 1998
+	  - Décret n°2006-338 du 21 mars 2006 - art. 1 () JORF 23 mars 2006 en vigueur le 1er juin 2006
+
+
+###### Article D283-2-1
+
+Par dérogation à l'article D. 283-1, l'isolement est levé par le chef d'établissement dès que le détenu en fait la demande.
+
+Lorsque l'autorité qui a pris la décision envisage de lever l'isolement sans l'accord du détenu, la décision est prise dans
+les conditions des articles D. 283-2-2 et D. 283-2-3.
+
+**Nota:**
+
+Le Conseil d'Etat par arrêt n° 293785 en date du 31 octobre 2008 a annulé l'article premier du décret n° 2006-338 du 21 mars
+2006 qui créait le présent article du code pénal, en tant qu'il s'applique aux mineurs.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-322 du 23 février 1959
+
+	**Créé par**:
+
+	  - Décret n°2006-338 du 21 mars 2006 - art. 1 () JORF 23 mars 2006 en vigueur le 1er juin 2006
+
+	**Abrogé par**:
+
+	  - Décret n°2010-1635 du 23 décembre 2010 - art. 46
+
+	**Cite**:
+
+	  - Code de procédure pénale - art. D283-1
+	  - Code de procédure pénale - art. D283-2-2
+	  - Code de procédure pénale - art. D283-2-3
+
+
+#####    E. - Isolement d'office d'un détenu.
+
+###### Article D283-2-2
+
+Lorsqu'une décision d'isolement d'office ou de prolongation est envisagée, le détenu est informé, par écrit, des motifs
+invoqués par l'administration, du déroulement de la procédure et du délai dont il dispose pour préparer ses observations.
+
+Si le détenu ne comprend pas la langue française, ces informations sont présentées par l'intermédiaire d'un interprète
+désigné par le chef de l'établissement. Il en est de même de ses observations, s'il n'est pas en mesure de s'exprimer en
+langue française.
+
+Les observations du détenu et, le cas échéant, celles de son avocat ou du mandataire agréé sont jointes au dossier de la
+procédure. Si le détenu présente des observations orales, elles font l'objet d'un compte rendu écrit.
+
+Le chef d'établissement transmet le dossier de la procédure au directeur régional des services pénitentiaires lorsque la
+décision relève de la compétence de celui-ci ou du ministre de la justice.
+
+**Nota:**
+
+Le Conseil d'Etat par arrêt n° 293785 en date du 31 octobre 2008 a annulé l'article premier du décret n° 2006-338 du 21 mars
+2006 qui créait le présent article du code pénal, en tant qu'il s'applique aux mineurs.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-322 1959-02-23
+
+	**Créé par**:
+
+	  - Décret n°2006-338 du 21 mars 2006 - art. 1 () JORF 23 mars 2006 en vigueur le 1er juin 2006
+
+	**Cité par**:
+
+	  - Code de procédure pénale - art. D283-2-1 (Ab)
+	  - Code de procédure pénale - art. D283-2-4 (Ab)
+
+
+###### Article D283-2-3
+
+La décision est motivée. Elle est notifiée sans délai au détenu par le chef d'établissement.
+
+**Nota:**
+
+Le Conseil d'Etat par arrêt n° 293785 en date du 31 octobre 2008 a annulé l'article premier du décret n° 2006-338 du 21 mars
+2006 qui créait le présent article du code pénal, en tant qu'il s'applique aux mineurs.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-322 du 23 février 1959
+
+	**Créé par**:
+
+	  - Décret n°2006-338 du 21 mars 2006 - art. 1 () JORF 23 mars 2006 en vigueur le 1er juin 2006
+
+	**Abrogé par**:
+
+	  - Décret n°2010-1635 du 23 décembre 2010 - art. 46
+
+	**Cité par**:
+
+	  - Code de procédure pénale - art. D283-2-1 (Ab)
+	  - Code de procédure pénale - art. D283-2-4 (Ab)
+
+
+###### Article D283-2-4
+
+En cas d'urgence, le détenu peut être placé à l'isolement provisoire dans les conditions prévues à l'article R. 57-9-10.
+
+A l'issue d'un délai de cinq jours, si aucune décision de placement à l'isolement prise dans les conditions des articles D.
+283-2-2 et D. 283-2-3 n'est intervenue, il est mis fin à l'isolement.
+
+La durée du placement provisoire à l'isolement s'impute sur la durée totale de l'isolement.
+
+**Nota:**
+
+Le Conseil d'Etat par arrêt n° 293785 en date du 31 octobre 2008 a annulé l'article premier du décret n° 2006-338 du 21 mars
+2006 qui créait le présent article du code pénal, en tant qu'il s'applique aux mineurs.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-322 1959-02-23
+
+	**Créé par**:
+
+	  - Décret n°2006-338 du 21 mars 2006 - art. 1 () JORF 23 mars 2006 en vigueur le 1er juin 2006
+
+	**Abrogé par**:
+
+	  - Décret n°2010-1635 du 23 décembre 2010 - art. 46
+
+	**Cite**:
+
+	  - Code de procédure pénale - art. D283-2-2
+	  - Code de procédure pénale - art. D283-2-3
+	  - Code de procédure pénale - art. R57-9-10
 
 
 ##### Paragraphe 5 : Moyens de contrainte.
@@ -91475,7 +92354,9 @@ chef de l'établissement ou par un de ses subordonnés immédiats.
 
 Dans les délais les plus brefs, le détenu est soumis à un examen médical dans les conditions prévues à l'article D. 381.
 
-Le détenu est également visité, dès que possible, par un membre du service pénitentiaire d'insertion et de probation.
+Le détenu est également visité, dès que possible, par un membre du service pénitentiaire d'insertion et de probation. Lorsque
+le détenu est mineur, cet entretien peut être réalisé par un éducateur des services du secteur public de la protection
+judiciaire de la jeunesse.
 
 Le détenu qui manifeste son intention de pratiquer sa religion peut être visité par le ministre du culte, conformément aux
 dispositions de l'article D. 436.
@@ -91488,12 +92369,7 @@ dispositions de l'article D. 436.
 
 	**Modifié par**:
 
-	  - Décret n°99-276 du 13 avril 1999 - art. 10 () JORF 14 avril 1999
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°99-276 du 13 avril 1999 - art. 37 (V)
-	  - TXT_SOURCE: Code de procédure pénale 714 à 728
+	  - Décret n°2006-338 du 21 mars 2006 - art. 4 () JORF 23 mars 2006 en vigueur le 1er juin 2006
 
 	**Cité par**:
 
@@ -94460,8 +95336,8 @@ a) Un examen médical systématique pour les détenus venant de l'état de liber
 b) Les visites aux détenus placés au quartier disciplinaire dans les conditions prévues à l'article D. 251-4, chaque fois que
 ces médecins l'estiment nécessaire et en tout cas deux fois par semaine au moins ;
 
-c) Les visites au quartier d'isolement, dans les conditions prévues à l'article D. 283-1, chaque fois que ces médecins
-l'estiment nécessaire et en tout cas deux fois par semaine au moins ;
+c) Les visites aux détenus placés à l'isolement, dans les conditions prévues à l'article D. 283-1-3, chaque fois que ces
+médecins l'estiment nécessaire et en tout cas deux fois par semaine au moins ;
 
 d) L'examen des détenus sollicitant des attestations relatives à une inaptitude au travail pour raison médicale ;
 
@@ -94476,28 +95352,27 @@ Ces médecins veillent à ce que la continuité des soins soit assurée à l'occ
 
 	**Codifié par**:
 
-	  - Décret n°59-322 1959-02-23
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°59-322 1959-02-23 art. 6
-	  - TXT_SOURCE: Code de procédure pénale 714 à 728
+	  - Décret n°59-322 du 23 février 1959
 
 	**Modifié par**:
 
-	  - Décret n°98-1099 du 8 décembre 1998 - art. 90 () JORF 9 décembre 1998
+	  - Décret n°2006-338 du 21 mars 2006 - art. 2 () JORF 23 mars 2006 en vigueur le 1er juin 2006
 
-	**Cite**:
+	**Abrogé par**:
 
-	  - CODE DE PROCEDURE PENALE - art. D251-4 (M)
-	  - CODE DE PROCEDURE PENALE - art. D368 (M)
-	  - CODE DE PROCEDURE PENALE - art. D371 (M)
+	  - Décret n°2010-1635 du 23 décembre 2010 - art. 46
 
 	**Cité par**:
 
 	  - CODE DE PROCEDURE PENALE - art. D283-1 (M)
 	  - CODE DE PROCEDURE PENALE - art. D285 (V)
-	  - Code de procédure pénale - art. D283-1-3 (Ab)
+
+	**Cite**:
+
+	  - Code de procédure pénale - art. D251-4
+	  - Code de procédure pénale - art. D283-1-3
+	  - Code de procédure pénale - art. D368
+	  - Code de procédure pénale - art. D371
 
 
 ###### Article D382
@@ -98337,9 +99212,9 @@ Leur régime alimentaire est amélioré par rapport à celui des adultes, confor
 
 ###### Article D518
 
-Les agents des services déconcentrés de la protection judiciaire de la jeunesse et les assistants de service social relevant
-des juridictions pour enfants sont habilités à visiter les mineurs détenus dans les mêmes conditions que les visiteurs de
-prison.
+Les éducateurs et les assistants du service social des services du secteur public de la protection judiciaire de la jeunesse
+sont habilités à suivre les mineurs détenus dans les mêmes conditions que les travailleurs sociaux du service pénitentiaire
+d'insertion et de probation.
 
 **Liens relatifs à cet article**
 
@@ -98349,16 +99224,12 @@ prison.
 
 	**Modifié par**:
 
-	  - Décret n°98-1099 du 8 décembre 1998 - art. 174 () JORF 9 décembre 1998
+	  - Décret n°2006-338 du 21 mars 2006 - art. 4 () JORF 23 mars 2006 en vigueur le 1er juin 2006
 
 	**Cité par**:
 
 	  - Décret n°2006-338 du 21 mars 2006 - art. 5 (V)
 	  - Décret n°2014-1277 du 23 octobre 2014 - art. (V)
-
-	**Liens**:
-
-	  - TXT_SOURCE: Code de procédure pénale 714 à 728
 
 
 ###### Article D519
