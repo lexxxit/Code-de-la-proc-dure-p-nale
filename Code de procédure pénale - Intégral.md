@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 2006-06-09
+Version Consolidée au 2006-06-14
 
 # Partie législative
 
@@ -100826,8 +100826,8 @@ sur le fondement de dispositions particulières ; ces autorités et organismes s
 Le directeur du bureau d'enquêtes et d'analyses pour la sécurité de l'aviation civile.
 
 2° En application de l'article 19 de la loi n° 2002-3 du 3 janvier 2002 relative à la sécurité des infrastructures et
-systèmes de transport, aux enquêtes techniques après événement de mer, accident ou incident de transport terrestre ou aérien
-et au stockage souterrain de gaz naturel, d'hydrocarbures et de produits chimiques :
+systèmes de transport, aux enquêtes techniques et au stockage souterrain de gaz naturel, d'hydrocarbures et de produits
+chimiques :
 
 Le directeur du bureau d'enquêtes techniques et administratives après accidents (BEA mer).
 
@@ -100839,10 +100839,6 @@ Le directeur du bureau d'enquêtes sur les accidents de transport terrestre (BEA
 
 	  - Arrêté 1958-12-23
 
-	**Modifié par**:
-
-	  - Arrêté 2004-05-03 art. 1 JORF 18 mai 2004
-
 	**Cite**:
 
 	  - Loi n°2002-3 2002-01-03 art. 19
@@ -100850,6 +100846,10 @@ Le directeur du bureau d'enquêtes sur les accidents de transport terrestre (BEA
 	  - Code de l'aviation civile - art. L721-3 (M)
 	  - Code de l'aviation civile - art. L721-5 (M)
 	  - Code de l'aviation civile - art. L721-6 (M)
+
+	**Modifié par**:
+
+	  - Loi n°2006-686 du 13 juin 2006 - art. 61 (V) JORF 14 juin 2006
 
 	**Nouveaux textes**:
 
