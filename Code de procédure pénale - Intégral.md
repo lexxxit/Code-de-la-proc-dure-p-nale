@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 2006-06-14
+Version Consolidée au 2006-06-21
 
 # Partie législative
 
@@ -102562,43 +102562,6 @@ l'exercice de certaines missions de police judiciaire.
 	**Créé par**:
 
 	  - Arrêté 2000-11-02 art. 1 JORF 4 novembre 2000
-
-
-###### Article A36-11
-
-La liste des agents qui, en raison de leurs responsabilités et de leurs compétences, sont dispensés de l'examen technique
-mentionné à l'article R. 15-33-3 est fixée comme suit, conformément à l'article R. 15-33-6 :
-
-- le chef de la direction nationale du renseignement et des enquêtes douanières (DNRED) ;
-
-- le directeur des enquêtes douanières ;
-
-- le directeur du renseignement et de la documentation ;
-
-- l'adjoint opérationnel du chef de la DNRED ;
-
-- les responsables des divisions d'enquête et de recherche de la DNRED ;
-
-- les responsables des échelons de la DNRED.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Arrêté 1958-12-23
-
-	**Créé par**:
-
-	  - Arrêté 2000-11-02 art. 1 JORF 4 novembre 2000
-
-	**Abrogé par**:
-
-	  - Arrêté 2006-06-13 art. 1 JORF 21 juin 2006
-
-	**Cite**:
-
-	  - CODE DE PROCEDURE PENALE - art. R15-33-3 (M)
-	  - CODE DE PROCEDURE PENALE - art. R15-33-6 (V)
 
 
 ## Livre II : Des juridictions de jugement
