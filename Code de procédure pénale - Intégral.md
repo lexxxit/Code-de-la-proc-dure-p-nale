@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 2006-10-06
+Version Consolidée au 2006-11-03
 
 # Partie législative
 
@@ -53320,9 +53320,9 @@ aient accompli quatre ans en activité de service dans la gendarmerie.
 
 ###### Article R8
 
-La commission prévue à l'article 16 (3° et 4°), dont l'avis conforme est requis pour la désignation des fonctionnaires du
-corps de commandement et d'encadrement et du corps de maîtrise et d'application de la police nationale auxquels est attribuée
-la qualité d'officier de police judiciaire, est composée comme suit :
+La commission prévue à l'article 16 (4°), dont l'avis conforme est requis pour la désignation des fonctionnaires du corps
+d'encadrement et d'application de la police nationale auxquels est attribuée la qualité d'officier de police judiciaire, est
+composée comme suit :
 
 1° Le procureur général près la Cour de cassation ou son délégué choisi par lui parmi le premier avocat général et les
 avocats généraux près la Cour de cassation, président ;
@@ -53335,7 +53335,7 @@ avocats généraux près la Cour de cassation, président ;
 
 5° Le directeur de la formation de la police nationale ou son représentant ;
 
-6° Neuf fonctionnaires de la police nationale ayant au moins rang de commissaire principal.
+6° Neuf fonctionnaires de la police nationale ayant au moins rang de commissaire.
 
 Toutefois l'effectif des magistrats et celui des fonctionnaires de la police nationale prévus aux 2° et 6° peut être augmenté
 en nombre égal, sans pouvoir respectivement excéder quinze et douze, par arrêté conjoint du garde des sceaux, ministre de la
@@ -53348,9 +53348,13 @@ Le secrétariat de la commission est assuré par la direction de la formation de
 
 **Liens relatifs à cet article**
 
+	**Codifié par**:
+
+	  - Décret n°58-358 1958-04-02
+
 	**Modifié par**:
 
-	  - Décret n°2001-411 du 10 mai 2001 - art. 1 () JORF 12 mai 2001
+	  - Décret n°2006-1329 du 31 octobre 2006 - art. 1 () JORF 3 novembre 2006
 
 	**Cite**:
 
@@ -53382,17 +53386,19 @@ et du ministre de l'intérieur.
 
 ###### Article R10
 
-La qualité d'officier de police judiciaire peut être attribuée aux fonctionnaires du corps de commandement et d'encadrement
-de la police nationale ayant satisfait aux épreuves d'un examen technique.
-
-Elle peut être attribuée dans les mêmes conditions aux fonctionnaires du corps de maîtrise et d'application de la police
-nationale comptant au moins trois ans de services dans ce corps. Ceux-ci doivent avoir exercé au moins deux ans de services
-dans ce corps au 1er janvier de l'année de l'examen pour être autorisés à subir les épreuves.
+La qualité d'officier de police judiciaire peut être attribuée aux fonctionnaires du corps d'encadrement et d'application de
+la police nationale ayant satisfait aux épreuves d'un examen technique et comptant au moins trois ans de service dans ce
+corps. Ceux-ci doivent avoir exercé au moins deux ans de services dans ce corps au 1er janvier de l'année de l'examen pour
+être autorisés à subir les épreuves.
 
 Les modalités d'organisation de l'examen technique et le programme des épreuves sont fixés par arrêté conjoint du garde des
 sceaux, ministre de la justice, et du ministre de l'intérieur.
 
 **Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°58-358 1958-04-02
 
 	**Cité par**:
 
@@ -53407,7 +53413,7 @@ sceaux, ministre de la justice, et du ministre de l'intérieur.
 
 	**Modifié par**:
 
-	  - Décret n°2001-411 du 10 mai 2001 - art. 2 () JORF 12 mai 2001
+	  - Décret n°2006-1329 du 31 octobre 2006 - art. 2 () JORF 3 novembre 2006
 
 
 ###### Article R11
@@ -71146,37 +71152,6 @@ présent code en euros est converti en monnaie locale compte tenu de la contre-v
 
 #### Chapitre II : De l'exercice de l'action publique et de l'instruction
 
-###### Article R255
-
-Pour l'application des articles R. 8 et R. 10, les mots : "du corps de commandement et d'encadrement et du corps de maîtrise
-et d'application de la police nationale" sont remplacés par les mots :
-
-"du corps des inspecteurs et du corps des commandants et officiers de paix de la police nationale".
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°59-318 1959-02-23
-
-	**Créé par**:
-
-	  - Décret n°2005-404 du 27 avril 2005 - art. 6 () JORF 30 avril 2005
-
-	**Abrogé par**:
-
-	  - Décret n°2006-1329 du 31 octobre 2006 - art. 3 (V) JORF 3 novembre 2006
-
-	**Cité par**:
-
-	  - Décret n°2006-1329 du 31 octobre 2006 - art. 3 (V)
-
-	**Cite**:
-
-	  - CODE DE PROCEDURE PENALE - art. R10 (M)
-	  - CODE DE PROCEDURE PENALE - art. R8 (M)
-
-
 ###### Article R256
 
 Pour l'application des articles R. 15-1 et R. 15-5, un alinéa ainsi rédigé complète ces articles : 
@@ -73647,37 +73622,6 @@ compte des adaptations prévues par le présent titre.
 
 
 #### Chapitre II : De l'exercice de l'action publique et de l'instruction
-
-###### Article R361
-
-Pour l'application des articles R. 8 et R. 10, les mots : "du corps de commandement et d'encadrement et du corps de maîtrise
-et d'application de la police nationale" sont remplacés par les mots :
-
-"du corps des inspecteurs et du corps des commandants et officiers de paix de la police nationale".
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°59-318 1959-02-23
-
-	**Créé par**:
-
-	  - Décret n°2005-404 du 27 avril 2005 - art. 13 () JORF 30 avril 2005
-
-	**Abrogé par**:
-
-	  - Décret n°2006-1329 du 31 octobre 2006 - art. 3 (V) JORF 3 novembre 2006
-
-	**Cité par**:
-
-	  - Décret n°2006-1329 du 31 octobre 2006 - art. 3 (V)
-
-	**Cite**:
-
-	  - CODE DE PROCEDURE PENALE - art. R10 (M)
-	  - CODE DE PROCEDURE PENALE - art. R8 (M)
-
 
 ###### Article R362
 
