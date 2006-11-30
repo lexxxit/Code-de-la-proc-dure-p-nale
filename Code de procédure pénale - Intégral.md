@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 2006-11-30
+Version Consolidée au 2006-12-01
 
 # Partie législative
 
@@ -55222,6 +55222,309 @@ Il l'informe régulièrement de son activité.
 	**Créé par**:
 
 	  - Décret n°2000-1072 du 2 novembre 2000 - art. 2 () JORF 4 novembre 2000
+
+
+##### Section 7 : Des gardes particuliers
+
+##### Paragraphe 1er : Commissionnement
+
+###### Article R15-33-24
+
+La commission délivrée en application de l'article 29-1 par le propriétaire ou le titulaire de droits d'usage, ci-après
+dénommé le commettant, précise le ou les territoires que le garde particulier est chargé de surveiller, ainsi que la nature
+des infractions qu'il est chargé de constater en application des dispositions qui l'y autorisent. 
+
+Lorsque le commettant retire la commission d'un garde particulier qu'il emploie, il en informe sans délai le préfet qui met
+fin à l'agrément.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°58-358 1958-04-02
+
+	**Modifié par**:
+
+	  - Décret n°2006-1100 du 30 août 2006 - art. 1 () JORF 1er septembre 2006 en vigueur le 1er décembre 2006
+
+	**Cité par**:
+
+	  - Code forestier (nouveau) - art. R361-1 (V)
+	  - Code de l'environnement - art. R322-15-1 (V)
+	  - Code de l'environnement - art. R428-25 (V)
+	  - Code de l'environnement - art. R428-26 (V)
+	  - Code de l'environnement - art. R437-3-1 (V)
+	  - Code de procédure pénale - art. R15-33-25 (V)
+	  - Code de procédure pénale - art. R15-33-27-1 (V)
+	  - Code forestier - art. R224-1 (Ab)
+
+	**Cite**:
+
+	  - Code de procédure pénale - art. 29-1 (V)
+
+
+##### Paragraphe 2 : Agrément et assermentation
+
+###### Article R15-33-25
+
+Le commettant adresse la demande d'agrément au préfet du département où se situe la propriété désignée dans la commission. 
+
+Cette demande comprend : 
+
+1° L'identité et l'adresse du commettant ; 
+
+2° L'identité et l'adresse du garde particulier ; 
+
+3° Une pièce justificative de l'identité du garde particulier ; 
+
+4° La commission délivrée au garde particulier en application de l'article R. 15-33-24 ; 
+
+5° L'arrêté prévu à l'article R. 15-33-26 reconnaissant l'aptitude technique du garde particulier ; 
+
+6° Tout document établissant que le demandeur dispose des droits de propriété ou d'usage sur le territoire que le garde
+particulier sera chargé de surveiller ; 
+
+7° Le cas échéant, une copie des agréments délivrés antérieurement au garde particulier. 
+
+Lorsque le garde particulier intervient sur les territoires de plusieurs propriétaires ou titulaires de droits d'usage,
+chacun d'eux dépose une demande dans les conditions fixées ci-dessus. Le préfet peut statuer globalement sur ces demandes et
+délivrer un agrément unique pour l'ensemble des territoires concernés.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°58-358 1958-04-02
+
+	**Modifié par**:
+
+	  - Décret n°2006-1100 du 30 août 2006 - art. 1 () JORF 1er septembre 2006 en vigueur le 1er décembre 2006
+
+	**Cité par**:
+
+	  - Code de l'environnement - art. R428-26 (V)
+	  - Code de l'environnement - art. R428-28 (V)
+	  - Code de procédure pénale - art. R15-33-28 (V)
+
+	**Cite**:
+
+	  - Code de procédure pénale - art. R15-33-24 (V)
+	  - Code de procédure pénale - art. R15-33-26 (V)
+
+
+###### Article R15-33-26
+
+Un arrêté conjoint du ministre de l'intérieur et des ministres chargés de l'environnement et de la forêt définit les éléments
+que doit comporter la demande de reconnaissance de l'aptitude technique aux fonctions de garde particulier, le contenu et la
+durée de la formation nécessaire à la reconnaissance de cette aptitude technique, ainsi que les catégories de personnes pour
+lesquelles une formation n'est pas exigée.
+
+L'aptitude technique de la personne qui souhaite exercer les fonctions de garde particulier est constatée par arrêté du
+préfet du département où la formation a été suivie ou, lorsque le demandeur appartient à une des catégories de personnes pour
+lesquelles aucune formation n'est exigée, par arrêté du préfet du département de son domicile ou du département dans lequel
+elle envisage d'exercer ses fonctions.
+
+S'il estime que les éléments produits justifient de l'aptitude à l'accomplissement des missions de garde particulier, le
+préfet prend, par arrêté, une décision reconnaissant l'aptitude technique du demandeur à exercer, dans les domaines fixés par
+l'arrêté, les fonctions de garde particulier. Cet arrêté est valable sur l'ensemble du territoire national.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°58-358 1958-04-02
+
+	**Modifié par**:
+
+	  - Décret n°2006-1100 du 30 août 2006 - art. 1 () JORF 1er septembre 2006 en vigueur le 1er décembre 2006
+
+	**Cité par**:
+
+	  - Arrêté du 30 août 2006 - art. 1 (V)
+	  - Décret n°2014-1294 du 23 octobre 2014 - art. (VD)
+	  - Code de procédure pénale - art. R15-33-25 (V)
+	  - Code de procédure pénale - art. R15-33-28 (V)
+
+
+###### Article R15-33-27
+
+Le préfet accuse réception du dossier de demande d'agrément. Il fait procéder à une enquête administrative pour s'assurer que
+le demandeur satisfait aux conditions fixées au 1° de l'article 29-1.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°58-358 1958-04-02
+
+	**Modifié par**:
+
+	  - Décret n°2006-1100 du 30 août 2006 - art. 1 () JORF 1er septembre 2006 en vigueur le 1er décembre 2006
+
+	**Cite**:
+
+	  - Code de procédure pénale - art. 29-1 (V)
+
+
+###### Article R15-33-27-1
+
+Le garde particulier est agréé par arrêté du préfet pour une durée de cinq ans, renouvelable. L'arrêté d'agrément indique la
+nature des infractions que le garde particulier est chargé de constater, dans les limites des droits dont dispose le
+commettant et en application des dispositions législatives qui l'y autorisent. 
+
+La commission mentionnée à l'article R. 15-33-24 est annexée à l'arrêté. 
+
+Le commettant délivre au garde particulier une carte d'agrément qui comporte les mentions prévues par arrêté conjoint du
+ministre de l'intérieur et des ministres intéressés. 
+
+La carte d'agrément est visée par le préfet.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°58-358 1958-04-02
+
+	**Modifié par**:
+
+	  - Décret n°2006-1100 du 30 août 2006 - art. 1 () JORF 1er septembre 2006 en vigueur le 1er décembre 2006
+
+	**Cité par**:
+
+	  - Arrêté du 30 août 2006 - art. 8 (V)
+	  - Décret n°2014-1294 du 23 octobre 2014 - art. (VD)
+
+	**Cite**:
+
+	  - Code de procédure pénale - art. R15-33-24 (V)
+
+
+###### Article R15-33-28
+
+Le préfet se prononce sur la demande de renouvellement d'agrément selon la procédure prévue aux articles R. 15-33-25 à R.
+15-33-27-1. Cette demande est accompagnée de l'arrêté mentionné à l'article R. 15-33-26. 
+
+En cas de rejet de la demande de renouvellement, le commettant et le garde particulier doivent, préalablement à la décision,
+avoir été mis à même de présenter, devant le préfet ou le fonctionnaire que celui-ci délègue à cet effet, leurs observations
+écrites ou, sur leur demande, des observations orales. Ils peuvent se faire assister par un conseil ou représenter par un
+mandataire de leur choix.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°58-358 1958-04-02
+
+	**Modifié par**:
+
+	  - Décret n°2006-1100 du 30 août 2006 - art. 1 () JORF 1er septembre 2006 en vigueur le 1er décembre 2006
+
+	**Cité par**:
+
+	  - Décret n°2006-1100 du 30 août 2006 - art. 8 (V)
+
+	**Cite**:
+
+	  - Code de procédure pénale - art. R15-33-25 (V)
+	  - Code de procédure pénale - art. R15-33-26 (V)
+
+
+###### Article R15-33-29
+
+Les gardes particuliers ne peuvent entrer en fonctions qu'après avoir prêté serment devant le tribunal d'instance dans le
+ressort duquel se trouvent le territoire à surveiller ou l'un d'entre eux.
+
+La formule du serment est la suivante : " Je jure et promets de bien et loyalement remplir mes fonctions et d'observer en
+tout les devoirs qu'elles m'imposent. Je jure également de ne rien révéler ou utiliser de ce qui sera porté à ma connaissance
+à l'occasion de l'exercice de mes fonctions. "
+
+La mention de la prestation de serment est enregistrée sur la carte d'agrément par le greffier du tribunal qui reçoit le
+serment.
+
+La prestation de serment n'est pas requise à la suite du renouvellement d'un agrément, ou d'un nouvel agrément correspondant
+à une nouvelle commission pour la surveillance de territoires placés dans le ressort du tribunal ayant reçu le serment.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°58-358 1958-04-02
+
+	**Modifié par**:
+
+	  - Décret n°2006-1100 du 30 août 2006 - art. 1 () JORF 1er septembre 2006 en vigueur le 1er décembre 2006
+
+
+###### Article R15-33-29-1
+
+Dans l'exercice de ses fonctions, le garde particulier est tenu de détenir en permanence sa carte ou sa décision d'agrément
+et de la présenter à toute personne qui en fait la demande. 
+
+Il doit également faire figurer de manière visible sur ses vêtements la mention, selon la mission confiée, de " garde
+particulier " ou " garde-chasse particulier " ou " garde-pêche particulier " ou " garde des bois particulier ", à l'exclusion
+de toute autre. 
+
+Les gardes particuliers ne peuvent porter aucune arme, à l'exception de celles nécessaires à la destruction des animaux
+nuisibles dans les conditions prévues à l'article R. 427-21 du code de l'environnement. 
+
+Le port d'un insigne définissant un grade, d'un emblème tricolore, d'un képi, ainsi que de tout insigne et écusson faisant
+référence à une appartenance associative, syndicale, politique ou religieuse est interdit.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°58-358 1958-04-02
+
+	**Modifié par**:
+
+	  - Décret n°2006-1100 du 30 août 2006 - art. 1 () JORF 1er septembre 2006 en vigueur le 1er décembre 2006
+
+	**Cité par**:
+
+	  - Code de l'environnement - art. R322-15-1 (V)
+	  - Code de l'environnement - art. R428-26 (V)
+	  - Code de procédure pénale - art. R15-33-29-2 (V)
+
+	**Cite**:
+
+	  - Code de l'environnement - art. R427-21 (V)
+
+
+###### Article R15-33-29-2
+
+L'agrément peut être retiré à tout moment par le préfet lorsque son titulaire cesse de remplir une ou plusieurs des
+conditions prévues à l'article 29-1 ou lorsqu'il ne respecte pas les dispositions de l'article R. 15-33-29-1. 
+
+Le commettant et le garde particulier doivent, préalablement à la décision, avoir été mis à même de présenter, devant le
+préfet ou le fonctionnaire que celui-ci délègue à cet effet, leurs observations écrites ou, sur leur demande, des
+observations orales. Ils peuvent se faire assister par un conseil ou se faire représenter par un mandataire de leur choix. 
+
+En cas d'urgence et pour des motifs d'ordre public, le préfet peut suspendre à titre conservatoire l'agrément du garde
+particulier, pour une durée maximale de trois mois, par décision motivée. Cette mesure de suspension peut être renouvelée une
+fois. 
+
+Le préfet informe le commettant et le président du tribunal d'instance auprès duquel le garde a prêté serment de la
+suspension ou du retrait de l'agrément. 
+
+Le commettant est tenu d'informer sans délai le préfet lorsque le garde particulier qu'il emploie cesse de remplir une ou
+plusieurs des conditions prévues à l'article 29-1 ou lorsque celui-ci ne respecte pas les dispositions de l'article R.
+15-33-29-1.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°58-358 1958-04-02
+
+	**Modifié par**:
+
+	  - Décret n°2006-1100 du 30 août 2006 - art. 1 () JORF 1er septembre 2006 en vigueur le 1er décembre 2006
+
+	**Cite**:
+
+	  - Code de procédure pénale - art. 29-1 (V)
+	  - Code de procédure pénale - art. R15-33-29-1 (V)
 
 
 #### Chapitre II : Du ministère public
