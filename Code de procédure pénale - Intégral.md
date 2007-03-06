@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 2007-03-06
+Version Consolidée au 2007-03-07
 
 # Partie législative
 
@@ -1890,34 +1890,37 @@ présent article.
 
 ###### Article 21
 
-Sont agents de police judiciaire adjoints :
+Sont agents de police judiciaire adjoints : 
 
-1° Les fonctionnaires des services actifs de police nationale ne remplissant pas les conditions prévues par l'article 20 ;
+1° Les fonctionnaires des services actifs de police nationale ne remplissant pas les conditions prévues par l'article 20 ; 
 
-1° bis Les volontaires servant en qualité de militaire dans la gendarmerie ;
+1° bis Les volontaires servant en qualité de militaire dans la gendarmerie ; 
 
 1° ter Les adjoints de sécurité mentionnés à l'article 36 de la loi n° 95-73 du 21 janvier 1995 d'orientation et de
-programmation relative à la sécurité ;
+programmation relative à la sécurité ; 
 
-1° quater Les agents de surveillance de Paris ;
+1° quater Les agents de surveillance de Paris ; 
 
 1° quinquies Les militaires servant au titre de la réserve opérationnelle de la gendarmerie nationale ne remplissant pas les
-conditions prévues par l'article 20-1 ;
+conditions prévues par l'article 20-1 ; 
 
-2° Les agents de police municipale.
+2° Les agents de police municipale ; 
 
-Ils ont pour mission :
+3° Les gardes champêtres, lorsqu'ils agissent pour l'exercice des attributions fixées au dernier alinéa de l'article L.
+2213-18 du code général des collectivités territoriales. 
 
-De seconder, dans l'exercice de leurs fonctions, les officiers de police judiciaire ;
+Ils ont pour mission : 
 
-De rendre compte à leurs chefs hiérarchiques de tous crimes, délits ou contraventions dont ils ont connaissance ;
+De seconder, dans l'exercice de leurs fonctions, les officiers de police judiciaire ; 
+
+De rendre compte à leurs chefs hiérarchiques de tous crimes, délits ou contraventions dont ils ont connaissance ; 
 
 De constater, en se conformant aux ordres de leurs chefs, les infractions à la loi pénale et de recueillir tous les
 renseignements en vue de découvrir les auteurs de ces infractions, le tout dans le cadre et dans les formes prévues par les
-lois organiques ou spéciales qui leur sont propres ;
+lois organiques ou spéciales qui leur sont propres ; 
 
 De constater par procès-verbal les contraventions aux dispositions du code de la route dont la liste est fixée par décret en
-Conseil d'Etat.
+Conseil d'Etat. 
 
 Lorsqu'ils constatent une infraction par procès-verbal, les agents de police judiciaire adjoints peuvent recueillir les
 éventuelles observations du contrevenant.
@@ -2025,9 +2028,10 @@ Lorsqu'ils constatent une infraction par procès-verbal, les agents de police ju
 
 	**Cite**:
 
-	  - Loi n°95-73 du 21 janvier 1995 - art. 36 (M)
-	  - CODE DE PROCEDURE PENALE - art. 20 (M)
-	  - CODE DE PROCEDURE PENALE - art. 20-1 (V)
+	  - Loi n°95-73 du 21 janvier 1995 - art. 36 (V)
+	  - Code général des collectivités territoriales - art. L2213-18 (V)
+	  - Code de procédure pénale - art. 20 (V)
+	  - Code de procédure pénale - art. 20-1 (V)
 
 	**Liens**:
 
@@ -2037,7 +2041,7 @@ Lorsqu'ils constatent une infraction par procès-verbal, les agents de police ju
 
 	**Modifié par**:
 
-	  - Loi n°2006-449 du 18 avril 2006 - art. 23 () JORF 19 avril 2006
+	  - Loi n°2007-297 du 5 mars 2007 - art. 74 () JORF 7 mars 2007
 
 
 ###### Article 21-1
@@ -2676,8 +2680,9 @@ d'assises du ressort de la cour d'appel.
 Le procureur général veille à l'application de la loi pénale dans toute l'étendue du ressort de la cour d'appel et au bon
 fonctionnement des parquets de son ressort.
 
-A cette fin, il anime et coordonne l'action des procureurs de République ainsi que la conduite de la politique d'action
-publique par les parquets de son ressort.
+A cette fin, il anime et coordonne l'action des procureurs de République, en ce qui concerne tant la prévention que la
+répression des infractions à la loi pénale, ainsi que la conduite de la politique d'action publique par les parquets de son
+ressort.
 
 Sans préjudice des rapports particuliers qu'il établit soit d'initiative, soit sur demande du procureur général, le procureur
 de la République adresse à ce dernier un rapport annuel sur l'activité et la gestion de son parquet ainsi que sur
@@ -2693,7 +2698,7 @@ Le procureur général a, dans l'exercice de ses fonctions, le droit de requéri
 
 	**Modifié par**:
 
-	  - Loi n°2004-204 du 9 mars 2004 - art. 64 () JORF 10 mars 2004
+	  - Loi n°2007-297 du 5 mars 2007 - art. 7 () JORF 7 mars 2007
 
 	**Cité par**:
 
@@ -2807,6 +2812,49 @@ juridiction de proximité dans les conditions fixées par l'article 45 du prése
 	**Cite**:
 
 	  - Code de procédure pénale - art. 45 (V)
+
+
+###### Article 39-1
+
+Dans le cadre de ses attributions en matière d'alternative aux poursuites, de mise en mouvement et d'exercice de l'action
+publique, de direction de la police judiciaire, de contrôle d'identité et d'exécution des peines, le procureur de la
+République veille à la prévention des infractions à la loi pénale.
+
+A cette fin, il anime et coordonne dans le ressort du tribunal de grande instance la politique de prévention de la
+délinquance dans sa composante judiciaire, conformément aux orientations nationales de cette politique déterminées par
+l'Etat, telles que précisées par le procureur général en application de l'article 35. 
+
+Il est également consulté par le représentant de l'Etat dans le département avant que ce dernier n'arrête le plan de
+prévention de la délinquance.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°57-1426 1957-12-31
+
+	**Créé par**:
+
+	  - Loi n°2007-297 du 5 mars 2007 - art. 7 () JORF 7 mars 2007
+
+	**Liens**:
+
+	  - TRANSFERE: Loi n°2013-669 du 25 juillet 2013 - art. 5
+
+	**Cité par**:
+
+	  - Décret n°2013-1134 du 9 décembre 2013 (V)
+	  - Code de procédure pénale - art. D15-2 (V)
+	  - Code de procédure pénale - art. D15-2-1 (V)
+	  - Code de procédure pénale - art. D15-3 (V)
+
+	**Cite**:
+
+	  - Code de procédure pénale - art. 35 (V)
+
+	**Nouveaux textes**:
+
+	  - Code de procédure pénale - art. 39-2 (V)
 
 
 ###### Article 40
@@ -3102,7 +3150,8 @@ d'un délégué ou d'un médiateur du procureur de la République :
 
 2° Orienter l'auteur des faits vers une structure sanitaire, sociale ou professionnelle ; cette mesure peut consister dans
 l'accomplissement par l'auteur des faits, à ses frais, d'un stage ou d'une formation dans un service ou un organisme
-sanitaire, social ou professionnel, et notamment d'un stage de citoyenneté ; en cas d'infraction commise à l'occasion de la
+sanitaire, social ou professionnel, et notamment d'un stage de citoyenneté, d'un stage de responsabilité parentale ou d'un
+stage de sensibilisation aux dangers de l'usage de produits stupéfiants ; en cas d'infraction commise à l'occasion de la
 conduite d'un véhicule terrestre à moteur, cette mesure peut consister dans l'accomplissement, par l'auteur des faits, à ses
 frais, d'un stage de sensibilisation à la sécurité routière ;
 
@@ -3114,7 +3163,7 @@ frais, d'un stage de sensibilisation à la sécurité routière ;
 réussite de la médiation, le procureur de la République ou le médiateur du procureur de la République en dresse procès-
 verbal, qui est signé par lui-même et par les parties, et dont une copie leur est remise ; si l'auteur des faits s'est engagé
 à verser des dommages et intérêts à la victime, celle-ci peut, au vu de ce procès-verbal, en demander le recouvrement suivant
-la procédure d'injonction de payer, conformément aux règles prévues par le nouveau code de procédure civile.
+la procédure d'injonction de payer, conformément aux règles prévues par le nouveau code de procédure civile. 
 
 6° En cas d'infraction commise soit contre son conjoint, son concubin ou son partenaire lié par un pacte civil de solidarité,
 soit contre ses enfants ou ceux de son conjoint, concubin ou partenaire, demander à l'auteur des faits de résider hors du
@@ -3160,7 +3209,7 @@ En cas de non-exécution de la mesure en raison du comportement de l'auteur des 
 
 	**Modifié par**:
 
-	  - Loi n°2006-399 du 4 avril 2006 - art. 12 () JORF 5 avril 2006
+	  - Loi n°2007-297 du 5 mars 2007 - art. 65 () JORF 7 mars 2007
 
 
 ###### Article 41-2
@@ -3185,8 +3234,9 @@ produit ;
 
 5° Remettre au greffe du tribunal de grande instance son permis de chasser, pour une période maximale de six mois ;
 
-6° Accomplir au profit de la collectivité un travail non rémunéré pour une durée maximale de soixante heures, dans un délai
-qui ne peut être supérieur à six mois ;
+6° Accomplir au profit de la collectivité, notamment au sein d'une personne morale de droit public ou d'une personne morale
+de droit privé chargée d'une mission de service public ou d'une association habilitées, un travail non rémunéré pour une
+durée maximale de soixante heures, dans un délai qui ne peut être supérieur à six mois ;
 
 7° Suivre un stage ou une formation dans un service ou un organisme sanitaire, social ou professionnel pour une durée qui ne
 peut excéder trois mois dans un délai qui ne peut être supérieur à dix-huit mois ;
@@ -3214,11 +3264,22 @@ résidence du couple et, le cas échéant, s'abstenir de paraître dans ce domic
 celui-ci, ainsi que, si nécessaire, faire l'objet d'une prise en charge sanitaire, sociale ou psychologique ; les
 dispositions du présent 14° sont également applicables lorsque l'infraction est commise par l'ancien conjoint ou concubin de
 la victime, ou par la personne ayant été liée à elle par un pacte civil de solidarité, le domicile concerné étant alors celui
-de la victime.
+de la victime ;
+
+15° Accomplir, le cas échéant à ses frais, un stage de sensibilisation aux dangers de l'usage de produits stupéfiants ;
+
+16° Se soumettre à une mesure d'activité de jour consistant en la mise en oeuvre d'activités d'insertion professionnelle ou
+de mise à niveau scolaire soit auprès d'une personne morale de droit public, soit auprès d'une personne morale de droit privé
+chargée d'une mission de service public ou d'une association habilitées à mettre en oeuvre une telle mesure ;
+
+17° Se soumettre à une mesure d'injonction thérapeutique, selon les modalités définies aux articles L. 3413-1 à L. 3413-4 du
+code de la santé publique, lorsqu'il apparaît que l'intéressé fait usage de stupéfiants ou fait une consommation habituelle
+et excessive de boissons alcooliques.
 
 Lorsque la victime est identifiée, et sauf si l'auteur des faits justifie de la réparation du préjudice commis, le procureur
 de la République doit également proposer à ce dernier de réparer les dommages causés par l'infraction dans un délai qui ne
-peut être supérieur à six mois. Il informe la victime de cette proposition.
+peut être supérieur à six mois. Il informe la victime de cette proposition. Cette réparation peut consister, avec l'accord de
+la victime, en la remise en état d'un bien endommagé par la commission de l'infraction.
 
 La proposition de composition pénale émanant du procureur de la République peut être portée à la connaissance de l'auteur des
 faits par l'intermédiaire d'un officier de police judiciaire. Elle fait alors l'objet d'une décision écrite et signée de ce
@@ -3254,8 +3315,9 @@ suivant la procédure d'injonction de payer, conformément aux règles prévues 
 
 Les compositions pénales exécutées sont inscrites au bulletin n° 1 du casier judiciaire.
 
-Les dispositions du présent article ne sont applicables ni aux mineurs de dix-huit ans ni en matière de délits de presse, de
-délits d'homicides involontaires ou de délits politiques.
+Les dispositions du présent article ne sont pas applicables en matière de délits de presse, de délits d'homicides
+involontaires ou de délits politiques. Elles sont applicables aux mineurs âgés d'au moins treize ans, selon les modalités
+prévues par l'article 7-2 de l'ordonnance n° 45-174 du 2 février 1945 relative à l'enfance délinquante.
 
 Le président du tribunal peut désigner, aux fins de validation de la composition pénale, tout juge du tribunal ainsi que tout
 juge de proximité exerçant dans le ressort du tribunal.
@@ -3315,7 +3377,9 @@ Les modalités d'application du présent article sont fixées par décret en Con
 
 	**Modifié par**:
 
-	  - Loi n°2006-399 du 4 avril 2006 - art. 12 () JORF 5 avril 2006
+	  - Loi n°2007-297 du 5 mars 2007 - art. 50 () JORF 7 mars 2007
+	  - Loi n°2007-297 du 5 mars 2007 - art. 63 () JORF 7 mars 2007
+	  - Loi n°2007-297 du 5 mars 2007 - art. 64 () JORF 7 mars 2007
 
 
 ###### Article 41-3
@@ -3521,27 +3585,29 @@ demeurent de la compétence de ces juridictions.
 Pour les contraventions que les agents de la police municipale sont habilités à constater par procès-verbal conformément aux
 dispositions de l'article L. 2212-5 du code général des collectivités territoriales et qui sont commises au préjudice de la
 commune au titre de l'un de ses biens, le maire peut, tant que l'action publique n'a pas été mise en mouvement, proposer au
-contrevenant une transaction consistant en la réparation de ce préjudice.
+contrevenant une transaction consistant en la réparation de ce préjudice. 
 
-La transaction proposée par le maire et acceptée par le contrevenant doit être homologuée par le procureur de la République.
+La transaction proposée par le maire et acceptée par le contrevenant doit être homologuée par le procureur de la République. 
 
 Les actes tendant à la mise en oeuvre ou à l'exécution de la transaction sont interruptifs de la prescription de l'action
 publique.
 
 L'action publique est éteinte lorsque l'auteur de l'infraction a exécuté dans le délai imparti les obligations résultant pour
-lui de l'acceptation de la transaction.
+lui de l'acceptation de la transaction. 
 
 La transaction peut également consister en l'exécution, au profit de la commune, d'un travail non rémunéré pendant une durée
 maximale de trente heures. Elle doit alors être homologuée, selon la nature de la contravention, par le juge du tribunal de
-police ou par le juge de la juridiction de proximité.
+police ou par le juge de la juridiction de proximité. 
 
 Lorsqu'une de ces contraventions n'a pas été commise au préjudice de la commune mais a été commise sur le territoire de
 celle-ci, le maire peut proposer au procureur de la République de procéder à une des mesures prévues par les articles 41-1 ou
-41-3 du présent code. Il est avisé par le procureur de la République de la suite réservée à sa proposition.
+41-3 du présent code. Il est avisé par le procureur de la République de la suite réservée à sa proposition. 
 
 Les dispositions du présent article s'appliquent aux contraventions de même nature que les agents de la ville de Paris
 chargés d'un service de police et les agents de surveillance de Paris sont habilités à constater par procès-verbal
-conformément aux dispositions des articles L. 2512-16 et L. 2512-16-1 du code général des collectivités territoriales.
+conformément aux dispositions des articles L. 2512-16 et L. 2512-16-1 du code général des collectivités territoriales. Ces
+dispositions s'appliquent également aux contraventions de même nature que les gardes champêtres sont habilités à constater
+par procès-verbal conformément à l'article L. 2213-18 du code général des collectivités territoriales. 
 
 Un décret en Conseil d'Etat précise les conditions d'application du présent article.
 
@@ -3551,9 +3617,9 @@ Un décret en Conseil d'Etat précise les conditions d'application du présent a
 
 	  - Loi n°57-1426 1957-12-31
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2006-396 du 31 mars 2006 - art. 51 () JORF 2 avril 2006
+	  - Loi n°2007-297 du 5 mars 2007 - art. 74 () JORF 7 mars 2007
 
 	**Cité par**:
 
@@ -3563,11 +3629,10 @@ Un décret en Conseil d'Etat précise les conditions d'application du présent a
 
 	**Cite**:
 
-	  - Code général des collectivités territoriales - art. L2212-5 (M)
-	  - Code général des collectivités territoriales - art. L2512-16 (M)
-	  - Code général des collectivités territoriales - art. L2512-16-1 (M)
-	  - CODE DE PROCEDURE PENALE - art. 41-1 (M)
-	  - CODE DE PROCEDURE PENALE - art. 41-3 (M)
+	  - Code général des collectivités territoriales - art. L2212-5 (V)
+	  - Code général des collectivités territoriales - art. L2213-18 (V)
+	  - Code général des collectivités territoriales - art. L2512-16 (V)
+	  - Code de procédure pénale - art. 41-1 (V)
 
 
 ##### Section 4 : Du ministère public près le tribunal de police et la juridiction de proximité
@@ -4586,14 +4651,15 @@ ou tenté de commettre une infraction, ainsi qu'aux victimes.
 
 ###### Article 60-1
 
-L'officier de police judiciaire peut requérir de toute personne, de tout établissement ou organisme privé ou public ou de
-toute administration publique qui sont susceptibles de détenir des documents intéressant l'enquête, y compris ceux issus d'un
-système informatique ou d'un traitement de données nominatives, de lui remettre ces documents, sans que puisse lui être
-opposée, sans motif légitime, l'obligation au secret professionnel. Lorsque les réquisitions concernent des personnes
-mentionnées aux articles 56-1 à 56-3, la remise des documents ne peut intervenir qu'avec leur accord.
+Le procureur de la République ou l'officier de police judiciaire peut, par tout moyen, requérir de toute personne, de tout
+établissement ou organisme privé ou public ou de toute administration publique qui sont susceptibles de détenir des documents
+intéressant l'enquête, y compris ceux issus d'un système informatique ou d'un traitement de données nominatives, de lui
+remettre ces documents, notamment sous forme numérique, sans que puisse lui être opposée, sans motif légitime, l'obligation
+au secret professionnel. Lorsque les réquisitions concernent des personnes mentionnées aux articles 56-1 à 56-3, la remise
+des documents ne peut intervenir qu'avec leur accord.
 
 A l'exception des personnes mentionnées aux articles 56-1 à 56-3, le fait de s'abstenir de répondre dans les meilleurs délais
-à cette réquisition est puni d'une amende de 3 750 Euros. Les personnes morales sont responsables pénalement, dans les
+à cette réquisition est puni d'une amende de 3 750 euros. Les personnes morales sont responsables pénalement, dans les
 conditions prévues par l'article 121-2 du code pénal, du délit prévu par le présent alinéa.
 
 **Liens relatifs à cet article**
@@ -4604,7 +4670,7 @@ conditions prévues par l'article 121-2 du code pénal, du délit prévu par le 
 
 	**Modifié par**:
 
-	  - Loi n°2004-204 du 9 mars 2004 - art. 80 () JORF 10 mars 2004
+	  - Loi n°2007-297 2007-03-05 art. 69 1° JORF 7 mars 2007
 
 	**Cite**:
 
@@ -5908,12 +5974,12 @@ Les dispositions des deuxième, troisième et quatrième alinéas de l'article 6
 
 ###### Article 77-1-1
 
-Le procureur de la République ou, sur autorisation de celui-ci, l'officier de police judiciaire, peut requérir de toute
-personne, de tout établissement ou organisme privé ou public ou de toute administration publique qui sont susceptibles de
-détenir des documents intéressant l'enquête, y compris ceux issus d'un système informatique ou d'un traitement de données
-nominatives, de lui remettre ces documents, sans que puisse lui être opposée, sans motif légitime, l'obligation au secret
-professionnel. Lorsque les réquisitions concernent des personnes mentionnées aux articles 56-1 à 56-3, la remise des
-documents ne peut intervenir qu'avec leur accord.
+Le procureur de la République ou, sur autorisation de celui-ci, l'officier de police judiciaire, peut, par tout moyen,
+requérir de toute personne, de tout établissement ou organisme privé ou public ou de toute administration publique qui sont
+susceptibles de détenir des documents intéressant l'enquête, y compris ceux issus d'un système informatique ou d'un
+traitement de données nominatives, de lui remettre ces documents, notamment sous forme numérique, sans que puisse lui être
+opposée, sans motif légitime, l'obligation au secret professionnel. Lorsque les réquisitions concernent des personnes
+mentionnées aux articles 56-1 à 56-3, la remise des documents ne peut intervenir qu'avec leur accord. 
 
 En cas d'absence de réponse de la personne aux réquisitions, les dispositions du second alinéa de l'article 60-1 sont
 applicables.
@@ -5926,16 +5992,15 @@ applicables.
 
 	**Modifié par**:
 
-	  - Loi n°2004-204 du 9 mars 2004 - art. 80 () JORF 10 mars 2004
-
-	**Cite**:
-
-	  - CODE DE PROCEDURE PENALE - art. 60-1 (T)
-	  - Code de procédure pénale 56-1 à 56-3, 60-1
+	  - Loi n°2007-297 2007-03-05 art. 69 2° JORF 7 mars 2007
 
 	**Nouveaux textes**:
 
 	  - CODE DE PROCEDURE PENALE - art. 77-1-2 (V)
+
+	**Cite**:
+
+	  - Code de procédure pénale - art. 60-1 (V)
 
 	**Cité par**:
 
@@ -7568,14 +7633,17 @@ public, une ordonnance renvoyant la partie civile à se pourvoir devant telle ju
 
 En matière criminelle, lorsqu'il s'agit d'un délit contre les personnes prévu par le livre II du code pénal ou lorsqu'il
 s'agit d'un délit contre les biens prévu par le livre III du même code et accompagné d'atteintes à la personne, le juge
-d'instruction avise tous les six mois la partie civile de l'état d'avancement de l'information.
+d'instruction avise tous les six mois la partie civile de l'état d'avancement de l'information. 
 
 Cet avis peut être donné par lettre simple adressée à la partie civile et à son avocat, ou à l'occasion de l'audition de la
-partie civile.
+partie civile. 
 
 Lorsqu'une association regroupant plusieurs victimes s'est constituée partie civile en application des dispositions de
 l'article 2-15, l'avis est donné à cette seule association, à charge pour elle d'en informer les victimes regroupées en son
-sein, sauf si ces victimes se sont également constituées parties civiles à titre individuel.
+sein, sauf si ces victimes se sont également constituées parties civiles à titre individuel. 
+
+Si la partie civile le demande, l'information relative à l'évolution de la procédure prévue par le présent article intervient
+tous les quatre mois, et la partie civile est convoquée et entendue à cette fin par le juge d'instruction.
 
 **Liens relatifs à cet article**
 
@@ -7583,13 +7651,13 @@ sein, sauf si ces victimes se sont également constituées parties civiles à ti
 
 	  - Loi n°57-1426 1957-12-31
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2004-204 du 9 mars 2004 - art. 90 () JORF 10 mars 2004
+	  - Loi n°2007-297 du 5 mars 2007 - art. 46 () JORF 7 mars 2007
 
 	**Cite**:
 
-	  - CODE DE PROCEDURE PENALE - art. 2-15 (M)
+	  - Code de procédure pénale - art. 2-15 (V)
 
 
 ###### Article 91
@@ -8074,12 +8142,12 @@ Un décret en Conseil d'Etat détermine les modalités d'application du présent
 
 ###### Article 99-3
 
-Le juge d'instruction ou l'officier de police judiciaire par lui commis peut requérir de toute personne, de tout
-établissement ou organisme privé ou public ou de toute administration publique qui sont susceptibles de détenir des documents
-intéressant l'instruction, y compris ceux issus d'un système informatique ou d'un traitement de données nominatives, de lui
-remettre ces documents, sans que puisse lui être opposée, sans motif légitime, l'obligation au secret professionnel. Lorsque
-les réquisitions concernent des personnes mentionnées aux articles 56-1 à 56-3, la remise des documents ne peut intervenir
-qu'avec leur accord.
+Le juge d'instruction ou l'officier de police judiciaire par lui commis peut, par tout moyen, requérir de toute personne, de
+tout établissement ou organisme privé ou public ou de toute administration publique qui sont susceptibles de détenir des
+documents intéressant l'instruction, y compris ceux issus d'un système informatique ou d'un traitement de données
+nominatives, de lui remettre ces documents, notamment sous forme numérique, sans que puisse lui être opposée, sans motif
+légitime, l'obligation au secret professionnel. Lorsque les réquisitions concernent des personnes mentionnées aux articles
+56-1 à 56-3, la remise des documents ne peut intervenir qu'avec leur accord. 
 
 En l'absence de réponse de la personne aux réquisitions, les dispositions du deuxième alinéa de l'article 60-1 sont
 applicables.
@@ -8090,14 +8158,9 @@ applicables.
 
 	  - Loi n°57-1426 1957-12-31
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2004-204 du 9 mars 2004 - art. 116 () JORF 10 mars 2004
-
-	**Cite**:
-
-	  - CODE DE PROCEDURE PENALE - art. 60-1 (T)
-	  - Code de procédure pénale 56-1 à 56-3, 60-1
+	  - Loi n°2007-297 2007-03-05 art. 69 3° JORF 7 mars 2007
 
 	**Cité par**:
 
@@ -8106,6 +8169,11 @@ applicables.
 	  - Code de procédure pénale - art. 706 (V)
 	  - Code de procédure pénale - art. D15-5 (V)
 	  - Code de procédure pénale - art. R40-43 (V)
+
+	**Cite**:
+
+	  - Code de procédure pénale - art. 56-1 (V)
+	  - Code de procédure pénale - art. 60-1 (V)
 
 
 ###### Article 99-4
@@ -21409,8 +21477,8 @@ les articles 222-19-1, 222-20-1, 223-1 et 434-10 du code pénal ;
 deuxième alinéas, 433-5, 433-6 à 433-8, premier alinéa, 433-10, premier alinéa, et 521-1 du code pénal et L. 628 du code de
 la santé publique ;
 
-6° Les délits prévus par le code rural en matière de chasse, de pêche et de protection de la faune et de la flore et les
-délits prévus par le décret-loi du 9 janvier 1852 en matière de pêche maritime ;
+6° Les délits prévus par le code de l'environnement en matière de chasse, de pêche en eau douce, de pêche maritime et de
+protection de la faune et de la flore ;
 
 7° Les délits prévus par le code forestier et par le code de l'urbanisme pour la protection des bois et forêts ;
 
@@ -21431,7 +21499,7 @@ jugement des délits prévus au présent article lorsque ces délits sont connex
 
 	**Modifié par**:
 
-	  - Loi n°2005-1550 du 12 décembre 2005 - art. 18 () JORF 13 décembre 2005
+	  - Loi n°2007-297 du 5 mars 2007 - art. 73 () JORF 7 mars 2007
 
 	**Cité par**:
 
@@ -21444,18 +21512,6 @@ jugement des délits prévus au présent article lorsque ces délits sont connex
 	  - Code de procédure pénale - art. 464 (V)
 	  - Code de procédure pénale - art. 469 (VT)
 	  - Code de procédure pénale - art. 837 (VT)
-
-	**Cite**:
-
-	  - Code pénal - art. 222-19-1 (V)
-	  - Code pénal - art. 222-20-1 (V)
-	  - Code pénal - art. 223-1 (M)
-	  - Code pénal - art. 434-10 (M)
-	  - Code de procédure pénale 398, 222-11, 222-12, 222-13, 222-16, 222-17, 222-18, 222-32, 227-3 à 227-11, 311-3, 311-4, 313-5, 314-5, 314-6, 321-1, 322-1 à 322-4-1, 322-12, 322-13, 322-14, 433-3
-	  - Code de la défense. - art. L2339-9 (V)
-	  - Code de la construction et de l'habitation. - art. L126-3 (M)
-	  - Décret-loi 1852-01-09
-	  - Décret-loi 1935-10-30 art. 66, art. 69
 
 
 ###### Article 398-2
@@ -24363,13 +24419,18 @@ de la peine.
 
 ###### Article 495
 
-Peuvent être soumis à la procédure simplifiée prévue à la présente section  :
+Peuvent être soumis à la procédure simplifiée prévue à la présente section :
 
 1° Les délits prévus par le code de la route et les contraventions connexes prévues par ce code ;
 
 2° Les délits en matière de réglementations relatives aux transports terrestres ;
 
-3° Les délits prévus au titre IV du livre IV du code de commerce pour lesquels une peine d'emprisonnement n'est pas encourue.
+3° Les délits prévus au titre IV du livre IV du code de commerce pour lesquels une peine d'emprisonnement n'est pas
+encourue ;
+
+4° Le délit d'usage de produits stupéfiants prévu par le premier alinéa de l'article L. 3421-1 du code de la santé publique ;
+
+5° Le délit prévu par l'article L. 126-3 du code de la construction et de l'habitation.
 
 Cette procédure n'est pas applicable :
 
@@ -24393,11 +24454,14 @@ ses charges et ses ressources, sont suffisants pour permettre la détermination 
 
 	**Modifié par**:
 
-	  - Loi n°2005-882 du 2 août 2005 - art. 54 () JORF 3 août 2005
+	  - Loi n°2007-297 du 5 mars 2007 - art. 20 () JORF 7 mars 2007
+	  - Loi n°2007-297 du 5 mars 2007 - art. 51 () JORF 7 mars 2007
 
 	**Cite**:
 
 	  - CODE DE PROCEDURE PENALE - art. 495-1 (V)
+	  - Code de la santé publique - art. L3421-1 (M)
+	  - Code de la construction et de l'habitation. - art. L126-3 (M)
 
 	**Cité par**:
 
@@ -26419,9 +26483,9 @@ au titre du transport.
 
 I. - Ce versement est effectué :
 
-1. Soit, au moment de la constatation de l'infraction, entre les mains de l'agent de l'exploitant ;
+1 Soit, au moment de la constatation de l'infraction, entre les mains de l'agent de l'exploitant ;
 
-2. Soit, dans un délai de deux mois à compter de la constatation de l'infraction, auprès du service de l'exploitant indiqué
+2 Soit, dans un délai de deux mois à compter de la constatation de l'infraction, auprès du service de l'exploitant indiqué
 dans la proposition de transaction ; dans ce dernier cas, il y est ajouté aux sommes dues le montant des frais de
 constitution du dossier.
 
@@ -26432,8 +26496,7 @@ Le montant de l'indemnité forfaitaire et, le cas échéant, celui des frais de 
 l'exploitant.
 
 II. - A défaut de paiement immédiat entre leurs mains, les agents de l'exploitant, s'ils ont été agréés par le procureur de
-la République et assermentés, et uniquement lorsqu'ils procèdent au contrôle de l'existence et de la validité des titres de
-transport des voyageurs, sont habilités à relever l'identité et l'adresse du contrevenant.
+la République et assermentés, sont habilités à relever l'identité et l'adresse du contrevenant.
 
 Si le contrevenant refuse ou se trouve dans l'impossibilité de justifier de son identité, l'agent de l'exploitant en rend
 compte immédiatement à tout officier de police judiciaire de la police nationale ou de la gendarmerie nationale
@@ -26477,15 +26540,15 @@ nationales.
 
 	  - Ordonnance 58-1296 1958-12-23
 
-	**Modifié par**:
-
-	  - Loi n°99-291 du 15 avril 1999 - art. 17 () JORF 16 avril 1999
-
 	**Liens**:
 
 	  - TXT_SOURCE: Décret n°2000-1136 du 24 novembre 2000
 	  - TXT_SOURCE: Décret n°2000-1136 du 24 novembre 2000 - art. 1 ()
 	  - TXT_SOURCE: Décret n°2000-1136 du 24 novembre 2000 - art. 2 ()
+
+	**Modifié par**:
+
+	  - Loi n°2007-297 du 5 mars 2007 - art. 74 () JORF 7 mars 2007
 
 
 ###### Article 529-5
@@ -38545,6 +38608,45 @@ pour les infractions douanières connexes excèdent 100 000 euros.
 	  - Code de procédure pénale - art. R15-33-66-7 (V)
 
 
+###### Article 706-32
+
+Sans préjudice des dispositions des articles 706-81 à 706-87 du présent code, et aux seules fins de constater les infractions
+d'acquisition, d'offre ou de cession de produits stupéfiants visées aux articles 222-37 et 222-39 du code pénal, d'en
+identifier les auteurs et complices et d'effectuer les saisies prévues au présent code, les officiers de police judiciaire
+et, sous leur autorité, les agents de police judiciaire peuvent, avec l'autorisation du procureur de la République ou du juge
+d'instruction saisi des faits qui en avise préalablement le parquet, et sans être pénalement responsables de ces actes : 
+
+1° Acquérir des produits stupéfiants ; 
+
+2° En vue de l'acquisition de produits stupéfiants, mettre à la disposition des personnes se livrant à ces infractions des
+moyens de caractère juridique ou financier ainsi que des moyens de transport, de dépôt, d'hébergement, de conservation et de
+télécommunication. 
+
+A peine de nullité, l'autorisation du procureur de la République ou du juge d'instruction, qui peut être donnée par tout
+moyen, est mentionnée ou versée au dossier de la procédure et les actes autorisés ne peuvent constituer une incitation à
+commettre une infraction.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 58-1296 1958-12-23
+
+	**Créé par**:
+
+	  - Loi n°2007-297 du 5 mars 2007 - art. 52 () JORF 7 mars 2007
+
+	**Cite**:
+
+	  - Code pénal - art. 222-37 (V)
+	  - Code pénal - art. 222-39 (V)
+	  - Code de procédure pénale - art. 706-81 (V)
+
+	**Cité par**:
+
+	  - CODE DE PROCEDURE PENALE - art. 28-1 (M)
+
+
 ###### Article 706-33
 
 En cas de poursuite pour l'une des infractions visées à l'article 706-26, le juge d'instruction peut ordonner à titre
@@ -38584,7 +38686,7 @@ l'article 148-1.
 	  - Code de procédure pénale - art. 706-26 (V)
 
 
-### Titre XVII : De la poursuite, de l'instruction et du jugement des infractions en matière de proxénétisme ou de recours à la prostitution des mineurs
+### Titre XVII : De la poursuite, de l'instruction et du jugement des infractions en matière de traite des êtres humains, de proxénétisme ou de recours à la prostitution des mineurs
 
 ###### Article 706-34
 
@@ -38599,18 +38701,14 @@ présent titre.
 
 	  - Ordonnance 58-1296 1958-12-23
 
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°2002-305 2002-03-04 art. 19
-
 	**Modifié par**:
 
-	  - Loi n°2002-305 du 4 mars 2002 - art. 13 (V) JORF 5 mars 2002
+	  - Loi n°2007-297 du 5 mars 2007 - art. 35 () JORF 7 mars 2007
 
 	**Cite**:
 
-	  - Code pénal - art. 450-1 (M)
-	  - Code pénal 225-5 à 225-12-4, 450-1
+	  - Code pénal - art. 225-5 (V)
+	  - Code pénal - art. 450-1 (V)
 
 	**Cité par**:
 
@@ -38623,7 +38721,7 @@ présent titre.
 Pour la recherche et la constatation des infractions visées à l'article 706-34, les visites, perquisitions et saisies prévues
 par l'article 59 peuvent être opérées à toute heure du jour et de la nuit, à l'intérieur de tout hôtel, maison meublée,
 pension, débit de boissons, club, cercle, dancing, lieu de spectacle et leurs annexes et en tout autre lieu ouvert au public
-ou utilisé par le public lorsqu'il est constaté que des personnes se livrant à la prostitution y sont reçues habituellement.
+ou utilisé par le public lorsqu'il est constaté que des personnes se livrant à la prostitution y sont reçues habituellement. 
 
 Les actes prévus au présent article ne peuvent, à peine de nullité, être effectués pour un autre objet que la recherche et la
 constatation des infractions visées à l'article 706-34.
@@ -38634,39 +38732,80 @@ constatation des infractions visées à l'article 706-34.
 
 	  - Ordonnance 58-1296 1958-12-23
 
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°2002-305 2002-03-04 art. 19
-
 	**Modifié par**:
 
-	  - Loi n°2002-305 du 4 mars 2002 - art. 13 (V) JORF 5 mars 2002
+	  - Loi n°2007-297 du 5 mars 2007 - art. 35 () JORF 7 mars 2007
 
 	**Cite**:
 
-	  - CODE DE PROCEDURE PENALE - art. 59 (M)
-	  - CODE DE PROCEDURE PENALE - art. 706-34 (M)
+	  - Code de procédure pénale - art. 706-34 (V)
+
+
+###### Article 706-35-1
+
+Dans le but de constater les infractions mentionnées aux articles 225-4-1 à 225-4-9,
+225-5 à 225-12 et 225-12-1 à 225-12-4 du code pénal et, lorsque celles-ci sont commises par un moyen de communication
+électronique, d'en rassembler les preuves et d'en rechercher les auteurs, les officiers ou agents de police judiciaire
+agissant au cours de l'enquête ou sur commission rogatoire peuvent, s'ils sont affectés dans un service spécialisé et
+spécialement habilités à cette fin, dans des conditions précisées par arrêté, procéder aux actes suivants sans en être
+pénalement responsables : 
+
+1° Participer sous un pseudonyme aux échanges électroniques ; 
+
+2° Etre en contact par ce moyen avec les personnes susceptibles d'être les auteurs de ces infractions ; 
+
+3° Extraire, transmettre en réponse à une demande expresse, acquérir ou conserver des contenus illicites dans des conditions
+fixées par décret. 
+
+A peine de nullité, ces actes ne peuvent constituer une incitation à commettre ces infractions.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 58-1296 1958-12-23
+
+	**Créé par**:
+
+	  - Loi n°2007-297 du 5 mars 2007 - art. 35 () JORF 7 mars 2007
+	  - Loi n°2007-297 du 5 mars 2007 - art. 35
+
+	**Cité par**:
+
+	  - Arrêté du 30 mars 2009 - art. 1 (M)
+	  - Arrêté du 30 mars 2009 - art. 2 (V)
+	  - Arrêté du 30 mars 2009 - art. 3 (V)
+	  - Arrêté du 21 octobre 2015 - art. 1 (V)
+	  - Arrêté du 21 octobre 2015 - art. 2 (V)
+	  - Code de procédure pénale - art. D47-8 (V)
+	  - Code de procédure pénale - art. D47-9 (V)
+
+	**Cite**:
+
+	  - Code pénal - art. 225-12-1 (V)
+	  - Code pénal - art. 225-4-1 (V)
+	  - Code pénal - art. 225-5 (V)
 
 
 ###### Article 706-36
 
 En cas de poursuite pour l'une des infractions visées à l'article 706-34, le juge d'instruction peut ordonner à titre
-provisoire, pour une durée de trois mois au plus, la fermeture totale ou partielle :
+provisoire, pour une durée de trois mois au plus, la fermeture totale ou partielle : 
 
 1° D'un établissement visé aux 1° et 2° de l'article 225-10 du code pénal dont le détenteur, le gérant ou le préposé est
-poursuivi ;
+poursuivi ; 
 
 2° De tout hôtel, maison meublée, pension, débit de boissons, restaurant, club, cercle, dancing, lieu de spectacle ou leurs
 annexes ou lieu quelconque ouvert au public ou utilisé par le public, dans lequel une personne poursuivie aura trouvé au
 cours des poursuites, auprès de la direction ou du personnel, un concours sciemment donné pour détruire des preuves, exercer
-des pressions sur des témoins ou favoriser la continuation de son activité délictueuse.
+des pressions sur des témoins ou favoriser la continuation de son activité délictueuse. 
 
 Cette fermeture peut, quelle qu'en ait été la durée, faire l'objet de renouvellements dans les mêmes formes pour une durée de
-trois mois au plus chacun.
+trois mois au plus chacun. 
 
 Les décisions prévues aux alinéas précédents et celles statuant sur les demandes de mainlevées peuvent faire l'objet d'un
 recours devant la chambre de l'instruction dans les vingt-quatre heures de leur exécution ou de la notification faite aux
-parties intéressées.
+parties intéressées. 
 
 Lorsqu'une juridiction de jugement est saisie, la mainlevée de la mesure de fermeture en cours ou son renouvellement, pour
 une durée de trois mois au plus chaque fois, est prononcée selon les règles fixées par les deuxième à quatrième alinéas de
@@ -38678,19 +38817,15 @@ l'article 148-1.
 
 	  - Ordonnance 58-1296 1958-12-23
 
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°2002-305 2002-03-04 art. 19
-
 	**Modifié par**:
 
-	  - Loi n°2002-305 du 4 mars 2002 - art. 13 (V) JORF 5 mars 2002
+	  - Loi n°2007-297 du 5 mars 2007 - art. 35 () JORF 7 mars 2007
 
 	**Cite**:
 
-	  - Code pénal - art. 225-10 (M)
-	  - CODE DE PROCEDURE PENALE - art. 148-1 (M)
-	  - CODE DE PROCEDURE PENALE - art. 706-34 (M)
+	  - Code pénal - art. 225-10 (V)
+	  - Code de procédure pénale - art. 148-1 (V)
+	  - Code de procédure pénale - art. 706-34 (V)
 
 
 ###### Article 706-37
@@ -38714,17 +38849,13 @@ intervenue. Les modalités d'application du présent article sont déterminées 
 
 	  - Ordonnance 58-1296 1958-12-23
 
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°2002-305 2002-03-04 art. 19
-
 	**Modifié par**:
 
-	  - Loi n°2002-305 du 4 mars 2002 - art. 13 (V) JORF 5 mars 2002
+	  - Loi n°2007-297 du 5 mars 2007 - art. 35 () JORF 7 mars 2007
 
 	**Cite**:
 
-	  - Code pénal - art. 225-10 (M)
+	  - Code pénal - art. 225-10 (V)
 
 
 ###### Article 706-38
@@ -38733,7 +38864,7 @@ Lorsque la personne titulaire de la licence de débit de boissons ou de restaura
 lequel est exploité l'un des établissements visés au 2° de l'article 225-10 du code pénal n'est pas poursuivie, les peines
 complémentaires prévues par l'article 225-22 du code pénal ne peuvent être prononcées, par décision spéciale et motivée, que
 s'il est établi que cette personne a été citée à la diligence du ministère public avec indication de la nature des poursuites
-exercées et de la possibilité pour le tribunal de prononcer ces peines.
+exercées et de la possibilité pour le tribunal de prononcer ces peines. 
 
 La personne visée à l'alinéa précédent peut présenter ou faire présenter par un avocat ses observations à l'audience. Si elle
 use de cette faculté, elle peut interjeter appel de la décision prononçant l'une des peines prévues par l'article 225-22 du
@@ -38745,17 +38876,13 @@ code pénal.
 
 	  - Ordonnance 58-1296 1958-12-23
 
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°2002-305 2002-03-04 art. 19
-
 	**Modifié par**:
 
-	  - Loi n°2002-305 du 4 mars 2002 - art. 13 (V) JORF 5 mars 2002
+	  - Loi n°2007-297 du 5 mars 2007 - art. 35 () JORF 7 mars 2007
 
 	**Cite**:
 
-	  - Code pénal - art. 225-10 (M)
+	  - Code pénal - art. 225-10 (V)
 	  - Code pénal - art. 225-22 (V)
 
 
@@ -38763,7 +38890,7 @@ code pénal.
 
 La décision qui, en application de l'article 225-22 du code pénal, prononce la confiscation du fonds de commerce ordonne
 l'expulsion de toute personne qui, directement ou par personne interposée, détient, gère, exploite, dirige, fait fonctionner,
-finance ou contribue à financer l'établissement.
+finance ou contribue à financer l'établissement. 
 
 Cette même décision entraîne le transfert à l'Etat de la propriété du fonds confisqué et emporte subrogation de l'Etat dans
 tous les droits du propriétaire du fonds.
@@ -38774,13 +38901,9 @@ tous les droits du propriétaire du fonds.
 
 	  - Ordonnance 58-1296 1958-12-23
 
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°2002-305 2002-03-04 art. 19
-
 	**Modifié par**:
 
-	  - Loi n°2002-305 du 4 mars 2002 - art. 13 (V) JORF 5 mars 2002
+	  - Loi n°2007-297 du 5 mars 2007 - art. 35 () JORF 7 mars 2007
 
 	**Cite**:
 
@@ -38806,17 +38929,13 @@ bailleurs de ces locaux sont informés, à la diligence du ministère public, qu
 
 	  - Ordonnance 58-1296 1958-12-23
 
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°2002-305 2002-03-04 art. 19
-
 	**Modifié par**:
 
-	  - Loi n°2002-305 du 4 mars 2002 - art. 13 (V) JORF 5 mars 2002
+	  - Loi n°2007-297 du 5 mars 2007 - art. 35 () JORF 7 mars 2007
 
 	**Cite**:
 
-	  - Code pénal - art. 225-10 (M)
+	  - Code pénal - art. 225-10 (V)
 
 
 ### Titre XVIII : De la poursuite, de l'instruction et du jugement des infractions commises par les personnes morales
@@ -39140,6 +39259,47 @@ confusion, avec celles susceptibles d'être prononcées pour le crime ou le dél
 	**Anciens textes**:
 
 	  - CODE DE PROCEDURE PENALE - art. 706-47-1 (M)
+
+
+###### Article 706-47-3
+
+Dans le but de constater les infractions mentionnées aux articles 227-18 à 227-24 du code pénal et, lorsque celles-ci sont
+commises par un moyen de communication électronique, d'en rassembler les preuves et d'en rechercher les auteurs, les
+officiers ou agents de police judiciaire agissant au cours de l'enquête ou sur commission rogatoire peuvent, s'ils sont
+affectés dans un service spécialisé et spécialement habilités à cette fin, dans des conditions précisées par arrêté, procéder
+aux actes suivants sans en être pénalement responsables : 
+
+1° Participer sous un pseudonyme aux échanges électroniques ; 
+
+2° Etre en contact par ce moyen avec les personnes susceptibles d'être les auteurs de ces infractions ; 
+
+3° Extraire, transmettre en réponse à une demande expresse, acquérir ou conserver des contenus illicites dans des conditions
+fixées par décret. 
+
+A peine de nullité, ces actes ne peuvent constituer une incitation à commettre ces infractions.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 58-1296 1958-12-23
+
+	**Créé par**:
+
+	  - Loi n°2007-297 du 5 mars 2007 - art. 35 () JORF 7 mars 2007
+	  - Loi n°2007-297 du 5 mars 2007 - art. 35
+
+	**Cité par**:
+
+	  - Arrêté du 30 mars 2009 - art. 1 (M)
+	  - Arrêté du 30 mars 2009 - art. 3 (V)
+	  - Arrêté du 21 octobre 2015 - art. 1 (V)
+	  - Arrêté du 21 octobre 2015 - art. 2 (V)
+	  - Code de procédure pénale - art. D47-11 (V)
+
+	**Cite**:
+
+	  - Code pénal - art. 227-18 (V)
 
 
 ###### Article 706-48
@@ -39508,7 +39668,10 @@ réception ou en se présentant au service :
 Si la personne a été définitivement condamnée pour un crime ou pour un délit puni de dix ans d'emprisonnement, elle doit
 justifier de son adresse une fois tous les six mois en se présentant à cette fin soit auprès du commissariat ou de l'unité de
 gendarmerie de son domicile, soit auprès du groupement de gendarmerie départemental ou de la direction départementale de la
-sécurité publique de son domicile ou auprès de tout autre service désigné par la préfecture.
+sécurité publique de son domicile ou auprès de tout autre service désigné par la préfecture. Si la dangerosité de la personne
+le justifie, la juridiction de jugement ou, selon les modalités prévues par l'article 712-6, le juge de l'application des
+peines peut ordonner que cette présentation interviendra tous les mois. Cette décision est obligatoire si la personne est en
+état de récidive légale.
 
 Le fait, pour les personnes tenues aux obligations prévues par le présent article, de ne pas respecter ces obligations est
 puni de deux ans d'emprisonnement et de 30 000 euros d'amende.
@@ -39536,7 +39699,11 @@ puni de deux ans d'emprisonnement et de 30 000 euros d'amende.
 
 	**Modifié par**:
 
-	  - Loi n°2005-1549 du 12 décembre 2005 - art. 28 (V) JORF 13 décembre 2005
+	  - Loi n°2007-297 du 5 mars 2007 - art. 42 () JORF 7 mars 2007
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. 712-6 (V)
 
 
 ###### Article 706-53-6
@@ -39684,24 +39851,33 @@ Les dispositions des troisième à cinquième alinéas de l'article 777-2 sont a
 Toute personne dont l'identité est inscrite dans le fichier peut demander au procureur de la République de rectifier ou
 d'ordonner l'effacement des informations la concernant si les informations ne sont pas exactes ou si leur conservation
 n'apparaît plus nécessaire compte tenu de la finalité du fichier, au regard de la nature de l'infraction, de l'âge de la
-personne lors de sa commission, du temps écoulé depuis lors et de la personnalité actuelle de l'intéressé. 
+personne lors de sa commission, du temps écoulé depuis lors et de la personnalité actuelle de l'intéressé.
 
 La demande d'effacement est irrecevable tant que les mentions concernées subsistent au bulletin n° 1 du casier judiciaire de
 l'intéressé ou sont relatives à une procédure judiciaire qui est toujours en cours. 
 
 Si le procureur de la République n'ordonne pas la rectification ou l'effacement, la personne peut saisir à cette fin le juge
-des libertés et de la détention, dont la décision peut être contestée devant le président de la chambre de l'instruction. 
+des libertés et de la détention, dont la décision peut être contestée devant le président de la chambre de l'instruction.
 
 Avant de statuer sur la demande de rectification ou d'effacement, le procureur de la République, le juge des libertés et de
 la détention et le président de la chambre de l'instruction peuvent faire procéder à toutes les vérifications qu'ils estiment
-nécessaires et notamment ordonner une expertise médicale de la personne.S'il s'agit d'une mention concernant soit un crime,
+nécessaires et notamment ordonner une expertise médicale de la personne. S'il s'agit d'une mention concernant soit un crime,
 soit un délit puni de dix ans d'emprisonnement et commis contre un mineur, la décision d'effacement du fichier ne peut
-intervenir en l'absence d'une telle expertise. 
+intervenir en l'absence d'une telle expertise.
 
 Dans le cas prévu par l'avant-dernier alinéa de l'article 706-53-5, le procureur de la République, le juge des libertés et de
 la détention et le président de la chambre de l'instruction, saisis en application des dispositions du présent article,
 peuvent également ordonner, à la demande de la personne, qu'elle ne sera tenue de se présenter auprès des services de police
-ou de gendarmerie pour justifier de son adresse qu'une fois par an.
+ou de gendarmerie pour justifier de son adresse qu'une fois par an ou, lorsqu'elle devait se présenter une fois par mois,
+qu'une fois tous les six mois.
+
+**Nota:**
+
+Loi n° 2007-297 du 5 mars 2007 art. 43 III : Les dispositions de l'article 43 de la loi n° 2007-297 entrent en vigueur un an
+après la date de publication de la présente loi. Elles sont alors immédiatement applicables aux condamnations figurant
+toujours au casier judiciaire, quelque soit la date de commission de l'infraction ; toutefois, le doublement des délais de
+réhabilitation en cas de récidive n'est applicable que pour des faits commis postérieurement à la date de publication de la
+présente loi.
 
 **Liens relatifs à cet article**
 
@@ -39711,11 +39887,12 @@ ou de gendarmerie pour justifier de son adresse qu'une fois par an.
 
 	**Modifié par**:
 
-	  - Loi n°2005-1549 du 12 décembre 2005 - art. 28 (V) JORF 13 décembre 2005
+	  - Loi n°2007-297 du 5 mars 2007 - art. 42 () JORF 7 mars 2007
+	  - Loi n°2007-297 du 5 mars 2007 - art. 43
 
 	**Cite**:
 
-	  - CODE DE PROCEDURE PENALE - art. 706-53-5 (V)
+	  - CODE DE PROCEDURE PENALE - art. 706-53-5 (M)
 
 	**Cité par**:
 
@@ -39938,7 +40115,8 @@ enregistrée, au vu de son seul état civil, dans le fichier national automatis�
 Pour qu'il soit procédé à cette analyse, l'officier de police judiciaire peut requérir toute personne habilitée dans les
 conditions fixées par l'article 16-12 du code civil, sans qu'il soit toutefois nécessaire que cette personne soit inscrite
 sur une liste d'experts judiciaires ; dans ce cas, la personne prête alors par écrit le serment prévu au deuxième alinéa de
-l'article 60 du présent code.
+l'article 60 du présent code. Les réquisitions prévues par le présent alinéa peuvent également être faites par le procureur
+de la République ou le juge d'instruction.
 
 Les personnes requises conformément à l'alinéa précédent peuvent procéder, par tous moyens y compris télématiques, à la
 demande de l'officier de police judiciaire, du procureur de la République ou du juge d'instruction, aux opérations permettant
@@ -39988,7 +40166,7 @@ nouvelles réductions de peine.
 
 	**Modifié par**:
 
-	  - Loi n°2004-204 du 9 mars 2004 - art. 49 () JORF 10 mars 2004
+	  - Loi n°2007-297 du 5 mars 2007 - art. 42 () JORF 7 mars 2007
 
 	**Cite**:
 
@@ -40542,9 +40720,9 @@ devant la juridiction de jugement pour l'audition des témoins, des parties civi
 
 Ces dispositions sont également applicables à l'audition ou à l'interrogatoire par un juge d'instruction d'une personne
 détenue, au débat contradictoire préalable au placement en détention provisoire d'une personne détenue pour une autre cause,
-au débat contradictoire prévu pour la prolongation de la détention provisoire, à l'examen des demandes de mise en liberté par
-la chambre de l'instruction ou la juridiction de jugement, ou à l'interrogatoire du prévenu devant le tribunal de police ou
-devant la juridiction de proximité si celui-ci est détenu pour une autre cause.
+au débat contradictoire prévu pour la prolongation de la détention provisoire, aux audiences relatives au contentieux de la
+détention provisoire devant la chambre de l'instruction ou la juridiction de jugement, ou à l'interrogatoire du prévenu
+devant le tribunal de police ou devant la juridiction de proximité si celui-ci est détenu pour une autre cause.
 
 Pour l'application des dispositions des deux alinéas précédents, si la personne est assistée par un avocat, celui-ci peut se
 trouver auprès de la juridiction compétente ou auprès de l'intéressé. Dans le premier cas, il doit pouvoir s'entretenir avec
@@ -40557,12 +40735,6 @@ télécommunications.
 
 Un décret en Conseil d'Etat précise, en tant que de besoin, les modalités d'application du présent article.
 
-**Nota:**
-
-NOTA : Loi n° 2005-47, article 11 : Ces dispositions entrent en vigueur le premier jour du troisième mois suivant sa
-publication. Toutefois, les affaires dont le tribunal de police ou la juridiction de proximité sont régulièrement saisis à
-cette date demeurent de la compétence de ces juridictions.
-
 **Liens relatifs à cet article**
 
 	**Codifié par**:
@@ -40571,7 +40743,7 @@ cette date demeurent de la compétence de ces juridictions.
 
 	**Modifié par**:
 
-	  - Loi n°2005-47 du 26 janvier 2005 - art. 9 () JORF 27 janvier 2005 en vigueur le 1er avril 2005
+	  - Loi n°2007-297 du 5 mars 2007 - art. 70 () JORF 7 mars 2007
 
 	**Cite**:
 
@@ -40636,6 +40808,8 @@ prévue par le présent code, sous réserve des dispositions du présent titre :
 
 8° Crimes aggravés d'extorsion prévus par les articles 312-6 et 312-7 du code pénal ; 
 
+8° bis Délit d'escroquerie commis en bande organisée prévu par l'article 313-2 du code pénal ; 
+
 9° Crime de destruction, dégradation et détérioration d'un bien commis en bande organisée prévu par l'article 322-8 du code
 pénal ; 
 
@@ -40673,6 +40847,7 @@ ainsi que celles des titres XV, XVI et XVII.
 	  - Code pénal - art. 311-9 (M)
 	  - Code pénal - art. 312-6 (M)
 	  - Code pénal - art. 312-7 (M)
+	  - Code pénal - art. 313-2 (M)
 	  - Code pénal - art. 321-1 (M)
 	  - Code pénal - art. 321-2 (M)
 	  - Code pénal - art. 321-6-1 (V)
@@ -40681,7 +40856,7 @@ ainsi que celles des titres XV, XVI et XVII.
 	  - Code pénal - art. 324-2 (M)
 	  - Code pénal - art. 442-1 (M)
 	  - Code pénal - art. 442-2 (M)
-	  - Code pénal 221-4, 222-4, 222-34 à 222-40, 224-5-2, 225-4-2 à 225-4-7, 225-7 à 225-12, 311-9, 312-6, 312-7, 322-8, 442-1, 442-2, 421-1 à 421-6, 324-1, 324-2, 321-1, 321-2, 420-1, 321-6-1
+	  - Code pénal 221-4, 222-4, 222-34 à 222-40, 224-5-2, 225-4-2 à 225-4-7, 225-7 à 225-12, 311-9, 312-6, 312-7, 322-8, 442-1, 442-2, 421-1 à 421-6, 324-1, 324-2, 321-1, 321-2, 420-1, 321-6-1, 313-2
 	  - Code de la défense. - art. L2339-10 (V)
 	  - Code de la défense. - art. L2339-2 (V)
 	  - Code de la défense. - art. L2339-8 (V)
@@ -40755,8 +40930,7 @@ ainsi que celles des titres XV, XVI et XVII.
 
 	**Modifié par**:
 
-	  - Loi n°2006-64 du 23 janvier 2006 - art. 11 () JORF 24 janvier 2006
-	  - Loi n°2006-64 du 23 janvier 2006 - art. 24 () JORF 24 janvier 2006
+	  - Loi n°2007-297 du 5 mars 2007 - art. 13 () JORF 7 mars 2007
 
 
 ###### Article 706-74
@@ -42156,6 +42330,170 @@ dernier alinéa de l'article 706-110, le recours étant alors porté devant la c
 	  - PILOTE_SUIVEUR: Code de l'environnement - art. L218-29 (MMN)
 
 
+### Titre XXVII : De la poursuite, de l'instruction et du jugement des infractions commises par des majeurs protégés
+
+###### Article 706-112
+
+Le présent titre est applicable à toute personne majeure dont il est établi au cours de la procédure qu'elle fait l'objet
+d'une mesure de protection juridique dans les conditions prévues au titre XI du livre Ier du code civil.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 58-1296 1958-12-23
+
+	**Créé par**:
+
+	  - Loi n°2007-308 du 5 mars 2007 - art. 36 () JORF 7 mars 2007
+
+	**Cité par**:
+
+	  - Décret n°2007-1738 du 11 décembre 2007 (V)
+
+
+###### Article 706-113
+
+Le procureur de la République ou le juge d'instruction avise le curateur ou le tuteur, ainsi que le juge des tutelles, des
+poursuites dont la personne fait l'objet. Il en est de même si la personne fait l'objet d'une alternative aux poursuites
+consistant en la réparation du dommage ou en une médiation, d'une composition pénale ou d'une comparution sur reconnaissance
+préalable de culpabilité ou si elle est entendue comme témoin assisté.
+
+Le curateur ou le tuteur peut prendre connaissance des pièces de la procédure dans les mêmes conditions que celles prévues
+pour la personne poursuivie.
+
+Si la personne est placée en détention provisoire, le curateur ou le tuteur bénéficie de plein droit d'un permis de visite.
+
+Le procureur de la République ou le juge d'instruction avise le curateur ou le tuteur des décisions de non-lieu, de relaxe,
+d'acquittement ou de condamnation dont la personne fait l'objet.
+
+Le curateur ou le tuteur est avisé de la date d'audience. Lorsqu'il est présent à l'audience, il est entendu par la
+juridiction en qualité de témoin.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 58-1296 1958-12-23
+
+	**Créé par**:
+
+	  - Loi n°2007-308 du 5 mars 2007 - art. 36 () JORF 7 mars 2007
+
+	**Cité par**:
+
+	  - CODE DE PROCEDURE PENALE - art. 706-117 (V)
+	  - Code de procédure pénale - art. D47-14 (V)
+	  - Code de procédure pénale - art. D47-15 (V)
+	  - Code de procédure pénale - art. D47-18 (V)
+
+
+###### Article 706-114
+
+S'il existe des raisons plausibles de présumer que le curateur ou le tuteur est coauteur ou complice de l'infraction, et
+faute de subrogé curateur ou de subrogé tuteur, le procureur de la République ou le juge d'instruction demande au juge des
+tutelles la désignation d'un tuteur ou curateur ad hoc. Il en est de même si le tuteur ou le curateur est victime de
+l'infraction. A défaut, le président du tribunal de grande instance désigne un représentant ad hoc pour assister la personne
+au cours de la procédure pénale.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 58-1296 1958-12-23
+
+	**Créé par**:
+
+	  - Loi n°2007-308 du 5 mars 2007 - art. 36 () JORF 7 mars 2007
+
+	**Cité par**:
+
+	  - Code de procédure pénale - art. D47-19 (V)
+
+
+###### Article 706-115
+
+La personne poursuivie doit être soumise avant tout jugement au fond à une expertise médicale afin d'évaluer sa
+responsabilité pénale au moment des faits.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 58-1296 1958-12-23
+
+	**Créé par**:
+
+	  - Loi n°2007-308 du 5 mars 2007 - art. 36 () JORF 7 mars 2007
+
+	**Cité par**:
+
+	  - CODE DE PROCEDURE PENALE - art. D47-24 (VD)
+	  - Code de procédure pénale - art. D47-21 (V)
+	  - Code de procédure pénale - art. D47-25 (V)
+
+
+###### Article 706-116
+
+La personne poursuivie doit être assistée par un avocat.
+
+A défaut de choix d'un avocat par la personne poursuivie ou son curateur ou son tuteur, le procureur de la République ou le
+juge d'instruction fait désigner par le bâtonnier un avocat, l'intéressé étant informé que les frais seront à sa charge sauf
+s'il remplit les conditions d'accès à l'aide juridictionnelle.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 58-1296 1958-12-23
+
+	**Créé par**:
+
+	  - Loi n°2007-308 du 5 mars 2007 - art. 36 () JORF 7 mars 2007
+
+	**Cité par**:
+
+	  - Code de procédure pénale - art. D47-26 (V)
+
+
+###### Article 706-117
+
+Le procureur de la République ou le juge d'instruction avise le juge des tutelles des poursuites concernant une personne dont
+il est établi qu'elle bénéficie d'une mesure de sauvegarde de justice. Le juge des tutelles peut alors désigner un mandataire
+spécial qui dispose, au cours de la procédure, des prérogatives confiées au curateur ou au tuteur par l'article 706-113.
+
+Ces prérogatives sont également reconnues au mandataire de protection future.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 58-1296 1958-12-23
+
+	**Créé par**:
+
+	  - Loi n°2007-308 du 5 mars 2007 - art. 36 () JORF 7 mars 2007
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. 706-113 (V)
+
+
+###### Article 706-118
+
+Un décret fixe, en tant que de besoin, les modalités d'application du présent titre.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 58-1296 1958-12-23
+
+	**Créé par**:
+
+	  - Loi n°2007-308 du 5 mars 2007 - art. 36 () JORF 7 mars 2007
+
+
 ## Livre V : Des procédures d'exécution
 
 ### Titre Ier : De l'exécution des sentences pénales
@@ -42221,20 +42559,32 @@ montant peut entraîner l'incarcération du condamné selon les conditions prév
 Pour le recouvrement des amendes, la prescription est interrompue par un commandement notifié au condamné ou une saisie
 signifiée à celui-ci.
 
+Le procureur de la République poursuit également l'exécution des sanctions pécuniaires prononcées par les autorités
+compétentes des Etats membres de l'Union européenne, conformément aux dispositions de la décision-cadre 2005/214/JAI du
+Conseil, du 24 février 2005, concernant l'application du principe de reconnaissance mutuelle aux sanctions pécuniaires, selon
+des modalités fixées par décret. Ce décret précise également les modalités d'application à ces sanctions des articles 707-2
+et 749 à 762 du présent code, ainsi que les règles applicables à la transmission pour mise à exécution dans un Etat membre de
+l'Union européenne des sanctions pécuniaires prononcées par les autorités françaises.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Ordonnance 58-1296 1958-12-23
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2004-204 2004-03-09 art. 159 I, II, III JORF 10 mars 2004 en vigueur le 1er janvier 2005
-	  - Loi n°2004-204 du 9 mars 2004 - art. 159 () JORF 10 mars 2004 en vigueur le 1er janvier 2005
+	  - Loi n°2007-297 du 5 mars 2007 - art. 22 () JORF 7 mars 2007
 
 	**Anciens textes**:
 
 	  - CODE DE PROCEDURE PENALE - art. 707 (T)
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. 707-2 (V)
+	  - Code de procédure pénale 707-2, 749 à 762
+	  - Décision du Conseil 2005/214/JAI 2005-02-24
 
 	**Cité par**:
 
@@ -42291,11 +42641,14 @@ jugement a été prononcé, ce montant est diminué de 20 % sans que cette dimin
 
 Le président informe le condamné que le paiement de l'amende ne fait pas obstacle à l'exercice des voies de recours.
 
+Les avis prévus par le présent article peuvent également être délivrés au condamné par le greffier de la juridiction ou le
+greffier du bureau de l'exécution des peines.
+
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2004-204 du 9 mars 2004 - art. 196 () JORF 10 mars 2004
+	  - Loi n°2007-297 du 5 mars 2007 - art. 22 () JORF 7 mars 2007
 
 	**Cité par**:
 
@@ -43293,16 +43646,21 @@ observations par écrit dans un délai de quinze jours à compter de la notifica
 ###### Article 712-17
 
 Le juge de l'application des peines peut délivrer un mandat d'amener contre un condamné placé sous son contrôle en cas
-d'inobservation par ce dernier des obligations qui lui incombent.
+d'inobservation par ce dernier des obligations qui lui incombent. 
 
 Si le condamné est en fuite ou réside à l'étranger, il peut délivrer un mandat d'arrêt. La délivrance du mandat d'arrêt
-suspend, jusqu'à son exécution, le délai d'exécution de la peine ou des mesures d'aménagement.
+suspend, jusqu'à son exécution, le délai d'exécution de la peine ou des mesures d'aménagement. 
 
-Si la personne est découverte, il est procédé conformément aux dispositions ci-après.
+En cas d'urgence et d'empêchement du juge de l'application des peines ainsi que du magistrat du siège qui le remplace, le
+mandat d'amener peut être délivré par le procureur de la République qui en informe dès que possible le juge de l'application
+des peines ; lorsqu'il n'a pas déjà été mis à exécution, ce mandat est caduc s'il n'est pas repris, dans le premier jour
+ouvrable qui suit, par le juge de l'application des peines. 
+
+Si la personne est découverte, il est procédé conformément aux dispositions ci-après. 
 
 Le procureur de la République du lieu de l'arrestation est avisé dès le début de la rétention de la personne par les services
 de police ou de gendarmerie. Pendant la rétention, qui ne peut durer plus de vingt-quatre heures, il est fait application des
-dispositions des articles 63-2 et 63-3.
+dispositions des articles 63-2 et 63-3. 
 
 La personne est conduite dans les meilleurs délais, et au plus tard dans les vingt-quatre heures de son arrestation, devant
 le procureur de la République du tribunal de grande instance dans le ressort duquel siège le juge de l'application des peines
@@ -43312,10 +43670,10 @@ l'application des peines qui procède conformément aux dispositions de l'articl
 Si la présentation immédiate devant le juge de l'application des peines n'est pas possible, la personne est présentée devant
 le juge des libertés et de la détention. Ce juge peut, sur les réquisitions du procureur de la République, ordonner
 l'incarcération du condamné jusqu'à sa comparution devant le juge de l'application des peines, qui doit intervenir dans les
-huit jours ou dans le mois qui suit, selon qu'il s'agit d'une procédure correctionnelle ou d'une procédure criminelle.
+huit jours ou dans le mois qui suit, selon qu'il s'agit d'une procédure correctionnelle ou d'une procédure criminelle. 
 
 Si la personne est arrêtée à plus de 200 kilomètres du siège du juge de l'application des peines et qu'il n'est pas possible
-de la conduire dans le délai de vingt-quatre heures devant le procureur de la République compétent en vertu du cinquième
+de la conduire dans le délai de vingt-quatre heures devant le procureur de la République compétent en vertu du sixième
 alinéa, elle est conduite devant le procureur de la République du lieu de son arrestation, qui vérifie son identité, lui
 notifie le mandat et reçoit ses éventuelles déclarations après l'avoir avertie qu'elle est libre de ne pas en faire. Ce
 magistrat met alors le mandat à exécution en faisant conduire la personne à la maison d'arrêt ; il en avise le juge de
@@ -43329,15 +43687,9 @@ un département d'outre-mer et la France métropolitaine ou un autre départemen
 
 	  - Ordonnance 58-1296 1958-12-23
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2004-204 du 9 mars 2004 - art. 161 () JORF 10 mars 2004 en vigueur le 1er janvier 2005
-
-	**Cite**:
-
-	  - CODE DE PROCEDURE PENALE - art. 63-2 (M)
-	  - CODE DE PROCEDURE PENALE - art. 63-3 (M)
-	  - CODE DE PROCEDURE PENALE - art. 712-6 (V)
+	  - Loi n°2007-297 du 5 mars 2007 - art. 71 () JORF 7 mars 2007
 
 	**Cité par**:
 
@@ -43360,6 +43712,11 @@ un département d'outre-mer et la France métropolitaine ou un autre départemen
 	  - Code de procédure pénale - art. D49-20 (V)
 	  - Code de procédure pénale - art. D49-35-1 (V)
 	  - Code de procédure pénale - art. D49-35-2 (V)
+
+	**Cite**:
+
+	  - Code de procédure pénale - art. 63-2 (V)
+	  - Code de procédure pénale - art. 712-6 (V)
 
 
 ###### Article 712-18
@@ -43686,11 +44043,11 @@ précédent.
 Quand il y a eu détention provisoire à quelque stade que ce soit de la procédure, cette détention est intégralement déduite
 de la durée de la peine prononcée ou, s'il y a lieu, de la durée totale de la peine à subir après confusion. Il en est de
 même, s'agissant d'une détention provisoire ordonnée dans le cadre d'une procédure suivie pour les mêmes faits que ceux ayant
-donné lieu à condamnation, si cette procédure a été ultérieurement annulée.
+donné lieu à condamnation, si cette procédure a été ultérieurement annulée. 
 
 Les dispositions de l'alinéa précédent sont également applicables à la privation de liberté subie en exécution d'un mandat
 d'amener ou d'arrêt, à l'incarcération subie hors de France en exécution d'un mandat d'arrêt européen ou sur la demande
-d'extradition et à l'incarcération subie en application du sixième alinéa de l'article 712-17, de l'article 712-19 et de
+d'extradition et à l'incarcération subie en application du septième alinéa de l'article 712-17, de l'article 712-19 et de
 l'article 747-3.
 
 **Liens relatifs à cet article**
@@ -43701,18 +44058,17 @@ l'article 747-3.
 
 	**Modifié par**:
 
-	  - Loi n°2005-1549 du 12 décembre 2005 - art. 39 () JORF 13 décembre 2005
-
-	**Cite**:
-
-	  - CODE DE PROCEDURE PENALE - art. 712-17 (M)
-	  - CODE DE PROCEDURE PENALE - art. 712-19 (V)
-	  - CODE DE PROCEDURE PENALE - art. 747-3 (M)
+	  - Loi n°2007-297 du 5 mars 2007 - art. 71 () JORF 7 mars 2007
 
 	**Cité par**:
 
 	  - Code de procédure pénale - art. 142-11 (V)
 	  - Code de procédure pénale - art. 145 (VT)
+
+	**Cite**:
+
+	  - Code de procédure pénale - art. 712-17 (V)
+	  - Code de procédure pénale - art. 712-19 (V)
 
 
 ###### Article 716-5
@@ -45904,6 +46260,47 @@ au cours de la procédure.
 	**Cite**:
 
 	  - Code de procédure pénale - art. 222
+
+
+###### Article 727-1
+
+Aux fins de prévenir les évasions et d'assurer la sécurité et le bon ordre des établissements pénitentiaires ou des
+établissements de santé habilités à recevoir des détenus, les communications téléphoniques que les personnes détenues ont été
+autorisées à passer peuvent, à l'exception de celles avec leur avocat, être écoutées, enregistrées et interrompues par
+l'administration pénitentiaire sous le contrôle du procureur de la République territorialement compétent, dans des conditions
+et selon des modalités qui sont précisées par décret.
+
+Les détenus ainsi que leurs correspondants sont informés du fait que les conversations téléphoniques peuvent être écoutées,
+enregistrées et interrompues.
+
+Les enregistrements qui ne sont suivis d'aucune transmission à l'autorité judiciaire en application de l'article 40 ne
+peuvent être conservés au-delà d'un délai de trois mois.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 58-1296 1958-12-23
+
+	**Créé par**:
+
+	  - Loi n°2007-297 du 5 mars 2007 - art. 72 () JORF 7 mars 2007
+
+	**Cité par**:
+
+	  - Loi n°2009-1436 du 24 novembre 2009 - art. 39 (VD)
+	  - Décret n°2017-750 du 3 mai 2017 (V)
+	  - Code de procédure pénale - art. 230-45 (VD)
+	  - Code de procédure pénale - art. D419-3 (Ab)
+	  - Code de procédure pénale - art. R27-8-24 (V)
+	  - Code de procédure pénale - art. R27-8-25 (V)
+	  - Code de procédure pénale - art. R27-8-26 (V)
+	  - Code de procédure pénale - art. R27-8-27 (V)
+	  - Code de procédure pénale - art. R27-8-29 (V)
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. 40 (M)
 
 
 ###### Article 728
@@ -49959,7 +50356,9 @@ applicables dans les îles Wallis et Futuna.
 
 Pour l'application du présent code dans les territoires d'outre-mer et en Nouvelle-Calédonie, les termes : "tribunal de
 grande instance", "tribunal d'instance" ou "tribunal de police" sont remplacés par les termes : "tribunal de première
-instance" ou, le cas échéant, par les termes : "section détachée du tribunal de première instance" ;
+instance" ou, le cas échéant, par les termes : "section détachée du tribunal de première instance". Les termes "pôle de
+l'instruction" et "collège de l'instruction" sont remplacés par les termes : "juge d'instruction" et les mots : "représentant
+de l'Etat dans le département" sont remplacés par les mots : "représentant de l'Etat dans la collectivité".
 
 De même, les références à des dispositions non applicables dans ces territoires et en Nouvelle-Calédonie sont remplacées par
 les références à des dispositions applicables localement ayant le même objet.
@@ -49970,14 +50369,15 @@ les références à des dispositions applicables localement ayant le même objet
 
 	  - Ordonnance 96-268 1996-03-28
 
-	**Modifié par**:
-
-	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
-
 	**Cité par**:
 
 	  - Décret n°2005-163 du 23 février 2005 - art. 2 (V)
 	  - Décret n°2006-385 du 30 mars 2006 - art. 23 (V)
+
+	**Modifié par**:
+
+	  - Loi n°2007-291 du 5 mars 2007 - art. 31 (V) JORF 6 mars 2007
+	  - Loi n°2007-297 du 5 mars 2007 - art. 81 () JORF 7 mars 2007
 
 
 ###### Article 806
@@ -50135,6 +50535,27 @@ prévues à l'article 21 du présent code.
 	**Créé par**:
 
 	  - Loi n°2004-193 du 27 février 2004 - art. 22 () JORF 2 mars 2004
+
+
+###### Article 809-3
+
+Pour l'application de l'article 44-1, les références aux dispositions du code général des collectivités territoriales prévues
+par cet article sont remplacées par les références aux dispositions ayant le même objet du code des communes de la Nouvelle-
+Calédonie et du code des communes de Polynésie française.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 96-268 1996-03-28
+
+	**Créé par**:
+
+	  - Loi n°2007-297 du 5 mars 2007 - art. 81 () JORF 7 mars 2007
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. 44-1 (M)
 
 
 ###### Article 810
