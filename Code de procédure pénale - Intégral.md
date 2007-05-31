@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 2007-05-15
+Version Consolidée au 2007-06-01
 
 # Partie législative
 
@@ -64814,7 +64814,7 @@ préparer, le cas échéant, une prise en charge post-pénale adaptée.
 
 ###### Article R57-8
 
-Le directeur régional des services pénitentiaires est compétent pour prendre les décisions administratives individuelles
+Le directeur interrégional des services pénitentiaires est compétent pour prendre les décisions administratives individuelles
 suivantes :
 
 1° Agrément des associations pour le compte desquelles les détenus peuvent être autorisés à travailler ;
@@ -64846,9 +64846,9 @@ des services pénitentiaires ;
 
 12° Prolongation de l'isolement au-delà de six mois et jusqu'à un an.
 
-Pour les compétences définies par la partie réglementaire du présent code, le directeur régional des services pénitentiaires
-peut déléguer sa signature à un ou plusieurs fonctionnaires appartenant à un corps de catégorie A occupant un emploi au siège
-de la direction régionale.
+Pour les compétences définies par la partie réglementaire du présent code, le directeur interrégional des services
+pénitentiaires peut déléguer sa signature à un ou plusieurs fonctionnaires appartenant à un corps de catégorie A occupant un
+emploi au siège de la direction régionale.
 
 **Liens relatifs à cet article**
 
@@ -64858,8 +64858,7 @@ de la direction régionale.
 
 	**Modifié par**:
 
-	  - Décret n°2006-337 du 21 mars 2006 - art. 1 () JORF 23 mars 2006 en vigueur le 1er juin 2006
-	  - Décret n°2006-337 du 21 mars 2006 - art. 2 () JORF 23 mars 2006 en vigueur le 1er juin 2006
+	  - Décret n°2007-931 du 15 mai 2007 - art. 17 (Ab) JORF 16 mai 2007 en vigueur le 1er juin 2007
 
 	**Cité par**:
 
@@ -65075,31 +65074,30 @@ l'exercice de sa mission.
 
 ###### Article R57-9-6
 
-Le directeur régional des services pénitentiaires est l'autorité compétente pour se prononcer sur la demande d'agrément, sur
-proposition du chef d'établissement pénitentiaire qui procède à son instruction et veille notamment à ce que celle-ci n'ait
-pas pour but de contourner les règles régissant l'exercice des droits de visite. Le directeur régional des services
-pénitentiaires peut, préalablement à la délivrance de l'agrément, faire diligenter une enquête administrative dans les
-conditions prévues par le décret n° 2005-1124 du 6 septembre 2005.
+Le directeur interrégional des services pénitentiaires est l'autorité compétente pour se prononcer sur la demande d'agrément,
+sur proposition du chef d'établissement pénitentiaire qui procède à son instruction et veille notamment à ce que celle-ci
+n'ait pas pour but de contourner les règles régissant l'exercice des droits de visite. Le directeur interrégional des
+services pénitentiaires peut, préalablement à la délivrance de l'agrément, faire diligenter une enquête administrative dans
+les conditions prévues par le décret n° 2005-1124 du 6 septembre 2005.
 
 Le mandataire agréé lorsqu'il aura été choisi par une personne placée en détention provisoire doit solliciter également la
 délivrance de l'autorisation prévue à l'article 145-4.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - Décret n°2005-1124 2005-09-06
-	  - CODE DE PROCEDURE PENALE - art. 145-4 (M)
-	  - Loi n°2000-321 du 12 avril 2000 - art. 24 (V)
-
 	**Codifié par**:
 
 	  - Décret n°59-318 1959-02-03
 
-	**Créé par**:
+	**Cite**:
 
-	  - Décret n°2006-337 du 21 mars 2006 - art. 1 () JORF 23 mars 2006 en vigueur le 1er juin 2006
-	  - Décret n°2006-337 du 21 mars 2006 - art. 3 () JORF 23 mars 2006 en vigueur le 1er juin 2006
+	  - Loi n°2000-321 du 12 avril 2000 - art. 24 (V)
+	  - Décret n°2005-1124 2005-09-06
+	  - CODE DE PROCEDURE PENALE - art. 145-4 (M)
+
+	**Modifié par**:
+
+	  - Décret n°2007-931 du 15 mai 2007 - art. 17 (Ab) JORF 16 mai 2007 en vigueur le 1er juin 2007
 
 
 ###### Article R57-9-7
@@ -65110,42 +65108,41 @@ confiées par des personnes détenues dans un ou plusieurs établissements péni
 régionale.
 
 Un mandataire, préalablement bénéficiaire d'un agrément en cours de validité, peut, à sa demande, être autorisé par le
-directeur régional des services pénitentiaires d'une autre région pénitentiaire à accomplir des missions d'assistance ou de
-représentation, dans les conditions prévues au deuxième alinéa de l'article R. 57-9-5, dans un ou plusieurs établissements
+directeur interrégional des services pénitentiaires d'une autre région pénitentiaire à accomplir des missions d'assistance ou
+de représentation, dans les conditions prévues au deuxième alinéa de l'article R. 57-9-5, dans un ou plusieurs établissements
 pénitentiaires situés dans son ressort. Cette autorisation est valable dans le ou les établissements désignés, jusqu'à la
 date d'expiration de l'agrément en cours.
 
 **Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°59-318 1959-02-03
 
 	**Cite**:
 
 	  - Loi n°2000-321 du 12 avril 2000 - art. 24 (V)
 	  - CODE DE PROCEDURE PENALE - art. R57-9-5 (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2006-337 du 21 mars 2006 - art. 1 () JORF 23 mars 2006 en vigueur le 1er juin 2006
-	  - Décret n°2006-337 du 21 mars 2006 - art. 3 () JORF 23 mars 2006 en vigueur le 1er juin 2006
+	  - Décret n°2007-931 du 15 mai 2007 - art. 17 (Ab) JORF 16 mai 2007 en vigueur le 1er juin 2007
 
 	**Cité par**:
 
 	  - Décret n°2008-1489 du 30 décembre 2008 (V)
 
+	**Codifié par**:
+
+	  - Décret n°59-318 1959-02-03
+
 
 ###### Article R57-9-8
 
-Le directeur régional des services pénitentiaires est tenu de retirer l'agrément lorsque le procureur de la République en
-fait la demande écrite. Il peut en outre retirer l'agrément par décision motivée prise au vu d'un rapport du chef
+Le directeur interrégional des services pénitentiaires est tenu de retirer l'agrément lorsque le procureur de la République
+en fait la demande écrite. Il peut en outre retirer l'agrément par décision motivée prise au vu d'un rapport du chef
 d'établissement, notamment en cas de manquement par un mandataire aux règles relatives à la sécurité et au bon ordre de
 l'établissement.
 
 En cas d'urgence et pour des motifs graves, le chef d'établissement peut suspendre l'agrément du mandataire, pour une durée
-qui ne peut excéder deux mois, sous réserve d'en informer sans délai le directeur régional qui prend la décision définitive
-avant l'expiration de ce délai.
+qui ne peut excéder deux mois, sous réserve d'en informer sans délai le directeur interrégional qui prend la décision
+définitive avant l'expiration de ce délai.
 
 **Liens relatifs à cet article**
 
@@ -65157,10 +65154,9 @@ avant l'expiration de ce délai.
 
 	  - Loi n°2000-321 du 12 avril 2000 - art. 24 (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2006-337 du 21 mars 2006 - art. 1 () JORF 23 mars 2006 en vigueur le 1er juin 2006
-	  - Décret n°2006-337 du 21 mars 2006 - art. 3 () JORF 23 mars 2006 en vigueur le 1er juin 2006
+	  - Décret n°2007-931 du 15 mai 2007 - art. 17 (Ab) JORF 16 mai 2007 en vigueur le 1er juin 2007
 
 
 ##### Section 2 : Du déroulement de la procédure contradictoire
@@ -65230,6 +65226,157 @@ d'établissement.
 	**Cité par**:
 
 	  - Code de procédure pénale - art. D283-2-4 (Ab)
+
+
+#### Chapitre IV : De la détention des mineurs
+
+##### Section 1 : Des établissements recevant des mineurs
+
+###### Article R57-9-11
+
+La liste des établissements pénitentiaires spécialisés pour mineurs et des quartiers des mineurs des maisons d'arrêt ou des
+établissements pour peines est fixée par arrêté du ministre de la justice.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2007-748 du 9 mai 2007 - art. 1 () JORF 10 mai 2007 en vigueur le 1er juin 2007
+
+	**Cité par**:
+
+	  - Décret n°2014-1277 du 23 octobre 2014 - art. (V)
+	  - Code de procédure pénale - art. A43-2 (V)
+	  - Code de procédure pénale - art. A43-3 (V)
+
+	**Codifié par**:
+
+	  - Décret n°59-318 1959-02-03
+
+
+###### Article R57-9-12
+
+Les détenues mineures sont hébergées dans les unités prévues à cet effet sous la surveillance des personnels de leur sexe.
+
+Les activités organisées dans les établissements pénitentiaires spécialisés pour mineurs peuvent accueillir des détenus des
+deux sexes.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-318 1959-02-03
+
+	**Créé par**:
+
+	  - Décret n°2007-748 du 9 mai 2007 - art. 1 () JORF 10 mai 2007 en vigueur le 1er juin 2007
+
+	**Cité par**:
+
+	  - Décret n°2014-1279 du 23 octobre 2014 - art. (VD)
+
+
+###### Article R57-9-13
+
+A titre exceptionnel, un détenu qui atteint la majorité en détention peut être maintenu dans un quartier des mineurs ou un
+établissement pénitentiaire spécialisé pour mineurs. Il ne doit avoir aucun contact avec les prévenus âgés de moins de seize
+ans.
+
+Il ne peut être maintenu dans un tel établissement au-delà de l'âge de dix-huit ans et six mois.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-318 1959-02-03
+
+	**Créé par**:
+
+	  - Décret n°2007-748 du 9 mai 2007 - art. 1 () JORF 10 mai 2007 en vigueur le 1er juin 2007
+
+	**Cité par**:
+
+	  - Code de procédure pénale - art. D80 (V)
+
+
+###### Article R57-9-14
+
+Le détenu mineur est, la nuit, seul en cellule.
+
+A titre exceptionnel, sur décision du chef d'établissement, il peut être placé en cellule avec un détenu de son âge soit pour
+motif médical, soit en raison de sa personnalité. Dans ce cas, l'hébergement de nuit dans une même cellule ne peut concerner
+plus de deux mineurs.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-318 1959-02-03
+
+	**Créé par**:
+
+	  - Décret n°2007-748 du 9 mai 2007 - art. 1 () JORF 10 mai 2007 en vigueur le 1er juin 2007
+
+
+##### Section 2 : Des actions de préparation à la réinsertion
+
+###### Article R57-9-15
+
+Les services de l'administration pénitentiaire et du secteur public de la protection judiciaire de la jeunesse travaillent
+conjointement à l'accompagnement des mineurs détenus en organisant l'individualisation de leur parcours en détention.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-318 1959-02-03
+
+	**Créé par**:
+
+	  - Décret n°2007-748 du 9 mai 2007 - art. 1 () JORF 10 mai 2007 en vigueur le 1er juin 2007
+
+
+###### Article R57-9-16
+
+Les services du secteur public de la protection judiciaire de la jeunesse assurent une intervention éducative continue en
+détention auprès des mineurs.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-318 1959-02-03
+
+	**Créé par**:
+
+	  - Décret n°2007-748 du 9 mai 2007 - art. 1 () JORF 10 mai 2007 en vigueur le 1er juin 2007
+
+	**Cité par**:
+
+	  - Code de procédure pénale - art. R288 (V)
+	  - Code de procédure pénale - art. R288-1 (V)
+
+
+###### Article R57-9-17
+
+A titre exceptionnel, le chef d'établissement peut autoriser la participation d'un mineur aux activités organisées dans
+l'établissement pénitentiaire avec des détenus majeurs, si l'intérêt du mineur le justifie.
+
+Cette faculté ne peut en aucun cas concerner un mineur prévenu âgé de treize à seize ans.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°2014-1279 du 23 octobre 2014 - art. (VD)
+
+	**Codifié par**:
+
+	  - Décret n°59-318 1959-02-03
+
+	**Créé par**:
+
+	  - Décret n°2007-748 du 9 mai 2007 - art. 1 () JORF 10 mai 2007 en vigueur le 1er juin 2007
 
 
 ### Titre III : Du placement sous surveillance électronique
@@ -72899,6 +73046,26 @@ l'article R. 57-5 est supprimée.
 	**Cite**:
 
 	  - CODE DE PROCEDURE PENALE - art. R57-5 (M)
+
+
+###### Article R288-1
+
+En Nouvelle-Calédonie, les dispositions des articles R. 57-9-15 et R. 57-9-16 relatives au secteur public de la protection
+judiciaire de la jeunesse sont applicables au service exerçant localement des missions similaires.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-318 1959-02-23
+
+	**Créé par**:
+
+	  - Décret n°2007-748 du 9 mai 2007 - art. 2 () JORF 10 mai 2007 en vigueur le 1er juin 2007
+
+	**Cite**:
+
+	  - Code de procédure pénale - art. R57-9-16 (V)
 
 
 ###### Article R289
@@ -82432,14 +82599,14 @@ mesure d'aménagement de peine dont le condamné faisait l'objet.
 
 Le juge de l'application des peines fixe les principales modalités d'exécution des peines privatives de liberté ou de
 certaines peines restrictives de libertés en orientant et en contrôlant les conditions de leur exécution, conformément aux
-principes fixés par l'article 707.
+principes fixés par l'article 707. 
 
 Il est à cette fin assisté par la commission de l'application des peines, ainsi que par le service pénitentiaire d'insertion
-et de probation, que le magistrat mandate pour suivre les condamnés faisant l'objet d'une peine restrictive de liberté.
+et de probation, que le magistrat mandate pour suivre les condamnés faisant l'objet d'une peine restrictive de liberté. 
 
 Le juge de l'application des peines exerce les missions qui lui sont confiées, en déterminant notamment, pour chaque
 condamné, les principales modalités du traitement pénitentiaire, dans le respect des attributions propres au directeur
-régional des services pénitentiaires et aux chefs des établissements pénitentiaires relatives à l'organisation et au
+interrégional des services pénitentiaires et aux chefs des établissements pénitentiaires relatives à l'organisation et au
 fonctionnement de ces établissements.
 
 **Liens relatifs à cet article**
@@ -82450,11 +82617,11 @@ fonctionnement de ces établissements.
 
 	**Modifié par**:
 
-	  - Décret n°2007-699 du 3 mai 2007 - art. 8 () JORF 5 mai 2007
+	  - Décret n°2007-931 du 15 mai 2007 - art. 17 (Ab) JORF 16 mai 2007 en vigueur le 1er juin 2007
 
 	**Cite**:
 
-	  - CODE DE PROCEDURE PENALE - art. 707 (T)
+	  - Code de procédure pénale - art. 707 (V)
 
 
 ###### Article D49-28
@@ -84160,20 +84327,29 @@ ou encore lorsque cet établissement n'offre pas une capacité d'accueil ou des 
 sont incarcérés à la maison d'arrêt la plus proche disposant d'installations convenables, d'où ils sont extraits chaque fois
 que l'autorité judiciaire le requiert.
 
+Les prévenus mineurs peuvent également être incarcérés dans un établissement pénitentiaire spécialisé pour mineurs.
+
+L'équipe pluridisciplinaire mentionnée à l'article D. 514 peut proposer au magistrat saisi du dossier de l'information, dans
+l'intérêt du prévenu mineur, de l'incarcérer dans un établissement pénitentiaire spécialisé pour mineurs ou dans un quartier
+pour mineurs d'une maison d'arrêt, autre que son lieu d'incarcération initial.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°59-322 1959-02-23
 
-	**Modifié par**:
-
-	  - Décret n°72-852 1972-09-12 art. 1 JORF 20 septembre 1972 rectificatif JORF 14 octobre 1972
-	  - Décret n°85-836 1985-08-06 art. 1 JORF 8 août 1985
-
 	**Cité par**:
 
 	  - Loi - art. 37 (V)
+
+	**Modifié par**:
+
+	  - Décret n°2007-749 du 9 mai 2007 - art. 2 () JORF 10 mai 2007 en vigueur le 1er juin 2007
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. D514 (M)
 
 
 ###### Article D54
@@ -85019,8 +85195,8 @@ Albi et Toulouse-Seysses
 
 Conformément aux dispositions de l'article 715, le juge d'instruction, le président de la chambre d'instruction et le
 président de la cour d'assises, ainsi que le procureur de la République et le procureur général, peuvent donner tous les
-ordres nécessaires [*compétence*] soit pour l'instruction, soit pour le jugement, qui devront être exécutés dans les maisons
-d'arrêt. 
+ordres nécessaires soit pour l'instruction, soit pour le jugement, qui devront être exécutés dans les maisons d'arrêt ou, le
+cas échéant, les établissements pénitentiaires spécialisés pour mineurs. 
 
 Compte rendu doit leur être adressé d'urgence des difficultés auxquelles pourrait donner lieu l'exécution desdits ordres. 
 
@@ -85032,19 +85208,19 @@ Les mêmes prérogatives appartiennent au juge des enfants à l'égard des mineu
 
 	  - Décret n°59-322 1959-02-23
 
-	**Modifié par**:
-
-	  - Décret n°2001-475 du 30 mai 2001 - art. 3 () JORF 3 juin 2001
-
 	**Cité par**:
 
 	  - Décret n°2006-338 du 21 mars 2006 - art. 5 (V)
 	  - CODE DE PROCEDURE PENALE - art. D32-1 (M)
 	  - CODE DE PROCEDURE PENALE - art. D56 (M)
 
+	**Modifié par**:
+
+	  - Décret n°2007-749 du 9 mai 2007 - art. 3 () JORF 10 mai 2007 en vigueur le 1er juin 2007
+
 	**Cite**:
 
-	  - CODE DE PROCEDURE PENALE - art. 715 (M)
+	  - Code de procédure pénale - art. 715 (V)
 
 
 ###### Article D55-1
@@ -85129,6 +85305,8 @@ réquisitions du procureur de la République, à la requête du chef d'établiss
 Le détenu placé à l'isolement par le magistrat saisi du dossier de l'information est soumis au régime de détention prévu par
 les articles D. 283-1-2 à D. 283-1-4.
 
+Le mineur de seize ans prévenu ne peut faire l'objet d'une mesure d'isolement.
+
 **Nota:**
 
 Le Conseil d'Etat par arrêt n° 293785 en date du 31 octobre 2008 a annulé l'article 3 II du décret n° 2006-338 du 21 mars
@@ -85140,19 +85318,23 @@ Le Conseil d'Etat par arrêt n° 293785 en date du 31 octobre 2008 a annulé l'a
 
 	  - Décret n°59-322 1959-02-23
 
-	**Créé par**:
-
-	  - Décret n°2006-338 du 21 mars 2006 - art. 3 () JORF 23 mars 2006 en vigueur le 1er juin 2006
-
 	**Cité par**:
 
 	  - Décret n°2006-338 du 21 mars 2006 - art. 5 (V)
 	  - Code de procédure pénale - art. D56 (V)
 
+	**Modifié par**:
+
+	  - Décret n°2007-749 du 9 mai 2007 - art. 4 () JORF 10 mai 2007 en vigueur le 1er juin 2007
+
+	**Abrogé par**:
+
+	  - Décret n°2010-1635 du 23 décembre 2010 - art. 46
+
 	**Cite**:
 
-	  - CODE DE PROCEDURE PENALE - art. D32-1 (M)
-	  - Code de procédure pénale D32-1, D283-1-2 à D283-1-4
+	  - Code de procédure pénale
+	  - Code de procédure pénale - art. D32-1
 
 
 ###### Article D56-2
@@ -85604,7 +85786,8 @@ professionnelle de leur destinataire ou de leur expéditeur.
 ###### Article D70
 
 Les établissements pour peines, dans lesquels sont reçus les condamnés définitifs, sont les maisons centrales, les centres de
-détention, les centres de semi-liberté et les centres pour peines aménagées.
+détention, les établissements pénitentiaires spécialisés pour mineurs, les centres de semi-liberté et les centres pour peines
+aménagées.
 
 A titre exceptionnel, les maisons d'arrêt peuvent recevoir des condamnés dans les conditions déterminées par l'article D. 73.
 
@@ -85619,10 +85802,6 @@ aménagées", "quartier maison d'arrêt".
 
 	  - Décret n°59-322 1959-02-23
 
-	**Modifié par**:
-
-	  - Décret n°2003-259 du 20 mars 2003 - art. 1 () JORF 22 mars 2003
-
 	**Cité par**:
 
 	  - Loi - art. 37 (V)
@@ -85630,6 +85809,10 @@ aménagées", "quartier maison d'arrêt".
 	  - Arrêté du 29 décembre 2016 - art. 2 (V)
 	  - CODE DE PROCEDURE PENALE - art. A39 (M)
 	  - CODE DE PROCEDURE PENALE - art. D74 (V)
+
+	**Modifié par**:
+
+	  - Décret n°2007-749 du 9 mai 2007 - art. 5 () JORF 10 mai 2007 en vigueur le 1er juin 2007
 
 	**Cite**:
 
@@ -85810,10 +85993,6 @@ l'affectation la plus adéquate.
 
 L'affectation consiste à déterminer, sur la base de ces éléments, dans quel établissement le condamné doit exécuter sa peine.
 
-Les jeunes condamnés âgés de moins de vingt et un ans peuvent être affectés, en fonction des critères définis au premier
-alinéa, dans des établissements ou quartiers d'établissements appartenant à l'une des catégories mentionnées à l'article D.
-70 dont le régime fait l'objet des aménagements prévus aux articles D. 515 et suivants.
-
 Les condamnés sont intéressés à l'élaboration ou à la modification du projet d'exécution de leur peine. Celui-ci est conçu et
 mis en oeuvre par les différents services concourant à l'individualisation de la peine.
 
@@ -85825,7 +86004,7 @@ mis en oeuvre par les différents services concourant à l'individualisation de 
 
 	**Modifié par**:
 
-	  - Décret n°98-1099 du 8 décembre 1998 - art. 2 () JORF 9 décembre 1998
+	  - Décret n°2007-749 du 9 mai 2007 - art. 6 () JORF 10 mai 2007 en vigueur le 1er juin 2007
 
 	**Cite**:
 
@@ -85843,10 +86022,6 @@ mis en oeuvre par les différents services concourant à l'individualisation de 
 	**Cité par**:
 
 	  - Code de procédure pénale - art. D94 (V)
-
-	**Liens**:
-
-	  - TXT_SOURCE: Code de procédure pénale 714 à 728
 
 
 ##### Paragraphe 2 : La procédure d'orientation
@@ -85892,6 +86067,10 @@ temps d'incarcération restant à subir est d'une durée supérieure à trois mo
 relatifs à la situation pénale et pénitentiaire du condamné, les éléments afférents aux conditions de prise en charge
 sanitaire et l'avis du service pénitentiaire d'insertion et de probation compétent auprès de l'établissement, l'avis du juge
 de l'application des peines et celui du juge des enfants s'il y a lieu, ainsi que la proposition du chef d'établissement.
+Pour les mineurs, il comprend en outre l'avis du mineur et des titulaires de l'autorité parentale ou de ses représentants
+légaux et les éléments afférents aux conditions de prise en charge éducative ; il peut également comprendre l'avis de
+l'équipe pluridisciplinaire mentionnée à l'article D. 514 et, le cas échéant, l'avis de tout service ayant à connaître de la
+situation du mineur.
 
 Les condamnés ayant à subir un temps d'incarcération d'une durée inférieure ou égale à un an pour les majeurs, et à trois
 mois pour les mineurs, peuvent faire l'objet d'un dossier d'orientation selon les mêmes modalités lorsque le chef
@@ -85900,8 +86079,9 @@ d'établissement estime que leur situation nécessite une orientation particuli�
 Lorsque le temps d'incarcération restant à subir est égal ou supérieur à deux ans et, pour les mineurs, à six mois, ce
 dossier contient également les pièces visées à l'article D. 77.
 
-Le dossier d'orientation est adressé au directeur régional des services pénitentiaires, qui arrête une décision d'affectation
-lorsque celle-ci relève de sa compétence ou communique le dossier assorti de son avis au ministre de la justice.
+Le dossier d'orientation est adressé au directeur interrégional des services pénitentiaires, qui arrête une décision
+d'affectation lorsque celle-ci relève de sa compétence ou communique le dossier assorti de son avis au ministre de la
+justice.
 
 **Liens relatifs à cet article**
 
@@ -85911,11 +86091,8 @@ lorsque celle-ci relève de sa compétence ou communique le dossier assorti de s
 
 	**Modifié par**:
 
-	  - Décret n°99-276 du 13 avril 1999 - art. 2 () JORF 14 avril 1999
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°99-276 du 13 avril 1999 - art. 37 (V)
+	  - Décret n°2007-749 du 9 mai 2007 - art. 7 () JORF 10 mai 2007 en vigueur le 1er juin 2007
+	  - Décret n°2007-931 du 15 mai 2007 - art. 17 (Ab) JORF 16 mai 2007 en vigueur le 1er juin 2007
 
 	**Cité par**:
 
@@ -85928,6 +86105,7 @@ lorsque celle-ci relève de sa compétence ou communique le dossier assorti de s
 
 	**Cite**:
 
+	  - CODE DE PROCEDURE PENALE - art. D514 (M)
 	  - CODE DE PROCEDURE PENALE - art. D77 (M)
 
 
@@ -86071,24 +86249,30 @@ est supérieure à cinq ans ;
 
 - des condamnés à raison d'actes de terrorisme tels que prévus et réprimés par les articles 421-1 à 421-5 du code pénal ainsi
 que des condamnés ayant fait l'objet d'une inscription au répertoire des détenus particulièrement signalés, prévu par
-l'article D. 276-1.
+l'article D. 276-1. 
 
-Le directeur régional des services pénitentiaires est compétent pour décider de l'affectation, dans les centres de détention
-ou quartiers centre de détention, les centres de semi-liberté ou quartiers de semi-liberté, les centres pour peines aménagées
-ou quartiers pour peines aménagées, les maisons d'arrêt ou quartiers maison d'arrêt, des autres condamnés. Il peut déléguer
-sa compétence aux directeurs des établissements pénitentiaires comprenant un quartier maison d'arrêt et un quartier centre de
+Le directeur interrégional des services pénitentiaires est compétent pour décider de l'affectation, dans les centres de
+détention ou quartiers centre de détention, les centres de semi-liberté ou quartiers de semi-liberté, les centres pour peines
+aménagées ou quartiers pour peines aménagées, les maisons d'arrêt ou quartiers maison d'arrêt, les établissements spécialisés
+pour mineurs et les quartiers des mineurs des établissements pénitentiaires des autres condamnés. Il peut déléguer sa
+compétence aux directeurs des établissements pénitentiaires comprenant un quartier maison d'arrêt et un quartier centre de
 détention, pour l'affectation des condamnés qui y sont incarcérés et auxquels il reste à subir, au moment où leur
 condamnation ou la dernière de leurs condamnations est devenue définitive, une incarcération d'une durée inférieure à deux
-ans.
+ans. 
 
-Le directeur régional des services pénitentiaires peut également déléguer sa compétence aux directeurs des établissements
-pénitentiaires comprenant un quartier maison d'arrêt et un quartier pour peines aménagées, pour l'affectation des condamnés
-qui y sont incarcérés et auxquels il reste à subir, au moment où leur condamnation ou la dernière de leurs condamnations est
-devenue définitive, une incarcération dont la durée totale n'excède pas un an.
+Le directeur interrégional des services pénitentiaires peut également déléguer sa compétence aux directeurs des
+établissements pénitentiaires comprenant un quartier maison d'arrêt et un quartier pour peines aménagées, pour l'affectation
+des condamnés qui y sont incarcérés et auxquels il reste à subir, au moment où leur condamnation ou la dernière de leurs
+condamnations est devenue définitive, une incarcération dont la durée totale n'excède pas un an. 
+
+Le directeur interrégional des services pénitentiaires peut déléguer sa compétence au directeur de l'établissement comportant
+un quartier des mineurs ou au directeur de l'établissement pénitentiaire spécialisé pour mineurs pour décider du maintien
+dans leur affectation des condamnés atteignant l'âge de la majorité en détention dans les conditions prévues à l'article R.
+57-9-13. 
 
 Les condamnés affectés dans des maisons d'arrêt sont maintenus dans l'établissement où ils sont écroués ou sont transférés
-dans une autre maison d'arrêt de la région. Dans ce second cas, l'affectation est décidée par le directeur régional des
-services pénitentiaires en tenant compte notamment de la capacité offerte par chaque établissement.
+dans une autre maison d'arrêt de la région. Dans ce second cas, l'affectation est décidée par le directeur interrégional des
+services pénitentiaires en tenant compte notamment de la capacité offerte par chaque établissement. 
 
 Dans tous les cas, la décision est prise, sauf urgence, après consultation du juge de l'application des peines.
 
@@ -86100,12 +86284,14 @@ Dans tous les cas, la décision est prise, sauf urgence, après consultation du 
 
 	**Modifié par**:
 
-	  - Décret n°2003-259 du 20 mars 2003 - art. 6 () JORF 22 mars 2003
+	  - Décret n°2007-749 du 9 mai 2007 - art. 8 () JORF 10 mai 2007 en vigueur le 1er juin 2007
+	  - Décret n°2007-931 du 15 mai 2007 - art. 17 (Ab) JORF 16 mai 2007 en vigueur le 1er juin 2007
 
 	**Cite**:
 
-	  - Code pénal 421-1 à 421-5
-	  - CODE DE PROCEDURE PENALE - art. D276-1 (V)
+	  - Code pénal - art. 421-1 (VD)
+	  - Code de procédure pénale - art. D276-1 (V)
+	  - Code de procédure pénale - art. R57-9-13 (V)
 
 	**Cité par**:
 
@@ -86128,8 +86314,8 @@ appartenant à l'une de ces catégories d'établissements pénitentiaires de sa 
 justice est compétent en cas de désaccord entre les directeurs régionaux.
 
 4° Soit à un dessaisissement au profit du ministre de la justice en vue d'une affectation dans une maison centrale ou un
-quartier maison centrale, dès lors que le directeur régional des services pénitentiaires estime que le condamné doit être
-affecté dans cette catégorie d'établissement. Dans ce cas, la décision incombe au ministre de la justice qui décide de
+quartier maison centrale, dès lors que le directeur interrégional des services pénitentiaires estime que le condamné doit
+être affecté dans cette catégorie d'établissement. Dans ce cas, la décision incombe au ministre de la justice qui décide de
 l'affectation du condamné dans l'établissement pénitentiaire le plus approprié.
 
 **Liens relatifs à cet article**
@@ -86140,7 +86326,7 @@ l'affectation du condamné dans l'établissement pénitentiaire le plus appropri
 
 	**Modifié par**:
 
-	  - Décret n°2003-259 du 20 mars 2003 - art. 7 () JORF 22 mars 2003
+	  - Décret n°2007-931 du 15 mai 2007 - art. 17 (Ab) JORF 16 mai 2007 en vigueur le 1er juin 2007
 
 	**Cité par**:
 
@@ -86212,20 +86398,20 @@ est prise par le ministre de la justice.
 ###### Article D82
 
 L'affectation peut être modifiée soit à la demande du condamné, soit à la demande du chef de l'établissement dans lequel il
-exécute sa peine.
+exécute sa peine. 
 
-La décision de changement d'affectation appartient au ministre de la justice, dès lors qu'elle concerne :
+La décision de changement d'affectation appartient au ministre de la justice, dès lors qu'elle concerne : 
 
 1° Un condamné dont il a décidé l'affectation dans les conditions du deuxième alinéa de l'article D. 80 et dont la durée de
-l'incarcération restant à subir est supérieure à trois ans, au jour où est formée la demande visée au premier alinéa ;
+l'incarcération restant à subir est supérieure à trois ans, au jour où est formée la demande visée au premier alinéa ; 
 
-2° Un condamné à raison d'actes de terrorisme tels que prévus et réprimés par les articles 421-1 à 421-5 du code pénal ;
+2° Un condamné à raison d'actes de terrorisme tels que prévus et réprimés par les articles 421-1 à 421-5 du code pénal ; 
 
 3° Un condamné ayant fait l'objet d'une inscription au répertoire des détenus particulièrement signalés, prévu par l'article
-D. 276-1.
+D. 276-1. 
 
-Le directeur régional des services pénitentiaires est compétent pour décider du changement d'affectation des autres
-condamnés.
+Le directeur interégional des services pénitentiaires est compétent pour décider du changement d'affectation des autres
+condamnés. 
 
 L'affectation ne peut être modifiée que s'il survient un fait ou un élément d'appréciation nouveau.
 
@@ -86237,7 +86423,7 @@ L'affectation ne peut être modifiée que s'il survient un fait ou un élément 
 
 	**Modifié par**:
 
-	  - Décret n°2003-259 du 20 mars 2003 - art. 8 () JORF 22 mars 2003
+	  - Décret n°2007-931 du 15 mai 2007 - art. 17 (Ab) JORF 16 mai 2007 en vigueur le 1er juin 2007
 
 	**Cité par**:
 
@@ -86245,9 +86431,9 @@ L'affectation ne peut être modifiée que s'il survient un fait ou un élément 
 
 	**Cite**:
 
-	  - Code pénal 421-1 à 421-5
-	  - CODE DE PROCEDURE PENALE - art. D276-1 (V)
-	  - CODE DE PROCEDURE PENALE - art. D80 (M)
+	  - Code pénal - art. 421-1 (VD)
+	  - Code de procédure pénale - art. D276-1 (V)
+	  - Code de procédure pénale - art. D80 (V)
 
 
 ###### Article D82-1
@@ -86284,10 +86470,12 @@ Lorsque la décision incombe au directeur régional, elle donne lieu :
 peines aménagées ou d'un centre de semi-liberté ou d'une maison d'arrêt ou d'un quartier d'un centre pénitentiaire
 appartenant à l'une de ces catégories d'établissements pénitentiaires, de sa circonscription ;
 
-2° Soit au maintien de l'intéressé à l'établissement où il se trouve ;"    3° Soit à un dessaisissement au profit du ministre
-de la justice en vue d'une affectation dans une maison centrale ou un quartier maison centrale, dès lors que le directeur
-régional des services pénitentiaires estime que le condamné doit être affecté dans cette catégorie d'établissement. Dans ce
-cas, le ministre de la justice décide de l'affectation du condamné dans l'établissement pénitentiaire le plus approprié.
+2° Soit au maintien de l'intéressé à l'établissement où il se trouve ;
+
+3° Soit à un dessaisissement au profit du ministre de la justice en vue d'une affectation dans une maison centrale ou un
+quartier maison centrale, dès lors que le directeur interrégional des services pénitentiaires estime que le condamné doit
+être affecté dans cette catégorie d'établissement. Dans ce cas, le ministre de la justice décide de l'affectation du condamné
+dans l'établissement pénitentiaire le plus approprié.
 
 **Liens relatifs à cet article**
 
@@ -86297,7 +86485,7 @@ cas, le ministre de la justice décide de l'affectation du condamné dans l'éta
 
 	**Modifié par**:
 
-	  - Décret n°2003-259 du 20 mars 2003 - art. 9 () JORF 22 mars 2003
+	  - Décret n°2007-931 du 15 mai 2007 - art. 17 (Ab) JORF 16 mai 2007 en vigueur le 1er juin 2007
 
 
 ###### Article D82-3
@@ -86601,7 +86789,8 @@ au chef de l'établissement,  sous réserve des dispositions de l'article D83.
 
 Le chef d'établissement informe chaque mois le président du tribunal de grande instance dans le ressort duquel se trouve la
 maison d'arrêt, le juge de l'application des peines, le procureur de la République près ledit tribunal, ainsi que le
-directeur régional des services pénitentiaires, de l'état des effectifs au regard des capacités d'accueil de l'établissement.
+directeur interrégional des services pénitentiaires, de l'état des effectifs au regard des capacités d'accueil de
+l'établissement.
 
 **Liens relatifs à cet article**
 
@@ -86611,7 +86800,7 @@ directeur régional des services pénitentiaires, de l'état des effectifs au re
 
 	**Modifié par**:
 
-	  - Décret n°85-836 1985-08-06 art. 1 JORF 8 août 1985
+	  - Décret n°2007-931 du 15 mai 2007 - art. 17 (Ab) JORF 16 mai 2007 en vigueur le 1er juin 2007
 
 
 ###### Article D93
@@ -87964,7 +88153,7 @@ un effectif égal ou inférieur à cinq détenus.
 Les concessions envisagées pour une durée supérieure à trois mois ou pour un effectif supérieur à cinq détenus font l'objet
 d'un contrat qui en fixe les conditions particulières, notamment en ce qui concerne l'effectif et la rémunération des détenus
 et la durée de la concession. Ce contrat est signé par le représentant de l'entreprise concessionnaire et le directeur
-régional des services pénitentiaires.
+interrégional des services pénitentiaires.
 
 Il ne peut recevoir effet à l'égard du placement de chaque détenu qu'après autorisation du juge de l'application des peines.
 
@@ -87976,7 +88165,7 @@ Il ne peut recevoir effet à l'égard du placement de chaque détenu qu'après a
 
 	**Modifié par**:
 
-	  - Décret n°2000-1213 du 13 décembre 2000 - art. 8 (V) JORF 14 décembre 2000 en vigueur le 1er janvier 2001
+	  - Décret n°2007-931 du 15 mai 2007 - art. 17 (Ab) JORF 16 mai 2007 en vigueur le 1er juin 2007
 
 
 ###### Article D134
@@ -88430,6 +88619,31 @@ motivée, accorder ces permissions de sortir après exécution de la moitié ou 
 	  - Code de procédure pénale - art. D143
 
 
+###### Article D146-3
+
+Les condamnés mineurs peuvent bénéficier, quel que soit leur établissement d'affectation, des permissions de sortir prévues
+aux articles D. 143, D. 145 et D. 146 lorsqu'ils ont exécuté le tiers de leur peine. Lorsqu'ils sont en état de récidive
+légale, la condition d'exécution du tiers de la peine est remplacée par la condition d'exécution de la moitié de la peine. 
+
+Ces permissions sont accordées sans condition de délai aux condamnés mineurs exécutant une ou plusieurs peines
+d'emprisonnement n'excédant pas au total une durée d'un an.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-322 1959-02-23
+
+	**Créé par**:
+
+	  - Décret n°2007-749 du 9 mai 2007 - art. 9 () JORF 10 mai 2007 en vigueur le 1er juin 2007
+
+	**Cite**:
+
+	  - Code de procédure pénale - art. D143 (V)
+	  - Code de procédure pénale - art. D145 (V)
+
+
 ###### Article D147
 
 Le détenu bénéficiaire d'une permission de sortir doit supporter les frais occasionnés par son séjour hors de l'établissement
@@ -88748,7 +88962,7 @@ dispositions de la présente section.
 Pour l'application de ces dispositions, le directeur du service pénitentiaire d'insertion et de probation peut déléguer sa
 signature et ses pouvoirs à un chef de service d'insertion et de probation ou à un conseiller technique de service social.
 
-En leur absence ou en cas d'empêchement, le directeur régional des services pénitentiaires désigne un fonctionnaire des
+En leur absence ou en cas d'empêchement, le directeur interégional des services pénitentiaires désigne un fonctionnaire des
 services déconcentrés de l'administration pénitentiaire pour exercer les missions prévues par la présente section.
 
 Lorsqu'il est fait application des dispositions du présent article, il est mentionné dans les requêtes prévues par l'article
@@ -88761,9 +88975,9 @@ sont précisées dans la requête.
 
 	  - Décret n°59-322 1959-02-23
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2004-1364 du 13 décembre 2004 - art. 13 () JORF 15 décembre 2004 en vigueur le 1er janvier 2005
+	  - Décret n°2007-931 du 15 mai 2007 - art. 17 (Ab) JORF 16 mai 2007 en vigueur le 1er juin 2007
 
 	**Cite**:
 
@@ -89763,7 +89977,7 @@ tenu compte de sa situation familiale et de l'existence de parties civiles à in
 Les détenus peuvent être autorisés à travailler pour leur propre compte. Ils peuvent également être autorisés à travailler
 pour le compte d'associations constituées en vue de préparer leur réinsertion sociale et professionnelle.
 
-Ces associations sont agréées par décision du directeur régional des services pénitentiaires territorialement compétent.
+Ces associations sont agréées par décision du directeur interrégional des services pénitentiaires territorialement compétent.
 
 **Liens relatifs à cet article**
 
@@ -89773,20 +89987,28 @@ Ces associations sont agréées par décision du directeur régional des service
 
 	**Modifié par**:
 
-	  - Décret n°98-1099 du 8 décembre 1998 - art. 14 () JORF 9 décembre 1998
+	  - Décret n°2007-931 du 15 mai 2007 - art. 17 (Ab) JORF 16 mai 2007 en vigueur le 1er juin 2007
+
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2010-1635 du 23 décembre 2010 - art. 36
 
 	**Cité par**:
 
 	  - Code de procédure pénale - art. D103 (T)
 	  - Code de procédure pénale - art. D107 (T)
 
+	**Nouveaux textes**:
+
+	  - Code de procédure pénale - art. D432-3 (M)
+
 
 ##### Paragraphe 2 : Formes et modalités du travail
 
 ###### Article D102
 
-Aucun genre de travail ne peut être adopté à titre définitif s'il n'a été préalablement autorisé par le directeur régional
-des services pénitentiaires.
+Aucun genre de travail ne peut être adopté à titre définitif s'il n'a été préalablement autorisé par le directeur
+interrégional des services pénitentiaires.
 
 L'organisation, les méthodes et les rémunérations du travail doivent se rapprocher autant que possible de celles des
 activités professionnelles extérieures afin notamment de préparer les détenus aux conditions normales du travail libre.
@@ -89799,7 +90021,15 @@ activités professionnelles extérieures afin notamment de préparer les détenu
 
 	**Modifié par**:
 
-	  - Décret n°72-852 1972-09-12 art. 1 JORF 20 septembre 1972 rectificatif JORF 14 octobre 1972
+	  - Décret n°2007-931 du 15 mai 2007 - art. 17 (Ab) JORF 16 mai 2007 en vigueur le 1er juin 2007
+
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2010-1635 du 23 décembre 2010 - art. 36
+
+	**Nouveaux textes**:
+
+	  - Code de procédure pénale - art. D433 (V)
 
 
 ###### Article D103
@@ -90063,7 +90293,7 @@ d'un calendrier de réalisation. Lorsque la situation du travail présente un ri
 sécurité des détenus au travail, ce délai est ramené à quinze jours.
 
 En cas de désaccord sur la nature ou le calendrier de ces mesures, l'inspecteur du travail en réfère au directeur régional du
-travail, de l'emploi et de la formation professionnelle qui saisit le directeur régional des services pénitentiaires
+travail, de l'emploi et de la formation professionnelle qui saisit le directeur interrégional des services pénitentiaires
 compétent. Ce dernier fait connaître sa réponse dans un délai d'un mois.
 
 **Liens relatifs à cet article**
@@ -90072,13 +90302,21 @@ compétent. Ce dernier fait connaître sa réponse dans un délai d'un mois.
 
 	  - Décret n°59-322 1959-02-23
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°98-1099 du 8 décembre 1998 - art. 19 () JORF 9 décembre 1998
+	  - Décret n°2007-931 du 15 mai 2007 - art. 17 (Ab) JORF 16 mai 2007 en vigueur le 1er juin 2007
+
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2010-1635 du 23 décembre 2010 - art. 36
 
 	**Cite**:
 
-	  - CODE DE PROCEDURE PENALE - art. 723 (M)
+	  - Code de procédure pénale - art. 723
+
+	**Nouveaux textes**:
+
+	  - Code de procédure pénale - art. D433-8 (V)
 
 
 ###### Article D110
@@ -90946,18 +91184,20 @@ rapport sur l'application des peines.
 ###### Article D177
 
 Conformément aux dispositions de l'article 222, le président de la chambre d'instruction visite, chaque fois qu'il l'estime
-nécessaire et au moins une fois par trimestre, les maisons d'arrêt du ressort de la cour d'appel, et y vérifie la situation
-des personnes mises en examen en état de détention provisoire.
+nécessaire et au moins une fois par trimestre, les maisons d'arrêt et les établissements pénitentiaires spécialisés pour
+mineurs du ressort de la cour d'appel, et y vérifie la situation des personnes mises en examen en état de détention
+provisoire.
 
 Il transmet ses observations éventuelles au président de la chambre d'instruction compétent à l'égard des prévenus qui ne
 relèvent pas d'une juridiction du ressort de sa cour d'appel.
 
 Le juge d'instruction et, en ce qui concerne les mineurs relevant de sa juridiction, le juge des enfants, peuvent également
-visiter la maison d'arrêt et y voir les prévenus aussi souvent qu'ils l'estiment utile.
+visiter la maison d'arrêt et l'établissement pénitentiaire spécialisé pour mineurs et y voir les prévenus aussi souvent
+qu'ils l'estiment utile.
 
-En outre, le juge des enfants procède à une visite de la maison d'arrêt au moins une fois par an pour y vérifier les
-conditions de la détention des mineurs. A cette occasion, il fait part de ses observations éventuelles aux autorités
-compétentes pour y donner suite.
+En outre, le juge des enfants procède à une visite de la maison d'arrêt et de l'établissement pénitentiaire spécialisé pour
+mineurs au moins une fois par an pour y vérifier les conditions de la détention des mineurs. A cette occasion, il fait part
+de ses observations éventuelles aux autorités compétentes pour y donner suite.
 
 **Liens relatifs à cet article**
 
@@ -90967,7 +91207,7 @@ compétentes pour y donner suite.
 
 	**Modifié par**:
 
-	  - Décret n°2001-475 du 30 mai 2001 - art. 3 () JORF 3 juin 2001
+	  - Décret n°2007-749 du 9 mai 2007 - art. 10 () JORF 10 mai 2007 en vigueur le 1er juin 2007
 
 	**Cite**:
 
@@ -90976,10 +91216,6 @@ compétentes pour y donner suite.
 	**Cité par**:
 
 	  - Code de procédure pénale - art. D261 (Ab)
-
-	**Liens**:
-
-	  - TXT_SOURCE: Code de procédure pénale 714 à 728
 
 
 ###### Article D178
@@ -91047,8 +91283,8 @@ représentant ;
 
 3° Un juge d'instruction désigné par le président du tribunal de grande instance ;
 
-4° Le juge des enfants, si la commission est instituée auprès d'une maison d'arrêt située au siège d'un tribunal pour
-enfant ;
+4° Le juge des enfants, si la commission est instituée auprès d'un établissement pénitentiaire comportant un quartier des
+mineurs ou d'un établissement pénitentiaire spécialisé pour mineurs situé dans le ressort d'un tribunal pour enfants ;
 
 5° Le bâtonnier de l'ordre des avocats ou son représentant ;
 
@@ -91069,8 +91305,7 @@ enfant ;
 
 13° Le directeur départemental des affaires sanitaires et sociales ou son représentant ;
 
-14° Le directeur départemental de la protection judiciaire de la jeunesse ou son représentant, si l'établissement
-pénitentiaire est habilité à recevoir des mineurs ;
+14° (supprimé)
 
 15° Le directeur départemental de la jeunesse et des sports ou son représentant ;
 
@@ -91091,7 +91326,8 @@ Le chef de l'établissement et les membres du personnel, les visiteurs agréés,
 aumôniers attachés à l'établissement, et toutes autres personnes y exerçant habituellement une activité ne peuvent faire
 partie de la commission de surveillance.
 
-Le directeur régional des services pénitentiaires, ou son représentant, assiste aux travaux de la commission de surveillance.
+Le directeur interrégional des services pénitentiaires et le directeur régional de la protection judiciaire de la jeunesse ou
+leur représentant assistent aux travaux de la commission de surveillance.
 
 **Liens relatifs à cet article**
 
@@ -91101,8 +91337,8 @@ Le directeur régional des services pénitentiaires, ou son représentant, assis
 
 	**Modifié par**:
 
-	  - Décret n°98-1099 du 8 décembre 1998 - art. 152 () JORF 9 décembre 1998
-	  - Décret n°2004-1164 du 2 novembre 2004 - art. 1 () JORF 4 novembre 2004
+	  - Décret n°2007-749 du 9 mai 2007 - art. 11 () JORF 10 mai 2007 en vigueur le 1er juin 2007
+	  - Décret n°2007-931 du 15 mai 2007 - art. 17 (Ab) JORF 16 mai 2007 en vigueur le 1er juin 2007
 
 
 ###### Article D181
@@ -91292,10 +91528,10 @@ et D403 et suivants.
 
 Le ministre de la justice peut délivrer les autorisations à portée générale qui permettent, à titre permanent, ou pour un
 nombre limité de visites, la communication avec les détenus non nominativement désignés, sous réserve des droits conférés à
-l'autorité judiciaire.
+l'autorité judiciaire. 
 
-Le directeur régional des services pénitentiaires délivre ces autorisations lorsque la demande est relative à des personnes
-détenues dans des établissements situés dans le ressort de sa compétence territoriale.
+Le directeur interrégional des services pénitentiaires délivre ces autorisations lorsque la demande est relative à des
+personnes détenues dans des établissements situés dans le ressort de sa compétence territoriale. 
 
 En dehors des cas visés à l'article D. 473 relatif aux visiteurs de prisons, ces autorisations sont exceptionnelles.
 
@@ -91305,14 +91541,9 @@ En dehors des cas visés à l'article D. 473 relatif aux visiteurs de prisons, c
 
 	  - Décret n°59-322 1959-02-23
 
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°59-322 1959-02-23 art. 6
-	  - SPEC_APPLI: Décret n°97-1187 du 19 décembre 1997 - art. 1 (V)
-
 	**Modifié par**:
 
-	  - Décret n°98-1099 du 8 décembre 1998 - art. 154 () JORF 9 décembre 1998
+	  - Décret n°2007-931 du 15 mai 2007 - art. 17 (Ab) JORF 16 mai 2007 en vigueur le 1er juin 2007
 
 	**Cité par**:
 
@@ -91320,7 +91551,7 @@ En dehors des cas visés à l'article D. 473 relatif aux visiteurs de prisons, c
 
 	**Cite**:
 
-	  - CODE DE PROCEDURE PENALE - art. D473 (M)
+	  - Code de procédure pénale - art. D473 (V)
 
 
 ###### Article D187-1
@@ -91507,7 +91738,7 @@ Tarn, Tarn-et-Garonne.
 
 ###### Article D193
 
-Une mission des services pénitentiaires de l'outre-mer, confiée à un directeur régional des services pénitentiaires, a
+Une mission des services pénitentiaires de l'outre-mer, confiée à un directeur interrégional des services pénitentiaires, a
 compétence sur les établissements et services pénitentiaires des départements d'outre-mer, du territoire de la Polynésie
 française et de la Nouvelle-Calédonie ainsi que de Saint-Pierre-et-Miquelon et de Mayotte.
 
@@ -91515,15 +91746,19 @@ française et de la Nouvelle-Calédonie ainsi que de Saint-Pierre-et-Miquelon et
 
 	**Codifié par**:
 
-	  - Décret n°59-322 1959-02-23
+	  - Décret n°59-322 du 23 février 1959
 
 	**Modifié par**:
 
-	  - Décret n°2005-163 du 23 février 2005 - art. 6 () JORF 24 février 2005
+	  - Décret n°2007-931 du 15 mai 2007 - art. 17 (Ab) JORF 16 mai 2007 en vigueur le 1er juin 2007
 
 	**Cité par**:
 
 	  - Décret n°2016-1877 du 27 décembre 2016 (V)
+
+	**Abrogé par**:
+
+	  - Décret n°2016-1877 du 27 décembre 2016 - art. 5
 
 
 ##### Section 2 : Du personnel de l'administration pénitentiaire
@@ -91967,8 +92202,8 @@ trouve en disponibilité, en détachement, en congé annuel ou exceptionnel. Il 
 médecin spécialiste, après en avoir obtenu l'autorisation de l'administration sur avis conforme du médecin lié par convention
 avec l'administration pénitentiaire auprès de l'établissement ou du service.
 
-Selon l'importance de l'établissement pénitentiaire, un ou plusieurs médecins sont désignés par le directeur régional des
-services pénitentiaires pour remplir ces missions.
+Selon l'importance de l'établissement pénitentiaire, un ou plusieurs médecins sont désignés par le directeur interrégional
+des services pénitentiaires pour remplir ces missions.
 
 Les soins au personnel de l'établissement pénitentiaire ne relèvent pas des missions de l'unité de consultations et des soins
 ambulatoires, en dehors des situations d'urgence.
@@ -91979,14 +92214,9 @@ ambulatoires, en dehors des situations d'urgence.
 
 	  - Décret n°59-322 1959-02-23
 
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°59-322 1959-02-23 art. 6
-	  - TXT_SOURCE: Code de procédure pénale 714 à 728
-
 	**Modifié par**:
 
-	  - Décret n°98-1099 du 8 décembre 1998 - art. 109 () JORF 9 décembre 1998
+	  - Décret n°2007-931 du 15 mai 2007 - art. 17 (Ab) JORF 16 mai 2007 en vigueur le 1er juin 2007
 
 	**Cité par**:
 
@@ -92313,7 +92543,7 @@ Un professeur de santé publique ;
 
 Un professeur de médecine légale ;
 
-Un directeur régional des services pénitentiaires.
+Un directeur interrégional des services pénitentiaires.
 
 III - Peuvent en outre être désignées, dans les mêmes conditions, pour prendre part aux séances du conseil supérieur siégeant
 en assemblée générale ou en commission les personnes que leurs connaissances ou leurs travaux antérieurs mettent en mesure
@@ -92328,9 +92558,13 @@ désignés dans les conditions visées à l'article D. 238 et du secrétaire.
 
 	  - Décret n°59-322 1959-02-23
 
+	**Abrogé par**:
+
+	  - Décret n°2006-672 du 8 juin 2006 - art. 17 (V), art. 18 (V)
+
 	**Modifié par**:
 
-	  - Décret n°2005-436 du 9 mai 2005 - art. 19 (V) JORF 10 mai 2005
+	  - Décret n°2007-931 du 15 mai 2007 - art. 17 (Ab) JORF 16 mai 2007 en vigueur le 1er juin 2007
 
 	**Cite**:
 
@@ -92855,39 +93089,51 @@ ce dernier. A la suite de ce compte rendu d'incident, un rapport est établi par
 personnel de surveillance ou un premier surveillant major et adressé au chef d'établissement. Ce rapport comporte tout
 élément d'information utile sur les circonstances des faits reprochés au détenu et la personnalité de celui-ci.
 
-Le chef d'établissement apprécie, au vu du rapport et après s'être fait communiquer, le cas échéant, tout élément
+Lorsque le détenu est mineur, le service du secteur public de la protection judiciaire de la jeunesse, saisi par le chef
+d'établissement, établit un rapport sur la situation personnelle, sociale et familiale de l'intéressé.
+
+Le chef d'établissement apprécie, au vu des rapports et après s'être fait communiquer, le cas échéant, tout élément
 d'information complémentaire, l'opportunité de poursuivre la procédure.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°59-322 1959-02-23
+	  - Décret n°59-322 du 23 février 1959
 
 	**Modifié par**:
 
-	  - Décret n°2007-699 du 3 mai 2007 - art. 13 () JORF 5 mai 2007
+	  - Décret n°2007-814 du 11 mai 2007 - art. 2 () JORF 12 mai 2007 en vigueur le 1er juin 2007
+
+	**Abrogé par**:
+
+	  - Décret n°2010-1635 du 23 décembre 2010 - art. 18
 
 	**Cite**:
 
-	  - CODE DE PROCEDURE PENALE - art. D280. (M)
+	  - Code de procédure pénale - art. D280
 
 
 ###### Article D250-2
 
 En cas d'engagement des poursuites disciplinaires, le détenu est convoqué par écrit devant la commission de discipline. La
 convocation doit comporter l'exposé des faits qui lui sont reprochés et indiquer le délai dont il dispose pour préparer sa
-défense. Ce délai ne peut être inférieur à trois heures.
+défense. Ce délai ne peut être inférieur à trois heures. Si le détenu est mineur, la copie de cette convocation est adressée
+aux titulaires de l'autorité parentale ou aux représentants légaux du mineur.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°59-322 1959-02-23
+	  - Décret n°59-322 du 23 février 1959
 
 	**Modifié par**:
 
-	  - Décret n°98-1099 du 8 décembre 1998 - art. 187 () JORF 9 décembre 1998
+	  - Décret n°2007-814 du 11 mai 2007 - art. 3 () JORF 12 mai 2007 en vigueur le 1er juin 2007
+
+	**Abrogé par**:
+
+	  - Décret n°2010-1635 du 23 décembre 2010 - art. 18
 
 
 ###### Article D250-3
@@ -92897,10 +93143,11 @@ attendre la réunion de la commission de discipline, décider le placement du d�
 faits constituent une faute du premier ou du deuxième degré et si la mesure est l'unique moyen de mettre fin à la faute ou de
 préserver l'ordre à l'intérieur de l'établissement.
 
-Le placement préventif en cellule disciplinaire n'est pas applicable aux mineurs de seize ans. Il s'exécute dans les
-conditions prévues aux articles D. 251-3 et D. 251-4. Sa durée est limitée au strict nécessaire et ne peut excéder deux jours
-à compter de la date à laquelle les faits ont été portés à la connaissance du chef d'établissement. Le calcul de ce délai
-s'effectue conformément aux dispositions de l'article 801 du présent code.
+Le placement préventif en cellule disciplinaire n'est pas applicable aux mineurs de seize ans. Pour les mineurs de seize à
+dix-huit ans, le placement préventif en cellule disciplinaire n'est possible que pour les fautes du premier degré visées à
+l'article D. 251-1-2. Il s'exécute dans les conditions prévues aux articles D. 251-3 et D. 251-4. Sa durée est limitée au
+strict nécessaire et ne peut excéder deux jours à compter de la date à laquelle les faits ont été portés à la connaissance du
+chef d'établissement. Le calcul de ce délai s'effectue conformément aux dispositions de l'article 801 du présent code.
 
 La durée du placement s'impute sur celle de la sanction à subir lorsqu'est prononcée à l'encontre du détenu l'une des
 sanctions de cellule prévues aux 4° et 5° de l'article D. 251.
@@ -92913,18 +93160,23 @@ sanctions de cellule prévues aux 4° et 5° de l'article D. 251.
 
 	**Modifié par**:
 
-	  - Décret n°98-1099 du 8 décembre 1998 - art. 187 () JORF 9 décembre 1998
+	  - Décret n°2007-814 du 11 mai 2007 - art. 4 () JORF 12 mai 2007 en vigueur le 1er juin 2007
 
-	**Cite**:
+	**Abrogé par**:
 
-	  - CODE DE PROCEDURE PENALE - art. 801 (M)
-	  - CODE DE PROCEDURE PENALE - art. D251-3 (M)
-	  - CODE DE PROCEDURE PENALE - art. D251-4 (M)
-	  - CODE DE PROCEDURE PENALE - art. D251. (M)
+	  - Décret n°2010-1635 du 23 décembre 2010 - art. 18
 
 	**Cité par**:
 
 	  - CODE DE PROCEDURE PENALE - art. D250 (V)
+
+	**Cite**:
+
+	  - Code de procédure pénale - art. 801
+	  - Code de procédure pénale - art. D251
+	  - Code de procédure pénale - art. D251-1-2
+	  - Code de procédure pénale - art. D251-3
+	  - Code de procédure pénale - art. D251-4
 
 
 ###### Article D250-4
@@ -92932,6 +93184,10 @@ sanctions de cellule prévues aux 4° et 5° de l'article D. 251.
 Lors de sa comparution devant la commission de discipline, le détenu présente, en personne, sous réserve des dispositions du
 deuxième alinéa ci-dessous et des dispositions prises en application de l'article 24 de la loi n° 2000-321 du 12 avril 2000
 relative aux droits des citoyens dans leurs relations avec les administrations, ses explications écrites ou orales.
+
+Si le détenu est mineur, un membre du service du secteur public de la protection judiciaire de la jeunesse, avisé par le chef
+d'établissement, peut assister à la commission de discipline et présenter par oral ses observations sur la situation
+personnelle, sociale et familiale du mineur.
 
 Si le détenu ne comprend pas la langue française, n'est pas en mesure de s'exprimer dans cette langue, ou s'il est
 physiquement incapable de s'exprimer, ses explications sont présentées, dans la mesure du possible, par l'intermédiaire d'un
@@ -92944,16 +93200,20 @@ doit comporter, outre l'indication de ses motifs, le rappel des dispositions de 
 
 	**Codifié par**:
 
-	  - Décret n°59-322 1959-02-23
+	  - Décret n°59-322 du 23 février 1959
 
 	**Cite**:
 
-	  - Loi n°2000-321 du 12 avril 2000 - art. 24 (V)
-	  - CODE DE PROCEDURE PENALE - art. D250-5 (M)
+	  - Loi n°2000-321 du 12 avril 2000 - art. 24
+	  - Code de procédure pénale - art. D250-5
 
 	**Modifié par**:
 
-	  - Décret n°2003-259 du 20 mars 2003 - art. 14 () JORF 22 mars 2003
+	  - Décret n°2007-814 du 11 mai 2007 - art. 5 () JORF 12 mai 2007 en vigueur le 1er juin 2007
+
+	**Abrogé par**:
+
+	  - Décret n°2010-1635 du 23 décembre 2010 - art. 18
 
 	**Cité par**:
 
@@ -92963,19 +93223,23 @@ doit comporter, outre l'indication de ses motifs, le rappel des dispositions de 
 ###### Article D250-5
 
 Le détenu qui entend contester la sanction disciplinaire dont il est l'objet doit, dans le délai de quinze jours à compter du
-jour de la notification de la décision, la déférer au directeur régional des services pénitentiaires préalablement à tout
-autre recours. Le directeur régional dispose d'un délai d'un mois à compter de la réception du recours pour répondre par
-décision motivée. L'absence de réponse dans ce delai vaut décision de rejet.
+jour de la notification de la décision, la déférer au directeur interrégional des services pénitentiaires préalablement à
+tout autre recours. Le directeur interrégional dispose d'un délai d'un mois à compter de la réception du recours pour
+répondre par décision motivée. L'absence de réponse dans ce delai vaut décision de rejet.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°59-322 1959-02-23
+	  - Décret n°59-322 du 23 février 1959
 
 	**Modifié par**:
 
-	  - Décret n°98-1099 du 8 décembre 1998 - art. 187 () JORF 9 décembre 1998
+	  - Décret n°2007-931 du 15 mai 2007 - art. 17 (Ab) JORF 16 mai 2007 en vigueur le 1er juin 2007
+
+	**Abrogé par**:
+
+	  - Décret n°2010-1635 du 23 décembre 2010 - art. 18
 
 	**Cité par**:
 
@@ -92985,12 +93249,14 @@ décision motivée. L'absence de réponse dans ce delai vaut décision de rejet.
 ###### Article D250-6
 
 Dans le délai de cinq jours à compter de la décision prononçant une sanction disciplinaire, le chef d'établissement avise de
-la décision, d'une part, le directeur régional des services pénitentiaires et, d'autre part, le juge de l'application des
-peines sous le contrôle duquel le détenu est placé ou, le cas échéant, le magistrat saisi du dossier de l'information.
+la décision, d'une part, le directeur interrégional des services pénitentiaires et, d'autre part, le juge de l'application
+des peines ou le juge des enfants sous le contrôle duquel le détenu est placé ou, le cas échéant, le magistrat saisi du
+dossier de l'information.
 
 Le chef de l'établissement fait en outre rapport à la commission de l'application des peines de toute sanction de cellule
-prévue aux 4° et 5° de l'article D. 251 lorsqu'elle a été prononcé à l'encontre d'un mineur de plus de seize ans ou, si sa
-durée excède quinze jours, à l'encontre d'un majeur.
+prévue au 6° de l'article D. 251-1-1 et à l'article D. 251-1-2 lorsqu'elle a été prononcée à l'encontre d'un mineur de plus
+de seize ans et aux 4° et 5° de l'article D. 251, si sa durée excède quinze jours, lorsqu'elle a été prononcée à l'encontre
+d'un majeur.
 
 Les sanctions disciplinaires prononcées sont inscrites sur un registre tenu sous l'autorité du chef d'établissement. Ce
 registre est présenté aux autorités administratives et judiciaires lors de leurs visites de contrôle ou d'inspection.
@@ -92999,15 +93265,22 @@ registre est présenté aux autorités administratives et judiciaires lors de le
 
 	**Codifié par**:
 
-	  - Décret n°59-322 1959-02-23
+	  - Décret n°59-322 du 23 février 1959
 
 	**Modifié par**:
 
-	  - Décret n°98-1099 du 8 décembre 1998 - art. 187 () JORF 9 décembre 1998
+	  - Décret n°2007-814 du 11 mai 2007 - art. 6 () JORF 12 mai 2007 en vigueur le 1er juin 2007
+	  - Décret n°2007-931 du 15 mai 2007 - art. 17 (Ab) JORF 16 mai 2007 en vigueur le 1er juin 2007
+
+	**Abrogé par**:
+
+	  - Décret n°2010-1635 du 23 décembre 2010 - art. 18
 
 	**Cite**:
 
-	  - CODE DE PROCEDURE PENALE - art. D251. (M)
+	  - Code de procédure pénale - art. D251
+	  - Code de procédure pénale - art. D251-1-1
+	  - Code de procédure pénale - art. D251-1-2
 
 	**Cité par**:
 
@@ -93018,7 +93291,8 @@ registre est présenté aux autorités administratives et judiciaires lors de le
 
 ###### Article D251
 
-Peuvent être prononcées, quelle que soit la faute disciplinaire, les sanctions disciplinaires suivantes :
+Lorsque le détenu est majeur, peuvent être prononcées, quelle que soit la faute disciplinaire, les sanctions disciplinaires
+suivantes :
 
 1° L'avertissement ;
 
@@ -93035,15 +93309,15 @@ produits d'hygiène, du nécessaire de correspondance et de tabac ;
 
 	**Codifié par**:
 
-	  - Décret n°59-322 1959-02-23
+	  - Décret n°59-322 du 23 février 1959
 
 	**Modifié par**:
 
-	  - Décret n°98-1099 du 8 décembre 1998 - art. 187 () JORF 9 décembre 1998
+	  - Décret n°2007-814 du 11 mai 2007 - art. 7 () JORF 12 mai 2007 en vigueur le 1er juin 2007
 
-	**Cite**:
+	**Abrogé par**:
 
-	  - CODE DE PROCEDURE PENALE - art. D251-4 (M)
+	  - Décret n°2010-1635 du 23 décembre 2010 - art. 18
 
 	**Cité par**:
 
@@ -93055,6 +93329,10 @@ produits d'hygiène, du nécessaire de correspondance et de tabac ;
 	  - Code de procédure pénale - art. D251-5 (Ab)
 	  - Code de procédure pénale - art. D251-7 (Ab)
 
+	**Cite**:
+
+	  - Code de procédure pénale - art. D251-4
+
 	**Liens**:
 
 	  - TXT_SOURCE: Code de procédure pénale 714 à 728
@@ -93062,7 +93340,8 @@ produits d'hygiène, du nécessaire de correspondance et de tabac ;
 
 ###### Article D251-1
 
-Peuvent être prononcées, en fonction des circonstances de la faute disciplinaire, les sanctions disciplinaires suivantes :
+Lorsque le détenu est majeur, peuvent être prononcées, en fonction des circonstances de la faute disciplinaire, les sanctions
+disciplinaires suivantes :
 
 1° La mise à pied d'un emploi pour une durée maximum de huit jours lorsque la faute disciplinaire a été commise au cours ou à
 l'occasion du travail ;
@@ -93086,9 +93365,6 @@ faute disciplinaire a été commise au cours de ces activités ;
 7° L'exécution de travaux de réparation lorsque la faute disciplinaire est en relation avec la commission de dommages ou de
 dégradations.
 
-La mise à pied et le déclassement d'un emploi prévus aux 1° et 2° ainsi que la privation d'activités de formation ne sont pas
-applicables aux mineurs de seize ans.
-
 Les sanctions prévues aux 5° et 7° ne peuvent être prononcées que pour se substituer aux sanctions prévues aux 4° et 5° de
 l'article D. 251. Le consentement du détenu doit alors être préalablement recueilli.
 
@@ -93096,11 +93372,15 @@ l'article D. 251. Le consentement du détenu doit alors être préalablement rec
 
 	**Codifié par**:
 
-	  - Décret n°59-322 1959-02-23
+	  - Décret n°59-322 du 23 février 1959
 
 	**Modifié par**:
 
-	  - Décret n°98-1099 du 8 décembre 1998 - art. 187 () JORF 9 décembre 1998
+	  - Décret n°2007-814 du 11 mai 2007 - art. 7 () JORF 12 mai 2007 en vigueur le 1er juin 2007
+
+	**Abrogé par**:
+
+	  - Décret n°2010-1635 du 23 décembre 2010 - art. 18
 
 	**Cité par**:
 
@@ -93111,26 +93391,176 @@ l'article D. 251. Le consentement du détenu doit alors être préalablement rec
 
 	**Cite**:
 
-	  - CODE DE PROCEDURE PENALE - art. D251. (M)
+	  - Code de procédure pénale - art. D251
 
 	**Liens**:
 
 	  - TXT_SOURCE: Code de procédure pénale 714 à 728
 
 
+###### Article D251-1-1
+
+Lorsque le détenu est mineur, les sanctions disciplinaires sont prononcées en considération de son âge, de sa personnalité et
+de son degré de discernement.
+
+Peuvent être prononcées, quelle que soit la faute commise, les sanctions suivantes :
+
+1° L'avertissement ;
+
+2° La privation pendant une période maximum de quinze jours de la faculté d'effectuer en cantine tout achat autre que celui
+de produits d'hygiène et du nécessaire de correspondance ;
+
+3° La privation pendant une durée maximum de quinze jours de tout appareil audiovisuel dont il a l'usage personnel ;
+
+4° Une activité de réparation ;
+
+5° La privation ou la restriction d'activités culturelles, sportives et de loisirs pour une période maximum de huit jours ;
+
+6° Le confinement en cellule individuelle ordinaire dans les conditions prévues à l'article D. 251-2.
+
+Toutefois le mineur de seize ans ne peut faire l'objet d'un confinement que lorsqu'il a commis une des fautes prévues à
+l'article D. 249-1 (1°, 2°, 3°, lorsqu'il s'agit d'objets ou de substances dangereuses pour les personnes, 4°, 5°, 6° et 8°).
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-322 du 23 février 1959
+
+	**Créé par**:
+
+	  - Décret n°2007-814 du 11 mai 2007 - art. 8 () JORF 12 mai 2007 en vigueur le 1er juin 2007
+
+	**Abrogé par**:
+
+	  - Décret n°2010-1635 du 23 décembre 2010 - art. 18
+
+	**Cite**:
+
+	  - Code de procédure pénale - art. D249-1
+
+	**Cité par**:
+
+	  - Code de procédure pénale - art. D250-6 (Ab)
+	  - Code de procédure pénale - art. D251-1-4 (Ab)
+	  - Code de procédure pénale - art. D251-2 (Ab)
+	  - Code de procédure pénale - art. D251-5 (Ab)
+
+
+###### Article D251-1-2
+
+Lorsque les faits commis constituent :
+
+a) Les fautes prévues à l'article D. 249-1, (1°, 2°, 3°, lorsqu'il s'agit d'objets ou substances dangereuses pour les
+personnes, 4°, 5°, 6° et 8°) ;
+
+b) Les fautes prévues à l'article D. 249-2 (1°, lorsqu'elles constituent des menaces, 2° et 7°) ;
+
+c) La faute prévue à l'article D. 249-3 (3°, lorsqu'il s'agit de menaces),
+
+le détenu mineur de plus de seize ans peut à titre exceptionnel être sanctionné par la mise en cellule disciplinaire prévue à
+l'article D. 251-3.
+
+La durée du placement ne peut excéder sept jours pour une faute du premier degré, cinq jours pour une faute du second degré
+et trois jours pour une faute du troisième degré.
+
+La sanction de cellule disciplinaire n'emporte ni la suspension de l'accès à l'enseignement ou à la formation dont le mineur
+bénéficie, ni la suspension des visites de sa famille ou de toute autre personne participant effectivement à son éducation et
+à son insertion sociale.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-322 du 23 février 1959
+
+	**Créé par**:
+
+	  - Décret n°2007-814 du 11 mai 2007 - art. 8 () JORF 12 mai 2007 en vigueur le 1er juin 2007
+
+	**Abrogé par**:
+
+	  - Décret n°2010-1635 du 23 décembre 2010 - art. 18
+
+	**Cite**:
+
+	  - Code de procédure pénale - art. D249-1
+	  - Code de procédure pénale - art. D249-2
+	  - Code de procédure pénale - art. D249-3
+
+	**Cité par**:
+
+	  - Code de procédure pénale - art. D250-3 (Ab)
+	  - Code de procédure pénale - art. D250-6 (Ab)
+	  - Code de procédure pénale - art. D251-3 (Ab)
+	  - Code de procédure pénale - art. D251-5 (Ab)
+	  - Code de procédure pénale - art. D251-7 (Ab)
+
+
+###### Article D251-1-3
+
+Le mineur de plus de seize ans peut également être sanctionné, en fonction des circonstances de la faute disciplinaire, par
+la mise à pied d'un emploi ou d'une activité de formation pour une durée maximale de trois jours lorsque la faute
+disciplinaire a été commise au cours ou à l'occasion du travail ou de cette activité.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-322 1959-02-23
+
+	**Créé par**:
+
+	  - Décret n°2007-814 du 11 mai 2007 - art. 8 () JORF 12 mai 2007 en vigueur le 1er juin 2007
+
+	**Abrogé par**:
+
+	  - Décret n°2010-1635 du 23 décembre 2010 - art. 18
+
+	**Cité par**:
+
+	  - Code de procédure pénale - art. D251-5 (Ab)
+
+
+###### Article D251-1-4
+
+Pour la sanction prévue à l'article D. 251-1-1 (4°) le consentement du mineur et des titulaires de l'autorité parentale ou de
+ses représentants légaux doit être préalablement recueilli.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-322 du 23 février 1959
+
+	**Créé par**:
+
+	  - Décret n°2007-814 du 11 mai 2007 - art. 8 () JORF 12 mai 2007 en vigueur le 1er juin 2007
+
+	**Abrogé par**:
+
+	  - Décret n°2010-1635 du 23 décembre 2010 - art. 18
+
+	**Cite**:
+
+	  - Code de procédure pénale - art. D251-1-1
+
+
 ###### Article D251-2
 
-Le confinement en cellule ordinaire prévu par l'article D. 251 (4°) emporte pendant toute sa durée, la privation de cantine
-prévue au 3° du même article, ainsi que la privation de toutes les activités à l'exception de la promenade et de l'assistance
-aux offices religieux. Elle n'entraîne aucune restriction au droit de correspondance du détenu ni aux visites.
+Le confinement en cellule ordinaire prévu par les articles D. 251 (4°) et D. 251-1-1 (6°) emporte pendant toute sa durée, la
+privation de cantine prévue au 3° du même article, ainsi que la privation de toutes les activités à l'exception de la
+promenade et de l'assistance aux offices religieux. Elle n'entraîne aucune restriction au droit de correspondance du détenu
+ni aux visites.
 
 La durée du confinement ne peut excéder quarante-cinq jours pour une faute du premier degré, trente jours pour une faute du
 deuxième degré et quinze jours pour une faute du troisième degré.
 
-A l'égard des mineurs de plus de seize ans, cette durée est ramenée respectivement à quinze jours, huit jours et quatre
-jours.
+A l'égard du mineur de plus de seize ans, cette durée est ramenée respectivement à sept jours, cinq jours et trois jours.
 
-Le confinement en cellule ordinaire ne peut être prononcé à l'encontre des mineurs de seize ans.
+A l'égard du mineur de seize ans, la durée du confinement est au maximum de trois jours.
+
+Le confinement du mineur en cellule ordinaire n'entraîne pas d'interruption de la scolarité ou de la formation.
 
 **Liens relatifs à cet article**
 
@@ -93140,7 +93570,11 @@ Le confinement en cellule ordinaire ne peut être prononcé à l'encontre des mi
 
 	**Modifié par**:
 
-	  - Décret n°98-1099 du 8 décembre 1998 - art. 187 () JORF 9 décembre 1998
+	  - Décret n°2007-814 du 11 mai 2007 - art. 9 () JORF 12 mai 2007 en vigueur le 1er juin 2007
+
+	**Abrogé par**:
+
+	  - Décret n°2010-1635 du 23 décembre 2010 - art. 18
 
 	**Cité par**:
 
@@ -93150,22 +93584,17 @@ Le confinement en cellule ordinaire ne peut être prononcé à l'encontre des mi
 
 ###### Article D251-3
 
-La mise en cellule disciplinaire prévue par l'article D. 251 (5°) consiste dans le placement du détenu dans une cellule
-aménagée à cet effet et qu'il doit occuper seul. La sanction emporte pendant toute sa durée la privation d'achats en cantine
-prévue à l'article D. 251 (3°) ainsi que la privation des visites et de toutes les activités.
+La mise en cellule disciplinaire prévue par les articles D. 251 (5°) et D. 251-1-2 consiste dans le placement du détenu dans
+une cellule aménagée à cet effet et qu'il doit occuper seul. La sanction emporte pendant toute sa durée la privation d'achats
+en cantine prévue à l'article D. 251 (3°) ainsi que la privation des visites et de toutes les activités sous réserve des
+dispositions de l'article D. 251-1-2 relatifs aux mineurs de plus de seize ans.
 
 Toutefois, les détenus placés en cellule disciplinaire font une promenade d'une heure par jour dans une cour individuelle. La
 sanction n'emporte en outre aucune restriction à leur droit de correspondance écrite.
 
-La durée de la mise en cellule disciplinaire ne peut excéder quarante-cinq jours pour une faute disciplinaire du premier
-degré, trente jours pour une faute disciplinaire du deuxième degré, et quinze jours pour une faute disciplinaire du troisième
-degré.
-
-A l'égard des mineurs de plus de seize ans, la durée maximum de la mise en cellule disciplinaire est de quinze jours pour une
-faute disciplinaire du premier degré avec violences contre les personnes, de huit jours pour une faute du même degré sans
-violences, de cinq jours pour une faute du deuxième degré et de trois jours pour une faute du troisième degré.
-
-La mise en cellule disciplinaire ne peut être prononcée à l'encontre des mineurs de seize ans.
+Pour les détenus majeurs, la durée de la mise en cellule disciplinaire ne peut excéder quarante-cinq jours pour une faute
+disciplinaire du premier degré, trente jours pour une faute disciplinaire du deuxième degré, et quinze jours pour une faute
+disciplinaire du troisième degré.
 
 Les sanctions de mise en cellule disciplinaire sont inscrites sur le registre du quartier disciplinaire tenu sous l'autorité
 du chef d'établissement. Ce registre est présenté aux autorités administratives et judiciaires lors de leurs visites de
@@ -93179,7 +93608,7 @@ contrôle et d'inspection.
 
 	**Modifié par**:
 
-	  - Décret n°98-1099 du 8 décembre 1998 - art. 187 () JORF 9 décembre 1998
+	  - Décret n°2007-814 du 11 mai 2007 - art. 10 () JORF 12 mai 2007 en vigueur le 1er juin 2007
 
 	**Cité par**:
 
@@ -93217,14 +93646,17 @@ suspendue si le médecin constate que son exécution est de nature à compromett
 
 ###### Article D251-5
 
-Le président de la commission de discipline prononce celles des sanctions prévues aux articles D. 251 et D. 251-1 qui lui
-paraissent proportionnées à la gravité des faits et adaptées à la personnalité de leur auteur.
+Le président de la commission de discipline prononce celles des sanctions prévues aux articles D. 251, D. 251-1, D. 251-1-1,
+D. 251-1-2 et D. 251-1-3 qui lui paraissent proportionnées à la gravité des faits et adaptées à la personnalité de leur
+auteur.
 
-Il peut prononcer une ou plusieurs sanctions. Toutefois, les sanctions prévues à l'article D. 251 ne peuvent se cumuler entre
-elles. En cas de poursuites simultanées pour plusieurs fautes, le président de la commission de discipline ne peut pas
-prononcer deux sanctions de même nature ; pour l'application de cette disposition, le confinement en cellule individuelle
-ordinaire et le placement en cellule disciplinaire sont réputés de même nature. La sanction prononcée ne peut excéder le
-maximum encouru pour la faute la plus grave.
+Il ne peut prononcer qu'une seule sanction lorsque le détenu est mineur.
+
+Il peut prononcer une ou plusieurs sanctions lorsque le détenu est majeur. Toutefois, les sanctions prévues à l'article D.
+251 ne peuvent se cumuler entre elles. En cas de poursuites simultanées pour plusieurs fautes, le président de la commission
+de discipline ne peut pas prononcer deux sanctions de même nature ; pour l'application de cette disposition, le confinement
+en cellule individuelle ordinaire et le placement en cellule disciplinaire sont réputés de même nature. La sanction prononcée
+ne peut excéder le maximum encouru pour la faute la plus grave.
 
 Les sanctions collectives sont prohibées.
 
@@ -93232,16 +93664,23 @@ Les sanctions collectives sont prohibées.
 
 	**Codifié par**:
 
-	  - Décret n°59-322 1959-02-23
+	  - Décret n°59-322 du 23 février 1959
 
 	**Modifié par**:
 
-	  - Décret n°98-1099 du 8 décembre 1998 - art. 187 () JORF 9 décembre 1998
+	  - Décret n°2007-814 du 11 mai 2007 - art. 11 () JORF 12 mai 2007 en vigueur le 1er juin 2007
+
+	**Abrogé par**:
+
+	  - Décret n°2010-1635 du 23 décembre 2010 - art. 18
 
 	**Cite**:
 
-	  - CODE DE PROCEDURE PENALE - art. D251-1. (M)
-	  - CODE DE PROCEDURE PENALE - art. D251. (M)
+	  - Code de procédure pénale - art. D251
+	  - Code de procédure pénale - art. D251-1
+	  - Code de procédure pénale - art. D251-1-1
+	  - Code de procédure pénale - art. D251-1-2
+	  - Code de procédure pénale - art. D251-1-3
 
 
 ###### Article D251-6
@@ -93294,12 +93733,16 @@ D. 250-6.
 
 Lorsqu'elle ordonne le sursis à l'exécution de l'une des sanctions de cellule prévues aux 4° et 5° de l'article D. 251,
 l'autorité disciplinaire peut décider que le détenu devra accomplir, pendant tout ou partie du délai de suspension de la
-sanction, des travaux de nettoyage pour une durée globale n'excédant pas quarante heures. Le consentement du détenu doit être
-préalablement recueilli.
+sanction, des travaux de nettoyage pour une durée globale n'excédant pas quarante heures. Lorsqu'elle ordonne le sursis à
+exécution de l'une des sanctions de cellule prévues au 6° de l'article D. 251-1 et à l'article D. 251-1-2 à l'encontre d'un
+mineur de plus de seize ans, l'autorité disciplinaire peut décider que le détenu devra accomplir, pendant tout ou partie du
+délai de suspension de la sanction, des travaux de nettoyage pour une durée globale n'excédant pas vingt heures. Le
+consentement du détenu doit être préalablement recueilli.
 
 Le sursis peut être révoqué en tout ou en partie, en cas d'inexécution totale ou partielle du travail ordonné. L'inexécution
 doit être constatée par l'autorité disciplinaire sur rapport d'un membre du personnel, le détenu ayant été préalablement
-entendu.
+entendu. Lorsque le détenu est mineur, les observations du service du secteur public de la protection judiciaire de la
+jeunesse sont recueillies.
 
 Les dispositions de l'article D. 251-6 sont, pour le surplus, applicables au sursis ordonné dans les conditions prévues au
 présent article.
@@ -93312,12 +93755,18 @@ présent article.
 
 	**Modifié par**:
 
-	  - Décret n°98-1099 du 8 décembre 1998 - art. 187 () JORF 9 décembre 1998
+	  - Décret n°2007-814 du 11 mai 2007 - art. 12 () JORF 12 mai 2007 en vigueur le 1er juin 2007
+
+	**Abrogé par**:
+
+	  - Décret n°2010-1635 du 23 décembre 2010 - art. 18
 
 	**Cite**:
 
-	  - CODE DE PROCEDURE PENALE - art. D251-6 (M)
-	  - CODE DE PROCEDURE PENALE - art. D251. (M)
+	  - Code de procédure pénale - art. D251
+	  - Code de procédure pénale - art. D251-1
+	  - Code de procédure pénale - art. D251-1-2
+	  - Code de procédure pénale - art. D251-6
 
 
 ###### Article D251-8
@@ -94094,16 +94543,16 @@ ministérielle.
 
 Sous réserve des dispositions des articles D. 229 à D. 231, aucune personne étrangère au service ne peut être admise à
 visiter un établissement pénitentiaire qu'en vertu d'une autorisation spéciale délivrée par le chef d'établissement. Cette
-autorisation est délivrée par le directeur régional des services pénitentiaires lorsque la demande est relative à plusieurs
-établissements situés dans le ressort de sa compétence territoriale et par le ministre de la justice lorsqu'elle est relative
-à des établissements situés sur tout le territoire national.
+autorisation est délivrée par le directeur interrégional des services pénitentiaires lorsque la demande est relative à
+plusieurs établissements situés dans le ressort de sa compétence territoriale et par le ministre de la justice lorsqu'elle
+est relative à des établissements situés sur tout le territoire national.
 
 A moins d'une disposition expresse, cette autorisation ne confère pas à son bénéficiaire le droit de communiquer avec les
 détenus de quelque manière que ce soit, même en présence de membres du personnel.
 
 Une autorisation spéciale est nécessaire pour effectuer à l'intérieur d'un établissement pénitentiaire des photographies,
 croquis, prises de vue et enregistrements sonores se rapportant à la détention. Cette autorisation est délivrée par le
-directeur régional des services pénitentiaires lorsqu'elle est relative à un ou plusieurs établissements situés dans le
+directeur interrégional des services pénitentiaires lorsqu'elle est relative à un ou plusieurs établissements situés dans le
 ressort de sa compétence territoriale, et par le ministre de la justice lorsque l'autorisation est relative à des
 établissements situés sur tout le territoire national.
 
@@ -94113,14 +94562,9 @@ ressort de sa compétence territoriale, et par le ministre de la justice lorsque
 
 	  - Décret n°59-322 1959-02-23
 
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°59-322 1959-02-23 art. 6
-	  - SPEC_APPLI: Décret n°97-1187 du 19 décembre 1997 - art. 1 (V)
-
 	**Modifié par**:
 
-	  - Décret n°98-1099 du 8 décembre 1998 - art. 62 () JORF 9 décembre 1998
+	  - Décret n°2007-931 du 15 mai 2007 - art. 17 (Ab) JORF 16 mai 2007 en vigueur le 1er juin 2007
 
 	**Cité par**:
 
@@ -94199,7 +94643,7 @@ une période de temps limitée toute visite à l'intérieur d'un établissement 
 
 Tout incident grave touchant à l'ordre, à la discipline ou à la sécurité de l'établissement pénitentiaire doit être
 immédiatement porté par le chef de l'établissement à la connaissance du préfet et du procureur de la République, en même
-temps qu'à celle du directeur régional des services pénitentiaires et du ministre de la justice.
+temps qu'à celle du directeur interrégional des services pénitentiaires et du ministre de la justice.
 
 Si l'incident concerne un prévenu, avis doit en être donné également au magistrat saisi du dossier de l'information et, si
 l'incident concerne un condamné, au juge de l'application des peines.
@@ -94227,7 +94671,7 @@ Si le détenu appartient aux forces armées, l'autorité militaire doit en outre
 
 	**Modifié par**:
 
-	  - Décret n°98-1099 du 8 décembre 1998 - art. 64 () JORF 9 décembre 1998
+	  - Décret n°2007-931 du 15 mai 2007 - art. 17 (Ab) JORF 16 mai 2007 en vigueur le 1er juin 2007
 
 
 ###### Article D281
@@ -94326,7 +94770,8 @@ Toute tentative d'évasion doit également être portée sans délai à la conna
 
 ###### Article D283-1
 
-Tout détenu peut être placé à l'isolement par mesure de protection ou de sécurité, soit sur sa demande, soit d'office.
+Tout détenu sauf s'il est mineur peut être placé à l'isolement par mesure de protection ou de sécurité, soit sur sa demande,
+soit d'office.
 
 La décision de placement à l'isolement est prise pour une durée de trois mois maximum. Elle peut être renouvelée pour la même
 durée.
@@ -94337,11 +94782,6 @@ ou à la demande du détenu.
 Tant pour la décision initiale que pour les décisions ultérieures, il est tenu compte de la personnalité du détenu, de sa
 dangerosité particulière et de son état de santé.
 
-**Nota:**
-
-Le Conseil d'Etat par arrêt n° 293785 en date du 31 octobre 2008 a annulé l'article premier du décret n° 2006-338 du 21 mars
-2006 qui créait le présent article du code pénal, en tant qu'il s'applique aux mineurs.
-
 **Liens relatifs à cet article**
 
 	**Codifié par**:
@@ -94350,7 +94790,11 @@ Le Conseil d'Etat par arrêt n° 293785 en date du 31 octobre 2008 a annulé l'a
 
 	**Modifié par**:
 
-	  - Décret n°2006-338 du 21 mars 2006 - art. 1 () JORF 23 mars 2006 en vigueur le 1er juin 2006
+	  - Décret n°2007-749 du 9 mai 2007 - art. 12 () JORF 10 mai 2007 en vigueur le 1er juin 2007
+
+	**Abrogé par**:
+
+	  - Décret n°2010-1635 du 23 décembre 2010 - art. 46
 
 	**Cité par**:
 
@@ -94529,7 +94973,7 @@ Le Conseil d'Etat par arrêt n° 293785 en date du 31 octobre 2008 a annulé l'a
 
 ###### Article D283-1-6
 
-A l'issue du renouvellement de la mesure, le directeur régional des services pénitentiaires peut prolonger l'isolement.
+A l'issue du renouvellement de la mesure, le directeur interrégional des services pénitentiaires peut prolonger l'isolement.
 
 La décision est prise sur rapport motivé du chef d'établissement.
 
@@ -94546,9 +94990,13 @@ Le Conseil d'Etat par arrêt n° 293785 en date du 31 octobre 2008 a annulé l'a
 
 	  - Décret n°59-322 1959-02-23
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2006-338 du 21 mars 2006 - art. 1 () JORF 23 mars 2006 en vigueur le 1er juin 2006
+	  - Décret n°2007-931 du 15 mai 2007 - art. 17 (Ab) JORF 16 mai 2007 en vigueur le 1er juin 2007
+
+	**Abrogé par**:
+
+	  - Décret n°2010-1635 du 23 décembre 2010 - art. 46
 
 
 ###### Article D283-1-7
@@ -94680,13 +95128,14 @@ Le détenu qui demande son placement à l'isolement ou la prolongation de son is
 demande écrite et motivée. Si le détenu est dans l'impossibilité de présenter une requête écrite, sa demande fait l'objet
 d'un compte rendu écrit.
 
-Lorsque la décision relève de la compétence du directeur régional des services pénitentiaires ou du ministre de la justice,
-le chef d'établissement transmet dans les meilleurs délais la demande du détenu et un rapport motivé au directeur régional.
+Lorsque la décision relève de la compétence du directeur interrégional des services pénitentiaires ou du ministre de la
+justice, le chef d'établissement transmet dans les meilleurs délais la demande du détenu et un rapport motivé au directeur
+régional.
 
 **Nota:**
 
 Le Conseil d'Etat par arrêt n° 293785 en date du 31 octobre 2008 a annulé l'article premier du décret n° 2006-338 du 21 mars
-2006 qui modifiait le présent article du code pénal, en tant qu'il s'applique aux mineurs.
+2006 qui créait le présent article du code pénal, en tant qu'il s'applique aux mineurs.
 
 **Liens relatifs à cet article**
 
@@ -94696,7 +95145,11 @@ Le Conseil d'Etat par arrêt n° 293785 en date du 31 octobre 2008 a annulé l'a
 
 	**Modifié par**:
 
-	  - Décret n°2006-338 du 21 mars 2006 - art. 1 () JORF 23 mars 2006 en vigueur le 1er juin 2006
+	  - Décret n°2007-931 du 15 mai 2007 - art. 17 (Ab) JORF 16 mai 2007 en vigueur le 1er juin 2007
+
+	**Abrogé par**:
+
+	  - Décret n°2010-1635 du 23 décembre 2010 - art. 46
 
 
 ###### Article D283-2-1
@@ -94746,7 +95199,7 @@ langue française.
 Les observations du détenu et, le cas échéant, celles de son avocat ou du mandataire agréé sont jointes au dossier de la
 procédure. Si le détenu présente des observations orales, elles font l'objet d'un compte rendu écrit.
 
-Le chef d'établissement transmet le dossier de la procédure au directeur régional des services pénitentiaires lorsque la
+Le chef d'établissement transmet le dossier de la procédure au directeur interrégional des services pénitentiaires lorsque la
 décision relève de la compétence de celui-ci ou du ministre de la justice.
 
 **Nota:**
@@ -94760,9 +95213,13 @@ Le Conseil d'Etat par arrêt n° 293785 en date du 31 octobre 2008 a annulé l'a
 
 	  - Décret n°59-322 1959-02-23
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2006-338 du 21 mars 2006 - art. 1 () JORF 23 mars 2006 en vigueur le 1er juin 2006
+	  - Décret n°2007-931 du 15 mai 2007 - art. 17 (Ab) JORF 16 mai 2007 en vigueur le 1er juin 2007
+
+	**Abrogé par**:
+
+	  - Décret n°2010-1635 du 23 décembre 2010 - art. 46
 
 	**Cité par**:
 
@@ -96173,7 +96630,7 @@ achats à l'intérieur de l'établissement pénitentiaire, ou même, sur autoris
 dehors.
 
 En cas d'évasion du titulaire du compte, cette part est appliquée d'office à l'indemnisation des parties civiles. Le reliquat
-est acquis à l'Etat, sauf décision du directeur régional des services pénitentiaires du lieu où s'est produite l'évasion
+est acquis à l'Etat, sauf décision du directeur interrégional des services pénitentiaires du lieu où s'est produite l'évasion
 ordonnant qu'il soit rétabli en tout ou partie au profit du détenu lorsque ce dernier a été repris.
 
 **Liens relatifs à cet article**
@@ -96184,7 +96641,7 @@ ordonnant qu'il soit rétabli en tout ou partie au profit du détenu lorsque ce 
 
 	**Modifié par**:
 
-	  - Décret n°98-1099 du 8 décembre 1998 - art. 80 () JORF 9 décembre 1998
+	  - Décret n°2007-931 du 15 mai 2007 - art. 17 (Ab) JORF 16 mai 2007 en vigueur le 1er juin 2007
 
 	**Cité par**:
 
@@ -96862,7 +97319,7 @@ outre :
 
 5. Le directeur de la sécurité sociale ou son représentant ;
 
-6. Un directeur régional des services pénitentiaires désigné par le directeur de l'administration pénitentiaire ;
+6. Un directeur interrégional des services pénitentiaires désigné par le directeur de l'administration pénitentiaire ;
 
 7. Un juge de l'application des peines désigné par le ministre de la justice ;
 
@@ -96882,9 +97339,9 @@ outre :
 
 	  - Décret n°59-322 1959-02-23
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°98-1099 du 8 décembre 1998 - art. 92 () JORF 9 décembre 1998
+	  - Décret n°2007-931 du 15 mai 2007 - art. 17 (Ab) JORF 16 mai 2007 en vigueur le 1er juin 2007
 
 
 ###### Article D348-3
@@ -97279,19 +97736,20 @@ Les détenus malades bénéficient du régime alimentaire qui leur est médicale
 ###### Article D362
 
 Hors le cas où l'état de santé du détenu rend nécessaire un acte de diagnostic ou de soins auquel il n'est pas à même de
-consentir, celui-ci doit, conformément aux dispositions de l'article 36 du code de déontologie médicale, exprimer son
-consentement préalablement à tout acte médical et, en cas de refus, être informé par le médecin des conséquences de ce refus.
+consentir, celui-ci doit, conformément aux dispositions de l'article R. 4127-36 du code de la santé publique, exprimer son
+consentement préalablement à tout acte médical et, en cas de refus, être informé par le médecin des conséquences de ce
+refus. 
 
-Lorsque le détenu est mineur, il appartient au détenteur de l'autorité parentale d'exprimer son consentement. Toutefois,
-lorsque la santé ou l'intégrité corporelle du mineur risque d'être compromise par le refus du représentant légal, ou
-l'impossibilité de recueillir son consentement, le médecin responsable peut saisir le ministère public afin de provoquer les
-mesures d'assistance éducative lui permettant de donner les soins qui s'imposent.
+Lorsque, en application des dispositions de l'article L. 1111-5 du code de la santé publique, le mineur détenu se fait
+accompagner d'une personne majeure de son choix, celle-ci doit au préalable obtenir des autorités judiciaires ou
+administratives compétentes, selon que le mineur est prévenu ou condamné, l'autorisation de s'entretenir avec lui, dans le
+respect de la confidentialité de leurs échanges. 
+
+Dans le cas où le mineur ne connaîtrait pas de personne majeure susceptible de l'accompagner, les services du secteur public
+de la protection judiciaire de la jeunesse relaient sa demande auprès de personnes physiques ou morales extérieures
+intervenant habituellement auprès de mineurs.
 
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code de déontologie médicale 36
 
 	**Codifié par**:
 
@@ -97299,12 +97757,17 @@ mesures d'assistance éducative lui permettant de donner les soins qui s'imposen
 
 	**Modifié par**:
 
-	  - Décret n°98-1099 du 8 décembre 1998 - art. 90 () JORF 9 décembre 1998
+	  - Décret n°2007-749 du 9 mai 2007 - art. 13 () JORF 10 mai 2007 en vigueur le 1er juin 2007
 
 	**Cité par**:
 
 	  - Décret n°2014-1279 du 23 octobre 2014 - art. (VD)
 	  - CODE DE PROCEDURE PENALE - art. D83 (M)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L1111-5 (V)
+	  - Code de la santé publique - art. R4127-36 (V)
 
 
 ###### Article D363
@@ -97363,9 +97826,9 @@ Il en est rendu compte aux autorités à prévenir en cas d'incident dans les co
 ###### Article D365
 
 Hormis les cas où ils se trouvent en dehors d'un établissement pénitentiaire en application des articles 723 et 723-3, les
-détenus ne peuvent être examinés ou soignés par un médecin de leur choix, à moins d'une décision du directeur régional des
-services pénitentiaires territorialement compétent. Ils doivent alors assumer les frais qui leur incombent du fait de cette
-prise en charge.
+détenus ne peuvent être examinés ou soignés par un médecin de leur choix, à moins d'une décision du directeur interrégional
+des services pénitentiaires territorialement compétent. Ils doivent alors assumer les frais qui leur incombent du fait de
+cette prise en charge.
 
 **Liens relatifs à cet article**
 
@@ -97373,13 +97836,9 @@ prise en charge.
 
 	  - Décret n°59-322 1959-02-23
 
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°59-322 1959-02-23 art. 6
-
 	**Modifié par**:
 
-	  - Décret n°98-1099 du 8 décembre 1998 - art. 90 () JORF 9 décembre 1998
+	  - Décret n°2007-931 du 15 mai 2007 - art. 17 (Ab) JORF 16 mai 2007 en vigueur le 1er juin 2007
 
 	**Cité par**:
 
@@ -97387,8 +97846,8 @@ prise en charge.
 
 	**Cite**:
 
-	  - CODE DE PROCEDURE PENALE - art. 723 (M)
-	  - CODE DE PROCEDURE PENALE - art. 723-3 (M)
+	  - Code de procédure pénale - art. 723 (V)
+	  - Code de procédure pénale - art. 723-3 (V)
 
 
 ##### Paragraphe 2 : Protection sociale des détenus
@@ -97523,7 +97982,7 @@ chargé de dispenser aux détenus les soins en psychiatrie.
 
 En application des dispositions de l'article R. 711-10 du code de la santé publique, les modalités d'intervention de
 l'établissement public de santé mentionné à l'article R. 711-7 du même code sont fixées par un protocole signé par le
-directeur de l'agence régionale de l'hospitalisation, le directeur régional des services pénitentiaires, le chef de
+directeur de l'agence régionale de l'hospitalisation, le directeur interrégional des services pénitentiaires, le chef de
 l'établissement pénitentiaire et le directeur de l'établissement de santé concerné, après avis du conseil d'administration.
 
 Il en est de même en ce qui concerne les modalités d'intervention de l'établissement de santé éventuellement désigné en
@@ -97536,13 +97995,9 @@ mentionné à l'article R. 711-7 est également signataire de ce protocole compl
 
 	  - Décret n°59-322 1959-02-23
 
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°59-322 1959-02-23 art. 6
-
 	**Modifié par**:
 
-	  - Décret n°98-1099 du 8 décembre 1998 - art. 90 () JORF 9 décembre 1998
+	  - Décret n°2007-931 du 15 mai 2007 - art. 17 (Ab) JORF 16 mai 2007 en vigueur le 1er juin 2007
 
 	**Cité par**:
 
@@ -97830,7 +98285,7 @@ application de l'article R. 711-16 (10°) du code de la santé publique ainsi qu
 Conformément au cahier des clauses administratives et techniques particulières auquel ils sont soumis, les services médicaux
 des établissements pénitentiaires dont le fonctionnement est régi par une convention passée en application de la loi n°
 87-432 du 22 juin 1987 relative au service public pénitentiaire adressent leurs statistiques mensuelles d'activité médicale
-au directeur régional des services pénitentiaires, qui les transmet au ministère de la justice.
+au directeur interrégional des services pénitentiaires, qui les transmet au ministère de la justice.
 
 Ils établissent également un rapport annuel d'activité comprenant des éléments quantitatifs et qualitatifs qu'ils adressent
 au directeur de l'établissement pénitentiaire et à la commission de surveillance.
@@ -97841,17 +98296,17 @@ au directeur de l'établissement pénitentiaire et à la commission de surveilla
 
 	  - Décret n°59-322 1959-02-23
 
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°59-322 1959-02-23 art. 6
-
 	**Cite**:
 
-	  - Loi n°87-432 1987-06-22
+	  - Loi n°87-432 du 22 juin 1987
 
 	**Modifié par**:
 
-	  - Décret n°98-1099 du 8 décembre 1998 - art. 90 () JORF 9 décembre 1998
+	  - Décret n°2007-931 du 15 mai 2007 - art. 17 (Ab) JORF 16 mai 2007 en vigueur le 1er juin 2007
+
+	**Abrogé par**:
+
+	  - Décret n°2010-1635 du 23 décembre 2010 - art. 46
 
 	**Cité par**:
 
@@ -97860,9 +98315,9 @@ au directeur de l'établissement pénitentiaire et à la commission de surveilla
 
 ###### Article D378
 
-Les rapports annuels d'activité présentés en application des articles D. 376 et D. 377 sont adressés au directeur régional
-des services pénitentiaires, qui en assure la transmission au ministère de la justice en y joignant ses éventuelles
-observations.
+Les rapports annuels d'activité présentés en application des articles D. 376 et D. 377 sont adressés au directeur
+interrégional des services pénitentiaires, qui en assure la transmission au ministère de la justice en y joignant ses
+éventuelles observations.
 
 **Liens relatifs à cet article**
 
@@ -97872,7 +98327,7 @@ observations.
 
 	**Modifié par**:
 
-	  - Décret n°98-1099 du 8 décembre 1998 - art. 90 () JORF 9 décembre 1998
+	  - Décret n°2007-931 du 15 mai 2007 - art. 17 (Ab) JORF 16 mai 2007 en vigueur le 1er juin 2007
 
 	**Cité par**:
 
@@ -98209,13 +98664,13 @@ médical.
 ###### Article D386
 
 Les praticiens hospitaliers exerçant à temps plein dans les structures de soins visées aux articles D. 368 et D. 372 sont,
-préalablement à leur nomination, habilités par le ministre de la justice.
+préalablement à leur nomination, habilités par le ministre de la justice. 
 
 Les praticiens hospitaliers exerçant à temps partiel dans ces structures sont, préalablement à leur nomination ou à leur
-affectation, habilités par le directeur régional des services pénitentiaires territorialement compétent.
+affectation, habilités par le directeur interrégional des services pénitentiaires territorialement compétent. 
 
 Les autres personnels médicaux et hospitaliers exerçant dans ces structures sont, préalablement à leur nomination ou à leur
-affectation, habilités par le directeur régional des services pénitentiaires territorialement compétent.
+affectation, habilités par le directeur interrégional des services pénitentiaires territorialement compétent.
 
 **Liens relatifs à cet article**
 
@@ -98223,22 +98678,18 @@ affectation, habilités par le directeur régional des services pénitentiaires 
 
 	  - Décret n°59-322 1959-02-23
 
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°59-322 1959-02-23 art. 6
-
 	**Modifié par**:
 
-	  - Décret n°98-1099 du 8 décembre 1998 - art. 90 () JORF 9 décembre 1998
-
-	**Cite**:
-
-	  - CODE DE PROCEDURE PENALE - art. D368 (M)
-	  - CODE DE PROCEDURE PENALE - art. D372 (M)
+	  - Décret n°2007-931 du 15 mai 2007 - art. 17 (Ab) JORF 16 mai 2007 en vigueur le 1er juin 2007
 
 	**Cité par**:
 
 	  - CODE DE PROCEDURE PENALE - art. D398 (M)
+
+	**Cite**:
+
+	  - Code de procédure pénale - art. D368 (V)
+	  - Code de procédure pénale - art. D372 (V)
 
 
 ###### Article D386-1
@@ -98264,7 +98715,7 @@ L'habilitation est retirée de plein droit lorsque cette exigence cesse d'être 
 
 ###### Article D387
 
-Les personnels hospitaliers sont informés par le directeur régional des services pénitentiaires ou son représentant des
+Les personnels hospitaliers sont informés par le directeur interrégional des services pénitentiaires ou son représentant des
 conditions d'exercice en milieu carcéral et des obligations résultant des dispositions du présent code.
 
 Le règlement intérieur de l'établissement pénitentiaire dans lequel ils sont amenés à exercer leur mission doit leur être
@@ -98276,21 +98727,17 @@ remis par le chef de l'établissement pénitentiaire.
 
 	  - Décret n°59-322 1959-02-23
 
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°59-322 1959-02-23 art. 6
-
 	**Modifié par**:
 
-	  - Décret n°98-1099 du 8 décembre 1998 - art. 90 () JORF 9 décembre 1998
+	  - Décret n°2007-931 du 15 mai 2007 - art. 17 (Ab) JORF 16 mai 2007 en vigueur le 1er juin 2007
 
 
 ###### Article D388
 
-L'habilitation peut être suspendue par le directeur régional des services pénitentiaires pour les praticiens hospitaliers à
-temps plein, ou par le chef de l'établissement pénitentiaire pour les autres personnels hospitaliers, en cas de manquements
-graves aux dispositions du code de procédure pénale ou du règlement intérieur. Le directeur de l'établissement de santé doit
-en être préalablement informé.
+L'habilitation peut être suspendue par le directeur interrégional des services pénitentiaires pour les praticiens
+hospitaliers à temps plein, ou par le chef de l'établissement pénitentiaire pour les autres personnels hospitaliers, en cas
+de manquements graves aux dispositions du code de procédure pénale ou du règlement intérieur. Le directeur de l'établissement
+de santé doit en être préalablement informé.
 
 L'autorité qui a délivré l'habilitation rend, dans le mois suivant la suspension, une décision motivée de maintien ou de
 retrait de l'habilitation, après avoir recueilli les observations de la personne habilitée et l'avis de l'autorité investie
@@ -98302,13 +98749,9 @@ du pouvoir de nomination.
 
 	  - Décret n°59-322 1959-02-23
 
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°59-322 1959-02-23 art. 6
-
 	**Modifié par**:
 
-	  - Décret n°98-1099 du 8 décembre 1998 - art. 90 () JORF 9 décembre 1998
+	  - Décret n°2007-931 du 15 mai 2007 - art. 17 (Ab) JORF 16 mai 2007 en vigueur le 1er juin 2007
 
 
 ###### Article D389
@@ -98399,7 +98842,7 @@ intervenant dans l'établissement pénitentiaire. Les frais de transfèrement et
 ministère de la défense lorsque les intéressés sont dirigés sur un hôpital militaire.
 
 Les détenus ne peuvent être hospitalisés, même à leurs frais, dans un établissement privé, à moins d'une décision du
-directeur régional des services pénitentiaires territorialement compétent.
+directeur interrégional des services pénitentiaires territorialement compétent.
 
 **Liens relatifs à cet article**
 
@@ -98409,7 +98852,7 @@ directeur régional des services pénitentiaires territorialement compétent.
 
 	**Modifié par**:
 
-	  - Décret n°98-1099 du 8 décembre 1998 - art. 90 () JORF 9 décembre 1998
+	  - Décret n°2007-931 du 15 mai 2007 - art. 17 (Ab) JORF 16 mai 2007 en vigueur le 1er juin 2007
 
 	**Cité par**:
 
@@ -98467,7 +98910,7 @@ dispensés aux détenus par le service public hospitalier.
 
 L'admission dans un établissement de santé à vocation nationale ou dans un établissement de santé situé dans une autre
 direction régionale des services pénitentiaires que celle où le détenu est écroué doit être autorisée par le ministre de la
-justice. Le directeur régional des services pénitentiaires autorise cette hospitalisation dans les autres cas. Ces
+justice. Le directeur interrégional des services pénitentiaires autorise cette hospitalisation dans les autres cas. Ces
 autorisations sont données après avis d'un médecin intervenant à l'établissement.
 
 En ce qui concerne les prévenus, l'autorisation d'hospitalisation suppose l'accord préalable du magistrat saisi du dossier de
@@ -98482,13 +98925,9 @@ administratives compétentes, auxquelles il en est rendu compte immédiatement.
 
 	  - Décret n°59-322 1959-02-23
 
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°59-322 1959-02-23 art. 6
-
 	**Modifié par**:
 
-	  - Décret n°98-1099 du 8 décembre 1998 - art. 90 () JORF 9 décembre 1998
+	  - Décret n°2007-931 du 15 mai 2007 - art. 17 (Ab) JORF 16 mai 2007 en vigueur le 1er juin 2007
 
 
 ###### Article D394
@@ -98761,8 +99200,8 @@ six mois suivant son départ, l'enfant peut être admis à séjourner pour de co
 
 ###### Article D401-1
 
-A la demande de la mère, la limite d'âge de dix-huit mois peut être reculée, sur décision du directeur régional des services
-pénitentiaires territorialement compétent, après avis d'une commission consultative.
+A la demande de la mère, la limite d'âge de dix-huit mois peut être reculée, sur décision du directeur interrégional des
+services pénitentiaires territorialement compétent, après avis d'une commission consultative.
 
 Avant d'émettre son avis, la commission entend le défenseur de la mère et, si possible, le père de l'enfant.
 
@@ -98774,7 +99213,7 @@ Avant d'émettre son avis, la commission entend le défenseur de la mère et, si
 
 	**Modifié par**:
 
-	  - Décret n°98-1099 du 8 décembre 1998 - art. 90 () JORF 9 décembre 1998
+	  - Décret n°2007-931 du 15 mai 2007 - art. 17 (Ab) JORF 16 mai 2007 en vigueur le 1er juin 2007
 
 	**Cité par**:
 
@@ -98785,7 +99224,7 @@ Avant d'émettre son avis, la commission entend le défenseur de la mère et, si
 
 La commission consultative prévue à l'article D. 401-1 comprend :
 
-1° Le directeur régional des services pénitentiaires ou son représentant, président ;
+1° Le directeur interrégional des services pénitentiaires ou son représentant, président ;
 
 2° Un médecin psychiatre ;
 
@@ -98797,7 +99236,7 @@ La commission consultative prévue à l'article D. 401-1 comprend :
 
 6° Un travailleur social.
 
-Les membres de la commission sont nommés par le directeur régional pour une période de deux ans renouvelable.
+Les membres de la commission sont nommés par le directeur interrégional pour une période de deux ans renouvelable.
 
 **Liens relatifs à cet article**
 
@@ -98805,9 +99244,9 @@ Les membres de la commission sont nommés par le directeur régional pour une p�
 
 	  - Décret n°59-322 1959-02-23
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°98-1099 du 8 décembre 1998 - art. 97 () JORF 9 décembre 1998
+	  - Décret n°2007-931 du 15 mai 2007 - art. 17 (Ab) JORF 16 mai 2007 en vigueur le 1er juin 2007
 
 	**Cite**:
 
@@ -99870,19 +100309,27 @@ au règlement intérieur de l'établissement.
 ###### Article D434-1
 
 Les aumôniers peuvent être assistés dans leur mission par des auxiliaires bénévoles d'aumônerie, agréés par le directeur
-régional des services pénitentiaires après avis du préfet et de l'autorité religieuse compétente, pour une période de deux
-ans renouvelable. Ces derniers peuvent animer des groupes de détenus en vue de la réflexion, de la prière et de l'étude. Ils
-ne peuvent pas avoir d'entretiens individuels avec les détenus.
+interrégional des services pénitentiaires après avis du préfet et de l'autorité religieuse compétente, pour une période de
+deux ans renouvelable. Ces derniers peuvent animer des groupes de détenus en vue de la réflexion, de la prière et de l'étude.
+Ils ne peuvent pas avoir d'entretiens individuels avec les détenus.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°59-322 1959-02-23
+	  - Décret n°59-322 du 23 février 1959
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°98-1099 du 8 décembre 1998 - art. 112 () JORF 9 décembre 1998
+	  - Décret n°2007-931 du 15 mai 2007 - art. 17 (Ab) JORF 16 mai 2007 en vigueur le 1er juin 2007
+
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2010-1635 du 23 décembre 2010 - art. 36
+
+	**Nouveaux textes**:
+
+	  - Code de procédure pénale - art. D439-2 (V)
 
 
 ###### Article D435
@@ -100246,10 +100693,10 @@ des intéressés.
 
 Le service de l'enseignement, comme la charge d'aider ou de conseiller les détenus qui ont été admis à poursuivre des études
 personnelles, doit être assuré par des personnes qualifiées et plus particulièrement par des membres du corps enseignant
-affectés selon les procédures en vigueur à l'éducation nationale et ayant reçu un agrément du directeur régional des services
-pénitentiaires.
+affectés selon les procédures en vigueur à l'éducation nationale et ayant reçu un agrément du directeur interrégional des
+services pénitentiaires.
 
-Par ailleurs, le directeur régional peut accepter le concours bénévole que, notamment, des visiteurs de prison et des
+Par ailleurs, le directeur interrégional peut accepter le concours bénévole que, notamment, des visiteurs de prison et des
 associations sont susceptibles de lui offrir.
 
 **Liens relatifs à cet article**
@@ -100260,12 +100707,15 @@ associations sont susceptibles de lui offrir.
 
 	**Modifié par**:
 
-	  - Décret n°98-1099 1998-12-08 art. 123, 124 et 127 JORF 9 décembre 1998
-	  - Décret n°98-1099 du 8 décembre 1998 - art. 123 () JORF 9 décembre 1998
+	  - Décret n°2007-931 du 15 mai 2007 - art. 17 (Ab) JORF 16 mai 2007 en vigueur le 1er juin 2007
 
 	**Liens**:
 
-	  - TXT_SOURCE: Code de procédure pénale 714 à 728
+	  - TRANSFERE: Décret n°2010-1635 du 23 décembre 2010 - art. 36
+
+	**Nouveaux textes**:
+
+	  - Code de procédure pénale - art. D437 (V)
 
 
 ##### Paragraphe 2 : Formation professionnelle
@@ -100561,7 +101011,7 @@ Les échanges et les prêts de livres personnels entre détenus sont autorisés.
 ###### Article D444-1
 
 La sortie des écrits faits par un détenu en vue de leur publication ou de leur divulgation, sous quelque forme que ce soit,
-est autorisée par décision du directeur régional des services pénitentiaires territorialement compétent.
+est autorisée par décision du directeur interégional des services pénitentiaires territorialement compétent.
 
 Sans préjudice d'une éventuelle saisie par l'autorité judiciaire et sous réserve de l'exercice des droits de la défense, tout
 manuscrit rédigé en détention peut au surplus être retenu pour des raisons d'ordre, pour n'être restitué à son auteur qu'au
@@ -100577,9 +101027,13 @@ l'administration.
 
 	  - Décret n°59-322 1959-02-23
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°98-1099 du 8 décembre 1998 - art. 120 () JORF 9 décembre 1998
+	  - Décret n°2007-931 du 15 mai 2007 - art. 17 (Ab) JORF 16 mai 2007 en vigueur le 1er juin 2007
+
+	**Abrogé par**:
+
+	  - Décret n°2013-368 du 30 avril 2013 - art. 2
 
 
 ###### Article D445
@@ -101228,7 +101682,8 @@ dont le détenu dispose à sa sortie et les secours, sous les diverses formes, d
 libération.
 
 Il comporte l'adresse du service pénitentiaire d'insertion et de probation ou de l'antenne locale du lieu de résidence de la
-personne libérée.
+personne libérée ou, s'il est remis à un détenu mineur, les coordonnées du service compétent du secteur public de la
+protection judiciaire de la jeunesse.
 
 **Liens relatifs à cet article**
 
@@ -101238,12 +101693,7 @@ personne libérée.
 
 	**Modifié par**:
 
-	  - Décret n°99-276 du 13 avril 1999 - art. 25 () JORF 14 avril 1999
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°99-276 du 13 avril 1999 - art. 37 (V)
-	  - TXT_SOURCE: Code de procédure pénale 714 à 728
+	  - Décret n°2007-749 du 9 mai 2007 - art. 14 () JORF 10 mai 2007 en vigueur le 1er juin 2007
 
 	**Cite**:
 
@@ -101778,34 +102228,25 @@ de leur service, auprès des détenus militaires.
 	  - Décret n°98-1099 du 8 décembre 1998 - art. 196 () JORF 9 décembre 1998
 
 
-##### Section 4 : Des détenus âgés de moins de vingt et un ans
+##### Section 4 : Des détenus mineurs
+
+##### Sous-section 1 : Dispositions générales
 
 ###### Article D514
 
-Les mineurs relevant des juridictions pour enfants, lorsque exceptionnellement ils sont incarcérés, peuvent être détenus en
-vertu de l'un des titres suivants :
+Au sein de chaque établissement pénitentiaire recevant des mineurs, une équipe pluridisciplinaire réunit des représentants
+des différents services intervenant auprès des mineurs incarcérés afin d'assurer leur collaboration ainsi que le suivi
+individuel de chaque mineur détenu.
 
-1° Un mandat d'arrêt ou un mandat de dépôt du juge des enfants ou du juge d'instruction conformément aux dispositions des
-articles 8, 9 et 11 de l'ordonnance n° 45-174 du 2 février 1945 modifiée relative à l'enfance délinquante ;
+L'équipe pluridisciplinaire est présidée par le chef d'établissement ou son représentant. Elle comprend au moins, outre son
+président, un représentant du personnel de surveillance, un représentant du secteur public de la protection judiciaire de la
+jeunesse et un représentant de l'éducation nationale. Elle peut associer, en tant que de besoin, un représentant des services
+de santé, un représentant du service pénitentiaire d'insertion et de probation ou tout autre intervenant dans la prise en
+charge des mineurs détenus.
 
-2° Un mandat de dépôt pour le mineur âgé de seize à dix-huit ans accusé de crime ;
-
-3° Un jugement ou arrêt prononçant une condamnation à une peine privative de liberté en application des articles 2 et 20-2 de
-l'ordonnance du 2 février 1945 précitée ;
-
-4° Une ordonnance d'incarcération provisoire en application des articles 741-2 et 744-2.
+L'équipe pluridisciplinaire se réunit au moins une fois par semaine.
 
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Ordonnance n°45-174 du 2 février 1945 - art. 11 (M)
-	  - Ordonnance n°45-174 du 2 février 1945 - art. 2 (M)
-	  - Ordonnance n°45-174 du 2 février 1945 - art. 20-2 (M)
-	  - Ordonnance n°45-174 du 2 février 1945 - art. 8 (M)
-	  - Ordonnance n°45-174 du 2 février 1945 - art. 9 (M)
-	  - CODE DE PROCEDURE PENALE - art. 741-2 (M)
-	  - CODE DE PROCEDURE PENALE - art. 744-2 (M)
 
 	**Codifié par**:
 
@@ -101813,7 +102254,7 @@ l'ordonnance du 2 février 1945 précitée ;
 
 	**Modifié par**:
 
-	  - Décret n°2007-699 du 3 mai 2007 - art. 13 () JORF 5 mai 2007
+	  - Décret n°2007-749 du 9 mai 2007 - art. 15 () JORF 10 mai 2007 en vigueur le 1er juin 2007
 
 	**Cité par**:
 
@@ -101823,14 +102264,40 @@ l'ordonnance du 2 février 1945 précitée ;
 	  - Code de procédure pénale - art. D76 (V)
 
 
+###### Article D514-1
+
+Les services du secteur public de la protection judiciaire de la jeunesse assurent la continuité de la prise en charge
+éducative des mineurs détenus. En collaboration avec les services ayant en charge le suivi du mineur, ils mettent en oeuvre
+un suivi éducatif individualisé de chaque mineur détenu.
+
+Ils exercent, à leur égard, les missions dévolues par les dispositions des articles D. 460 à D. 465 et D. 573 au service
+pénitentiaire d'insertion et de probation.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-322 1959-02-23
+
+	**Créé par**:
+
+	  - Décret n°2007-749 du 9 mai 2007 - art. 15 () JORF 10 mai 2007 en vigueur le 1er juin 2007
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. D573 (M)
+	  - Code de procédure pénale D460 à D465, D573
+
+
+##### Sous-section 2 : Du maintien des liens familiaux
+
 ###### Article D515
 
-Les détenus âgés de moins de vingt et un ans sont soumis à un régime particulier et individualisé qui fait une large place à
-l'éducation et à la formation professionnelle.
-
-Le régime défini aux articles D. 516 à D. 519 est applicable aux mineurs pénaux écroués dans les conditions spécifiées à
-l'article D. 514, aux condamnés et aux prévenus âgés de moins de vingt et un ans, sous la seule réserve des droits
-nécessaires à l'exercice de leur défense.
+Les titulaires de l'autorité parentale ou les représentants légaux du mineur sont destinataires du règlement intérieur de
+l'établissement pénitentiaire. Ils sont informés de toute demande de permis de visite faite au chef de l'établissement, de
+toute modification du régime de détention, ainsi que de toute procédure disciplinaire. Ils reçoivent mensuellement un état du
+compte nominatif du mineur. Ils sont tenus informés du déroulement de sa scolarité, de sa formation ou de ses activités
+professionnelles.
 
 **Liens relatifs à cet article**
 
@@ -101840,40 +102307,51 @@ nécessaires à l'exercice de leur défense.
 
 	**Modifié par**:
 
-	  - Décret n°98-1099 du 8 décembre 1998 - art. 196 () JORF 9 décembre 1998
+	  - Décret n°2007-749 du 9 mai 2007 - art. 15 () JORF 10 mai 2007 en vigueur le 1er juin 2007
 
-	**Cite**:
+	**Abrogé par**:
 
-	  - CODE DE PROCEDURE PENALE - art. D514 (M)
-	  - Code de procédure pénale D514, D516 à D519
+	  - Décret n°2015-1486 du 16 novembre 2015 - art. 1
 
 	**Cité par**:
 
 	  - CODE DE PROCEDURE PENALE - art. D74 (V)
 	  - Code de procédure pénale - art. D601 (V)
 
-	**Liens**:
 
-	  - TXT_SOURCE: Code de procédure pénale 714 à 728
+###### Article D515-1
 
+Les mineurs détenus peuvent, lorsque l'établissement dans lequel ils sont incarcérés est doté d'installations à cette fin,
+téléphoner aux membres de leur famille ou à toute personne participant effectivement à leur éducation et à leur insertion
+sociale, sous réserve, en ce qui concerne les prévenus, d'y avoir été autorisés par le magistrat saisi du dossier de
+l'information.
+
+Le chef d'établissement peut, pour des motifs d'ordre, de sécurité et de prévention des infractions pénales ainsi que s'il
+apparaît que les communications risquent d'être contraires à la réinsertion du détenu, à l'intérêt des victimes ou sur
+demande du correspondant, refuser ou retirer, par une décision motivée, l'autorisation d'une communication téléphonique.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-322 1959-02-23
+
+	**Créé par**:
+
+	  - Décret n°2007-749 du 9 mai 2007 - art. 15 () JORF 10 mai 2007 en vigueur le 1er juin 2007
+
+	**Abrogé par**:
+
+	  - Décret n°2015-1486 du 16 novembre 2015 - art. 1
+
+
+##### Sous-section 3 : De l'accès des mineurs détenus à l'enseignement, à la formation et aux activités socio-éducatives, culturelles et sportives
 
 ###### Article D516
 
-Les détenus âgés de moins de vingt et un ans sont soumis, en principe, à l'isolement de nuit. 
-
-Toutefois, ils peuvent être placés en cellule avec d'autres détenus de leur âge, soit pour motif médical, soit en raison de
-leur personnalité. 
-
-Sauf si, pour les prévenus, le magistrat saisi du dossier de l'affaire en dispose autrement, ils participent à des activités
-telles que la formation professionnelle, l'enseignement général, le travail et les séances éducatives et sportives ou de
-loisirs. 
-
-Des dispositions doivent être prises pour que l'emploi du temps réserve une place aussi importante que possible aux activités
-de plein air, compte tenu des conditions atmosphériques et des nécessités du service. 
-
-Les détenus âgés de moins de vingt et un ans doivent être séparés des adultes. Cependant, ils peuvent participer en même
-temps que les adultes aux offices religieux et, à titre exceptionnel, aux autres activités organisées dans l'établissement
-pénitentiaire.
+La continuité de l'accès du mineur détenu à l'enseignement ou à la formation est assurée, quel que soit son âge, conformément
+aux dispositions des livres Ier et III du code de l'éducation. Un bilan pédagogique est réalisé auprès de chaque mineur
+entrant.
 
 **Liens relatifs à cet article**
 
@@ -101883,69 +102361,133 @@ pénitentiaire.
 
 	**Modifié par**:
 
-	  - Décret n°98-1099 du 8 décembre 1998 - art. 188 () JORF 9 décembre 1998
-
-	**Liens**:
-
-	  - TXT_SOURCE: Code de procédure pénale 714 à 728
+	  - Décret n°2007-749 du 9 mai 2007 - art. 15 () JORF 10 mai 2007 en vigueur le 1er juin 2007
 
 
 ###### Article D517
 
-Les dispositions des articles D. 61 et D. 348 sont applicables aux détenus âgés de vingt et un ans.
-
-Une tenue de sport peut, en outre, leur être fournie par l'administration.
-
-Leur régime alimentaire est amélioré par rapport à celui des adultes, conformément aux principes de la diététique.
+L'enseignement ou la formation constituent la part la plus importante de l'emploi du temps du mineur incarcéré.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°59-322 1959-02-23
+	  - Décret n°59-322 du 23 février 1959
 
 	**Modifié par**:
 
-	  - Décret n°98-1099 du 8 décembre 1998 - art. 196 () JORF 9 décembre 1998
+	  - Décret n°2007-749 du 9 mai 2007 - art. 15 () JORF 10 mai 2007 en vigueur le 1er juin 2007
 
-	**Liens**:
+	**Abrogé par**:
 
-	  - TXT_SOURCE: Code de procédure pénale 714 à 728
+	  - Décret n°2015-1486 du 16 novembre 2015 - art. 1
 
-	**Cite**:
 
-	  - Code de procédure pénale D61 et D348
+###### Article D517-1
+
+Les activités de travail ne peuvent être proposées par le chef d'établissement, éventuellement sur l'initiative de l'équipe
+pluridisciplinaire, qu'à titre exceptionnel, à partir de l'âge de seize ans, si elles ne se substituent pas aux activités
+d'enseignement ou de formation.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-322 du 23 février 1959
+
+	**Créé par**:
+
+	  - Décret n°2007-749 du 9 mai 2007 - art. 15 () JORF 10 mai 2007 en vigueur le 1er juin 2007
+
+	**Cité par**:
+
+	  - Décret n°2014-1277 du 23 octobre 2014 - art. (V)
+
+	**Abrogé par**:
+
+	  - Décret n°2015-1486 du 16 novembre 2015 - art. 1
 
 
 ###### Article D518
 
-Les éducateurs et les assistants du service social des services du secteur public de la protection judiciaire de la jeunesse
-sont habilités à suivre les mineurs détenus dans les mêmes conditions que les travailleurs sociaux du service pénitentiaire
-d'insertion et de probation.
+Le mineur détenu a accès à des activités socioculturelles et sportives ou de détente adaptées à son âge. Un temps est
+consacré aux activités de plein air.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°59-322 1959-02-23
-
-	**Modifié par**:
-
-	  - Décret n°2006-338 du 21 mars 2006 - art. 4 () JORF 23 mars 2006 en vigueur le 1er juin 2006
+	  - Décret n°59-322 du 23 février 1959
 
 	**Cité par**:
 
 	  - Décret n°2006-338 du 21 mars 2006 - art. 5 (V)
 	  - Décret n°2014-1277 du 23 octobre 2014 - art. (V)
 
+	**Modifié par**:
+
+	  - Décret n°2007-749 du 9 mai 2007 - art. 15 () JORF 10 mai 2007 en vigueur le 1er juin 2007
+
+	**Abrogé par**:
+
+	  - Décret n°2015-1486 du 16 novembre 2015 - art. 1
+
+
+###### Article D518-1
+
+Lorsque le chef d'établissement envisage, en application de l'article R. 57-9-17, d'affecter un mineur dans un groupe
+d'activités comprenant des détenus majeurs, il s'attache à recueillir préalablement l'avis de l'équipe pluridisciplinaire et
+porte une attention particulière à la composition du groupe. La sécurité du mineur est assurée par une surveillance
+particulière.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-322 1959-02-23
+
+	**Créé par**:
+
+	  - Décret n°2007-749 du 9 mai 2007 - art. 15 () JORF 10 mai 2007 en vigueur le 1er juin 2007
+
+	**Abrogé par**:
+
+	  - Décret n°2015-1486 du 16 novembre 2015 - art. 1
+
+	**Cite**:
+
+	  - Code de procédure pénale - art. R57-9-17 (Ab)
+
+
+###### Article D518-2
+
+Les mineurs détenus ont un accès direct à la bibliothèque de l'établissement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-322 du 23 février 1959
+
+	**Créé par**:
+
+	  - Décret n°2007-749 du 9 mai 2007 - art. 15 () JORF 10 mai 2007 en vigueur le 1er juin 2007
+
+	**Cité par**:
+
+	  - Décret n°2014-1277 du 23 octobre 2014 - art. (V)
+
+	**Abrogé par**:
+
+	  - Décret n°2015-1486 du 16 novembre 2015 - art. 1
+
+
+##### Sous-section 4 : De la santé des mineurs
 
 ###### Article D519
 
-Un quartier particulier est aménagé pour les détenus âgés de moins de vingt et un ans dans les maisons d'arrêt desservant les
-juridictions les plus importantes.
-
-Le juge de l'application des peines recueille l'avis du juge des enfants chaque fois qu'il exerce, à l'égard d'un mineur
-pénal, l'une des attributions qui lui sont conférées par les articles 712-1 à 712-10 du code de procédure pénale.
+La protection de la santé et l'accès aux soins des mineurs détenus sont régis par les dispositions du code de la santé
+publique et du présent code.
 
 **Liens relatifs à cet article**
 
@@ -101955,11 +102497,116 @@ pénal, l'une des attributions qui lui sont conférées par les articles 712-1 �
 
 	**Modifié par**:
 
-	  - Décret n°2007-699 du 3 mai 2007 - art. 13 () JORF 5 mai 2007
+	  - Décret n°2007-749 du 9 mai 2007 - art. 15 () JORF 10 mai 2007 en vigueur le 1er juin 2007
 
-	**Cite**:
 
-	  - Code de procédure pénale 712-1 à 712-10
+###### Article D519-1
+
+Les repas des mineurs détenus sont composés conformément aux principes de la diététique et servis dans des conditions
+permettant leur éducation à une alimentation équilibrée et régulière.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-322 1959-02-23
+
+	**Créé par**:
+
+	  - Décret n°2007-749 du 9 mai 2007 - art. 15 () JORF 10 mai 2007 en vigueur le 1er juin 2007
+
+	**Abrogé par**:
+
+	  - Décret n°2015-1486 du 16 novembre 2015 - art. 1
+
+
+##### Sous-section 5 : De la mesure de protection individuelle
+
+###### Article D520
+
+Tout mineur détenu peut demander à bénéficier d'une mesure de protection individuelle.
+
+Le chef d'établissement peut faire droit à cette demande s'il estime que les circonstances de la détention ou la personnalité
+du mineur nécessitent la mise en oeuvre de mesures de protection particulières. Il s'attache à recueillir préalablement
+l'avis de l'équipe pluridisciplinaire.
+
+Le mineur détenu bénéficiant d'une mesure de protection individuelle fait l'objet d'un suivi éducatif renforcé et peut être
+momentanément dispensé de tout ou partie de la vie collective.
+
+Cette mesure ne suspend pas l'exercice de ses droits et notamment les droits de visite et de correspondance, de promenade, de
+cantine, d'accès à l'enseignement et au culte.
+
+La mise sous protection individuelle est d'une durée maximale de six jours, renouvelable une fois. La durée de cette mesure
+ne peut excéder douze jours par période de détention de quatre mois. Le chef d'établissement peut y mettre fin à tout moment
+après avoir entendu l'intéressé et recueilli l'avis de l'équipe pluridisciplinaire. Il est tenu d'y mettre fin si l'intéressé
+le demande.
+
+La décision de mise sous protection individuelle et sa levée sont portées à la connaissance des titulaires de l'autorité
+parentale ou des représentants légaux du mineur et du magistrat saisi du dossier de l'information ou en charge de
+l'application des peines.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-322 1959-02-23
+
+	**Cité par**:
+
+	  - Décret n°2000-1213 du 13 décembre 2000 - art. 18 (V)
+	  - CODE DE PROCEDURE PENALE - art. D523 (M)
+	  - Code de procédure pénale - art. D601 (V)
+
+	**Créé par**:
+
+	  - Décret n°2007-749 du 9 mai 2007 - art. 15 () JORF 10 mai 2007 en vigueur le 1er juin 2007
+
+	**Abrogé par**:
+
+	  - Décret n°2015-1486 du 16 novembre 2015 - art. 1
+
+
+##### Section 5 : Des détenus majeurs âgés de moins de vingt et un ans
+
+###### Article D521
+
+Les détenus majeurs âgés de moins de vingt et un ans sont soumis à un régime particulier et individualisé qui fait une large
+place à l'enseignement et à la formation.
+
+Sauf si, pour les prévenus, le magistrat saisi du dossier de l'information en dispose autrement, ils participent à des
+activités d'enseignement, de formation, de travail et socioculturelles et sportives ou de détente.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-322 1959-02-23
+
+	**Créé par**:
+
+	  - Décret n°2007-749 du 9 mai 2007 - art. 15 () JORF 10 mai 2007 en vigueur le 1er juin 2007
+
+
+###### Article D521-1
+
+Les détenus majeurs âgés de moins de vingt et un ans sont soumis, en principe, à l'isolement de nuit.
+
+Toutefois, ils peuvent être placés en cellule avec d'autres détenus de leur âge, soit pour motif médical, soit en raison de
+leur personnalité.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-322 1959-02-23
+
+	**Créé par**:
+
+	  - Décret n°2007-749 du 9 mai 2007 - art. 15 () JORF 10 mai 2007 en vigueur le 1er juin 2007
+
+	**Cité par**:
+
+	  - Décret n°2014-1279 du 23 octobre 2014 - art. (VD)
 
 
 ### Titre III : De la libération conditionnelle
@@ -102898,10 +103545,10 @@ visées à l'article D. 571-4.
 ###### Article D572
 
 Dans chaque département, est créé un service pénitentiaire d'insertion et de probation, service déconcentré de
-l'administration pénitentiaire, chargé d'exécuter les missions prévues par les articles D. 573 à D. 574.
+l'administration pénitentiaire, chargé d'exécuter les missions prévues par les articles D. 573 à D. 574. 
 
-Le directeur du service pénitentiaire d'insertion et de probation est placé sous l'autorité du directeur régional des
-services pénitentiaires.
+Le directeur du service pénitentiaire d'insertion et de probation est placé sous l'autorité du directeur interrégional des
+services pénitentiaires. 
 
 Le siège du service pénitentiaire d'insertion et de probation et la liste des antennes locales d'insertion et de probation
 sont fixés par arrêté du ministre de la justice.
@@ -102914,11 +103561,7 @@ sont fixés par arrêté du ministre de la justice.
 
 	**Modifié par**:
 
-	  - Décret n°99-276 du 13 avril 1999 - art. 35 () JORF 14 avril 1999
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°99-276 du 13 avril 1999 - art. 37 (V)
+	  - Décret n°2007-931 du 15 mai 2007 - art. 17 (Ab) JORF 16 mai 2007 en vigueur le 1er juin 2007
 
 	**Cité par**:
 
@@ -102927,7 +103570,7 @@ sont fixés par arrêté du ministre de la justice.
 
 	**Cite**:
 
-	  - Code de procédure pénale D573 à D574
+	  - Code de procédure pénale - art. D573 (V)
 
 
 ###### Article D573
@@ -103277,8 +103920,8 @@ peines ou du procureur de la République.
 ###### Article D584
 
 Chaque année, le directeur du service pénitentiaire d'insertion et de probation transmet un rapport d'activité au directeur
-régional des services pénitentiaires, au président du tribunal de grande instance et au procureur de la République près ledit
-tribunal ainsi qu'au juge de l'application des peines.
+interrégional des services pénitentiaires, au président du tribunal de grande instance et au procureur de la République près
+ledit tribunal ainsi qu'au juge de l'application des peines.
 
 **Liens relatifs à cet article**
 
@@ -103288,11 +103931,7 @@ tribunal ainsi qu'au juge de l'application des peines.
 
 	**Modifié par**:
 
-	  - Décret n°99-276 du 13 avril 1999 - art. 35 () JORF 14 avril 1999
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°99-276 du 13 avril 1999 - art. 37 (V)
+	  - Décret n°2007-931 du 15 mai 2007 - art. 17 (Ab) JORF 16 mai 2007 en vigueur le 1er juin 2007
 
 
 ###### Article D585
@@ -103417,6 +104056,30 @@ de la Guyane, de la Martinique, de La Réunion et de Saint-Pierre-et-Miquelon.
 
 	  - CODE DE PROCEDURE PENALE - art. D573 (M)
 	  - Code de procédure pénale D573 (1ère version)
+
+
+## Livre VII : Dispositions applicables à Mayotte
+
+###### Article D601
+
+Pour l'application des articles D. 76, D. 515 et D. 520 aux détenus mineurs relevant du statut civil de droit local, les
+titulaires de l'autorité parentale sont les personnes qui exercent de fait l'autorité parentale.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-322 1959-02-23
+
+	**Créé par**:
+
+	  - Décret n°2007-749 du 9 mai 2007 - art. 16 () JORF 10 mai 2007 en vigueur le 1er juin 2007
+
+	**Cite**:
+
+	  - Code de procédure pénale - art. D515 (V)
+	  - Code de procédure pénale - art. D520 (V)
+	  - Code de procédure pénale - art. D76 (V)
 
 
 # Partie Arrêtés
