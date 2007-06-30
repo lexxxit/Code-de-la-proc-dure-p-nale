@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 2007-06-25
+Version Consolidée au 2007-07-01
 
 # Partie législative
 
@@ -6822,6 +6822,50 @@ procédure de témoin assisté.
 	  - Code de procédure pénale - art. 116 (VT)
 
 
+###### Article 80-1-1
+
+Sans préjudice de son droit de demander l'annulation de la mise en examen dans les six mois de sa première comparution,
+conformément aux articles 173,173-1 et 174-1, la personne mise en examen peut au cours de l'information, selon les modalités
+prévues par l'avant-dernier alinéa de l'article 81, demander au juge d'instruction de revenir sur sa décision et de lui
+octroyer le statut de témoin assisté si elle estime que les conditions prévues par les premier et troisième alinéas de
+l'article 80-1 ne sont plus remplies. 
+
+Cette demande peut être faite à l'issue d'un délai de six mois après la mise en examen et tous les six mois suivants. 
+
+Cette demande peut également être faite dans les dix jours qui suivent la notification d'une expertise ou un interrogatoire
+au cours duquel la personne est entendue sur les résultats d'une commission rogatoire ou sur les déclarations de la partie
+civile, d'un témoin, d'un témoin assisté ou d'une autre personne mise en examen. 
+
+Le juge d'instruction statue sur cette demande après avoir sollicité les réquisitions du ministère public. 
+
+Si le juge d'instruction fait droit à la demande, il informe la personne qu'elle bénéficie du statut de témoin assisté. Si la
+personne est détenue, le juge ordonne sa mise en liberté d'office. 
+
+Si le juge d'instruction estime que la personne doit rester mise en examen, il statue par ordonnance motivée faisant état des
+indices graves ou concordants justifiant sa décision.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°57-1426 1957-12-31
+
+	**Créé par**:
+
+	  - Loi n°2007-291 du 5 mars 2007 - art. 17 () JORF 6 mars 2007 en vigueur le 1er juillet 2007
+
+	**Cite**:
+
+	  - Code de procédure pénale - art. 173 (V)
+	  - Code de procédure pénale - art. 174-1 (V)
+	  - Code de procédure pénale - art. 81 (V)
+
+	**Cité par**:
+
+	  - Code de procédure pénale - art. 186 (VD)
+	  - Code de procédure pénale - art. D591 (V)
+
+
 ###### Article 80-2
 
 Le juge d'instruction peut informer une personne par lettre recommandée qu'elle est convoquée, dans un délai qui ne peut être
@@ -7368,9 +7412,29 @@ application des alinéas qui précèdent.
 ###### Article 85
 
 Toute personne qui se prétend lésée par un crime ou un délit peut en portant plainte se constituer partie civile devant le
-juge d'instruction compétent en application des dispositions des articles 52, 52-1 et 706-42.
+juge d'instruction compétent en application des dispositions des articles 52, 52-1 et 706-42. 
+
+Toutefois, la plainte avec constitution de partie civile n'est recevable qu'à condition que la personne justifie soit que le
+procureur de la République lui a fait connaître, à la suite d'une plainte déposée devant lui ou un service de police
+judiciaire, qu'il n'engagera pas lui-même des poursuites, soit qu'un délai de trois mois s'est écoulé depuis qu'elle a déposé
+plainte devant ce magistrat, contre récépissé ou par lettre recommandée avec demande d'avis de réception, ou depuis qu'elle a
+adressé, selon les mêmes modalités, copie à ce magistrat de sa plainte déposée devant un service de police judiciaire. Cette
+condition de recevabilité n'est pas requise s'il s'agit d'un crime ou s'il s'agit d'un délit prévu par la loi du 29 juillet
+1881 sur la liberté de la presse ou par les articles L. 86, L. 87, L. 91 à L. 100, L. 102 à L. 104, L. 106 à L. 108 et L. 113
+du code électoral. La prescription de l'action publique est suspendue, au profit de la victime, du dépôt de la plainte
+jusqu'à la réponse du procureur de la République ou, au plus tard, une fois écoulé le délai de trois mois.
 
 **Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi du 29 juillet 1881 (V)
+	  - Code électoral - art. L102 (V)
+	  - Code électoral - art. L106 (V)
+	  - Code électoral - art. L113 (V)
+	  - Code électoral - art. L86 (V)
+	  - Code électoral - art. L91 (V)
+	  - Code de procédure pénale - art. 52 (VT)
 
 	**Cité par**:
 
@@ -7391,30 +7455,26 @@ juge d'instruction compétent en application des dispositions des articles 52, 5
 
 	**Modifié par**:
 
-	  - Loi n°2007-291 du 5 mars 2007 - art. 6 () JORF 6 mars 2007
-
-	**Cite**:
-
-	  - CODE DE PROCEDURE PENALE - art. 52 (M)
-	  - CODE DE PROCEDURE PENALE - art. 52-1 (AbD)
-	  - CODE DE PROCEDURE PENALE - art. 706-42 (V)
+	  - Loi n°2007-291 du 5 mars 2007 - art. 21 () JORF 6 mars 2007 en vigueur le 1er juillet 2007
 
 
 ###### Article 86
 
 Le juge d'instruction ordonne communication de la plainte au procureur de la République pour que ce magistrat prenne ses
-réquisitions.
+réquisitions. 
 
-Le réquisitoire peut être pris contre personne dénommée ou non dénommée.
+Le réquisitoire peut être pris contre personne dénommée ou non dénommée. 
 
 Lorsque la plainte n'est pas suffisamment motivée ou justifiée, le procureur de la République peut, avant de prendre ses
 réquisitions et s'il n'y a pas été procédé d'office par le juge d'instruction, demander à ce magistrat d'entendre la partie
-civile et, le cas échéant, d'inviter cette dernière à produire toute pièce utile à l'appui de sa plainte.
+civile et, le cas échéant, d'inviter cette dernière à produire toute pièce utile à l'appui de sa plainte. 
 
 Le procureur de la République ne peut saisir le juge d'instruction de réquisitions de non informer que si, pour des causes
 affectant l'action publique elle-même, les faits ne peuvent légalement comporter une poursuite ou si, à supposer ces faits
-démontrés, ils ne peuvent admettre aucune qualification pénale. Dans le cas où le juge d'instruction passe outre, il doit
-statuer par une ordonnance motivée.
+démontrés, ils ne peuvent admettre aucune qualification pénale. Le procureur de la République peut également prendre des
+réquisitions de non-lieu dans le cas où il est établi de façon manifeste, le cas échéant au vu des investigations qui ont pu
+être réalisées à la suite du dépôt de la plainte ou en application du troisième alinéa, que les faits dénoncés par la partie
+civile n'ont pas été commis. Dans le cas où le juge d'instruction passe outre, il doit statuer par une ordonnance motivée. 
 
 Lorsque le juge d'instruction rend une ordonnance de refus d'informer, il peut faire application des dispositions des
 articles 177-2 et 177-3.
@@ -7436,12 +7496,11 @@ articles 177-2 et 177-3.
 
 	**Modifié par**:
 
-	  - Loi n°2002-1138 du 9 septembre 2002 - art. 39 () JORF 10 septembre 2002
+	  - Loi n°2007-291 du 5 mars 2007 - art. 21 () JORF 6 mars 2007 en vigueur le 1er juillet 2007
 
 	**Cite**:
 
-	  - CODE DE PROCEDURE PENALE - art. 177-2 (M)
-	  - CODE DE PROCEDURE PENALE - art. 177-3 (V)
+	  - Code de procédure pénale - art. 177-2 (V)
 
 
 ###### Article 87
@@ -7530,6 +7589,32 @@ parquet ou de la partie civile, par la chambre de l'instruction.
 	**Cite**:
 
 	  - Code de procédure pénale - art. 177-2 (V)
+
+
+###### Article 88-2
+
+Le juge d'instruction peut, en cours de procédure, ordonner à la partie civile qui demande la réalisation d'une expertise de
+verser préalablement un complément de la consignation prévue par l'article 88 afin de garantir le paiement des frais
+susceptibles d'être mis à sa charge en application du second alinéa de l'article 800-1. Cette décision est prise par
+ordonnance motivée susceptible d'appel devant la chambre de l'instruction. Elle peut également être prise par la chambre de
+l'instruction saisie après que le juge d'instruction a refusé d'ordonner l'expertise demandée. 
+
+Le complément de consignation est restitué s'il n'est pas fait application du second alinéa de l'article 800-1.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°57-1426 1957-12-31
+
+	**Créé par**:
+
+	  - Loi n°2007-291 du 5 mars 2007 - art. 21 () JORF 6 mars 2007 en vigueur le 1er juillet 2007
+
+	**Cite**:
+
+	  - Code de procédure pénale - art. 800-1 (V)
+	  - Code de procédure pénale - art. 88 (V)
 
 
 ###### Article 89
@@ -8958,44 +9043,46 @@ demande à être à nouveau entendue par le juge d'instruction, celui-ci est ten
 ###### Article 114
 
 Les parties ne peuvent être entendues, interrogées ou confrontées, à moins qu'elles n'y renoncent expressément, qu'en
-présence de leurs avocats ou ces derniers dûment appelés.
+présence de leurs avocats ou ces derniers dûment appelés. 
 
 Les avocats sont convoqués au plus tard cinq jours ouvrables avant l'interrogatoire ou l'audition de la partie qu'ils
 assistent par lettre recommandée avec demande d'avis de réception, télécopie avec récépissé ou verbalement avec émargement au
-dossier de la procédure.
+dossier de la procédure. 
 
 La procédure est mise à leur disposition quatre jours ouvrables au plus tard avant chaque interrogatoire de la personne mise
 en examen ou chaque audition de la partie civile. Après la première comparution de la personne mise en examen ou la première
 audition de la partie civile, la procédure est également mise à tout moment à la disposition des avocats durant les jours
-ouvrables, sous réserve des exigences du bon fonctionnement du cabinet d'instruction.
+ouvrables, sous réserve des exigences du bon fonctionnement du cabinet d'instruction. 
 
 Après la première comparution ou la première audition, les avocats des parties peuvent se faire délivrer, à leurs frais,
-copie de tout ou partie des pièces et actes du dossier.
+copie de tout ou partie des pièces et actes du dossier. Cette copie peut être adressée à l'avocat sous forme numérisée, le
+cas échéant par un moyen de télécommunication selon les modalités prévues à l'article 803-1. La délivrance de cette copie
+doit intervenir dans le mois qui suit la demande. 
 
 Les avocats peuvent transmettre une reproduction des copies ainsi obtenues à leur client. Celui-ci atteste au préalable, par
-écrit, avoir pris connaissance des dispositions de l'alinéa suivant et de l'article 114-1.
+écrit, avoir pris connaissance des dispositions de l'alinéa suivant et de l'article 114-1. 
 
 Seules les copies des rapports d'expertise peuvent être communiquées par les parties ou leurs avocats à des tiers pour les
 besoins de la défense.
 
 L'avocat doit donner connaissance au juge d'instruction, par déclaration à son greffier ou par lettre ayant ce seul objet et
 adressée en recommandé avec accusé de réception, de la liste des pièces ou actes dont il souhaite remettre une reproduction à
-son client.
+son client. 
 
 Le juge d'instruction dispose d'un délai de cinq jours ouvrables à compter de la réception de la demande pour s'opposer à la
 remise de tout ou partie de ces reproductions par une ordonnance spécialement motivée au regard des risques de pression sur
 les victimes, les personnes mises en examen, leurs avocats, les témoins, les enquêteurs, les experts ou toute autre personne
-concourant à la procédure.
+concourant à la procédure. 
 
-Cette décision est notifiée par tout moyen et sans délai à l'avocat. A défaut de réponse du juge d'instruction notifiée dans
+Cette décision est notifiée par tout moyen et sans délai à l'avocat.A défaut de réponse du juge d'instruction notifiée dans
 le délai imparti, l'avocat peut communiquer à son client la reproduction des pièces ou actes dont il avait fourni la liste.
 Il peut, dans les deux jours de sa notification, déférer la décision du juge d'instruction au président de la chambre de
 l'instruction, qui statue dans un délai de cinq jours ouvrables par une décision écrite et motivée, non susceptible de
-recours. A défaut de réponse notifiée dans le délai imparti, l'avocat peut communiquer à son client la reproduction des
-pièces ou actes mentionnés sur la liste.
+recours.A défaut de réponse notifiée dans le délai imparti, l'avocat peut communiquer à son client la reproduction des pièces
+ou actes mentionnés sur la liste. 
 
 Les modalités selon lesquelles ces documents peuvent être remis par son avocat à une personne détenue et les conditions dans
-lesquelles cette personne peut détenir ces documents sont déterminées par décret en Conseil d'Etat.
+lesquelles cette personne peut détenir ces documents sont déterminées par décret en Conseil d'Etat. 
 
 Par dérogation aux dispositions des huitième et neuvième alinéas, l'avocat d'une partie civile dont la recevabilité fait
 l'objet d'une contestation ne peut transmettre à son client une reproduction des pièces ou actes de la procédure sans
@@ -9053,7 +9140,11 @@ transmettre la reproduction de pièces ou actes de la procédure à son client.
 
 	**Modifié par**:
 
-	  - Loi n°2004-204 du 9 mars 2004 - art. 126 () JORF 10 mars 2004
+	  - Loi n°2007-291 du 5 mars 2007 - art. 18 () JORF 6 mars 2007 en vigueur le 1er juillet 2007
+
+	**Cite**:
+
+	  - Code de procédure pénale - art. 803-1 (V)
 
 
 ###### Article 114-1
@@ -9126,14 +9217,14 @@ deuxième et troisième alinéas. Pendant ce délai, la désignation est tenue p
 ###### Article 116
 
 Lorsqu'il envisage de mettre en examen une personne qui n'a pas déjà été entendue comme témoin assisté, le juge d'instruction
-procède à sa première comparution selon les modalités prévues par le présent article.
+procède à sa première comparution selon les modalités prévues par le présent article. 
 
 Le juge d'instruction constate l'identité de la personne et lui fait connaître expressément, en précisant leur qualification
 juridique, chacun des faits dont il est saisi et pour lesquels la mise en examen est envisagée. Mention de ces faits et de
-leur qualification juridique est portée au procès-verbal.
+leur qualification juridique est portée au procès-verbal. 
 
 Lorsqu'il a été fait application des dispositions de l'article 80-2 et que la personne est assistée d'un avocat, le juge
-d'instruction procède à son interrogatoire ; l'avocat de la personne peut présenter ses observations au juge d'instruction.
+d'instruction procède à son interrogatoire ; l'avocat de la personne peut présenter ses observations au juge d'instruction. 
 
 Dans les autres cas, le juge d'instruction avise la personne de son droit de choisir un avocat ou de demander qu'il lui en
 soit désigné un d'office. L'avocat choisi ou, dans le cas d'une demande de commission d'office, le bâtonnier de l'ordre des
@@ -9142,7 +9233,7 @@ personne est avisée de son droit de demander qu'il lui en soit désigné un d'o
 comparution. L'avocat peut consulter sur-le-champ le dossier et communiquer librement avec la personne. Le juge d'instruction
 avertit ensuite la personne qu'elle a le choix soit de se taire, soit de faire des déclarations, soit d'être interrogée.
 Mention de cet avertissement est faite au procès-verbal. L'accord pour être interrogé ne peut être donné qu'en présence d'un
-avocat. L'avocat de la personne peut également présenter ses observations au juge d'instruction.
+avocat. L'avocat de la personne peut également présenter ses observations au juge d'instruction. 
 
 Après avoir, le cas échéant, recueilli les déclarations de la personne ou procédé à son interrogatoire et entendu les
 observations de son avocat, le juge d'instruction lui notifie :
@@ -9153,21 +9244,21 @@ témoin assisté ;
 - soit qu'elle est mise en examen ; le juge d'instruction porte alors à la connaissance de la personne les faits ou la
 qualification juridique des faits qui lui sont reprochés, si ces faits ou ces qualifications diffèrent de ceux qui lui ont
 déjà été notifiés ; il l'informe de ses droits de formuler des demandes d'actes ou des requêtes en annulation sur le
-fondement des articles 81, 82-1, 82-2, 156 et 173 durant le déroulement de l'information et au plus tard le vingtième jour
-suivant l'avis prévu par le dernier alinéa de l'article 175, sous réserve des dispositions de l'article 173-1.
+fondement des articles 81,82-1,82-2,156 et 173 durant le déroulement de l'information et avant l'expiration du délai d'un
+mois ou de trois mois prévu par le troisième alinéa de l'article 175, sous réserve des dispositions de l'article 173-1.
 
 S'il estime que le délai prévisible d'achèvement de l'information est inférieur à un an en matière correctionnelle ou à dix-
 huit mois en matière criminelle, le juge d'instruction donne connaissance de ce délai prévisible à la personne et l'avise
 qu'à l'expiration dudit délai, elle pourra demander la clôture de la procédure en application des dispositions de l'article
 175-1. Dans le cas contraire, il indique à la personne qu'elle pourra demander, en application de ce même article, la clôture
-de la procédure à l'expiration d'un délai d'un an en matière correctionnelle ou de dix-huit mois en matière criminelle.
+de la procédure à l'expiration d'un délai d'un an en matière correctionnelle ou de dix-huit mois en matière criminelle. 
 
 A l'issue de la première comparution, la personne doit déclarer au juge d'instruction son adresse personnelle. Elle peut
 toutefois lui substituer l'adresse d'un tiers chargé de recevoir les actes qui lui sont destinés si elle produit l'accord de
 ce dernier. L'adresse déclarée doit être située, si l'information se déroule en métropole, dans un département métropolitain
 ou, si l'information se déroule dans un département d'outre-mer, dans ce département. Cette déclaration est faite devant le
 juge des libertés et de la détention lorsque ce magistrat, saisi par le juge d'instruction, décide de ne pas placer la
-personne en détention.
+personne en détention. 
 
 La personne est avisée qu'elle doit signaler au juge d'instruction jusqu'au règlement de l'information, par nouvelle
 déclaration ou par lettre recommandée avec demande d'avis de réception, tout changement de l'adresse déclarée. Elle est
@@ -9207,17 +9298,16 @@ le juge des libertés et de la détention lorsque celui-ci décide de ne pas pla
 
 	**Modifié par**:
 
-	  - Loi n°2000-1354 du 30 décembre 2000 - art. 12 () JORF 31 décembre 2000 en vigueur le 1er janvier 2001
+	  - Loi n°2007-291 du 5 mars 2007 - art. 19 () JORF 6 mars 2007 en vigueur le 1er juillet 2007
 
 	**Cite**:
 
-	  - CODE DE PROCEDURE PENALE - art. 156 (M)
-	  - CODE DE PROCEDURE PENALE - art. 173 (M)
-	  - CODE DE PROCEDURE PENALE - art. 173-1 (M)
-	  - CODE DE PROCEDURE PENALE - art. 175 (M)
-	  - CODE DE PROCEDURE PENALE - art. 81 (M)
-	  - CODE DE PROCEDURE PENALE - art. 82-1 (M)
-	  - CODE DE PROCEDURE PENALE - art. 82-2 (V)
+	  - Code de procédure pénale - art. 156 (V)
+	  - Code de procédure pénale - art. 173 (V)
+	  - Code de procédure pénale - art. 173-1 (V)
+	  - Code de procédure pénale - art. 175 (VT)
+	  - Code de procédure pénale - art. 81 (V)
+	  - Code de procédure pénale - art. 82-1 (V)
 
 
 ###### Article 117
@@ -9344,6 +9434,34 @@ dossier.
 	  - CODE DE PROCEDURE PENALE - art. 463 (V)
 	  - CODE DE PROCEDURE PENALE - art. 538 (M)
 	  - Code de procédure pénale - art. 82-2 (V)
+
+
+###### Article 120-1
+
+Lorsque la personne mise en examen ou le témoin assisté sont mis en cause par plusieurs personnes, ils peuvent demander,
+conformément au premier alinéa de l'article 82-1 ou au deuxième alinéa de l'article 113-3, à être confrontés séparément avec
+chacune d'entre elles. Le juge d'instruction statue sur ces demandes conformément au deuxième alinéa de l'article 82-1. Le
+refus d'une demande de confrontation individuelle ne peut être motivé par la seule raison qu'une confrontation collective est
+organisée.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°57-1426 1957-12-31
+
+	**Créé par**:
+
+	  - Loi n°2007-291 du 5 mars 2007 - art. 17 () JORF 6 mars 2007 en vigueur le 1er juillet 2007
+
+	**Cite**:
+
+	  - Code de procédure pénale - art. 113-3 (V)
+	  - Code de procédure pénale - art. 82-1 (V)
+
+	**Cité par**:
+
+	  - Code de procédure pénale - art. D591 (V)
 
 
 ###### Article 121
@@ -9881,26 +9999,26 @@ d'enquête saisi des faits.
 ###### Article 135-2
 
 Si la personne faisant l'objet d'un mandat d'arrêt est découverte après le règlement de l'information, il est procédé selon
-les dispositions du présent article.
+les dispositions du présent article. 
 
 Le procureur de la République du lieu de l'arrestation est avisé dès le début de la rétention de la personne par les services
 de police ou de gendarmerie. Pendant cette rétention, il est fait application des dispositions des articles 63-2 et 63-3. La
-rétention ne peut durer plus de vingt-quatre heures.
+rétention ne peut durer plus de vingt-quatre heures. 
 
 La personne est conduite dans les meilleurs délais et au plus tard dans les vingt-quatre heures de son arrestation devant le
 procureur de la République du tribunal de grande instance dans le ressort duquel siège la juridiction de jugement saisie des
 faits. Après avoir vérifié son identité et lui avoir notifié le mandat, ce magistrat la présente devant le juge des libertés
-et de la détention.
+et de la détention. 
 
 Le juge des libertés et de la détention peut, sur les réquisitions du procureur de la République, soit placer la personne
 sous contrôle judiciaire, soit ordonner son placement en détention provisoire jusqu'à sa comparution devant la juridiction de
 jugement, par ordonnance motivée conformément aux dispositions de l'article 144, rendue à l'issue d'un débat contradictoire
-organisé conformément aux dispositions des quatrième à huitième alinéas de l'article 145. Si la personne est placée en
+organisé conformément aux dispositions des quatrième à neuvième alinéas de l'article 145. Si la personne est placée en
 détention, les délais prévus par les quatrième et cinquième alinéas de l'article 179 et par les huitième et neuvième alinéas
 de l'article 181 sont alors applicables et courent à compter de l'ordonnance de placement en détention. La décision du juge
 des libertés et de la détention peut faire, dans les dix jours de sa notification, l'objet d'un appel devant la chambre des
 appels correctionnels si la personne est renvoyée devant le tribunal correctionnel et devant la chambre de l'instruction si
-elle est renvoyée devant la cour d'assises.
+elle est renvoyée devant la cour d'assises. 
 
 Si la personne a été arrêtée à plus de 200 kilomètres du siège de la juridiction de jugement et qu'il n'est pas possible de
 la conduire dans le délai de vingt-quatre heures devant le procureur de la République mentionné au troisième alinéa, elle est
@@ -9910,11 +10028,11 @@ mandat à exécution en faisant conduire la personne à la maison d'arrêt et il
 tribunal de grande instance dans le ressort duquel siège la juridiction de jugement. Celui-ci ordonne le transfèrement de la
 personne, qui doit comparaître devant lui dans les quatre jours de la notification du mandat ; ce délai est porté à six jours
 en cas de transfèrement entre un département d'outre-mer et la France métropolitaine ou un autre département d'outre-mer. Il
-est alors procédé conformément aux dispositions des troisième et quatrième alinéas.
+est alors procédé conformément aux dispositions des troisième et quatrième alinéas. 
 
 La présentation devant le juge des libertés et de la détention prévue par les dispositions ci-dessus n'est pas nécessaire si,
 dans les délais prévus pour cette présentation, la personne peut comparaître devant la juridiction de jugement saisie des
-faits.
+faits. 
 
 Les dispositions du présent article sont également applicables aux mandats d'arrêt délivrés après l'ordonnance de règlement.
 Elles ne sont toutefois pas applicables lorsque, postérieurement à la délivrance du mandat d'arrêt décerné au cours de
@@ -9946,16 +10064,14 @@ devant la juridiction de jugement, sans préjudice de son droit de former des de
 
 	**Modifié par**:
 
-	  - Loi n°2005-1549 du 12 décembre 2005 - art. 39 () JORF 13 décembre 2005
+	  - Loi n°2007-291 du 5 mars 2007 - art. 11 () JORF 6 mars 2007 en vigueur le 1er juillet 2007
 
 	**Cite**:
 
-	  - CODE DE PROCEDURE PENALE - art. 144 (M)
-	  - CODE DE PROCEDURE PENALE - art. 145 (MMN)
-	  - CODE DE PROCEDURE PENALE - art. 179 (M)
-	  - CODE DE PROCEDURE PENALE - art. 181 (M)
-	  - CODE DE PROCEDURE PENALE - art. 63-2 (M)
-	  - CODE DE PROCEDURE PENALE - art. 63-3 (M)
+	  - Code de procédure pénale - art. 144 (V)
+	  - Code de procédure pénale - art. 145 (VT)
+	  - Code de procédure pénale - art. 179 (VT)
+	  - Code de procédure pénale - art. 63-2 (V)
 
 
 ###### Article 135-3
@@ -10050,19 +10166,22 @@ révèlent insuffisantes au regard de ces objectifs, elle peut, à titre excepti
 ###### Article 137-1
 
 La détention provisoire est ordonnée ou prolongée par le juge des libertés et de la détention. Les demandes de mise en
-liberté lui sont également soumises.
+liberté lui sont également soumises. 
 
 Le juge des libertés et de la détention est un magistrat du siège ayant rang de président, de premier vice-président ou de
 vice-président. Il est désigné par le président du tribunal de grande instance. En cas d'empêchement du juge des libertés et
 de la détention désigné et d'empêchement du président ainsi que des premiers vice-présidents et des vice-présidents, le juge
 des libertés et de la détention est remplacé par le magistrat du siège le plus ancien dans le grade le plus élevé, désigné
 par le président du tribunal de grande instance. Lorsqu'il statue à l'issue d'un débat contradictoire, il est assisté d'un
-greffier. Il peut alors faire application des dispositions de l'article 93.
+greffier. Il peut alors faire application des dispositions de l'article 93. 
 
-Il ne peut, à peine de nullité, participer au jugement des affaires pénales dont il a connu.
+Il ne peut, à peine de nullité, participer au jugement des affaires pénales dont il a connu. 
 
-Hors le cas prévu par le deuxième alinéa de l'article 137-4,  il est saisi par une ordonnance motivée du juge d'instruction,
-qui lui transmet le dossier de la procédure accompagné des réquisitions du procureur de la République.
+Hors le cas prévu par le deuxième alinéa de l'article 137-4, il est saisi par une ordonnance motivée du juge d'instruction,
+qui lui transmet le dossier de la procédure accompagné des réquisitions du procureur de la République. Lorsque le juge des
+libertés et de la détention doit statuer en application de l'article 145, le juge d'instruction peut indiquer dans son
+ordonnance si la publicité de ce débat lui paraît devoir être écartée au regard d'une ou plusieurs des raisons mentionnées au
+sixième alinéa de cet article.
 
 **Liens relatifs à cet article**
 
@@ -10093,13 +10212,12 @@ qui lui transmet le dossier de la procédure accompagné des réquisitions du pr
 
 	**Modifié par**:
 
-	  - Loi n°2004-204 du 9 mars 2004 - art. 120 () JORF 10 mars 2004
-	  - Loi n°2004-204 du 9 mars 2004 - art. 121 () JORF 10 mars 2004
+	  - Loi n°2007-291 du 5 mars 2007 - art. 10 () JORF 6 mars 2007 en vigueur le 1er juillet 2007
 
 	**Cite**:
 
-	  - CODE DE PROCEDURE PENALE - art. 137-4 (M)
-	  - CODE DE PROCEDURE PENALE - art. 93 (M)
+	  - Code de procédure pénale - art. 137-4 (V)
+	  - Code de procédure pénale - art. 93 (V)
 
 
 ###### Article 137-1-1
@@ -10192,13 +10310,13 @@ dossier de la procédure.
 Lorsque, saisi de réquisitions du procureur de la République tendant au placement en détention provisoire, le juge
 d'instruction estime que cette détention n'est pas justifiée et qu'il décide de ne pas transmettre le dossier de la procédure
 au juge des libertés et de la détention, il est tenu de statuer sans délai par ordonnance motivée, qui est immédiatement
-portée à la connaissance du procureur de la République.
+portée à la connaissance du procureur de la République. 
 
 En matière criminelle ou pour les délits punis de dix ans d'emprisonnement, le procureur de la République peut alors, si les
-réquisitions sont motivées, en tout ou partie, par les motifs prévus aux 2° et 3° de l'article 144 et qu'elles précisent
-qu'il envisage de faire application des dispositions du présent alinéa, saisir directement le juge des libertés et de la
-détention en déférant sans délai devant lui la personne mise en examen ; l'ordonnance rendue par le juge des libertés et de
-la détention entraîne le cas échéant la caducité de l'ordonnance du juge d'instruction ayant placé la personne sous contrôle
+réquisitions sont motivées, en tout ou partie, par les motifs prévus aux 4° à 7° de l'article 144 et qu'elles précisent qu'il
+envisage de faire application des dispositions du présent alinéa, saisir directement le juge des libertés et de la détention
+en déférant sans délai devant lui la personne mise en examen ; l'ordonnance rendue par le juge des libertés et de la
+détention entraîne le cas échéant la caducité de l'ordonnance du juge d'instruction ayant placé la personne sous contrôle
 judiciaire. S'il renonce à saisir directement le juge des libertés et de la détention, le procureur de la République en avise
 le juge d'instruction et la personne peut être laissée en liberté.
 
@@ -10210,17 +10328,17 @@ le juge d'instruction et la personne peut être laissée en liberté.
 
 	**Modifié par**:
 
-	  - Loi n°2004-204 du 9 mars 2004 - art. 121 () JORF 10 mars 2004
-
-	**Cite**:
-
-	  - CODE DE PROCEDURE PENALE - art. 144 (M)
+	  - Loi n°2007-291 du 5 mars 2007 - art. 9 () JORF 6 mars 2007 en vigueur le 1er juillet 2007
 
 	**Cité par**:
 
 	  - Code de procédure pénale - art. 137-1 (VD)
 	  - Code de procédure pénale - art. 82 (V)
 	  - Code de procédure pénale - art. D32-1 (T)
+
+	**Cite**:
+
+	  - Code de procédure pénale - art. 144 (V)
 
 
 ##### Sous-section 1 : Du contrôle judiciaire
@@ -10793,16 +10911,25 @@ en examen se soustrait volontairement aux obligations du contrôle judiciaire.
 
 ###### Article 144
 
-La détention provisoire ne peut être ordonnée ou prolongée que si elle constitue l'unique moyen :
+La détention provisoire ne peut être ordonnée ou prolongée que s'il est démontré, au regard des éléments précis et
+circonstanciés résultant de la procédure, qu'elle constitue l'unique moyen de parvenir à l'un ou plusieurs des objectifs
+suivants et que ceux-ci ne sauraient être atteints en cas de placement sous contrôle judiciaire :
 
-1° De conserver les preuves ou les indices matériels ou d'empêcher soit une pression sur les témoins ou les victimes et leur
-famille, soit une concertation frauduleuse entre personnes mises en examen et complices ;
+1° Conserver les preuves ou les indices matériels qui sont nécessaires à la manifestation de la vérité ;
 
-2° De protéger la personne mise en examen, de garantir son maintien à la disposition de la justice, de mettre fin à
-l'infraction ou de prévenir son renouvellement ;
+2° Empêcher une pression sur les témoins ou les victimes ainsi que sur leur famille ;
 
-3° De mettre fin à un trouble exceptionnel et persistant à l'ordre public provoqué par la gravité de l'infraction, les
-circonstances de sa commission ou l'importance du préjudice qu'elle a causé.
+3° Empêcher une concertation frauduleuse entre la personne mise en examen et ses coauteurs ou complices ;
+
+4° Protéger la personne mise en examen ;
+
+5° Garantir le maintien de la personne mise en examen à la disposition de la justice ;
+
+6° Mettre fin à l'infraction ou prévenir son renouvellement ;
+
+7° Mettre fin au trouble exceptionnel et persistant à l'ordre public provoqué par la gravité de l'infraction, les
+circonstances de sa commission ou l'importance du préjudice qu'elle a causé. Ce trouble ne peut résulter du seul
+retentissement médiatique de l'affaire. Toutefois, le présent alinéa n'est pas applicable en matière correctionnelle.
 
 **Liens relatifs à cet article**
 
@@ -10841,7 +10968,7 @@ circonstances de sa commission ou l'importance du préjudice qu'elle a causé.
 
 	**Modifié par**:
 
-	  - Loi n°2005-1549 du 12 décembre 2005 - art. 33 () JORF 13 décembre 2005
+	  - Loi n°2007-291 du 5 mars 2007 - art. 9 () JORF 6 mars 2007 en vigueur le 1er juillet 2007
 
 
 ###### Article 144-1
@@ -10925,17 +11052,21 @@ d'adresse.
 S'il envisage d'ordonner la détention provisoire de la personne, il l'informe que sa décision ne pourra intervenir qu'à
 l'issue d'un débat contradictoire et qu'elle a le droit de demander un délai pour préparer sa défense.
 
-Si cette personne n'est pas déjà assistée d'un avocat, il l'avise qu'elle a droit à l'assistance d'un avocat de son choix ou
-commis d'office. L'avocat choisi ou, dans le cas d'une demande de commission d'office, le bâtonnier de l'ordre des avocats en
-est avisé par tout moyen et sans délai ; mention de cette formalité est faite au procès-verbal.
+Si cette personne n'est pas déjà assistée d'un avocat, le juge l'avise qu'elle sera défendue lors du débat par un avocat de
+son choix ou, si elle ne choisit pas d'avocat, par un avocat commis d'office. L'avocat choisi ou, dans le cas d'une
+commission d'office, le bâtonnier de l'ordre des avocats en est avisé par tout moyen et sans délai. Si l'avocat choisi ne
+peut se déplacer, il est remplacé par un avocat commis d'office. Mention de ces formalités est faite au procès-verbal.
 
-Le juge des libertés et de la détention statue en audience de cabinet, après un débat contradictoire au cours duquel il
-entend le ministère public qui développe ses réquisitions prises conformément au troisième alinéa de l'article 82 puis les
-observations de la personne mise en examen et, le cas échéant, celles de son avocat. Si la personne majeure mise en examen ou
-son avocat en fait la demande dès l'ouverture de l'audience, le débat contradictoire a lieu en audience publique, sauf si la
-publicité est de nature à entraver les investigations spécifiques nécessitées par l'instruction ou à nuire à la dignité de la
-personne ou aux intérêts d'un tiers. Le juge des libertés et de la détention statue par ordonnance motivée sur cette demande
-de publicité après avoir recueilli les observations du ministère public, de la personne mise en examen et de son avocat.
+Le juge des libertés et de la détention statue après un débat contradictoire au cours duquel il entend le ministère public
+qui développe ses réquisitions prises conformément au troisième alinéa de l'article 82 puis les observations de la personne
+mise en examen et, le cas échéant, celles de son avocat. Si la personne mise en examen est majeure, le débat contradictoire a
+lieu et le juge statue en audience publique. Toutefois, le ministère public, la personne mise en examen ou son avocat peuvent
+s'opposer à cette publicité si l'enquête porte sur des faits visés à l'article 706-73 ou si celle-ci est de nature à entraver
+les investigations spécifiques nécessitées par l'instruction, à porter atteinte à la présomption d'innocence ou à la sérénité
+des débats ou à nuire à la dignité de la personne ou aux intérêts d'un tiers. Le juge statue sur cette opposition en audience
+de cabinet par ordonnance motivée, après avoir recueilli les observations du ministère public, de la personne mise en examen
+et de son avocat. S'il fait droit à cette opposition ou si la personne mise en examen est mineure, le débat a lieu et le juge
+statue en audience de cabinet.
 
 Toutefois, le juge des libertés et de la détention ne peut ordonner immédiatement le placement en détention lorsque la
 personne mise en examen ou son avocat sollicite un délai pour préparer sa défense.
@@ -10945,6 +11076,13 @@ susceptible d'appel, prescrire l'incarcération de la personne pour une durée d
 quatre jours ouvrables. Dans ce délai, il fait comparaître à nouveau la personne et, que celle-ci soit ou non assistée d'un
 avocat, procède comme il est dit au sixième alinéa. S'il n'ordonne pas le placement de la personne en détention provisoire,
 celle-ci est mise en liberté d'office.
+
+Pour permettre au juge d'instruction de procéder à des vérifications relatives à la situation personnelle du mis en examen ou
+aux faits qui lui sont reprochés, lorsque ces vérifications sont susceptibles de permettre le placement de l'intéressé sous
+contrôle judiciaire, le juge des libertés et de la détention peut également décider d'office de prescrire par ordonnance
+motivée l'incarcération provisoire du mis en examen pendant une durée déterminée qui ne saurait excéder quatre jours
+ouvrables jusqu'à la tenue du débat contradictoire. A défaut de débat dans ce délai, la personne est mise en liberté
+d'office. L'ordonnance mentionnée au présent alinéa peut faire l'objet du recours prévu à l'article 187-1.
 
 L'incarcération provisoire est, le cas échéant, imputée sur la durée de la détention provisoire pour l'application des
 articles 145-1 et 145-2. Elle est assimilée à une détention provisoire au sens de l'article 149 du présent code et de
@@ -10986,13 +11124,14 @@ l'article 24 du code pénal (article abrogé, cf. article 716-4 du code de proc�
 
 	**Modifié par**:
 
-	  - Loi n°2000-516 du 15 juin 2000 - art. 52 () JORF 16 juin 2000 en vigueur le 1er janvier 2001
+	  - Loi n°2007-291 du 5 mars 2007 - art. 10 () JORF 6 mars 2007 en vigueur le 1er juillet 2007
 
 	**Cite**:
 
 	  - Code pénal 24
 	  - CODE DE PROCEDURE PENALE - art. 116 (M)
 	  - CODE DE PROCEDURE PENALE - art. 149 (M)
+	  - CODE DE PROCEDURE PENALE - art. 706-73 (M)
 	  - CODE DE PROCEDURE PENALE - art. 82 (M)
 
 
@@ -12381,6 +12520,76 @@ Le juge d'instruction, au cours de ses opérations, peut toujours, s'il l'estime
 	  - SPEC_APPLI: Loi n°57-1426 1956-12-31 art. 18
 
 
+###### Article 161-1
+
+Copie de la décision ordonnant une expertise est adressée sans délai au procureur de la République et aux avocats des
+parties, qui disposent d'un délai de dix jours pour demander au juge d'instruction, selon les modalités prévues par l'avant-
+dernier alinéa de l'article 81, de modifier ou de compléter les questions posées à l'expert ou d'adjoindre à l'expert ou aux
+experts déjà désignés un expert de leur choix figurant sur une des listes mentionnées à l'article 157.
+
+Si le juge ne fait pas droit, dans un délai de dix jours à compter de leur réception, aux demandes prévues au premier alinéa,
+il rend une ordonnance motivée. Cette ordonnance ou l'absence d'ordonnance peut être contestée dans un délai de dix jours
+devant le président de la chambre de l'instruction. Ce dernier statue par décision motivée qui n'est pas susceptible de
+recours.
+
+Le présent article n'est pas applicable lorsque les opérations d'expertise et le dépôt des conclusions par l'expert doivent
+intervenir en urgence et ne peuvent être différés pendant le délai de dix jours prévu au premier alinéa ou lorsque la
+communication prévue au premier alinéa risque d'entraver l'accomplissement des investigations.
+
+Il n'est pas non plus applicable aux catégories d'expertises dont les conclusions n'ont pas d'incidence sur la détermination
+de la culpabilité de la personne mise en examen et dont la liste est fixée par décret.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°57-1426 1957-12-31
+
+	**Créé par**:
+
+	  - Loi n°2007-291 du 5 mars 2007 - art. 18 () JORF 6 mars 2007 en vigueur le 1er juillet 2007
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. 157 (M)
+	  - CODE DE PROCEDURE PENALE - art. 81 (M)
+
+	**Cité par**:
+
+	  - CODE DE PROCEDURE PENALE - art. 167-2 (V)
+	  - Code de procédure pénale - art. 84-1 (V)
+	  - Code de procédure pénale - art. D37 (V)
+	  - Code de procédure pénale - art. D40 (V)
+	  - Code de procédure pénale - art. D591 (V)
+
+
+###### Article 161-2
+
+Si le délai prévu à l'article 161 excède un an, le juge d'instruction peut demander que soit auparavant déposé un rapport
+d'étape qui est notifié aux parties selon les modalités prévues à l'article 167. Les parties peuvent alors adresser en même
+temps à l'expert et au juge leurs observations en vue du rapport définitif.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°57-1426 1957-12-31
+
+	**Créé par**:
+
+	  - Loi n°2007-291 du 5 mars 2007 - art. 18 () JORF 6 mars 2007 en vigueur le 1er juillet 2007
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. 161 (V)
+	  - CODE DE PROCEDURE PENALE - art. 167 (M)
+
+	**Cité par**:
+
+	  - Code de procédure pénale - art. D39 (V)
+	  - Code de procédure pénale - art. D591 (V)
+
+
 ###### Article 162
 
 Si les experts demandent à être éclairés sur une question échappant à leur spécialité, le juge peut les autoriser à
@@ -12509,7 +12718,8 @@ Le rapport et les scellés, ou leurs résidus, sont déposés entre les mains du
 l'expertise ; ce dépôt est constaté par procès-verbal.
 
 Avec l'accord du juge d'instruction, les experts peuvent, directement et par tout moyen, communiquer les conclusions de leur
-rapport aux officiers de police judiciaire chargés de l'exécution de la commission rogatoire.
+rapport aux officiers de police judiciaire chargés de l'exécution de la commission rogatoire, au procureur de la République
+ou aux avocats des parties.
 
 **Liens relatifs à cet article**
 
@@ -12519,7 +12729,8 @@ rapport aux officiers de police judiciaire chargés de l'exécution de la commis
 
 	**Modifié par**:
 
-	  - Loi n°2004-204 du 9 mars 2004 - art. 106 () JORF 10 mars 2004
+	  - Loi n°2003-239 du 18 mars 2003 - art. 16
+	  - Loi n°2007-291 du 5 mars 2007 - art. 18 () JORF 6 mars 2007 en vigueur le 1er juillet 2007
 
 	**Cité par**:
 
@@ -12540,7 +12751,8 @@ leur demande, aux avocats des parties.
 Les conclusions peuvent également être notifiées par lettre recommandée ou, lorsque la personne est détenue, par les soins du
 chef de l'établissement pénitentiaire qui adresse, sans délai, au juge d'instruction l'original ou la copie du récépissé
 signé par l'intéressé. L'intégralité du rapport peut aussi être notifiée, à leur demande, aux avocats des parties par lettre
-recommandée.
+recommandée. Si les avocats des parties ont fait connaître au juge d'instruction qu'ils disposent d'une adresse électronique,
+l'intégralité du rapport peut leur être adressée par cette voie, selon les modalités prévues par l'article 803-1.
 
 Dans tous les cas, le juge d'instruction fixe un délai aux parties pour présenter des observations ou formuler une demande,
 notamment aux fins de complément d'expertise ou de contre-expertise. Cette demande doit être formée conformément aux
@@ -12552,7 +12764,8 @@ objet, y compris sur le fondement de l'article 82-1, sous réserve de la survena
 
 Lorsqu'il rejette une demande, le juge d'instruction rend une décision motivée qui doit intervenir dans un délai d'un mois à
 compter de la réception de la demande. Il en est de même s'il commet un seul expert alors que la partie a demandé qu'il en
-soit désigné plusieurs. Les dispositions du dernier alinéa de l'article 81 sont applicables.
+soit désigné plusieurs. Faute pour le juge d'instruction d'avoir statué dans le délai d'un mois, la partie peut saisir
+directement la chambre de l'instruction.
 
 Le juge d'instruction peut également notifier au témoin assisté, selon les modalités prévues par le présent article, les
 conclusions des expertises qui le concernent en lui fixant un délai pour présenter une demande de complément d'expertise ou
@@ -12567,7 +12780,7 @@ justifiée, sauf si le témoin assisté demande à être mis en examen en applic
 
 	**Modifié par**:
 
-	  - Loi n°2004-204 du 9 mars 2004 - art. 95 () JORF 10 mars 2004 en vigueur le 1er octobre 2004
+	  - Loi n°2007-291 du 5 mars 2007 - art. 18 () JORF 6 mars 2007 en vigueur le 1er juillet 2007
 
 	**Cite**:
 
@@ -12575,6 +12788,7 @@ justifiée, sauf si le témoin assisté demande à être mis en examen en applic
 	  - CODE DE PROCEDURE PENALE - art. 114 (M)
 	  - CODE DE PROCEDURE PENALE - art. 60 (M)
 	  - CODE DE PROCEDURE PENALE - art. 77-1 (M)
+	  - CODE DE PROCEDURE PENALE - art. 803-1 (M)
 	  - CODE DE PROCEDURE PENALE - art. 81 (M)
 	  - CODE DE PROCEDURE PENALE - art. 82-1 (M)
 
@@ -12617,6 +12831,40 @@ contre-expertise demandée par la partie civile est de droit. Elle doit être ac
 	  - Loi n°95-125 du 8 février 1995 - art. 56 () JORF 9 février 1995
 
 
+###### Article 167-2
+
+Le juge d'instruction peut demander à l'expert de déposer un rapport provisoire avant son rapport définitif. Le ministère
+public et les parties disposent alors d'un délai fixé par le juge d'instruction qui ne saurait être inférieur à quinze jours
+ou, s'il s'agit d'une expertise comptable ou financière, à un mois, pour adresser en même temps à l'expert et au juge les
+observations écrites qu'appelle de leur part ce rapport provisoire. Au vu de ces observations, l'expert dépose son rapport
+définitif. Si aucune observation n'est faite, le rapport provisoire est considéré comme le rapport définitif.
+
+Le dépôt d'un rapport provisoire est obligatoire si le ministère public le requiert ou si une partie en a fait la demande
+selon les modalités prévues par l'avant-dernier alinéa de l'article 81 lorsqu'elle est informée de la décision ordonnant
+l'expertise en application de l'article 161-1.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°57-1426 1957-12-31
+
+	**Créé par**:
+
+	  - Loi n°2007-291 du 5 mars 2007 - art. 18 () JORF 6 mars 2007 en vigueur le 1er juillet 2007
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. 161-1 (V)
+	  - CODE DE PROCEDURE PENALE - art. 81 (M)
+
+	**Cité par**:
+
+	  - Code de procédure pénale - art. D39 (V)
+	  - Code de procédure pénale - art. D40 (V)
+	  - Code de procédure pénale - art. D591 (V)
+
+
 ###### Article 168
 
 Les experts exposent à l'audience, s'il y a lieu, le résultat des opérations techniques auxquelles ils ont procédé, après
@@ -12624,28 +12872,30 @@ avoir prêté serment d'apporter leur concours à la justice en leur honneur et 
 ils peuvent consulter leur rapport et ses annexes.
 
 Le président peut soit d'office, soit à la demande du ministère public, des parties ou de leurs conseils, leur poser toutes
-questions rentrant dans le cadre de la mission qui leur a été confiée.
+questions rentrant dans le cadre de la mission qui leur a été confiée. Le ministère public et les avocats des parties peuvent
+également poser directement des questions aux experts selon les modalités prévues par les articles 312 et 442-1.
 
 Après leur exposé, les experts assistent aux débats, à moins que le président ne les autorise à se retirer.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Loi n°57-1426 1957-12-30
-
 	**Modifié par**:
 
-	  - Loi n°72-1226 1972-12-29 art. 12 JORF 30 décembre 1972 en vigueur le 1er janvier 1973
+	  - Loi n°2007-291 du 5 mars 2007 - art. 18 () JORF 6 mars 2007 en vigueur le 1er juillet 2007
 
-	**Liens**:
+	**Cite**:
 
-	  - SPEC_APPLI: Loi n°72-1226 1972-12-29 art. 66
+	  - CODE DE PROCEDURE PENALE - art. 312 (M)
+	  - CODE DE PROCEDURE PENALE - art. 442-1 (V)
 
 	**Cité par**:
 
 	  - CODE DE PROCEDURE PENALE - art. 434 (V)
 	  - CODE DE PROCEDURE PENALE - art. 706-122 (V)
+
+	**Codifié par**:
+
+	  - Loi n°57-1426 1957-12-30
 
 
 ###### Article 169
@@ -12792,7 +13042,7 @@ judiciaire.
 
 Dans les huit jours de la réception du dossier par le greffe de la chambre de l'instruction, le président peut, par
 ordonnance non susceptible de recours, constater que la requête est irrecevable en application du présent article, troisième
-ou quatrième alinéa, de l'article 173-1, des articles 174, premier alinéa, ou 175, deuxième alinéa ; il peut également
+ou quatrième alinéa, de l'article 173-1, des articles 174, premier alinéa, ou 175, quatrième alinéa ; il peut également
 constater l'irrecevabilité de la requête si celle-ci n'est pas motivée. S'il constate l'irrecevabilité de la requête, le
 président de la chambre de l'instruction ordonne que le dossier de l'information soit renvoyé au juge d'instruction ; dans
 les autres cas, il le transmet au procureur général qui procède ainsi qu'il est dit aux articles 194 et suivants.
@@ -12805,7 +13055,7 @@ les autres cas, il le transmet au procureur général qui procède ainsi qu'il e
 
 	**Modifié par**:
 
-	  - Loi n°2004-204 du 9 mars 2004 - art. 95 () JORF 10 mars 2004 en vigueur le 1er octobre 2004
+	  - Loi n°2007-291 du 5 mars 2007 - art. 19 () JORF 6 mars 2007 en vigueur le 1er juillet 2007
 
 	**Cité par**:
 
@@ -12931,23 +13181,36 @@ interrogatoires ultérieurs, jusqu'à l'issue de l'information, sous réserve de
 
 ###### Article 175
 
-Aussitôt que l'information lui paraît terminée, le juge d'instruction en avise les parties et leurs avocats, soit verbalement
-avec émargement au dossier, soit par lettre recommandée. Lorsque la personne est détenue, cet avis peut également être
-notifié par les soins du chef de l'établissement pénitentiaire, qui adresse sans délai au juge d'instruction l'original ou la
-copie du récépissé signé par l'intéressé.
+Aussitôt que l'information lui paraît terminée, le juge d'instruction communique le dossier au procureur de la République et
+en avise en même temps les parties et leurs avocats soit verbalement avec émargement au dossier, soit par lettre recommandée.
+Lorsque la personne est détenue, cet avis peut également être notifié par les soins du chef de l'établissement pénitentiaire,
+qui adresse sans délai au juge d'instruction l'original ou la copie du récépissé signé par l'intéressé.
 
-A l'expiration d'un délai de vingt jours à compter de l'envoi de l'avis prévu à l'alinéa précédent, les parties ne sont plus
-recevables à formuler une demande ou présenter une requête sur le fondement des articles 81, neuvième alinéa, 82-1, 156,
-premier alinéa, et 173, troisième alinéa. Les parties peuvent déclarer renoncer, en présence de leur avocat ou celui-ci
-dûment convoqué, à invoquer ce délai.
+Le procureur de la République dispose alors d'un délai d'un mois si une personne mise en examen est détenue ou de trois mois
+dans les autres cas pour adresser ses réquisitions motivées au juge d'instruction. Copie de ces réquisitions est adressée
+dans le même temps aux avocats des parties par lettre recommandée.
 
-A l'issue de ce délai, le juge d'instruction communique le dossier au procureur de la République. Celui-ci lui adresse ses
-réquisitions dans un délai d'un mois si une personne mise en examen est détenue et de trois mois dans les autres cas.
+Les parties disposent de ce même délai d'un mois ou de trois mois à compter de l'envoi de l'avis prévu au premier alinéa pour
+adresser des observations écrites au juge d'instruction, selon les modalités prévues par l'avant-dernier alinéa de l'article
+81. Copie de ces observations est adressée en même temps au procureur de la République.
 
-Le juge d'instruction qui ne reçoit pas de réquisitions dans le délai prescrit peut rendre l'ordonnance de règlement.
+Dans ce même délai d'un mois ou de trois mois, les parties peuvent formuler des demandes ou présenter des requêtes sur le
+fondement des articles 81, neuvième alinéa, 82-1, 156, premier alinéa, et 173, troisième alinéa. A l'expiration de ce délai,
+elles ne sont plus recevables à formuler ou présenter de telles demandes ou requêtes.
 
-Les dispositions du premier alinéa et, s'agissant des requêtes en nullité, du deuxième alinéa, sont également applicables au
-témoin assisté.
+A l'issue du délai d'un mois ou de trois mois, le procureur de la République et les parties disposent d'un délai de dix jours
+si une personne mise en examen est détenue ou d'un mois dans les autres cas pour adresser au juge d'instruction des
+réquisitions ou des observations complémentaires au vu des observations ou des réquisitions qui leur ont été communiquées.
+
+A l'issue du délai de dix jours ou d'un mois prévu à l'alinéa précédent, le juge d'instruction peut rendre son ordonnance de
+règlement, y compris s'il n'a pas reçu de réquisitions ou d'observations dans le délai prescrit.
+
+Les premier, troisième et cinquième alinéas et, s'agissant des requêtes en nullité, le quatrième alinéa du présent article
+sont également applicables au témoin assisté.
+
+**Nota:**
+
+
 
 **Liens relatifs à cet article**
 
@@ -12984,13 +13247,11 @@ témoin assisté.
 
 	**Modifié par**:
 
-	  - Loi n°2004-204 du 9 mars 2004 - art. 95 () JORF 10 mars 2004 en vigueur le 1er octobre 2004
+	  - Loi n°2007-291 du 5 mars 2007 - art. 19 () JORF 6 mars 2007 en vigueur le 1er juillet 2007
 
 	**Cite**:
 
-	  - CODE DE PROCEDURE PENALE - art. 156 (M)
 	  - CODE DE PROCEDURE PENALE - art. 81 (M)
-	  - CODE DE PROCEDURE PENALE - art. 82-1 (M)
 
 
 ###### Article 175-1
@@ -13263,13 +13524,8 @@ conserve sa force exécutoire ; s'ils ont été décernés, les mandats d'amener
 exécution, sans préjudice de la possibilité pour le juge d'instruction de délivrer un mandat d'arrêt contre le prévenu.
 
 Toutefois, le juge d'instruction peut, par ordonnance distincte spécialement motivée, maintenir le prévenu en détention ou
-sous contrôle judiciaire jusqu'à sa comparution devant le tribunal. En cas de maintien en détention provisoire, les éléments
-de l'espèce expressément énoncés dans l'ordonnance doivent justifier cette mesure particulière par la nécessité d'empêcher
-une pression sur les témoins ou les victimes, de prévenir le renouvellement de l'infraction, de protéger le prévenu ou de
-garantir son maintien à la disposition de la justice. La même ordonnance peut également être prise lorsque l'infraction, en
-raison de sa gravité, des circonstances de sa commission ou de l'importance du préjudice qu'elle a causé, a provoqué un
-trouble exceptionnel et persistant à l'ordre public auquel le maintien en détention provisoire demeure l'unique moyen de
-mettre fin.
+sous contrôle judiciaire jusqu'à sa comparution devant le tribunal. L'ordonnance de maintien en détention provisoire est
+motivée par référence aux 2°, 4°, 5° et 6° de l'article 144.
 
 Le prévenu en détention est immédiatement remis en liberté si le tribunal correctionnel n'a pas commencé à examiner au fond à
 l'expiration d'un délai de deux mois à compter de la date de l'ordonnance de renvoi.
@@ -13282,6 +13538,10 @@ toujours pas été jugé à l'issue de cette nouvelle prolongation, il est remis
 
 Lorsqu'elle est devenue définitive, l'ordonnance mentionnée au premier alinéa couvre, s'il en existe, les vices de la
 procédure.
+
+**Nota:**
+
+
 
 **Liens relatifs à cet article**
 
@@ -13306,11 +13566,12 @@ procédure.
 
 	**Modifié par**:
 
-	  - Loi n°2004-204 du 9 mars 2004 - art. 100 () JORF 10 mars 2004 en vigueur le 1er octobre 2004
+	  - Loi n°2007-291 du 5 mars 2007 - art. 9 () JORF 6 mars 2007 en vigueur le 1er juillet 2007
 
 	**Cite**:
 
 	  - Code pénal - art. 132-78 (V)
+	  - CODE DE PROCEDURE PENALE - art. 144 (M)
 
 
 ###### Article 179-1
@@ -13516,7 +13777,10 @@ application du présent article ainsi que des formes utilisées.
 
 Les ordonnances rendues par le juge d'instruction en vertu de la présente section contiennent les nom, prénoms, date, lieu de
 naissance, domicile et profession de la personne mise en examen. Elles indiquent la qualification légale du fait imputé à
-celle-ci et, de façon précise, les motifs pour lesquels il existe ou non contre elle des charges suffisantes.
+celle-ci et, de façon précise, les motifs pour lesquels il existe ou non contre elle des charges suffisantes. Cette
+motivation est prise au regard des réquisitions du ministère public et des observations des parties qui ont été adressées au
+juge d'instruction en application de l'article 175, en précisant les éléments à charge et à décharge concernant chacune des
+personnes mises en examen.
 
 **Liens relatifs à cet article**
 
@@ -13526,7 +13790,7 @@ celle-ci et, de façon précise, les motifs pour lesquels il existe ou non contr
 
 	**Modifié par**:
 
-	  - Loi n°93-2 du 4 janvier 1993 - art. 191 () JORF 5 janvier 1993 en vigueur le 1er mars 1993
+	  - Loi n°2007-291 du 5 mars 2007 - art. 19 () JORF 6 mars 2007 en vigueur le 1er juillet 2007
 
 	**Cité par**:
 
@@ -13536,6 +13800,10 @@ celle-ci et, de façon précise, les motifs pour lesquels il existe ou non contr
 	  - Code de procédure pénale - art. 213 (VT)
 	  - Code de procédure pénale - art. 327 (V)
 	  - Code de procédure pénale - art. 385 (V)
+
+	**Cite**:
+
+	  - Code de procédure pénale - art. 175 (VT)
 
 
 ##### Section 12 : De l'appel des ordonnances du juge d'instruction ou du juge des libertés et de la détention
@@ -13579,8 +13847,8 @@ les dix jours qui suivent l'ordonnance du juge d'instruction ou du juge des libe
 
 ###### Article 186
 
-Le droit d'appel appartient à la personne mise en examen contre les ordonnances et décisions prévues par les articles 87,
-139, 140, 137-3, 145-1, 145-2, 148, 179, troisième alinéa, et 181.
+Le droit d'appel appartient à la personne mise en examen contre les ordonnances et décisions prévues par les articles 80-1-1,
+87, 139, 140, 137-3, 145-1, 145-2, 148, 167, quatrième alinéa, 179, troisième alinéa, et 181.
 
 La partie civile peut interjeter appel des ordonnances de non-informer, de non-lieu et des ordonnances faisant grief à ses
 intérêts civils. Toutefois, son appel ne peut, en aucun cas, porter sur une ordonnance ou sur la disposition d'une ordonnance
@@ -13622,7 +13890,8 @@ désistement de l'appel formé par l'appelant.
 
 	**Modifié par**:
 
-	  - Loi n°2004-204 du 9 mars 2004 - art. 107 () JORF 10 mars 2004
+	  - Loi n°2007-291 du 5 mars 2007 - art. 17 () JORF 6 mars 2007 en vigueur le 1er juillet 2007
+	  - Loi n°2007-291 du 5 mars 2007 - art. 18 () JORF 6 mars 2007 en vigueur le 1er juillet 2007
 
 	**Cite**:
 
@@ -13632,8 +13901,10 @@ désistement de l'appel formé par l'appelant.
 	  - CODE DE PROCEDURE PENALE - art. 145-1 (M)
 	  - CODE DE PROCEDURE PENALE - art. 145-2 (M)
 	  - CODE DE PROCEDURE PENALE - art. 148 (M)
+	  - CODE DE PROCEDURE PENALE - art. 167 (M)
 	  - CODE DE PROCEDURE PENALE - art. 502 (V)
 	  - CODE DE PROCEDURE PENALE - art. 503 (V)
+	  - CODE DE PROCEDURE PENALE - art. 80-1-1 (AbD)
 	  - CODE DE PROCEDURE PENALE - art. 81 (M)
 	  - CODE DE PROCEDURE PENALE - art. 87 (M)
 
@@ -13641,7 +13912,7 @@ désistement de l'appel formé par l'appelant.
 ###### Article 186-1
 
 Les parties peuvent aussi interjeter appel des ordonnances prévues par le neuvième alinéa de l'article 81, par les articles
-82-1 et 82-3, par le deuxième alinéa de l'article 156 et le quatrième alinéa de l'article 167.
+82-1 et 82-3, et par le deuxième alinéa de l'article 156.
 
 Dans ce cas, le dossier de l'information, ou sa copie établie conformément à l'article 81, est transmis avec l'avis motivé du
 procureur de la République au président de la chambre de l'instruction.
@@ -13661,13 +13932,11 @@ Dans la négative, il ordonne par décision motivée que le dossier de l'informa
 
 	**Modifié par**:
 
-	  - Loi n°2000-516 2000-06-15 art. 22, 83 et 132 JORF 16 juin 2000 en vigueur le 1er janvier 2001
-	  - Loi n°2000-516 du 15 juin 2000 - art. 22 () JORF 16 juin 2000 en vigueur le 1er janvier 2001
+	  - Loi n°2007-291 du 5 mars 2007 - art. 18 () JORF 6 mars 2007 en vigueur le 1er juillet 2007
 
 	**Cite**:
 
 	  - CODE DE PROCEDURE PENALE - art. 156 (M)
-	  - CODE DE PROCEDURE PENALE - art. 167 (M)
 	  - CODE DE PROCEDURE PENALE - art. 82-1 (M)
 	  - CODE DE PROCEDURE PENALE - art. 82-3 (M)
 
@@ -21100,9 +21369,9 @@ observations éventuelles du prévenu ou de son avocat ; l'ordonnance rendue n'e
 
 Il peut placer le prévenu en détention provisoire jusqu'à sa comparution devant le tribunal. L'ordonnance prescrivant la
 détention est rendue suivant les modalités prévues par l'article 137-3, premier alinéa, et doit comporter l'énoncé des
-considérations de droit et de fait qui constituent le fondement de la décision par référence aux dispositions des 1°, 2° et
-3° de l'article 144. Cette décision énonce les faits retenus et saisit le tribunal ; elle est notifiée verbalement au prévenu
-et mentionnée au procès-verbal dont copie lui est remise sur-le-champ. Le prévenu doit comparaître devant le tribunal au plus
+considérations de droit et de fait qui constituent le fondement de la décision par référence aux dispositions des 1° à 6° de
+l'article 144. Cette décision énonce les faits retenus et saisit le tribunal ; elle est notifiée verbalement au prévenu et
+mentionnée au procès-verbal dont copie lui est remise sur-le-champ. Le prévenu doit comparaître devant le tribunal au plus
 tard le troisième jour ouvrable suivant. A défaut, il est mis d'office en liberté.
 
 Si le juge estime que la détention provisoire n'est pas nécessaire, il peut soumettre le prévenu, jusqu'à sa comparution
@@ -21117,10 +21386,6 @@ l'article 141-2 sont applicables.
 
 	  - Ordonnance 58-1296 1958-12-23
 
-	**Modifié par**:
-
-	  - Loi n°2006-399 du 4 avril 2006 - art. 12 () JORF 5 avril 2006
-
 	**Cité par**:
 
 	  - Loi n°2007-224 du 21 février 2007 - art. 19 (V)
@@ -21129,6 +21394,10 @@ l'article 141-2 sont applicables.
 	  - CODE DE PROCEDURE PENALE - art. 823-1 (V)
 	  - Code de procédure pénale - art. 397-7 (V)
 	  - Code de procédure pénale - art. 80 (VT)
+
+	**Modifié par**:
+
+	  - Loi n°2007-291 du 5 mars 2007 - art. 9 () JORF 6 mars 2007 en vigueur le 1er juillet 2007
 
 	**Cite**:
 
@@ -21234,16 +21503,16 @@ compétent dans un délai de trois jours ouvrables, à défaut de quoi le préve
 Dans tous les cas prévus par le présent paragraphe, le tribunal peut, conformément aux dispositions de l'article 141-1,
 placer ou maintenir le prévenu sous contrôle judiciaire. Cette décision est exécutoire par provision. Si le prévenu placé
 sous contrôle judiciaire se soustrait aux obligations qui lui sont imposées, les dispositions du deuxième alinéa de l'article
-141-2 sont applicables.
+141-2 sont applicables. 
 
 Dans les cas prévus par les articles 395 et suivants, le tribunal peut également placer ou maintenir le prévenu en détention
 provisoire par décision spécialement motivée. La décision prescrivant la détention est rendue suivant les modalités prévues
-par les articles 135, 137-3, premier alinéa et 464-1 et est motivée par référence aux dispositions des 1°, 2° et 3° de
-l'article 144. Elle est exécutoire par provision.
+par les articles 135, 137-3, premier alinéa et 464-1 et est motivée par référence aux dispositions des 1° à 6° de l'article
+144. Elle est exécutoire par provision. 
 
 Lorsque le prévenu est en détention provisoire, le jugement au fond doit être rendu dans les deux mois qui suivent le jour de
 sa première comparution devant le tribunal. Faute de décision au fond à l'expiration de ce délai, il est mis fin à la
-détention provisoire. Le prévenu, s'il n'est pas détenu pour une autre cause, est mis d'office en liberté.
+détention provisoire. Le prévenu, s'il n'est pas détenu pour une autre cause, est mis d'office en liberté. 
 
 Lorsqu'il a été fait application des dispositions du deuxième alinéa de l'article 397-1, le délai prévu à l'alinéa précédent
 est porté à quatre mois.
@@ -21256,17 +21525,18 @@ est porté à quatre mois.
 
 	**Modifié par**:
 
-	  - Loi n°2006-399 du 4 avril 2006 - art. 12 () JORF 5 avril 2006
+	  - Loi n°2007-291 du 5 mars 2007 - art. 9 () JORF 6 mars 2007 en vigueur le 1er juillet 2007
 
 	**Cite**:
 
-	  - CODE DE PROCEDURE PENALE - art. 135 (M)
-	  - CODE DE PROCEDURE PENALE - art. 137-3 (V)
-	  - CODE DE PROCEDURE PENALE - art. 141-1 (AbD)
-	  - CODE DE PROCEDURE PENALE - art. 141-2 (M)
-	  - CODE DE PROCEDURE PENALE - art. 144 (M)
-	  - CODE DE PROCEDURE PENALE - art. 395 (M)
-	  - CODE DE PROCEDURE PENALE - art. 397-1 (M)
+	  - Code de procédure pénale - art. 135 (V)
+	  - Code de procédure pénale - art. 137-3 (V)
+	  - Code de procédure pénale - art. 141-1 (VT)
+	  - Code de procédure pénale - art. 141-2 (VT)
+	  - Code de procédure pénale - art. 144 (V)
+	  - Code de procédure pénale - art. 395 (V)
+	  - Code de procédure pénale - art. 397-1 (V)
+	  - Code de procédure pénale - art. 464-1 (V)
 
 	**Cité par**:
 
@@ -39410,35 +39680,57 @@ d'Etat. Ce décret précise également les conditions de leur indemnisation.
 	  - CODE DE PROCEDURE PENALE - art. 706-50 (V)
 
 
+###### Article 706-51-1
+
+Tout mineur victime d'une des infractions mentionnées à l'article 706-47 est assisté par un avocat lorsqu'il est entendu par
+le juge d'instruction. A défaut de désignation d'un avocat par les représentants légaux du mineur ou par l'administrateur ad
+hoc, le juge avise immédiatement le bâtonnier afin qu'il commette un avocat d'office. Les dispositions de l'article 114 sont
+applicables à cet avocat en cas d'auditions ultérieures.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 58-1296 1958-12-23
+
+	**Créé par**:
+
+	  - Loi n°2007-291 du 5 mars 2007 - art. 26 () JORF 6 mars 2007 en vigueur le le 1er juillet 2007
+
+	**Cite**:
+
+	  - Code de procédure pénale - art. 706-47 (V)
+
+
 ###### Article 706-52
 
 Au cours de l'enquête et de l'information, l'audition d'un mineur victime de l'une des infractions mentionnées à l'article
-706-47 fait, avec son consentement ou, s'il n'est pas en état de le donner, celui de son représentant légal, l'objet d'un
-enregistrement audiovisuel.
+706-47 fait l'objet d'un enregistrement audiovisuel. 
 
-L'enregistrement prévu à l'alinéa précédent peut être exclusivement sonore si le mineur ou son représentant légal en fait la
-demande.
-
-Lorsque le procureur de la République ou le juge d'instruction décide de ne pas procéder à cet enregistrement, cette décision
-doit être motivée.
+L'enregistrement prévu à l'alinéa précédent peut être exclusivement sonore sur décision du procureur de la République ou du
+juge d'instruction, si l'intérêt du mineur le justifie. 
 
 Le procureur de la République, le juge d'instruction ou l'officier de police judiciaire chargé de l'enquête ou agissant sur
 commission rogatoire peut requérir toute personne qualifiée pour procéder à cet enregistrement. Les dispositions de l'article
-60 sont applicables à cette personne, qui est tenue au secret professionnel dans les conditions de l'article 11.
+60 sont applicables à cette personne, qui est tenue au secret professionnel dans les conditions de l'article 11. 
 
 Il est par ailleurs établi une copie de l'enregistrement aux fins d'en faciliter la consultation ultérieure au cours de la
-procédure. Cette copie est versée au dossier. L'enregistrement original est placé sous scellés fermés.
+procédure. Cette copie est versée au dossier. L'enregistrement original est placé sous scellés fermés. 
 
 Sur décision du juge d'instruction, l'enregistrement peut être visionné ou écouté au cours de la procédure. La copie de ce
 dernier peut toutefois être visionnée ou écoutée par les parties, les avocats ou les experts, en présence du juge
-d'instruction ou d'un greffier.
+d'instruction ou d'un greffier. 
 
 Les huit derniers alinéas de l'article 114 du code de procédure pénale ne sont pas applicables à l'enregistrement. La copie
 de ce dernier peut toutefois être visionnée par les avocats des parties au palais de justice dans des conditions qui
-garantissent la confidentialité de cette consultation.
+garantissent la confidentialité de cette consultation. 
+
+Lorsque l'enregistrement ne peut être effectué en raison d'une impossibilité technique, il en est fait mention dans le
+procès-verbal d'audition qui précise la nature de cette impossibilité. Si l'audition intervient au cours de l'enquête ou sur
+commission rogatoire, le procureur de la République ou le juge d'instruction en est immédiatement avisé. 
 
 Le fait, pour toute personne, de diffuser un enregistrement ou une copie réalisée en application du présent article est puni
-d'un an d'emprisonnement et de 15 000 euros d'amende.
+d'un an d'emprisonnement et de 15 000 euros d'amende. 
 
 A l'expiration d'un délai de cinq ans à compter de la date de l'extinction de l'action publique, l'enregistrement et sa copie
 sont détruits dans le délai d'un mois.
@@ -39449,10 +39741,6 @@ sont détruits dans le délai d'un mois.
 
 	  - Ordonnance 58-1296 1958-12-23
 
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°98-468 du 17 juin 1998 - art. 48 (V)
-
 	**Cité par**:
 
 	  - Loi n°98-468 du 17 juin 1998 - art. 48 (V)
@@ -39462,14 +39750,13 @@ sont détruits dans le délai d'un mois.
 
 	**Modifié par**:
 
-	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+	  - Loi n°2007-291 du 5 mars 2007 - art. 27 () JORF 6 mars 2007 en vigueur le 1er juillet 2007
 
 	**Cite**:
 
-	  - CODE DE PROCEDURE PENALE - art. 11 (M)
-	  - CODE DE PROCEDURE PENALE - art. 114 (M)
-	  - CODE DE PROCEDURE PENALE - art. 60 (M)
-	  - CODE DE PROCEDURE PENALE - art. 706-47 (T)
+	  - Code de procédure pénale - art. 11 (V)
+	  - Code de procédure pénale - art. 114 (V)
+	  - Code de procédure pénale - art. 706-47 (V)
 
 
 ###### Article 706-53
@@ -40713,7 +41000,7 @@ trouvant reliés par des moyens de télécommunications garantissant la confiden
 conditions, la présentation aux fins de prolongation de la garde à vue ou de la retenue judiciaire peut être réalisée par
 l'utilisation de moyens de télécommunication audiovisuelle. Il est alors dressé, dans chacun des lieux, un procès-verbal des
 opérations qui y ont été effectuées. Ces opérations peuvent faire l'objet d'un enregistrement audiovisuel ou sonore, les
-dispositions des quatrième à neuvième alinéas de l'article 706-52 sont alors applicables.
+dispositions des troisième à huitième alinéas de l'article 706-52 sont alors applicables.
 
 Les dispositions de l'alinéa précédent prévoyant l'utilisation d'un moyen de télécommunication audiovisuelle sont applicables
 devant la juridiction de jugement pour l'audition des témoins, des parties civiles et des experts.
@@ -40743,7 +41030,7 @@ Un décret en Conseil d'Etat précise, en tant que de besoin, les modalités d'a
 
 	**Modifié par**:
 
-	  - Loi n°2007-297 du 5 mars 2007 - art. 70 () JORF 7 mars 2007
+	  - Loi n°2007-291 du 5 mars 2007 - art. 28 () JORF 6 mars 2007 en vigueur le 1er juillet 2007
 
 	**Cite**:
 
@@ -50073,15 +50360,26 @@ et, d'une façon générale, règle tout ce qui touche aux frais de justice en m
 Nonobstant toutes dispositions contraires, les frais de justice criminelle, correctionnelle et de police sont à la charge de
 l'Etat et sans recours envers les condamnés.
 
+Toutefois, lorsqu'il est fait application des articles 177-2 ou 212-2 à l'encontre de la partie civile dont la constitution a
+été jugée abusive ou dilatoire, les frais de justice correspondant aux expertises ordonnées à la demande de cette dernière
+peuvent, selon les modalités prévues par ces articles, être mis à la charge de celle-ci par le juge d'instruction ou la
+chambre de l'instruction. Le présent alinéa n'est pas applicable en matière criminelle et en matière de délits contre les
+personnes prévus par le livre II du code pénal ou lorsque la partie civile a obtenu l'aide juridictionnelle.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Ordonnance 58-1296 1958-12-23
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°93-2 du 4 janvier 1993 - art. 120 () JORF 5 janvier 1993 en vigueur le 1er mars 1993
+	  - Loi n°2007-291 du 5 mars 2007 - art. 21 () JORF 6 mars 2007 en vigueur le 1er juillet 2007
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. 177-2 (M)
+	  - CODE DE PROCEDURE PENALE - art. 212-2 (V)
 
 	**Cité par**:
 
@@ -50197,7 +50495,8 @@ audiovisuel.
 
 Dans les cas où, en vertu des dispositions du présent code, il est prévu de procéder aux notifications à un avocat par lettre
 recommandée ou par lettre recommandée avec demande d'avis de réception, la notification peut aussi être faite sous la forme
-d'une télécopie avec récépissé.
+d'une télécopie avec récépissé ou par un envoi adressé par un moyen de télécommunication à l'adresse électronique de l'avocat
+et dont il est conservé une trace écrite.
 
 **Liens relatifs à cet article**
 
@@ -50205,9 +50504,9 @@ d'une télécopie avec récépissé.
 
 	  - Ordonnance 58-1296 1958-12-23
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°99-515 du 23 juin 1999 - art. 27 () JORF 24 juin 1999
+	  - Loi n°2007-291 du 5 mars 2007 - art. 18 () JORF 6 mars 2007 en vigueur le 1er juillet 2007
 
 	**Cité par**:
 
@@ -78128,6 +78427,50 @@ d'enregistrement.
 	**Cite**:
 
 	  - Code de procédure pénale - art. 155 (V)
+
+
+##### Section 9 : De l'expertise
+
+###### Article D37
+
+Les dispositions de l'article 161-1 ne sont pas applicables aux expertises médicales dont l'objet est d'apprécier
+l'importance du dommage subi par la victime.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°58-1304 1958-12-23
+
+	**Créé par**:
+
+	  - Décret n°2007-699 du 3 mai 2007 - art. 5 () JORF 5 mai 2007 en vigueur le 1er juillet 2007
+
+	**Cite**:
+
+	  - Code de procédure pénale - art. 161-1 (V)
+
+
+###### Article D38
+
+Lorsque l'expert désigné par le juge d'instruction appartient à une association visée aux articles 2-1 à 2-21 et que
+l'information porte sur des faits pour lesquels cette association peut se constituer partie civile, il est tenu de déclarer
+cette appartenance au juge d'instruction dès réception de l'ordonnance de désignation. Si le juge maintient la désignation de
+l'expert, la déclaration d'appartenance est mentionnée dans le rapport d'expertise.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°58-1304 1958-12-23
+
+	**Créé par**:
+
+	  - Décret n°2007-699 du 3 mai 2007 - art. 5 () JORF 5 mai 2007 en vigueur le 1er juillet 2007
+
+	**Cite**:
+
+	  - Code de procédure pénale - art. 2-1 (V)
 
 
 #### Chapitre II : De la chambre d'instruction : juridiction d'instruction du second degré
