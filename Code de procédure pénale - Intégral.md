@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 2007-07-01
+Version Consolidée au 2007-07-25
 
 # Partie législative
 
@@ -108148,6 +108148,39 @@ Quartier des mineurs de la maison d'arrêt de Villepinte (Seine-Saint-Denis).
 	**Cite**:
 
 	  - CODE DE PROCEDURE PENALE - art. R57-9-11 (V)
+
+
+### Titre X : Des frais de justice
+
+###### Article A43-4
+
+I. - Conformément aux dispositions de l'article R. 213-1, les réquisitions adressées dans les conditions prévues au présent
+code ayant pour objet la production et la fourniture des données mentionnées à l'article R. 10-13 du code des postes et des
+communications électroniques donnent lieu à remboursement aux opérateurs de communications électroniques, sur facture et
+justificatifs, en appliquant à ces réquisitions, pour chacune des prestations demandées, le montant hors taxe des tarifs
+fixés dans les tableaux annexés au présent article (tableaux non reproduits, voir fac-similé).
+
+II. - Pour les prestations ne figurant pas dans les tableaux annexés, le montant du remboursement prévu au I est déterminé
+sur devis.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Arrêté 1959-02-27
+
+	**Créé par**:
+
+	  - Arrêté 2007-06-29 art. 2 JORF 25 juillet 2007
+
+	**Cite**:
+
+	  - Code des postes et des communications électronique - art. R10-13 (V)
+	  - CODE DE PROCEDURE PENALE - art. R213-1 (Ab)
+
+	**Anciens textes**:
+
+	  - CODE DE PROCEDURE PENALE - art. A43-2 (T)
 
 
 ### Titre XI : Le service pénitentiaire d'insertion et de probation
