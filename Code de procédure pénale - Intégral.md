@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 2007-07-25
+Version Consolidée au 2007-08-03
 
 # Partie législative
 
@@ -66478,7 +66478,7 @@ Le délégué à la liberté surveillée désigné par ce magistrat exerce alors
 	  - Code de procédure pénale - art. R289 (V)
 
 
-### Titre V : Du suivi socio-judiciaire
+### Titre VII bis : Du suivi socio-judiciaire
 
 #### Chapitre Ier : Dispositions communes
 
@@ -66507,13 +66507,13 @@ L'accomplissement de ces formalités est constaté par procès-verbal dont une c
 
 	  - Décret n°59-318 1959-02-23
 
-	**Modifié par**:
-
-	  - Décret n°99-571 du 7 juillet 1999 - art. 1 () JORF 9 juillet 1999
-
 	**Liens**:
 
 	  - SPEC_APPLI: Décret n°99-571 du 7 juillet 1999 - art. 3 (M)
+
+	**Modifié par**:
+
+	  - Décret n°2007-1169 du 1 août 2007 - art. 1 () JORF 3 août 2007
 
 	**Cite**:
 
@@ -66547,13 +66547,13 @@ prévues à l'article 503.
 
 	  - Décret n°59-318 1959-02-23
 
-	**Modifié par**:
-
-	  - Décret n°99-571 du 7 juillet 1999 - art. 1 () JORF 9 juillet 1999
-
 	**Liens**:
 
 	  - SPEC_APPLI: Décret n°99-571 du 7 juillet 1999 - art. 3 (M)
+
+	**Modifié par**:
+
+	  - Décret n°2007-1169 du 1 août 2007 - art. 1 () JORF 3 août 2007
 
 	**Cite**:
 
@@ -66580,13 +66580,13 @@ l'application des dispositions du dernier alinéa de l'article 763-5.
 
 	  - Décret n°59-318 1959-02-23
 
-	**Modifié par**:
-
-	  - Décret n°99-571 du 7 juillet 1999 - art. 1 () JORF 9 juillet 1999
-
 	**Liens**:
 
 	  - SPEC_APPLI: Décret n°99-571 du 7 juillet 1999 - art. 3 (M)
+
+	**Modifié par**:
+
+	  - Décret n°2007-1169 du 1 août 2007 - art. 1 () JORF 3 août 2007
 
 	**Cite**:
 
@@ -66615,20 +66615,20 @@ cours de l'exécution de la peine privative de liberté.
 
 	  - Décret n°59-318 1959-02-23
 
-	**Modifié par**:
-
-	  - Décret n°99-571 du 7 juillet 1999 - art. 1 () JORF 9 juillet 1999
-
 	**Liens**:
 
 	  - SPEC_APPLI: Décret n°99-571 du 7 juillet 1999 - art. 3 (M)
+
+	**Modifié par**:
+
+	  - Décret n°2007-1169 du 1 août 2007 - art. 1 () JORF 3 août 2007
 
 	**Cité par**:
 
 	  - Code de procédure pénale - art. R61-4 (V)
 
 
-#### Chapitre II : Dispositions particulières applicables aux personnes exécutant une peine privative de liberté.
+#### Chapitre II : Dispositions particulières applicables aux personnes exécutant une peine privative de liberté
 
 ###### Article R61-4
 
@@ -66651,13 +66651,13 @@ rappel des obligations auxquelles le condamné est soumis.
 
 	  - Décret n°59-318 1959-02-23
 
-	**Modifié par**:
-
-	  - Décret n°99-571 du 7 juillet 1999 - art. 1 () JORF 9 juillet 1999
-
 	**Liens**:
 
 	  - SPEC_APPLI: Décret n°99-571 du 7 juillet 1999 - art. 3 (M)
+
+	**Modifié par**:
+
+	  - Décret n°2007-1169 du 1 août 2007 - art. 1 () JORF 3 août 2007
 
 	**Cite**:
 
@@ -66672,7 +66672,7 @@ trouve en permission de sortir, ou est placé sous le régime de la semi-libert�
 ou d'un placement sous surveillance électronique ne s'impute pas sur la durée du suivi socio-judiciaire. Le juge de
 l'application des peines peut décider que les obligations résultant de l'injonction de soins ne seront pas applicables si
 leur mise en oeuvre s'avère incompatible avec la mesure d'aménagement dont bénéficie l'intéressé, notamment en raison de la
-brièveté de la sortie de l'établissement pénitentiaire.
+brièveté de la sortie de l'établissement pénitentiaire. 
 
 En cas de violation des obligations du suivi socio-judiciaire au cours d'une permission de sortir, d'un placement en semi-
 liberté, d'un placement à l'extérieur ou d'un placement sous surveillance électronique, les sanctions attachées à ces mesures
@@ -66685,22 +66685,22 @@ alinéa de l'article 763-5.
 
 	  - Décret n°59-318 1959-02-23
 
-	**Modifié par**:
-
-	  - Décret n°99-571 du 7 juillet 1999 - art. 1 () JORF 9 juillet 1999
-
 	**Liens**:
 
 	  - SPEC_APPLI: Décret n°99-571 du 7 juillet 1999 - art. 3 (M)
 
-	**Cite**:
+	**Modifié par**:
 
-	  - CODE DE PROCEDURE PENALE - art. 763-5 (M)
+	  - Décret n°2007-1169 du 1 août 2007 - art. 1 () JORF 3 août 2007
 
 	**Cité par**:
 
 	  - Code de la santé publique - art. R355-55 (Ab)
 	  - Code de la santé publique - art. R3711-24 (V)
+
+	**Cite**:
+
+	  - Code de procédure pénale - art. 763-5 (V)
 
 
 ###### Article R61-6
@@ -66714,13 +66714,1080 @@ l'épreuve ou d'une libération conditionnelle.
 
 	  - Décret n°59-318 1959-02-23
 
-	**Modifié par**:
-
-	  - Décret n°99-571 du 7 juillet 1999 - art. 1 () JORF 9 juillet 1999
-
 	**Liens**:
 
 	  - SPEC_APPLI: Décret n°99-571 du 7 juillet 1999 - art. 3 (M)
+
+	**Modifié par**:
+
+	  - Décret n°2007-1169 du 1 août 2007 - art. 1 () JORF 3 août 2007
+
+
+### Titre VII ter : Des modalités du placement sous surveillance électronique mobile à titre de mesure de sûreté
+
+#### Chapitre Ier : De la commission pluridisciplinaire des mesures de sûreté et de l'examen de dangerosité
+
+###### Article R61-7
+
+La commission pluridisciplinaire des mesures de sûreté instituée à l'article 763-10 exerce sa compétence dans le ressort
+d'une ou de plusieurs cours d'appel. Le nombre, la localisation et la compétence territoriale des commissions sont fixés par
+arrêté du garde des sceaux, ministre de la justice.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-318 1959-02-23
+
+	**Créé par**:
+
+	  - Décret n°2007-1169 du 1 août 2007 - art. 1 () JORF 3 août 2007
+
+	**Cité par**:
+
+	  - Arrêté du 23 août 2007 - art. 1 (Ab)
+	  - Code de procédure pénale - art. A37-16 (V)
+	  - Code de procédure pénale - art. A37-30 (T)
+	  - Code de procédure pénale - art. A37-34 (V)
+	  - Code de procédure pénale - art. D527-1 (V)
+
+	**Cite**:
+
+	  - Code de procédure pénale - art. 763-10 (V)
+
+
+###### Article R61-8
+
+La commission pluridisciplinaire des mesures de sûreté est composée :
+
+1° D'un président de chambre à la cour d'appel désigné pour une durée de cinq ans par le premier président de la cour d'appel
+dans le ressort de laquelle siège la commission, président ;
+
+2° Du préfet de région, préfet de la zone de défense dans le ressort de laquelle siège la commission, ou de son
+représentant ;
+
+3° Du directeur interrégional des services pénitentiaires compétent dans le ressort de la cour d'appel où siège la
+commission, ou de son représentant ;
+
+4° D'un expert psychiatre ;
+
+5° D'un expert psychologue titulaire d'un diplôme d'études supérieures spécialisées ou d'un mastère de psychologie ;
+
+6° D'un représentant d'une association nationale d'aide aux victimes ;
+
+7° D'un avocat, membre du conseil de l'ordre.
+
+Les personnes mentionnées aux 4° à 7° sont désignées conjointement, pour une durée de cinq ans, par le premier président et
+le procureur général près la cour d'appel dans le ressort de laquelle siège la commission. L'avocat est désigné sur
+proposition du conseil de l'ordre du barreau du tribunal de grande instance de la ville où siège cette cour.
+
+Le président de la commission a voix prépondérante.
+
+Le secrétariat de la commission est assuré par un greffier désigné par le greffier en chef de la cour d'appel.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-318 1959-02-23
+
+	**Créé par**:
+
+	  - Décret n°2007-1169 du 1 août 2007 - art. 1 () JORF 3 août 2007
+
+	**Cité par**:
+
+	  - CODE DE PROCEDURE PENALE - art. R61-9 (Ab)
+	  - Code de procédure pénale - art. D48-5-2 (V)
+	  - Code de procédure pénale - art. D527-1 (V)
+	  - Code de procédure pénale - art. R61-11 (V)
+
+
+###### Article R61-9
+
+La commission est saisie par le juge de l'application des peines ou par le procureur de la République. Le condamné et son
+conseil ainsi, le cas échéant, que le procureur de la République sont informés par le juge de l'application des peines de
+cette saisine. 
+
+La commission rend un avis motivé dans les trois mois de sa saisine. A défaut d'avis dans ce délai, le juge peut faire
+procéder à l'examen de dangerosité prévu à l'article 763-10. Cet avis est porté à la connaissance du condamné par lettre
+recommandée ou, s'il est détenu, par le chef de l'établissement pénitentiaire. Son avocat et le procureur de la République
+sont informés par le juge de l'application des peines.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-318 1959-02-23
+
+	**Créé par**:
+
+	  - Décret n°2007-1169 du 1 août 2007 - art. 1 () JORF 3 août 2007
+
+	**Cité par**:
+
+	  - CODE DE PROCEDURE PENALE - art. R61-35 (V)
+	  - Code de procédure pénale - art. R61-33 (V)
+
+	**Cite**:
+
+	  - Code de procédure pénale - art. 763-10 (V)
+
+
+###### Article R61-10
+
+La commission peut demander la comparution du condamné avant de donner son avis. Cette comparution peut se faire par un moyen
+de télécommunication conformément aux dispositions de l'article 706-71. Le condamné peut être assisté de son avocat. 
+
+Sur décision de son président, qui en assure la mise en oeuvre, la commission peut également procéder ou faire procéder sur
+l'ensemble du territoire national à tous examens, auditions, enquêtes administratives, expertises ou autres mesures utiles.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-318 1959-02-23
+
+	**Créé par**:
+
+	  - Décret n°2007-1169 du 1 août 2007 - art. 1 () JORF 3 août 2007
+
+	**Cité par**:
+
+	  - CODE DE PROCEDURE PENALE - art. R61-35 (V)
+
+	**Cite**:
+
+	  - Code de procédure pénale - art. 706-71 (VT)
+
+
+###### Article R61-11
+
+L'examen de dangerosité prévu par l'article 763-10 est réalisé par un psychiatre et un psychologue titulaire d'un diplôme
+d'études supérieures spécialisées ou d'un mastère de psychologie, autres que ceux désignés en vertu des 4° et 5° de l'article
+R. 61-8.
+
+Les conclusions de cet examen sont notifiées par lettre recommandée au condamné et à son avocat ou, lorsque la personne est
+détenue, par le chef de l'établissement pénitentiaire qui adresse, sans délai, au juge de l'application des peines l'original
+ou la copie du récépissé signé par l'intéressé. Une copie de l'intégralité du rapport est remise à sa demande à l'avocat.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-318 1959-02-23
+
+	**Créé par**:
+
+	  - Décret n°2007-1169 du 1 août 2007 - art. 1 () JORF 3 août 2007
+
+	**Cité par**:
+
+	  - CODE DE PROCEDURE PENALE - art. R61-34 (V)
+	  - CODE DE PROCEDURE PENALE - art. R61-35 (V)
+
+	**Cite**:
+
+	  - Code de procédure pénale - art. 763-10 (V)
+	  - Code de procédure pénale - art. R61-8 (V)
+
+
+#### Chapitre II : Du traitement automatisé relatif au contrôle des personnes placées sous surveillance électronique mobile
+
+###### Article R61-12
+
+Le traitement automatisé de données à caractère personnel prévu par l'article 763-13 est mis en oeuvre par le directeur de
+l'administration pénitentiaire du ministère de la justice.
+
+Ce traitement est placé sous le contrôle d'un magistrat du parquet hors hiérarchie, nommé pour trois ans par arrêté du garde
+des sceaux, ministre de la justice.
+
+Il a pour finalité d'assurer le contrôle à distance, par un centre de surveillance, de la localisation ainsi que le suivi des
+personnes majeures condamnées placées sous surveillance électronique mobile dans le cadre d'une mesure de suivi socio-
+judiciaire, de surveillance judiciaire ou de libération conditionnelle.
+
+A cet effet, ce traitement permet :
+
+1° D'alerter l'administration pénitentiaire de ce qu'une personne placée sous surveillance électronique mobile se trouve dans
+un lieu dont la fréquentation lui est interdite dénommé "zone d'exclusion" ou à proximité d'un tel lieu, dans une zone
+dénommée "zone tampon" ou ne se trouve plus dans un lieu qui lui a été assigné, dénommé "zone d'inclusion" ;
+
+2° De connaître la localisation d'une personne lorsque l'alerte prévue au 1° est intervenue, aux fins de permettre le cas
+échéant sa recherche et son interpellation en cas de non-respect de ses obligations ;
+
+3° De connaître la localisation d'une personne, même en l'absence de l'alerte prévue au 1°, à la demande du juge
+d'instruction ou des officiers de police judiciaire spécialement habilités dans le cadre de recherches relatives à un crime
+ou un délit ;
+
+4° De connaître de façon différée les lieux dans lesquels s'est trouvée une personne placée sous surveillance électronique
+mobile.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-318 1959-02-23
+
+	**Créé par**:
+
+	  - Décret n°2007-1169 du 1 août 2007 - art. 1 () JORF 3 août 2007
+
+	**Cité par**:
+
+	  - Décret n°2012-268 du 24 février 2012 - art. 1 (V)
+	  - Décret n°2012-268 du 24 février 2012 - art. 5 (V)
+	  - Décret n°2012-268 du 24 février 2012 - art. 8 (V)
+	  - Décret n°2016-261 du 3 mars 2016 - art. 2
+	  - Code de procédure pénale - art. D32-15 (V)
+	  - Code de procédure pénale - art. R61-13 (V)
+	  - Code de procédure pénale - art. R61-17 (V)
+	  - Code de procédure pénale - art. R61-19 (M)
+	  - Code de procédure pénale - art. R61-28 (V)
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. 763-13 (V)
+
+
+###### Article R61-13
+
+Le magistrat mentionné au deuxième alinéa de l'article R. 61-12 s'assure que les conditions dans lesquelles fonctionne le
+traitement lui permettent de respecter les dispositions du présent chapitre. 
+
+Il peut procéder à toute vérification sur place et obtenir de l'autorité qui en est responsable tout renseignement relatif au
+fonctionnement du traitement, sans préjudice de ses possibilités d'accès aux informations enregistrées, conformément aux
+dispositions des articles R. 61-17 et R. 61-19. 
+
+Il adresse un rapport annuel au garde des sceaux sur le fonctionnement du traitement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-318 1959-02-23
+
+	**Créé par**:
+
+	  - Décret n°2007-1169 du 1 août 2007 - art. 1 () JORF 3 août 2007
+
+	**Cite**:
+
+	  - Code de procédure pénale - art. R61-12 (V)
+	  - Code de procédure pénale - art. R61-17 (V)
+	  - Code de procédure pénale - art. R61-19 (V)
+
+
+###### Article R61-14
+
+Les catégories d'informations enregistrées dans le traitement sont :
+
+1° L'identité du condamné placé sous surveillance électronique mobile : nom de famille, nom d'usage, prénoms, alias, date et
+lieu de naissance, sexe, nationalité ;
+
+2° La photographie du visage de face, la taille, le poids, la couleur des cheveux, la couleur des yeux, la description des
+tatouages ou cicatrices du condamné ;
+
+3° L'adresse de résidence du condamné ;
+
+4° La situation professionnelle du condamné : profession, adresse professionnelle ;
+
+5° La décision de condamnation : désignation de la juridiction, nature et contenu de la décision, infraction commise ;
+
+6° La décision de placement : désignation de la juridiction, nature et contenu de la décision ;
+
+7° Les décisions modificatives de placement : désignation de la juridiction, nature et contenu de la décision ;
+
+8° Le numéro de placement sous surveillance électronique mobile (PSEM) ;
+
+9° Les dates de début et de fin de la mesure de placement sous surveillance électronique mobile ;
+
+10° Les coordonnées de géolocalisation des zones d'exclusion, des zones tampon et des zones d'inclusion, ainsi que les
+horaires d'assignation ;
+
+11° Le relevé à intervalles réguliers des positions du dispositif prévu à l'article 763-12 porté par le condamné ;
+
+12° La liste des alarmes déclenchées, enregistrées par date, heure, minute et position, ainsi que la gestion de ces alarmes
+par le centre de surveillance.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-318 1959-02-23
+
+	**Créé par**:
+
+	  - Décret n°2007-1169 du 1 août 2007 - art. 1 () JORF 3 août 2007
+
+	**Cité par**:
+
+	  - Décret n°2012-268 du 24 février 2012 - art. 3 (V)
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. 763-12 (V)
+
+
+###### Article R61-15
+
+Les informations enregistrées dans le traitement sont conservées pendant toute la durée de la mesure et pendant un délai de
+dix ans après que la surveillance électronique mobile a cessé. A l'issue de ce délai, l'autorité responsable du traitement
+procède à l'effacement des informations.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-318 1959-02-23
+
+	**Créé par**:
+
+	  - Décret n°2007-1169 du 1 août 2007 - art. 1 () JORF 3 août 2007
+
+
+###### Article R61-16
+
+Sont autorisés à enregistrer, conserver, modifier ou traiter les informations enregistrées dans le traitement les personnels
+individuellement désignés et spécialement habilités des services centraux et déconcentrés de la direction de l'administration
+pénitentiaire et de la direction de l'administration générale et de l'équipement, pour celles des informations qui sont
+strictement nécessaires à l'exercice de leurs attributions.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-318 1959-02-23
+
+	**Créé par**:
+
+	  - Décret n°2007-1169 du 1 août 2007 - art. 1 () JORF 3 août 2007
+
+	**Abrogé par**:
+
+	  - Décret n°2016-261 du 3 mars 2016 - art. 2
+
+
+###### Article R61-17
+
+Les personnes ou catégories de personnes qui, à raison de leurs fonctions ou pour les besoins du service, peuvent directement
+accéder aux informations enregistrées dans le traitement et strictement nécessaires à l'exercice de leurs attributions
+sont : 
+
+1° Les personnels habilités des services centraux et déconcentrés de la direction de l'administration pénitentiaire ; 
+
+2° Les magistrats et fonctionnaires habilités des juridictions de l'application des peines et du parquet ainsi que le juge
+d'instruction ; 
+
+3° Les officiers de police judiciaire spécialement habilités à l'occasion de recherches intervenant dans le cadre soit d'une
+enquête de flagrance, d'une enquête préliminaire ou d'une information concernant un crime ou un délit, soit d'une enquête ou
+d'une information pour recherche des causes d'une mort ou d'une blessure suspectes, ou d'une disparition suspecte ou
+inquiétante ; 
+
+4° Le magistrat chargé de contrôler le traitement mentionné au deuxième alinéa de l'article R. 61-12.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-318 1959-02-23
+
+	**Créé par**:
+
+	  - Décret n°2007-1169 du 1 août 2007 - art. 1 () JORF 3 août 2007
+
+	**Cite**:
+
+	  - Code de procédure pénale - art. R61-12 (V)
+
+	**Cité par**:
+
+	  - Code de procédure pénale - art. R61-13 (V)
+
+
+###### Article R61-18
+
+Le droit d'accès et de rectification prévu aux articles 39 et 40 de la loi n° 78-17 du 6 janvier 1978 relative à
+l'informatique, aux fichiers et aux libertés s'exerce auprès du directeur de l'administration pénitentiaire.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-318 1959-02-23
+
+	**Cite**:
+
+	  - Loi n°78-17 du 6 janvier 1978 - art. 39 (V)
+
+	**Créé par**:
+
+	  - Décret n°2007-1169 du 1 août 2007 - art. 1 () JORF 3 août 2007
+
+	**Cité par**:
+
+	  - CODE DE PROCEDURE PENALE - art. R61-19 (Ab)
+	  - CODE DE PROCEDURE PENALE - art. R61-31 (Ab)
+	  - Code de procédure pénale - art. R61-27 (V)
+
+
+###### Article R61-19
+
+Le traitement conserve pendant une durée de trois ans les informations relatives aux enregistrements et interrogations dont
+il fait l'objet, en précisant la qualité de la personne ou autorité ayant procédé à l'opération. 
+
+Ces informations ne peuvent être consultées que par le directeur de l'administration pénitentiaire ou, avec son autorisation,
+par les personnes qu'il habilite spécialement ainsi que par le magistrat mentionné au deuxième alinéa de l'article R. 61-12. 
+
+Elles peuvent donner lieu à des exploitations statistiques.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-318 1959-02-23
+
+	**Créé par**:
+
+	  - Décret n°2007-1169 du 1 août 2007 - art. 1 () JORF 3 août 2007
+
+	**Cité par**:
+
+	  - Décret n°2012-268 du 24 février 2012 - art. 4 (V)
+	  - Code de procédure pénale - art. R61-13 (V)
+
+	**Cite**:
+
+	  - Code de procédure pénale - art. R61-12 (V)
+
+
+###### Article R61-20
+
+Le traitement ne peut faire l'objet d'aucune interconnexion ni de rapprochement ou de mise en relation avec un autre
+traitement automatisé de données à caractère personnel.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-318 1959-02-23
+
+	**Créé par**:
+
+	  - Décret n°2007-1169 du 1 août 2007 - art. 1 () JORF 3 août 2007
+
+
+#### Chapitre III : De la mise en oeuvre du placement sous surveillance électronique mobile
+
+##### Section 1 : Dispositions générales
+
+###### Article R61-21
+
+Les dispositions de la présente section sont applicables à tous les placements sous surveillance électronique mobile
+prononcés en application des dispositions des articles 131-36-9 du code pénal ou 723-29, 723-30, 731-1 et 763-3 du présent
+code.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-318 1959-02-23
+
+	**Créé par**:
+
+	  - Décret n°2007-1169 du 1 août 2007 - art. 1 () JORF 3 août 2007
+
+	**Cite**:
+
+	  - Code pénal - art. 131-36-9 (V)
+	  - Code de procédure pénale - art. 723-29 (V)
+	  - Code de procédure pénale - art. 731-1 (V)
+	  - Code de procédure pénale - art. 763-3 (V)
+
+	**Cité par**:
+
+	  - CODE DE PROCEDURE PENALE - art. R53-8-70 (V)
+	  - Code de procédure pénale - art. D32-15 (V)
+
+
+###### Article R61-22
+
+Pour la mise en oeuvre du procédé permettant le placement sous surveillance électronique mobile, la personne condamnée porte
+un dispositif comportant un émetteur.
+
+Cet émetteur transmet des signaux permettant la géolocalisation du condamné sur l'ensemble du territoire national.
+
+Le dispositif porté par le condamné est conçu de façon à ne pouvoir être enlevé par ce dernier sans que soit émis un signal
+d'alarme.
+
+Il permet une communication entre le centre de surveillance et la personne condamnée qui peut faire l'objet d'un
+enregistrement.
+
+Le procédé décrit au présent article est homologué par arrêté du garde des sceaux, ministre de la justice.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-318 1959-02-23
+
+	**Créé par**:
+
+	  - Décret n°2007-1169 du 1 août 2007 - art. 1 () JORF 3 août 2007
+
+	**Cité par**:
+
+	  - CODE DE PROCEDURE PENALE - art. R53-8-50 (V)
+	  - CODE DE PROCEDURE PENALE - art. R53-8-70 (V)
+	  - CODE DE PROCEDURE PENALE - art. R61-24 (V)
+	  - Code de procédure pénale - art. D32-4 (V)
+	  - Code de procédure pénale - art. D32-6 (V)
+	  - Code de procédure pénale - art. R61-23 (V)
+	  - Code de procédure pénale - art. R61-27 (V)
+
+
+###### Article R61-23
+
+Lorsqu'elle est saisie d'une demande portant sur une mesure assortie d'un placement sous surveillance électronique mobile ou
+lorsqu'elle envisage de prononcer d'office une telle mesure, la juridiction de l'application des peines peut charger
+l'administration pénitentiaire de s'assurer de la disponibilité du dispositif technique décrit à l'article R. 61-22 ainsi que
+de la faisabilité technique du projet, de vérifier la situation familiale, matérielle et sociale de la personne condamnée
+ainsi que celle de la victime, aux fins notamment de déterminer les horaires d'assignation ainsi que les zones d'inclusion,
+les zones d'exclusion et, le cas échéant, les zones tampon. 
+
+L'accord écrit du propriétaire ou du ou des titulaires du contrat de location des lieux où pourra être accueillie la personne
+placée sous surveillance électronique mobile est recueilli par le service pénitentiaire d'insertion et de probation, sauf si
+cet accord figure déjà au dossier de la procédure.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-318 1959-02-23
+
+	**Créé par**:
+
+	  - Décret n°2007-1169 du 1 août 2007 - art. 1 () JORF 3 août 2007
+
+	**Cite**:
+
+	  - Code de procédure pénale - art. R61-22 (V)
+
+
+###### Article R61-24
+
+La juridiction de l'application des peines peut à tout moment désigner un médecin afin que celui-ci vérifie que la mise en
+oeuvre du procédé mentionné à l'article R. 61-22 ne présente pas d'inconvénient pour la santé du condamné. Cette désignation
+est de droit à la demande du condamné ou de son conseil. Le certificat médical est versé au dossier.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-318 1959-02-23
+
+	**Créé par**:
+
+	  - Décret n°2007-1169 du 1 août 2007 - art. 1 () JORF 3 août 2007
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. R61-22 (Ab)
+
+
+###### Article R61-25
+
+Lorsqu'elle décide d'admettre une personne à une mesure assortie d'un placement sous surveillance électronique mobile, la
+juridiction de l'application des peines lui notifie les conditions d'exécution de la mesure et notamment les horaires
+d'assignation, les zones d'inclusion, les zones d'exclusion et, le cas échéant, les zones tampon.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-318 1959-02-23
+
+	**Créé par**:
+
+	  - Décret n°2007-1169 du 1 août 2007 - art. 1 () JORF 3 août 2007
+
+
+###### Article R61-26
+
+Lorsqu'il est fait application des dispositions des articles 723-34,763-3 et 763-11, la juridiction de l'application des
+peines notifie à l'intéressé les modifications des conditions d'exécution du placement sous surveillance électronique mobile.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-318 1959-02-23
+
+	**Créé par**:
+
+	  - Décret n°2007-1169 du 1 août 2007 - art. 1 () JORF 3 août 2007
+
+	**Cite**:
+
+	  - Code de procédure pénale - art. 723-34 (V)
+	  - Code de procédure pénale - art. 763-11 (V)
+	  - Code de procédure pénale - art. 763-3 (V)
+
+
+###### Article R61-27
+
+Lors de la pose ou de la dépose du dispositif prévu par l'article R. 61-22, les agents de l'administration pénitentiaire
+peuvent être assistés par les personnes mentionnées au chapitre IV du présent titre. 
+
+Durant le délai prévu à l'article 763-12, il est procédé aux tests de mise en service, à l'information et à la formation du
+condamné sur les modalités pratiques de fonctionnement du dispositif, notamment par la remise d'un formulaire d'utilisation
+et de consignes. Il lui est également précisé qu'il est tenu de respecter ces consignes et notamment de procéder à la mise en
+charge régulière de la batterie selon les modalités indispensables au bon fonctionnement du dispositif, et que le non-respect
+de cette exigence constitue une violation des obligations auxquelles il est astreint. 
+
+Lors de la pose, il est remis au condamné un document lui rappelant les dispositions de l'article 723-35, du quatrième alinéa
+de l'article 763-10 ou de l'article 733 ainsi que les dispositions de l'article R. 61-18 relatif au droit d'accès et de
+rectification.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-318 1959-02-23
+
+	**Créé par**:
+
+	  - Décret n°2007-1169 du 1 août 2007 - art. 1 () JORF 3 août 2007
+
+	**Cite**:
+
+	  - Code de procédure pénale - art. 723-35 (V)
+	  - Code de procédure pénale - art. 733 (V)
+	  - Code de procédure pénale - art. 763-10 (V)
+	  - Code de procédure pénale - art. 763-12 (V)
+	  - Code de procédure pénale - art. R61-18 (V)
+	  - Code de procédure pénale - art. R61-22 (V)
+
+	**Cité par**:
+
+	  - Code de procédure pénale - art. D147-42 (V)
+	  - Code de procédure pénale - art. D539 (V)
+
+
+###### Article R61-28
+
+Le contrôle du respect de ses obligations par la personne placée sous surveillance électronique mobile se fait notamment par
+vérifications téléphoniques, visites aux lieux d'assignation, convocations au service pénitentiaire d'insertion et de
+probation ainsi que par l'exploitation des informations enregistrées par le traitement automatisé prévu à l'article R. 61-12.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-318 1959-02-23
+
+	**Créé par**:
+
+	  - Décret n°2007-1169 du 1 août 2007 - art. 1 () JORF 3 août 2007
+
+	**Cite**:
+
+	  - Code de procédure pénale - art. R61-12 (V)
+
+
+###### Article R61-29
+
+Les agents affectés au centre de surveillance chargés de la mise en oeuvre du placement avisent sans délai le juge de
+l'application des peines compétent ou le magistrat du siège qui le remplace, ou en cas d'urgence et d'empêchement de ceux-ci,
+le procureur de la République, lorsqu'ils sont alertés notamment de ce qu'une personne placée sous surveillance électronique
+mobile se trouve dans une zone d'exclusion ou dans une zone tampon ou ne se trouve plus dans une zone qui lui a été assignée
+ou de ce que le dispositif est détérioré.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-318 1959-02-23
+
+	**Créé par**:
+
+	  - Décret n°2007-1169 du 1 août 2007 - art. 1 () JORF 3 août 2007
+
+
+###### Article R61-30
+
+La prolongation de la durée du placement sous surveillance électronique mobile prévue par le cinquième alinéa de l'article
+763-10 est décidée selon les modalités prévues par l'article 712-6, après un nouvel examen de dangerosité, sans qu'il soit à
+nouveau nécessaire de saisir la commission pluridisciplinaire des mesures de sûreté.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-318 1959-02-23
+
+	**Créé par**:
+
+	  - Décret n°2007-1169 du 1 août 2007 - art. 1 () JORF 3 août 2007
+
+	**Cite**:
+
+	  - Code de procédure pénale - art. 712-6 (V)
+	  - Code de procédure pénale - art. 763-10 (V)
+
+
+###### Article R61-31
+
+Les décisions concernant la modification des obligations auxquelles est astreint le condamné, relatives aux horaires
+d'assignation ou aux zones d'exclusion, aux zones d'inclusion ou aux zones tampon, sont prises conformément aux dispositions
+de l'article 712-8.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-318 1959-02-23
+
+	**Créé par**:
+
+	  - Décret n°2007-1169 du 1 août 2007 - art. 1 () JORF 3 août 2007
+
+	**Cite**:
+
+	  - Code de procédure pénale - art. 712-8 (V)
+
+
+##### Section 2 : Dispositions spécifiques au suivi socio-judiciaire
+
+###### Article R61-32
+
+La durée totale du placement sous surveillance électronique mobile prononcé par la juridiction de jugement dans le cadre d'un
+suivi socio-judiciaire ne peut excéder, compte tenu, le cas échéant, des renouvellements prévus par le troisième alinéa de
+l'article 763-10 du présent code, la durée du suivi socio-judiciaire fixée par cette juridiction en application de l'article
+131-36-1 du code pénal.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-318 1959-02-23
+
+	**Créé par**:
+
+	  - Décret n°2007-1169 du 1 août 2007 - art. 1 () JORF 3 août 2007
+
+	**Cite**:
+
+	  - Code pénal - art. 131-36-1 (V)
+	  - Code de procédure pénale - art. 763-10 (V)
+
+	**Cité par**:
+
+	  - CODE DE PROCEDURE PENALE - art. R61-31 (Ab)
+
+
+###### Article R61-33
+
+Lorsque le juge de l'application des peines prend une décision de placement sous surveillance électronique mobile, en
+application du dernier alinéa de l'article 763-3, cette mesure ne peut concerner qu'un condamné majeur à une peine égale ou
+supérieure à sept ans qui est toujours détenu, soit à la suite de la condamnation initiale, soit parce qu'il a été fait
+application des dispositions de l'article 763-5. Le délai d'un an prévu par l'article 763-10 n'est alors pas applicable.
+
+Dans ce cas, l'examen de dangerosité prévu par le dernier alinéa de l'article 763-3 est réalisé après l'avis de la commission
+pluridisciplinaire des mesures de sûreté, selon les modalités prévues par les articles R. 61-9 à R. 61-11.
+
+La décision du juge de l'application des peines est alors prise selon les modalités prévues par l'article 712-6.
+
+Cette décision précise la durée du placement sous surveillance électronique mobile dans les limites fixées par l'article
+131-36-12 du code pénal.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-318 1959-02-23
+
+	**Créé par**:
+
+	  - Décret n°2007-1169 du 1 août 2007 - art. 1 () JORF 3 août 2007
+
+	**Cite**:
+
+	  - Code pénal - art. 131-36-12 (V)
+	  - CODE DE PROCEDURE PENALE - art. 712-6 (V)
+	  - CODE DE PROCEDURE PENALE - art. 763-10 (V)
+	  - CODE DE PROCEDURE PENALE - art. 763-3 (M)
+	  - CODE DE PROCEDURE PENALE - art. 763-5 (M)
+	  - Code de procédure pénale 763-3, 763-5, 763-10, R61-9 à R61-11, 712-6
+
+
+##### Section 3 : Dispositions spécifiques à la libération conditionnelle
+
+###### Article R61-34
+
+L'examen de dangerosité prévu par les articles 763-10 et R. 61-11 peut se substituer à l'expertise prévue par l'article
+712-21.
+
+La décision de placement sous surveillance électronique mobile prise, conformément à l'article 730, soit par le juge de
+l'application des peines, soit par le tribunal de l'application des peines, précise la durée du placement sous surveillance
+électronique mobile, dans les limites fixées par l'article 763-10 et sans pouvoir excéder la durée des mesures de contrôle de
+la libération conditionnelle prévue par l'article 732.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-318 1959-02-23
+
+	**Créé par**:
+
+	  - Décret n°2007-1169 du 1 août 2007 - art. 1 () JORF 3 août 2007
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. 712-21 (M)
+	  - CODE DE PROCEDURE PENALE - art. 730 (M)
+	  - CODE DE PROCEDURE PENALE - art. 732 (M)
+	  - CODE DE PROCEDURE PENALE - art. 763-10 (V)
+	  - CODE DE PROCEDURE PENALE - art. R61-11 (Ab)
+
+	**Cité par**:
+
+	  - Code de procédure pénale - art. D539 (V)
+	  - Code de procédure pénale - art. D540 (V)
+
+
+##### Section 4 : Dispositions spécifiques à la surveillance judiciaire
+
+###### Article R61-35
+
+Lorsque le placement sous surveillance électronique mobile est ordonné dans le cadre d'une surveillance judiciaire, l'examen
+de dangerosité prévu par les articles 763-10 et R. 61-11 peut se substituer à l'expertise prévue par l'article 723-31.
+
+Le délai d'un an prévu par l'article 763-10 n'est pas applicable, dès lors que l'avis de la commission pluridisciplinaire des
+mesures de sûreté, saisie selon les modalités prévues par les articles R. 61-9 et R. 61-10, et l'examen de dangerosité prévu
+à l'article R. 61-11 interviennent avant la libération du condamné.
+
+La durée du placement sous surveillance électronique mobile est fixée dans les limites définies par l'article 763-10, sans
+pouvoir excéder celle de la surveillance judiciaire.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-318 1959-02-23
+
+	**Créé par**:
+
+	  - Décret n°2007-1169 du 1 août 2007 - art. 1 () JORF 3 août 2007
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. 723-31 (M)
+	  - CODE DE PROCEDURE PENALE - art. 763-10 (V)
+	  - CODE DE PROCEDURE PENALE - art. R61-10 (Ab)
+	  - CODE DE PROCEDURE PENALE - art. R61-11 (Ab)
+	  - CODE DE PROCEDURE PENALE - art. R61-9 (Ab)
+
+
+#### Chapitre IV : De l'habilitation des personnes auxquelles peuvent être confiées des prestations techniques concernant la mise en oeuvre de placement sous surveillance électronique mobile
+
+##### Section 1 : Les personnes habilitées
+
+###### Article R61-36
+
+L'habilitation des personnes auxquelles peuvent être confiées par contrat les prestations techniques détachables des
+fonctions de souveraineté concernant la mise en oeuvre du placement sous surveillance électronique mobile est accordée par
+arrêté du garde des sceaux, ministre de la justice.
+
+L'habilitation est accordée pour une durée de cinq ans renouvelable en fonction des compétences techniques, des garanties
+financières et des références qu'offrent ces personnes, appréciées au regard de la nature, de l'étendue et du coût des
+prestations faisant l'objet de ce contrat.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-318 1959-02-23
+
+	**Cité par**:
+
+	  - Décret n°2001-633 du 17 juillet 2001 - art. 100-7 (V)
+	  - Décret n°2001-634 du 17 juillet 2001 - art. 98-7 (V)
+	  - Décret n°2001-635 du 17 juillet 2001 - art. 99-7 (Ab)
+	  - Décret n°2002-1219 du 27 septembre 2002 - art. 134-7 (V)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. R571-7 (V)
+	  - Code de procédure pénale - art. R61-39 (V)
+	  - Code de procédure pénale - art. R61-40 (V)
+
+	**Créé par**:
+
+	  - Décret n°2007-1169 du 1 août 2007 - art. 1 () JORF 3 août 2007
+
+
+###### Article R61-37
+
+Pour être habilitées les personnes physiques doivent :
+
+1° Posséder la nationalité française ou celle de l'un des Etats membres de la Communauté européenne ;
+
+2° Ne pas avoir fait l'objet d'une mesure de révocation de la fonction publique, civile ou militaire, ni d'une condamnation,
+incapacité ou déchéance justifiant l'inscription au bulletin n° 2 du casier judiciaire.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-318 1959-02-23
+
+	**Créé par**:
+
+	  - Décret n°2007-1169 du 1 août 2007 - art. 1 () JORF 3 août 2007
+
+	**Cité par**:
+
+	  - Code de procédure pénale - art. R61-38 (V)
+
+
+###### Article R61-38
+
+L'habilitation ne peut être accordée à une personne morale : 
+
+1° Dont le bulletin n° 2 du casier judiciaire comporte une condamnation, une incapacité ou une déchéance ; 
+
+2° Dont la situation d'un ou plusieurs de ses dirigeants de droit ou de fait n'est pas conforme au 2° de l'article R. 61-37.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-318 1959-02-23
+
+	**Créé par**:
+
+	  - Décret n°2007-1169 du 1 août 2007 - art. 1 () JORF 3 août 2007
+
+	**Cite**:
+
+	  - Code de procédure pénale - art. R61-37 (V)
+
+
+###### Article R61-39
+
+L'habilitation peut être retirée par le garde des sceaux, ministre de la justice, selon les modalités prévues à l'article R.
+61-42, en cas de modification substantielle de la situation des personnes au regard des dispositions des articles R. 61-36,
+R. 61-37 ou R. 61-38.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-318 1959-02-23
+
+	**Créé par**:
+
+	  - Décret n°2007-1169 du 1 août 2007 - art. 1 () JORF 3 août 2007
+
+	**Cite**:
+
+	  - Code de procédure pénale - art. R61-36 (V)
+	  - Code de procédure pénale - art. R61-42 (V)
+
+
+##### Section 2 : Les agents des personnes habilitées
+
+###### Article R61-40
+
+Chaque employé d'une personne mentionnée à la section 1 appelé à accomplir des tâches pour l'exécution du contrat visé à
+l'article R. 61-36 fait l'objet d'une habilitation individuelle préalable du garde des sceaux, ministre de la justice. 
+
+Cette habilitation est accordée pour une durée de cinq ans renouvelable.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-318 1959-02-23
+
+	**Créé par**:
+
+	  - Décret n°2007-1169 du 1 août 2007 - art. 1 () JORF 3 août 2007
+
+	**Cité par**:
+
+	  - Décret n°2012-268 du 24 février 2012 - art. 5 (V)
+	  - Décret n°2014-1279 du 23 octobre 2014 - art. (VD)
+	  - Code de procédure pénale - art. R61-41 (V)
+	  - Code de procédure pénale - art. R61-42 (V)
+
+	**Cite**:
+
+	  - Code de procédure pénale - art. R61-36 (V)
+
+
+###### Article R61-41
+
+Pour être habilitées, les personnes mentionnées à l'article R. 61-40 doivent : 
+
+1° Posséder la nationalité française ou celle de l'un des Etats membres de la Communauté européenne ; 
+
+2° Ne pas avoir fait l'objet d'une mesure de révocation de la fonction publique, civile ou militaire, ni d'une condamnation,
+incapacité ou déchéance justifiant l'inscription au bulletin n° 2 du casier judiciaire ; 
+
+3° Etre titulaire des diplômes ou qualifications correspondant à la nature des fonctions qu'elles sont appelées à exercer ; 
+
+4° Avoir donné leur accord écrit au projet de contrat de travail proposé par leur employeur ou à un avenant au contrat
+existant. Ce document rappelle l'obligation de respecter strictement le secret professionnel prévu par les articles 226-13 et
+226-14 du code pénal. Il mentionne l'obligation d'adopter, dans l'exercice de leurs fonctions, un comportement conforme à
+l'honneur, à la probité et aux bonnes moeurs.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-318 1959-02-23
+
+	**Créé par**:
+
+	  - Décret n°2007-1169 du 1 août 2007 - art. 1 () JORF 3 août 2007
+
+	**Cite**:
+
+	  - Code pénal - art. 226-13 (V)
+	  - Code de procédure pénale - art. R61-40 (V)
+
+	**Cité par**:
+
+	  - Code de procédure pénale - art. R61-42 (V)
+
+
+###### Article R61-42
+
+L'habilitation mentionnée à l'article R. 61-40 peut être retirée par le garde des sceaux, ministre de la justice, après
+qu'ont été recueillies les observations de la personne habilitée, lorsque l'une des conditions prévues aux 1° et 2° de
+l'article R. 61-41 cesse d'être remplie ou en cas d'agissements contraires à l'honneur, à la probité ou aux bonnes moeurs. 
+
+En cas d'urgence et pour motif grave, l'habilitation peut être suspendue par le garde des sceaux, ministre de la justice, qui
+décide, dans le mois suivant la suspension, du maintien ou du retrait de l'habilitation, dans les conditions définies à
+l'alinéa précédent.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-318 1959-02-23
+
+	**Créé par**:
+
+	  - Décret n°2007-1169 du 1 août 2007 - art. 1 () JORF 3 août 2007
+
+	**Cité par**:
+
+	  - Code de procédure pénale - art. R61-39 (V)
+
+	**Cite**:
+
+	  - Code de procédure pénale - art. R61-40 (V)
+	  - Code de procédure pénale - art. R61-41 (V)
 
 
 ### Titre VIII : Du casier judiciaire
