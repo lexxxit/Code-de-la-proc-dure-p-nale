@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 2007-08-03
+Version Consolidée au 2007-08-09
 
 # Partie législative
 
@@ -107752,20 +107752,59 @@ les délais impartis.
 
 ###### Article A37-2
 
-Le second volet, de format 100 mm x 186 mm et de couleur blanche, constitue l'avis de contravention.
+I. - Le second volet, de format 100 mm x 186 mm et de couleur blanche, constitue l'avis de contravention.
 
-Au recto, sur la partie gauche, sont portées les mentions relatives au service verbalisateur, à la nature, au lieu et à la
-date de la contravention ainsi que les références des textes réprimant ladite contravention et, le cas échéant, sont précisés
-les éléments d'identification du véhicule et l'obligation de procéder à l'échange du permis de conduire.
+II. - Au recto, sur la partie gauche, sont portées les mentions relatives au service verbalisateur, à la nature, au lieu et à
+la date de la contravention ainsi que les références des textes réprimant ladite contravention et, le cas échéant, sont
+précisés les éléments d'identification du véhicule et l'obligation de procéder à l'échange du permis de conduire.
 
-Un emplacement est réservé pour informer l'auteur de la contravention qu'il encourt un retrait de points du permis de
-conduire si la réalité de l'infraction est établie ; il est également informé de l'existence d'un traitement automatisé de
-ces points et de la possibilité pour lui d'exercer le droit d'accès.
+Y figure également une rubrique intitulée "Retrait de point(s) du permis de conduire" comportant une case "oui" devant être
+cochée si l'infraction prévoit un retrait de point(s).
 
-De même, y figurent les mentions utiles à l'information du contrevenant sur les dispositions de l'article 34 de la loi n°
-78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux libertés.
+III. - Sur la partie droite, figure un emplacement destiné à informer le contrevenant de ses droits et comportant les
+mentions suivantes :
 
-Un emplacement est destiné, en cas de non-paiement par chèque, à l'apposition de la partie à conserver du timbre-amende.
+"Vous êtes informé(e) que :
+
+1. Vous pouvez exercer un droit d'accès et de rectification lorsque les renseignements vous concernant font l'objet d'un
+traitement automatisé (art. 39 de la loi n° 78-17 du 6 janvier 1978) auprès :
+
+- de l'officier du ministère public près la juridiction de proximité ou le tribunal de police ;
+
+- du comptable du Trésor lorsque celui-ci est chargé du recouvrement de l'amende forfaitaire majorée.
+
+2. Le paiement de l'amende entraîne reconnaissance de la réalité de l'infraction et, le cas échéant, réduction du nombre de
+points de votre permis de conduire.
+
+3. Si, dans la rubrique Retrait de point(s) du permis de conduire, la case oui a été cochée, vous encourez un retrait de
+point(s) correspondant à l'infraction constatée ; le retrait de point(s) sera effectif dès que la réalité de l'infraction
+aura été établie par le paiement de l'amende forfaitaire ou l'émission du titre exécutoire de l'amende forfaitaire majorée,
+par l'exécution d'une composition pénale ou par une condamnation définitive.
+
+Selon l'article L. 223-2 du code de la route :
+
+- pour les délits, le retrait de points est égal à la moitié du nombre maximal de points ;
+
+- pour les contraventions, le retrait de points est, au plus, égal à la moitié du nombre maximal de points ;
+
+- dans le cas où plusieurs infractions entraînant retrait de points sont commises simultanément, les retraits de points se
+cumulent dans la limite des deux tiers du nombre maximal de points.
+
+4. Les retraits et reconstitutions de point(s) du permis de conduire font l'objet d'un traitement automatisé dénommé Système
+national des permis de conduire (SNPC).
+
+5. Si la rubrique Obligation d'échange du permis de conduire a été cochée, vous êtes dans l'obligation d'effectuer, auprès du
+service préfectoral de votre domicile, l'échange de votre permis de conduire délivré par un Etat de l'Union européenne ou de
+l'Espace économique européen.
+
+6. Vous pouvez exercer, auprès du service préfectoral de votre domicile, un droit d'accès aux informations concernant votre
+permis de conduire."
+
+IV. - Lorsque le formulaire est utilisé pour des contraventions n'entraînant pas réduction du nombre de points du permis de
+conduire, les mentions prévues au deuxième alinéa du II et au 3 à 6 du III peuvent ne pas figurer dans l'avis de
+contravention.
+
+V. - Un emplacement est destiné, en cas de non-paiement par chèque, à l'apposition de la partie à conserver du timbre-amende.
 
 **Liens relatifs à cet article**
 
@@ -107775,12 +107814,12 @@ Un emplacement est destiné, en cas de non-paiement par chèque, à l'apposition
 
 	**Modifié par**:
 
-	  - Arrêté 2003-10-24 art. 2 JORF 29 octobre 2003
+	  - Arrêté 2007-07-25 art. 2 JORF 9 août 2007
 
 	**Cite**:
 
-	  - Loi n°78-17 1978-01-06 art. 34
-	  - Code de la route L11-3
+	  - Loi n°78-17 du 6 janvier 1978 - art. 39 (M)
+	  - Code de la route. - art. L223-2 (M)
 
 	**Cité par**:
 
@@ -107796,16 +107835,17 @@ Le troisième volet, de format 100 mm x 186 mm et de couleur rose, constitue le 
 conservé par le service auquel appartient l'agent verbalisateur ou adressé à l'unité de gendarmerie ou de police compétente,
 quand les agents verbalisateurs sont ceux visés aux 2° et au 8° de l'article L. 130-4 du code de la route.
 
-Au recto, sur la partie gauche, sont portées les mentions prévues par les deuxième et troisième alinéas de l'article A. 37-2,
-qui sont établies par duplication de la partie gauche du deuxième volet.
+Au recto, sur la partie gauche, sont portées les mentions prévues par le II de l'article A. 37-2, qui sont établies par
+duplication de la partie gauche du deuxième volet.
 
 Sur la partie droite figurent les emplacements destinés à la signature de l'agent verbalisateur et, le cas échéant, aux
-éléments chiffrés permettant le traitement de la contravention relevée, à la signature et aux déclarations du contrevenant
-indiquant s'il reconnaît ou ne reconnaît pas l'infraction.
+éléments chiffrés permettant le traitement de la contravention relevée, à l'établissement d'une fiche d'immobilisation, à la
+signature et aux déclarations du contrevenant indiquant s'il reconnaît ou ne reconnaît pas l'infraction et précisant qu'il
+reconnaît avoir reçu la carte de paiement et l'avis de contravention sur lequel figurent les informations prévues au III de
+l'article A 37-2 et reproduites au verso du formulaire.
 
-Au verso, sur la partie gauche, figurent trois emplacements destinés à enregistrer, le cas échéant, des renseignements
-complémentaires, à noter l'établissement d'une fiche d'immobilisation et à recueillir les déclarations du contrevenant, sa
-signature et celle de l'enquêteur.
+Au verso, sur la partie gauche, est reproduite l'intégralité des informations prévues au III de l'article A 37-2, et il est
+indiqué que le contrevenant a reçu l'avis de contravention comportant ces informations.
 
 Sur la partie droite figurent les informations relatives au contrevenant ainsi que, le cas échéant, au titulaire du
 certificat d'immatriculation.
@@ -107818,7 +107858,7 @@ certificat d'immatriculation.
 
 	**Modifié par**:
 
-	  - Arrêté 2003-10-24 art. 3 JORF 29 octobre 2003
+	  - Arrêté 2007-07-25 art. 3 JORF 9 août 2007
 
 	**Cite**:
 
@@ -107846,6 +107886,18 @@ les informations sur le moyen de contrôle utilisé, sur le type de voie emprunt
 - procès-verbal de contravention : outre les mentions prévues à l'article A. 37-3, ce volet de couleur jaune comporte au
 recto, sur la partie gauche, les informations obtenues par duplication du second volet décrit au paragraphe précédent.
 
+La rubrique prévue par le deuxième alinéa du II de l'article A 37-2 comprend la mention "Cette contravention entraîne un
+retrait de point(s) du permis de conduire" et ne comporte pas de case devant être cochée.
+
+Les mentions prévues par le 2 et le premier alinéa du 3 du III sont les suivantes :
+
+"2. Le paiement de l'amende entraîne reconnaissance de la réalité de l'infraction et par là même réduction du nombre de
+points de votre permis de conduire.
+
+3. Vous encourez un retrait de point(s) correspondant à l'infraction constatée ; le retrait de point(s) sera effectif dès que
+la réalité de l'infraction aura été établie par le paiement de l'amende forfaitaire ou l'émission du titre exécutoire de
+l'amende forfaitaire majorée, par l'exécution d'une composition pénale ou par une condamnation définitive."
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
@@ -107854,7 +107906,7 @@ recto, sur la partie gauche, les informations obtenues par duplication du second
 
 	**Modifié par**:
 
-	  - Arrêté 2003-10-24 art. 4 JORF 29 octobre 2003
+	  - Arrêté 2007-07-25 art. 4 JORF 9 août 2007
 
 	**Cité par**:
 
@@ -107880,7 +107932,7 @@ Les contraventions non soumises à la procédure de l'amende forfaitaire qui ont
 peuvent être constatées au moyen des formulaires décrits aux articles A. 37 à A. 37-4 ci-dessus.
 
 Au recto de la carte de paiement remise au contrevenant figure l'indication que la procédure de l'amende forfaitaire n'est
-pas applicable et que la contravention sera jugée par le tribunal de police.
+pas applicable et que la contravention sera jugée par la juridiction de proximité ou le tribunal de police.
 
 Au verso du procès-verbal de contravention sont recueillies les déclarations du contrevenant indiquant s'il reconnaît ou ne
 reconnaît pas l'infraction, sa signature et celle de l'enquêteur.
@@ -107891,9 +107943,9 @@ reconnaît pas l'infraction, sa signature et celle de l'enquêteur.
 
 	  - Arrêté 1958-12-23
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Arrêté 1999-10-05 art. 1 JORF 7 novembre 1999
+	  - Arrêté 2007-07-25 art. 5 JORF 9 août 2007
 
 	**Cité par**:
 
@@ -107907,17 +107959,19 @@ reconnaît pas l'infraction, sa signature et celle de l'enquêteur.
 ###### Article A37-6
 
 Par dérogation aux articles A. 37 à A. 37-3, le relevé des contraventions à l'arrêt ou au stationnement des véhicules qui
-sont réprimées par les articles R. 417-1 à R. 417-6 et R. 417-10 à R. 417-13 du code de la route, à l'exclusion du premier
-alinéa, lorsqu'elles sont soumises à la procédure de l'amende forfaitaire et qu'elles ne sont pas payées immédiatement entre
-les mains de l'agent verbalisateur, s'effectue au moyen de formulaires simplifiés, d'un format identique à ceux décrits par
-les articles précités mais dont les caractéristiques diffèrent de la manière suivante :
+sont réprimées par les articles R. 417-1 à R. 417-6 et R. 417-10 à R. 417-13 du code de la route, lorsqu'elles sont soumises
+à la procédure de l'amende forfaitaire et qu'elles ne sont pas payées immédiatement entre les mains de l'agent verbalisateur,
+s'effectue au moyen de formulaires simplifiés, d'un format identique à ceux décrits par les articles précités mais dont les
+caractéristiques diffèrent de la manière suivante :
 
-- avis de contravention : n'y figurent pas les mentions prévues par les alinéas 3 et 4 de l'article A. 37-2 ; y figurent deux
-emplacements pour mentionner, d'une part, si une demande d'enlèvement a été formulée et, d'autre part, si l'infraction a été
-commise par un véhicule de plus de 20 mètres carrés dans une zone touristique ;
+- avis de contravention : n'y figurent pas les mentions prévues par l'article A 37-2 relatives au permis de conduire et,
+notamment, au retrait de point(s) ; y figurent deux emplacements pour mentionner, d'une part, si une demande d'enlèvement a
+été formulée et, d'autre part, si l'infraction a été commise par un véhicule de plus de 20 mètres carrés dans une zone
+touristique ;
 
-- procès-verbal de contravention : outre les mentions prévues à l'article A. 37-3, ce volet de couleur verte comporte au
-recto, sur la partie gauche, les informations obtenues par duplication du second volet décrit au paragraphe précédent.
+- procès-verbal de contravention : outre les mentions prévues à l'article A. 37-3, à l'exception de celles relatives à
+l'information du contrevenant, ce volet de couleur verte comporte au recto, sur la partie gauche, les informations obtenues
+par duplication du second volet décrit au paragraphe précédent.
 
 **Liens relatifs à cet article**
 
@@ -107927,7 +107981,7 @@ recto, sur la partie gauche, les informations obtenues par duplication du second
 
 	**Modifié par**:
 
-	  - Arrêté 2003-10-24 art. 5 JORF 29 octobre 2003
+	  - Arrêté 2007-07-25 art. 6 JORF 9 août 2007
 
 	**Cite**:
 
@@ -108034,41 +108088,6 @@ lorsqu'il est dressé conformément aux dispositions de l'article 529-11, reprod
 	  - Code de procédure pénale - art. A37-27 (V)
 	  - Code de procédure pénale - art. A37-27-2 (VD)
 	  - Code de procédure pénale - art. A37-27-3 (VD)
-
-
-###### Article A37-10
-
-Les trois modèles de formulaires de la carte de paiement (premier volet), de l'avis de contravention (second volet) et du
-procès-verbal de contravention (troisième volet), correspondant au document CERFA n° 11317*02 - CCTA rose fixé par les
-articles A. 37-1, A. 37-2 et A. 37-3, au document CERFA n° 11316*02 - CCTA jaune fixé par l'article A. 37-4 et au document
-CERFA n° 11318*02 - CCTA vert fixé par l'article A. 37-6, et le formulaire unique d'avis de contravention, fixé par l'article
-A. 37-8, correspondant au document CERFA n° 12291*01 - vert, ainsi que les fiches techniques d'impression afférents à chacun
-de ces modèles peuvent être consultés sur le site internet :
-
-http://www.service.public.gouv.fr.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Arrêté 1958-12-23
-
-	**Créé par**:
-
-	  - Arrêté 2003-10-24 art. 7 JORF 29 octobre 2003
-
-	**Abrogé par**:
-
-	  - Arrêté 2007-07-25 art. 7 JORF 9 août 2007
-
-	**Cite**:
-
-	  - CODE DE PROCEDURE PENALE - art. A37-4 (M)
-
-	**Cité par**:
-
-	  - Code de procédure pénale - art. A37-11 (VD)
-	  - Code de procédure pénale - art. A37-14 (VD)
 
 
 ## Livre IV
