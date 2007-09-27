@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 2007-08-11
+Version Consolidée au 2007-09-28
 
 # Partie législative
 
@@ -54030,6 +54030,66 @@ l'application des peines conformément aux dispositions du deuxième alinéa de 
 
 ###### Article R1
 
+I. - Toute association visée au deuxième alinéa de l'article 2-3 peut être inscrite auprès du ministre de la justice, selon
+les modalités précisées au II du présent article, si elle remplit, à la date de sa demande d'inscription, les deux conditions
+suivantes :
+
+a) justifier de l'existence d'au moins cinq années d'activité effective en vue de la défense ou l'assistance de l'enfant en
+danger et victime de toutes formes de maltraitance ;
+
+b) justifier d'un nombre total d'adhérents supérieur ou égal à mille.
+
+II. - La demande d'inscription, adressée au ministre de la justice, comprend les documents suivants :
+
+a) les statuts de l'association ;
+
+b) un extrait du Journal officiel de la République française attestant de la date de sa déclaration ;
+
+c) un rapport d'activité portant sur les cinq dernières années ;
+
+d) un document justifiant du nombre de ses adhérents.
+
+Lorsque le dossier remis est complet, il en est délivré récépissé.
+
+La décision d'inscription ou de refus d'inscription est notifiée à l'association intéressée dans un délai de deux mois à
+compter de la date de délivrance du récépissé. Si aucune décision n'est notifiée dans ce délai, l'inscription est réputée
+acquise. La décision de refus d'inscription est motivée.
+
+Le ministre de la justice établit et tient à jour dans un registre la liste des associations habilitées à se constituer
+partie civile en application du deuxième alinéa de l'article 2-3.
+
+L'inscription peut être retirée, par décision motivée du ministre de la justice, lorsque l'association ne remplit plus les
+conditions énoncées au I du présent article. L'association est au préalable mise en demeure de présenter ses observations.
+
+L'association qui entend contester une décision de refus ou de retrait d'inscription doit, préalablement à tout recours
+contentieux, présenter un recours gracieux auprès du ministre de la justice.
+
+III. - Toute association inscrite adresse chaque année au ministre de la justice son rapport d'activité, qui précise
+notamment le nombre de ses adhérents.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°58-358 1958-04-02
+
+	**Modifié par**:
+
+	  - Décret n°2007-1388 du 26 septembre 2007 - art. 6 () JORF 28 septembre 2007
+
+	**Liens**:
+
+	  - TXT_SOURCE: CODE DE PROCEDURE PENALE - art. 16 (M)
+
+	**Nouveaux textes**:
+
+	  - CODE DE PROCEDURE PENALE - art. R1-1 (V)
+	  - CODE DE PROCEDURE PENALE - art. R2 (V)
+	  - CODE DE PROCEDURE PENALE - art. R2-1 (V)
+
+
+###### Article R1-1
+
 I. - Toute fédération d'associations visée au troisième alinéa de l'article 2-15 peut être inscrite auprès du ministre de la
 justice, selon les modalités précisées au II du présent article, si elle remplit, à la date de sa demande d'inscription, les
 trois conditions suivantes :
@@ -54076,11 +54136,7 @@ le nombre des associations qui la composent et celui de leurs adhérents.
 
 	  - Décret n°58-358 1958-04-02
 
-	**Modifié par**:
-
-	  - Décret n°2005-84 du 3 février 2005 - art. 3 () JORF 5 février 2005
-
-	**Transféré par**:
+	**Créé par**:
 
 	  - Décret n°2007-1388 du 26 septembre 2007 - art. 6 () JORF 28 septembre 2007
 
@@ -54092,11 +54148,10 @@ le nombre des associations qui la composent et celui de leurs adhérents.
 
 	  - CODE DE PROCEDURE PENALE - art. 2-15 (M)
 
-	**Nouveaux textes**:
+	**Anciens textes**:
 
-	  - CODE DE PROCEDURE PENALE - art. R1-1 (V)
-	  - CODE DE PROCEDURE PENALE - art. R2 (V)
-	  - CODE DE PROCEDURE PENALE - art. R2-1 (V)
+	  - CODE DE PROCEDURE PENALE - art. R1 (M)
+	  - CODE DE PROCEDURE PENALE - art. R1 (T)
 
 
 ## Livre Ier : De l'exercice de l'action publique et de l'instruction
@@ -56543,6 +56598,112 @@ plusieurs des conditions prévues à l'article 29-1 ou lorsque celui-ci ne respe
 	  - Code de procédure pénale - art. R15-33-29-1 (V)
 
 
+##### Section 8 : Des agents de police municipale, des gardes champêtres, des agents de surveillance de Paris et des agents de la ville de Paris chargés d'un service de police
+
+###### Article R15-33-29-3
+
+Les contraventions prévues par le code pénal que les agents de police municipale, les gardes champêtres, les agents de
+surveillance de Paris mentionnés à l'article 21 du présent code ainsi que les agents de la ville de Paris chargés d'un
+service de police peuvent, en application des dispositions des articles L. 2212-5, L. 2213-18, L. 2512-16-1 et L. 2512-16 du
+code général des collectivités territoriales, constater par procès-verbaux lorsqu'elles sont commises sur le territoire
+communal, sur le territoire de la commune de Paris ou sur le territoire pour lesquels ils sont assermentés et qu'elles ne
+nécessitent pas de leur part d'actes d'enquête sont les suivantes : 
+
+1° Divagation d'animaux dangereux, prévue par l'article R. 622-2 du code pénal ; 
+
+2° Bruits ou tapages injurieux ou nocturnes prévus par l'article R. 623-2 du même code ; 
+
+3° Excitation d'animaux dangereux, prévue par l'article R. 623-3 du même code ; 
+
+4° Menaces de destruction, prévues par les articles R. 631-1 et R. 634-1 du même code, lorsqu'elles concernent des biens
+appartenant à la commune ; 
+
+5° Abandon d'ordures, déchets, matériaux et autres objets, prévu par les articles R. 632-1 et R. 635-8 du même code ; 
+
+6° Destructions, dégradations et détériorations légères, prévues par l'article R. 635-1 du même code, lorsqu'elles concernent
+des biens appartenant à la commune ; 
+
+7° Atteintes volontaires ou involontaires à animal et mauvais traitements à animal, prévus par les articles R. 653-1, R.
+654-1 et R. 655-1 du même code. 
+
+Ces agents et fonctionnaires peuvent également constater par procès-verbaux les contraventions de non-respect des arrêtés de
+police prévues par l'article R. 610-5 du code pénal, conformément aux dispositions du code général des collectivités
+territoriales, ainsi que, s'agissant des agents de police municipale, des gardes champêtres et des agents de surveillance de
+Paris, les contraventions aux dispositions du code de la route dont la liste est fixée par les articles R. 130-1-1 à R. 130-3
+de ce code et les contraventions relatives à l'interdiction de fumer dans les lieux affectés à un usage collectif prévues par
+les articles R. 3512-1 et R. 3512-2 du code de la santé publique.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°58-358 1958-04-02
+
+	**Créé par**:
+
+	  - Décret n°2007-1388 du 26 septembre 2007 - art. 7 () JORF 28 septembre 2007
+
+	**Cité par**:
+
+	  - Code de la sécurité intérieure - art. R511-1 (VD)
+	  - Code de la sécurité intérieure - art. R521-1 (VD)
+	  - Code de la sécurité intérieure - art. R531-1 (VD)
+	  - Code de la sécurité intérieure - art. R532-1 (V)
+	  - CODE DE PROCEDURE PENALE - art. R15-33-29-4 (V)
+	  - CODE DE PROCEDURE PENALE - art. R261-1 (V)
+	  - Code général des collectivités territoriales - art. R2212-15 (VT)
+	  - Code général des collectivités territoriales - art. R2213-60 (VT)
+	  - Code général des collectivités territoriales - art. R2512-15-11 (VT)
+	  - Code général des collectivités territoriales - art. R2512-15-12 (VT)
+
+	**Cite**:
+
+	  - Code général des collectivités territoriales - art. L2212-5 (V)
+	  - Code général des collectivités territoriales - art. L2213-18 (T)
+	  - Code général des collectivités territoriales - art. L2512-16 (V)
+	  - Code général des collectivités territoriales - art. L2512-16-1 (T)
+	  - Code pénal - art. R610-5 (V)
+	  - Code pénal - art. R622-2 (V)
+	  - Code pénal - art. R623-2 (V)
+	  - Code pénal - art. R623-3 (V)
+	  - Code pénal - art. R631-1 (V)
+	  - Code pénal - art. R632-1 (V)
+	  - Code pénal - art. R634-1 (V)
+	  - Code pénal - art. R635-1 (V)
+	  - Code pénal - art. R635-8 (V)
+	  - Code pénal - art. R653-1 (V)
+	  - Code pénal - art. R654-1 (V)
+	  - Code pénal - art. R655-1 (V)
+	  - Code de procédure pénale - art. 21 (V)
+	  - Code de la santé publique - art. R3512-1 (V)
+	  - Code de la route. - art. R130-1-1 (V)
+
+
+###### Article R15-33-29-4
+
+Les agents et fonctionnaires mentionnés à l'article R. 15-33-61 adressent sans délai les procès-verbaux constatant les
+contraventions prévues par cet article simultanément au maire ou, pour les agents de surveillance de Paris, au préfet de
+police et, par l'intermédiaire des officiers de police judiciaire territorialement compétents, au procureur de la République.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°58-358 1958-04-02
+
+	**Créé par**:
+
+	  - Décret n°2007-1388 du 26 septembre 2007 - art. 7 () JORF 28 septembre 2007
+
+	**Cité par**:
+
+	  - Décret n°2008-150 du 19 février 2008 - art. 2
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. R15-33-61 (M)
+
+
 #### Chapitre II : Du ministère public
 
 ##### Section 1 : Des délégués et des médiateurs du procureur de la République
@@ -57408,6 +57569,56 @@ dispositions des articles R. 131-35 à R. 131-40 du code pénal sont applicables
 	  - Décret n°2004-1021 du 27 septembre 2004 - art. 7 () JORF 29 septembre 2004
 
 
+###### Article R15-33-55-6
+
+Lorsque la composition pénale comporte l'accomplissement du stage de sensibilisation aux dangers de l'usage de produits
+stupéfiants prévu au 15° de l'article 41-2, les dispositions des articles R. 131-46 et R. 131-47 du code pénal sont
+applicables.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°58-358 1958-04-02
+
+	**Créé par**:
+
+	  - Décret n°2007-1388 du 26 septembre 2007 - art. 8 () JORF 28 septembre 2007
+
+
+###### Article R15-33-55-7
+
+Lorsque la composition pénale comporte la mesure d'activité de jour prévue au 16° de l'article 41-2, celle-ci est exécutée
+sous le contrôle du délégué du procureur de la République, qui s'assure de son bon déroulement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°58-358 1958-04-02
+
+	**Créé par**:
+
+	  - Décret n°2007-1388 du 26 septembre 2007 - art. 8 () JORF 28 septembre 2007
+
+
+###### Article R15-33-55-8
+
+Lorsque la composition pénale comporte l'injonction thérapeutique prévue au 17° de l'article 41-2, celle-ci s'exécute
+conformément aux dispositions du code de la santé publique, notamment des articles L. 3413-1 à L. 3413-4 de ce code, sous le
+contrôle du délégué du procureur de la République.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°58-358 1958-04-02
+
+	**Créé par**:
+
+	  - Décret n°2007-1388 du 26 septembre 2007 - art. 8 () JORF 28 septembre 2007
+
+
 ###### Article R15-33-56
 
 Lorsqu'il est fait application des dispositions du quinzième alinéa de l'article 41-2, le procureur de la République
@@ -57506,11 +57717,160 @@ décision.
 	  - Décret n°2004-1021 du 27 septembre 2004 - art. 5 () JORF 29 septembre 2004
 
 
+##### Section 3 : De la transaction proposée par le maire et de l'homologation par le procureur de la République
+
+###### Article R15-33-61
+
+La proposition de transaction faite par le maire conformément aux dispositions de l'article 44-1 est adressée par lettre
+recommandée ou remise contre récépissé en double exemplaire au contrevenant dans un délai d'un mois à compter du procès-
+verbal constatant l'infraction.
+
+Elle précise :
+
+- la nature des faits reprochés, leur qualification juridique ainsi que le montant de l'amende et les peines complémentaires
+encourus ;
+
+- le montant de la réparation proposée et le délai dans lequel cette réparation devra être versée ;
+
+- s'il y a lieu, le nombre d'heures de travail non rémunéré proposé et le délai dans lequel ce travail devra être exécuté, la
+nature du travail proposé et son lieu d'exécution ;
+
+- le délai dans lequel le contrevenant devra faire connaître son acceptation ou son refus de la proposition de transaction.
+
+Elle indique que le contrevenant a la possibilité de se faire assister, à ses frais, d'un avocat avant de faire connaître sa
+décision.
+
+La proposition indique également qu'en cas d'acceptation de sa part elle devra être adressée pour homologation selon les cas
+au procureur de la République, au juge du tribunal de police ou au juge de proximité et que le contrevenant sera alors
+informé de la décision de l'autorité judiciaire.
+
+Il est mentionné que si le contrevenant ne fait pas connaître sa réponse à la proposition de transaction dans les délais
+impartis il sera considéré comme ayant refusé la transaction et que le procès-verbal de contravention sera alors transmis au
+procureur de la République.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°58-358 1958-04-02
+
+	**Modifié par**:
+
+	  - Décret n°2007-1388 du 26 septembre 2007 - art. 9 () JORF 28 septembre 2007
+
+	**Cité par**:
+
+	  - Décret n°2008-150 du 19 février 2008 - art. 1
+	  - Décret n°2008-150 du 19 février 2008 - art. 3
+	  - CODE DE PROCEDURE PENALE - art. R15-33-29-4 (V)
+	  - Code général des collectivités territoriales - art. R2212-15 (V)
+	  - Code général des collectivités territoriales - art. R2213-60 (V)
+	  - Code général des collectivités territoriales - art. R2512-15-11 (V)
+	  - Code général des collectivités territoriales - art. R2512-15-12 (V)
+
+
+###### Article R15-33-62
+
+Dans les quinze jours à compter de l'envoi ou de la remise de la proposition de transaction, le contrevenant fait connaître
+au maire son acceptation de payer la somme demandée ou d'exécuter le travail non rémunéré en renvoyant un exemplaire signé de
+la proposition de transaction.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°58-358 1958-04-02
+
+	**Créé par**:
+
+	  - Décret n°2007-1388 du 26 septembre 2007 - art. 9 () JORF 28 septembre 2007
+
+
+###### Article R15-33-63
+
+En cas d'acceptation de la proposition par le contrevenant, le maire transmet cette dernière au procureur de la République
+aux fins d'homologation par l'autorité judiciaire compétente, accompagnée des procès-verbaux de constatation de l'infraction.
+
+Lorsque la proposition de transaction consiste en l'exécution d'un travail non rémunéré, le procureur de la République
+transmet ces documents au juge du tribunal de police ou au juge de proximité compétent, accompagnés de ses réquisitions sur
+l'homologation.
+
+L'autorité judiciaire adresse au maire dans les meilleurs délais sa décision indiquant si elle homologue ou non la
+transaction.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°58-358 1958-04-02
+
+	**Créé par**:
+
+	  - Décret n°2007-1388 du 26 septembre 2007 - art. 9 () JORF 28 septembre 2007
+
+
+###### Article R15-33-64
+
+Si la proposition de transaction est homologuée, le maire adresse ou remet au contrevenant un document l'informant de cette
+homologation, en précisant le montant de la réparation à payer ou les modalités d'exécution du travail non rémunéré ainsi que
+le délai d'exécution de la transaction.
+
+Dans le cas contraire, le maire communique la décision de l'autorité judiciaire au contrevenant.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°58-358 1958-04-02
+
+	**Créé par**:
+
+	  - Décret n°2007-1388 du 26 septembre 2007 - art. 9 () JORF 28 septembre 2007
+
+
+###### Article R15-33-65
+
+Lorsque la transaction consiste en l'exécution d'un travail non rémunéré, les dispositions des articles 131-23, 131-24, R.
+131-25, R. 131-26 et R. 131-28 du code pénal sont applicables à l'exécution de ce travail et les attributions confiées par
+ces articles au juge de l'application des peines sont exercées par le maire.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°58-358 1958-04-02
+
+	**Créé par**:
+
+	  - Décret n°2007-1388 du 26 septembre 2007 - art. 9 () JORF 28 septembre 2007
+
+
+###### Article R15-33-66
+
+Si le contrevenant refuse la proposition de transaction ou n'y donne aucune réponse dans les délais impartis, ou s'il n'a pas
+exécuté ses obligations dans les délais impartis, le maire en informe le procureur de la République.
+
+En cas d'exécution intégrale de la transaction, le maire en informe également le procureur de la République, qui constate
+alors l'extinction de l'action publique.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°58-358 1958-04-02
+
+	**Créé par**:
+
+	  - Décret n°2007-1388 du 26 septembre 2007 - art. 9 () JORF 28 septembre 2007
+
+
 ### Titre II : Des enquêtes
 
 #### Chapitre Ier : Des crimes et délits flagrants
 
-###### Article R15-33-61
+##### Section 1 : Des demandes de mise à dispositions de données par voie électronique
+
+###### Article R15-33-68
 
 Les services de police ou les unités de gendarmerie sont tenus, à la demande des seules autorités judiciaires, de délivrer
 dans les meilleurs délais aux personnes visées aux articles 16 à 29 ayant fait l'objet des dispositions de l'article 62-1 les
@@ -57529,32 +57889,26 @@ Les dispositions du présent article ne sont pas prescrites à peine de nullité
 
 	  - Décret n°58-358 1958-04-02
 
-	**Modifié par**:
-
-	  - Décret n°2003-455 du 16 mai 2003 - art. 1 () JORF 23 mai 2003
-
-	**Transféré par**:
+	**Créé par**:
 
 	  - Décret n°2007-1388 du 26 septembre 2007 - art. 9 () JORF 28 septembre 2007
 
-	**Cité par**:
+	**Liens**:
 
-	  - Décret n°2008-150 du 19 février 2008 - art. 1
-	  - Décret n°2008-150 du 19 février 2008 - art. 3
-	  - CODE DE PROCEDURE PENALE - art. R15-33-29-4 (V)
-	  - Code général des collectivités territoriales - art. R2212-15 (V)
-	  - Code général des collectivités territoriales - art. R2213-60 (V)
-	  - Code général des collectivités territoriales - art. R2512-15-11 (V)
-	  - Code général des collectivités territoriales - art. R2512-15-12 (V)
+	  - TRANSFERE: Décret n°2008-150 du 19 février 2008 - art. 1
 
-	**Cite**:
+	**Anciens textes**:
 
-	  - CODE DE PROCEDURE PENALE - art. 62-1 (M)
-	  - Code de procédure pénale 16 à 29, 62-1
+	  - CODE DE PROCEDURE PENALE - art. R15-33-61 (T)
 
 	**Nouveaux textes**:
 
-	  - CODE DE PROCEDURE PENALE - art. R15-33-68 (V)
+	  - CODE DE PROCEDURE PENALE - art. R15-33-76 (V)
+
+	**Cité par**:
+
+	  - Code de procédure pénale - art. R261-2 (V)
+	  - Code de procédure pénale - art. R40-45 (V)
 
 
 ### Titre III : Des juridictions d'instruction
@@ -59903,15 +60257,19 @@ En cas de notification par le procureur de la République ou son délégué, ce 
 
 ###### Article R41-5
 
-Le ministère public vérifie les extraits des ordonnances pénales. Il vérifie et vise l'état récapitulatif des ordonnances
-pénales, auquel sont joints les extraits mentionnés dans cet état qui est adressé, par tout moyen, par le greffier en chef au
-comptable du Trésor.
+Le ministère public vérifie les extraits des ordonnances pénales. Lorsqu'une peine d'amende a été prononcée, l'ordonnance
+fait l'objet d'un relevé de condamnation pénale adressé par le greffier en chef au comptable du Trésor conformément aux
+dispositions de l'article R. 55-5.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2005-1099 du 2 septembre 2005 - art. 3 () JORF 4 septembre 2005
+	  - Décret n°2007-1388 du 26 septembre 2007 - art. 10 () JORF 28 septembre 2007
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. R55-5 (V)
 
 
 ###### Article R41-6
@@ -60006,6 +60364,37 @@ procureur de la République ou son délégué prévue par ces mêmes articles, �
 	  - Décret n°2005-1099 du 2 septembre 2005 - art. 3 () JORF 4 septembre 2005
 
 
+###### Article R41-11
+
+En application de l'article 521, les contraventions suivantes relèvent de la compétence du tribunal de police : 
+
+1° Diffamation non publique prévue par l'article R. 621-1 du code pénal ; 
+
+2° Injure non publique prévue par l'article R. 621-2 du code pénal ; 
+
+3° Diffamation non publique présentant un caractère raciste ou discriminatoire prévue par l'article R. 624-3 du code pénal ; 
+
+4° Injure non publique présentant un caractère raciste ou discriminatoire prévue par l'article R. 624-4 du code pénal.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2007-1388 du 26 septembre 2007 - art. 10 () JORF 28 septembre 2007
+
+	**Cite**:
+
+	  - Code pénal - art. R621-1 (V)
+	  - Code pénal - art. R621-2 (V)
+	  - Code pénal - art. R624-3 (V)
+	  - Code pénal - art. R624-4 (V)
+	  - CODE DE PROCEDURE PENALE - art. 521 (V)
+
+	**Anciens textes**:
+
+	  - CODE DE PROCEDURE PENALE - art. R41-3 (T)
+
+
 ### Titre III : Du jugement des contraventions
 
 #### Chapitre II : Procédure simplifiée
@@ -60020,15 +60409,9 @@ Sauf si ces précisions figurent dans l'ordonnance pénale, cette lettre indique
 du droit fixe de procédure et, s'il y a lieu, de la majoration de l'amende, dans le délai d'un mois à compter de sa date
 d'envoi, le montant des sommes dues sera diminué de vingt pour cent.
 
-Les magistrats ou officiers du ministère public vérifient les extraits d'ordonnances pénales. Ils vérifient et visent l'état
-récapitulatif des ordonnances pénales, auquel sont joints les extraits mentionnés dans cet état, qui est adressé par le chef
-du greffe au comptable principal du Trésor.
-
-**Nota:**
-
-NOTA : Décret 2005-1099 du 2 septembre 2005 : Les dispositions du deuxième alinéa de l'article R42 du code de procédure
-pénale, résultant de l'article 4 du décret 2005-1099, entrent en vigueur le 1er octobre 2005 pour les condamnations
-prononcées à compter de cette date.
+Les magistrats ou officiers du ministère public vérifient les extraits d'ordonnances pénales. Lorsqu'une peine d'amende a été
+prononcée, l'ordonnance fait l'objet d'un relevé de condamnation pénale adressé par le greffier en chef au comptable du
+Trésor conformément aux dispositions de l'article R. 55-5.
 
 **Liens relatifs à cet article**
 
@@ -60047,12 +60430,13 @@ prononcées à compter de cette date.
 
 	**Modifié par**:
 
-	  - Décret n°2005-1099 du 2 septembre 2005 - art. 4 () JORF 4 septembre 2005
+	  - Décret n°2007-1388 du 26 septembre 2007 - art. 10 () JORF 28 septembre 2007
 
 	**Cite**:
 
 	  - CODE DE PROCEDURE PENALE - art. 526 (M)
-	  - Code de procédure pénale 526, R43 à R46
+	  - CODE DE PROCEDURE PENALE - art. R55-5 (V)
+	  - Code de procédure pénale 526, R43 à R46, R55-5
 
 	**Liens**:
 
@@ -60261,8 +60645,7 @@ routier public interurbain de voyageurs.
 
 3° Contraventions en matière de protection de l'environnement réprimées par :
 
-a) L'article R. 632-1 du code pénal relatif au dépôt ou à l'abandon de matières, d'ordures ou de déchets dans les bois,
-forêts et terrains à boiser ;
+a) L'article R. 632-1 du code pénal relatif à l'abandon d'ordures, déchets, matériaux et autres objets ;
 
 b) Les articles R. 331-63 à R. 331-66 du code de l'environnement relatifs aux coeurs de parcs nationaux et les articles
 R332-69 à R332-72 du même code relatifs aux réserves naturelles ;
@@ -60319,6 +60702,10 @@ l'article R. 3512-2.
 
 Contraventions en matière de vente de boissons alcoolisées réprimées par l'article R. 3353-5-1 du code la santé publique.
 
+**Nota:**
+
+NOTA : La présente version de cet article est en vigueur jusqu'au 10 septembre 2008.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
@@ -60357,34 +60744,31 @@ Contraventions en matière de vente de boissons alcoolisées réprimées par l'a
 	  - Décret n°98-1039 du 18 novembre 1998 - art. 12 (M)
 	  - Décret n°99-752 du 30 août 1999 - art. 19 (M)
 	  - Décret n°2000-1302 du 26 décembre 2000 - art. 10 (Ab)
-	  - Décret n°2002-747 2002-05-02 art. 16, art. 17
-	  - Décret n°2003-752 2003-08-01
-	  - Décret n°2004-1186 2004-11-08 art. 25, art. 26
+	  - Décret n°2002-747 2002-05-02 art. 17
+	  - Décret n°2004-1186 2004-11-08 art. 26
 	  - Code pénal - art. R622-2 (V)
 	  - Code pénal - art. R632-1 (M)
-	  - CODE DE PROCEDURE PENALE - art. 5 (V)
+	  - CODE DE PROCEDURE PENALE - art. 16 (M)
+	  - CODE DE PROCEDURE PENALE - art. 25 (V)
 	  - CODE DE PROCEDURE PENALE - art. R49-8-5 (V)
-	  - Code de procédure pénale R49-8-5, L133-1, R10-1, R10-2, R10-4, R10-9, 5
+	  - Code de procédure pénale R49-8-5, 16, 25, R322-5, L133-1, R10-1, R10-2, R10-4, R10-9, R3512-1, R3512-2
 	  - Code forestier - art. R133-5 (M)
 	  - Code forestier - art. R137-4 (M)
 	  - Code forestier - art. R138-20 (M)
-	  - Code forestier - art. R322-5 (M)
 	  - Code forestier - art. R322-5-1 (M)
 	  - Code forestier - art. R331-1 (M)
-	  - Code forestier - art. R331-2 (M)
 	  - Code forestier - art. R331-3 (M)
+	  - Code forestier R322-5-1, R331-3, R133-5, R137-4, R138-20, R331-1, 331-2
 	  - Code de la santé publique - art. R3353-5-1 (V)
-	  - Code de la santé publique - art. R3512-1 (M)
-	  - Code de la santé publique - art. R3512-2 (M)
 	  - Code des assurances - art. R*211-14 (M)
 	  - Code des assurances - art. R211-21-5 (V)
 	  - Code de l'environnement - art. L322-10-2 (V)
-	  - Code rural R241-61, R241-62, R241-63, 276, 276-2, 276-3, L211-14, L211-16, R215-6 à R215-8, R215-2
+	  - Code rural 276, 276-2, 276-3, R215-6, R215-7, R215-8, R215-2
 	  - Décret n°42-730 1942-03-22 art. 80-1
 
 	**Modifié par**:
 
-	  - Décret n°2007-794 du 10 mai 2007 - art. 2 () JORF 11 mai 2007
+	  - Décret n°2007-1388 du 26 septembre 2007 - art. 11 () JORF 28 septembre 2007
 
 	**Liens**:
 
@@ -60487,8 +60871,8 @@ Le montant de l'amende peut être acquitté immédiatement entre les mains de l'
 carnet de quittances à souches dont le modèle est fixé par arrêté du ministre du budget après avis des autres ministres
 intéressés.
 
-Ce paiement est effectué en espèce ou au moyen d'un chèque et donne lieu à la délivrance immédiate d'une quittance extraite
-du carnet à souches.
+Ce paiement est effectué en espèce, au moyen d'un chèque ou, si l'agent dispose du matériel à cette fin, par carte bancaire
+et donne lieu à la délivrance immédiate d'une quittance extraite du carnet à souches.
 
 **Liens relatifs à cet article**
 
@@ -60496,13 +60880,9 @@ du carnet à souches.
 
 	  - Décret n°59-318 1959-02-23
 
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°86-1044 du 18 septembre 1986 - art. 6 (V)
-
 	**Modifié par**:
 
-	  - Décret n°95-457 du 26 avril 1995 - art. 2 () JORF 28 avril 1995
+	  - Décret n°2007-1388 du 26 septembre 2007 - art. 12 () JORF 28 septembre 2007
 
 	**Cité par**:
 
@@ -60634,6 +61014,38 @@ deuxième et troisième alinéas de l'article 530.
 	  - Décret n°95-457 du 26 avril 1995 - art. 5 () JORF 28 avril 1995
 
 
+###### Article R49-6-1
+
+Lorsque l'avis d'amende forfaitaire majorée envoyé par lettre recommandée à l'adresse figurant sur le certificat
+d'immatriculation du véhicule, conformément aux dispositions du deuxième alinéa de l'article 530, est revenu avec la mention
+" n'habite plus à l'adresse indiquée " ou " parti sans laisser d'adresse ", le comptable du Trésor envoie au contrevenant une
+lettre de rappel s'il découvre sa nouvelle adresse avant l'expiration d'un délai d'un an à compter de la date d'envoi du
+recommandé. 
+
+Si, avant l'expiration du délai de trois mois courant à compter de l'envoi de la lettre de rappel, le contrevenant déclare
+son changement d'adresse au service d'immatriculation des véhicules, il bénéficie du délai de quarante-cinq jours prévu par
+le deuxième alinéa de l'article 530, à partir de la date de sa déclaration, pour payer le montant de l'amende forfaitaire non
+majorée, conformément aux dispositions de cet alinéa. Si le changement d'adresse a été fait avant l'envoi de la lettre de
+rappel, le délai de quarante-cinq jours court à compter de cet envoi. 
+
+Dans le cas où l'amende forfaitaire n'a pas été payée dans le délai imparti, le comptable engage la phase contentieuse du
+recouvrement de l'amende forfaitaire majorée.
+
+L'application des dispositions du présent article se fait sans préjudice de celles de l'article R. 322-7 du code de la route
+réprimant le défaut de déclaration de changement de domicile dans le délai d'un mois auprès du service d'immatriculation des
+véhicules.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°2007-1388 du 26 septembre 2007 - art. 12
+
+	**Cité par**:
+
+	  - Décret n°2016-541 du 3 mai 2016 - art. 26 (V)
+
+
 ###### Article R49-7
 
 Le montant de l'amende forfaitaire majorée est fixé ainsi qu'il suit :
@@ -60697,8 +61109,7 @@ l'annulation du titre exécutoire en ce qui concerne l'amende contestée.
 ###### Article R49-8-1
 
 L'exploitant d'un service public de transport terrestre mentionné à l'article 529-3 qui entend faire agréer ses agents pour
-procéder au relevé d'identité des voyageurs dépourvus de titres réguliers de transport, prévu au II de l'article 529-4,
-doit :
+procéder aux relevés d'identité prévus au II de l'article 529-4, doit :
 
 I. - Assurer une formation de ses agents portant sur :
 
@@ -60718,9 +61129,9 @@ ceux-ci.
 
 	  - Décret n°59-318 1959-02-23
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2000-1136 du 24 novembre 2000 - art. 2 () JORF 26 novembre 2000
+	  - Décret n°2007-1388 du 26 septembre 2007 - art. 12 () JORF 28 septembre 2007
 
 	**Cite**:
 
@@ -60927,9 +61338,9 @@ du certificat d'immatriculation.
 
 ###### Article R49-11
 
-Le paiement de l'amende forfaitaire minorée est effectué en espèces ou par chèque entre les mains de l'agent verbalisateur.
-Celui-ci délivre immédiatement au contrevenant une quittance, dont le modèle est fixé par arrêté du ministre chargé du
-budget.
+Le paiement de l'amende forfaitaire minorée est effectué en espèces, au moyen d'un chèque ou, si l'agent dispose du matériel
+à cette fin, par carte bancaire entre les mains de l'agent verbalisateur. Celui-ci délivre immédiatement au contrevenant une
+quittance, dont le modèle est fixé par arrêté du ministre chargé du budget.
 
 Si l'amende forfaitaire n'est pas acquittée dans les conditions prévues à l'alinéa ci-dessus, le paiement est effectué soit
 par l'apposition d'un timbre-amende sur la carte de paiement dûment remplie et renvoyée au service verbalisateur dans les
@@ -60948,15 +61359,11 @@ au moyen d'un chèque libellé à l'ordre du Trésor public.
 
 	**Modifié par**:
 
-	  - Décret n°2003-642 du 11 juillet 2003 - art. 3 () JORF 12 juillet 2003
+	  - Décret n°2007-1388 du 26 septembre 2007 - art. 12 () JORF 28 septembre 2007
 
 	**Cité par**:
 
 	  - Décret n°2014-551 du 27 mai 2014 - art. 62 (V)
-
-	**Cite**:
-
-	  - CODE DE PROCEDURE PENALE - art. 529-8 (M)
 
 
 ###### Article R49-12
@@ -62145,15 +62552,50 @@ déposées à compter de sa publication.
 	  - Décret n°2005-564 du 27 mai 2005 - art. 3 () JORF 28 mai 2005
 
 
-### Titre XV : Diligences incombant au ministère public pour l'application de l'article 706-37
+### Titre XV : De la poursuite, de l'instruction et du jugement des actes de terrorisme
+
+###### Article R50-29
+
+Pour l'application de l'article 706-24, il est tenu, au parquet général de la cour d'appel de Paris, un registre coté et
+paraphé dans lequel sont mentionnées les autorisations de s'identifier par leur numéro d'immatriculation administrative
+délivrées par le procureur général de Paris à des officiers ou agents de police judiciaire affectés dans des services de
+police judiciaire spécialement chargés de la lutte contre le terrorisme et auquel sont annexées les copies de ces
+autorisations. 
+
+Les numéros d'immatriculation administrative sont donnés par le chef du service. Ils peuvent être différents pour chaque
+procédure à laquelle participent les officiers ou agents de police judiciaire. Ces numéros sont mentionnés, pour chaque
+procédure, dans un registre coté et paraphé détenu par le service, registre auquel sont annexées les autorisations. Les
+autorisations sont valables pendant toute la durée de l'affectation des officiers ou agents de police judiciaire dans le
+service. 
+
+Ces officiers et agents peuvent ne pas signer de leur signature habituelle les procès-verbaux qu'ils établissent, en
+recourant à une signature reproduisant, le cas échéant, tout ou partie du numéro d'immatriculation et dont ils ont apposé un
+exemplaire dans le registre prévu au deuxième alinéa du présent article.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-318 1959-02-23
+
+	**Créé par**:
+
+	  - Décret n°2007-1388 du 26 septembre 2007 - art. 13 () JORF 28 septembre 2007
+
+	**Cite**:
+
+	  - Code de procédure pénale - art. 706-24 (V)
+
+
+### Titre XVII : De la poursuite, de l'instruction et du jugement des infractions en matière de proxénétisme ou de recours à la prostitution des mineurs
 
 ###### Article R51
 
 L'information prévue par l'article 706-37 est effectuée par lettre recommandée avec demande d'avis de réception. Lorsqu'il
 ressort de l'accusé de réception que le destinataire est inconnu à l'adresse indiquée, la notification est effectuée par les
-services de police ou de gendarmerie.
+services de police ou de gendarmerie. 
 
-La copie de la lettre recommandée ou le procès-verbal de police ou de gendarmerie est annexé à la procédure.
+La copie de la lettre recommandée ou le procès-verbal de police ou de gendarmerie est annexé à la procédure. 
 
 Cette information n'est pas effectuée auprès des personnes qui font elles-mêmes l'objet des poursuites.
 
@@ -62165,11 +62607,7 @@ Cette information n'est pas effectuée auprès des personnes qui font elles-mêm
 
 	**Modifié par**:
 
-	  - Décret n°99-1050 du 14 décembre 1999 - art. 1 () JORF 16 décembre 1999
-
-	**Cite**:
-
-	  - CODE DE PROCEDURE PENALE - art. 706-37 (M)
+	  - Décret n°2007-1388 du 26 septembre 2007 - art. 13 () JORF 28 septembre 2007
 
 	**Cité par**:
 
@@ -62178,13 +62616,17 @@ Cette information n'est pas effectuée auprès des personnes qui font elles-mêm
 	  - Code de procédure pénale - art. R284 (V)
 	  - Code des débits de boissons et des mesures contre  - art. R*3-1 (Ab)
 
+	**Cite**:
+
+	  - Code de procédure pénale - art. 706-37 (V)
+
 
 ###### Article R51-1
 
 Dès l'engagement des poursuites, lorsque celles-ci concernent un établissement dont le propriétaire ou l'exploitant est
 immatriculé au registre du commerce et des sociétés, le ministère public adresse au greffier du tribunal du commerce dans le
 ressort duquel est situé l'établissement une réquisition afin que soient portées à ce registre les informations mentionnées à
-l'article 706-37.
+l'article 706-37. 
 
 Cette réquisition, établie en double exemplaire, précise :
 
@@ -62194,16 +62636,16 @@ sociales pour les personnes morales ;
 - l'identité de la personne poursuivie s'il ne s'agit pas de l'exploitant du fonds de commerce, la nature, le fondement et la
 date des poursuites engagées ;
 
-- l'activité et l'adresse de l'établissement concerné et, le cas échéant, le nom commercial et l'enseigne de celui-ci.
+- l'activité et l'adresse de l'établissement concerné et, le cas échéant, le nom commercial et l'enseigne de celui-ci. 
 
 Dès réception de la réquisition, les mentions sont portées par le greffier au registre du commerce et des sociétés et, le cas
 échéant, aux registres sur lesquels sont inscrits les privilèges et les sûretés. L'un des exemplaires de la réquisition est
 conservé au greffe en annexe du registre du commerce et des sociétés, l'autre est retourné au ministère public après
 apposition par le greffier d'une mention certifiant l'accomplissement des formalités requises et la date à laquelle celles-ci
 ont été effectuées. Le greffier joint à cet envoi un extrait actualisé du registre du commerce et des sociétés et, le cas
-échéant, un relevé des sûretés inscrites.
+échéant, un relevé des sûretés inscrites. 
 
-Il est procédé dans les mêmes formes lorsqu'intervient la décision judiciaire définitive.
+Il est procédé dans les mêmes formes lorsqu'intervient la décision judiciaire définitive. 
 
 En cas de non-lieu ou de relaxe, le ministère public adresse au greffier, selon les modalités définies au deuxième alinéa,
 une réquisition aux fins de radiation des mentions prévues ci-dessus. Le greffier procède aux radiations requises, annexe au
@@ -62218,19 +62660,19 @@ des sûretés inscrites.
 
 	  - Décret n°59-318 1959-02-23
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°99-1050 du 14 décembre 1999 - art. 1 () JORF 16 décembre 1999
-
-	**Cite**:
-
-	  - CODE DE PROCEDURE PENALE - art. 706-37 (M)
+	  - Décret n°2007-1388 du 26 septembre 2007 - art. 13 () JORF 28 septembre 2007
 
 	**Cité par**:
 
 	  - Code de la construction et de l'habitation. - art. R651-2 (V)
 	  - Code de procédure pénale - art. R286 (V)
 	  - Code des débits de boissons et des mesures contre  - art. R*3-1 (Ab)
+
+	**Cite**:
+
+	  - Code de procédure pénale - art. 706-37 (V)
 
 
 ### Titre XIX : De la procédure applicable aux infractions de nature sexuelle et aux mineurs victimes
@@ -64794,27 +65236,28 @@ matière de chasse.
 
 La diminution porte sur l'ensemble des sommes dues.
 
-**Nota:**
-
-
+Lorsqu'une consignation a été versée en application des dispositions de l'article 529-10 du présent code ou de l'article L.
+121-4 du code de la route, la diminution ne porte que sur les sommes restant dues.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
 	  - CGI 1018 A
+	  - CODE DE PROCEDURE PENALE - art. 529-10 (M)
 	  - CODE DE PROCEDURE PENALE - art. 707-2 (V)
 	  - Code des assurances - art. L211-27 (V)
 	  - Code des assurances - art. L421-8 (M)
+	  - Code de la route. - art. L121-4 (V)
 	  - Code de la route. - art. L324-2 (V)
-
-	**Créé par**:
-
-	  - Décret n°2005-1099 du 2 septembre 2005 - art. 5 () JORF 4 septembre 2005
 
 	**Codifié par**:
 
 	  - Décret n°59-318 1959-02-03
+
+	**Modifié par**:
+
+	  - Décret n°2007-1388 du 26 septembre 2007 - art. 14 () JORF 28 septembre 2007
 
 
 ##### Section 2 : Procédure
@@ -65174,9 +65617,14 @@ Le chef d'établissement est compétent pour prendre les décisions administrati
 2° Délivrance des autorisations de visiter l'établissement pénitentiaire qu'il dirige.
 
 Pour les compétences définies par la partie réglementaire du présent code le chef d'établissement pénitentiaire peut déléguer
-sa signature à un agent d'encadrement placé sous son autorité.
+sa signature à son adjoint, à un directeur des services pénitentiaires ou à un membre du corps de commandement placé sous son
+autorité.
 
 **Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°2007-1388 du 26 septembre 2007 - art. 15 () JORF 28 septembre 2007
 
 	**Cité par**:
 
@@ -65186,11 +65634,6 @@ sa signature à un agent d'encadrement placé sous son autorité.
 	**Codifié par**:
 
 	  - Décret n°59-318 1959-02-03
-
-	**Créé par**:
-
-	  - Décret n°2006-337 du 21 mars 2006 - art. 1 () JORF 23 mars 2006 en vigueur le 1er juin 2006
-	  - Décret n°2006-337 du 21 mars 2006 - art. 2 () JORF 23 mars 2006 en vigueur le 1er juin 2006
 
 
 ###### Article R57-9
@@ -69050,13 +69493,14 @@ a) Experts et traducteurs interprètes ;
 
 b) Personnes chargées des enquêtes sociales ou de personnalité ;
 
-c) Personnes contribuant au contrôle judiciaire ;
+c) Personnes contribuant au contrôle judiciaire ou, dans le cas prévu par le cinquième alinéa de l'article 471, au sursis
+avec mise à l'épreuve (1) ;
 
 d) Médiateurs du procureur de la République chargés d'une mission de médiation en application des dispositions du 5° de
 l'article 41-1 ;
 
-e) Délégués du procureur de la République chargés d'une des missions prévues par les 1° à 4° de l'article 41-1 ou intervenant
-au cours d'une composition pénale.
+e) Délégués du procureur de la République chargés d'une des missions prévues par les 1°, 2°, 3°, 4° et 6° de l'article 41-1
+ou intervenant au cours d'une composition pénale (1).
 
 4° Les indemnités qui peuvent être accordées aux témoins, aux jurés par application des articles R. 123 à R. 146 et aux
 parties civiles par application des articles 375-1 et 422.
@@ -69110,6 +69554,11 @@ application des dispositions de l'article R. 53-6 ;
 23° Les frais correspondant à la fourniture des données conservées en application du II de l'article L. 34-1 du code des
 postes et des communications électroniques.
 
+**Nota:**
+
+NOTA (1) : Décret 2007-1388 du 26 septembre 2007 art. 16 V : Les dispositions du présent article entrent en vigueur à la date
+fixée par l'arrêté prévu par l'article R121 du code de procédure pénale.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
@@ -69120,17 +69569,20 @@ postes et des communications électroniques.
 
 	  - Loi n°90-1170 1990-12-29 art. 28
 	  - Décret n°95-692 1995-05-09
-	  - Code des postes et des communications électronique - art. L34-1 (M)
+	  - Décret n°2007-1388 2007-09-26
 	  - CODE DE PROCEDURE PENALE - art. 149 (M)
 	  - CODE DE PROCEDURE PENALE - art. 150 (M)
+	  - CODE DE PROCEDURE PENALE - art. 16 (M)
 	  - CODE DE PROCEDURE PENALE - art. 375-1 (V)
 	  - CODE DE PROCEDURE PENALE - art. 41-1 (M)
 	  - CODE DE PROCEDURE PENALE - art. 422 (V)
+	  - CODE DE PROCEDURE PENALE - art. 471 (M)
 	  - CODE DE PROCEDURE PENALE - art. 706-4 (M)
 	  - CODE DE PROCEDURE PENALE - art. 800-2 (V)
+	  - CODE DE PROCEDURE PENALE - art. R121 (M)
 	  - CODE DE PROCEDURE PENALE - art. R53 (M)
 	  - CODE DE PROCEDURE PENALE - art. R53-6 (M)
-	  - Code de procédure pénale 41-1, R123 à R146, 375-1, 422, 149, 150, 706-4, R53, R53-6, 800-2
+	  - Code de procédure pénale 471, 41-1, R123 à R146, 375-1, 422, 149, 150, 706-4, R53, R53-6, 800-2, R121, 16
 
 	**Cité par**:
 
@@ -69157,7 +69609,7 @@ postes et des communications électroniques.
 
 	**Modifié par**:
 
-	  - Décret n°2006-358 du 24 mars 2006 - art. 3 () JORF 26 mars 2006
+	  - Décret n°2007-1388 du 26 septembre 2007 - art. 16 () JORF 28 septembre 2007
 
 
 ###### Article R93
@@ -70356,18 +70808,20 @@ Il est alloué à chaque expert régulièrement requis ou commis :
 	  - Code de procédure pénale - art. R251 (VT)
 
 
-##### Paragraphe 2 : Des personnes chargées des enquêtes sociales et de personnalité ou contribuant au contrôle judiciaire ainsi que des médiateurs et des délégués du procureur de la République
+##### Paragraphe 2 : Des personnes chargées des enquêtes sociales et de personnalité ou contribuant au contrôle judiciaire ou au sursis avec mise à l'épreuve ainsi que des médiateurs et des délégués du procureur de la République
 
 ###### Article R121
 
 En sus du remboursement de leurs frais de déplacement, calculés dans les conditions fixées pour les déplacements des
-fonctionnaires du groupe II, il est alloué aux personnes physiques habilitées :
+personnels civils de l'Etat pour le ministère de la justice, il est alloué aux personnes physiques et aux associations
+mentionnées par les articles R. 121-1 à R. 121-4, pour les missions et selon les distinctions prévues par ces articles, des
+indemnités dont les montants IP. 1 à IP. 14 ou IA. 1 à IA. 14 exprimés en euros sont fixés par arrêté conjoint du ministre
+chargé du budget et du ministre de la justice.
 
-1° Pour la vérification de la situation matérielle, familiale ou sociale des personnes faisant l'objet d'une enquête prévue
-par les articles 41 (alinéa 6) et 81 (alinéa 7) : 38,87 euros ;
+**Nota:**
 
-2° Pour l'enquête sur la personnalité des personnes mises en examen ainsi que sur leur situation matérielle, familiale ou
-sociale, prévue par l'article 81 (alinéa 6) : 73,18 euros.
+Décret 2007-1388 du 26 septembre 2007 art. 16 V : Les dispositions du présent article entreront en vigueur à la date fixée
+par l'arrêté prévu par l'article R121 du code de procédure pénale.
 
 **Liens relatifs à cet article**
 
@@ -70386,25 +70840,51 @@ sociale, prévue par l'article 81 (alinéa 6) : 73,18 euros.
 
 	**Modifié par**:
 
-	  - Décret n°2004-32 du 9 janvier 2004 - art. 3 () JORF 10 janvier 2004
+	  - Décret n°2007-1388 du 26 septembre 2007 - art. 16 () JORF 28 septembre 2007
 
 	**Cite**:
 
-	  - CODE DE PROCEDURE PENALE - art. 41 (M)
-	  - CODE DE PROCEDURE PENALE - art. 81 (M)
+	  - Code de procédure pénale - art. R121-1 (V)
 
+	**Liens**:
+
+	  - SPEC_APPLI: Date d'entrée en vigueur indéterminée
+
+
+##### A. - Personnes physiques
 
 ###### Article R121-1
 
-En sus du remboursement de leurs frais de déplacement, calculés dans les conditions fixées pour les déplacements des
-fonctionnaires du groupe II, il est alloué aux enquêteurs de personnalité et aux personnes physiques pour la mission de
-contrôle judiciaire exercée sur chaque personne mise en examen, en application du 6° de l'article 138 (alinéa 2) :
+Il est alloué aux enquêteurs de personnalité et aux contrôleurs judiciaires, personnes physiques habilitées :
 
-51,83 euros lorsque la mission de contrôle judiciaire dure trois mois ou moins ;
+1° Pour la vérification de la situation matérielle, familiale ou sociale des personnes faisant l'objet d'une enquête prévue
+par les articles 41 (alinéa 6) et 81 (alinéa 7) : IP. 1 ;
 
-110,53 euros lorsque la mission de contrôle judiciaire dure plus de trois mois sans excéder un an ;
+2° Pour l'enquête sur la personnalité des personnes mises en examen ainsi que sur leur situation matérielle, familiale ou
+sociale, prévue par l'article 81 (alinéa 6) : IP.2 ;
 
-152,45 euros lorsque la mission de contrôle judiciaire dure plus d'un an.
+3° Pour la mission de contrôle judiciaire exercée sur chaque personne mise en examen, en application des 6° ou 17° de
+l'article 138 :
+
+- IP. 3 lorsque la mission de contrôle judiciaire dure trois mois ou moins ;
+
+- IP. 4 lorsque la mission de contrôle judiciaire dure plus de trois mois sans excéder un an ;
+
+- IP. 5 lorsque la mission de contrôle judiciaire dure plus d'un an.
+
+4° Pour une mission de mise en oeuvre d'un sursis avec mise à l'épreuve leur ayant été confiée en application des
+dispositions du dernier alinéa de l'article 471 :
+
+- IP. 3 lorsque la mission dure trois mois ou moins ;
+
+- IP. 4 lorsqu'elle dure plus de trois mois sans excéder un an ;
+
+- IP. 5 lorsqu'elle dure plus d'un an.
+
+**Nota:**
+
+Décret 2007-1388 du 26 septembre 2007 art. 16 V : Les dispositions du présent article entreront en vigueur à la date fixée
+par l'arrêté prévu par l'article R121 du code de procédure pénale.
 
 **Liens relatifs à cet article**
 
@@ -70414,7 +70894,7 @@ contrôle judiciaire exercée sur chaque personne mise en examen, en application
 
 	**Modifié par**:
 
-	  - Décret n°2004-32 du 9 janvier 2004 - art. 4 () JORF 10 janvier 2004
+	  - Décret n°2007-1388 du 26 septembre 2007 - art. 16 () JORF 28 septembre 2007
 
 	**Cité par**:
 
@@ -70425,47 +70905,57 @@ contrôle judiciaire exercée sur chaque personne mise en examen, en application
 	  - Code de la sécurité sociale. - art. D311-1 (V)
 	  - Code de procédure pénale - art. R121 (V)
 
-	**Cite**:
+	**Liens**:
 
-	  - CODE DE PROCEDURE PENALE - art. 138 (M)
+	  - SPEC_APPLI: Date d'entrée en vigueur indéterminée
 
 
 ###### Article R121-2
 
-En sus du remboursement de leurs frais de déplacement, calculés dans les conditions fixées pour les déplacements des
-fonctionnaires du groupe II, il est alloué aux délégués et aux médiateurs du procureur de la République :
+Il est alloué aux délégués et aux médiateurs du procureur de la République, personnes physiques habilitées : 
 
 1° Pour une mission tendant à procéder au rappel des obligations résultant de la loi en application des dispositions du 1° de
-l'article 41-1 ou à notifier une ordonnance pénale en application des dispositions de l'article 495-3 : 7,62 euros ;
+l'article 41-1, à notifier une ordonnance pénale en application des dispositions de l'article 495-3, à procéder, dans le
+cadre d'une réparation pénale, à la notification de la mesure et au recueil de l'accord du mineur et des titulaires de
+l'exercice de l'autorité parentale, ou à notifier une peine de stage de citoyenneté, de stage de sensibilisation aux dangers
+de l'usage des produits stupéfiants, ou de stage de responsabilité parentale dont le contrôle de la mise en oeuvre est confié
+au service d'insertion ou de probation ou à une autre personne habilitée : IP. 6 ;
 
-2° Pour une mission tendant à favoriser la réparation du dommage, la régularisation d'une situation ou l'orientation vers une
-structure sanitaire, sociale ou professionnelle en application des dispositions des 2°, 3° et 4° de l'article 41-1 et à
-vérifier le respect par la personne de ses engagements, ainsi que pour une mission de contrôle de la mise en oeuvre de la
-peine de stage de citoyenneté : 15,24 euros ;
+2° Pour une mission tendant à favoriser la régularisation d'une situation ou l'orientation vers une structure sanitaire,
+sociale ou professionnelle n'impliquant pas l'accomplissement d'un stage, en application des dispositions des 2° et 3° de
+l'article 41-1 et à vérifier le respect par la personne de ses engagements : IP. 7 ;
 
-3° Pour une mission de médiation en application des dispositions du 5° de l'article 41-1 : 38,87 euros ;
+3° Pour une mission tendant à favoriser la réparation du dommage, l'accomplissement d'un stage ou l'éloignement du domicile,
+en application des dispositions des 2°, 4° et 6° de l'article 41-1, et à vérifier le respect par la personne de ses
+engagements, ainsi que pour une mission de contrôle de la mise en oeuvre de la peine de stage de citoyenneté, stage de
+sensibilisation aux dangers de l'usage des produits stupéfiants ou stage de responsabilité parentale :
 
-4° Pour une composition pénale :
+IP.8 ;
 
-a) Pour la notification des mesures proposées et le recueil de l'accord de la personne : 15,24 euros ;
+4° Pour une mission de médiation en application des dispositions du 5° de l'article 41-1 : IP.9 ;
 
-b) Pour le contrôle de l'exécution des mesures décidées : 7,62 euros lorsqu'il s'agit d'une des mesures prévues aux 1° à 5°
-et 8° à 12° de l'article 41-2 ; 15,24 euros lorsqu'est également décidée une des mesures prévues aux 6°, 7° et 13° de
-l'article 41-2 ou celle prévue au quinzième alinéa de cet article. Le montant cumulé des sommes ainsi allouées ne peut
-toutefois excéder celui dû pour quatre de ces mesures.
+5° Pour une composition pénale :
 
-Lorsque la personne habilitée est une association qui a passé une convention avec le premier président et le procureur
-général de la cour d'appel dans le ressort de laquelle est situé son siège, l'indemnité prévue au 1° est portée à 11,43
-euros, l'indemnité prévue au 2° à 30,49 euros, l'indemnité prévue au 3° est portée à 76,22 euros lorsque la durée de la
-mission est inférieure ou égale à un mois, 152,45 euros lorsque cette durée est supérieure à un mois et inférieure ou égale à
-trois mois et 304,90 euros lorsqu'elle est supérieure à trois mois, et les indemnités prévues au 4° sont respectivement
-portées à 30,49, 15,24 et 30,49 euros.
+a)  Pour la notification des mesures proposées et le recueil de l'accord de la personne : IP.10 ;
 
-Lorsque les mesures prévues aux 1° à 3° ci-dessus concernent un mineur, le délégué ou le Médiateur du procureur qui doit
-procéder à l'audition des responsables légaux du mineur se voit allouer une indemnité supplémentaire de 7,62 euros.
+b) Pour le contrôle de l'exécution des mesures décidées : IP.11 lorsqu'il s'agit d'une des mesures prévues aux 1° à 5° et 8°
+à 12° de l'article 41-2 ; IP.12 lorsque est également décidée une des mesures prévues aux 6°, 7° et 13° à 17° de l'article
+41-2 ou la mesure de réparation du préjudice. Le montant cumulé des sommes ainsi allouées ne peut toutefois excéder celui dû
+pour quatre de ces mesures.
+
+Lorsque les mesures prévues aux 1° à 5° ci-dessus concernent un mineur, le délégué ou le médiateur du procureur qui doit
+procéder à l'audition des responsables légaux du mineur se voit allouer une indemnité supplémentaire de IP.13.
 
 L'indemnité prévue au 1° pour les rappels des obligations résultant de la loi n'est pas cumulable avec celles prévues aux 2°,
-3° ou 4°.
+3°, 4° ou 5°.
+
+Lorsque le délégué ou le médiateur n'a pu remplir sa mission en raison de la carence de l'intéressé qui n'a pas répondu aux
+convocations, l'indemnité est de IP.14.
+
+**Nota:**
+
+Décret 2007-1388 du 26 septembre 2007 art. 16 V : Les dispositions du présent article entreront en vigueur à la date fixée
+par l'arrêté prévu par l'article R121 du code de procédure pénale.
 
 **Liens relatifs à cet article**
 
@@ -70480,41 +70970,122 @@ L'indemnité prévue au 1° pour les rappels des obligations résultant de la lo
 
 	**Modifié par**:
 
-	  - Décret n°2004-1021 du 27 septembre 2004 - art. 17 () JORF 29 septembre 2004
+	  - Décret n°2007-1388 du 26 septembre 2007 - art. 16 () JORF 28 septembre 2007
 
 	**Cite**:
 
 	  - CODE DE PROCEDURE PENALE - art. 41-1 (M)
 	  - CODE DE PROCEDURE PENALE - art. 41-2 (M)
 	  - CODE DE PROCEDURE PENALE - art. 495-3 (M)
+	  - CODE DE PROCEDURE PENALE - art. R121 (M)
 
+	**Liens**:
+
+	  - SPEC_APPLI: Date d'entrée en vigueur indéterminée
+
+
+##### B. - Associations
 
 ###### Article R121-3
 
-En sus du remboursement des frais de déplacement, qui a lieu dans les conditions prévues par la réglementation applicable aux
-fonctionnaires de l'Etat, il est alloué à la personne morale habilitée ayant passé la convention prévue au troisième alinéa
-de l'article R. 15-37 une indemnité fixée comme suit :
+Il est alloué à l'association habilitée ayant passé la convention prévue au troisième alinéa de l'article R. 15-37 :
 
 1° Pour la vérification de la situation matérielle, familiale ou sociale d'une personne faisant l'objet d'une enquête,
-accomplie en application du sixième alinéa de l'article 41 ou du septième alinéa de l'article 81 : 14 unités de base ;
+accomplie en application du sixième alinéa de l'article 41 ou du septième alinéa de l'article 81 : IA. 1 ;
 
 2° Pour la tenue d'une permanence les samedis, dimanches ou jours fériés, lorsque pendant celle-ci aucune mesure n'a été
-prescrite en application du sixième alinéa de l'article 41 ou du septième alinéa de l'article 81 : 14 unités de base ;
+prescrite en application du sixième alinéa de l'article 41 ou du septième alinéa de l'article 81 : IA. 2 ;
 
 3° Pour une enquête sur la personnalité d'une personne mise en examen ainsi que sur sa situation matérielle, familiale ou
-sociale, menée en application du sixième alinéa de l'article 81 : 222 unités de base ;
+sociale, menée en application du sixième alinéa de l'article 81 : IA. 3 ;
 
-4° Pour une mission de mise en oeuvre d'une des obligations du contrôle judiciaire énumérées au 6° de l'article 138 : 185
-unités de base pour les six premiers mois de contrôle judiciaire et 74 unités de base par période de six mois supplémentaires
-dans la limite de trente-six mois.
+4° Pour une mission de mise en oeuvre d'une des obligations du contrôle judiciaire énumérées au 6° ou au 17° de l'article
+138 :
+
+IA. 4 pour les six premiers mois de contrôle judiciaire et IA. 5 par période de six mois supplémentaires dans la limite de
+trente-six mois ;
+
+5° Pour une mission de mise en oeuvre d'un sursis avec mise à l'épreuve lui ayant été confiée en application des dispositions
+du dernier alinéa de l'article 471 : IA. 5 par période de six mois.
 
 L'indemnité est majorée de 10 % pour les mesures ordonnées par une juridiction dans le ressort de laquelle la population,
 selon les données authentifiées du dernier recensement, est au plus égale à 170 000 habitants.
 
-L'indemnité est réduite de 70 % pour celles des mesures mentionnées aux 3° et 4° ci-dessus qui sont exécutées, pour le compte
-de la personne morale habilitée, par une personne qui n'est pas salariée par elle.
+L'indemnité est réduite de 70 % pour celles des mesures mentionnées aux 3°, 4° et 5° ci-dessus qui sont exécutées, pour le
+compte de la personne morale habilitée, par une personne qui n'est pas salariée par elle.
 
-La valeur de l'unité de base est fixée par arrêté conjoint du ministre chargé du budget et du ministre de la justice.
+**Nota:**
+
+Décret 2007-1388 du 26 septembre 2007 art. 16 V : Les dispositions du présent article entreront en vigueur à la date fixée
+par l'arrêté prévu par l'article R121 du code de procédure pénale.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: Date d'entrée en vigueur indéterminée
+
+	**Codifié par**:
+
+	  - Décret n°59-318 1959-02-23
+
+	**Cité par**:
+
+	  - Arrêté du 12 janvier 2004 - art. 1 (V)
+	  - CODE DE PROCEDURE PENALE - art. A43-5 (V)
+
+	**Modifié par**:
+
+	  - Décret n°2007-1388 du 26 septembre 2007 - art. 16 () JORF 28 septembre 2007
+
+
+###### Article R121-4
+
+Il est alloué à l'association habilitée ayant passé une convention avec le premier président et le procureur général de la
+cour d'appel dans le ressort de laquelle est situé son siège :
+
+1° Pour une mission tendant à procéder au rappel des obligations résultant de la loi en application des dispositions du 1° de
+l'article 41-1, à notifier une ordonnance pénale en application des dispositions de l'article 495-3, à procéder, dans le
+cadre d'une réparation pénale, à la notification de la mesure et au recueil de l'accord du mineur et des titulaires de
+l'exercice de l'autorité parentale, ou à notifier une peine de stage de citoyenneté, de stage de sensibilisation aux dangers
+de l'usage des produits stupéfiants ou de stage de responsabilité parentale dont le contrôle de la mise en oeuvre est confié
+au service d'insertion ou de probation ou une autre personne habilitée : IA.6 ;
+
+2° Pour une mission tendant à favoriser la régularisation d'une situation ou l'orientation vers une structure sanitaire,
+sociale ou professionnelle n'impliquant pas l'accomplissement d'un stage, en application des dispositions des 2° et 3° de
+l'article 41-1 et à vérifier le respect par la personne de ses engagements : IA.7 ;
+
+3° Pour une mission tendant à favoriser la réparation du dommage, l'accomplissement d'un stage ou l'éloignement du domicile
+en application des dispositions des 2°, 4° et 6° de l'article 41-1 et à vérifier le respect par la personne de ses
+engagements, ainsi que pour une mission de contrôle de la mise en oeuvre de la peine de stage de citoyenneté, stage de
+sensibilisation aux dangers de l'usage des produits stupéfiants ou stage de responsabilité parentale :
+
+IA.8 ;
+
+4° Pour une mission de médiation en application des dispositions du 5° de l'article 41-1 : IA.9 ;
+
+5° Pour une composition pénale :
+
+a)  Pour la notification des mesures proposées et le recueil de l'accord de la personne : IA.10 ;
+
+b) Pour le contrôle de l'exécution des mesures décidées : IA 11 lorsqu'il s'agit d'une des mesures prévues aux 1° à 5° et 8°
+à 12° de l'article 41-2 ; IA.12 lorsqu'est également décidée une des mesures prévues aux 6°, 7° et 13° à 17° de l'article
+41-2 ou la mesure de réparation du préjudice. Le montant cumulé des sommes ainsi allouées ne peut toutefois excéder celui dû
+pour quatre de ces mesures.
+
+Lorsque les mesures prévues aux 1° à 5° ci-dessus concernent un mineur, le délégué ou le médiateur du procureur qui doit
+procéder à l'audition des responsables légaux du mineur se voit allouer une indemnité supplémentaire de IA.13.
+
+L'indemnité prévue au 1° pour les rappels des obligations résultant de la loi n'est pas cumulable avec celles prévues aux 2°,
+3°, 4° ou 5°.
+
+Lorsque le délégué ou le médiateur n'a pu remplir sa mission en raison de la carence de l'intéressé qui n'a pas répondu aux
+convocations, l'indemnité est de IA.14.
+
+**Nota:**
+
+Décret 2007-1388 du 26 septembre 2007 art. 16 V : Les dispositions du présent article entreront en vigueur à la date fixée
+par l'arrêté prévu par l'article R121 du code de procédure pénale.
 
 **Liens relatifs à cet article**
 
@@ -70524,19 +71095,18 @@ La valeur de l'unité de base est fixée par arrêté conjoint du ministre charg
 
 	**Créé par**:
 
-	  - Décret n°2004-32 du 9 janvier 2004 - art. 5 () JORF 10 janvier 2004
-
-	**Cité par**:
-
-	  - Arrêté du 12 janvier 2004 - art. 1 (V)
-	  - CODE DE PROCEDURE PENALE - art. A43-5 (V)
+	  - Décret n°2007-1388 du 26 septembre 2007 - art. 16 () JORF 28 septembre 2007
 
 	**Cite**:
 
-	  - CODE DE PROCEDURE PENALE - art. 138 (M)
-	  - CODE DE PROCEDURE PENALE - art. 41 (M)
-	  - CODE DE PROCEDURE PENALE - art. 81 (M)
-	  - CODE DE PROCEDURE PENALE - art. R15-37 (M)
+	  - CODE DE PROCEDURE PENALE - art. 41-1 (M)
+	  - CODE DE PROCEDURE PENALE - art. 41-2 (M)
+	  - CODE DE PROCEDURE PENALE - art. 495-3 (M)
+	  - CODE DE PROCEDURE PENALE - art. R121 (M)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Date d'entrée en vigueur indéterminée
 
 
 ##### Paragraphe 3 : Des interprètes traducteurs
@@ -71701,20 +72271,25 @@ ministère public, soit par les défenseurs des prévenus ou accusés, mais seul
 ###### Article R165
 
 En matière pénale, la délivrance, lorsqu'elle est autorisée, de reproductions de pièces de procédures autres que les
-décisions est rémunérée à raison de 3 F. par page.
+décisions est rémunérée à raison de 0,46 euro par page. S'il a été procédé à la numérisation de la procédure, la copie peut
+être délivrée sous forme numérisée ; elle est alors rémunérée à raison de 5 euros par support numérique, quel que soit le
+nombre de pages figurant sur ce support. 
 
-Toutefois, la délivrance de la première reproduction de chaque acte est gratuite lorsqu'elle est demandée soit par l'avocat
-de la partie, soit par la partie elle-même si celle-ci n'est pas représentée par un avocat.
+Toutefois, la délivrance de la première reproduction de chaque acte, sous support papier ou sous support numérique, est
+gratuite lorsqu'elle est demandée soit par l'avocat de la partie, soit par la partie elle-même si celle-ci n'est pas
+représentée par un avocat. 
+
+Lorsqu'il s'agit d'une procédure d'information dont le dossier a fait l'objet d'une numérisation, la copie délivrée en
+application du quatrième alinéa de l'article 114 l'est sous forme numérique, sauf décision contraire du juge d'instruction. 
+
+Les copies réalisées sont tenues à la disposition du demandeur au greffe de la juridiction, ou, à sa demande, lui sont
+adressées à ses frais par voie postale.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°59-318 1959-02-23
-
-	**Modifié par**:
-
-	  - Décret n°2001-689 du 31 juillet 2001 - art. 2 () JORF 1er août 2001
 
 	**Cité par**:
 
@@ -71725,9 +72300,17 @@ de la partie, soit par la partie elle-même si celle-ci n'est pas représentée 
 	  - Code de procédure pénale - art. R334 (V)
 	  - Code de procédure pénale - art. R57-6-1 (V)
 
+	**Modifié par**:
+
+	  - Décret n°2007-1388 du 26 septembre 2007 - art. 16 () JORF 28 septembre 2007
+
 	**Liens**:
 
 	  - TXT_SOURCE: CODE DE PROCEDURE PENALE - art. 800 (M)
+
+	**Cite**:
+
+	  - Code de procédure pénale - art. 114 (V)
 
 
 ##### Section 6 : Des émoluments et indemnités alloués aux huissiers de justice et aux agents de la force publique
@@ -71736,13 +72319,16 @@ de la partie, soit par la partie elle-même si celle-ci n'est pas représentée 
 
 ###### Article R179
 
-Chaque huissier de justice audiencier reçoit une indemnité de :
+Chaque huissier de justice audiencier reçoit une indemnité journalière de :
 
-1° 15 euros pour le service d'une audience de cour d'assises et de la Cour de cassation ;
+1° 20 euros pour le service d'une audience de la Cour de cassation ;
 
-2° 10 euros pour le service d'une audience du tribunal correctionnel ou du tribunal pour enfants ;
+2° 50 euros pour le service d'une audience de la cour d'assises ;
 
-3° 7,5 euros pour le service d'une audience du tribunal de police ou de la juridiction de proximité.
+3° 30 euros pour le service d'une audience du tribunal correctionnel, du tribunal pour enfants ou d'une chambre des appels
+correctionnels ;
+
+4° 15 euros pour le service d'une audience du tribunal de police.
 
 **Liens relatifs à cet article**
 
@@ -71752,7 +72338,7 @@ Chaque huissier de justice audiencier reçoit une indemnité de :
 
 	**Modifié par**:
 
-	  - Décret n°2004-1021 du 27 septembre 2004 - art. 12 () JORF 29 septembre 2004
+	  - Décret n°2007-1388 du 26 septembre 2007 - art. 16 () JORF 28 septembre 2007
 
 	**Cité par**:
 
@@ -73811,6 +74397,27 @@ tout ou partie de leur circonscription d'affectation. "
 	**Cite**:
 
 	  - CODE DE PROCEDURE PENALE - art. R15-28 (V)
+
+
+###### Article R261-1
+
+Pour l'application de l'article R. 15-33-29-3 en Nouvelle-Calédonie et en Polynésie française, les références au code général
+des collectivités territoriales prévues par cet article sont remplacées par des références aux dispositions du code des
+communes applicables localement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-318 1959-02-23
+
+	**Créé par**:
+
+	  - Décret n°2007-1388 du 26 septembre 2007 - art. 19 (V) JORF 28 septembre 2007
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. R15-33-29-3 (V)
 
 
 ###### Article R262
