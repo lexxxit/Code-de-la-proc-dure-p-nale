@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 2007-09-28
+Version Consolidée au 2007-10-01
 
 # Partie législative
 
@@ -80153,9 +80153,14 @@ l'expert, la déclaration d'appartenance est mentionnée dans le rapport d'exper
 
 ###### Article D43
 
-Dans les cours d'appel comportant quatre chambres au plus, non compris les chambres détachées, et jusqu'à ce qu'il puisse en
-être autrement disposé, le président de la chambre d'instruction peut, en cas de nécessité, assurer à titre exceptionnel le
-service d'une autre chambre de la même cour, conformément aux dispositions de l'article 191, alinéa 4.
+Le nombre et le jour des audiences de la chambre de l'instruction sont fixés à la fin de chaque année judiciaire pour l'année
+judiciaire suivante par une décision conjointe du premier président et du procureur général prise après avis de l'assemblée
+générale de la cour d'appel.
+
+En cas de nécessité, cette décision peut être modifiée dans les mêmes conditions en cours d'année.
+
+En cas d'impossibilité de parvenir à une décision conjointe, le nombre et le jour des audiences de la chambre de
+l'instruction sont fixés par le seul premier président.
 
 **Liens relatifs à cet article**
 
@@ -80165,7 +80170,7 @@ service d'une autre chambre de la même cour, conformément aux dispositions de 
 
 	**Modifié par**:
 
-	  - Décret n°2001-475 du 30 mai 2001 - art. 3 () JORF 3 juin 2001
+	  - Décret n°2007-699 du 3 mai 2007 - art. 6 () JORF 5 mai 2007 en vigueur le 1er octobre 2007
 
 	**Cité par**:
 
@@ -80176,12 +80181,34 @@ service d'une autre chambre de la même cour, conformément aux dispositions de 
 
 	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R612-1 (V)
 
-	**Cite**:
-
-	  - CODE DE PROCEDURE PENALE - art. 191 (M)
-
 
 ##### Section 2 : Pouvoirs propres du président de la chambre de l'instruction
+
+###### Article D43-1
+
+Au moins une fois par an, à l'occasion de l'un des envois des états semestriels prévus par l'article 221, le président de la
+chambre de l'instruction ou un conseiller de la chambre par lui délégué reçoit les juges d'instruction de son ressort pour
+examiner le contenu de ces états. Cet entretien peut aussi avoir lieu à l'occasion d'une visite du cabinet du juge
+d'instruction par le président ou le conseiller délégué.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°58-1304 1958-12-23
+
+	**Créé par**:
+
+	  - Décret n°2007-699 du 3 mai 2007 - art. 6 () JORF 5 mai 2007 en vigueur le 1er octobre 2007
+
+	**Cité par**:
+
+	  - Décret n°2007-699 du 3 mai 2007 - art. 14 (V)
+
+	**Cite**:
+
+	  - Code de procédure pénale - art. 221 (V)
+
 
 ###### Article D43-2
 
@@ -80205,6 +80232,34 @@ information en cours.
 	  - Code de procédure pénale - art. 221-1 (V)
 	  - Code de procédure pénale - art. 221-3 (VT)
 	  - Code de procédure pénale - art. 223 (V)
+
+
+###### Article D43-3
+
+Le président de la chambre de l'instruction informe chaque juge d'instruction du ressort de la cour d'appel de la désignation
+du magistrat référent de cette chambre par lui choisi pour être spécialement chargé d'assurer le suivi administratif du
+cabinet de ce juge et d'exercer, en ce qui le concerne, tout ou partie des attributions prévues par les articles 220 à 223. A
+cette fin, le président peut déléguer à un ou plusieurs conseillers de la chambre tout ou partie de ses pouvoirs en
+application du troisième alinéa de l'article 219, lorsqu'il ne s'est pas lui-même désigné comme magistrat référent.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°58-1304 1958-12-23
+
+	**Créé par**:
+
+	  - Décret n°2007-699 du 3 mai 2007 - art. 6 () JORF 5 mai 2007 en vigueur le 1er octobre 2007
+
+	**Cité par**:
+
+	  - Décret n°2007-699 du 3 mai 2007 - art. 14 (V)
+
+	**Cite**:
+
+	  - Code de procédure pénale - art. 219 (V)
+	  - Code de procédure pénale - art. 220 (V)
 
 
 ###### Article D43-4
@@ -109094,6 +109149,48 @@ par l'article R. 711-2 du code de l'organisation judiciaire.
 	**Créé par**:
 
 	  - Arrêté du 17 février 2005 - art. 1, v. init.
+
+
+###### Article A38-3
+
+Les comptables du Trésor compétents pour assurer le recouvrement des amendes et auxquels sont adressés par le greffier les
+documents prévus par le quatrième alinéa du 2° de l'article 2 du décret n° 64-1333 du 22 décembre 1964 relatif au
+recouvrement des amendes et condamnations pécuniaires par les comptables directs du Trésor sont ceux du siège de la
+juridiction ayant rendu la décision de condamnation. Ces comptables sont également destinataires des relevés de condamnation
+pénale prévus par l'article R. 55-5.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Arrêté 2005-09-30 art. 1 JORF 1er octobre 2005 en vigueur le 1er octobre 2005
+
+	**Cite**:
+
+	  - Décret n°64-1333 du 22 décembre 1964 - art. 2 (V)
+	  - Code de procédure pénale - art. R55-5 (V)
+
+	**Cité par**:
+
+	  - CODE DE PROCEDURE PENALE - art. A38-5 (V)
+
+
+###### Article A38-4
+
+La trésorerie de contrôle automatisé située à Rennes, poste comptable à compétence nationale, assure le recouvrement de
+toutes les amendes forfaitaires majorées prononcées pour des infractions relevées par le système de contrôle automatisé
+conformément aux dispositions de l'article L. 130-19 du code de la route et résultant d'un titre exécutoire signé par
+l'officier du ministère public.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Arrêté 2005-09-30 art. 1 JORF 1er octobre 2005 en vigueur le 1er octobre 2005
+
+	**Cite**:
+
+	  - Code de la route L130-19
 
 
 ### Titre II : De la détention
