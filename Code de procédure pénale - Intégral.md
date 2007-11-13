@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 2007-10-30
+Version Consolidée au 2007-11-14
 
 # Partie législative
 
@@ -32311,21 +32311,21 @@ commise à l'encontre des services d'un aérodrome affecté à l'aviation civile
 Pour l'application du protocole à la convention relative à la protection des intérêts financiers des Communautés européennes
 fait à Dublin le 27 septembre 1996 et de la convention relative à la lutte contre la corruption impliquant des fonctionnaires
 des Communautés européennes ou des fonctionnaires des Etats membres de l'Union européenne faite à Bruxelles le 26 mai 1997,
-peut être poursuivi et jugé dans les conditions prévues à l'article 689-1 :
+peut être poursuivi et jugé dans les conditions prévues à l'article 689-1 : 
 
 1° Tout fonctionnaire communautaire au service d'une institution des Communautés européennes ou d'un organisme créé
-conformément aux traités instituant les Communautés européennes et ayant son siège en France, coupable du délit prévu à
-l'article 435-1 du code pénal ou d'une infraction portant atteinte aux intérêts financiers des Communautés européennes au
-sens de la convention relative à la protection des intérêts financiers des Communautés européennes faite à Bruxelles le 26
-juillet 1995 ;
+conformément aux traités instituant les Communautés européennes et ayant son siège en France, coupable du délit prévu aux
+articles 435-1 et 435-7 du code pénal ou d'une infraction portant atteinte aux intérêts financiers des Communautés
+européennes au sens de la convention relative à la protection des intérêts financiers des Communautés européennes faite à
+Bruxelles le 26 juillet 1995 ; 
 
 2° Tout Français ou toute personne appartenant à la fonction publique française coupable d'un des délits prévus aux articles
-435-1 et 435-2 du code pénal ou d'une infraction portant atteinte aux intérêts financiers des Communautés européennes au sens
-de la convention relative à la protection des intérêts financiers des Communautés européennes faite à Bruxelles le 26 juillet
-1995 ;
+435-1, 435-3, 435-7 et 435-9 du code pénal ou d'une infraction portant atteinte aux intérêts financiers des Communautés
+européennes au sens de la convention relative à la protection des intérêts financiers des Communautés européennes faite à
+Bruxelles le 26 juillet 1995 ; 
 
-3° Toute personne coupable du délit prévu à l'article 435-2 du code pénal ou d'une infraction portant atteinte aux intérêts
-financiers des Communautés européennes au sens de la convention relative à la protection des intérêts financiers des
+3° Toute personne coupable du délit prévu aux articles 435-3 et 435-9 du code pénal ou d'une infraction portant atteinte aux
+intérêts financiers des Communautés européennes au sens de la convention relative à la protection des intérêts financiers des
 Communautés européennes faite à Bruxelles le 26 juillet 1995, lorsque ces infractions sont commises à l'encontre d'un
 ressortissant français.
 
@@ -32335,19 +32335,20 @@ ressortissant français.
 
 	  - Ordonnance 58-1296 1958-12-23
 
-	**Créé par**:
-
-	  - Loi n°2000-595 du 30 juin 2000 - art. 4 () JORF 1er juillet 2000
-
 	**Cité par**:
 
 	  - Loi n°2000-595 du 30 juin 2000 - art. 3 (Ab)
 
+	**Modifié par**:
+
+	  - Loi n°2007-1598 du 13 novembre 2007 - art. 3 () JORF 14 novembre 2007
+
 	**Cite**:
 
-	  - Code pénal - art. 435-1 (M)
-	  - Code pénal - art. 435-2 (M)
-	  - CODE DE PROCEDURE PENALE - art. 689-1 (M)
+	  - Code pénal - art. 435-1 (V)
+	  - Code pénal - art. 435-3 (V)
+	  - Code pénal - art. 435-7 (V)
+	  - Code de procédure pénale - art. 689-1 (V)
 
 
 ###### Article 689-9
@@ -37220,57 +37221,58 @@ judiciaire.
 
 Dans le ressort de chaque cour d'appel, un ou plusieurs tribunaux de grande instance sont compétents dans les conditions
 prévues par le présent titre pour l'enquête, la poursuite, l'instruction et, s'il s'agit de délits, le jugement des
-infractions suivantes dans les affaires qui sont ou apparaîtraient d'une grande complexité :
+infractions suivantes dans les affaires qui sont ou apparaîtraient d'une grande complexité : 
 
-1° Délits prévus par les articles 222-38, 223-15-2, 313-1 et 313-2, 313-6, 314-1 et 314-2, 323-1 à 323-4, 324-1 et 324-2,
-432-10 à 432-15, 433-1 et 433-2, 434-9, 435-1 et 435-2, 442-1 à 442-8 et 321-6-1 du code pénal ;
+1° Délits prévus par les articles 222-38,223-15-2
+,313-1 et 313-2,313-6
+,314-1 et 314-2,323-1 à 323-4,324-1 et 324-2,432-10 à 432-15,433-1 et 433-2,434-9,442-1 à 442-8 et 321-6-1 du code pénal ; 
 
-2° Délits prévus par le code de commerce ;
+2° Délits prévus par le code de commerce ; 
 
-3° Délits prévus par le code monétaire et financier ;
+3° Délits prévus par le code monétaire et financier ; 
 
-4° Délits prévus par le code de la construction et de l'habitation ;
+4° Délits prévus par le code de la construction et de l'habitation ; 
 
-5° Délits prévus par le code de la propriété intellectuelle ;
+5° Délits prévus par le code de la propriété intellectuelle ; 
 
-6° Délits prévus par les articles 1741 à 1753 bis A du code général des impôts ;
+6° Délits prévus par les articles 1741 à 1753 bis A du code général des impôts ; 
 
-7° Délits prévus par le code des douanes ;
+7° Délits prévus par le code des douanes ; 
 
-8° Délits prévus par le code de l'urbanisme ;
+8° Délits prévus par le code de l'urbanisme ; 
 
-9° Délits prévus par le code de la consommation ;
+9° Délits prévus par le code de la consommation ; 
 
-10° Abrogé ;
+10° (Abrogé) ; 
 
-11° Abrogé ;
+11° (Abrogé) ; 
 
-12° Délits prévus par la loi n° 83-628 du 12 juillet 1983 relative aux jeux de hasard ;
+12° Délits prévus par la loi n° 83-628 du 12 juillet 1983 relative aux jeux de hasard ; 
 
-13° Délits prévus par la loi du 28 mars 1885 sur les marchés à terme ;
+13° Délits prévus par la loi du 28 mars 1885 sur les marchés à terme ; 
 
-14° Abrogé ;
+14° (Abrogé) ; 
 
-15° Délits prévus par la loi n° 86-897 du 1er août 1986 portant réforme du régime juridique de la presse ;
+15° Délits prévus par la loi n° 86-897 du 1er août 1986 portant réforme du régime juridique de la presse ; 
 
-16° Abrogé.
+16° (Abrogé). 
 
 La compétence territoriale d'un tribunal de grande instance peut également être étendue au ressort de plusieurs cours d'appel
 pour l'enquête, la poursuite, l'instruction et, s'il s'agit de délits, le jugement de ces infractions, dans les affaires qui
 sont ou apparaîtraient d'une très grande complexité, en raison notamment du grand nombre d'auteurs, de complices ou de
-victimes où du ressort géographique sur lequel elles s'étendent.
+victimes où du ressort géographique sur lequel elles s'étendent. 
 
-La compétence des juridictions mentionnées au premier alinéa et à l'alinéa qui précède s'étend aux infractions connexes.
+La compétence des juridictions mentionnées au premier alinéa et à l'alinéa qui précède s'étend aux infractions connexes. 
 
 Un décret fixe la liste et le ressort de ces juridictions, qui comprennent une section du parquet et des formations
-d'instruction et de jugement spécialisées pour connaître de ces infractions.
+d'instruction et de jugement spécialisées pour connaître de ces infractions. 
 
 Au sein de chaque tribunal de grande instance dont la compétence territoriale est étendue au ressort d'une ou plusieurs cours
 d'appel, le premier président, après avis du président du tribunal de grande instance, désigne un ou plusieurs juges
 d'instruction et magistrats du siège chargés spécialement de l'instruction et, s'il s'agit de délits, du jugement des
-infractions entrant dans le champ d'application du présent article.
+infractions entrant dans le champ d'application du présent article. 
 
-"Au sein de chaque cour d'appel dont la compétence territoriale est étendue au ressort d'une ou plusieurs cours d'appel, le
+Au sein de chaque cour d'appel dont la compétence territoriale est étendue au ressort d'une ou plusieurs cours d'appel, le
 premier président et le procureur général désignent respectivement des magistrats du siège et du parquet général chargés
 spécialement du jugement des délits et du traitement des affaires entrant dans le champ d'application du présent article.
 
@@ -37278,26 +37280,22 @@ spécialement du jugement des délits et du traitement des affaires entrant dans
 
 	**Cite**:
 
-	  - CGI 1741 à 1753 bis A
-	  - Loi n°83-628 1983-07-12
-	  - Loi n°86-897 1986-08-01
-	  - Code pénal - art. 222-38 (M)
-	  - Code pénal - art. 223-15-2 (M)
-	  - Code pénal - art. 313-1 (M)
-	  - Code pénal - art. 313-2 (M)
-	  - Code pénal - art. 313-6 (M)
-	  - Code pénal - art. 314-1 (M)
-	  - Code pénal - art. 314-2 (M)
+	  - Loi du 28 mars 1885 (V)
+	  - Loi n°83-628 du 12 juillet 1983 (Ab)
+	  - Loi n°86-897 du 1 août 1986 (V)
+	  - Code général des impôts, CGI. - art. 1741 (V)
+	  - Code pénal - art. 222-38 (V)
+	  - Code pénal - art. 223-15-2 (V)
+	  - Code pénal - art. 313-1 (V)
+	  - Code pénal - art. 313-6 (V)
+	  - Code pénal - art. 314-1 (V)
 	  - Code pénal - art. 321-6-1 (V)
-	  - Code pénal - art. 324-1 (M)
-	  - Code pénal - art. 324-2 (M)
-	  - Code pénal - art. 433-1 (M)
-	  - Code pénal - art. 433-2 (M)
-	  - Code pénal - art. 434-9 (M)
-	  - Code pénal - art. 435-1 (M)
-	  - Code pénal - art. 435-2 (M)
-	  - Code pénal 222-38, 223-15-2, 313-1, 313-2, 313-6, 314-1, 314-2, 323-1 à 323-4, 324-1, 324-2, 432-10 à 432-15, 433-1, 433-2, 434-9, 435-1, 435-2, 442-1 à 442-8, 321-6-1
-	  - Loi n°1885-03-28
+	  - Code pénal - art. 323-1 (V)
+	  - Code pénal - art. 324-1 (V)
+	  - Code pénal - art. 432-10 (V)
+	  - Code pénal - art. 433-1 (V)
+	  - Code pénal - art. 434-9 (V)
+	  - Code pénal - art. 442-1 (V)
 
 	**Codifié par**:
 
@@ -37337,7 +37335,7 @@ spécialement du jugement des délits et du traitement des affaires entrant dans
 
 	**Modifié par**:
 
-	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 8 () JORF 9 juin 2006
+	  - Loi n°2007-1598 du 13 novembre 2007 - art. 4 () JORF 14 novembre 2007
 
 
 ###### Article 704-1
@@ -37587,13 +37585,14 @@ assistants spécialisés sont nommés et les modalités selon lesquelles ils pr�
 
 ###### Article 706-1
 
-Pour la poursuite, l'instruction et le jugement des actes incriminés par les articles 435-3 et 435-4 du code pénal, le
+Pour la poursuite, l'instruction et le jugement des actes incriminés par les articles 435-1 à 435-10 du code pénal, le
 procureur de la République de Paris, le juge d'instruction et le tribunal correctionnel de Paris exercent une compétence
-concurrente à celle qui résulte de l'application des articles 43, 52, 282 et de l'article 706-42.
+concurrente à celle qui résulte de l'application des articles 43,52
+,382 et de l'article 706-42. 
 
-Lorsqu'ils sont compétents pour la poursuite et l'instruction des infractions prévues aux articles 435-3 et 435-4 du code
+Lorsqu'ils sont compétents pour la poursuite et l'instruction des infractions prévues aux articles 435-1 à 435-10 du code
 pénal, le procureur de la République et le juge d'instruction de Paris excercent leurs attributions sur toute l'étendue du
-territoire national.
+territoire national. 
 
 Le procureur de la République près un tribunal de grande instance autre que celui de Paris peut, pour les infractions
 mentionnées à l'alinéa précédent, requérir le juge d'instruction de se dessaisir au profit de la juridiction d'instruction du
@@ -37607,17 +37606,16 @@ tribunal de grande instance de Paris, dans les conditions et selon les modalité
 
 	**Modifié par**:
 
-	  - Loi n°2004-204 2004-03-09 art. 21 I, V, art. 112 II JORF 10 mars 2004 en vigueur le 1er octobre 2004
-	  - Loi n°2004-204 du 9 mars 2004 - art. 112 () JORF 10 mars 2004 en vigueur le 1er octobre 2004
-	  - Loi n°2004-204 du 9 mars 2004 - art. 21 () JORF 10 mars 2004 en vigueur le 1er octobre 2004
+	  - Loi n°2007-1598 du 13 novembre 2007 - art. 4 () JORF 14 novembre 2007
 
 	**Cite**:
 
-	  - Code pénal - art. 435-3 (M)
-	  - Code pénal - art. 435-4 (M)
-	  - CODE DE PROCEDURE PENALE - art. 705-1 (AbD)
-	  - CODE DE PROCEDURE PENALE - art. 705-2 (AbD)
-	  - CODE DE PROCEDURE PENALE - art. 706-42 (V)
+	  - Code pénal - art. 435-1 (V)
+	  - Code de procédure pénale - art. 382 (V)
+	  - Code de procédure pénale - art. 43 (V)
+	  - Code de procédure pénale - art. 52 (VT)
+	  - Code de procédure pénale - art. 705-1 (VT)
+	  - Code de procédure pénale - art. 706-42 (V)
 
 	**Cité par**:
 
@@ -37684,6 +37682,36 @@ organisée.
 	**Nouveaux textes**:
 
 	  - Code de procédure pénale - art. 706-1 (VD)
+
+
+###### Article 706-1-3
+
+Les articles 706-80 à 706-87, 706-95 à 706-103, 706-105 et 706-106 sont applicables à l'enquête, la poursuite, l'instruction
+et le jugement des délits prévus par les articles 313-2 (dernier alinéa), 432-11, 433-1, 433-2, 434-9, 434-9-1, 435-1 à 435-4
+et 435-7 à 435-10 du code pénal.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 58-1296 1958-12-23
+
+	**Créé par**:
+
+	  - Loi n°2007-1598 du 13 novembre 2007 - art. 5 () JORF 14 novembre 2007
+
+	**Cite**:
+
+	  - Code pénal - art. 313-2 (M)
+	  - Code pénal - art. 432-11 (M)
+	  - Code pénal - art. 433-1 (M)
+	  - Code pénal - art. 433-2 (M)
+	  - Code pénal - art. 434-9 (M)
+	  - Code pénal - art. 434-9-1 (V)
+	  - Code pénal 313-2, 432-11, 433-1, 433-2, 434-9, 434-9-1, 435-1 à 435-4, 435-7 à 435-10
+	  - CODE DE PROCEDURE PENALE - art. 706-105 (V)
+	  - CODE DE PROCEDURE PENALE - art. 706-106 (V)
+	  - Code de procédure pénale 706-80 à 706-87, 706-95 à 706-103, 706-105, 706-106
 
 
 ### Titre XIII bis : De la procédure applicable aux infractions en matière sanitaire
@@ -41173,7 +41201,7 @@ prévue par le présent code, sous réserve des dispositions du présent titre :
 
 8° Crimes aggravés d'extorsion prévus par les articles 312-6 et 312-7 du code pénal ; 
 
-8° bis Délit d'escroquerie commis en bande organisée prévu par l'article 313-2 du code pénal ; 
+8° bis (Abrogé) 
 
 9° Crime de destruction, dégradation et détérioration d'un bien commis en bande organisée prévu par l'article 322-8 du code
 pénal ; 
@@ -41212,7 +41240,6 @@ ainsi que celles des titres XV, XVI et XVII.
 	  - Code pénal - art. 311-9 (M)
 	  - Code pénal - art. 312-6 (M)
 	  - Code pénal - art. 312-7 (M)
-	  - Code pénal - art. 313-2 (M)
 	  - Code pénal - art. 321-1 (M)
 	  - Code pénal - art. 321-2 (M)
 	  - Code pénal - art. 321-6-1 (V)
@@ -41221,7 +41248,7 @@ ainsi que celles des titres XV, XVI et XVII.
 	  - Code pénal - art. 324-2 (M)
 	  - Code pénal - art. 442-1 (M)
 	  - Code pénal - art. 442-2 (M)
-	  - Code pénal 221-4, 222-4, 222-34 à 222-40, 224-5-2, 225-4-2 à 225-4-7, 225-7 à 225-12, 311-9, 312-6, 312-7, 322-8, 442-1, 442-2, 421-1 à 421-6, 324-1, 324-2, 321-1, 321-2, 420-1, 321-6-1, 313-2
+	  - Code pénal 221-4, 222-4, 222-34 à 222-40, 224-5-2, 225-4-2 à 225-4-7, 225-7 à 225-12, 311-9, 312-6, 312-7, 322-8, 442-1, 442-2, 421-1 à 421-6, 324-1, 324-2, 321-1, 321-2, 420-1, 321-6-1
 	  - Code de la défense. - art. L2339-10 (V)
 	  - Code de la défense. - art. L2339-2 (V)
 	  - Code de la défense. - art. L2339-8 (V)
@@ -41295,7 +41322,7 @@ ainsi que celles des titres XV, XVI et XVII.
 
 	**Modifié par**:
 
-	  - Loi n°2007-297 du 5 mars 2007 - art. 13 () JORF 7 mars 2007
+	  - Loi n°2007-1598 du 13 novembre 2007 - art. 5 () JORF 14 novembre 2007
 
 
 ###### Article 706-74
