@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 2007-11-14
+Version Consolidée au 2007-11-17
 
 # Partie législative
 
@@ -79709,6 +79709,60 @@ Les dispositions du présent article sont applicables aux réquisitions prévues
 
 ##### Section 1 : Dispositions générales
 
+##### Paragraphe 1er : Copie du dossier d'instruction.
+
+###### Article D15-7
+
+La copie des actes du dossier d'instruction prévue par l'article 81 peut être réalisée sous forme numérisée, qui est
+conservée dans des conditions garantissant qu'elle n'est accessible qu'aux personnes autorisées à la consulter. 
+
+A chaque transmission ou remise d'une copie numérisée, le greffier délivre une attestation indiquant qu'elle est conforme à
+l'original.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°58-1304 1958-12-23
+
+	**Créé par**:
+
+	  - Décret n°2007-1620 du 15 novembre 2007 - art. 2 () JORF 17 novembre 2007
+
+	**Cite**:
+
+	  - Code de procédure pénale - art. 81 (V)
+
+	**Cité par**:
+
+	  - Code de procédure pénale - art. D40-3 (V)
+
+
+###### Article D15-8
+
+Les copies numérisées remises aux avocats en application des dispositions de l'article 114 peuvent être adressées par un
+moyen de télécommunication à l'adresse électronique de l'avocat selon les modalités prévues par l'article 803-1. 
+
+Si la taille du document ne permet pas un tel envoi, celui-ci est remis sur un support numérique conformément aux
+dispositions de l'article R. 165.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°58-1304 1958-12-23
+
+	**Créé par**:
+
+	  - Décret n°2007-1620 du 15 novembre 2007 - art. 2 () JORF 17 novembre 2007
+
+	**Cite**:
+
+	  - Code de procédure pénale - art. 114 (V)
+	  - Code de procédure pénale - art. 803-1 (V)
+	  - Code de procédure pénale - art. R165 (V)
+
+
 ##### Paragraphe 5 : Examens médical et médico-psychologique.
 
 ###### Article D16
@@ -80039,6 +80093,65 @@ code de procédure pénale.
 
 ##### Section 2 : De la constitution de partie civile et de ses effets
 
+###### Article D31-1
+
+Lorsque la plainte avec constitution de partie civile est déposée par un avocat, elle peut être adressée au juge
+d'instruction par un moyen de communication électronique selon les modalités prévues par l'article D. 591, dès lors que les
+dispositions de cet article sont applicables à la suite du protocole passé par les chefs de la juridiction et le barreau.
+
+Conformément aux dispositions du deuxième alinéa de l'article 85, la personne qui se prétend lésée par un délit, autre que
+ceux prévus par la loi du 29 juillet 1881 sur la liberté de la presse ou par les articles L. 86, L. 87, L. 91 à L. 100, L.
+102 à L. 104, L. 106 à L. 108 et L. 113 du code électoral, doit, à peine d'irrecevabilité, joindre à sa plainte avec
+constitution de partie civile :
+
+- soit la copie de la plainte simple déposée devant le procureur de la République ou un service de police judiciaire,
+accompagnée de la copie de l'avis de classement sans suite adressé en retour par ce procureur ;
+
+- soit la copie de cette plainte (adressée au parquet ou au service de police judiciaire) avec une copie du récépissé de
+remise de cette plainte au procureur de la République ou d'un envoi en recommandé avec demande d'avis de réception à ce
+magistrat, à condition que ce récépissé ou que la date de l'avis de réception de l'envoi en recommandé date d'au moins trois
+mois.
+
+Lorsque la plainte avec constitution de partie civile est adressée au juge d'instruction par un moyen de communication
+électronique, les documents prévus par les deux alinéas précédents sont joints sous forme de fichiers numérisés.
+
+Lorsque ces documents ne sont pas joints, le juge d'instruction constate par ordonnance l'irrecevabilité de la plainte avec
+constitution de partie civile. Cette ordonnance est notifiée à la personne par lettre recommandée ou à son avocat selon les
+modalités prévues par l'article 803-1.
+
+Dans le cas contraire, le juge communique la plainte au procureur de la République conformément aux dispositions de l'article
+86 après avoir, sauf si la personne a obtenu l'aide juridictionnelle ou a été dispensée de consignation, fixé le montant de
+la consignation et constaté le versement de celle-ci dans le délai prescrit.
+
+La personne peut former appel de l'ordonnance d'irrecevabilité prévue par le présent article, conformément aux dispositions
+du deuxième alinéa de l'article 186, sans préjudice de sa possibilité de régulariser sa plainte en remettant les documents
+exigés ci-dessus ou de déposer ultérieurement une nouvelle plainte avec constitution de partie civile après avoir rempli les
+conditions prévues par l'article 85.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°58-1304 1958-12-23
+
+	**Créé par**:
+
+	  - Décret n°2007-1620 du 15 novembre 2007 - art. 3 () JORF 17 novembre 2007
+
+	**Cite**:
+
+	  - Code électoral - art. L113 (M)
+	  - Code électoral - art. L86 (M)
+	  - Code électoral - art. L87 (V)
+	  - Code électoral L86, L87, L91 à L100, L102 à L104, L106 à L108, L113
+	  - CODE DE PROCEDURE PENALE - art. 186 (M)
+	  - CODE DE PROCEDURE PENALE - art. 803-1 (M)
+	  - CODE DE PROCEDURE PENALE - art. 85 (M)
+	  - CODE DE PROCEDURE PENALE - art. 86 (M)
+	  - CODE DE PROCEDURE PENALE - art. D591 (Ab)
+	  - Loi n°1881-07-29
+
+
 ###### Article D32
 
 Quand, après une information ouverte sur constitution de partie civile, une décision de non-lieu a été rendue, la personne
@@ -80277,6 +80390,138 @@ l'expert, la déclaration d'appartenance est mentionnée dans le rapport d'exper
 	**Cite**:
 
 	  - Code de procédure pénale - art. 2-1 (V)
+
+
+###### Article D39
+
+L'envoi aux avocats des rapports d'expertise ou de leurs conclusions, qu'il s'agisse des rapports d'étape, provisoires ou
+définitifs, prévus par les articles 161-2,166, 167 et 167-2, peut être réalisé selon les modalités prévues par l'article
+803-1.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°58-1304 1958-12-23
+
+	**Créé par**:
+
+	  - Décret n°2007-1620 du 15 novembre 2007 - art. 4 () JORF 17 novembre 2007
+
+	**Cite**:
+
+	  - Code de procédure pénale - art. 161-2 (V)
+	  - Code de procédure pénale - art. 166 (V)
+	  - Code de procédure pénale - art. 167-2 (V)
+	  - Code de procédure pénale - art. 803-1 (V)
+
+
+###### Article D40
+
+Les demandes d'expertises, de modification de la mission d'un expert ou d'adjonction d'un coexpert et les observations
+concernant les rapports d'expertise prévues par les articles 156, 161-1, 161-2,
+167 et 167-2 sont adressées au juge d'instruction selon les modalités prévues par l'avant-dernier alinéa de l'article 81. 
+
+Toutefois, elles peuvent être faites selon les modalités prévues par l'article D. 591 lorsque les dispositions de cet article
+sont applicables à la suite du protocole passé par les chefs de la juridiction et le barreau.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°58-1304 1958-12-23
+
+	**Créé par**:
+
+	  - Décret n°2007-1620 du 15 novembre 2007 - art. 4 () JORF 17 novembre 2007
+
+	**Cite**:
+
+	  - Code de procédure pénale - art. 156 (V)
+	  - Code de procédure pénale - art. 161-1 (V)
+	  - Code de procédure pénale - art. 167 (V)
+	  - Code de procédure pénale - art. 167-2 (V)
+	  - Code de procédure pénale - art. 81 (V)
+	  - Code de procédure pénale - art. D591 (V)
+
+
+##### Section 11 : Des ordonnances de règlement
+
+###### Article D40-1
+
+Lorsque le réquisitoire définitif du procureur de la République adressé au juge d'instruction en application de l'alinéa deux
+de l'article 175 n'a pas été adressé en copie aux avocats des parties, le greffier du juge d'instruction ou le secrétariat
+commun de l'instruction procède à cet envoi. 
+
+Cet envoi peut se faire sous forme numérisée et être adressé par un moyen de communication électronique selon les modalités
+prévues par l'article 803-1.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°58-1304 1958-12-23
+
+	**Créé par**:
+
+	  - Décret n°2007-1620 du 15 novembre 2007 - art. 4 () JORF 17 novembre 2007
+
+	**Cite**:
+
+	  - Code de procédure pénale - art. 175 (VT)
+	  - Code de procédure pénale - art. 803-1 (V)
+
+
+###### Article D40-2
+
+Les observations, les demandes d'actes et les observations complémentaires prévues par les alinéas trois, quatre et cinq de
+l'article 175 sont adressées au juge d'instruction selon les modalités prévues par l'avant-dernier alinéa de l'article 81. 
+
+Toutefois, elles peuvent être faites par un moyen de communication électronique selon les modalités prévues par l'article D.
+591 lorsque les dispositions de cet article sont applicables à la suite du protocole passé par les chefs de la juridiction et
+le barreau.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°58-1304 1958-12-23
+
+	**Créé par**:
+
+	  - Décret n°2007-1620 du 15 novembre 2007 - art. 4 () JORF 17 novembre 2007
+
+	**Cite**:
+
+	  - Code de procédure pénale - art. 175 (VT)
+	  - Code de procédure pénale - art. 81 (V)
+	  - Code de procédure pénale - art. D591 (V)
+
+
+##### Section 12 : De l'appel des ordonnances du juge d'instruction ou du juge des libertés et de la détention
+
+###### Article D40-3
+
+Pour l'application des articles 186 et 186-1, ainsi que pour l'ensemble des transmissions de dossiers à la cour d'appel, la
+copie du dossier de l'information prévue par l'article 81 devant être adressée au procureur général ou au président de la
+chambre de l'instruction peut être la copie numérisée prévue par l'article D. 15-7. Elle peut être transmise par un moyen de
+communication électronique.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°58-1304 1958-12-23
+
+	**Créé par**:
+
+	  - Décret n°2007-1620 du 15 novembre 2007 - art. 4 () JORF 17 novembre 2007
+
+	**Cite**:
+
+	  - Code de procédure pénale - art. 186 (V)
+	  - Code de procédure pénale - art. 81 (V)
+	  - Code de procédure pénale - art. D15-7 (V)
 
 
 #### Chapitre II : De la chambre d'instruction : juridiction d'instruction du second degré
@@ -82314,6 +82559,155 @@ effectuer des missions d'identification par empreintes génétiques dans le cadr
 
 	  - Code civil - art. 16-12 (V)
 	  - Code de procédure pénale - art. 60 (V)
+
+
+### Titre XXIII : De l'utilisation de moyens de communication au cours de la procédure
+
+###### Article D47-12-1
+
+Lorsque les dispositions des articles 706-71 et R. 53-33 à R. 53-39 relatifs à l'utilisation d'un moyen de télécommunication
+sont mises en oeuvre par une juridiction d'instruction ou de jugement, il peut être fait application des dispositions de la
+présente section.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-322 1959-02-23
+
+	**Créé par**:
+
+	  - Décret n°2007-1620 du 15 novembre 2007 - art. 5 () JORF 17 novembre 2007
+
+	**Cite**:
+
+	  - Code de procédure pénale - art. 706-71 (VT)
+	  - Code de procédure pénale - art. R53-33 (V)
+
+
+###### Article D47-12-2
+
+Pour l'application par le juge d'instruction ou le juge des libertés et de la détention des dispositions de l'article R.
+53-37 prévoyant la retranscription dans différents procès-verbaux des déclarations des personnes entendues en plusieurs
+points du territoire, il est procédé selon l'une des deux modalités prévues par le présent article. 
+
+Soit deux procès-verbaux sont dressés simultanément, l'un par le magistrat et son greffier dans les locaux de la juridiction,
+et l'autre par un greffier sur le lieu où se trouve la personne entendue, et ils sont signés sur place par les personnes
+présentes. 
+
+Soit un procès-verbal est dressé dans les locaux de la juridiction par le magistrat et son greffier, et ce document est
+immédiatement transmis sur le lieu où est présente la personne entendue, pour être signé par cette dernière, selon la
+procédure des contreseings simultanés conformément aux dispositions de l'article D. 47-12-3. Dans ce cas il n'est pas
+nécessaire qu'un greffier soit présent sur le lieu où se trouve la personne entendue.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-322 1959-02-23
+
+	**Créé par**:
+
+	  - Décret n°2007-1620 du 15 novembre 2007 - art. 5 () JORF 17 novembre 2007
+
+	**Cite**:
+
+	  - Code de procédure pénale - art. D47-12-3 (V)
+	  - Code de procédure pénale - art. R53-37 (V)
+
+
+###### Article D47-12-3
+
+Lorsqu'il est fait application de la procédure des contreseings simultanés, le procès-verbal est signé par le magistrat et
+son greffier, puis est transmis par télécopie ou par un moyen de communication électronique sur le lieu où est présente la
+personne entendue, pour être signé par cette seule personne. Ce document est immédiatement retourné au magistrat selon le
+même procédé. L'original du document signé par la personne entendue est ensuite transmis par tout moyen pour être joint au
+dossier de la procédure.
+
+Les différentes versions du procès-verbal revêtues de l'original des signatures des personnes présentes sur chacun des lieux
+sont conservées au dossier de la procédure.
+
+Il en de même, s'il y a lieu, pour le recueil de la signature de l'interprète.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-322 1959-02-23
+
+	**Créé par**:
+
+	  - Décret n°2007-1620 du 15 novembre 2007 - art. 5 () JORF 17 novembre 2007
+
+	**Cité par**:
+
+	  - Code de procédure pénale - art. D47-12-2 (V)
+
+
+###### Article D47-12-4
+
+Lorsqu'un moyen de télécommunication est utilisé en matière de détention provisoire conformément aux dispositions du
+troisième alinéa de l'article 706-71, lecture de l'ordonnance prise par le juge des libertés et de la détention est donnée à
+la personne par le moyen de communication audiovisuelle. Mention de cette formalité est portée sur le procès-verbal du débat
+contradictoire. L'ordonnance est adressée par télécopie ou par un moyen de communication électronique au chef de
+l'établissement pénitentiaire, qui la notifie à la personne détenue et lui en remet une copie contre émargement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-322 1959-02-23
+
+	**Créé par**:
+
+	  - Décret n°2007-1620 du 15 novembre 2007 - art. 5 () JORF 17 novembre 2007
+
+	**Cite**:
+
+	  - Code de procédure pénale - art. 706-71 (VT)
+
+
+###### Article D47-12-5
+
+Lorsqu'un moyen de télécommunication est utilisé devant une juridiction de jugement ou devant la chambre de l'instruction, il
+est fait mention de l'usage de celui-ci dans les notes d'audience et dans la décision rendue.
+
+Si la décision est rendue immédiatement, la lecture du dispositif est donnée à la personne par le moyen de communication
+audiovisuelle. Si la décision est mise en délibéré et est rendue à une audience ultérieure, cette lecture peut également être
+faite à la personne qui assiste à cette audience par un moyen de télécommunication ; à défaut, si la personne est détenue, la
+décision lui est notifiée par le chef de l'établissement qui lui en remet une copie contre émargement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-322 1959-02-23
+
+	**Créé par**:
+
+	  - Décret n°2007-1620 du 15 novembre 2007 - art. 5 () JORF 17 novembre 2007
+
+
+###### Article D47-12-6
+
+Le procès-verbal dressé en chacun des lieux en application des dispositions du premier alinéa de l'article 706-71 est un
+relevé de constatations techniques comportant notamment la mention du test du matériel et les heures de début et de fin de
+connexion. Il peut être établi et signé par un agent ou un fonctionnaire de la juridiction désigné par le greffier en chef ou
+par un fonctionnaire pénitentiaire désigné par le chef d'établissement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-322 1959-02-23
+
+	**Créé par**:
+
+	  - Décret n°2007-1620 du 15 novembre 2007 - art. 5 () JORF 17 novembre 2007
+
+	**Cite**:
+
+	  - Code de procédure pénale - art. 706-71 (VT)
 
 
 ### Titre XXV : De la procédure applicable à la criminalité et à la délinquance organisées
@@ -84523,6 +84917,10 @@ immédiatement disponible.
 Dès qu'il est rendu, le jugement est notifié au procureur de la République. Une copie en est adressée au directeur du service
 pénitentiaire d'insertion et de probation et, lorsque le condamné est incarcéré, au chef de l'établissement pénitentiaire.
 
+En cas d'utilisation d'un moyen de communication audiovisuelle, lecture du dispositif du jugement est donnée au condamné par
+ce même procédé, et mention de cette formalité est portée sur les notes d'audience. Après l'audience, le jugement est notifié
+au condamné selon les modalités prévues au deuxième alinéa.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
@@ -84531,7 +84929,7 @@ pénitentiaire d'insertion et de probation et, lorsque le condamné est incarcé
 
 	**Modifié par**:
 
-	  - Décret n°2007-699 du 3 mai 2007 - art. 8 () JORF 5 mai 2007
+	  - Décret n°2007-1620 du 15 novembre 2007 - art. 5 () JORF 15 novembre 2007
 
 	**Cité par**:
 
@@ -106216,6 +106614,168 @@ fonctionnement du service.
 
 
 ### Titre XII : Dispositions générales
+
+###### Article D590
+
+Pour l'application des dispositions de l'article 803-1, l'avocat peut faire connaître son adresse électronique à l'issue de
+la première comparution de la personne mise en examen, ou de la première audition de la partie civile ou du témoin assisté,
+lorsque cette adresse ne figure pas, de façon générale, dans le répertoire des avocats communiqué à la juridiction.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-322 1959-02-23
+
+	**Créé par**:
+
+	  - Décret n°2007-1620 du 15 novembre 2007 - art. 6 () JORF 17 novembre 2007
+
+	**Cite**:
+
+	  - Code de procédure pénale - art. 803-1 (V)
+
+
+###### Article D591
+
+Lorsqu'un protocole a été passé à cette fin entre, d'une part, le président et le procureur de la République du tribunal de
+grande instance et, d'autre part, le barreau de la juridiction représenté par son bâtonnier, les avocats de ce barreau
+peuvent transmettre à la juridiction par un moyen de télécommunication à l'adresse électronique de la juridiction ou du
+service de la juridiction compétent, et dont il est conservé une trace écrite, les demandes, déclarations et observations
+suivantes : 
+
+1° Les demandes de délivrance de copie des pièces d'un dossier prévues par l'article R. 155 ; 
+
+2° Les demandes tendant à l'octroi du statut de témoin assisté prévues par l'article 80-1-1 ; 
+
+3° Les demandes d'investigations sur la personnalité prévues par le neuvième alinéa de l'article 81 ; 
+
+4° Les demandes de la partie civile prévues par l'article 81-1 ; 
+
+5° Les demandes d'actes prévues par l'article 82-1 ; 
+
+6° Les demandes tendant à la constatation de la prescription prévues par l'article 82-3 ; 
+
+7° Les constitutions de partie civile prévues par le premier alinéa de l'article 85 ; 
+
+8° Les plaintes adressées au procureur de la République en application du deuxième alinéa de l'article 85 ; 
+
+9° Les demandes d'un témoin assisté tendant à sa mise en examen, prévues par l'article 113-6 ; 
+
+10° Les demandes de délivrance d'une copie du dossier de l'instruction prévues par le quatrième alinéa de l'article 114 ; 
+
+11° Les déclarations de la liste des pièces dont l'avocat souhaite remettre une reproduction à son client, prévues par le
+septième alinéa de l'article 114 ; 
+
+12° Les déclarations de changement de l'adresse déclarée prévues par le dernier alinéa de l'article 116 ; 
+
+13° Les demandes de confrontations individuelles prévues par l'article 120-1 ; 
+
+14° Les demandes d'expertises prévues par l'article 156 ; 
+
+15° Les demandes de modification de la mission d'un expert ou d'adjonction d'un co-expert prévues par l'article 161-1 ; 
+
+16° Les observations concernant les rapports d'expertise d'étape, prévues par l'article 161-2 ; 
+
+17° Les observations et les demandes de complément d'expertise ou de contre-expertise, prévues par l'article 167 ; 
+
+18° Les observations concernant les rapports d'expertise provisoires, prévues par l'article 167-2 ; 
+
+19° Les observations, les demandes d'actes et les observations complémentaires faites en application des alinéas trois,
+quatre et cinq de l'article 175 ; 
+
+20° Toute autre demande prévue par des dispositions du présent code et pour laquelle ces dispositions permettent qu'elle soit
+faite par simple lettre. 
+
+Ces transmissions sont effectuées, en respectant les modalités prévues par le protocole, à partir de l'adresse électronique
+professionnelle de l'avocat, préalablement communiquée à la juridiction, et après que les documents joints ont fait l'objet
+d'une numérisation. 
+
+Les messages ainsi adressés font l'objet d'un accusé électronique de lecture par la juridiction. 
+
+Ils sont considérés comme reçus par la juridiction à la date d'envoi de cet accusé, et cette date fait, s'il y a lieu, courir
+les délais prévus par les dispositions du présent code.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-322 1959-02-23
+
+	**Créé par**:
+
+	  - Décret n°2007-1620 du 15 novembre 2007 - art. 6 () JORF 17 novembre 2007
+
+	**Cité par**:
+
+	  - CODE DE PROCEDURE PENALE - art. D31-1 (V)
+	  - Code de procédure pénale - art. D40 (V)
+	  - Code de procédure pénale - art. D40-2 (V)
+	  - Code de procédure pénale - art. D592 (V)
+	  - Code de procédure pénale - art. D593 (V)
+
+	**Cite**:
+
+	  - Code de procédure pénale - art. 113-6 (V)
+	  - Code de procédure pénale - art. 114 (V)
+	  - Code de procédure pénale - art. 116 (VT)
+	  - Code de procédure pénale - art. 120-1 (V)
+	  - Code de procédure pénale - art. 156 (V)
+	  - Code de procédure pénale - art. 161-1 (V)
+	  - Code de procédure pénale - art. 161-2 (V)
+	  - Code de procédure pénale - art. 167 (V)
+	  - Code de procédure pénale - art. 167-2 (V)
+	  - Code de procédure pénale - art. 175 (VT)
+	  - Code de procédure pénale - art. 80-1-1 (VT)
+	  - Code de procédure pénale - art. 81 (V)
+	  - Code de procédure pénale - art. 81-1 (V)
+	  - Code de procédure pénale - art. 82-1 (V)
+	  - Code de procédure pénale - art. 82-3 (V)
+	  - Code de procédure pénale - art. 85 (VT)
+	  - Code de procédure pénale - art. R155 (V)
+
+
+###### Article D592
+
+Les dispositions de l'article D. 591 sont également applicables aux dépôts des mémoires devant la chambre de l'instruction,
+prévus par le deuxième alinéa de l'article 198, lorsqu'un protocole a été passé à cette fin entre les chefs de la cour
+d'appel et le barreau.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-322 1959-02-23
+
+	**Créé par**:
+
+	  - Décret n°2007-1620 du 15 novembre 2007 - art. 6 () JORF 17 novembre 2007
+
+	**Cite**:
+
+	  - Code de procédure pénale - art. 198 (V)
+	  - Code de procédure pénale - art. D591 (V)
+
+
+###### Article D593
+
+Les dispositions de l'article D. 591 ne sont pas applicables aux demandes de mise en liberté ou de mainlevée du contrôle
+judiciaire.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-322 1959-02-23
+
+	**Créé par**:
+
+	  - Décret n°2007-1620 du 15 novembre 2007 - art. 6 () JORF 17 novembre 2007
+
+	**Cite**:
+
+	  - Code de procédure pénale - art. D591 (V)
+
 
 ###### Article D599
 
