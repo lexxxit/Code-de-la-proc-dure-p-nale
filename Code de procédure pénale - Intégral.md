@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 2007-12-22
+Version Consolidée au 2007-12-31
 
 # Partie législative
 
@@ -1352,14 +1352,6 @@ transmettre, le cas échéant, au service ou à l'unité de police judiciaire te
 Tout dépôt de plainte fait l'objet d'un procès-verbal et donne lieu à la délivrance immédiate d'un récépissé à la victime. Si
 elle en fait la demande, une copie du procès-verbal lui est immédiatement remise.
 
-Lorsque la plainte est déposée contre une personne dont l'identité n'est pas connue, la victime est avisée qu'elle ne sera
-informée par le procureur de la République de la suite réservée à sa plainte que dans le cas où l'auteur des faits serait
-identifié.
-
-**Nota:**
-
-La présente version de cet article est en vigueur jusqu'au 31 décembre 2007.
-
 **Liens relatifs à cet article**
 
 	**Codifié par**:
@@ -1368,8 +1360,7 @@ La présente version de cet article est en vigueur jusqu'au 31 décembre 2007.
 
 	**Modifié par**:
 
-	  - Loi n°2004-204 du 9 mars 2004 - art. 207 (V) JORF 10 mars 2004
-	  - Loi n°2004-204 du 9 mars 2004 - art. 77 () JORF 10 mars 2004
+	  - Loi n°2004-204 du 9 mars 2004 - art. 207 (V) JORF 10 mars 2004 en vigueur le 31 décembre 2007
 
 	**Cité par**:
 
@@ -2982,14 +2973,10 @@ justifient.
 
 Le procureur de la République avise les plaignants et les victimes si elles sont identifiées, ainsi que les personnes ou
 autorités mentionnées au deuxième alinéa de l'article 40, des poursuites ou des mesures alternatives aux poursuites qui ont
-été décidées à la suite de leur plainte ou de leur signalement.
+été décidées à la suite de leur plainte ou de leur signalement. 
 
-Lorsque l'auteur des faits est identifié mais que le procureur de la République décide de classer sans suite la procédure, il
-les avise également de sa décision en indiquant les raisons juridiques ou d'opportunité qui la justifient.
-
-**Nota:**
-
-
+Lorsqu'il décide de classer sans suite la procédure, il les avise également de sa décision en indiquant les raisons
+juridiques ou d'opportunité qui la justifient.
 
 **Liens relatifs à cet article**
 
@@ -2997,10 +2984,9 @@ les avise également de sa décision en indiquant les raisons juridiques ou d'op
 
 	  - Loi n°57-1426 1957-12-31
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2004-204 du 9 mars 2004 - art. 207 (V) JORF 10 mars 2004
-	  - Loi n°2004-204 du 9 mars 2004 - art. 68 () JORF 10 mars 2004
+	  - Loi n°2004-204 du 9 mars 2004 - art. 207 (V) JORF 10 mars 2004 en vigueur le 31 décembre 2007
 
 	**Cité par**:
 
@@ -3011,7 +2997,7 @@ les avise également de sa décision en indiquant les raisons juridiques ou d'op
 
 	**Cite**:
 
-	  - CODE DE PROCEDURE PENALE - art. 40 (M)
+	  - Code de procédure pénale - art. 40 (V)
 
 
 ###### Article 40-3
