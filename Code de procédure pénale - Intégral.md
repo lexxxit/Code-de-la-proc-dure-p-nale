@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 2008-01-01
+Version Consolidée au 2008-01-02
 
 # Partie législative
 
@@ -81596,6 +81596,385 @@ XII.-Médecine humaine ou vétérinaire, pharmacie, ingénierie, architecture.
 	  - Code de procédure pénale - art. 706-2 (VT)
 
 
+### Titre XIV : Du juge délégué aux victimes, président de la commission d'indemnisation des victimes d'infractions
+
+###### Article D47-6-1
+
+Le juge délégué aux victimes veille, dans le respect de l'équilibre des droits des parties, à la prise en compte des droits
+reconnus par la loi aux victimes.
+
+A cette fin, il exerce les fonctions juridictionnelles et, sans préjudice du rôle de l'avocat constitué ou à venir de la
+victime, les fonctions d'administration judiciaire et les fonctions administratives prévues par le présent titre.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-322 1959-02-23
+
+	**Créé par**:
+
+	  - Décret n°2007-1605 du 13 novembre 2007 - art. 1 () JORF 15 novembre 2007 en vigueur le 2 janvier 2008
+
+
+#### Chapitre Ier : Attributions juridictionnelles du juge délégué aux victimes
+
+###### Article D47-6-2
+
+Le président de la commission d'indemnisation des victimes d'infractions est le juge délégué aux victimes.
+
+Si la commission comporte plusieurs formations, chacune d'entre elles est présidée par un juge délégué aux victimes.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-322 1959-02-23
+
+	**Créé par**:
+
+	  - Décret n°2007-1605 du 13 novembre 2007 - art. 1 () JORF 15 novembre 2007 en vigueur le 2 janvier 2008
+
+
+###### Article D47-6-3
+
+Le juge délégué aux victimes peut être désigné par le président du tribunal de grande instance, conformément aux dispositions
+de l'article R. 311-23 du code de l'organisation judiciaire, pour présider les audiences du tribunal correctionnel statuant
+après renvoi sur les seuls intérêts civils, prévues par le quatrième alinéa de l'article 464 du présent code.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-322 1959-02-23
+
+	**Créé par**:
+
+	  - Décret n°2007-1605 du 13 novembre 2007 - art. 1 () JORF 15 novembre 2007 en vigueur le 2 janvier 2008
+
+	**Cite**:
+
+	  - Code de procédure pénale - art. 464 (V)
+	  - Code de l'organisation judiciaire - art. R*311-23 (Ab)
+
+
+#### Chapitre II : Attributions d'administration judiciaire du juge délégué aux victimes
+
+###### Article D47-6-4
+
+Le juge délégué aux victimes peut être saisi par toute personne ayant été victime d'une infraction pour laquelle l'action
+publique a été traitée dans le cadre d'une mesure alternative aux poursuites ou a abouti à un jugement, et demeurant dans le
+ressort du tribunal de grande instance où il exerce ses fonctions.
+
+Selon la nature de la demande, le juge transmet celle-ci au magistrat du siège ou du parquet territorialement compétent, qui
+le tient informé des suites qui lui sont apportées, et en avise la victime et son avocat.
+
+**Nota:**
+
+Conseil d'Etat, décision n° 312314 du 28 décembre 2009 : L'article 1er du décret du 13 novembre 2007 est annulé en tant qu'il
+a inséré les articles D. 47-6-4 à D. 47-6-11 dans le code de procédure pénale.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-322 1959-02-23
+
+	**Créé par**:
+
+	  - Décret n°2007-1605 du 13 novembre 2007 - art. 1 () JORF 15 novembre 2007 en vigueur le 2 janvier 2008
+
+	**Cité par**:
+
+	  - Code de procédure pénale - art. D49-64 (V)
+
+	**Annulé par**:
+
+	  - Conseil d'Etat n°312314 2009-12-28
+
+
+###### Article D47-6-5
+
+Lorsque a été prononcée la peine de sanction réparation prévue par l'article 131-8-1 du code pénal et que le condamné n'a pas
+procédé à l'indemnisation de la partie civile dans les délais requis, le juge délégué aux victimes peut, à la demande de la
+partie civile, saisir de ce manquement le juge de l'application des peines, qui appréciera s'il y a lieu d'envisager la mise
+à exécution de la peine d'amende ou d'emprisonnement fixée par la juridiction de jugement.
+
+**Nota:**
+
+Conseil d'Etat, décision n° 312314 du 28 décembre 2009 : L'article 1er du décret du 13 novembre 2007 est annulé en tant qu'il
+a inséré les articles D. 47-6-4 à D. 47-6-11 dans le code de procédure pénale.
+
+**Liens relatifs à cet article**
+
+	**Annulé par**:
+
+	  - Conseil d'Etat n°312314 2009-12-28
+
+	**Codifié par**:
+
+	  - Décret n°59-322 1959-02-23
+
+	**Créé par**:
+
+	  - Décret n°2007-1605 du 13 novembre 2007 - art. 1 () JORF 15 novembre 2007 en vigueur le 2 janvier 2008
+
+	**Cite**:
+
+	  - Code pénal - art. 131-8-1 (V)
+
+
+###### Article D47-6-6
+
+Lorsqu'un condamné est placé sous le contrôle du juge de l'application des peines, notamment pour l'exécution d'un sursis
+avec mise à l'épreuve ou d'une mesure d'aménagement de peine, le juge délégué aux victimes peut, à la demande de la victime,
+saisir le juge de l'application des peines de la situation particulière de cette victime pour que, le cas échéant, ce
+magistrat complète les obligations auxquelles le condamné est soumis par l'obligation d'indemniser la victime prévue par le
+5° de l'article 132-45 du code pénal. Il en est de même pour l'obligation de contribuer aux charges familiales ou de
+s'acquitter des pensions alimentaires, prévue par le 4° de cet article.
+
+Si le condamné est déjà soumis à l'une de ces obligations et qu'il ne la respecte pas, le juge délégué aux victimes peut, à
+la demande de la victime, saisir de ce manquement le juge de l'application des peines, qui appréciera s'il y a lieu
+d'envisager la révocation du sursis avec mise à l'épreuve ou le retrait ou la révocation de la mesure d'aménagement.
+
+**Nota:**
+
+Conseil d'Etat, décision n° 312314 du 28 décembre 2009 : L'article 1er du décret du 13 novembre 2007 est annulé en tant qu'il
+a inséré les articles D. 47-6-4 à D. 47-6-11 dans le code de procédure pénale.
+
+**Liens relatifs à cet article**
+
+	**Annulé par**:
+
+	  - Conseil d'Etat n°312314 2009-12-28
+
+	**Codifié par**:
+
+	  - Décret n°59-322 1959-02-23
+
+	**Créé par**:
+
+	  - Décret n°2007-1605 du 13 novembre 2007 - art. 1 () JORF 15 novembre 2007 en vigueur le 2 janvier 2008
+
+	**Cite**:
+
+	  - Code pénal - art. 132-45 (M)
+
+
+###### Article D47-6-7
+
+Lorsqu'un condamné est placé sous le contrôle du juge de l'application des peines, notamment pour l'exécution d'un sursis
+avec mise à l'épreuve ou d'une mesure d'aménagement de peine, le juge délégué aux victimes peut, à la demande de la victime,
+saisir le juge de l'application des peines de la situation particulière de cette victime pour que, le cas échéant, ce
+magistrat complète les obligations auxquelles le condamné est soumis par l'interdiction d'entrer en relation avec la victime
+prévue par le 13° de l'article 132-45 du code pénal ou par l'interdiction de paraître dans certains lieux dans lesquels la
+victime réside ou travaille, prévue par le 9° de cet article. Il en est de même, en cas d'infraction commise au sein du
+couple ou sur ses enfants, des obligations de résider hors du domicile ou de la résidence du couple et, le cas échéant, de
+s'abstenir de paraître dans ce domicile ou cette résidence ou aux abords immédiats de celui-ci, ainsi que, si nécessaire, de
+faire l'objet d'une prise en charge sanitaire, sociale ou psychologique, prévues par le 19° de cet article.
+
+Si le condamné est déjà soumis à l'une de ces obligations ou interdictions et qu'il ne la respecte pas, le juge délégué aux
+victimes peut, à la demande de la victime, saisir de ce manquement le juge de l'application des peines, qui appréciera s'il y
+a lieu d'envisager la révocation du sursis avec mise à l'épreuve ou le retrait ou la révocation de la mesure d'aménagement.
+
+**Nota:**
+
+Conseil d'Etat, décision n° 312314 du 28 décembre 2009 : L'article 1er du décret du 13 novembre 2007 est annulé en tant qu'il
+a inséré les articles D. 47-6-4 à D. 47-6-11 dans le code de procédure pénale.
+
+**Liens relatifs à cet article**
+
+	**Annulé par**:
+
+	  - Conseil d'Etat n°312314 2009-12-28
+
+	**Codifié par**:
+
+	  - Décret n°59-322 1959-02-23
+
+	**Créé par**:
+
+	  - Décret n°2007-1605 du 13 novembre 2007 - art. 1 () JORF 15 novembre 2007 en vigueur le 2 janvier 2008
+
+	**Cite**:
+
+	  - Code pénal - art. 132-45 (M)
+
+
+###### Article D47-6-8
+
+Les ordonnances du juge délégué aux victimes adressées au juge de l'application des peines, en application des articles D.
+47-6-5 à D. 47-6-7 sont également transmises en copie au procureur de la République.
+
+Au vu de cette ordonnance, le juge de l'application des peines soit se saisit d'office soit est saisi sur réquisitions du
+procureur de la République, conformément aux dispositions de l'article 712-4.
+
+Il informe le juge délégué aux victimes de sa décision dans le délai d'un mois. Le juge délégué aux victimes dispose de
+quinze jours à compter de la réception de la réponse du juge d'application des peines pour en informer la victime.
+
+**Nota:**
+
+Conseil d'Etat, décision n° 312314 du 28 décembre 2009 : L'article 1er du décret du 13 novembre 2007 est annulé en tant qu'il
+a inséré les articles D. 47-6-4 à D. 47-6-11 dans le code de procédure pénale.
+
+**Liens relatifs à cet article**
+
+	**Annulé par**:
+
+	  - Conseil d'Etat n°312314 2009-12-28
+
+	**Codifié par**:
+
+	  - Décret n°59-322 1959-02-23
+
+	**Créé par**:
+
+	  - Décret n°2007-1605 du 13 novembre 2007 - art. 1 () JORF 15 novembre 2007 en vigueur le 2 janvier 2008
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. 712-4 (V)
+	  - Code de procédure pénale D47-6-5 à D47-6-7, 712-4
+
+
+###### Article D47-6-9
+
+Sans préjudice de l'application des articles D. 49-64 à D. 49-74, le juge délégué aux victimes peut recueillir et transmettre
+au juge de l'application de peine les demandes de la victime tendant à être informée de la mise à exécution de la peine
+contre le condamné ou de la libération du condamné, ou tendant à ne pas en être informée.
+
+**Nota:**
+
+Conseil d'Etat, décision n° 312314 du 28 décembre 2009 : L'article 1er du décret du 13 novembre 2007 est annulé en tant qu'il
+a inséré les articles D. 47-6-4 à D. 47-6-11 dans le code de procédure pénale.
+
+**Liens relatifs à cet article**
+
+	**Annulé par**:
+
+	  - Conseil d'Etat n°312314 2009-12-28
+
+	**Codifié par**:
+
+	  - Décret n°59-322 1959-02-23
+
+	**Créé par**:
+
+	  - Décret n°2007-1605 du 13 novembre 2007 - art. 1 () JORF 15 novembre 2007 en vigueur le 2 janvier 2008
+
+	**Cite**:
+
+	  - Code de procédure pénale D49-64 à D49-74
+
+
+###### Article D47-6-10
+
+Pour l'exercice des attributions prévues par le présent chapitre, le juge délégué aux victimes est assisté par le greffe du
+tribunal de grande instance.
+
+**Nota:**
+
+Conseil d'Etat, décision n° 312314 du 28 décembre 2009 : L'article 1er du décret du 13 novembre 2007 est annulé en tant qu'il
+a inséré les articles D. 47-6-4 à D. 47-6-11 dans le code de procédure pénale.
+
+**Liens relatifs à cet article**
+
+	**Annulé par**:
+
+	  - Conseil d'Etat n°312314 2009-12-28
+
+	**Codifié par**:
+
+	  - Décret n°59-322 1959-02-23
+
+	**Créé par**:
+
+	  - Décret n°2007-1605 du 13 novembre 2007 - art. 1 () JORF 15 novembre 2007 en vigueur le 2 janvier 2008
+
+
+###### Article D47-6-11
+
+Les décisions et les ordonnances prises par le juge délégué aux victimes en application des dispositions du présent chapitre
+constituent des mesures d'administration judiciaire non susceptibles de recours.
+
+**Nota:**
+
+Conseil d'Etat, décision n° 312314 du 28 décembre 2009 : L'article 1er du décret du 13 novembre 2007 est annulé en tant qu'il
+a inséré les articles D. 47-6-4 à D. 47-6-11 dans le code de procédure pénale.
+
+**Liens relatifs à cet article**
+
+	**Annulé par**:
+
+	  - Conseil d'Etat n°312314 2009-12-28
+
+	**Codifié par**:
+
+	  - Décret n°59-322 1959-02-23
+
+	**Créé par**:
+
+	  - Décret n°2007-1605 du 13 novembre 2007 - art. 1 () JORF 15 novembre 2007 en vigueur le 2 janvier 2008
+
+
+#### Chapitre III : Attributions administratives du juge délégué aux victimes
+
+###### Article D47-6-12
+
+Le juge délégué aux victimes vérifie les conditions dans lesquelles les parties civiles sont informées de leurs droits à
+l'issue de l'audience conformément aux dispositions de l'article D. 48-3.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-322 1959-02-23
+
+	**Créé par**:
+
+	  - Décret n°2007-1605 du 13 novembre 2007 - art. 1 () JORF 15 novembre 2007 en vigueur le 2 janvier 2008
+
+	**Cite**:
+
+	  - Code de procédure pénale - art. D48-3 (V)
+
+
+###### Article D47-6-13
+
+Dans le cadre de l'exercice de ses fonctions, le juge délégué aux victimes participe, sous l'autorité du président du
+tribunal de grande instance et en lien avec le procureur de la République, à l'élaboration et la mise en oeuvre de
+dispositifs coordonnés d'aide aux victimes sur le ressort du tribunal de grande instance.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-322 1959-02-23
+
+	**Créé par**:
+
+	  - Décret n°2007-1605 du 13 novembre 2007 - art. 1 () JORF 15 novembre 2007 en vigueur le 2 janvier 2008
+
+
+###### Article D47-6-14
+
+Le juge délégué aux victimes établit un rapport annuel sur l'exercice de ses attributions et le présente oralement à
+l'assemblée générale des magistrats du siège et du parquet.
+
+Le président du tribunal de grande instance et le procureur de la République adressent ce rapport au premier président et au
+procureur général, qui transmettent une synthèse des rapports de leur ressort au ministère de la justice.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°59-322 1959-02-23
+
+	**Créé par**:
+
+	  - Décret n°2007-1605 du 13 novembre 2007 - art. 1 () JORF 15 novembre 2007 en vigueur le 2 janvier 2008
+
+
 ### Titre XVI : De la poursuite, de l'instruction et du jugement des infractions en matière de trafic de stupéfiants
 
 ###### Article D47-7
@@ -83261,15 +83640,17 @@ permettant d'obtenir le paiement des dommages et intérêts qui lui ont été al
 être effectuées pour saisir la commission d'indemnisation des victimes d'infractions ainsi que du délai dans lequel elles
 doivent intervenir.
 
+Le greffier informe également la partie civile de sa possibilité de saisir le juge délégué au victimes.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°59-322 1959-02-23
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2004-1364 du 13 décembre 2004 - art. 24 () JORF 15 décembre 2004 en vigueur le 1er janvier 2005
+	  - Décret n°2007-1605 du 13 novembre 2007 - art. 2 () JORF 15 novembre 2007 en vigueur le 2 janvier 2008
 
 	**Cité par**:
 
@@ -86795,6 +87176,9 @@ est saisi, le service pénitentiaire d'insertion et de probation, prennent en co
 la protection des intérêts et des droits de la victime ou de la partie civile, conformément aux dispositions du présent code
 et notamment des articles 707, 712-16, 720 et 721-2.
 
+Les dispositions de la présente section s'appliquent sans préjudice de celles des articles D. 47-6-4 à D. 47-6-11 relatifs au
+juge délégué aux victimes.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
@@ -86803,7 +87187,7 @@ et notamment des articles 707, 712-16, 720 et 721-2.
 
 	**Modifié par**:
 
-	  - Décret n°2007-699 du 3 mai 2007 - art. 8 () JORF 5 mai 2007
+	  - Décret n°2007-1605 du 13 novembre 2007 - art. 3 () JORF 15 novembre 2007 en vigueur le 2 janvier 2008
 
 	**Cite**:
 
@@ -86811,6 +87195,7 @@ et notamment des articles 707, 712-16, 720 et 721-2.
 	  - CODE DE PROCEDURE PENALE - art. 712-16 (V)
 	  - CODE DE PROCEDURE PENALE - art. 720 (M)
 	  - CODE DE PROCEDURE PENALE - art. 721-2 (V)
+	  - Code de procédure pénale 707, 712-16, 720, 721-2, D47-6-4 à D47-6-11
 
 	**Cité par**:
 
