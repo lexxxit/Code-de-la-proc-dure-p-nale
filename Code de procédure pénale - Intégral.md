@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 2008-01-05
+Version Consolidée au 2008-02-22
 
 # Partie législative
 
@@ -56781,27 +56781,23 @@ les articles R. 3512-1 et R. 3512-2 du code de la santé publique.
 
 ###### Article R15-33-29-4
 
-Les agents et fonctionnaires mentionnés à l'article R. 15-33-61 adressent sans délai les procès-verbaux constatant les
+Les agents et fonctionnaires mentionnés à l'article R. 15-33-29-3 adressent sans délai les procès-verbaux constatant les
 contraventions prévues par cet article simultanément au maire ou, pour les agents de surveillance de Paris, au préfet de
 police et, par l'intermédiaire des officiers de police judiciaire territorialement compétents, au procureur de la République.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Décret n°58-358 1958-04-02
-
-	**Créé par**:
-
-	  - Décret n°2007-1388 du 26 septembre 2007 - art. 7 () JORF 28 septembre 2007
-
 	**Cité par**:
+
+	  - Décret n°2008-150 du 19 février 2008 - art. 2
+
+	**Modifié par**:
 
 	  - Décret n°2008-150 du 19 février 2008 - art. 2
 
 	**Cite**:
 
-	  - CODE DE PROCEDURE PENALE - art. R15-33-61 (M)
+	  - Code de procédure pénale - art. R15-33-29-3
 
 
 #### Chapitre II : Du ministère public
@@ -57970,45 +57966,309 @@ alors l'extinction de l'action publique.
 
 ##### Section 1 : Des demandes de mise à dispositions de données par voie électronique
 
-###### Article R15-33-68
+###### Article R15-33-67
 
-Les services de police ou les unités de gendarmerie sont tenus, à la demande des seules autorités judiciaires, de délivrer
-dans les meilleurs délais aux personnes visées aux articles 16 à 29 ayant fait l'objet des dispositions de l'article 62-1 les
-convocations émanant de ces autorités. Ils doivent de même remettre les citations à comparaître dont peuvent faire l'objet
-ces personnes.
+Les conditions d'application des dispositions des premiers alinéas des articles 60-2, 77-1-2 et 99-4 permettant de demander
+la mise à disposition de données par voie électronique au cours de l'enquête de flagrance, de l'enquête préliminaire ou de
+l'instruction sont fixées par les dispositions de la présente section.
 
-Lorsqu'elles sont entendues comme témoins devant une juridiction d'instruction ou de jugement, les personnes ayant bénéficié
-des dispositions de l'article 62-1 sont autorisées à continuer de déclarer comme domicile l'adresse du service de police ou
-de l'unité de gendarmerie.
+**Nota:**
 
-Les dispositions du présent article ne sont pas prescrites à peine de nullité.
+Décret n° 2008-150 du 19 février 2008 article 1 I et IV : Le I de l'article 1er du décret n° 2007-1538 du 26 octobre 2007 est
+abrogé. Les article R. 15-33-61 à R. 15-33-69 du code de procédure pénale dans leur rédaction résultant de l'article 1er du
+décret n° 2007-1538 du 26 octobre 2007 sont renumérotés R. 15-33-67 à R. 15-33-75.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Créé par**:
 
-	  - Décret n°58-358 1958-04-02
+	  - Décret n°2008-150 du 19 février 2008 - art. 1
+
+	**Cité par**:
+
+	  - CODE DE PROCEDURE PENALE - art. R15-33-68 (V)
+	  - CODE DE PROCEDURE PENALE - art. R15-33-69 (V)
+
+	**Cite**:
+
+	  - Code de procédure pénale - art. 60-2
+	  - Code de procédure pénale - art. 77-1-2
+	  - Code de procédure pénale - art. 99-4
+
+
+###### Article R15-33-68
+
+Les catégories d'organismes publics ou de personnes morales de droit privé susceptibles de faire l'objet des demandes
+mentionnées à l'article R. 15-33-67 sont : 
+
+1° Les opérateurs de communications électroniques tels que définis à l'article L. 34-1 du code des postes et communications
+électroniques, ainsi que les personnes morales prestataires mentionnées par la loi n° 2004-575 du 21 juin 2004 pour la
+confiance dans l'économie numérique ; 
+
+2° Les établissements financiers, bancaires et de crédit ; 
+
+3° Le Groupement des Cartes Bancaires " CB " ; 
+
+4° Les organismes sociaux mentionnés au code de la sécurité sociale ainsi qu'au code rural ; 
+
+5° Les entreprises d'assurance ; 
+
+6° Les organismes publics ou privés gestionnaires de logements ; 
+
+7° Les services des administrations publiques gestionnaires de fichiers administratifs, notamment fiscaux et bancaires ; 
+
+8° Les entreprises de transport collectif de voyageurs ; 
+
+9° Les opérateurs de distribution de l'énergie.
+
+**Nota:**
+
+Décret n° 2008-150 du 19 février 2008 article 1 IV : Les article R. 15-33-61 à R. 15-33-69 du code de procédure pénale dans
+leur rédaction résultant de l'article 1er du décret n° 2007-1538 du 26 octobre 2007 sont renumérotés R. 15-33-67 à R.
+15-33-75.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°2004-575 du 21 juin 2004 (V)
+	  - Code des postes et des communications électroni... - art. L34-1 (V)
+	  - CODE DE PROCEDURE PENALE - art. R15-33-67 (V)
 
 	**Créé par**:
 
-	  - Décret n°2007-1388 du 26 septembre 2007 - art. 9 () JORF 28 septembre 2007
-
-	**Liens**:
-
-	  - TRANSFERE: Décret n°2008-150 du 19 février 2008 - art. 1
+	  - Décret n°2008-150 du 19 février 2008 - art. 1
 
 	**Anciens textes**:
 
 	  - CODE DE PROCEDURE PENALE - art. R15-33-61 (T)
 
-	**Nouveaux textes**:
-
-	  - CODE DE PROCEDURE PENALE - art. R15-33-76 (V)
-
 	**Cité par**:
 
 	  - Code de procédure pénale - art. R261-2 (V)
 	  - Code de procédure pénale - art. R40-45 (V)
+
+
+###### Article R15-33-69
+
+Les demandes mentionnées à l'article R. 15-33-67 adressées aux organismes ou personnes morales relevant de l'une des
+catégories mentionnées à l'article R. 15-33-68 sont soumises à une procédure fixée par le protocole prévu à l'article R.
+15-33-72.
+
+Celui-ci prévoit que les informations sollicitées par l'officier de police judiciaire sont mises à sa disposition soit dans
+un fichier spécifique, soit par un accès temporaire et limité à la base de données de l'organisme ou de la personne morale
+sollicitée.
+
+**Nota:**
+
+Décret n° 2008-150 du 19 février 2008 article 1 IV : Les article R. 15-33-61 à R. 15-33-69 du code de procédure pénale dans
+leur rédaction résultant de l'article 1er du décret n° 2007-1538 du 26 octobre 2007 sont renumérotés R. 15-33-67 à R.
+15-33-75.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2008-150 du 19 février 2008 - art. 1
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. R15-33-72 (V)
+	  - Code de procédure pénale - art. R15-33-67
+
+
+###### Article R15-33-70
+
+Peuvent seuls procéder à ces demandes les officiers de police judiciaire affectés dans un service ou une unité exerçant des
+missions de police judiciaire et ayant été expressément habilités à cette fin par le responsable du service ou de l'unité.
+
+**Nota:**
+
+Décret n° 2008-150 du 19 février 2008 article 1 IV : Les article R. 15-33-61 à R. 15-33-69 du code de procédure pénale dans
+leur rédaction résultant de l'article 1er du décret n° 2007-1538 du 26 octobre 2007 sont renumérotés R. 15-33-67 à R.
+15-33-75.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2008-150 du 19 février 2008 - art. 1
+
+
+###### Article R15-33-71
+
+Toute demande de mise à disposition fait l'objet de la part de l'officier de police judiciaire d'un procès-verbal indiquant
+le destinataire de la demande et la nature des informations demandées. 
+
+Dans le cas prévu par l'article 77-1-2, le procès-verbal mentionne l'accord préalable du procureur de la République qui peut
+être donné par tout moyen.
+
+**Nota:**
+
+Décret n° 2008-150 du 19 février 2008 article 1 IV : Les article R. 15-33-61 à R. 15-33-69 du code de procédure pénale dans
+leur rédaction résultant de l'article 1er du décret n° 2007-1538 du 26 octobre 2007 sont renumérotés R. 15-33-67 à R.
+15-33-75.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2008-150 du 19 février 2008 - art. 1
+
+	**Cité par**:
+
+	  - CODE DE PROCEDURE PENALE - art. R15-33-74 (V)
+
+	**Cite**:
+
+	  - Code de procédure pénale - art. 77-1-2
+
+
+###### Article R15-33-72
+
+Les modalités techniques d'interrogation et de transmission des informations sont précisées par un protocole passé par le
+ministre de la justice et, selon les cas, le ministre de l'intérieur, le ministre de la défense ou le ministre chargé du
+budget avec chaque organisme ou personne morale relevant des dispositions de l'article R. 15-33-68. 
+
+Ce protocole précise notamment : 
+
+1° Le ou les systèmes informatiques ou traitements automatisés de données à caractère personnel intéressés ; 
+
+2° La nature des données à caractère personnel susceptibles d'être mises à disposition ; 
+
+3° Les modalités selon lesquelles l'organisme ou la personne morale permet à l'officier de police judiciaire de consulter les
+informations demandées et d'en effectuer vers son service le transfert par voie électronique ; 
+
+4° Les conditions et modalités de sécurisation de la liaison électronique permettant de garantir, lors de l'acheminement des
+informations sollicitées vers le service demandeur, l'origine, la destination, l'intégrité et la confidentialité des
+données ; 
+
+5° Les modalités de suivi des demandes et des consultations, incluant l'identification de l'officier de police judiciaire ; 
+
+6° Les garanties permettant de limiter la consultation aux seules informations demandées et d'empêcher tout accès à des
+informations protégées par un secret prévu par la loi, notamment par le secret médical, hors les cas où la loi prévoit que ce
+secret n'est pas opposable aux autorités judiciaires. 
+
+Le protocole est porté à la connaissance de l'ensemble des officiers de police judiciaire des services et unités de police
+judiciaire ainsi que des agents des douanes relevant de l'article 28-1, qui ont été expressément habilités à procéder à ces
+demandes.
+
+**Nota:**
+
+Décret n° 2008-150 du 19 février 2008 article 1 IV : Les article R. 15-33-61 à R. 15-33-69 du code de procédure pénale dans
+leur rédaction résultant de l'article 1er du décret n° 2007-1538 du 26 octobre 2007 sont renumérotés R. 15-33-67 à R.
+15-33-75.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2008-150 du 19 février 2008 - art. 1
+
+	**Cité par**:
+
+	  - CODE DE PROCEDURE PENALE - art. R15-33-69 (V)
+	  - Code de procédure pénale - art. R40-45 (V)
+
+
+###### Article R15-33-73
+
+Copie du protocole est adressée par l'organisme ou la personne morale à la Commission nationale de l'informatique et des
+libertés à l'occasion de l'accomplissement des formalités prévues par la loi n° 78-17 du 6 janvier 1978 relative à
+l'informatique, aux fichiers et aux libertés.
+
+**Nota:**
+
+Décret n° 2008-150 du 19 février 2008 article 1 IV : Les article R. 15-33-61 à R. 15-33-69 du code de procédure pénale dans
+leur rédaction résultant de l'article 1er du décret n° 2007-1538 du 26 octobre 2007 sont renumérotés R. 15-33-67 à R.
+15-33-75.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°78-17 du 6 janvier 1978
+
+	**Créé par**:
+
+	  - Décret n°2008-150 du 19 février 2008 - art. 1
+
+
+###### Article R15-33-74
+
+L'officier de police judiciaire constate la réception des informations demandées par procès-verbal et procède soit à leur
+impression sur un document papier, soit à leur sauvegarde intégrale sur un support numérique conforme aux standards
+techniques en vigueur au moment de la transmission. 
+
+Ce document ou ce support est annexé au procès-verbal. Si un support numérique est établi, une copie de ce support est placée
+sous scellés. 
+
+Les opérations prévues à l'article R. 15-33-71 et au présent article peuvent faire l'objet d'un procès-verbal unique.
+
+**Nota:**
+
+Décret n° 2008-150 du 19 février 2008 article 1 IV : Les article R. 15-33-61 à R. 15-33-69 du code de procédure pénale dans
+leur rédaction résultant de l'article 1er du décret n° 2007-1538 du 26 octobre 2007 sont renumérotés R. 15-33-67 à R.
+15-33-75.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2008-150 du 19 février 2008 - art. 1
+
+	**Cite**:
+
+	  - Code de procédure pénale - art. R15-33-71
+
+
+###### Article R15-33-75
+
+Les données à caractère personnel recueillies en application de la présente section ne peuvent faire l'objet d'aucun
+traitement automatisé à l'exception de ceux nécessaires à leur exploitation dans le cadre de procédures judiciaires pénales.
+
+**Nota:**
+
+Décret n° 2008-150 du 19 février 2008 article 1 IV : Les article R. 15-33-61 à R. 15-33-69 du code de procédure pénale dans
+leur rédaction résultant de l'article 1er du décret n° 2007-1538 du 26 octobre 2007 sont renumérotés R. 15-33-67 à R.
+15-33-75.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2008-150 du 19 février 2008 - art. 1
+
+
+##### Section 2 : De la convocation des officiers de police judiciaire ayant procédé à une déclaration d'adresse
+
+###### Article R15-33-76
+
+Les services de police ou les unités de gendarmerie sont tenus, à la demande des seules autorités judiciaires, de délivrer
+dans les meilleurs délais aux personnes visées aux articles 16 à 29 ayant fait l'objet des dispositions de l'article 62-1 les
+convocations émanant de ces autorités. Ils doivent de même remettre les citations à comparaître dont peuvent faire l'objet
+ces personnes. 
+
+Lorsqu'elles sont entendues comme témoins devant une juridiction d'instruction ou de jugement, les personnes ayant bénéficié
+des dispositions de l'article 62-1 sont autorisées à continuer de déclarer comme domicile l'adresse du service de police ou
+de l'unité de gendarmerie. 
+
+Les dispositions du présent article ne sont pas prescrites à peine de nullité.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2008-150 du 19 février 2008 - art. 1
+
+	**Anciens textes**:
+
+	  - CODE DE PROCEDURE PENALE - art. R15-33-68 (T)
+
+	**Cite**:
+
+	  - Code de procédure pénale - art. 16
+	  - Code de procédure pénale - art. 62-1
 
 
 ### Titre III : Des juridictions d'instruction
@@ -67278,7 +67538,7 @@ commission, ou de son représentant ;
 
 5° D'un expert psychologue titulaire d'un diplôme d'études supérieures spécialisées ou d'un mastère de psychologie ;
 
-6° D'un représentant d'une association nationale d'aide aux victimes ;
+6° D'un représentant d'une association d'aide aux victimes ;
 
 7° D'un avocat, membre du conseil de l'ordre.
 
@@ -67292,13 +67552,9 @@ Le secrétariat de la commission est assuré par un greffier désigné par le gr
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°59-318 1959-02-23
-
-	**Créé par**:
-
-	  - Décret n°2007-1169 du 1 août 2007 - art. 1 () JORF 3 août 2007
+	  - Décret n°2008-150 du 19 février 2008 - art. 2
 
 	**Cité par**:
 
@@ -70979,49 +71235,39 @@ l'article 41-1, à notifier une ordonnance pénale en application des dispositio
 cadre d'une réparation pénale, à la notification de la mesure et au recueil de l'accord du mineur et des titulaires de
 l'exercice de l'autorité parentale, ou à notifier une peine de stage de citoyenneté, de stage de sensibilisation aux dangers
 de l'usage des produits stupéfiants, ou de stage de responsabilité parentale dont le contrôle de la mise en oeuvre est confié
-au service d'insertion ou de probation ou à une autre personne habilitée : IP. 6 ;
+au service d'insertion ou de probation ou à une autre personne habilitée : IP. 6 ; 
 
 2° Pour une mission tendant à favoriser la régularisation d'une situation ou l'orientation vers une structure sanitaire,
 sociale ou professionnelle n'impliquant pas l'accomplissement d'un stage, en application des dispositions des 2° et 3° de
-l'article 41-1 et à vérifier le respect par la personne de ses engagements : IP. 7 ;
+l'article 41-1 et à vérifier le respect par la personne de ses engagements : IP. 7 ; 
 
 3° Pour une mission tendant à favoriser la réparation du dommage, l'accomplissement d'un stage ou l'éloignement du domicile,
 en application des dispositions des 2°, 4° et 6° de l'article 41-1, et à vérifier le respect par la personne de ses
 engagements, ainsi que pour une mission de contrôle de la mise en oeuvre de la peine de stage de citoyenneté, stage de
-sensibilisation aux dangers de l'usage des produits stupéfiants ou stage de responsabilité parentale :
+sensibilisation aux dangers de l'usage des produits stupéfiants ou stage de responsabilité parentale ou de contrôle de
+l'exécution de la peine de sanction-réparation : IP. 8 ; 
 
-IP.8 ;
+4° Pour une mission de médiation en application des dispositions du 5° de l'article 41-1 : IP. 9 ; 
 
-4° Pour une mission de médiation en application des dispositions du 5° de l'article 41-1 : IP.9 ;
+5° Pour une composition pénale : 
 
-5° Pour une composition pénale :
+a) Pour la notification des mesures proposées et le recueil de l'accord de la personne : IP. 10 ; 
 
-a)  Pour la notification des mesures proposées et le recueil de l'accord de la personne : IP.10 ;
-
-b) Pour le contrôle de l'exécution des mesures décidées : IP.11 lorsqu'il s'agit d'une des mesures prévues aux 1° à 5° et 8°
-à 12° de l'article 41-2 ; IP.12 lorsque est également décidée une des mesures prévues aux 6°, 7° et 13° à 17° de l'article
+b) Pour le contrôle de l'exécution des mesures décidées : IP. 11 lorsqu'il s'agit d'une des mesures prévues aux 1° à 5° et 8°
+à 12° de l'article 41-2 ; IP. 12 lorsque est également décidée une des mesures prévues aux 6°, 7° et 13° à 17° de l'article
 41-2 ou la mesure de réparation du préjudice. Le montant cumulé des sommes ainsi allouées ne peut toutefois excéder celui dû
-pour quatre de ces mesures.
+pour quatre de ces mesures. 
 
 Lorsque les mesures prévues aux 1° à 5° ci-dessus concernent un mineur, le délégué ou le médiateur du procureur qui doit
-procéder à l'audition des responsables légaux du mineur se voit allouer une indemnité supplémentaire de IP.13.
+procéder à l'audition des responsables légaux du mineur se voit allouer une indemnité supplémentaire de IP. 13. 
 
 L'indemnité prévue au 1° pour les rappels des obligations résultant de la loi n'est pas cumulable avec celles prévues aux 2°,
-3°, 4° ou 5°.
+3°, 4° ou 5°. 
 
 Lorsque le délégué ou le médiateur n'a pu remplir sa mission en raison de la carence de l'intéressé qui n'a pas répondu aux
-convocations, l'indemnité est de IP.14.
-
-**Nota:**
-
-Décret 2007-1388 du 26 septembre 2007 art. 16 V : Les dispositions du présent article entreront en vigueur à la date fixée
-par l'arrêté prévu par l'article R121 du code de procédure pénale.
+convocations, l'indemnité est de IP. 14.
 
 **Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°59-318 1959-02-23
 
 	**Cité par**:
 
@@ -71030,18 +71276,13 @@ par l'arrêté prévu par l'article R121 du code de procédure pénale.
 
 	**Modifié par**:
 
-	  - Décret n°2007-1388 du 26 septembre 2007 - art. 16 () JORF 28 septembre 2007
+	  - Décret n°2008-150 du 19 février 2008 - art. 2
 
 	**Cite**:
 
-	  - CODE DE PROCEDURE PENALE - art. 41-1 (M)
-	  - CODE DE PROCEDURE PENALE - art. 41-2 (M)
-	  - CODE DE PROCEDURE PENALE - art. 495-3 (M)
-	  - CODE DE PROCEDURE PENALE - art. R121 (M)
-
-	**Liens**:
-
-	  - SPEC_APPLI: Date d'entrée en vigueur indéterminée
+	  - Code de procédure pénale - art. 41-1 (V)
+	  - Code de procédure pénale - art. 41-2 (V)
+	  - Code de procédure pénale - art. 495-3 (V)
 
 
 ##### B. - Associations
@@ -71102,45 +71343,44 @@ par l'arrêté prévu par l'article R121 du code de procédure pénale.
 ###### Article R121-4
 
 Il est alloué à l'association habilitée ayant passé une convention avec le premier président et le procureur général de la
-cour d'appel dans le ressort de laquelle est situé son siège :
+cour d'appel dans le ressort de laquelle est situé son siège : 
 
 1° Pour une mission tendant à procéder au rappel des obligations résultant de la loi en application des dispositions du 1° de
 l'article 41-1, à notifier une ordonnance pénale en application des dispositions de l'article 495-3, à procéder, dans le
 cadre d'une réparation pénale, à la notification de la mesure et au recueil de l'accord du mineur et des titulaires de
 l'exercice de l'autorité parentale, ou à notifier une peine de stage de citoyenneté, de stage de sensibilisation aux dangers
 de l'usage des produits stupéfiants ou de stage de responsabilité parentale dont le contrôle de la mise en oeuvre est confié
-au service d'insertion ou de probation ou une autre personne habilitée : IA.6 ;
+au service d'insertion ou de probation ou une autre personne habilitée : IA. 6 ; 
 
 2° Pour une mission tendant à favoriser la régularisation d'une situation ou l'orientation vers une structure sanitaire,
 sociale ou professionnelle n'impliquant pas l'accomplissement d'un stage, en application des dispositions des 2° et 3° de
-l'article 41-1 et à vérifier le respect par la personne de ses engagements : IA.7 ;
+l'article 41-1 et à vérifier le respect par la personne de ses engagements : IA. 7 ; 
 
 3° Pour une mission tendant à favoriser la réparation du dommage, l'accomplissement d'un stage ou l'éloignement du domicile
 en application des dispositions des 2°, 4° et 6° de l'article 41-1 et à vérifier le respect par la personne de ses
 engagements, ainsi que pour une mission de contrôle de la mise en oeuvre de la peine de stage de citoyenneté, stage de
-sensibilisation aux dangers de l'usage des produits stupéfiants ou stage de responsabilité parentale :
+sensibilisation aux dangers de l'usage des produits stupéfiants ou stage de responsabilité parentale ou de contrôle de
+l'exécution de la peine de sanction-réparation : IA. 8 ; 
 
-IA.8 ;
+4° Pour une mission de médiation en application des dispositions du 5° de l'article 41-1 : IA. 9 ; 
 
-4° Pour une mission de médiation en application des dispositions du 5° de l'article 41-1 : IA.9 ;
+5° Pour une composition pénale : 
 
-5° Pour une composition pénale :
+a) Pour la notification des mesures proposées et le recueil de l'accord de la personne : IA. 10 ; 
 
-a)  Pour la notification des mesures proposées et le recueil de l'accord de la personne : IA.10 ;
-
-b) Pour le contrôle de l'exécution des mesures décidées : IA 11 lorsqu'il s'agit d'une des mesures prévues aux 1° à 5° et 8°
-à 12° de l'article 41-2 ; IA.12 lorsqu'est également décidée une des mesures prévues aux 6°, 7° et 13° à 17° de l'article
+b) Pour le contrôle de l'exécution des mesures décidées : IA. 11 lorsqu'il s'agit d'une des mesures prévues aux 1° à 5° et 8°
+à 12° de l'article 41-2 ; IA. 12 lorsqu'est également décidée une des mesures prévues aux 6°, 7° et 13° à 17° de l'article
 41-2 ou la mesure de réparation du préjudice. Le montant cumulé des sommes ainsi allouées ne peut toutefois excéder celui dû
-pour quatre de ces mesures.
+pour quatre de ces mesures. 
 
 Lorsque les mesures prévues aux 1° à 5° ci-dessus concernent un mineur, le délégué ou le médiateur du procureur qui doit
-procéder à l'audition des responsables légaux du mineur se voit allouer une indemnité supplémentaire de IA.13.
+procéder à l'audition des responsables légaux du mineur se voit allouer une indemnité supplémentaire de IA. 13. 
 
 L'indemnité prévue au 1° pour les rappels des obligations résultant de la loi n'est pas cumulable avec celles prévues aux 2°,
-3°, 4° ou 5°.
+3°, 4° ou 5°. 
 
 Lorsque le délégué ou le médiateur n'a pu remplir sa mission en raison de la carence de l'intéressé qui n'a pas répondu aux
-convocations, l'indemnité est de IA.14.
+convocations, l'indemnité est de IA. 14.
 
 **Nota:**
 
@@ -71149,24 +71389,15 @@ par l'arrêté prévu par l'article R121 du code de procédure pénale.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°59-318 1959-02-23
-
-	**Créé par**:
-
-	  - Décret n°2007-1388 du 26 septembre 2007 - art. 16 () JORF 28 septembre 2007
+	  - Décret n°2008-150 du 19 février 2008 - art. 2
 
 	**Cite**:
 
-	  - CODE DE PROCEDURE PENALE - art. 41-1 (M)
-	  - CODE DE PROCEDURE PENALE - art. 41-2 (M)
-	  - CODE DE PROCEDURE PENALE - art. 495-3 (M)
-	  - CODE DE PROCEDURE PENALE - art. R121 (M)
-
-	**Liens**:
-
-	  - SPEC_APPLI: Date d'entrée en vigueur indéterminée
+	  - Code de procédure pénale - art. 41-1
+	  - Code de procédure pénale - art. 41-2
+	  - Code de procédure pénale - art. 495-3
 
 
 ##### Paragraphe 3 : Des interprètes traducteurs
@@ -74503,6 +74734,32 @@ communes applicables localement.
 	**Cite**:
 
 	  - CODE DE PROCEDURE PENALE - art. R15-33-29-3 (V)
+
+
+###### Article R261-2
+
+Pour l'application de l'article R. 15-33-68, les 1° et 4° de cet article sont ainsi rédigés : 
+
+" 1° Les opérateurs de communications électroniques ainsi que les personnes morales prestataires mentionnés par la loi n°
+2004-575 du 21 juin 2004 pour la confiance dans l'économie numérique. 
+
+" 4° Les organismes sociaux. "
+
+**Nota:**
+
+Décret n° 2008-150 du 19 février 2008 article 1 V :  L'article  R. 261-1 du code de procédure pénale, dans sa rédaction
+résultant de l'article 2 du décret n° 2007-1538 du 26 octobre 2007,  devient l'articles R. 261-2 de ce code.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°2004-575 du 21 juin 2004
+	  - Code de procédure pénale - art. R15-33-68 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-150 du 19 février 2008 - art. 1
 
 
 ###### Article R262
