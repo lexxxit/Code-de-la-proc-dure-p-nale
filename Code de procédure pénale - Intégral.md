@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 2008-02-22
+Version Consolidée au 2008-02-27
 
 # Partie législative
 
@@ -12845,21 +12845,24 @@ justifiée, sauf si le témoin assisté demande à être mis en examen en applic
 
 ###### Article 167-1
 
-Lorsque les conclusions de l'expertise sont de nature à conduire le juge d'instruction à déclarer qu'il n'y a lieu à suivre
-en application des dispositions du premier alinéa de l'article 122-1 du code pénal, leur notification à la partie civile doit
-être effectuée dans les conditions prévues par le premier alinéa de l'article 167. La partie civile dispose alors d'un délai
-de quinze jours pour présenter des observations ou formuler une demande de complément d'expertise ou de contre-expertise. La
-contre-expertise demandée par la partie civile est de droit. Elle doit être accomplie par au moins deux experts.
+Lorsque les conclusions de l'expertise sont de nature à conduire à l'application des dispositions du premier alinéa de
+l'article 122-1 du code pénal prévoyant l'irresponsabilité pénale de la personne en raison d'un trouble mental, leur
+notification à la partie civile est effectuée dans les conditions prévues par le premier alinéa de l'article 167, le cas
+échéant en présence de l'expert ou des experts. En matière criminelle, cette présence est obligatoire si l'avocat de la
+partie civile le demande. La partie civile dispose alors d'un délai de quinze jours pour présenter des observations ou
+formuler une demande de complément d'expertise ou de contre-expertise. La contre-expertise demandée par la partie civile est
+de droit. Elle doit être accomplie par au moins deux experts.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Loi n°57-1426 1957-12-31
+	  - Loi n°2008-174 du 25 février 2008 - art. 4
 
-	**Créé par**:
+	**Cite**:
 
-	  - Loi n°95-125 du 8 février 1995 - art. 56 () JORF 9 février 1995
+	  - Code pénal - art. 122-1 (V)
+	  - CODE DE PROCEDURE PENALE - art. 167 (V)
 
 
 ###### Article 167-2
@@ -13391,30 +13394,21 @@ détermine la qualification juridique.
 
 Si le juge d'instruction estime que les faits ne constituent ni crime, ni délit, ni contravention, ou si l'auteur est resté
 inconnu, ou s'il n'existe pas de charges suffisantes contre la personne mise en examen, il déclare, par une ordonnance, qu'il
-n'y a lieu à suivre.
+n'y a lieu à suivre. 
 
-Lorsque l'ordonnance de non-lieu est motivée par l'existence de l'une des causes d'irresponsabilité pénale prévue par le
-premier alinéa de l'article 122-1, les articles 122-2, 122-3, 122-4, 122-5 et 122-7 du code pénal ou par le décès de la
-personne mise en examen, elle précise s'il existe des charges suffisantes établissant que l'intéressé a commis les faits qui
-lui sont reprochés.
+Lorsque l'ordonnance de non-lieu est motivée par l'existence de l'une des causes d'irresponsabilité pénale prévue par les
+articles 122-2,122-3,122-4,122-5 et 122-7 du code pénal ou par le décès de la personne mise en examen, elle précise s'il
+existe des charges suffisantes établissant que l'intéressé a commis les faits qui lui sont reprochés. 
 
 Les personnes mises en examen qui sont provisoirement détenues sont mises en liberté. L'ordonnance met fin au contrôle
-judiciaire.
+judiciaire. 
 
 Le juge d'instruction statue par la même ordonnance sur la restitution des objets placés sous main de justice. Il peut
 refuser la restitution lorsque celle-ci présente un danger pour les personnes ou les biens. La décision relative à la
 restitution peut être déférée, par tout personne qui y a intérêt, à la chambre de l'instruction dans les conditions et selon
 les modalités prévues par l'article 99.
 
-**Nota:**
-
-
-
 **Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°57-1426 1957-12-31
 
 	**Cité par**:
 
@@ -13424,7 +13418,13 @@ les modalités prévues par l'article 99.
 
 	**Modifié par**:
 
-	  - Loi n°2004-204 du 9 mars 2004 - art. 122 () JORF 10 mars 2004 en vigueur le 1er octobre 2004
+	  - Loi n°2008-174 du 25 février 2008 - art. 4
+
+	**Cite**:
+
+	  - Code pénal - art. 122-2 (V)
+	  - Code pénal - art. 122-7 (V)
+	  - Code de procédure pénale - art. 99
 
 
 ###### Article 177-1
@@ -14618,45 +14618,6 @@ prolongé de cinq jours.
 
 	  - CODE DE PROCEDURE PENALE - art. 194 (M)
 	  - CODE DE PROCEDURE PENALE - art. 706-73 (M)
-
-
-###### Article 199-1
-
-En cas d'appel d'une ordonnance de non-lieu motivée par les dispositions du premier alinéa de l'article 122-1 du code pénal,
-la chambre de l'instruction doit, à la demande de la partie civile, ordonner la comparution personnelle de la personne mise
-en examen, si l'état de cette dernière le permet. Cette demande doit, à peine d'irrecevabilité, être présentée en même temps
-que la demande d'appel.
-
-Si la comparution personnelle de la personne mise en examen a été ordonnée, et si la partie civile ou son avocat en fait la
-demande dès l'ouverture des débats, ceux-ci se déroulent et l'arrêt est rendu en séance publique, sauf si la publicité est de
-nature à nuire à l'ordre public ou aux bonnes moeurs ; la chambre de l'instruction statue sur cette demande de publicité,
-après avoir recueilli les observations du procureur général, de la personne mise en examen et de son avocat ainsi que, le cas
-échéant, des avocats des autres parties, par un arrêt rendu en chambre du conseil qui n'est susceptible de pourvoi en
-cassation qu'en même temps que l'arrêt portant sur la demande principale.
-
-Les experts ayant examiné la personne mise en examen doivent être entendus par la chambre de l'instruction.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°57-1426 1957-12-31
-
-	**Modifié par**:
-
-	  - Loi n°2000-516 du 15 juin 2000 - art. 83 () JORF 16 juin 2000 en vigueur le 1er janvier 2001
-
-	**Abrogé par**:
-
-	  - Loi n°2008-174 du 25 février 2008 - art. 4
-
-	**Cité par**:
-
-	  - Décret n°2008-361 du 16 avril 2008 - art. 5 (V)
-
-	**Cite**:
-
-	  - Code pénal - art. 122-1
 
 
 ###### Article 200
@@ -19596,17 +19557,22 @@ Au cas de contradiction entre deux ou plusieurs réponses, le président peut fa
 
 Si, lorsqu'il est fait application des dispositions de l'article 349-1, la cour d'assises a répondu positivement à la
 première question et négativement à la seconde question, elle déclare l'accusé coupable. Si elle a répondu négativement à la
-première question ou positivement à la seconde question, elle déclare l'accusé non coupable.
+première question ou positivement à la seconde question, elle déclare l'accusé non coupable. 
+
+Si elle a répondu positivement à la première question et positivement à la seconde question portant sur l'application des
+dispositions du premier alinéa de l'article 122-1 du code pénal, il est fait application des articles 706-129 et suivants
+relatifs à la déclaration d'irresponsabilité pénale pour cause de trouble mental.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Ordonnance 58-1296 1958-12-23
+	  - Loi n°2008-174 du 25 février 2008 - art. 4
 
-	**Créé par**:
+	**Cite**:
 
-	  - Loi n°2000-516 du 15 juin 2000 - art. 80 () JORF 16 juin 2000 en vigueur le 1er janvier 2001
+	  - Code pénal - art. 122-1 (V)
+	  - Code de procédure pénale - art. 349-1
 
 	**Cité par**:
 
@@ -19618,34 +19584,42 @@ première question ou positivement à la seconde question, elle déclare l'accus
 En cas de réponse affirmative sur la culpabilité, le président donne lecture aux jurés des dispositions des articles 132-18
 et 132-24 du code pénal, ainsi que, si les faits ont été commis en état de récidive légale, de l'article 132-18-1 et, le cas
 échéant, de l'article 132-19-1 du même code. La cour d'assises délibère alors sans désemparer sur l'application de la peine.
-Le vote a lieu ensuite au scrutin secret, et séparément pour chaque accusé.
+Le vote a lieu ensuite au scrutin secret, et séparément pour chaque accusé. 
 
 La décision sur la peine se forme à la majorité absolue des votants. Toutefois, le maximum de la peine privative de liberté
 encourue ne peut être prononcé qu'à la majorité de huit voix au moins lorsque la cour d'assises statue en premier ressort et
 qu'à la majorité de dix voix au moins lorsque la cour d'assises statue en appel. Si le maximum de la peine encourue n'a pas
 obtenu cette majorité, il ne peut être prononcé une peine supérieure à trente ans de réclusion criminelle lorsque la peine
 encourue est la réclusion criminelle à perpétuité et une peine supérieure à vingt ans de réclusion criminelle lorsque la
-peine encourue est de trente ans de réclusion criminelle. Les mêmes règles sont applicables en cas de détention criminelle.
+peine encourue est de trente ans de réclusion criminelle. Les mêmes règles sont applicables en cas de détention criminelle. 
 
 Si, après deux tours de scrutin, aucune peine n'a réuni la majorité des suffrages, il est procédé à un troisième tour au
 cours duquel la peine la plus forte proposée au tour précédent est écartée. Si, à ce troisième tour, aucune peine n'a encore
 obtenu la majorité absolue des votes, il est procédé à un quatrième tour et ainsi de suite, en continuant à écarter la peine
-la plus forte, jusqu'à ce qu'une peine soit prononcée.
+la plus forte, jusqu'à ce qu'une peine soit prononcée. 
 
 Lorsque la cour d'assises prononce une peine correctionnelle, elle peut ordonner à la majorité qu'il soit sursis à
-l'exécution de la peine avec ou sans mise à l'épreuve.
+l'exécution de la peine avec ou sans mise à l'épreuve. 
 
-La cour d'assises délibère également sur les peines accessoires ou complémentaires.
+La cour d'assises délibère également sur les peines accessoires ou complémentaires. 
+
+Dans les cas prévus par l'article 706-53-13, elle délibère aussi pour déterminer s'il y a lieu de se prononcer sur le
+réexamen de la situation du condamné avant l'exécution de la totalité de sa peine en vue d'une éventuelle rétention de sûreté
+conformément à l'article 706-53-14.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Ordonnance 58-1296 1958-12-23
-
 	**Modifié par**:
 
-	  - Loi n°2007-1198 du 10 août 2007 - art. 6 () JORF 11 août 2007
+	  - Loi n°2008-174 du 25 février 2008 - art. 1
+
+	**Cite**:
+
+	  - Code pénal - art. 132-18
+	  - Code pénal - art. 132-18-1
+	  - Code pénal - art. 132-19-1
+	  - Code pénal - art. 132-24
+	  - Code de procédure pénale - art. 706-53-13
 
 	**Cité par**:
 
@@ -24047,6 +24021,28 @@ simplifiée déterminée par décret en Conseil d'Etat.
 	  - Code de procédure pénale - art. 541 (VD)
 	  - Code de procédure pénale - art. R49-20 (VD)
 	  - Code de procédure pénale - art. R50 (VT)
+
+
+###### Article 470-2
+
+Le tribunal correctionnel ne peut relaxer le prévenu en raison d'une des causes d'irresponsabilité pénale prévues par les
+articles 122-2, 122-3, 122-4, 122-5 et 122-7 du code pénal qu'après avoir constaté que celui-ci avait commis les faits qui
+lui étaient reprochés. 
+
+Dans le cas où il estime qu'est applicable le premier alinéa de l'article 122-1 du code pénal, il statue conformément à
+l'article 706-133 relatif à la déclaration d'irresponsabilité pénale pour cause de trouble mental.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2008-174 du 25 février 2008 - art. 4
+
+	**Cite**:
+
+	  - Code pénal - art. 122-1 (V)
+	  - Code pénal - art. 122-2 (V)
+	  - CODE DE PROCEDURE PENALE - art. 706-133 (V)
 
 
 ###### Article 471
@@ -39895,29 +39891,28 @@ prévues à l'article 706-53-2 selon les modalités prévues par le présent cha
 
 Lorsqu'elles concernent, sous réserve des dispositions du dernier alinéa du présent article, une ou plusieurs des infractions
 mentionnées à l'article 706-47, sont enregistrées dans le fichier les informations relatives à l'identité ainsi que l'adresse
-ou les adresses successives du domicile et, le cas échéant, des résidences, des personnes ayant fait l'objet :
+ou les adresses successives du domicile et, le cas échéant, des résidences, des personnes ayant fait l'objet : 
 
 1° D'une condamnation, même non encore définitive, y compris d'une condamnation par défaut ou d'une déclaration de
-culpabilité assortie d'une dispense ou d'un ajournement de la peine ;
+culpabilité assortie d'une dispense ou d'un ajournement de la peine ; 
 
 2° D'une décision, même non encore définitive, prononcée en application des articles 8, 15, 15-1, 16, 16 bis et 28 de
-l'ordonnance n° 45-174 du 2 février 1945 relative à l'enfance délinquante ;
+l'ordonnance n° 45-174 du 2 février 1945 relative à l'enfance délinquante ; 
 
 3° D'une composition pénale prévue par l'article 41-2 du présent code dont l'exécution a été constatée par le procureur de la
-République ;
+République ; 
 
-4° D'une décision de non-lieu, de relaxe ou d'acquittement fondée sur les dispositions du premier alinéa de l'article 122-1
-du code pénal ;
+4° D'une décision d'irresponsabilité pénale pour cause de trouble mental ; 
 
 5° D'une mise en examen assortie d'un placement sous contrôle judiciaire, lorsque le juge d'instruction a ordonné
-l'inscription de la décision dans le fichier ;
+l'inscription de la décision dans le fichier ; 
 
 6° D'une décision de même nature que celles visées ci-dessus prononcées par les juridictions ou autorités judiciaires
 étrangères qui, en application d'une convention ou d'un accord internationaux, ont fait l'objet d'un avis aux autorités
-françaises ou ont été exécutées en France à la suite du transfèrement des personnes condamnées.
+françaises ou ont été exécutées en France à la suite du transfèrement des personnes condamnées. 
 
 Le fichier comprend aussi les informations relatives à la décision judiciaire ayant justifié l'inscription et la nature de
-l'infraction. Les décisions mentionnées aux 1° et 2° sont enregistrées dès leur prononcé.
+l'infraction. Les décisions mentionnées aux 1° et 2° sont enregistrées dès leur prononcé. 
 
 Les décisions concernant des délits prévus par l'article 706-47 et punis d'une peine d'emprisonnement d'une durée inférieure
 ou égale à cinq ans ne sont pas inscrites dans le fichier, sauf si cette inscription est ordonnée par décision expresse de la
@@ -39925,9 +39920,12 @@ juridiction ou, dans les cas prévus par les 3° et 4°, du procureur de la Rép
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Cite**:
 
-	  - Ordonnance 58-1296 1958-12-23
+	  - Ordonnance n°45-174 du 2 février 1945 - art. 28
+	  - Ordonnance n°45-174 du 2 février 1945 - art. 8
+	  - Code de procédure pénale - art. 41-2
+	  - Code de procédure pénale - art. 706-47
 
 	**Cité par**:
 
@@ -39945,7 +39943,7 @@ juridiction ou, dans les cas prévus par les 3° et 4°, du procureur de la Rép
 
 	**Modifié par**:
 
-	  - Loi n°2005-1549 du 12 décembre 2005 - art. 28 (V) JORF 13 décembre 2005
+	  - Loi n°2008-174 du 25 février 2008 - art. 4
 
 
 ###### Article 706-53-3
@@ -40103,39 +40101,41 @@ définitive ou préalablement à la première mesure d'aménagement de sa peine.
 ###### Article 706-53-7
 
 Les informations contenues dans le fichier sont directement accessibles, par l'intermédiaire d'un système de
-télécommunication sécurisé :
+télécommunication sécurisé : 
 
-1° Aux autorités judiciaires ;
+1° Aux autorités judiciaires ; 
 
 2° Aux officiers de police judiciaire, dans le cadre de procédures concernant un crime d'atteinte volontaire à la vie,
 d'enlèvement ou de séquestration, ou une infraction mentionnée à l'article 706-47 et pour l'exercice des diligences prévues
-aux articles 706-53-5 et 706-53-8 ;
+aux articles 706-53-5 et 706-53-8 ; 
 
-3° Aux préfets et aux administrations de l'Etat dont la liste est fixée par le décret prévu à l'article 706-53-12, pour
-l'examen des demandes d'agrément concernant des activités ou professions impliquant un contact avec des mineurs ainsi que
-pour le contrôle de l'exercice de ces activités ou professions.
+3° Aux préfets et aux administrations de l'Etat dont la liste est fixée par le décret prévu à l'article 706-53-12, pour les
+décisions administratives de recrutement, d'affectation, d'autorisation, d'agrément ou d'habilitation concernant des
+activités ou professions impliquant un contact avec des mineurs ainsi que pour le contrôle de l'exercice de ces activités ou
+professions. 
 
 Les autorités et personnes mentionnées aux 1° et 2° du présent article peuvent interroger le fichier à partir de plusieurs
 critères fixés par le décret prévu à l'article 706-53-12, et notamment à partir de l'un ou plusieurs des critères suivants :
-identité de la personne, adresses successives, nature des infractions.
+identité de la personne, adresses successives, nature des infractions. 
 
 Les personnes mentionnées au 3° du présent article ne peuvent consulter le fichier qu'à partir de l'identité de la personne
-concernée par la demande d'agrément.
+concernée par la décision administrative. 
 
 Les officiers de police judiciaire peuvent également, sur instruction du procureur de la République ou du juge d'instruction
 ou avec l'autorisation de ce magistrat, consulter le fichier à partir de l'identité d'une personne gardée à vue dans le cadre
 d'une enquête de flagrance ou d'une enquête préliminaire ou en exécution d'une commission rogatoire, même si cette procédure
-ne concerne pas une des infractions mentionnées au 2° du présent article.
+ne concerne pas une des infractions mentionnées au 2° du présent article. 
+
+Les maires, les présidents de conseil général et les présidents de conseil régional sont également destinataires, par
+l'intermédiaire des préfets, des informations contenues dans le fichier, pour les décisions administratives mentionnées au 3°
+concernant des activités ou professions impliquant un contact avec des mineurs ainsi que pour le contrôle de l'exercice de
+ces activités ou professions.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Ordonnance 58-1296 1958-12-23
-
 	**Modifié par**:
 
-	  - Loi n°2005-1549 du 12 décembre 2005 - art. 28 (V) JORF 13 décembre 2005
+	  - Loi n°2008-174 du 25 février 2008 - art. 15
 
 	**Cité par**:
 
@@ -40146,6 +40146,13 @@ ne concerne pas une des infractions mentionnées au 2° du présent article.
 	  - Code de procédure pénale - art. R53-8-9 (V)
 	  - Code du travail - art. R7232-6 (V)
 	  - Code du travail applicable à Mayotte. - art. R821-7 (VD)
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. 706-47 (V)
+	  - CODE DE PROCEDURE PENALE - art. 706-53-12 (V)
+	  - CODE DE PROCEDURE PENALE - art. 706-53-5 (V)
+	  - CODE DE PROCEDURE PENALE - art. 706-53-8 (V)
 
 
 ###### Article 706-53-8
@@ -40326,6 +40333,339 @@ dont il fait l'objet.
 
 	  - Code de procédure pénale - art. 706-53-7 (V)
 	  - Code de procédure pénale - art. 706-53-8 (V)
+
+
+#### Chapitre III : De la rétention de sûreté et de la surveillance de sûreté
+
+###### Article 706-53-13
+
+A titre exceptionnel, les personnes dont il est établi, à l'issue d'un réexamen de leur situation intervenant à la fin de
+l'exécution de leur peine, qu'elles présentent une particulière dangerosité caractérisée par une probabilité très élevée de
+récidive parce qu'elles souffrent d'un trouble grave de la personnalité, peuvent faire l'objet à l'issue de cette peine d'une
+rétention de sûreté selon les modalités prévues par le présent chapitre, à la condition qu'elles aient été condamnées à une
+peine de réclusion criminelle d'une durée égale ou supérieure à quinze ans pour les crimes, commis sur une victime mineure,
+d'assassinat ou de meurtre, de torture ou actes de barbarie, de viol, d'enlèvement ou de séquestration. 
+
+Il en est de même pour les crimes, commis sur une victime majeure, d'assassinat ou de meurtre aggravé, de torture ou actes de
+barbarie aggravés, de viol aggravé, d'enlèvement ou de séquestration aggravé, prévus par les articles 221-2, 221-3, 221-4,
+222-2, 222-3, 222-4, 222-5, 222-6, 222-24, 222-25, 222-26, 224-2, 224-3 et 224-5-2 du code pénal. 
+
+La rétention de sûreté ne peut toutefois être prononcée que si la cour d'assises a expressément prévu dans sa décision de
+condamnation que la personne pourra faire l'objet à la fin de sa peine d'un réexamen de sa situation en vue d'une éventuelle
+rétention de sûreté. 
+
+La rétention de sûreté consiste dans le placement de la personne intéressée en centre socio-médico-judiciaire de sûreté dans
+lequel lui est proposée, de façon permanente, une prise en charge médicale, sociale et psychologique destinée à permettre la
+fin de cette mesure.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2008-174 du 25 février 2008 - art. 1
+
+	**Cité par**:
+
+	  - Loi n°2008-174 du 25 février 2008 - art. 13 (V)
+	  - Arrêté du 6 juillet 2009 - art. Annexe (M)
+	  - CODE DE PROCEDURE PENALE - art. 717-1 A (V)
+	  - CODE DE PROCEDURE PENALE - art. 723-38 (V)
+	  - CODE DE PROCEDURE PENALE - art. R53-8-52 (V)
+	  - CODE DE PROCEDURE PENALE - art. R53-8-53 (V)
+	  - CODE DE PROCEDURE PENALE - art. R61-35 (V)
+	  - Code de la santé publique - art. R3711-17 (V)
+	  - Code de la santé publique - art. R3711-21 (V)
+	  - Code de la santé publique - art. R3711-8 (V)
+	  - Code de procédure pénale - art. 362 (VD)
+	  - Code de procédure pénale - art. 706-53-14 (V)
+	  - Code de procédure pénale - art. 706-53-19 (VD)
+	  - Code de procédure pénale - art. 717-1 (V)
+	  - Code de procédure pénale - art. 723-30 (V)
+	  - Code de procédure pénale - art. 723-37 (V)
+	  - Code de procédure pénale - art. 730-2 (VD)
+	  - Code de procédure pénale - art. 732-1 (V)
+	  - Code de procédure pénale - art. 763-3 (VT)
+	  - Code de procédure pénale - art. 763-8 (V)
+	  - Code de procédure pénale - art. D527-1 (V)
+	  - Code de procédure pénale - art. R53-8-44 (V)
+	  - Code de procédure pénale - art. R61-33 (V)
+
+	**Cite**:
+
+	  - Code pénal - art. 221-2 (V)
+	  - Code pénal - art. 221-3 (V)
+	  - Code pénal - art. 221-4 (V)
+	  - Code pénal - art. 222-2 (V)
+	  - Code pénal - art. 222-24 (V)
+	  - Code pénal - art. 222-25 (V)
+	  - Code pénal - art. 222-26 (V)
+	  - Code pénal - art. 222-3 (V)
+	  - Code pénal - art. 222-4 (V)
+	  - Code pénal - art. 222-5 (V)
+	  - Code pénal - art. 222-6 (V)
+	  - Code pénal - art. 224-2 (V)
+	  - Code pénal - art. 224-3 (V)
+	  - Code pénal - art. 224-5-2 (V)
+
+
+###### Article 706-53-14
+
+La situation des personnes mentionnées à l'article 706-53-13 est examinée, au moins un an avant la date prévue pour leur
+libération, par la commission pluridisciplinaire des mesures de sûreté prévue par l'article 763-10, afin d'évaluer leur
+dangerosité. 
+
+A cette fin, la commission demande le placement de la personne, pour une durée d'au moins six semaines, dans un service
+spécialisé chargé de l'observation des personnes détenues aux fins d'une évaluation pluridisciplinaire de dangerosité
+assortie d'une expertise médicale réalisée par deux experts. 
+
+Si la commission conclut à la particulière dangerosité du condamné, elle peut proposer, par un avis motivé, que celui-ci
+fasse l'objet d'une rétention de sûreté dans le cas où : 
+
+1° Les obligations résultant de l'inscription dans le fichier judiciaire national automatisé des auteurs d'infractions
+sexuelles ou violentes, ainsi que les obligations résultant d'une injonction de soins ou d'un placement sous surveillance
+électronique mobile, susceptibles d'être prononcés dans le cadre d'un suivi socio-judiciaire ou d'une surveillance
+judiciaire, apparaissent insuffisantes pour prévenir la commission des crimes mentionnés à l'article 706-53-13 ; 
+
+2° Et si cette rétention constitue ainsi l'unique moyen de prévenir la commission, dont la probabilité est très élevée, de
+ces infractions. 
+
+Si la commission estime que les conditions de la rétention de sûreté ne sont pas remplies mais que le condamné paraît
+néanmoins dangereux, elle renvoie le dossier au juge de l'application des peines pour qu'il apprécie l'éventualité d'un
+placement sous surveillance judiciaire.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2008-174 du 25 février 2008 - art. 1
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. 706-53-13 (V)
+	  - Code de procédure pénale - art. 763-10
+
+	**Cité par**:
+
+	  - CODE DE PROCEDURE PENALE - art. 706-53-16 (V)
+	  - CODE DE PROCEDURE PENALE - art. 706-53-18 (V)
+	  - CODE DE PROCEDURE PENALE - art. R53-8-45 (V)
+	  - CODE DE PROCEDURE PENALE - art. R53-8-54 (V)
+	  - Code de procédure pénale - art. 362 (VD)
+	  - Code de procédure pénale - art. 706-53-15 (V)
+	  - Code de procédure pénale - art. 729 (V)
+	  - Code de procédure pénale - art. A37-16 (V)
+	  - Code de procédure pénale - art. A37-30 (T)
+	  - Code de procédure pénale - art. A37-34 (V)
+	  - Code de procédure pénale - art. R53-8-53 (V)
+
+
+###### Article 706-53-15
+
+La décision de rétention de sûreté est prise par la juridiction régionale de la rétention de sûreté territorialement
+compétente. Cette juridiction est composée d'un président de chambre et de deux conseillers de la cour d'appel, désignés par
+le premier président de cette cour pour une durée de trois ans. 
+
+Cette juridiction est saisie à cette fin par le procureur général, sur proposition de la commission pluridisciplinaire des
+mesures de sûreté prévue par l'article 763-10, au moins trois mois avant la date prévue pour la libération du condamné. Elle
+statue après un débat contradictoire et, si le condamné le demande, public, au cours duquel le condamné est assisté par un
+avocat choisi ou commis d'office. La contre-expertise sollicitée par le condamné est de droit. 
+
+La décision de rétention de sûreté doit être spécialement motivée au regard des dispositions de l'article 706-53-14. 
+
+Cette décision est exécutoire immédiatement à l'issue de la peine du condamné. 
+
+Elle peut faire l'objet d'un recours devant la Juridiction nationale de la rétention de sûreté, composée de trois conseillers
+à la Cour de cassation désignés pour une durée de trois ans par le premier président de cette cour. 
+
+La juridiction nationale statue par une décision motivée, susceptible d'un pourvoi en cassation.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2008-174 du 25 février 2008 - art. 1
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. 706-53-14 (V)
+	  - Code de procédure pénale - art. 763-10
+
+	**Cité par**:
+
+	  - CODE DE PROCEDURE PENALE - art. 706-53-16 (V)
+	  - CODE DE PROCEDURE PENALE - art. 706-53-17 (V)
+	  - CODE DE PROCEDURE PENALE - art. 706-53-21 (V)
+	  - Code de l'organisation judiciaire - art. R312-42 (V)
+	  - Code de procédure pénale - art. 706-53-19 (VD)
+	  - Code de procédure pénale - art. 706-53-22 (V)
+	  - Code de procédure pénale - art. 723-37 (V)
+	  - Code de procédure pénale - art. 732-1 (V)
+	  - Code de procédure pénale - art. 763-8 (V)
+	  - Code de procédure pénale - art. A37-17 (V)
+	  - Code de procédure pénale - art. A37-31 (T)
+	  - Code de procédure pénale - art. A37-35 (V)
+
+
+###### Article 706-53-16
+
+La décision de rétention de sûreté est valable pour une durée d'un an. 
+
+La rétention de sûreté peut être renouvelée, après avis favorable de la commission pluridisciplinaire des mesures de sûreté,
+selon les modalités prévues par l'article 706-53-15 et pour la même durée, dès lors que les conditions prévues par l'article
+706-53-14 sont toujours remplies.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2008-174 du 25 février 2008 - art. 1
+
+	**Cite**:
+
+	  - Code de procédure pénale - art. 706-53-14
+	  - Code de procédure pénale - art. 706-53-15
+
+
+###### Article 706-53-17
+
+Après un délai de trois mois à compter de la décision définitive de rétention de sûreté, la personne placée en rétention de
+sûreté peut demander à la juridiction régionale de la rétention de sûreté qu'il soit mis fin à cette mesure. Il est mis fin
+d'office à la rétention si cette juridiction n'a pas statué dans un délai de trois mois à compter de la réception de la
+demande. En cas de rejet de la demande, aucune autre demande ne peut être déposée avant l'expiration d'un délai de trois
+mois. 
+
+La décision de cette juridiction peut faire l'objet des recours prévus à l'article 706-53-15.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2008-174 du 25 février 2008 - art. 1
+
+	**Cité par**:
+
+	  - CODE DE PROCEDURE PENALE - art. R53-8-58 (V)
+	  - Code de procédure pénale - art. 706-53-19 (VD)
+
+	**Cite**:
+
+	  - Code de procédure pénale - art. 706-53-15
+
+
+###### Article 706-53-18
+
+La juridiction régionale de la rétention de sûreté ordonne d'office qu'il soit immédiatement mis fin à la rétention de sûreté
+dès lors que les conditions prévues par l'article 706-53-14 ne sont plus remplies.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2008-174 du 25 février 2008 - art. 1
+
+	**Cite**:
+
+	  - Code de procédure pénale - art. 706-53-14
+
+	**Cité par**:
+
+	  - Code de procédure pénale - art. 706-53-19 (VD)
+
+
+###### Article 706-53-19
+
+Si la rétention de sûreté n'est pas prolongée ou s'il y est mis fin en application des articles 706-53-17 ou 706-53-18 et si
+la personne présente des risques de commettre les infractions mentionnées à l'article 706-53-13, la juridiction régionale de
+la rétention de sûreté peut, par la même décision et après débat contradictoire au cours duquel la personne est assistée par
+un avocat choisi ou commis d'office, placer celle-ci sous surveillance de sûreté pendant une durée d'un an. La surveillance
+de sûreté comprend des obligations identiques à celles prévues dans le cadre de la surveillance judiciaire mentionnée à
+l'article 723-30, en particulier une injonction de soins prévue par les articles L. 3711-1 à L. 3711-5 du code de la santé
+publique et le placement sous surveillance électronique mobile dans les conditions prévues par les articles 763-12 et 763-13
+du présent code. Le placement sous surveillance de sûreté peut faire l'objet des recours prévus à l'article 706-53-15. 
+
+A l'issue de ce délai, la surveillance de sûreté peut être renouvelée dans les mêmes conditions et pour la même durée. 
+
+Si la méconnaissance par la personne des obligations qui lui sont imposées fait apparaître que celle-ci présente à nouveau
+une particulière dangerosité caractérisée par une probabilité très élevée de commettre à nouveau l'une des infractions
+mentionnées à l'article 706-53-13, le président de la juridiction régionale peut ordonner en urgence son placement provisoire
+dans un centre socio-médico-judiciaire de sûreté. Ce placement doit être confirmé dans un délai maximal de trois mois par la
+juridiction régionale statuant conformément à l'article 706-53-15, après avis favorable de la commission pluridisciplinaire
+des mesures de sûreté, à défaut de quoi il est mis fin d'office à la rétention. La décision de confirmation peut faire
+l'objet des recours prévus par l'article 706-53-15.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2008-174 du 25 février 2008 - art. 1
+
+	**Cité par**:
+
+	  - CODE DE PROCEDURE PENALE - art. R53-8-50 (V)
+	  - CODE DE PROCEDURE PENALE - art. R53-8-52 (V)
+	  - Code de procédure pénale - art. 706-47-1 (V)
+	  - Code de procédure pénale - art. 723-37 (V)
+	  - Code de procédure pénale - art. R53-8-44 (V)
+
+	**Cite**:
+
+	  - Code de procédure pénale - art. 706-53-15
+	  - Code de procédure pénale - art. 706-53-17
+	  - Code de procédure pénale - art. 723-30
+	  - Code de procédure pénale - art. 763-12
+	  - Code de la santé publique - art. L3711-1
+
+
+###### Article 706-53-20
+
+Les dispositions du présent chapitre ne sont pas applicables à la personne qui bénéficie d'une libération conditionnelle,
+sauf si cette mesure a fait l'objet d'une révocation. 
+
+Lorsque la rétention de sûreté est ordonnée à l'égard d'une personne ayant été condamnée à un suivi socio-judiciaire, celui-
+ci s'applique, pour la durée fixée par la décision de condamnation, à compter du jour où la rétention prend fin.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2008-174 du 25 février 2008 - art. 1
+
+
+###### Article 706-53-21
+
+Un décret en Conseil d'Etat précise les conditions et les modalités d'application du présent chapitre. 
+
+Ce décret précise les conditions dans lesquelles s'exercent les droits des personnes retenues dans un centre socio-médico-
+judiciaire de sûreté, y compris en matière d'emploi, d'éducation et de formation, de visites, de correspondances, d'exercice
+du culte et de permissions de sortie sous escorte ou sous surveillance électronique mobile. Il ne peut apporter à l'exercice
+de ces droits que les restrictions strictement nécessaires aux exigences de l'ordre public. 
+
+La liste des cours d'appel dans lesquelles siègent les juridictions régionales prévues au premier alinéa de l'article
+706-53-15 et le ressort de leur compétence territoriale sont fixés par arrêté du garde des sceaux.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2008-174 du 25 février 2008 - art. 1
+
+	**Liens**:
+
+	  - TRANSFERE: Loi n°2010-242 du 10 mars 2010 - art. 6
+
+	**Cite**:
+
+	  - Code de procédure pénale - art. 706-53-15
+
+	**Nouveaux textes**:
+
+	  - Code de procédure pénale - art. 706-53-22 (V)
+
+	**Cité par**:
+
+	  - Code de procédure pénale - art. A37-17 (V)
+	  - Code de procédure pénale - art. A37-31 (T)
+	  - Code de procédure pénale - art. A37-35 (V)
 
 
 ### Titre XX : Du fichier national automatisé des empreintes génétiques
@@ -42729,20 +43069,16 @@ pour la personne poursuivie.
 Si la personne est placée en détention provisoire, le curateur ou le tuteur bénéficie de plein droit d'un permis de visite.
 
 Le procureur de la République ou le juge d'instruction avise le curateur ou le tuteur des décisions de non-lieu, de relaxe,
-d'acquittement ou de condamnation dont la personne fait l'objet.
+d'acquittement, d'irresponsabilité pénale pour cause de trouble mental, ou de condamnation dont la personne fait l'objet.
 
 Le curateur ou le tuteur est avisé de la date d'audience. Lorsqu'il est présent à l'audience, il est entendu par la
 juridiction en qualité de témoin.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Ordonnance 58-1296 1958-12-23
-
-	**Créé par**:
-
-	  - Loi n°2007-308 du 5 mars 2007 - art. 36 () JORF 7 mars 2007
+	  - Loi n°2008-174 du 25 février 2008 - art. 4
 
 	**Cité par**:
 
@@ -42856,6 +43192,654 @@ Un décret fixe, en tant que de besoin, les modalités d'application du présent
 	**Créé par**:
 
 	  - Loi n°2007-308 du 5 mars 2007 - art. 36 () JORF 7 mars 2007
+
+
+### Titre XXVIII : De la procédure et des décisions d'irresponsabilité pénale pour cause de trouble mental
+
+#### Chapitre Ier : Dispositions applicables devant le juge d'instruction et la chambre de l'instruction
+
+###### Article 706-119
+
+Si le juge d'instruction estime, lorsque son information lui paraît terminée, qu'il est susceptible d'appliquer le premier
+alinéa de l'article 122-1 du code pénal relatif à l'irresponsabilité pénale d'une personne en raison d'un trouble mental, il
+en informe le procureur de la République lorsqu'il lui communique le dossier ainsi que les parties lorsqu'il les avise, en
+application du premier alinéa de l'article 175 du présent code. 
+
+Le procureur de la République, dans ses réquisitions, et les parties, dans leurs observations, indiquent s'ils demandent la
+saisine de la chambre de l'instruction afin que celle-ci statue sur l'application du premier alinéa de l'article 122-1 du
+code pénal conformément aux articles 706-122 à 706-127 du présent code.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2008-174 du 25 février 2008 - art. 3
+
+	**Cité par**:
+
+	  - Décret n°2008-361 du 16 avril 2008 - art. 5 (V)
+
+	**Cite**:
+
+	  - Code pénal - art. 122-1 (V)
+	  - Code de procédure pénale - art. 175
+	  - Code de procédure pénale - art. 706-122
+	  - Code de procédure pénale - art. 706-127
+
+
+###### Article 706-120
+
+Lorsqu'au moment du règlement de son information, le juge d'instruction estime, après avoir constaté qu'il existe contre la
+personne mise en examen des charges suffisantes d'avoir commis les faits reprochés, qu'il y a des raisons plausibles
+d'appliquer le premier alinéa de l'article 122-1 du code pénal, il ordonne, si le procureur de la République ou une partie en
+a formulé la demande, que le dossier de la procédure soit transmis par le procureur de la République au procureur général aux
+fins de saisine de la chambre de l'instruction. Il peut aussi ordonner d'office cette transmission. 
+
+Dans les autres cas, il rend une ordonnance d'irresponsabilité pénale pour cause de trouble mental qui précise qu'il existe
+des charges suffisantes établissant que l'intéressé a commis les faits qui lui sont reprochés.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2008-174 du 25 février 2008 - art. 3
+
+	**Cite**:
+
+	  - Code pénal - art. 122-1 (V)
+
+	**Cité par**:
+
+	  - CODE DE PROCEDURE PENALE - art. 706-121 (V)
+	  - CODE DE PROCEDURE PENALE - art. 706-122 (V)
+	  - CODE DE PROCEDURE PENALE - art. D47-27 (V)
+	  - CODE DE PROCEDURE PENALE - art. D47-28 (V)
+	  - Code de procédure pénale - art. 706-54 (V)
+	  - Code de procédure pénale - art. 706-56 (V)
+
+
+###### Article 706-121
+
+L'ordonnance d'irresponsabilité pénale pour cause de trouble mental met fin à la détention provisoire ou au contrôle
+judiciaire. 
+
+L'ordonnance de transmission de pièces rendue en application de l'article 706-120 ne met pas fin à la détention provisoire ou
+au contrôle judiciaire, qui se poursuit jusqu'à l'audience de la chambre de l'instruction, sans préjudice de la possibilité
+pour le juge d'instruction, par ordonnance distincte, d'ordonner la mise en liberté ou la levée du contrôle judiciaire. S'il
+n'a pas été mis fin à la détention provisoire, la chambre de l'instruction doit statuer dans un délai de six mois en matière
+criminelle ou quatre mois en matière correctionnelle à compter de la date de l'ordonnance de transmission de pièces, à défaut
+de quoi la personne mise en examen est remise en liberté si elle n'est pas détenue pour une autre cause.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2008-174 du 25 février 2008 - art. 3
+
+	**Cite**:
+
+	  - Code de procédure pénale - art. 706-120
+
+
+###### Article 706-122
+
+Lorsque la chambre de l'instruction est saisie en application de l'article 706-120, son président ordonne, soit d'office,
+soit à la demande de la partie civile, du ministère public ou de la personne mise en examen, la comparution personnelle de
+cette dernière si son état le permet. Si celle-ci n'est pas assistée d'un avocat, le bâtonnier en désigne un d'office à la
+demande du président de la juridiction. Cet avocat représente la personne même si celle-ci ne peut comparaître. 
+
+Les débats se déroulent et l'arrêt est rendu en audience publique, hors les cas de huis clos prévus par l'article 306. 
+
+Le président procède à l'interrogatoire de la personne mise en examen, si elle est présente, conformément à l'article 442. 
+
+Les experts ayant examiné la personne mise en examen doivent être entendus par la chambre de l'instruction, conformément à
+l'article 168. 
+
+Sur décision de son président, la juridiction peut également entendre au cours des débats, conformément aux articles 436 à
+457, les témoins cités par les parties ou le ministère public si leur audition est nécessaire pour établir s'il existe des
+charges suffisantes contre la personne d'avoir commis les faits qui lui sont reprochés et déterminer si le premier alinéa de
+l'article 122-1 du code pénal est applicable. 
+
+Le procureur général, l'avocat de la personne mise en examen et l'avocat de la partie civile peuvent poser des questions à la
+personne mise en examen, à la partie civile, aux témoins et aux experts, conformément à l'article 442-1 du présent code. 
+
+La personne mise en examen, si elle est présente, et la partie civile peuvent également poser des questions par
+l'intermédiaire du président. 
+
+Une fois l'instruction à l'audience terminée, l'avocat de la partie civile est entendu et le ministère public prend ses
+réquisitions. 
+
+La personne mise en examen, si elle est présente, et son avocat présentent leurs observations. 
+
+La réplique est permise à la partie civile et au ministère public, mais la personne mise en examen, si elle est présente, et
+son avocat auront la parole les derniers.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2008-174 du 25 février 2008 - art. 3
+
+	**Cité par**:
+
+	  - Décret n°2008-361 du 16 avril 2008 - art. 5 (V)
+	  - CODE DE PROCEDURE PENALE - art. 706-119 (V)
+	  - CODE DE PROCEDURE PENALE - art. 706-128 (V)
+	  - Code de procédure pénale - art. D47-28-1 (V)
+
+	**Cite**:
+
+	  - Code de procédure pénale - art. 168
+	  - Code de procédure pénale - art. 306
+	  - Code de procédure pénale - art. 442
+	  - Code de procédure pénale - art. 442-1
+	  - Code de procédure pénale - art. 706-120
+
+
+###### Article 706-123
+
+Si elle estime qu'il n'existe pas de charges suffisantes contre la personne mise en examen d'avoir commis les faits qui lui
+sont reprochés, la chambre de l'instruction déclare qu'il n'y a lieu à suivre.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2008-174 du 25 février 2008 - art. 3
+
+	**Cité par**:
+
+	  - CODE DE PROCEDURE PENALE - art. 706-127 (V)
+
+
+###### Article 706-124
+
+Si elle estime qu'il existe des charges suffisantes contre la personne mise en examen d'avoir commis les faits qui lui sont
+reprochés et que le premier alinéa de l'article 122-1 du code pénal n'est pas applicable, la chambre de l'instruction ordonne
+le renvoi de la personne devant la juridiction de jugement compétente.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2008-174 du 25 février 2008 - art. 3
+
+	**Cite**:
+
+	  - Code pénal - art. 122-1
+
+
+###### Article 706-125
+
+Dans les autres cas, la chambre de l'instruction rend un arrêt de déclaration d'irresponsabilité pénale pour cause de trouble
+mental par lequel : 
+
+1° Elle déclare qu'il existe des charges suffisantes contre la personne d'avoir commis les faits qui lui sont reprochés ; 
+
+2° Elle déclare la personne irresponsable pénalement en raison d'un trouble psychique ou neuropsychique ayant aboli son
+discernement ou le contrôle de ses actes au moment des faits ; 
+
+3° Si la partie civile le demande, elle renvoie l'affaire devant le tribunal correctionnel compétent pour qu'il se prononce
+sur la responsabilité civile de la personne, conformément à l'article 489-2 du code civil, et statue sur les demandes de
+dommages et intérêts ; 
+
+4° Elle prononce, s'il y a lieu, une ou plusieurs des mesures de sûreté prévues au chapitre III du présent titre.
+
+**Nota:**
+
+Loi n° 2008-174 du 25 février 2008 art. 11 : A compter du 1er janvier 2009, la référence à l'article 489-2 du code civil
+mentionnée dans cet article est remplacée par la référence à l'article 414-3 du code civil.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2008-174 du 25 février 2008 - art. 3
+
+	**Cite**:
+
+	  - Code civil - art. 489-2 (VT)
+
+	**Cité par**:
+
+	  - Code de procédure pénale - art. 706-54 (V)
+	  - Code de procédure pénale - art. 706-56 (V)
+
+
+###### Article 706-126
+
+L'arrêt de déclaration d'irresponsabilité pénale pour cause de trouble mental met fin à la détention provisoire ou au
+contrôle judiciaire. 
+
+Il peut faire l'objet d'un pourvoi en cassation.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2008-174 du 25 février 2008 - art. 3
+
+
+###### Article 706-127
+
+Les articles 211 à 218 sont applicables aux décisions prévues aux articles 706-123 à 706-125.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2008-174 du 25 février 2008 - art. 3
+
+	**Cité par**:
+
+	  - CODE DE PROCEDURE PENALE - art. 706-119 (V)
+
+	**Cite**:
+
+	  - Code de procédure pénale - art. 211
+	  - Code de procédure pénale - art. 706-123
+
+
+###### Article 706-128
+
+Les articles 706-122 à 706-127 sont applicables devant la chambre de l'instruction en cas d'appel d'une ordonnance
+d'irresponsabilité pénale pour cause de trouble mental ou en cas d'appel d'une ordonnance de renvoi lorsque cet appel est
+formé par une personne mise en examen qui invoque l'application du premier alinéa de l'article 122-1 du code pénal.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2008-174 du 25 février 2008 - art. 3
+
+	**Cite**:
+
+	  - Code pénal - art. 122-1 (V)
+	  - Code de procédure pénale - art. 706-122
+
+
+#### Chapitre II : Dispositions applicables devant le tribunal correctionnel ou la cour d'assises
+
+##### Section 1 : Dispositions applicables devant la cour d'assises
+
+###### Article 706-129
+
+Lorsqu'en application des articles 349-1 et 361-1, la cour d'assises a, au cours du délibéré, répondu positivement à la
+première question relative à la commission des faits et positivement à la seconde question portant sur l'application du
+premier alinéa de l'article 122-1 du code pénal, elle déclare l'irresponsabilité pénale de l'accusé pour cause de trouble
+mental.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2008-174 du 25 février 2008 - art. 3
+
+	**Cite**:
+
+	  - Code pénal - art. 122-1 (V)
+	  - Code de procédure pénale - art. 349-1
+
+	**Cité par**:
+
+	  - Code de procédure pénale - art. 361-1 (V)
+	  - Code de procédure pénale - art. 706-54 (V)
+	  - Code de procédure pénale - art. 706-56 (V)
+
+
+###### Article 706-130
+
+Lorsque la cour d'assises rentre dans la salle d'audience en application de l'article 366, le président prononce un arrêt
+portant déclaration d'irresponsabilité pénale pour cause de trouble mental. 
+
+Cet arrêt met fin à la détention provisoire ou au contrôle judiciaire.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2008-174 du 25 février 2008 - art. 3
+
+	**Cite**:
+
+	  - Code de procédure pénale - art. 366
+
+
+###### Article 706-131
+
+En application de l'article 371 du présent code et conformément à l'article 489-2 du code civil, la cour, sans l'assistance
+du jury, statue alors sur les demandes de dommages et intérêts formées par la partie civile. 
+
+Elle prononce s'il y a lieu une ou plusieurs des mesures de sûreté prévues au chapitre III du présent titre.
+
+**Nota:**
+
+Loi n° 2008-174 du 25 février 2008 art. 11 : A compter du 1er janvier 2009, la référence à l'article 489-2 du code civil
+mentionnée dans cet article est remplacée par la référence à l'article 414-3 du code civil.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2008-174 du 25 février 2008 - art. 3
+
+	**Cite**:
+
+	  - Code civil - art. 489-2 (VT)
+
+
+###### Article 706-132
+
+Le procureur général peut faire appel des arrêts portant déclaration d'irresponsabilité pénale pour cause de trouble mental.
+La cour d'assises statuant en appel est alors désignée conformément aux articles 380-14 et 380-15. 
+
+L'accusé et la partie civile peuvent faire appel de la décision sur l'action civile. L'appel est alors porté devant la
+chambre des appels correctionnels, conformément à l'article 380-5.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2008-174 du 25 février 2008 - art. 3
+
+	**Cite**:
+
+	  - Code de procédure pénale - art. 380-14
+	  - Code de procédure pénale - art. 380-5
+
+
+##### Section 2 : Dispositions applicables devant le tribunal correctionnel
+
+###### Article 706-133
+
+S'il estime que les dispositions du premier alinéa de l'article 122-1 du code pénal sont applicables, le tribunal
+correctionnel rend un jugement de déclaration d'irresponsabilité pénale pour cause de trouble mental par lequel : 
+
+1° Il déclare que la personne a commis les faits qui lui étaient reprochés ; 
+
+2° Il déclare la personne irresponsable pénalement en raison d'un trouble psychique ou neuropsychique ayant aboli son
+discernement ou le contrôle de ses actes au moment des faits ; 
+
+3° Il se prononce sur la responsabilité civile de la personne auteur des faits, conformément à l'article 489-2 du code civil,
+et statue, s'il y a lieu, sur les demandes de dommages et intérêts formées par la partie civile ; 
+
+4° Il prononce, s'il y a lieu, une ou plusieurs des mesures de sûreté prévues au chapitre III du présent titre. 
+
+Le jugement de déclaration d'irresponsabilité pénale pour cause de trouble mental met fin à la détention provisoire ou au
+contrôle judiciaire.
+
+**Nota:**
+
+Loi n° 2008-174 du 25 février 2008 art. 11 : A compter du 1er janvier 2009, la référence à l'article 489-2 du code civil
+mentionnée dans cet article est remplacée par la référence à l'article 414-3 du code civil.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2008-174 du 25 février 2008 - art. 3
+
+	**Cite**:
+
+	  - Code pénal - art. 122-1 (V)
+
+	**Cité par**:
+
+	  - Code de procédure pénale - art. 470-2 (V)
+	  - Code de procédure pénale - art. 706-134 (VD)
+	  - Code de procédure pénale - art. 706-54 (V)
+	  - Code de procédure pénale - art. 706-56 (V)
+
+
+###### Article 706-134
+
+Les dispositions de l'article 706-133 sont applicables devant la chambre des appels correctionnels. 
+
+Elles sont également applicables, à l'exception du 4°, devant le tribunal de police ou la juridiction de proximité.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2008-174 du 25 février 2008 - art. 3
+
+	**Cite**:
+
+	  - Code de procédure pénale - art. 706-133
+
+	**Cité par**:
+
+	  - Code de procédure pénale - art. 706-54 (V)
+	  - Code de procédure pénale - art. 706-56 (V)
+
+
+#### Chapitre III : Mesures de sûreté pouvant être ordonnées en cas de déclaration d'irresponsabilité pénale pour cause de trouble mental
+
+###### Article 706-135
+
+Sans préjudice de l'application des articles L. 3213-1 et L. 3213-7 du code de la santé publique, lorsque la chambre de
+l'instruction ou une juridiction de jugement prononce un arrêt ou un jugement de déclaration d'irresponsabilité pénale pour
+cause de trouble mental, elle peut ordonner, par décision motivée, l'hospitalisation d'office de la personne dans un
+établissement mentionné à l'article L. 3222-1 du même code s'il est établi par une expertise psychiatrique figurant au
+dossier de la procédure que les troubles mentaux de l'intéressé nécessitent des soins et compromettent la sûreté des
+personnes ou portent atteinte, de façon grave, à l'ordre public. Le représentant de l'Etat dans le département ou, à Paris,
+le préfet de police est immédiatement avisé de cette décision. Le régime de cette hospitalisation est celui prévu pour les
+hospitalisations ordonnées en application de l'article L. 3213-1 du même code, dont le deuxième alinéa est applicable.
+L'article L. 3213-8 du même code est également applicable.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°95-589 du 6 mai 1995 - art. 5-3 (VT)
+	  - Décret n°95-589 du 6 mai 1995 - art. 9 (VT)
+	  - Décret n°2008-361 du 16 avril 2008 - art. 5 (V)
+	  - Décret n°2009-450 du 21 avril 2009 - art. 26 (VT)
+	  - Décret n°2009-450 du 21 avril 2009 - art. 5-3 (VT)
+	  - Décret n°2009-450 du 21 avril 2009 - art. 9 (VT)
+	  - Décret n°2009-451 du 21 avril 2009 - art. 26 (VT)
+	  - Décret n°2009-451 du 21 avril 2009 - art. 5-3 (VT)
+	  - Décret n°2009-451 du 21 avril 2009 - art. 9 (VT)
+	  - Loi n°2011-803 du 5 juillet 2011 - art. 18 (VD)
+	  - Décret n°2013-700 du 30 juillet 2013 - art. 75 (Ab)
+	  - Loi n°2013-869 du 27 septembre 2013 - art. 14 (V)
+	  - Décret n°2014-897 du 15 août 2014 - art. 1
+	  - Décret n°2016-94 du 1er février 2016 - art. 4
+	  - Décret n°2017-909 du 9 mai 2017 - art. 11
+	  - Décret n°2017-909 du 9 mai 2017 - art. 5
+	  - Code de la défense. - art. R2332-6 (V)
+	  - Code de la santé publique - art. L1111-7 (V)
+	  - Code de la santé publique - art. L1121-11 (V)
+	  - Code de la santé publique - art. L1221-8-1 (VT)
+	  - Code de la santé publique - art. L1522-6 (V)
+	  - Code de la santé publique - art. L3211-1 (VD)
+	  - Code de la santé publique - art. L3211-11-1 (V)
+	  - Code de la santé publique - art. L3211-12 (V)
+	  - Code de la santé publique - art. L3211-12-1 (V)
+	  - Code de la santé publique - art. L3211-2-1 (V)
+	  - Code de la santé publique - art. L3211-2-3 (V)
+	  - Code de la santé publique - art. L3211-7 (VD)
+	  - Code de la santé publique - art. L3211-8 (VD)
+	  - Code de la santé publique - art. L3213-1 (VD)
+	  - Code de la santé publique - art. L3213-3 (V)
+	  - Code de la santé publique - art. L3213-5-1 (V)
+	  - Code de la santé publique - art. L3213-8 (VT)
+	  - Code de la santé publique - art. L3222-3 (Ab)
+	  - Code de la santé publique - art. L3222-5 (V)
+	  - Code de la santé publique - art. L3223-1 (V)
+	  - Code de la santé publique - art. L6112-1 (V)
+	  - Code de la santé publique - art. R3211-1 (V)
+	  - Code de la santé publique - art. R3211-11 (VD)
+	  - Code de la santé publique - art. R3211-12 (VD)
+	  - Code de la santé publique - art. R3211-3 (V)
+	  - Code de la santé publique - art. R3211-6 (V)
+	  - Code de la santé publique - art. R3211-7 (VD)
+	  - Code de la santé publique - art. R3222-1 (V)
+	  - Code de la santé publique - art. R3223-8 (VD)
+	  - Code de la sécurité intérieure - art. R312-21 (VD)
+	  - Code de la sécurité intérieure - art. R313-29 (V)
+	  - Code de la sécurité intérieure - art. R313-6 (VD)
+	  - Code de procédure pénale - art. 706-56-2 (VD)
+	  - Code de procédure pénale - art. 768 (V)
+	  - Code de procédure pénale - art. 769 (VD)
+	  - Code de procédure pénale - art. D47-29 (V)
+	  - Code de procédure pénale - art. D47-29-1 (V)
+	  - Code de procédure pénale - art. D47-29-2 (V)
+	  - Code de procédure pénale - art. D47-29-3 (V)
+	  - Code de procédure pénale - art. D47-29-4 (V)
+	  - Code de procédure pénale - art. D47-30 (V)
+
+	**Créé par**:
+
+	  - Loi n°2008-174 du 25 février 2008 - art. 3
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L3213-7
+	  - Code de la santé publique - art. L3222-1
+
+
+###### Article 706-136
+
+Lorsque la chambre de l'instruction ou une juridiction de jugement prononce un arrêt ou un jugement de déclaration
+d'irresponsabilité pénale pour cause de trouble mental, elle peut ordonner à l'encontre de la personne les mesures de sûreté
+suivantes, pendant une durée qu'elle fixe et qui ne peut excéder dix ans en matière correctionnelle et vingt ans si les faits
+commis constituent un crime ou un délit puni de dix ans d'emprisonnement : 
+
+1° Interdiction d'entrer en relation avec la victime de l'infraction ou certaines personnes ou catégories de personnes, et
+notamment les mineurs, spécialement désignées ; 
+
+2° Interdiction de paraître dans tout lieu spécialement désigné ; 
+
+3° Interdiction de détenir ou de porter une arme ; 
+
+4° Interdiction d'exercer une activité professionnelle ou bénévole spécialement désignée, dans l'exercice de laquelle ou à
+l'occasion de laquelle l'infraction a été commise ou impliquant un contact habituel avec les mineurs, sans faire
+préalablement l'objet d'un examen psychiatrique déclarant la personne apte à exercer cette activité ; 
+
+5° Suspension du permis de conduire ; 
+
+6° Annulation du permis de conduire avec interdiction de solliciter la délivrance d'un nouveau permis. 
+
+Ces interdictions, qui ne peuvent être prononcées qu'après une expertise psychiatrique, ne doivent pas constituer un obstacle
+aux soins dont la personne est susceptible de faire l'objet. 
+
+Si la personne est hospitalisée en application des articles L. 3213-1 et L. 3213-7 du code de la santé publique, les
+interdictions dont elle fait l'objet sont applicables pendant la durée de l'hospitalisation et se poursuivent après la levée
+de cette hospitalisation, pendant la durée fixée par la décision.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Loi n°2003-239 du 18 mars 2003 - art. 23 (V)
+	  - Décret n°2008-361 du 16 avril 2008 - art. 5 (V)
+	  - CODE DE PROCEDURE PENALE - art. 775 (VT)
+	  - Code de procédure pénale - art. 230-19 (V)
+	  - Code de procédure pénale - art. 706-137 (VD)
+	  - Code de procédure pénale - art. 706-138 (VD)
+	  - Code de procédure pénale - art. 706-139 (VD)
+	  - Code de procédure pénale - art. 706-56-2 (VD)
+	  - Code de procédure pénale - art. 768 (V)
+	  - Code de procédure pénale - art. 769 (VD)
+	  - Code de procédure pénale - art. D47-29-6 (V)
+	  - Code de procédure pénale - art. D47-29-8 (V)
+	  - Code de procédure pénale - art. D47-30 (V)
+	  - Code de procédure pénale - art. D47-31 (V)
+	  - Code de procédure pénale - art. D47-32 (V)
+
+	**Créé par**:
+
+	  - Loi n°2008-174 du 25 février 2008 - art. 3
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L3213-1
+	  - Code de la santé publique - art. L3213-7
+
+
+###### Article 706-137
+
+La personne qui fait l'objet d'une interdiction prononcée en application de l'article 706-136 peut demander au juge des
+libertés et de la détention du lieu de la situation de l'établissement hospitalier ou de son domicile d'ordonner sa
+modification ou sa levée. Celui-ci statue en chambre du conseil sur les conclusions du ministère public, le demandeur ou son
+avocat entendus ou dûment convoqués. Il peut solliciter l'avis préalable de la victime. La levée de la mesure ne peut être
+décidée qu'au vu du résultat d'une expertise psychiatrique. En cas de rejet de la demande, aucune demande ne peut être
+déposée avant l'expiration d'un délai de six mois.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2008-174 du 25 février 2008 - art. 3
+
+	**Cite**:
+
+	  - Code de procédure pénale - art. 706-136
+
+	**Cité par**:
+
+	  - Code de procédure pénale - art. D47-29-7 (V)
+	  - Code de procédure pénale - art. D47-30 (V)
+
+
+###### Article 706-138
+
+Lorsque l'interdiction prévue au 1° de l'article 706-136 est prononcée, la partie civile peut demander à être informée par le
+procureur de la République de la levée de l'hospitalisation d'office dont cette personne aura pu faire l'objet en application
+des articles L. 3213-1 et L. 3213-7 du code de la santé publique. 
+
+La partie civile peut, à tout moment, indiquer au procureur de la République qu'elle renonce à cette demande.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2008-174 du 25 février 2008 - art. 3
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. 706-136 (V)
+	  - Code de la santé publique - art. L3213-1 (V)
+	  - Code de la santé publique - art. L3213-7 (V)
+
+	**Cité par**:
+
+	  - Code de procédure pénale - art. D47-30 (V)
+
+
+###### Article 706-139
+
+La méconnaissance par la personne qui en a fait l'objet des interdictions prévues par l'article 706-136 est punie, sous
+réserve des dispositions du premier alinéa de l'article 122-1 du code pénal, de deux ans d'emprisonnement et 30 000 euros
+d'amende.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2008-174 du 25 février 2008 - art. 3
+
+	**Cite**:
+
+	  - Code pénal - art. 122-1 (V)
+	  - CODE DE PROCEDURE PENALE - art. 706-136 (V)
+
+	**Cité par**:
+
+	  - Code de procédure pénale - art. D47-30 (V)
+	  - Code de procédure pénale - art. D47-36 (V)
+
+
+###### Article 706-140
+
+Un décret précise les modalités d'application du présent titre.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2008-174 du 25 février 2008 - art. 3
 
 
 ## Livre V : Des procédures d'exécution
@@ -44231,17 +45215,30 @@ Cette expertise détermine si le condamné est susceptible de faire l'objet d'un
 
 ###### Article 712-22
 
-Un décret précise les conditions d'application des dispositions du présent chapitre.
+Un décret précise les conditions d'application des dispositions du présent chapitre. 
+
+Ce décret précise les conditions dans lesquelles l'expertise prévue par l'article 712-21 peut ne pas être ordonnée, avec
+l'accord du procureur de la République, soit en raison de l'existence dans le dossier du condamné d'une précédente expertise,
+soit, pour les personnes condamnées pour des infractions dont il fixe la liste, en cas de permission de sortir ou en raison
+de la personnalité de l'intéressé.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Ordonnance 58-1296 1958-12-23
+	  - Loi n°2008-174 du 25 février 2008 - art. 1
 
-	**Créé par**:
+	**Liens**:
 
-	  - Loi n°2004-204 du 9 mars 2004 - art. 161 () JORF 10 mars 2004 en vigueur le 1er janvier 2005
+	  - TRANSFERE: Loi n°2009-1436 du 24 novembre 2009 - art. 78
+
+	**Cite**:
+
+	  - Code de procédure pénale - art. 712-21
+
+	**Nouveaux textes**:
+
+	  - Code de procédure pénale - art. 712-23 (V)
 
 	**Cité par**:
 
@@ -44517,29 +45514,34 @@ d'une durée inférieure à un an.
 ###### Article 717-1
 
 La répartition des condamnés dans les prisons établies pour peines s'effectue compte tenu de leur catégorie pénale, de leur
-âge, de leur état de santé et de leur personnalité.
+âge, de leur état de santé et de leur personnalité. 
 
 Dans des conditions prévues par décret en Conseil d'Etat, les personnes condamnées pour une infraction pour laquelle le suivi
 socio-judiciaire est encouru exécutent leur peine dans des établissements pénitentiaires permettant d'assurer un suivi
-médical et psychologique adapté.
+médical et psychologique adapté. 
 
 Sans préjudice des dispositions de l'article 763-7, le juge de l'application des peines peut proposer à tout condamné
 relevant des dispositions de l'alinéa précédent de suivre un traitement pendant la durée de sa détention, si un médecin
-estime que cette personne est susceptible de faire l'objet d'un tel traitement.
+estime que cette personne est susceptible de faire l'objet d'un tel traitement. 
 
 Les dispositions des articles L. 3711-1, L. 3711-2 et L. 3711-3 du code de la santé publique sont applicables au médecin
 traitant du condamné détenu, qui délivre à ce dernier des attestations de suivi du traitement afin de lui permettre d'en
-justifier auprès du juge de l'application des peines pour l'obtention des réductions de peine prévues par l'article 721-1.
+justifier auprès du juge de l'application des peines pour l'obtention des réductions de peine prévues par l'article 721-1. 
+
+Deux ans avant la date prévue pour la libération d'un condamné susceptible de relever des dispositions de l'article
+706-53-13, celui-ci est convoqué par le juge de l'application des peines auprès duquel il justifie des suites données au
+suivi médical et psychologique adapté qui a pu lui être proposé en application des deuxième et troisième alinéas du présent
+article. Au vu de ce bilan, le juge de l'application des peines lui propose, le cas échéant, de suivre un traitement dans un
+établissement pénitentiaire spécialisé. 
+
+Les agents et collaborateurs du service public pénitentiaire transmettent aux personnels de santé chargés de dispenser des
+soins aux détenus les informations utiles à la mise en œuvre des mesures de protection des personnes.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Ordonnance 58-1296 1958-12-23
-
 	**Modifié par**:
 
-	  - Loi n°2005-1549 du 12 décembre 2005 - art. 8 () JORF 13 décembre 2005
+	  - Loi n°2008-174 du 25 février 2008 - art. 1
 
 	**Cité par**:
 
@@ -44553,8 +45555,36 @@ justifier auprès du juge de l'application des peines pour l'obtention des rédu
 
 	**Anciens textes**:
 
-	  - CODE DE PROCEDURE PENALE - art. 718 (M)
 	  - CODE DE PROCEDURE PENALE - art. 718 (T)
+
+	**Cite**:
+
+	  - Code de procédure pénale - art. 706-53-13
+	  - Code de la santé publique - art. L3711-1
+
+
+###### Article 717-1 A
+
+Dans l'année qui suit sa condamnation définitive, la personne condamnée à une peine de réclusion criminelle d'une durée égale
+ou supérieure à quinze ans pour l'une des infractions visées à l'article 706-53-13 est placée, pour une durée d'au moins six
+semaines, dans un service spécialisé permettant de déterminer les modalités de la prise en charge sociale et sanitaire au
+cours de l'exécution de sa peine. Au vu de cette évaluation, le juge de l'application des peines définit un parcours
+d'exécution de la peine individualisé. Si la personne souffre de troubles psychiatriques, sur indication médicale, elle fait
+l'objet d'une prise en charge adaptée à ses besoins, le cas échéant en hospitalisation.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2008-174 du 25 février 2008 - art. 1
+
+	**Cité par**:
+
+	  - Décret n°2014-1277 du 23 octobre 2014 - art. (V)
+
+	**Cite**:
+
+	  - Code de procédure pénale - art. 706-53-13
 
 
 ###### Article 717-1-1
@@ -44993,50 +46023,38 @@ l'article 712-7, sauf si la peine restant à subir par le condamné est inférie
 Chaque condamné bénéficie d'un crédit de réduction de peine calculé sur la durée de la condamnation prononcée à hauteur de
 trois mois pour la première année, de deux mois pour les années suivantes et, pour une peine de moins d'un an ou pour la
 partie de peine inférieure à une année pleine, de sept jours par mois ; pour les peines supérieures à un an, le total de la
-réduction correspondant aux sept jours par mois ne peut toutefois excéder deux mois.
+réduction correspondant aux sept jours par mois ne peut toutefois excéder deux mois. 
 
 Lorsque le condamné est en état de récidive légale, le crédit de réduction de peine est calculé à hauteur de deux mois la
 première année, d'un mois pour les années suivantes et, pour une peine de moins d'un an ou pour la partie de peine inférieure
 à une année pleine, de cinq jours par mois ; pour les peines supérieures à un an, le total de la réduction correspondant aux
 cinq jours par mois ne peut toutefois excéder un mois. Il n'est cependant pas tenu compte des dispositions du présent alinéa
 pour déterminer la date à partir de laquelle une libération conditionnelle peut être accordée au condamné, cette date étant
-fixée par référence à un crédit de réduction de peine qui serait calculé conformément aux dispositions du premier alinéa.
+fixée par référence à un crédit de réduction de peine qui serait calculé conformément aux dispositions du premier alinéa. 
 
 En cas de mauvaise conduite du condamné en détention, le juge de l'application des peines peut être saisi par le chef
 d'établissement ou sur réquisitions du procureur de la République aux fins de retrait, à hauteur de trois mois maximum par an
-et de sept jours par mois, de cette réduction de peine. Sa décision est prise dans les conditions prévues à l'article 712-5.
+et de sept jours par mois, de cette réduction de peine. Il peut également ordonner le retrait lorsque la personne a été
+condamnée pour les crimes ou délits, commis sur un mineur, de meurtre ou assassinat, torture ou actes de barbarie, viol,
+agression sexuelle ou atteinte sexuelle et qu'elle refuse pendant son incarcération de suivre le traitement qui lui est
+proposé par le juge de l'application des peines, sur avis médical, en application des articles 717-1 ou 763-7. Sa décision
+est prise dans les conditions prévues à l'article 712-5. 
 
 Lorsque le condamné est en état de récidive légale, le retrait prévu par le troisième alinéa du présent article est alors de
-deux mois maximum par an et de cinq jours par mois.
+deux mois maximum par an et de cinq jours par mois. 
 
 En cas de nouvelle condamnation à une peine privative de liberté pour un crime ou un délit commis par le condamné après sa
 libération pendant une période égale à la durée de la réduction résultant des dispositions du premier ou du deuxième alinéa
 et, le cas échéant, du troisième alinéa du présent article, la juridiction de jugement peut ordonner le retrait de tout ou
 partie de cette réduction de peine et la mise à exécution de l'emprisonnement correspondant, qui n'est pas confondu avec
-celui résultant de la nouvelle condamnation.
+celui résultant de la nouvelle condamnation. 
 
 Lors de sa mise sous écrou, le condamné est informé par le greffe de la date prévisible de libération compte tenu de la
 réduction de peine prévue par le premier alinéa, des possibilités de retrait, en cas de mauvaise conduite ou de commission
 d'une nouvelle infraction après sa libération, de tout ou partie de cette réduction. Cette information lui est à nouveau
 communiquée au moment de sa libération.
 
-**Nota:**
-
-Loi n° 2005-1549 du 12 décembre 2005 art. 41 : 
-
-Quelle que soit la date de commission des faits ayant donné lieu à la condamnation, sont immédiatement applicables les
-dispositions du deuxième alinéa de l'article 721 du code de procédure pénale, dans leur rédaction résultant de l'article 12
-de la présente loi, pour les condamnations mises à exécution après la date d'entrée en vigueur de cette loi.
-
 **Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance 58-1296 1958-12-23
-
-	**Modifié par**:
-
-	  - Loi n°2005-1549 du 12 décembre 2005 - art. 12 () JORF 13 décembre 2005
 
 	**Cité par**:
 
@@ -45070,6 +46088,15 @@ de la présente loi, pour les condamnations mises à exécution après la date d
 	  - Code de procédure pénale - art. D49-41-2 (V)
 	  - Code de procédure pénale - art. D522 (V)
 
+	**Modifié par**:
+
+	  - Loi n°2008-174 du 25 février 2008 - art. 2
+
+	**Cite**:
+
+	  - Code de procédure pénale - art. 712-5
+	  - Code de procédure pénale - art. 763-7
+
 
 ###### Article 721-1
 
@@ -45079,35 +46106,29 @@ connaissances nouvelles, en justifiant de progrès réels dans le cadre d'un ens
 thérapie destinée à limiter les risques de récidive ou en s'efforçant d'indemniser leurs victimes. Sauf décision contraire du
 juge de l'application des peines, aucune réduction supplémentaire de la peine ne peut être accordée à une personne condamnée
 pour un crime ou un délit pour lequel le suivi socio-judiciaire est encouru, qui refuse pendant son incarcération de suivre
-le traitement qui lui est proposé par le juge de l'application des peines en application des articles 717-1 et 763-7.
+le traitement qui lui est proposé par le juge de l'application des peines en application des articles 717-1 et 763-7. 
 
 Cette réduction, accordée par le juge de l'application des peines après avis de la commission de l'application des peines, ne
 peut excéder, si le condamné est en état de récidive légale, deux mois par année d'incarcération ou quatre jours par mois
 lorsque la durée d'incarcération resant à subir est inférieure à une année. Si le condamné n'est pas en état de récidive
-légale, ces limites sont respectivement portées à trois mois et à sept jours.
+légale, ces limites sont respectivement portées à trois mois et à sept jours. Lorsque la personne a été condamnée pour les
+crimes ou délits, commis sur un mineur, de meurtre ou assassinat, torture ou actes de barbarie, viol, agression sexuelle ou
+atteinte sexuelle, la réduction ne peut excéder deux mois par an ou quatre jours par mois ou, si elle est en état de récidive
+légale, un mois par an ou deux jours par mois, dès lors qu'elle refuse les soins qui lui ont été proposés. 
 
 Elle est prononcée en une seule fois si l'incarcération est inférieure à une année et par fraction annuelle dans le cas
-contraire.
+contraire. 
 
 Sauf décision du juge de l'application des peines, prise après avis de la commission de l'application des peines, les
 dispositions du présent article ne sont pas applicables aux personnes condamnées pour l'une des infractions mentionnées à
 l'article 706-47 si, lorsque leur condamnation est devenue définitive, le casier judiciaire faisait mention d'une telle
 condamnation.
 
-**Nota:**
-
-Loi 2007-1198 du 10 août 2007 art. 12 : Le II de l'article 7 et les articles 9 à 11 sont immédiatement applicables aux
-personnes exécutant une peine privative de liberté.
-
 **Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance 58-1296 1958-12-23
 
 	**Modifié par**:
 
-	  - Loi n°2007-1198 du 10 août 2007 - art. 10 () JORF 11 août 2007
+	  - Loi n°2008-174 du 25 février 2008 - art. 2
 
 	**Cité par**:
 
@@ -45118,6 +46139,11 @@ personnes exécutant une peine privative de liberté.
 	  - Code de procédure pénale - art. 721-1-1 (V)
 	  - Code de procédure pénale - art. 729-1 (V)
 	  - Code de procédure pénale - art. D116-2 (V)
+
+	**Cite**:
+
+	  - Code de procédure pénale - art. 706-47
+	  - Code de procédure pénale - art. 763-7
 
 
 ###### Article 721-2
@@ -46253,24 +47279,27 @@ n'ont pas fait l'objet d'une décision de retrait.
 
 ###### Article 723-30
 
-La surveillance judiciaire peut comporter les obligations suivantes :
+La surveillance judiciaire peut comporter les obligations suivantes : 
 
 1° Obligations prévues par l'article 132-44 et par les 2°, 3°, 8°, 9°, 11°, 12°, 13° et 14° de l'article 132-45 du code
-pénal ;
+pénal ; 
 
-2° Obligations prévues par l'article 131-36-2 (1°, 2° et 3°) du même code ;
+2° Obligations prévues par l'article 131-36-2 (1°, 2° et 3°) du même code ; 
 
-3° Obligation prévue par l'article 131-36-12 du même code.
+3° Obligation prévue par l'article 131-36-12 du même code ; 
+
+4° Si la personne a été condamnée à une peine de réclusion criminelle d'une durée égale ou supérieure à quinze ans pour l'un
+des crimes mentionnés à l'article 706-53-13 du présent code, obligation d'assignation à domicile, emportant pour l'intéressé
+l'interdiction de s'absenter de son domicile ou de tout autre lieu désigné par le juge en dehors des périodes fixées par
+celui-ci. Les périodes et les lieux sont fixés en tenant compte : de l'exercice d'une activité professionnelle par le
+condamné ; du fait qu'il suit un enseignement ou une formation, effectue un stage ou occupe un emploi temporaire en vue de
+son insertion sociale ; de sa participation à la vie de famille ; de la prescription d'un traitement médical. 
 
 Sauf décision contraire du juge de l'application des peines, le condamné placé sous surveillance judiciaire est soumis à une
 injonction de soins, dans les conditions prévues aux articles L. 3711-1 et suivants du code de la santé publique, lorsqu'il
 est établi, après expertise médicale prévue à l'article 723-31, qu'il est susceptible de faire l'objet d'un traitement.
 
 **Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance 58-1296 1958-12-23
 
 	**Cité par**:
 
@@ -46285,7 +47314,15 @@ est établi, après expertise médicale prévue à l'article 723-31, qu'il est s
 
 	**Modifié par**:
 
-	  - Loi n°2007-1198 du 10 août 2007 - art. 9 () JORF 11 août 2007
+	  - Loi n°2008-174 du 25 février 2008 - art. 14
+
+	**Cite**:
+
+	  - Code pénal - art. 131-36-12
+	  - Code pénal - art. 131-36-2
+	  - Code pénal - art. 132-44
+	  - Code de procédure pénale - art. 706-53-13
+	  - Code de procédure pénale - art. 723-31
 
 
 ###### Article 723-31
@@ -46469,18 +47506,38 @@ si elle fait l'objet d'une libération conditionnelle.
 
 ###### Article 723-37
 
-Un décret détermine en tant que de besoin les modalités et les conditions d'application des dispositions de la présente
-section.
+Lorsque le placement sous surveillance judiciaire a été prononcé à l'encontre d'une personne condamnée à une réclusion
+criminelle d'une durée égale ou supérieure à quinze ans pour l'une des infractions visées à l'article 706-53-13, la
+juridiction régionale mentionnée à l'article 706-53-15 peut, selon les modalités prévues par cet article, décider de
+prolonger tout ou partie des obligations auxquelles est astreinte la personne, au-delà de la limite prévue à l'article
+723-29, en la plaçant sous surveillance de sûreté pour une durée d'un an. 
+
+La juridiction régionale de la rétention de sûreté est saisie par le juge de l'application des peines ou le procureur de la
+République six mois avant la fin de la mesure. 
+
+Le placement sous surveillance de sûreté ne peut être ordonné, après expertise médicale constatant la persistance de la
+dangerosité, que dans le cas où : 
+
+1° Les obligations résultant de l'inscription dans le fichier judiciaire national automatisé des auteurs d'infractions
+sexuelles ou violentes apparaissent insuffisantes pour prévenir la commission des crimes mentionnés à l'article 706-53-13 ; 
+
+2° Et si cette mesure constitue l'unique moyen de prévenir la commission, dont la probabilité est très élevée, de ces
+infractions. 
+
+La surveillance de sûreté peut être prolongée selon les mêmes modalités et pour la même durée si les conditions prévues par
+le présent article demeurent remplies. 
+
+Les dispositions du dernier alinéa de l'article 706-53-19 sont applicables.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Liens**:
 
-	  - Ordonnance 58-1296 1958-12-23
+	  - TRANSFERE: Loi n°2008-174 du 25 février 2008 - art. 1
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2005-1549 du 12 décembre 2005 - art. 13 () JORF 13 décembre 2005
+	  - Loi n°2008-174 du 25 février 2008 - art. 1
 
 	**Cité par**:
 
@@ -46489,6 +47546,48 @@ section.
 	  - Code de procédure pénale - art. 732-1 (V)
 	  - Code de procédure pénale - art. 763-8 (V)
 	  - Code de procédure pénale - art. R53-8-44 (V)
+
+	**Cite**:
+
+	  - Code de procédure pénale - art. 706-53-13
+	  - Code de procédure pénale - art. 706-53-15
+	  - Code de procédure pénale - art. 706-53-19
+	  - Code de procédure pénale - art. 723-29
+
+
+###### Article 723-38
+
+Lorsque le placement sous surveillance électronique mobile a été prononcé dans le cadre d'une surveillance judiciaire à
+l'encontre d'une personne condamnée à une réclusion criminelle d'une durée égale ou supérieure à quinze ans pour l'une des
+infractions visées à l'article 706-53-13, il peut être renouvelé tant que la personne fait l'objet d'une surveillance
+judiciaire ou d'une surveillance de sûreté.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2008-174 du 25 février 2008 - art. 1
+
+	**Cite**:
+
+	  - Code de procédure pénale - art. 706-53-13
+
+	**Cité par**:
+
+	  - Code de procédure pénale - art. 732-1 (V)
+	  - Code de procédure pénale - art. 763-8 (V)
+
+
+###### Article 723-39
+
+Un décret détermine en tant que de besoin les modalités et les conditions d'application des dispositions de la présente
+section.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2008-174 du 25 février 2008 - art. 1
 
 
 #### Chapitre III : Des dispositions communes aux différents établissements pénitentiaires
@@ -46947,38 +48046,40 @@ subir une ou plusieurs peines privatives de liberté peuvent bénéficier d'une 
 efforts sérieux de réadaptation sociale, notamment lorsqu'ils justifient soit de l'exercice d'une activité professionnelle,
 soit de l'assiduité à un enseignement ou à une formation professionnelle ou encore d'un stage ou d'un emploi temporaire en
 vue de leur insertion sociale, soit de leur participation essentielle à la vie de famille, soit de la nécessité de subir un
-traitement, soit de leurs efforts en vue d'indemniser leurs victimes.
+traitement, soit de leurs efforts en vue d'indemniser leurs victimes. 
 
 Sous réserve des dispositions de l'article 132-23 du code pénal, la libération conditionnelle peut être accordée lorsque la
 durée de la peine accomplie par le condamné est au moins égale à la durée de la peine lui restant à subir. Toutefois, les
 condamnés en état de récidive aux termes des articles 132-8, 132-9 ou 132-10 du code pénal ne peuvent bénéficier d'une mesure
 de libération conditionnelle que si la durée de la peine accomplie est au moins égale au double de la durée de la peine
 restant à subir. Dans les cas prévus au présent alinéa, le temps d'épreuve ne peut excéder quinze années ou, si le condamné
-est en état de récidive légale, vingt années.
+est en état de récidive légale, vingt années. 
 
 Pour les condamnés à la réclusion à perpétuité, le temps d'épreuve est de dix-huit années ; il est de vingt-deux années si le
-condamné est en état de récidive légale.
+condamné est en état de récidive légale. 
 
 Lorsque la personne a été condamnée pour un crime ou un délit pour lequel le suivi socio-judiciaire est encouru, une
 libération conditionnelle ne peut lui être accordée si elle refuse pendant son incarcération de suivre le traitement qui lui
 est proposé par le juge de l'application des peines en application des articles 717-1 et 763-7. Elle ne peut non plus être
 accordée au condamné qui ne s'engage pas à suivre, après sa libération, le traitement qui lui est proposé en application de
-l'article 731-1.
-
-**Nota:**
-
-Loi 2007-1198 du 10 août 2007 art. 12 : Le II de l'article 7 et les articles 9 à 11 sont immédiatement applicables aux
-personnes exécutant une peine privative de liberté.
+l'article 731-1. La personne condamnée à la réclusion criminelle à perpétuité ne peut bénéficier d'une libération
+conditionnelle qu'après avis [Dispositions déclarées non conformes à la Constitution par la décision du Conseil
+constitutionnel n° 2008-562 DC du 21 février 2008] de la commission pluridisciplinaire des mesures de sûreté dans les
+conditions prévues par le deuxième alinéa de l'article 706-53-14.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Ordonnance 58-1296 1958-12-23
-
 	**Modifié par**:
 
-	  - Loi n°2007-1198 du 10 août 2007 - art. 11 () JORF 11 août 2007
+	  - Loi n°2008-174 du 25 février 2008 - art. 12
+
+	**Cite**:
+
+	  - Code pénal - art. 132-23
+	  - Code pénal - art. 132-8
+	  - Code de procédure pénale - art. 706-53-14
+	  - Code de procédure pénale - art. 731-1
+	  - Code de procédure pénale - art. 763-7
 
 	**Cité par**:
 
@@ -48436,10 +49537,10 @@ l'accomplissement des obligations qui lui sont imposées.
 ###### Article 763-3
 
 Pendant la durée du suivi socio-judiciaire, le juge de l'application des peines peut, après audition du condamné et avis du
-procureur de la République, modifier ou compléter les mesures prévues aux articles 131-36-2 et 131-36-3 du code pénal.
+procureur de la République, modifier ou compléter les mesures prévues aux articles 131-36-2 et 131-36-3 du code pénal. 
 
 Sa décision est exécutoire par provision. Elle peut être attaquée par la voie de l'appel par le condamné, le procureur de la
-République et le procureur général, à compter de sa notification selon les modalités prévues au l° de l'article 712-11.
+République et le procureur général, à compter de sa notification selon les modalités prévues au l° de l'article 712-11. 
 
 Si la personne condamnée à un suivi socio-judiciaire n'a pas été soumise à une injonction de soins, le juge de l'application
 des peines ordonne en vue de sa libération une expertise médicale afin de déterminer si elle est susceptible de faire l'objet
@@ -48447,28 +49548,33 @@ d'un traitement. S'il est établi à la suite de cette expertise la possibilité
 soumise à une injonction de soins, sauf décision contraire du juge de l'application des peines. Le juge de l'application des
 peines avertit le condamné qu'aucun traitement ne pourra être entrepris sans son consentement, mais que, s'il refuse les
 soins qui lui seront proposés, l'emprisonnement prononcé en application du troisième alinéa de l'article 131-36-1 du code
-pénal pourra être mis à exécution. Les dispositions des deux alinéas précédents sont alors applicables.
+pénal pourra être mis à exécution. Les dispositions des deux alinéas précédents sont alors applicables. 
 
 Le juge de l'application des peines peut également, après avoir procédé à l'examen prévu à l'article 763-10, ordonner le
 placement sous surveillance électronique mobile du condamné. Le juge de l'application des peines avertit le condamné que le
 placement sous surveillance électronique mobile ne pourra être mis en oeuvre sans son consentement mais que, à défaut ou s'il
 manque à ses obligations, l'emprisonnement prononcé en application du troisième alinéa de l'article 131-36-1 du code pénal
-pourra être mis à exécution. Les dispositions des deux premiers alinéas du présent article sont applicables.
+pourra être mis à exécution. Les dispositions des deux premiers alinéas du présent article sont applicables. 
 
-**Nota:**
-
-Loi 2007-1198 du 10 août 2007 art. 12 : Le II de l'article 7 et les articles 9 à 11 sont immédiatement applicables aux
-personnes exécutant une peine privative de liberté.
+Si la personne a été condamnée à une peine de réclusion criminelle d'une durée égale ou supérieure à quinze ans pour l'un des
+crimes mentionnés à l'article 706-53-13, le juge de l'application des peines peut également prononcer une obligation
+d'assignation à domicile prévue par le 4° de l'article 723-30. Les dispositions des deux premiers alinéas du présent article
+sont applicables.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Ordonnance 58-1296 1958-12-23
-
 	**Modifié par**:
 
-	  - Loi n°2007-1198 du 10 août 2007 - art. 7 () JORF 11 août 2007
+	  - Loi n°2008-174 du 25 février 2008 - art. 14
+
+	**Cite**:
+
+	  - Code pénal - art. 131-36-1
+	  - Code pénal - art. 131-36-2
+	  - Code de procédure pénale - art. 706-53-13
+	  - Code de procédure pénale - art. 712-11
+	  - Code de procédure pénale - art. 723-30
+	  - Code de procédure pénale - art. 763-10
 
 	**Cité par**:
 
@@ -48636,6 +49742,37 @@ liberté, les obligations résultant du suivi socio-judiciaire sont applicables.
 	  - Code de procédure pénale - art. 721 (VT)
 	  - Code de procédure pénale - art. 721-1 (VD)
 	  - Code de procédure pénale - art. 729 (VT)
+
+
+###### Article 763-8
+
+Lorsqu'un suivi socio-judiciaire a été prononcé à l'encontre d'une personne condamnée à une réclusion criminelle d'une durée
+égale ou supérieure à quinze ans pour l'une des infractions visées à l'article 706-53-13, la juridiction régionale de la
+rétention de sûreté peut, selon les modalités prévues par l'article 706-53-15, décider de prolonger tout ou partie des
+obligations auxquelles est astreinte la personne, au-delà de la durée prononcée par la juridiction de jugement et des limites
+prévues à l'article 131-36-1 du code pénal, en la plaçant sous surveillance de sûreté pour une durée d'un an. 
+
+Les dispositions des deuxième à cinquième alinéas de l'article 723-37 du présent code sont applicables, ainsi que celles de
+l'article 723-38.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°2008-174 du 25 février 2008 - art. 1
+
+	**Cite**:
+
+	  - Code pénal - art. 131-36-1 (V)
+	  - Code de procédure pénale - art. 706-53-13
+	  - Code de procédure pénale - art. 706-53-15
+	  - Code de procédure pénale - art. 723-37
+
+	**Cité par**:
+
+	  - CODE DE PROCEDURE PENALE - art. R61 (V)
+	  - Code de procédure pénale - art. 706-47-1 (V)
+	  - Code de procédure pénale - art. R53-8-44 (V)
 
 
 ###### Article 763-9
@@ -48848,36 +49985,47 @@ libertés.
 Le casier judiciaire national automatisé, qui peut comporter un ou plusieurs centres de traitement, est tenu sous l'autorité
 du ministre de la justice. Il reçoit, en ce qui concerne les personnes nées en France et après contrôle de leur identité au
 moyen du répertoire national d'identification des personnes physiques, le numéro d'identification ne pouvant en aucun cas
-servir de base à la vérification de l'identité :
+servir de base à la vérification de l'identité : 
 
 1° Les condamnations contradictoires ainsi que les condamnations par défaut, non frappées d'opposition, prononcées pour
 crime, délit ou contravention de la cinquième classe, ainsi que les déclarations de culpabilité assorties d'une dispense de
 peine ou d'un ajournement du prononcé de la peine sauf si la mention de la décision au bulletin n° 1 a été expressément
-exclue en application de l'article 132-59 du code pénal ;
+exclue en application de l'article 132-59 du code pénal ; 
 
 2° Les condamnations contradictoires ou par défaut, non frappées d'opposition, pour les contraventions des quatre premières
-classes dès lors qu'est prise, à titre principal ou complémentaire, une mesure d'interdiction, de déchéance ou d'incapacité ;
+classes dès lors qu'est prise, à titre principal ou complémentaire, une mesure d'interdiction, de déchéance ou
+d'incapacité ; 
 
-3° Les décisions prononcées par application des articles 8, 15, 15-1, 16, 16 bis et 28 de l'ordonnance n° 45-174 du 2 février
-1945, modifiée, relative à l'enfance délinquante ;
+3° Les décisions prononcées par application des articles 8,15,15-1,16,16 bis et 28 de l'ordonnance n° 45-174 du 2 février
+1945, modifiée, relative à l'enfance délinquante ; 
 
 4° Les décisions disciplinaires prononcées par l'autorité judiciaire ou par une autorité administrative lorsqu'elles
-entraînent ou édictent des incapacités ;
+entraînent ou édictent des incapacités ; 
 
 5° Les jugements prononçant la liquidation judiciaire à l'égard d'une personne physique, la faillite personnelle ou
-l'interdiction prévue par l'article L. 653-8 du code de commerce ;
+l'interdiction prévue par l'article L. 653-8 du code de commerce ; 
 
-6° Tous les jugements prononçant la déchéance de l'autorité parentale ou le retrait de tout ou partie des droits y attachés ;
+6° Tous les jugements prononçant la déchéance de l'autorité parentale ou le retrait de tout ou partie des droits y
+attachés ; 
 
-7° Les arrêtés d'expulsion pris contre les étrangers ;
+7° Les arrêtés d'expulsion pris contre les étrangers ; 
 
 8° Les condamnations prononcées par les juridictions étrangères qui, en application d'une convention ou d'un accord
 internationaux, ont fait l'objet d'un avis aux autorités françaises ou ont été exécutées en France à la suite du
-transfèrement des personnes condamnées ;
+transfèrement des personnes condamnées ; 
 
-9° Les compositions pénales, dont l'exécution a été constatée par le procureur de la République.
+9° Les compositions pénales, dont l'exécution a été constatée par le procureur de la République ; 
+
+10° Les décisions d'irresponsabilité pénale pour cause de trouble mental.
 
 **Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Ordonnance n°45-174 du 2 février 1945 - art. 28
+	  - Ordonnance n°45-174 du 2 février 1945 - art. 8
+	  - Code de commerce - art. L653-8
+	  - Code pénal - art. 132-59
 
 	**Cité par**:
 
@@ -48903,15 +50051,9 @@ transfèrement des personnes condamnées ;
 	  - Code de procédure pénale - art. R69 (V)
 	  - Décret-loi du 30 octobre 1935 - art. 66 (M)
 
-	**Codifié par**:
-
-	  - Ordonnance 58-1296 1958-12-23
-
 	**Modifié par**:
 
-	  - Ordonnance 2000-912 2000-09-18 art. 4 JORF 21 septembre 2000
-	  - Loi n°2004-204 du 9 mars 2004 - art. 200 () JORF 10 mars 2004 en vigueur le 1er octobre 2004
-	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005
+	  - Loi n°2008-174 du 25 février 2008 - art. 4
 
 
 ###### Article 768-1
@@ -48957,63 +50099,57 @@ prononcé de la peine, des grâces, commutations ou réductions de peines, des d
 l'exécution d'une première condamnation, des décisions prises en application du deuxième alinéa de l'article 728-4 ou du
 premier alinéa de l'article 728-7, des décisions de libération conditionnelle et de révocation, des décisions de suspension
 de peine, des décisions qui rapportent ou suspendent les arrêtés d'expulsion, ainsi que la date de l'expiration de la peine
-et du paiement de l'amende.
+et du paiement de l'amende. 
 
 Sont retirées du casier judiciaire les fiches relatives à des condamnations effacées par une amnistie, par la réhabilitation
 de plein droit ou judiciaire ou réformées en conformité d'une décision de rectification du casier judiciaire. Il en est de
 même, sauf en ce qui concerne les condamnations prononcées pour des faits imprescriptibles, des fiches relatives à des
-condamnations prononcées depuis plus de quarante ans et qui n'ont pas été suivies d'une nouvelle condamnation à une peine
-criminelle ou correctionnelle.
+condamnations ou des décisions d'irresponsabilité pénale pour cause de trouble mental prononcées depuis plus de quarante ans
+et qui n'ont pas été suivies d'une nouvelle condamnation à une peine criminelle ou correctionnelle. 
 
-Sont également retirés du casier judiciaire :
+Sont également retirés du casier judiciaire : 
 
 1° Les jugements prononçant la faillite personnelle ou l'interdiction prévue par l'article L. 653-8 du code de commerce
 lorsque ces mesures sont effacées par un jugement de clôture pour extinction du passif, par la réhabilitation ou à
 l'expiration du délai de cinq ans à compter du jour où ces condamnations sont devenues définitives ainsi que le jugement
 prononçant la liquidation judiciaire à l'égard d'une personne physique, à l'expiration d'un délai de cinq ans à compter du
-jour où ce jugement est devenu définitif ou après le prononcé d'un jugement emportant réhabilitation.
+jour où ce jugement est devenu définitif ou après le prononcé d'un jugement emportant réhabilitation. 
 
 Toutefois, si la durée de la faillite personnelle ou de l'interdiction est supérieure à cinq ans, la condamnation relative à
-ces mesures demeure mentionnée sur les fiches du casier judiciaire pendant la même durée ;
+ces mesures demeure mentionnée sur les fiches du casier judiciaire pendant la même durée ; 
 
-2° Les décisions disciplinaires effacées par la réhabilitation ;
+2° Les décisions disciplinaires effacées par la réhabilitation ; 
 
 3° Les condamnations assorties en tout ou partie du bénéfice du sursis, avec ou sans mise à l'épreuve, à l'expiration des
 délais prévus par les articles 133-13 et 133-14 du code pénal calculés à compter du jour où les condamnations doivent être
-considérées comme non avenues ;
+considérées comme non avenues ; 
 
 4° Les dispenses de peines, à l'expiration d'un délai de trois ans à compter du jour où la condamnation est devenue
-définitive ;
+définitive ; 
 
 5° Les condamnations pour contravention, à l'expiration d'un délai de trois ans à compter du jour où ces condamnations sont
 devenues définitives ; ce délai est porté à quatre ans lorsqu'il s'agit d'une contravention dont la récidive constitue un
-délit ;
+délit ; 
 
 6° Les mentions relatives à la composition pénale, à l'expiration d'un délai de trois ans à compter du jour où l'exécution de
 la mesure a été constatée, si la personne n'a pas, pendant ce délai, soit subi de condamnation à une peine criminelle ou
-correctionnelle, soit exécuté une nouvelle composition pénale ;
+correctionnelle, soit exécuté une nouvelle composition pénale ; 
 
-7° Les fiches relatives aux mesures prononcées en application des articles 8, 15, 15-1, 16, 16 bis et 28 de l'ordonnance n°
+7° Les fiches relatives aux mesures prononcées en application des articles 8,15,15-1,16,16 bis et 28 de l'ordonnance n°
 45-174 du 2 février 1945 précitée à l'expiration d'un délai de trois ans à compter du jour où la mesure a été prononcée si la
 personne n'a pas, pendant ce délai, soit subi de condamnation à une peine criminelle ou correctionnelle, soit exécuté une
 composition pénale, soit fait l'objet d'une nouvelle mesure prononcée en application des dispositions précitées de ladite
 ordonnance.
 
-**Nota:**
-
-Loi n° 2007-297 du 5 mars 2007 art. 43 III : Les dispositions du présent article entrent en vigueur un an après la date de
-publication de la présente loi. Elles sont alors immédiatement applicables aux condamnations figurant toujours au casier
-judiciaire, quelle que soit la date de commission de l'infraction ; toutefois, le doublement des délais de réhabilitation en
-cas de récidive n'est applicable que pour des faits commis postérieurement à la date de publication de la présentel loi.
-
-La présente version de cet article est en vigueur jusqu'au 1er mars 2008.  La présente version de cet article est en vigueur
-jusqu'au 7 mars 2008.
-
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Cite**:
 
-	  - Ordonnance 58-1296 1958-12-23
+	  - Ordonnance n°45-174 du 2 février 1945 - art. 28
+	  - Code de commerce - art. L653-8
+	  - Code pénal - art. 133-13
+	  - Code de procédure pénale - art. 728-4
+	  - Code de procédure pénale - art. 728-7
 
 	**Cité par**:
 
@@ -49036,10 +50172,8 @@ jusqu'au 7 mars 2008.
 
 	**Modifié par**:
 
-	  - Ordonnance 2000-912 2000-09-18 art. 4 JORF 21 septembre 2000
-	  - Loi n°2004-204 du 9 mars 2004 - art. 162 () JORF 10 mars 2004 en vigueur le 1er janvier 2005
-	  - Loi n°2004-204 du 9 mars 2004 - art. 201 () JORF 10 mars 2004 en vigueur le 1er janvier 2005
-	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005
+	  - Loi n°2007-297 du 5 mars 2007 - art. 43
+	  - Loi n°2008-174 du 25 février 2008 - art. 4
 
 
 ###### Article 769-1
@@ -49286,7 +50420,7 @@ comme non avenues ; toutefois, si a été prononcé le suivi socio-judiciaire pr
 peine d'interdiction d'exercer une activité professionnelle ou bénévole impliquant un contact habituel avec des mineurs, la
 décision continue de figurer au bulletin n° 2 pendant la durée de la mesure ; 
 
-6° Les condamnations auxquelles sont applicables les dispositions de l'article L263-4 du Code de justice militaire ; 
+6° Les condamnations auxquelles sont applicables les dispositions de l'article L. 263-4 du Code de justice militaire ; 
 
 7° et 8° (paragraphes abrogés) ; 
 
@@ -49308,7 +50442,10 @@ est supérieure à cinq ans, la condamnation demeure mentionnée au bulletin n°
 14° Les compositions pénales mentionnées à l'article 768 ; 
 
 15° Sauf décision contraire du juge, spécialement motivée, les condamnations prononcées pour les délits prévus au titre IV du
-livre IV du code de commerce. 
+livre IV du code de commerce ; 
+
+16° Les décisions de déclaration d'irresponsabilité pénale pour cause de trouble mental, sauf si ont été prononcées des
+interdictions prévues par l'article 706-136 du présent code tant que ces interdictions n'ont pas cessé leurs effets. 
 
 Les bulletins n° 2 fournis en cas de contestation concernant l'inscription sur les listes électorales, ne comprennent que les
 décisions entraînant des incapacités en matière d'exercice du droit de vote. 
@@ -49316,21 +50453,18 @@ décisions entraînant des incapacités en matière d'exercice du droit de vote.
 Lorsqu'il n'existe pas au casier judiciaire de fiches concernant des décisions à relever sur le bulletin n° 2, celui-ci porte
 la mention Néant.
 
-**Nota:**
-
-Loi n° 2007-297 du 5 mars 2007 art. 43 III : Les dispositions du présent article entrent en vigueur un an après la date de
-publication de la présente loi. Elles sont alors immédiatement applicables aux condamnations figurant toujours au casier
-judiciaire, quelle que soit la date de commission de l'infraction ; toutefois, le doublement des délais de réhabilitation en
-cas de récidive n'est applicable que pour des faits commis postérieurement à la date de publication de la présente loi.
-
-La présente version de cet article est en vigueur jusqu'au 1er mars 2008.  La présente version de cet article est en vigueur
-jusqu'au 7 mars 2008.
-
 **Liens relatifs à cet article**
 
 	**Cite**:
 
 	  - Ordonnance n°45-174 du 2 février 1945 - art. 16 bis (V)
+	  - Ordonnance n°45-174 du 2 février 1945 - art. 28
+	  - Code pénal - art. 131-36-1
+	  - Code pénal - art. 131-5
+	  - CODE DE PROCEDURE PENALE - art. 768 (V)
+	  - Code de procédure pénale - art. 706-136
+	  - Code de procédure pénale - art. 775-1
+	  - Code de justice militaire. - art. L255-22 (V)
 	  - Code de justice militaire. - art. L263-4 (V)
 
 	**Cité par**:
@@ -49345,7 +50479,8 @@ jusqu'au 7 mars 2008.
 
 	**Modifié par**:
 
-	  - Ordonnance n°2006-637 du 1 juin 2006 - art. 2 (V)
+	  - Loi n°2007-297 du 5 mars 2007 - art. 43
+	  - Loi n°2008-174 du 25 février 2008 - art. 4
 
 
 ###### Article 775-1
