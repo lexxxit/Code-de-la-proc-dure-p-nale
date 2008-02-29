@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 2008-02-27
+Version Consolidée au 2008-03-01
 
 # Partie législative
 
@@ -7318,19 +7318,21 @@ Lorsqu'il existe dans un tribunal plusieurs juges d'instruction, le président d
 magistrat qui le remplace, désigne, pour chaque information, le juge qui en sera chargé. Il peut établir, à cette fin, un
 tableau de roulement.
 
-Lorsque la gravité ou la complexité de l'affaire le justifie, le président du tribunal ou, en cas d'empêchement, le magistrat
-qui le remplace peut adjoindre au juge d'instruction chargé de l'information un ou plusieurs juges d'instruction qu'il
-désigne, soit dès l'ouverture de l'information, soit sur la demande ou avec l'accord du juge chargé de l'information, à tout
-moment de la procédure.
-
-Le juge chargé de l'information coordonne le déroulement de celle-ci ; il a seul qualité pour saisir le juge des libertés et
-de la détention, pour ordonner une mise en liberté d'office et pour rendre l'ordonnance de règlement.
-
 Les désignations prévues au présent article sont des mesures d'administration judiciaire non susceptibles de recours.
 
 **Nota:**
 
+1 : Loi 2007-291 du 5 mars 2007 art. 30 III : L'article 7 de la présente loi entre en vigueur à la date fixée par le décret
+prévu par l'article 52-1 du code de procédure pénale dans sa rédaction résultant du I de l'article 6 de la présente loi, et
+au plus tard le premier jour du douzième mois suivant la publication de la présente loi. 
 
+Toutefois, jusqu'à la date d'entrée en vigueur de l'article 7, un décret pris en application de l'article 52-1 du même code
+peut instituer des pôles de l'instruction dans les ressorts d'une ou plusieurs cours d'appel ou parties de ces ressorts, en
+fixant dans ces ressorts la date d'entrée en vigueur de l'article 6 de la présente loi. 
+
+Les juges d'instruction des juridictions dans lesquelles ne sont pas institués des pôles demeurent compétents pour poursuivre
+jusqu'à leur terme les informations en cours à la date d'institution des pôles pour des faits de nature criminelle, sans
+préjudice de la possibilité d'un dessaisissement s'il y a lieu à cosaisine.
 
 **Liens relatifs à cet article**
 
@@ -7340,7 +7342,7 @@ Les désignations prévues au présent article sont des mesures d'administration
 
 	**Modifié par**:
 
-	  - Loi n°2004-204 du 9 mars 2004 - art. 113 () JORF 10 mars 2004
+	  - Loi n°2007-291 du 5 mars 2007 - art. 7 () JORF 6 mars 2007 en vigueur le 1er mars 2008
 
 	**Cité par**:
 
@@ -7360,13 +7362,59 @@ Les désignations prévues au présent article sont des mesures d'administration
 
 ###### Article 83-1
 
-Pour l'application du deuxième alinéa de l'article 83, lorsque le tribunal comporte un ou deux juges d'instruction, le
-premier président de la cour d'appel, à la demande du président du tribunal, ou, en cas d'empêchement, le magistrat qui le
-remplace, peut adjoindre au juge chargé de l'information un ou plusieurs des juges de son ressort.
+Lorsque la gravité ou la complexité de l'affaire le justifie, l'information peut faire l'objet d'une cosaisine selon les
+modalités prévues par le présent article.
+
+Le président du tribunal de grande instance dans lequel il existe un pôle de l'instruction ou, en cas d'empêchement, le
+magistrat qui le remplace désigne, dès l'ouverture de l'information, d'office ou si le procureur de la République le requiert
+dans son réquisitoire introductif, un ou plusieurs juges d'instruction pour être adjoints au juge d'instruction chargé de
+l'information.
+
+A tout moment de la procédure, le président du tribunal de grande instance peut désigner un ou plusieurs juges d'instruction
+cosaisis soit à la demande du juge chargé de l'information, soit, si ce juge donne son accord, d'office ou sur réquisition du
+ministère public ou sur requête des parties déposée conformément aux dispositions de l'avant-dernier alinéa de l'article 81.
+Les parties ne peuvent pas renouveler leur demande avant six mois. Dans un délai d'un mois à compter de la réception de la
+demande, le président désigne un ou plusieurs juges d'instruction pour être adjoints au juge chargé de l'information. Pour
+l'application du présent alinéa, lorsque l'information a été ouverte dans un tribunal où il n'y a pas de pôle de
+l'instruction, le président du tribunal de grande instance où se trouve le pôle territorialement compétent désigne le juge
+d'instruction chargé de l'information ainsi que le ou les juges d'instruction cosaisis, après que le juge d'instruction
+initialement saisi s'est dessaisi au profit du pôle ; ce dessaisissement prend effet à la date de désignation des juges du
+pôle.
+
+Lorsqu'elle n'est pas ordonnée selon les modalités prévues par l'alinéa qui précède, en l'absence d'accord du juge chargé de
+l'information ou, à défaut, de désignation par le président du tribunal de grande instance dans le délai d'un mois, la
+cosaisine peut être ordonnée par le président de la chambre de l'instruction agissant d'office, à la demande du président du
+tribunal, sur réquisition du ministère public ou sur requête des parties. Le président statue dans un délai d'un mois à
+compter de la réception de la demande qui est déposée conformément à l'avant-dernier alinéa de l'article 81 si elle émane
+d'une partie. Lorsque l'information a été ouverte dans un tribunal où il n'y a pas de pôle de l'instruction, le président de
+la chambre de l'instruction saisit la chambre de l'instruction aux fins de cosaisine. Dans un délai d'un mois à compter de sa
+saisine, la chambre décide alors soit, s'il n'y a pas lieu à cosaisine, de renvoyer le dossier au magistrat instructeur,
+soit, si cette décision est indispensable à la manifestation de la vérité et à la bonne administration de la justice, de
+procéder au dessaisissement du juge d'instruction et à la désignation, aux fins de poursuite de la procédure, de plusieurs
+juges d'instruction.
+
+Les décisions du président du tribunal de grande instance, du président de la chambre de l'instruction et de cette dernière
+prévues par le présent article sont des mesures d'administration judiciaire non susceptibles de recours.
 
 **Nota:**
 
+Loi n° 2007-291 du 5 mars 2007 art. 30 III : L'article 7 de la présente loi entre en vigueur à la date fixée par le décret
+prévu par l'article 52-1 du code de procédure pénale dans sa rédaction résultant du I de l'article 6 de la présente loi, et
+au plus tard le premier jour du douzième mois suivant la publication de la présente loi.
 
+Toutefois, jusqu'à la date d'entrée en vigueur de l'article 7, un décret pris en application de l'article 52-1 du même code
+peut instituer des pôles de l'instruction dans les ressorts d'une ou plusieurs cours d'appel ou parties de ces ressorts, en
+fixant dans ces ressorts la date d'entrée en vigueur de l'article 6 de la présente loi.
+
+Les juges d'instruction des juridictions dans lesquelles ne sont pas institués des pôles demeurent compétents pour poursuivre
+jusqu'à leur terme les informations en cours à la date d'institution des pôles pour des faits de nature criminelle, sans
+préjudice de la possibilité d'un dessaisissement s'il y a lieu à cosaisine.
+
+Loi n° 2007-291 du 5 mars 2007, art. 30 II : La présente version de cet article est en vigueur jusqu'à la date d'entrée en
+vigueur du chapitre Ier de ladite loi c'est-à-dire jusqu'au 1er janvier 2017.
+
+Conformément à l'article 25 de la loi n° 2016-1547 du 18 novembre 2016, le chapitre Ier et le II de l'article 30 de la loi n°
+2007-291 du 5 mars 2007 sont abrogés.
 
 **Liens relatifs à cet article**
 
@@ -7374,13 +7422,13 @@ remplace, peut adjoindre au juge chargé de l'information un ou plusieurs des ju
 
 	  - Loi n°57-1426 1957-12-31
 
-	**Liens**:
+	**Abrogé par**:
 
-	  - SPEC_APPLI: Loi n°93-2 1993-01-04 art. 226
+	  - Loi n°2007-291 du 5 mars 2007 - art. 30 (V) JORF 6 mars 2007 en vigueur le 1er janvier 2010
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°93-2 du 4 janvier 1993 - art. 20 () JORF 5 janvier 1993
+	  - Loi n°2007-291 du 5 mars 2007 - art. 7 () JORF 6 mars 2007 en vigueur le 1er mars 2008
 
 	**Cité par**:
 
@@ -7396,27 +7444,77 @@ remplace, peut adjoindre au juge chargé de l'information un ou plusieurs des ju
 	  - Code de procédure pénale - art. D31-1 (V)
 
 
+###### Article 83-2
+
+En cas de cosaisine, le juge d'instruction chargé de l'information coordonne le déroulement de celle-ci. Il a seul qualité
+pour saisir le juge des libertés et de la détention, pour ordonner une mise en liberté d'office et pour rendre l'avis de fin
+d'information prévu par l'article 175 et l'ordonnance de règlement. Toutefois, cet avis et cette ordonnance peuvent être
+cosignés par le ou les juges d'instruction cosaisis.
+
+**Nota:**
+
+Loi 2007-291 du 5 mars 2007 art. 30 III : L'article 7 de la présente loi entre en vigueur à la date fixée par le décret prévu
+par l'article 52-1 du code de procédure pénale dans sa rédaction résultant du I de l'article 6 de la présente loi, et au plus
+tard le premier jour du douzième mois suivant la publication de la présente loi.
+
+Toutefois, jusqu'à la date d'entrée en vigueur de l'article 7, un décret pris en application de l'article 52-1 du même code
+peut instituer des pôles de l'instruction dans les ressorts d'une ou plusieurs cours d'appel ou parties de ces ressorts, en
+fixant dans ces ressorts la date d'entrée en vigueur de l'article 6 de la présente loi.
+
+Les juges d'instruction des juridictions dans lesquelles ne sont pas institués des pôles demeurent compétents pour poursuivre
+jusqu'à leur terme les informations en cours à la date d'institution des pôles pour des faits de nature criminelle, sans
+préjudice de la possibilité d'un dessaisissement s'il y a lieu à cosaisine.
+
+Loi n° 2007-291 du 5 mars 2007, art. 30 II : La présente version de cet article est en vigueur jusqu'à la date d'entrée en
+vigueur du chapitre Ier de ladite loi c'est-à-dire jusqu'au 1er janvier 2017.
+
+Conformément à l'article 25 de la loi n° 2016-1547 du 18 novembre 2016, le chapitre Ier et le II de l'article 30 de la loi n°
+2007-291 du 5 mars 2007 sont abrogés.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°57-1426 1957-12-31
+
+	**Abrogé par**:
+
+	  - Loi n°2007-291 du 5 mars 2007 - art. 30 (V) JORF 6 mars 2007 en vigueur le 1er janvier 2010
+	  - Loi n°2013-1278 du 29 décembre 2013 - art. 129
+
+	**Créé par**:
+
+	  - Loi n°2007-291 du 5 mars 2007 - art. 7 () JORF 6 mars 2007 en vigueur le 1er mars 2008
+
+	**Cité par**:
+
+	  - Loi n°2007-291 du 5 mars 2007 - art. 30 (V)
+	  - CODE DE PROCEDURE PENALE - art. 804 (V)
+	  - Code de procédure pénale - art. 186-3 (V)
+	  - Code de procédure pénale - art. 877 (V)
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. 175 (M)
+
+
 ###### Article 84
 
 Sous réserve de l'application des articles 657 et 663, le dessaisissement du juge d'instruction au profit d'un autre juge
 d'instruction peut être demandé au président du tribunal, dans l'intérêt d'une bonne administration de la justice, par
-requête motivée du procureur de la République, agissant soit spontanément, soit à la demande des parties.
+requête motivée du procureur de la République, agissant soit spontanément, soit à la demande des parties. 
 
-Le président du tribunal doit statuer dans les huit jours par une ordonnance qui ne sera pas susceptible de voies de recours.
+Le président du tribunal doit statuer dans les huit jours par une ordonnance qui ne sera pas susceptible de voies de
+recours. 
 
 En cas d'empêchement du juge chargé de l'information, par suite de congé, de maladie ou pour toute autre cause, de même qu'en
-cas de nomination à un autre poste, le président désigne le juge d'instruction chargé de le remplacer.
+cas de nomination à un autre poste, le président désigne le juge d'instruction chargé de le remplacer. 
 
 Toutefois, en cas d'urgence et pour des actes isolés, tout juge d'instruction peut suppléer un autre juge d'instruction du
-même tribunal.
+même tribunal. 
 
-Dans les cas prévus par le deuxième alinéa de l'article 83 et l'article 83-1, le juge désigné ou, s'ils sont plusieurs, le
-premier dans l'ordre de désignation, peut remplacer ou suppléer le juge chargé de l'information sans qu'il y ait lieu à
-application des alinéas qui précèdent.
-
-**Nota:**
-
-
+Dans les cas prévus par l'article 83-1, le juge désigné ou, s'ils sont plusieurs, le premier dans l'ordre de désignation,
+peut remplacer ou suppléer le juge chargé de l'information sans qu'il y ait lieu à application des alinéas qui précèdent.
 
 **Liens relatifs à cet article**
 
@@ -7426,7 +7524,7 @@ application des alinéas qui précèdent.
 
 	**Modifié par**:
 
-	  - Loi n°2004-204 du 9 mars 2004 - art. 114 () JORF 10 mars 2004
+	  - Loi n°2007-291 du 5 mars 2007 - art. 7 () JORF 6 mars 2007 en vigueur le 1er mars 2008
 
 	**Cité par**:
 
@@ -7434,9 +7532,8 @@ application des alinéas qui précèdent.
 
 	**Cite**:
 
-	  - CODE DE PROCEDURE PENALE - art. 663 (M)
-	  - CODE DE PROCEDURE PENALE - art. 83 (M)
-	  - CODE DE PROCEDURE PENALE - art. 83-1 (AbD)
+	  - Code de procédure pénale - art. 663 (VT)
+	  - Code de procédure pénale - art. 83-1 (VT)
 
 
 ##### Section 2 : De la constitution de la partie civile et de ses effets
@@ -14008,12 +14105,11 @@ l'ordonnance, faute de quoi, si la personne est détenue, elle est mise d'office
 ###### Article 186-3
 
 La personne mise en examen et la partie civile peuvent interjeter appel des ordonnances prévues par le premier alinéa de
-l'article 179 dans le seul cas où elles estiment que les faits renvoyés devant le tribunal correctionnel constituent un crime
-qui aurait dû faire l'objet d'une ordonnance de mise en accusation devant la cour d'assises.
+l'article 179 dans le cas où elles estiment que les faits renvoyés devant le tribunal correctionnel constituent un crime qui
+aurait dû faire l'objet d'une ordonnance de mise en accusation devant la cour d'assises.
 
-**Nota:**
-
-
+Lorsque l'information a fait l'objet d'une cosaisine, elles peuvent également, en l'absence de cosignature par les juges
+d'instruction cosaisis conformément à l'article 83-2, interjeter appel de ces ordonnances.
 
 **Liens relatifs à cet article**
 
@@ -14021,17 +14117,13 @@ qui aurait dû faire l'objet d'une ordonnance de mise en accusation devant la co
 
 	  - Loi n°57-1426 1957-12-31
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2004-204 du 9 mars 2004 - art. 124 () JORF 10 mars 2004 en vigueur le 1er octobre 2004
+	  - Loi n°2007-291 du 5 mars 2007 - art. 7 () JORF 6 mars 2007 en vigueur le 1er mars 2008
 
 	**Cité par**:
 
 	  - Loi n°2007-291 du 5 mars 2007 - art. 30 (V)
-
-	**Cite**:
-
-	  - CODE DE PROCEDURE PENALE - art. 179 (M)
 
 
 ###### Article 187
@@ -38372,39 +38464,33 @@ livre Ier du code pénal.
 
 Pour la poursuite, l'instruction et le jugement des infractions entrant dans le champ d'application de l'article 706-16, le
 procureur de la République, le juge d'instruction, le tribunal correctionnel et la cour d'assises de Paris exercent une
-compétence concurrente à celle qui résulte de l'application des articles 43, 52 et 382.
+compétence concurrente à celle qui résulte de l'application des articles 43
+,52 et 382. 
 
 En ce qui concerne les mineurs, le procureur de la République, le juge d'instruction, le juge des enfants, le tribunal pour
 enfants et la cour d'assises des mineurs de Paris exercent une compétence concurrente à celle qui résulte de l'application
-des dispositions de l'ordonnance n° 45-174 du 2 février 1945 relative à l'enfance délinquante.
+des dispositions de l'ordonnance n° 45-174 du 2 février 1945 relative à l'enfance délinquante. 
 
 Lorsqu'ils sont compétents pour la poursuite et l'instruction des infractions entrant dans le champ d'application de
 l'article 706-16, le procureur de la République et le juge d'instruction de Paris exercent leurs attributions sur toute
-l'étendue du territoire national.
+l'étendue du territoire national. 
 
 L'instruction des actes de terrorisme définis aux 5° à 7° de l'article 421-1 du code pénal et aux articles 421-2-2 et 421-2-3
-du même code peut être confiée, le cas échéant dans les conditions prévues au deuxième alinéa de l'article 83, à un magistrat
-du tribunal de grande instance de Paris affecté aux formations d'instruction spécialisées en matière économique et financière
-en application des dispositions du dernier alinéa de l'article 704.
-
-**Nota:**
-
-
+du même code peut être confiée, le cas échéant dans les conditions prévues à l'article 83-1, à un magistrat du tribunal de
+grande instance de Paris affecté aux formations d'instruction spécialisées en matière économique et financière en application
+des dispositions du dernier alinéa de l'article 704.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - Ordonnance 45-174 1945-02-02
-	  - Code pénal - art. 421-1 (M)
+	  - Ordonnance n°45-174 du 2 février 1945 (V)
+	  - Code pénal - art. 421-1 (V)
 	  - Code pénal - art. 421-2-2 (V)
-	  - Code pénal - art. 421-2-3 (V)
-	  - CODE DE PROCEDURE PENALE - art. 382 (M)
-	  - CODE DE PROCEDURE PENALE - art. 43 (M)
-	  - CODE DE PROCEDURE PENALE - art. 52 (M)
-	  - CODE DE PROCEDURE PENALE - art. 704 (M)
-	  - CODE DE PROCEDURE PENALE - art. 706-16 (M)
-	  - CODE DE PROCEDURE PENALE - art. 83 (M)
+	  - Code de procédure pénale - art. 382 (V)
+	  - Code de procédure pénale - art. 43 (V)
+	  - Code de procédure pénale - art. 52 (VD)
+	  - Code de procédure pénale - art. 706-16 (V)
 
 	**Codifié par**:
 
@@ -38412,8 +38498,7 @@ en application des dispositions du dernier alinéa de l'article 704.
 
 	**Modifié par**:
 
-	  - Loi n°2004-204 du 9 mars 2004 - art. 10 () JORF 10 mars 2004
-	  - Loi n°2004-204 du 9 mars 2004 - art. 112 () JORF 10 mars 2004
+	  - Loi n°2007-291 du 5 mars 2007 - art. 7 () JORF 6 mars 2007 en vigueur le 1er mars 2008
 
 	**Cité par**:
 
@@ -39524,17 +39609,12 @@ récidive légale.
 ###### Article 706-47-1
 
 Les personnes poursuivies pour l'une des infractions mentionnées à l'article 706-47 doivent être soumises, avant tout
-jugement au fond, à une expertise médicale. L'expert est interrogé sur l'opportunité d'une injonction de soins dans le cadre
-d'un suivi socio-judiciaire.
+jugement au fond, à une expertise médicale. L'expert est interrogé sur l'opportunité d'une injonction de soins.
 
 Cette expertise peut être ordonnée dès le stade de l'enquête par le procureur de la République.
 
 Cette expertise est communiquée à l'administration pénitentiaire en cas de condamnation à une peine privative de liberté,
 afin de faciliter le suivi médical et psychologique en détention prévu par l'article 717-1.
-
-**Nota:**
-
-
 
 **Liens relatifs à cet article**
 
@@ -39544,7 +39624,7 @@ afin de faciliter le suivi médical et psychologique en détention prévu par l'
 
 	**Modifié par**:
 
-	  - Loi n°2004-204 du 9 mars 2004 - art. 168 () JORF 10 mars 2004 en vigueur le 1er janvier 2005
+	  - Loi n°2007-1198 du 10 août 2007 - art. 8 () JORF 11 août 2007 en vigueur le 1er mars 2008
 
 	**Anciens textes**:
 
@@ -80995,6 +81075,1607 @@ verbaux en l'absence d'urgence ne saurait toutefois constituer une cause de null
 	  - Code de procédure pénale - art. D2 (V)
 
 
+###### Article D15-4-1
+
+Le procureur de la République près le tribunal de grande instance au sein duquel il n'y a pas de pôle d'instruction avise le
+procureur de la République près le tribunal au sein duquel se trouve ce pôle des infractions et enquêtes portées à sa
+connaissance dès qu'il lui apparaît que ces faits et procédures sont susceptibles de donner lieu à l'ouverture d'une
+information de nature criminelle ou avec cosaisine. 
+
+Ces deux magistrats se concertent alors pour déterminer celui qui dirigera et contrôlera le déroulement de l'enquête et celui
+qui décidera s'il y a lieu de requérir l'ouverture d'une instruction. Le procureur général coordonne le cas échéant leurs
+actions.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2008-54 du 16 janvier 2008 - art. 2
+
+
+###### Article D15-4-2
+
+Le procureur de la République près le tribunal de grande instance au sein duquel il n'y a pas de pôle d'instruction avise
+sans délai le procureur de la République près le tribunal au sein duquel se trouve ce pôle lorsqu'il est fait application des
+dispositions du premier alinéa du II de l'article 80 du dernier alinéa de l'article 397-2 ou de l'article 397-7. 
+
+Lorsque ce magistrat fait application des dispositions de l'article 397-7, il requiert l'ouverture de l'information devant le
+pôle de l'instruction avant de présenter la personne devant le juge des libertés et de la détention de son tribunal, en lui
+notifiant les faits faisant l'objet du réquisitoire introductif.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2008-54 du 16 janvier 2008 - art. 2
+
+	**Cite**:
+
+	  - Code de procédure pénale - art. 397-2
+	  - Code de procédure pénale - art. 397-7
+	  - Code de procédure pénale - art. 80
+
+
+###### Article D15-4-3
+
+Le procureur de la République près le tribunal de grande instance au sein duquel se trouve un pôle d'instruction avise sans
+délai le procureur de la République près le tribunal au sein duquel il n'y a pas de pôle lorsqu'il fait application des
+dispositions du deuxième alinéa du II de l'article 80 ou du III de cet article. 
+
+Ce magistrat l'avise également en temps utile de ses réquisitions de règlement. Il lui adresse sans délai la procédure en cas
+d'ordonnance de renvoi dans le cas prévu par le dernier alinéa du II de l'article 80 ou lorsqu'il est fait application des
+dispositions du III de cet article.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2008-54 du 16 janvier 2008 - art. 2
+
+	**Cite**:
+
+	  - Code de procédure pénale - art. 80
+
+
+#### Chapitre III : Du juge d'instruction et des pôles de l'instruction
+
+###### Article D15-4-4
+
+Pour l'application des dispositions de l'article 52-1, les tribunaux de grande instance dans lesquels existe un pôle de
+l'instruction et le ressort de compétence territoriale de ces pôles sont déterminés comme suit : 
+
+<table>
+  <tbody>
+    <tr>
+      <th>
+
+SIÈGE 
+
+</th>
+      <th>
+
+COMPÉTENCE TERRITORIALE 
+
+s'étendant au ressort des tribunaux de 
+
+grande instance de : 
+
+</th>
+    </tr>
+    <tr>
+      <td align="center">
+
+Cour d'appel d'Agen 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+Agen. 
+
+</td>
+      <td align="center">
+
+Agen, Auch, Cahors, Marmande. 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+Cour d'appel d'Aix-en-Provence 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+Aix-en-Provence. 
+
+</td>
+      <td align="center">
+
+Aix-en-Provence, Digne-les-Bains, Tarascon. 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+Draguignan. 
+
+</td>
+      <td align="center">
+
+Draguignan. 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+Grasse. 
+
+</td>
+      <td align="center">
+
+Grasse. 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+Marseille. 
+
+</td>
+      <td align="center">
+
+Marseille. 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+Nice. 
+
+</td>
+      <td align="center">
+
+Nice. 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+Toulon. 
+
+</td>
+      <td align="center">
+
+Toulon. 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+Cour d'appel d'Amiens 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+Amiens. 
+
+</td>
+      <td align="center">
+
+Abbeville, Amiens, Péronne. 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+Laon. 
+
+</td>
+      <td align="center">
+
+Laon, Saint-Quentin, Soissons. 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+Senlis. 
+
+</td>
+      <td align="center">
+
+Beauvais, Compiègne, Senlis. 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+Cour d'appel d'Angers 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+Angers. 
+
+</td>
+      <td align="center">
+
+Angers, Saumur. 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+Le Mans. 
+
+</td>
+      <td align="center">
+
+Laval, Le Mans. 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+Cour d'appel de Bastia 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+Ajaccio. 
+
+</td>
+      <td align="center">
+
+Ajaccio. 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+Bastia. 
+
+</td>
+      <td align="center">
+
+Bastia. 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+Cour d'appel de Besançon 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+Besançon. 
+
+</td>
+      <td align="center">
+
+Besançon, Dôle, Lons-le-Saunier, Lure, Vesoul. 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+Montbéliard. 
+
+</td>
+      <td align="center">
+
+Belfort, Montbéliard. 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+Cour d'appel de Bordeaux 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+Angoulême. 
+
+</td>
+      <td align="center">
+
+Angoulême. 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+Bordeaux. 
+
+</td>
+      <td align="center">
+
+Bordeaux, Libourne. 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+Périgueux. 
+
+</td>
+      <td align="center">
+
+Bergerac, Périgueux. 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+Cour d'appel de Bourges 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+Bourges. 
+
+</td>
+      <td align="center">
+
+Bourges, Châteauroux, Nevers. 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+Cour d'appel de Caen 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+Caen. 
+
+</td>
+      <td align="center">
+
+Alençon, Argentan, Caen, Lisieux. 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+Coutances. 
+
+</td>
+      <td align="center">
+
+Avranches, Cherbourg-Octeville, Coutances. 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+Cour d'appel de Chambéry 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+Annecy. 
+
+</td>
+      <td align="center">
+
+Annecy, Bonneville, Thonon-les-Bains. 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+Chambéry. 
+
+</td>
+      <td align="center">
+
+Albertville, Chambéry. 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+Cour d'appel de Colmar 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+Colmar. 
+
+</td>
+      <td align="center">
+
+Colmar. 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+Mulhouse. 
+
+</td>
+      <td align="center">
+
+Mulhouse. 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+Strasbourg. 
+
+</td>
+      <td align="center">
+
+Saverne, Strasbourg. 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+Cour d'appel de Dijon 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+Chalon-sur-Saône. 
+
+</td>
+      <td align="center">
+
+Chalon-sur-Saône, Mâcon. 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+Dijon. 
+
+</td>
+      <td align="center">
+
+Dijon, Chaumont. 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+Cour d'appel de Douai 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+Béthune. 
+
+</td>
+      <td align="center">
+
+Arras, Béthune. 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+Boulogne-sur-Mer. 
+
+</td>
+      <td align="center">
+
+Boulogne-sur-Mer, Saint-Omer. 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+Douai. 
+
+</td>
+      <td align="center">
+
+Douai, Cambrai. 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+Dunkerque. 
+
+</td>
+      <td align="center">
+
+Dunkerque, Hazebrouck. 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+Lille. 
+
+</td>
+      <td align="center">
+
+Lille. 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+Valenciennes. 
+
+</td>
+      <td align="center">
+
+Avesnes-sur-Helpe, Valenciennes. 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+Cour d'appel de Grenoble 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+Grenoble. 
+
+</td>
+      <td align="center">
+
+Gap, Bourgoin-Jallieu, Grenoble, Vienne. 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+Valence. 
+
+</td>
+      <td align="center">
+
+Valence. 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+Cour d'appel de Limoges 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+Limoges. 
+
+</td>
+      <td align="center">
+
+Brive-la-Gaillarde, Guéret, Limoges, Tulle. 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+Cour d'appel de Lyon 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+Bourg-en-Bresse. 
+
+</td>
+      <td align="center">
+
+Belley, Bourg-en-Bresse. 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+Lyon. 
+
+</td>
+      <td align="center">
+
+Lyon, Villefranche-sur-Saône. 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+Saint-Etienne. 
+
+</td>
+      <td align="center">
+
+Montbrison, Roanne, Saint-Etienne. 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+Cour d'appel de Metz 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+Metz. 
+
+</td>
+      <td align="center">
+
+Metz, Sarreguemines, Thionville. 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+Cour d'appel de Montpellier 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+Béziers. 
+
+</td>
+      <td align="center">
+
+Béziers. 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+Montpellier. 
+
+</td>
+      <td align="center">
+
+Montpellier, Millau, Rodez. 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+Narbonne. 
+
+</td>
+      <td align="center">
+
+Carcassonne, Narbonne. 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+Perpignan. 
+
+</td>
+      <td align="center">
+
+Perpignan. 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+Cour d'appel de Nancy 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+Epinal. 
+
+</td>
+      <td align="center">
+
+Epinal, Saint-Dié-des-Vosges. 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+Nancy. 
+
+</td>
+      <td align="center">
+
+Bar-le-Duc, Briey, Nancy, Verdun. 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+Cour d'appel de Nîmes 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+Avignon. 
+
+</td>
+      <td align="center">
+
+Avignon, Carpentras, Privas. 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+Nîmes. 
+
+</td>
+      <td align="center">
+
+Alès, Mende, Nîmes. 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+Cour d'appel d'Orléans 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+Blois. 
+
+</td>
+      <td align="center">
+
+Blois. 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+Orléans. 
+
+</td>
+      <td align="center">
+
+Montargis, Orléans. 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+Tours. 
+
+</td>
+      <td align="center">
+
+Tours. 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+Cour d'appel de Paris 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+Auxerre. 
+
+</td>
+      <td align="center">
+
+Auxerre, Sens. 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+Bobigny. 
+
+</td>
+      <td align="center">
+
+Bobigny. 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+Créteil. 
+
+</td>
+      <td align="center">
+
+Créteil. 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+Evry. 
+
+</td>
+      <td align="center">
+
+Evry. 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+Meaux. 
+
+</td>
+      <td align="center">
+
+Meaux. 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+Melun. 
+
+</td>
+      <td align="center">
+
+Fontainebleau, Melun. 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+Paris. 
+
+</td>
+      <td align="center">
+
+Paris. 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+Cour d'appel de Pau 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+Bayonne. 
+
+</td>
+      <td align="center">
+
+Bayonne. 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+Mont-de-Marsan. 
+
+</td>
+      <td align="center">
+
+Dax, Mont-de-Marsan. 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+Pau. 
+
+</td>
+      <td align="center">
+
+Pau, Tarbes. 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+Cour d'appel de Poitiers 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+La Rochelle. 
+
+</td>
+      <td align="center">
+
+La Rochelle, Rochefort, Saintes. 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+La Roche-sur-Yon. 
+
+</td>
+      <td align="center">
+
+La Roche-sur-Yon, Les Sables-d'Olonne. 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+Poitiers. 
+
+</td>
+      <td align="center">
+
+Bressuire, Niort, Poitiers. 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+Cour d'appel de Reims 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+Reims. 
+
+</td>
+      <td align="center">
+
+Châlons-en Champagne, Charleville-Mézières, Reims. 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+Troyes. 
+
+</td>
+      <td align="center">
+
+Troyes. 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+Cour d'appel de Rennes 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+Brest. 
+
+</td>
+      <td align="center">
+
+Brest, Morlaix, Quimper. 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+Lorient. 
+
+</td>
+      <td align="center">
+
+Lorient, Vannes. 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+Nantes. 
+
+</td>
+      <td align="center">
+
+Nantes, Saint-Nazaire. 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+Rennes. 
+
+</td>
+      <td align="center">
+
+Rennes, Saint-Malo. 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+Saint-Brieuc. 
+
+</td>
+      <td align="center">
+
+Dinan, Guingamp, Saint-Brieuc. 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+Cour d'appel de Riom 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+Clermont-Ferrand. 
+
+</td>
+      <td align="center">
+
+Aurillac, Clermont-Ferrand, Le Puy-en-Velay, Riom. 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+Cusset. 
+
+</td>
+      <td align="center">
+
+Cusset, Montluçon, Moulins. 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+Cour d'appel de Rouen 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+Evreux. 
+
+</td>
+      <td align="center">
+
+Bernay, Evreux. 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+Le Havre. 
+
+</td>
+      <td align="center">
+
+Le Havre. 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+Rouen. 
+
+</td>
+      <td align="center">
+
+Dieppe, Rouen. 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+Cour d'appel de Toulouse 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+Montauban. 
+
+</td>
+      <td align="center">
+
+Montauban. 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+Toulouse. 
+
+</td>
+      <td align="center">
+
+Albi, Castres, Foix, Saint-Gaudens, Toulouse. 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+Cour d'appel de Versailles 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+Chartres. 
+
+</td>
+      <td align="center">
+
+Chartres. 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+Nanterre. 
+
+</td>
+      <td align="center">
+
+Nanterre. 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+Pontoise. 
+
+</td>
+      <td align="center">
+
+Pontoise. 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+Versailles. 
+
+</td>
+      <td align="center">
+
+Versailles. 
+
+</td>
+    </tr>
+  </tbody>
+</table>
+
+DÉPARTEMENTS D'OUTRE-MER 
+
+<table>
+  <tbody>
+    <tr>
+      <th>
+
+SIÈGE
+
+. 
+
+</th>
+      <th>
+
+RESSORT 
+
+s'étendant aux limites territoriales des 
+
+tribunaux de grande instance de : 
+
+</th>
+    </tr>
+    <tr>
+      <td align="center">
+
+Cour d'appel de Basse-Terre 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+Pointe-à-Pitre. 
+
+</td>
+      <td align="center">
+
+Basse-Terre, Pointe-à-Pitre. 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+Cour d'appel de Fort-de-France 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+Fort-de-France. 
+
+</td>
+      <td align="center">
+
+Fort-de-France. 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+Cayenne. 
+
+</td>
+      <td align="center">
+
+Cayenne. 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+Cour d'appel de Saint-Denis 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+Saint-Denis. 
+
+</td>
+      <td align="center">
+
+Saint-Denis. 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+Saint-Pierre. 
+
+</td>
+      <td align="center">
+
+Saint-Pierre. 
+
+</td>
+    </tr>
+  </tbody>
+</table>
+
+COLLECTIVITÉS D'OUTRE-MER 
+
+<table>
+  <tbody>
+    <tr>
+      <th>
+
+SIÈGE
+
+. 
+
+</th>
+      <th>
+
+RESSORT 
+
+s'étendant aux limites territoriales des 
+
+tribunaux de grande instance de : 
+
+</th>
+    </tr>
+    <tr>
+      <td align="center">
+
+Cour d'appel de Nouméa 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+Nouméa. 
+
+</td>
+      <td align="center">
+
+Nouméa. 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+Cour d'appel de Papeete 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+Papeete. 
+
+</td>
+      <td align="center">
+
+Papeete.
+
+</td>
+    </tr>
+  </tbody>
+</table>
+
+**Nota:**
+
+Conseil d'Etat, décision 312553 et autres, en date du 19 décembre 2008 art. 3 : Les dispositions de l'article 3 du décret du
+16 janvier 2008 modifiant le code de procédure pénale et relatif aux pôles de l'instruction qui créent l'article D. 15-4-4 de
+ce code sont annulées à compter de l'expiration d'un délai de quatre mois courant de la date de la présente décision.
+
+Art. 4 : Sous réserve des actions contentieuses engagées à la date de la présente décision, les effets produits par cet
+article antérieurement à son annulation sont regardés comme définitifs.
+
+**Liens relatifs à cet article**
+
+	**Annulé par**:
+
+	  - Conseil d'Etat n°312553 et autres 2008-12-19 (applicable à partir du 19 avril 2009)
+
+	**Créé par**:
+
+	  - Décret n°2008-54 du 16 janvier 2008 - art. 3
+
+	**Abrogé par**:
+
+	  - Décret n°2009-313 du 20 mars 2009 - art. 1
+
+	**Cite**:
+
+	  - Code de procédure pénale - art. 52-1
+
+
+###### Article D15-4-5
+
+Le ou les juges d'instruction coordonnateurs du pôle prévus par le quatrième alinéa de l'article 52-1 sont désignés par le
+président du tribunal de grande instance au début de l'année judiciaire, après avis de l'assemblée générale des magistrats du
+siège. 
+
+Le juge coordonnateur peut réunir à intervalles réguliers les différents juges d'instruction du pôle de l'instruction afin
+d'examiner l'état d'avancement des procédures dans un souci d'efficacité et de célérité des informations dont ses membres ont
+la charge. Ces réunions peuvent ne concerner que les juges spécialisés en application des articles 704, 706-2, 706-17,
+706-75-1 et 706-107. 
+
+Lors de ces réunions, les juges d'instruction peuvent échanger des informations sur les procédures dont ils sont saisis, aux
+fins notamment d'envisager d'éventuelles cosaisines. Ces échanges sont couverts par le secret de l'instruction prévu par
+l'article 11. Avec l'accord du juge coordonnateur, le procureur de la République peut participer à ces réunions. 
+
+Dans le respect des prérogatives de chacun des juges d'instruction saisis en vertu des articles 83 et 83-1 du code de
+procédure pénale, le juge coordonnateur peut préconiser toute mesure juridique ou organisationnelle utile au bon
+fonctionnement du service.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2008-54 du 16 janvier 2008 - art. 3
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. 706-75-1 (V)
+	  - Code de procédure pénale - art. 11 (V)
+	  - Code de procédure pénale - art. 52-1
+	  - Code de procédure pénale - art. 704
+	  - Code de procédure pénale - art. 706-107
+	  - Code de procédure pénale - art. 706-17
+	  - Code de procédure pénale - art. 706-2
+	  - Code de procédure pénale - art. 83
+	  - Code de procédure pénale - art. 83-1 (VT)
+
+
+###### Article D15-4-6
+
+En cas de demande de commission d'office d'un avocat faite, conformément aux dispositions des articles 113-3 ou 116, devant
+le juge d'instruction d'une juridiction dans laquelle il y a un pôle de l'instruction, au cours d'une information concernant
+des faits relevant initialement de la compétence d'un tribunal de grande instance dans laquelle il n'y a pas de pôle, ce
+magistrat informe par tout moyen le bâtonnier de l'ordre des avocats près ce tribunal, aux fins de désignation d'un avocat de
+ce barreau. 
+
+Si le bâtonnier ne procède pas à cette désignation, la commission d'office est faite par le bâtonnier de l'ordre des avocats
+de la juridiction dans laquelle se trouve le pôle, qui est alors informé sans délai par le juge d'instruction.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2008-54 du 16 janvier 2008 - art. 3
+
+	**Cite**:
+
+	  - Code de procédure pénale - art. 113-3
+	  - Code de procédure pénale - art. 116
+
+
+###### Article D15-4-7
+
+Lorsque la personne mise en examen, pour des faits relevant initialement de la compétence d'un tribunal de grande instance
+dans lequel il n'y a pas de pôle de l'instruction, par le juge d'instruction d'une juridiction dans laquelle se trouve un
+pôle est défendue par un avocat, choisi ou commis d'office, appartenant au barreau du tribunal sans pôle, les demandes de
+mainlevée ou de modification du contrôle judiciaire ou de mise en liberté que cet avocat peut déposer conformément aux
+dispositions de l'article 148-6 peuvent l'être au greffe du juge d'instruction du tribunal sans pôle. A peine
+d'irrecevabilité, la demande précise le nom du juge d'instruction saisi de la procédure. Cette demande est constatée par le
+greffier, qui la signe ainsi que l'avocat, et qui l'adresse sans délai au greffe du juge d'instruction saisi de la procédure.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2008-54 du 16 janvier 2008 - art. 3
+
+	**Cite**:
+
+	  - Code de procédure pénale - art. 148-6
+
+
+###### Article D15-4-8
+
+Au sein de chaque tribunal de grande instance dans lequel est situé un pôle de l'instruction dans le ressort duquel siège un
+tribunal pour enfants, que ce tribunal se trouve ou non dans la ville où est localisé le tribunal de grande instance, un ou
+plusieurs juges d'instruction désignés par le premier président et un ou plusieurs magistrats du parquet désignés par le
+procureur général sont chargés spécialement des affaires concernant les mineurs.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2008-154 du 20 février 2008 - art. 2
+
+
 ### Titre II : Des enquêtes et des contrôles d'identité
 
 ###### Article D15-5
@@ -81420,66 +83101,53 @@ code de procédure pénale.
 	  - Décret n°2006-385 du 30 mars 2006 - art. 22 () JORF 31 mars 2006
 
 
-##### Section 2 : De la constitution de partie civile et de ses effets
-
 ###### Article D31-1
 
-Lorsque la plainte avec constitution de partie civile est déposée par un avocat, elle peut être adressée au juge
-d'instruction par un moyen de communication électronique selon les modalités prévues par l'article D. 591, dès lors que les
-dispositions de cet article sont applicables à la suite du protocole passé par les chefs de la juridiction et le barreau.
+Pour l'application des dispositions du troisième alinéa de l'article 83-1, lorsque l'information a été ouverte dans un
+tribunal où il n'y a pas de pôle de l'instruction, le juge d'instruction qui demande que cette procédure fasse l'objet d'une
+cosaisine ou, après réquisition du ministère public ou requête des parties, donne son accord à une telle cosaisine, rend une
+ordonnance de dessaisissement au profit du pôle de l'instruction aux fins de cosaisine. Il adresse alors copie de son
+dossier, par l'intermédiaire du président de sa juridiction, au président du tribunal de grande instance où se trouve le
+pôle. 
 
-Conformément aux dispositions du deuxième alinéa de l'article 85, la personne qui se prétend lésée par un délit, autre que
-ceux prévus par la loi du 29 juillet 1881 sur la liberté de la presse ou par les articles L. 86, L. 87, L. 91 à L. 100, L.
-102 à L. 104, L. 106 à L. 108 et L. 113 du code électoral, doit, à peine d'irrecevabilité, joindre à sa plainte avec
-constitution de partie civile :
+Dans le délai d'un mois à compter de la réception du dossier, le président du tribunal de grande instance où se trouve le
+pôle désigne le juge d'instruction chargé de l'information ainsi que le ou les juges d'instruction cosaisis. Copie de cette
+décision est immédiatement adressée, par tout moyen, au juge d'instruction du tribunal dans lequel il n'y a pas de pôle, qui
+est alors dessaisi du dossier, et qui adresse l'original de celui-ci aux juges d'instruction cosaisis. 
 
-- soit la copie de la plainte simple déposée devant le procureur de la République ou un service de police judiciaire,
-accompagnée de la copie de l'avis de classement sans suite adressé en retour par ce procureur ;
-
-- soit la copie de cette plainte (adressée au parquet ou au service de police judiciaire) avec une copie du récépissé de
-remise de cette plainte au procureur de la République ou d'un envoi en recommandé avec demande d'avis de réception à ce
-magistrat, à condition que ce récépissé ou que la date de l'avis de réception de l'envoi en recommandé date d'au moins trois
-mois.
-
-Lorsque la plainte avec constitution de partie civile est adressée au juge d'instruction par un moyen de communication
-électronique, les documents prévus par les deux alinéas précédents sont joints sous forme de fichiers numérisés.
-
-Lorsque ces documents ne sont pas joints, le juge d'instruction constate par ordonnance l'irrecevabilité de la plainte avec
-constitution de partie civile. Cette ordonnance est notifiée à la personne par lettre recommandée ou à son avocat selon les
-modalités prévues par l'article 803-1.
-
-Dans le cas contraire, le juge communique la plainte au procureur de la République conformément aux dispositions de l'article
-86 après avoir, sauf si la personne a obtenu l'aide juridictionnelle ou a été dispensée de consignation, fixé le montant de
-la consignation et constaté le versement de celle-ci dans le délai prescrit.
-
-La personne peut former appel de l'ordonnance d'irrecevabilité prévue par le présent article, conformément aux dispositions
-du deuxième alinéa de l'article 186, sans préjudice de sa possibilité de régulariser sa plainte en remettant les documents
-exigés ci-dessus ou de déposer ultérieurement une nouvelle plainte avec constitution de partie civile après avoir rempli les
-conditions prévues par l'article 85.
+Si le président du tribunal n'ordonne pas la cosaisine, copie du dossier est retournée au juge d'instruction, et il est fait
+application, le cas échéant, des dispositions du quatrième alinéa de l'article 83-1.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°58-1304 1958-12-23
-
-	**Créé par**:
-
-	  - Décret n°2007-1620 du 15 novembre 2007 - art. 3 () JORF 17 novembre 2007
+	  - Décret n°2008-54 du 16 janvier 2008 art. 4 (V)
 
 	**Cite**:
 
-	  - Code électoral - art. L113 (M)
-	  - Code électoral - art. L86 (M)
-	  - Code électoral - art. L87 (V)
-	  - Code électoral L86, L87, L91 à L100, L102 à L104, L106 à L108, L113
-	  - CODE DE PROCEDURE PENALE - art. 186 (M)
-	  - CODE DE PROCEDURE PENALE - art. 803-1 (M)
-	  - CODE DE PROCEDURE PENALE - art. 85 (M)
-	  - CODE DE PROCEDURE PENALE - art. 86 (M)
-	  - CODE DE PROCEDURE PENALE - art. D591 (Ab)
-	  - Loi n°1881-07-29
+	  - Code de procédure pénale - art. 83-1 (VT)
 
+
+###### Article D31-2
+
+Lorsque le juge d'instruction se dessaisit en application du dernier alinéa de l'article 118, il en informe immédiatement le
+président du tribunal de grande instance dans lequel se trouve le pôle de l'instruction, qui désigne le ou les juges du pôle
+qui seront chargés de poursuivre l'information. Ce dessaisissement ne prend effet qu'à compter de la désignation de ces
+juges. Les procureurs de la République des deux tribunaux de grande instance sont également informés de ce dessaisissement.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2008-54 du 16 janvier 2008 - art. 4
+
+	**Cite**:
+
+	  - Code de procédure pénale - art. 118
+
+
+##### Section 2 : De la constitution de partie civile et de ses effets
 
 ###### Article D32
 
@@ -89146,15 +90814,18 @@ et modalités d'accès au téléphone.
 
 Sous réserve des dispositions du deuxième alinéa de l'article D. 52, les prévenus placés en détention provisoire sont
 incarcérés, selon les prescriptions du mandat ou de la décision de justice dont ils font l'objet, à la maison d'arrêt de la
-ville où siège la juridiction d'instruction ou du jugement devant laquelle ils ont à comparaître.
+ville où siège la juridiction d'instruction ou du jugement devant laquelle ils ont à comparaître. Lorsque la personne est
+mise en examen, pour des faits relevant initialement de la compétence d'un tribunal de grande instance dans lequel il n'y a
+pas de pôle de l'instruction, par le juge d'instruction d'une juridiction dans laquelle se trouve un pôle, elle peut
+également être détenue dans la maison d'arrêt de la ville où siège le tribunal dans lequel il n'y a pas de pôle. 
 
 Toutefois, au cas où il n'y a pas de maison d'arrêt dans cette ville ou lorsque la maison d'arrêt ne comporte pas de locaux
 appropriés à l'âge ou à l'état de santé des intéressés, ou en ce qui concerne les femmes, de quartiers aménagés pour elles,
 ou encore lorsque cet établissement n'offre pas une capacité d'accueil ou des garanties de sécurité suffisantes, les prévenus
 sont incarcérés à la maison d'arrêt la plus proche disposant d'installations convenables, d'où ils sont extraits chaque fois
-que l'autorité judiciaire le requiert.
+que l'autorité judiciaire le requiert. 
 
-Les prévenus mineurs peuvent également être incarcérés dans un établissement pénitentiaire spécialisé pour mineurs.
+Les prévenus mineurs peuvent également être incarcérés dans un établissement pénitentiaire spécialisé pour mineurs. 
 
 L'équipe pluridisciplinaire mentionnée à l'article D. 514 peut proposer au magistrat saisi du dossier de l'information, dans
 l'intérêt du prévenu mineur, de l'incarcérer dans un établissement pénitentiaire spécialisé pour mineurs ou dans un quartier
@@ -89162,22 +90833,18 @@ pour mineurs d'une maison d'arrêt, autre que son lieu d'incarcération initial.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Décret n°59-322 1959-02-23
-
 	**Cité par**:
 
 	  - Loi - art. 37 (V)
 
 	**Modifié par**:
 
-	  - Décret n°2007-1627 du 16 novembre 2007 - art. 18 () JORF 18 novembre 2007
+	  - Décret n°2008-154 du 20 février 2008 - art. 3
 
 	**Cite**:
 
-	  - CODE DE PROCEDURE PENALE - art. D514 (M)
-	  - CODE DE PROCEDURE PENALE - art. D52 (M)
+	  - Code de procédure pénale - art. D514
+	  - Code de procédure pénale - art. D52
 
 
 ###### Article D54
