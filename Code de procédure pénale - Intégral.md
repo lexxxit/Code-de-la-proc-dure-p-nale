@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 2008-03-01
+Version Consolidée au 2008-03-07
 
 # Partie législative
 
@@ -40303,19 +40303,20 @@ Les dispositions des troisième à cinquième alinéas de l'article 777-2 sont a
 Toute personne dont l'identité est inscrite dans le fichier peut demander au procureur de la République de rectifier ou
 d'ordonner l'effacement des informations la concernant si les informations ne sont pas exactes ou si leur conservation
 n'apparaît plus nécessaire compte tenu de la finalité du fichier, au regard de la nature de l'infraction, de l'âge de la
-personne lors de sa commission, du temps écoulé depuis lors et de la personnalité actuelle de l'intéressé.
+personne lors de sa commission, du temps écoulé depuis lors et de la personnalité actuelle de l'intéressé. 
 
-La demande d'effacement est irrecevable tant que les mentions concernées subsistent au bulletin n° 1 du casier judiciaire de
-l'intéressé ou sont relatives à une procédure judiciaire qui est toujours en cours. 
+La demande d'effacement est irrecevable tant que les mentions concernées sont relatives à une procédure judiciaire qui est
+toujours en cours, tant que la personne n'a pas été réhabilitée ou que la mesure à l'origine de l'inscription n'a pas été
+effacée du bulletin n° 1. 
 
 Si le procureur de la République n'ordonne pas la rectification ou l'effacement, la personne peut saisir à cette fin le juge
-des libertés et de la détention, dont la décision peut être contestée devant le président de la chambre de l'instruction.
+des libertés et de la détention, dont la décision peut être contestée devant le président de la chambre de l'instruction. 
 
 Avant de statuer sur la demande de rectification ou d'effacement, le procureur de la République, le juge des libertés et de
 la détention et le président de la chambre de l'instruction peuvent faire procéder à toutes les vérifications qu'ils estiment
-nécessaires et notamment ordonner une expertise médicale de la personne. S'il s'agit d'une mention concernant soit un crime,
+nécessaires et notamment ordonner une expertise médicale de la personne.S'il s'agit d'une mention concernant soit un crime,
 soit un délit puni de dix ans d'emprisonnement et commis contre un mineur, la décision d'effacement du fichier ne peut
-intervenir en l'absence d'une telle expertise.
+intervenir en l'absence d'une telle expertise. 
 
 Dans le cas prévu par l'avant-dernier alinéa de l'article 706-53-5, le procureur de la République, le juge des libertés et de
 la détention et le président de la chambre de l'instruction, saisis en application des dispositions du présent article,
@@ -40323,28 +40324,15 @@ peuvent également ordonner, à la demande de la personne, qu'elle ne sera tenue
 ou de gendarmerie pour justifier de son adresse qu'une fois par an ou, lorsqu'elle devait se présenter une fois par mois,
 qu'une fois tous les six mois.
 
-**Nota:**
-
-Loi n° 2007-297 du 5 mars 2007 art. 43 III : Les dispositions de l'article 43 de la loi n° 2007-297 entrent en vigueur un an
-après la date de publication de la présente loi. Elles sont alors immédiatement applicables aux condamnations figurant
-toujours au casier judiciaire, quelque soit la date de commission de l'infraction ; toutefois, le doublement des délais de
-réhabilitation en cas de récidive n'est applicable que pour des faits commis postérieurement à la date de publication de la
-présente loi.
-
 **Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance 58-1296 1958-12-23
 
 	**Modifié par**:
 
-	  - Loi n°2007-297 du 5 mars 2007 - art. 42 () JORF 7 mars 2007
 	  - Loi n°2007-297 du 5 mars 2007 - art. 43
 
 	**Cite**:
 
-	  - CODE DE PROCEDURE PENALE - art. 706-53-5 (M)
+	  - CODE DE PROCEDURE PENALE - art. 706-53-5 (V)
 
 	**Cité par**:
 
@@ -50178,14 +50166,14 @@ Il est fait mention sur les fiches du casier judiciaire des peines ou dispenses 
 prononcé de la peine, des grâces, commutations ou réductions de peines, des décisions qui suspendent ou qui ordonnent
 l'exécution d'une première condamnation, des décisions prises en application du deuxième alinéa de l'article 728-4 ou du
 premier alinéa de l'article 728-7, des décisions de libération conditionnelle et de révocation, des décisions de suspension
-de peine, des décisions qui rapportent ou suspendent les arrêtés d'expulsion, ainsi que la date de l'expiration de la peine
-et du paiement de l'amende. 
+de peine, des réhabilitations, des décisions qui rapportent ou suspendent les arrêtés d'expulsion, ainsi que la date de
+l'expiration de la peine et du paiement de l'amende. 
 
-Sont retirées du casier judiciaire les fiches relatives à des condamnations effacées par une amnistie, par la réhabilitation
-de plein droit ou judiciaire ou réformées en conformité d'une décision de rectification du casier judiciaire. Il en est de
-même, sauf en ce qui concerne les condamnations prononcées pour des faits imprescriptibles, des fiches relatives à des
-condamnations ou des décisions d'irresponsabilité pénale pour cause de trouble mental prononcées depuis plus de quarante ans
-et qui n'ont pas été suivies d'une nouvelle condamnation à une peine criminelle ou correctionnelle. 
+Sont retirées du casier judiciaire les fiches relatives à des condamnations effacées par une amnistie ou réformées en
+conformité d'une décision de rectification du casier judiciaire. Il en est de même, sauf en ce qui concerne les condamnations
+prononcées pour des faits imprescriptibles, des fiches relatives à des condamnations ou des décisions d'irresponsabilité
+pénale pour cause de trouble mental prononcées depuis plus de quarante ans et qui n'ont pas été suivies d'une nouvelle
+condamnation à une peine criminelle ou correctionnelle. 
 
 Sont également retirés du casier judiciaire : 
 
@@ -50200,9 +50188,7 @@ ces mesures demeure mentionnée sur les fiches du casier judiciaire pendant la m
 
 2° Les décisions disciplinaires effacées par la réhabilitation ; 
 
-3° Les condamnations assorties en tout ou partie du bénéfice du sursis, avec ou sans mise à l'épreuve, à l'expiration des
-délais prévus par les articles 133-13 et 133-14 du code pénal calculés à compter du jour où les condamnations doivent être
-considérées comme non avenues ; 
+3° (Supprimé) 
 
 4° Les dispenses de peines, à l'expiration d'un délai de trois ans à compter du jour où la condamnation est devenue
 définitive ; 
@@ -50215,21 +50201,28 @@ délit ;
 la mesure a été constatée, si la personne n'a pas, pendant ce délai, soit subi de condamnation à une peine criminelle ou
 correctionnelle, soit exécuté une nouvelle composition pénale ; 
 
-7° Les fiches relatives aux mesures prononcées en application des articles 8,15,15-1,16,16 bis et 28 de l'ordonnance n°
+7° Les fiches relatives aux mesures prononcées en application des articles 8, 15, 15-1, 16, 16 bis et 28 de l'ordonnance n°
 45-174 du 2 février 1945 précitée à l'expiration d'un délai de trois ans à compter du jour où la mesure a été prononcée si la
 personne n'a pas, pendant ce délai, soit subi de condamnation à une peine criminelle ou correctionnelle, soit exécuté une
 composition pénale, soit fait l'objet d'une nouvelle mesure prononcée en application des dispositions précitées de ladite
-ordonnance.
+ordonnance ; 
+
+8° Les condamnations ayant fait l'objet d'une réhabilitation judiciaire, lorsque la juridiction a expressément ordonné la
+suppression de la condamnation du casier judiciaire conformément au deuxième alinéa de l'article 798.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - Ordonnance n°45-174 du 2 février 1945 - art. 28
-	  - Code de commerce - art. L653-8
-	  - Code pénal - art. 133-13
-	  - Code de procédure pénale - art. 728-4
-	  - Code de procédure pénale - art. 728-7
+	  - Ordonnance n°45-174 du 2 février 1945, v. init.
+	  - Code de commerce. - art. L653-8 (V)
+	  - CODE DE PROCEDURE PENALE - art. 728-4 (V)
+	  - CODE DE PROCEDURE PENALE - art. 728-7 (V)
+	  - CODE DE PROCEDURE PENALE - art. 798 (V)
+
+	**Codifié par**:
+
+	  - Ordonnance 58-1296 1958-12-23
 
 	**Cité par**:
 
@@ -50252,7 +50245,7 @@ ordonnance.
 
 	**Modifié par**:
 
-	  - Loi n°2007-297 du 5 mars 2007 - art. 43
+	  - Loi n°2007-297 du 5 mars 2007 - art. 43 () JORF 7 mars 2007 en vigueur le 7 mars 2008
 	  - Loi n°2008-174 du 25 février 2008 - art. 4
 
 
@@ -50500,7 +50493,9 @@ comme non avenues ; toutefois, si a été prononcé le suivi socio-judiciaire pr
 peine d'interdiction d'exercer une activité professionnelle ou bénévole impliquant un contact habituel avec des mineurs, la
 décision continue de figurer au bulletin n° 2 pendant la durée de la mesure ; 
 
-6° Les condamnations auxquelles sont applicables les dispositions de l'article L. 263-4 du Code de justice militaire ; 
+5° Les condamnations ayant fait l'objet d'une réhabilitation de plein droit ou judiciaire ; 
+
+6° Les condamnations auxquelles sont applicables les dispositions de l'article L. 263-4 du code de justice militaire ; 
 
 7° et 8° (paragraphes abrogés) ; 
 
@@ -50522,7 +50517,7 @@ est supérieure à cinq ans, la condamnation demeure mentionnée au bulletin n°
 14° Les compositions pénales mentionnées à l'article 768 ; 
 
 15° Sauf décision contraire du juge, spécialement motivée, les condamnations prononcées pour les délits prévus au titre IV du
-livre IV du code de commerce ; 
+livre IV du code de commerce. 
 
 16° Les décisions de déclaration d'irresponsabilité pénale pour cause de trouble mental, sauf si ont été prononcées des
 interdictions prévues par l'article 706-136 du présent code tant que ces interdictions n'ont pas cessé leurs effets. 
@@ -50531,19 +50526,18 @@ Les bulletins n° 2 fournis en cas de contestation concernant l'inscription sur 
 décisions entraînant des incapacités en matière d'exercice du droit de vote. 
 
 Lorsqu'il n'existe pas au casier judiciaire de fiches concernant des décisions à relever sur le bulletin n° 2, celui-ci porte
-la mention Néant.
+la mention " Néant. "
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
 	  - Ordonnance n°45-174 du 2 février 1945 - art. 16 bis (V)
-	  - Ordonnance n°45-174 du 2 février 1945 - art. 28
-	  - Code pénal - art. 131-36-1
-	  - Code pénal - art. 131-5
+	  - Ordonnance n°45-174 du 2 février 1945 (V)
+	  - Code pénal - art. 131-36-1 (V)
+	  - Code pénal - art. 131-5 (V)
 	  - CODE DE PROCEDURE PENALE - art. 768 (V)
-	  - Code de procédure pénale - art. 706-136
-	  - Code de procédure pénale - art. 775-1
+	  - CODE DE PROCEDURE PENALE - art. 775-1 (V)
 	  - Code de justice militaire. - art. L255-22 (V)
 	  - Code de justice militaire. - art. L263-4 (V)
 
@@ -50557,9 +50551,13 @@ la mention Néant.
 	  - Code général des impôts, annexe 2, CGIAN2. - art. 371 D (V)
 	  - Code général des impôts, annexe 2, CGIAN2. - art. 371 bis B (V)
 
+	**Codifié par**:
+
+	  - Ordonnance 58-1296 1958-12-23
+
 	**Modifié par**:
 
-	  - Loi n°2007-297 du 5 mars 2007 - art. 43
+	  - Loi n°2007-297 du 5 mars 2007 - art. 43 () JORF 7 mars 2007 en vigueur le 7 mars 2008
 	  - Loi n°2008-174 du 25 février 2008 - art. 4
 
 
@@ -51423,17 +51421,12 @@ renouvelée dès l'expiration de ces délais.
 
 Mention de l'arrêt prononçant la réhabilitation est faite en marge des jugements de condamnation.
 
+Dans ce cas, les bulletins n° 2 et n° 3 du casier judiciaire ne doivent pas mentionner la condamnation. L'arrêt qui prononce
+la réhabilitation peut toutefois ordonner que la condamnation soit retirée du casier judiciaire et ne soit pas non plus
+mentionnée au bulletin n° 1.
+
 Le réhabilité peut se faire délivrer sans frais une expédition de l'arrêt de réhabilitation et un extrait de casier
 judiciaire.
-
-**Nota:**
-
-Loi n° 2007-297 du 5 mars 2007 art. 43 III : Les dispositions du présent article entrent en vigueur un an après la date de
-publication de la présente loi. Elles sont alors immédiatement applicables aux condamnations figurant toujours au casier
-judiciaire, quelle que soit la date de commission de l'infraction ; toutefois, le doublement des délais de réhabilitation en
-cas de récidive n'est applicable que pour des faits commis postérieurement à la date de publication de la présente loi.  La
-présente version de cet article est en vigueur jusqu'au 1er mars 2008.  La présente version de cet article est en vigueur
-jusqu'au 7 mars 2008.
 
 **Liens relatifs à cet article**
 
@@ -51443,7 +51436,8 @@ jusqu'au 7 mars 2008.
 
 	**Modifié par**:
 
-	  - Loi n°92-1336 du 16 décembre 1992 - art. 133 () JORF 23 décembre 1992 en vigueur le 1er mars 1994
+	  - Loi n°2007-297 2007-03-05 art. 43 6° II JORF 7 mars 2007 en vigueur le 7 mars 2008
+	  - Loi n°2007-297 du 5 mars 2007 - art. 43
 
 	**Cité par**:
 
@@ -51451,9 +51445,30 @@ jusqu'au 7 mars 2008.
 	  - Code de procédure pénale - art. R70 (V)
 
 
+###### Article 798-1
+
+Toute personne dont la condamnation a fait l'objet d'une réhabilitation légale en application des dispositions du code pénal
+peut demander, selon la procédure et les modalités prévues par le présent chapitre, que la chambre de l'instruction ordonne
+que cette condamnation soit retirée du casier judiciaire et ne soit plus mentionnée au bulletin n° 1.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 58-1296 1958-12-23
+
+	**Modifié par**:
+
+	  - Loi n°2007-297 du 5 mars 2007 - art. 43 () JORF 7 mars 2007 en vigueur le 7 mars 2008
+
+	**Cité par**:
+
+	  - Code de procédure pénale - art. R70 (V)
+
+
 #### Chapitre II : Dispositions applicables aux personnes morales
 
-###### Article 798-1
+###### Article 799
 
 Lorsque la personne condamnée est une personne morale, la demande en réhabilitation est formée par son représentant légal. 
 
@@ -51469,18 +51484,8 @@ Le procureur de la République se fait délivrer une expédition des jugements d
 bulletin n° 1 du casier judiciaire de celle-ci. Il transmet ces pièces avec son avis au procureur général. 
 
 Les dispositions de l'article 788, à l'exception de celles des deuxième et quatrième alinéas, et les dispositions des
-articles 793 à 798 sont applicables en cas de demande en réhabilitation d'une personne morale condamnée. Toutefois, le délai
-prévu par l'article 797 est ramené à un an.
-
-**Nota:**
-
-Loi n° 2007-297 du 5 mars 2007 art. 43 III : Les dispositions du présent article entrent en vigueur un an après la date de
-publication de la présente loi. Elles sont alors immédiatement applicables aux condamnations figurant toujours au casier
-judiciaire, quelle que soit la date de commission de l'infraction ; toutefois, le doublement des délais de réhabilitation en
-cas de récidive n'est applicable que pour des faits commis postérieurement à la date de publication de la présente loi.
-
-La présente version de cet article est en vigueur jusqu'au 1er mars 2008.  La présente version de cet article est en vigueur
-jusqu'au 7 mars 2008.
+articles 793 à 798-1 sont applicables en cas de demande en réhabilitation d'une personne morale condamnée. Toutefois, le
+délai prévu par l'article 797 est ramené à un an.
 
 **Liens relatifs à cet article**
 
@@ -51490,28 +51495,17 @@ jusqu'au 7 mars 2008.
 
 	**Créé par**:
 
-	  - Loi n°92-1336 du 16 décembre 1992 - art. 134 () JORF 23 décembre 1992 en vigueur le 1er mars 1994
-
-	**Transféré par**:
-
 	  - Loi n°2007-297 du 5 mars 2007 - art. 43 () JORF 7 mars 2007 en vigueur le 7 mars 2008
-
-	**Modifié par**:
-
-	  - Loi n°2007-297 du 5 mars 2007 - art. 43
 
 	**Cite**:
 
-	  - CODE DE PROCEDURE PENALE - art. 788 (V)
-	  - CODE DE PROCEDURE PENALE - art. 797 (V)
+	  - CODE DE PROCEDURE PENALE - art. 793 (V)
+	  - Code de procédure pénale - art. 788 (V)
+	  - Code de procédure pénale - art. 797 (V)
 
-	**Nouveaux textes**:
+	**Anciens textes**:
 
-	  - CODE DE PROCEDURE PENALE - art. 799 (V)
-
-	**Cité par**:
-
-	  - Code de procédure pénale - art. R70 (V)
+	  - CODE DE PROCEDURE PENALE - art. 798-1 (T)
 
 
 ### Titre X : Des frais de justice
