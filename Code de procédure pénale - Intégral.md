@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 2008-05-17
+Version Consolidée au 2008-05-23
 
 # Partie législative
 
@@ -113174,6 +113174,58 @@ l'exercice de certaines missions de police judiciaire.
 	**Créé par**:
 
 	  - Arrêté 2000-11-02 art. 1 JORF 4 novembre 2000
+
+
+### Titre II : Des enquêtes et des contrôles d'identité
+
+###### Article A36-11
+
+Les supports et formats des enregistrements audiovisuels des interrogatoires des personnes gardées à vue réalisés en
+application des articles 64-1 et D. 15-6 et transmis aux juridictions doivent respecter les normes et recommandations fixées
+par le référentiel général d'interopérabilité (RGI). 
+
+Les supports, notamment CD et DVD, doivent être non réinscriptibles. 
+
+Si le format des enregistrements n'est pas conforme au RGI, un lecteur logiciel, fonctionnant sous le système d'exploitation
+utilisé sur les postes de travail du ministère de la justice au jour de la publication de l'arrêté, doit figurer sur le
+support. 
+
+Les systèmes d'exploitation utilisés peuvent évoluer dès lors qu'ils conservent leur compatibilité entre eux, conformément
+aux instructions données par la direction des affaires criminelles et des grâces, la direction générale de la police
+nationale et la direction générale de la gendarmerie nationale, et qu'ils comportent un horodatage.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Arrêté du 14 avril 2008 - art. 1
+
+	**Cite**:
+
+	  - Code de procédure pénale - art. 64-1
+	  - Code de procédure pénale - art. D15-6
+
+
+### Titre III : Des juridictions d'instruction
+
+###### Article A36-11-1
+
+Les supports et formats des enregistrements audiovisuels des interrogatoires des personnes mises en examen réalisés en
+application des articles 116-1 et D. 32-2 et transmis aux juridictions doivent respecter les normes et recommandations fixées
+par le référentiel général d'interopérabilité (RGI). 
+
+Les supports, notamment CD et DVD, doivent être non réinscriptibles.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Arrêté du 14 avril 2008 - art. 1
+
+	**Cite**:
+
+	  - Code de procédure pénale - art. 116-1
+	  - Code de procédure pénale - art. D32-2
 
 
 ## Livre II : Des juridictions de jugement
