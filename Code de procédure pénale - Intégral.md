@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 2008-06-01
+Version Consolidée au 2008-06-05
 
 # Partie législative
 
@@ -63476,38 +63476,10 @@ Leur contrat comporte une période d'essai de trois mois.
 
 ###### Article R50-1
 
-Tous les trois ans, au cours du dernier trimestre, l'assemblée générale des magistrats du siège du tribunal de grande
-instance désigne les membres titulaires de la commission prévue par l'article 706-4 ainsi que parmi ceux-ci, le magistrat qui
-en assure la présidence. Elle désigne également deux magistrats du siège suppléants ainsi que la personne susceptible de
-suppléer le troisième membre de la commission.
-
-Elle peut décider que la commission comportera plusieurs formations composées comme il est dit à l'alinéa précédent.
-
-En cas d'empêchement ou de cessation de fonctions du président, la présidence de la commission est assurée par l'autre
-magistrat.
-
-En cas d'empêchement ou de cessation de fonctions d'un des membres, la composition de la commission est complétée en faisant
-appel aux suppléants dans les conditions prévues par le présent article. Les fonctions du nouveau membre expirent à la date
-du renouvellement normal de la commission. Il est procédé au remplacement du membre suppléant par l'assemblée générale des
-magistrats du siege.
-
-En cas d'urgence, s'il ne peut être fait immédiatement application des dispositions qui précèdent, le président du tribunal
-pourvoit provisoirement, par ordonnance, au remplacement du membre de la commission. Cette ordonnance ne peut produire effet
-au-delà de la prochaine assemblée générale.
+Les règles relatives à la composition, au siège, au ressort et à la compétence territoriale de la commission d'indemnisation
+des victimes d'infractions prévue par l'article 706-4 sont fixées par le code de l'organisation judiciaire.
 
 **Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°59-318 1959-02-23
-
-	**Créé par**:
-
-	  - Décret n°77-194 1977-03-03 art. 2 JORF 5 mars 1977
-
-	**Modifié par**:
-
-	  - Décret n°83-1156 1983-12-23 art. 2 et art. 14 JORF 27 décembre 1983 en vigueur le 1er janvier 1984
 
 	**Cité par**:
 
@@ -63516,202 +63488,17 @@ au-delà de la prochaine assemblée générale.
 	  - CODE DE PROCEDURE PENALE - art. R280 (Ab)
 	  - CODE DE PROCEDURE PENALE - art. R374 (Ab)
 
-
-###### Article R50-1-1
-
-Les personnes, autres que les magistrats en activité, qui souhaitent faire acte de candidature en qualité d'assesseurs à la
-commission d'indemnisation du tribunal de grande instance de leur lieu de résidence en font la demande auprès du président de
-ce tribunal avant le 30 avril de l'année au cours de laquelle doit être renouvelée la commission.
-
-Le président du tribunal procède ou fait procéder à toutes diligences utiles pour l'instruction de la demande. L'assemblée
-générale statue sur son rapport.
-
-Avant de prendre leurs fonctions, les assesseurs désignés, titulaires et suppléants, prêtent serment devant le tribunal de
-bien et fidèlement remplir leur mission et de garder le secret des délibérations. Une indemnité horaire est allouée aux
-assesseurs qui siègent à la commission ; le montant et les modalités de versement de cette indemnité sont fixés par arrêté
-conjoint du garde des sceaux, ministre de la justice, et du ministre chargé du budget.
-
-Lorsqu'ils se sont abstenus, sans motif légitime, de déférer à trois convocations successives, les assesseurs peuvent être
-déclarés démissionnaires. En cas de fautre grave entachant l'honneur ou la probité, ils sont déchus de leurs fonctions.
-
-Les décisions prévues par l'alinéa précédent sont prises, à la demande du président de la commission ou du procureur de la
-République, par l'assemblée générale des magistrats du siège du tribunal ; en cas d'urgence, le président du tribunal peut,
-par ordonnance, prononcer une suspension provisoire. Cette ordonnance ne peut produire effet au-delà de la prochaine
-assemblée générale.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°59-318 1959-02-23
-
-	**Créé par**:
-
-	  - Décret n°83-1186 1983-12-23 art. 3 et art. 14 JORF 27 décembre 1983 en vigueur le 1er janvier 1984
-
-	**Cité par**:
-
-	  - Décret n°94-183 du 1 mars 1994 - art. 3 (Ab)
-	  - CODE DE PROCEDURE PENALE - art. R280 (Ab)
-
-	**Abrogé par**:
-
-	  - Décret n°2008-522 du 2 juin 2008 - art. 5
-
-	**Nouveaux textes**:
-
-	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R214-3 (V)
-
-
-###### Article R50-2
-
-Le secrétariat de la commission est assuré par le greffier en chef ou par un secrétaire-greffier du tribunal de grande
-instance.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°59-318 1959-02-23
-
-	**Créé par**:
-
-	  - Décret n°77-194 1977-03-03 art. 2 JORF 5 mars 1977
-
 	**Modifié par**:
 
-	  - Décret n°83-1156 1983-12-23 art. 4 et art. 14 JORF 27 décembre 1983 en vigueur le 1er janvier 1984
-
-	**Cité par**:
-
-	  - Décret n°94-183 du 1 mars 1994 - art. 3 (Ab)
-	  - CODE DE PROCEDURE PENALE - art. R281 (Ab)
-
-	**Abrogé par**:
-
 	  - Décret n°2008-522 du 2 juin 2008 - art. 5
 
 	**Nouveaux textes**:
 
-	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R214-4 (V)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R214-2 (V)
 
+	**Cite**:
 
-###### Article R50-3
-
-Le siège et le ressort de la commission sont les mêmes que ceux du tribunal de grande instance.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°59-318 1959-02-23
-
-	**Créé par**:
-
-	  - Décret n°77-194 1977-03-03 art. 2 JORF 5 mars 1977
-
-	**Modifié par**:
-
-	  - Décret n°83-1156 1983-12-23 art. 4 et art. 14 JORF 27 décembre 1983 en vigueur le 1er janvier 1984
-
-	**Cité par**:
-
-	  - Décret n°94-183 du 1 mars 1994 - art. 3 (Ab)
-
-	**Abrogé par**:
-
-	  - Décret n°2008-522 du 2 juin 2008 - art. 5
-
-	**Nouveaux textes**:
-
-	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. D214-5 (V)
-
-
-###### Article R50-4
-
-La commission territorialement compétente est :
-
-Soit celle dans le ressort de laquelle demeure le demandeur ;
-
-Soit, si une juridiction pénale a été saisie en France métropolitaine ou dans les départements d'outre-mer, celle dans le
-ressort de laquelle cette juridiction a son siège.
-
-Le demandeur peut, à son choix, présenter sa requête devant l'une ou l'autre de ces deux commissions.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°59-318 1959-02-23
-
-	**Créé par**:
-
-	  - Décret n°77-194 1977-03-03 art. 2 JORF 5 mars 1977
-
-	**Abrogé par**:
-
-	  - Décret n°2008-522 du 2 juin 2008 - art. 5
-
-	**Nouveaux textes**:
-
-	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R214-6 (V)
-
-
-###### Article R50-5
-
-Si le demandeur ne demeure pas en France métropolitaine ou dans les départements d'outre-mer et si aucune juridiction pénale
-n'a été saisie dans ces départements ou en métropole, la commission compétente est celle du tribunal de grande instance.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°59-318 1959-02-23
-
-	**Créé par**:
-
-	  - Décret n°77-194 1977-03-03 art. 2 JORF 5 mars 1977
-
-	**Modifié par**:
-
-	  - Décret n°83-1156 1983-12-23 art. 4 et art. 14 JORF 27 décembre 1983 en vigueur le 1er janvier 1984
-
-	**Cité par**:
-
-	  - Décret n°94-183 du 1 mars 1994 - art. 4 (Ab)
-	  - CODE DE PROCEDURE PENALE - art. R283 (Ab)
-
-	**Abrogé par**:
-
-	  - Décret n°2008-522 du 2 juin 2008 - art. 5
-
-	**Nouveaux textes**:
-
-	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R214-6 (V)
-
-
-###### Article R50-6
-
-En cas de pluralité de demandeurs victimes d'une même infraction, la commission saisie par l'un d'entre eux peut être
-également saisie par les autres.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°59-318 1959-02-23
-
-	**Créé par**:
-
-	  - Décret n°77-194 1977-03-03 art. 2 JORF 5 mars 1977
-
-	**Abrogé par**:
-
-	  - Décret n°2008-522 du 2 juin 2008 - art. 5
-
-	**Nouveaux textes**:
-
-	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R214-6 (V)
+	  - CODE DE PROCEDURE PENALE - art. 706-4 (V)
 
 
 ###### Article R50-7
@@ -76541,107 +76328,6 @@ est remplacée par la référence " à l'article 850-1 ".
 
 #### Chapitre IV : De quelques procédures particulières
 
-###### Article R280
-
-La première phrase des articles R. 50-1 et R. 50-1-1 commence par la phrase :
-
-En Nouvelle-Calédonie et en Polynésie française,.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°59-318 1959-02-23
-
-	**Créé par**:
-
-	  - Décret n°2005-404 du 27 avril 2005 - art. 8 () JORF 30 avril 2005
-
-	**Abrogé par**:
-
-	  - Décret n°2008-522 du 2 juin 2008 - art. 5
-
-	**Cite**:
-
-	  - Code de procédure pénale - art. R50-1
-	  - Code de procédure pénale - art. R50-1-1
-
-
-###### Article R281
-
-A l'article R. 50-2, les mots : "secrétaire-greffier" sont remplacés par le mot : "greffier".
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°59-318 1959-02-23
-
-	**Créé par**:
-
-	  - Décret n°2005-404 du 27 avril 2005 - art. 8 () JORF 30 avril 2005
-
-	**Abrogé par**:
-
-	  - Décret n°2008-522 du 2 juin 2008 - art. 5
-
-	**Cite**:
-
-	  - Code de procédure pénale - art. R50-2
-
-
-###### Article R282
-
-A l'article R. 50-4, après les mots : "ou dans les départements d'outre-mer,", sont ajoutés les mots : "ou en Nouvelle-
-Calédonie, ou en Polynésie française,".
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°59-318 1959-02-23
-
-	**Créé par**:
-
-	  - Décret n°2005-404 du 27 avril 2005 - art. 8 () JORF 30 avril 2005
-
-	**Abrogé par**:
-
-	  - Décret n°2008-522 du 2 juin 2008 - art. 5
-
-	**Cite**:
-
-	  - Code de procédure pénale
-
-
-###### Article R283
-
-L'article R. 50-5 est rédigé comme suit :
-
-Art. R. 50-5. - Si le demandeur ne demeure pas en France métropolitaine ni dans les départements d'outre-mer, ni dans les
-collectivités d'outre-mer, ni en Nouvelle-Calédonie et si aucune juridiction pénale n'a été saisi en métropole, ni dans les
-départements d'outre-mer, ni dans les collectivités d'outre-mer, ni en Nouvelle-Calédonie, la commission compétente est celle
-du tribunal de grande instance de Paris.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°59-318 1959-02-23
-
-	**Créé par**:
-
-	  - Décret n°2005-404 du 27 avril 2005 - art. 8 () JORF 30 avril 2005
-
-	**Abrogé par**:
-
-	  - Décret n°2008-522 du 2 juin 2008 - art. 5
-
-	**Cite**:
-
-	  - Code de procédure pénale - art. R50-5
-
-
 ###### Article R284
 
 Aux articles R. 50-17, R. 50-20, R. 50-22 et R. 51, les convocations, informations et décisions sont faites, en ce qui
@@ -78752,31 +78438,6 @@ ou amis, le bulletin n° 2 du casier judiciaire de celui-ci est versé au dossie
 
 
 #### Chapitre IV : De quelques procédures particulières
-
-###### Article R374
-
-Pour l'application du premier alinéa de l'article R. 50-1, les membres suppléants des deux magistrats du siège sont choisis
-parmi les assesseurs désignés en application de l'article L. 943-7 du code de l'organisation judiciaire.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°59-318 1959-02-23
-
-	**Créé par**:
-
-	  - Décret n°2005-404 du 27 avril 2005 - art. 15 () JORF 30 avril 2005
-
-	**Abrogé par**:
-
-	  - Décret n°2008-522 du 2 juin 2008 - art. 5
-
-	**Cite**:
-
-	  - Code de procédure pénale - art. R50-1
-	  - Code de l'organisation judiciaire - art. L943-7
-
 
 ###### Article R375
 
@@ -86504,35 +86165,121 @@ Basse-Terre, Fort-de-France
 	  - CODE DE PROCEDURE PENALE - art. D47-8 (T)
 
 
-### Titre XXVII : De la poursuite, de l'instruction et du jugement des infractions commises par des majeurs protégés
+### Titre XXVI : De la procédure applicable en cas de pollution des eaux maritimes par rejets des navires
 
 ###### Article D47-14
 
-Les dispositions des articles 706-113 à 706-117 et des articles du présent titre ne sont applicables aux procédures pénales
-mentionnées par ces articles que lorsque les éléments recueillis au cours de ces procédures font apparaître que la personne
-fait l'objet d'une mesure de protection juridique dans les conditions prévues au titre XI du livre Ier du code civil.
+En application des dispositions de l'article 706-107 du code de procédure pénale, les tribunaux de grande instance et le
+tribunal de première instance désignés dans le tableau figurant ci-dessous sont compétents pour connaître, dans les
+circonscriptions définies à ce tableau, des infractions mentionnées à cet article. 
 
-Si les éléments de la procédure font apparaître un doute sur l'existence d'une mesure de protection juridique, le procureur
-de la République, le juge d'instruction ou la juridiction de jugement procède ou fait procéder aux vérifications nécessaires.
+<table>
+  <tbody>
+    <tr>
+      <th>
 
-Si l'existence de cette mesure n'est connue du juge d'instruction ou de la juridiction de jugement qu'après la mise en
-mouvement de l'action publique, ces dispositions ne sont applicables qu'à compter de cette date. Il en est de même si la
-mesure de protection juridique est ordonnée en cours de procédure pénale.
+TRIBUNAUX 
+
+de grande instance ou tribunal de première instance compétents 
+
+</th>
+      <th>
+
+COMPÉTENCE TERRITORIALE 
+
+s'étendant aux ressorts des cours d'appel 
+
+ou du tribunal supérieur d'appel de : 
+
+</th>
+    </tr>
+    <tr>
+      <td align="center">
+
+Brest 
+
+</td>
+      <td align="center">
+
+Rennes, Poitiers, Bordeaux, Pau. 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+Le Havre 
+
+</td>
+      <td align="center">
+
+Douai, Amiens, Rouen, Caen. 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+Marseille 
+
+</td>
+      <td align="center">
+
+Aix-en-Provence, Nîmes, Montpellier, Bastia. 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+Fort-de-France 
+
+</td>
+      <td align="center">
+
+Fort-de-France, Basse-Terre. 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+Saint-Denis-de-la-Réunion 
+
+</td>
+      <td align="center">
+
+Saint-Denis-de-la-Réunion. 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+Saint-Pierre-et-Miquelon 
+
+</td>
+      <td align="center">
+
+Saint-Pierre-et-Miquelon.
+
+</td>
+    </tr>
+  </tbody>
+</table>
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°59-322 1959-02-23
-
-	**Créé par**:
-
-	  - Décret n°2007-1658 du 23 novembre 2007 - art. 1 () JORF 25 novembre 2007
+	  - Décret n°2008-522 du 2 juin 2008 - art. 5
 
 	**Cite**:
 
-	  - Code de procédure pénale 706-113 à 706-117
+	  - CODE DE PROCEDURE PENALE - art. 706-107 (VT)
 
+
+### Titre XXVII : De la poursuite, de l'instruction et du jugement des infractions commises par des majeurs protégés
 
 ###### Article D47-15
 
@@ -88161,6 +87908,23 @@ et exercer des attributions communes avec celles relevant de la compétence de c
 	**Cite**:
 
 	  - Code de procédure pénale - art. D48-1 (V)
+
+
+###### Article D49-1-1
+
+Lorsqu'il existe plusieurs juges de l'application des peines dans un tribunal de grande instance, le président désigne, après
+avis de l'assemblée générale des magistrats du siège, le juge de l'application des peines qui exerce les attributions
+mentionnées aux articles D. 572 à D. 587.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2008-522 du 2 juin 2008 - art. 5
+
+	**Cite**:
+
+	  - Code de procédure pénale - art. D572
 
 
 ##### Paragraphe 2 : Du tribunal de l'application des peines.
