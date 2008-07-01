@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 2008-07-01
+Version Consolidée au 2008-07-02
 
 # Partie législative
 
@@ -17328,18 +17328,14 @@ Si l'accusé est en fuite ou ne se présente pas, il peut être jugé par défau
 du présent titre.
 
 Lorsque l'accusé est en fuite, la date de l'audience au cours de laquelle il doit être jugé par défaut doit toutefois lui
-être signifiée à son dernier domicile connu ou à la mairie de ce domicile ou, à défaut, au parquet du procureur de la
+être signifiée à son dernier domicile connu ou à étude d'huissier de justice ou, à défaut, au parquet du procureur de la
 République du tribunal de grande instance où siège la cour d'assises, au moins dix jours avant le début de l'audience.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Ordonnance 58-1296 1958-12-23
-
 	**Modifié par**:
 
-	  - Loi n°2004-204 du 9 mars 2004 - art. 149 () JORF 10 mars 2004 en vigueur le 1er octobre 2004
+	  - Loi n°2008-644 du 1er juillet 2008 - art. 6
 
 	**Cité par**:
 
@@ -21280,20 +21276,26 @@ préalable.
 
 ###### Article 390
 
-La citation est délivrée dans des délais et formes prévus par les articles 550 et suivants.
+La citation est délivrée dans des délais et formes prévus par les articles 550 et suivants. 
 
 La citation informe le prévenu qu'il doit comparaître à l'audience en possession des justificatifs de ses revenus ainsi que
-de ses avis d'imposition ou de non-imposition, ou les communiquer à l'avocat qui le représente.
+de ses avis d'imposition ou de non-imposition, ou les communiquer à l'avocat qui le représente. 
+
+La citation informe également le prévenu que le droit fixe de procédure dû en application du 3° de l'article 1018 A du code
+général des impôts peut être majoré s'il ne comparaît pas personnellement à l'audience ou s'il n'est pas jugé dans les
+conditions prévues par les premier et deuxième alinéas de l'article 411 du présent code.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Ordonnance 58-1296 1958-12-23
-
 	**Modifié par**:
 
-	  - Loi n°2004-204 du 9 mars 2004 - art. 197 () JORF 10 mars 2004 en vigueur le 1er octobre 2004
+	  - Loi n°2008-644 du 1er juillet 2008 - art. 4
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 1018 A
+	  - Code de procédure pénale - art. 411
+	  - Code de procédure pénale - art. 550
 
 	**Cité par**:
 
@@ -21307,12 +21309,14 @@ de ses avis d'imposition ou de non-imposition, ou les communiquer à l'avocat qu
 
 Vaut citation à personne la convocation en justice notifiée au prévenu, sur instructions du procureur de la République et
 dans les délais prévus par l'article 552, soit par un greffier ou un officier ou agent de police judiciaire, soit, si le
-prévenu est détenu, par le chef de l'établissement pénitentiaire.
+prévenu est détenu, par le chef de l'établissement pénitentiaire. 
 
 La convocation énonce le fait poursuivi, vise le texte de loi qui le réprime et indique le tribunal saisi, le lieu, la date
 et l'heure de l'audience. Elle précise, en outre, que le prévenu peut se faire assister d'un avocat. Elle l'informe qu'il
 doit comparaître à l'audience en possession des justificatifs de ses revenus ainsi que de ses avis d'imposition ou de non-
-imposition.
+imposition. Elle l'informe également que le droit fixe de procédure dû en application du 3° de l'article 1018 A du code
+général des impôts peut être majoré s'il ne comparaît pas personnellement à l'audience ou s'il n'est pas jugé dans les
+conditions prévues par les premier et deuxième alinéas de l'article 411 du présent code. 
 
 Elle est constatée par un procès-verbal signé par le prévenu qui en reçoit copie.
 
@@ -21331,13 +21335,13 @@ Elle est constatée par un procès-verbal signé par le prévenu qui en reçoit 
 	  - Code de procédure pénale - art. 77-2 (V)
 	  - Code de procédure pénale - art. D594-9 (V)
 
-	**Codifié par**:
-
-	  - Ordonnance 58-1296 1958-12-23
-
 	**Modifié par**:
 
-	  - Loi n°2004-204 du 9 mars 2004 - art. 197 () JORF 10 mars 2004 en vigueur le 1er octobre 2004
+	  - Loi n°2008-644 du 1er juillet 2008 - art. 4
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. 552 (V)
 
 
 ###### Article 391
@@ -24390,6 +24394,33 @@ convoqué devant le service pénitentiaire d'insertion et de probation.
 	  - Code de procédure pénale - art. D48-2 (VD)
 
 
+###### Article 474-1
+
+En cas de condamnation à des dommages et intérêts, lorsque les articles 706-15-1 et 706-15-2 sont applicables, la personne
+condamnée présente à l'issue de l'audience est informée qu'en l'absence de paiement volontaire dans un délai de deux mois à
+compter du jour où la décision sera devenue définitive, le recouvrement pourra, si la victime le demande, être exercé par le
+fonds de garantie des victimes des actes de terrorisme et d'autres infractions et qu'une majoration des dommages et intérêts,
+permettant de couvrir les dépenses engagées par le fonds au titre de sa mission d'aide, sera perçue par le fonds, en sus des
+frais d'exécution éventuels, dans les conditions déterminées à l'article L. 422-9 du code des assurances.
+
+**Nota:**
+
+Loi n° 2008-644 du 1er juillet 2008 article 14 : Les articles 1er et 2 sont applicables à toutes les décisions
+juridictionnelles rendues à compter du premier jour du troisième mois suivant la date de publication de la présente loi (1er
+octobre 2008).
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2008-644 du 1er juillet 2008 - art. 1
+
+	**Cite**:
+
+	  - Code de procédure pénale - art. 706-15-1
+	  - Code des assurances - art. L422-9 (V)
+
+
 ###### Article 475-1
 
 Le tribunal condamne l'auteur de l'infraction à payer à la partie civile la somme qu'il détermine, au titre des frais non
@@ -24807,21 +24838,17 @@ hors de ce territoire.
 ###### Article 492
 
 Si la signification du jugement n'a pas été faite à la personne du prévenu, l'opposition doit être formée dans les délais ci-
-après, qui courent à compter de la signification du jugement faite à domicile, à mairie ou à parquet [*point de départ*] :
-dix jours si le prévenu réside dans la France métropolitaine, un mois s'il réside hors de ce territoire.
+après, qui courent à compter de la signification du jugement faite à domicile, à étude d'huissier de justice ou à parquet :
+dix jours si le prévenu réside dans la France métropolitaine, un mois s'il réside hors de ce territoire. 
 
 Toutefois, s'il s'agit d'un jugement de condamnation et s'il ne résulte pas, soit de l'avis constatant remise de la lettre
 recommandée ou du récépissé prévus aux articles 557 et 558, soit d'un acte d'exécution quelconque, ou de l'avis donné
 conformément à l'article 560, que le prévenu a eu connaissance de la signification, l'opposition tant en ce qui concerne les
-intérêts civils que la condamnation pénale reste recevable jusqu'à l'expiration des délais de prescription de la peine.
+intérêts civils que la condamnation pénale reste recevable jusqu'à l'expiration des délais de prescription de la peine. 
 
 Dans les cas visés à l'alinéa précédent, le délai d'opposition court à compter du jour où le prévenu a eu cette connaissance.
 
 **Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance 58-1296 1958-12-23
 
 	**Cité par**:
 
@@ -24834,7 +24861,12 @@ Dans les cas visés à l'alinéa précédent, le délai d'opposition court à co
 
 	**Modifié par**:
 
-	  - Loi n°2004-204 du 9 mars 2004 - art. 133 () JORF 10 mars 2004 en vigueur le 1er octobre 2004
+	  - Loi n°2008-644 du 1er juillet 2008 - art. 6
+
+	**Cite**:
+
+	  - Code de procédure pénale - art. 557
+	  - Code de procédure pénale - art. 560
 
 
 ###### Article 493
@@ -25596,31 +25628,33 @@ Il en est de même dans les cas prévus par les articles 410 et 494-1, sous rés
 
 Pour un jugement de condamnation à une peine d'emprisonnement ferme ou à une peine d'emprisonnement assortie d'un sursis
 partiel, rendu dans les conditions prévues à l'article 410 et qui n'a pas été signifié à personne, le délai d'appel ne court
-à compter de la signification du jugement faite à domicile, à mairie ou à parquet que sous réserve des dispositions du
-deuxième alinéa. Le jugement est exécutoire à l'expiration de ce délai.
+à compter de la signification du jugement faite à domicile, à étude d'huissier de justice ou à parquet que sous réserve des
+dispositions du deuxième alinéa. Le jugement est exécutoire à l'expiration de ce délai.
 
 S'il ne résulte pas soit de l'avis constatant la remise de la lettre recommandée ou du récépissé prévus aux articles 557 et
 558, soit d'un acte d'exécution quelconque ou de l'avis donné conformément à l'article 560, que le prévenu a eu connaissance
 de la signification, l'appel, tant en ce qui concerne les intérêts civils que la condamnation pénale, reste recevable jusqu'à
 l'expiration des délais de prescription de la peine, le délai d'appel courant à compter de la date à laquelle le prévenu a eu
-connaissance de la condamnation.
+connaissance de la condamnation. 
 
 Si la personne a été écrouée en exécution de la condamnation après l'expiration du délai de dix jours prévu par le premier
 alinéa et qu'elle forme appel conformément aux dispositions du deuxième alinéa, elle demeure toutefois détenue, sous le
 régime de la détention provisoire et sans préjudice de son droit de former des demandes de mise en liberté, jusqu'à
-l'audience devant la cour d'appel.
+l'audience devant la cour d'appel. 
 
 Les dispositions du présent article sont également applicables en cas d'itératif défaut.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Ordonnance 58-1296 1958-12-23
-
 	**Modifié par**:
 
-	  - Loi n°2005-1549 du 12 décembre 2005 - art. 39 () JORF 13 décembre 2005
+	  - Loi n°2008-644 du 1er juillet 2008 - art. 6
+
+	**Cite**:
+
+	  - Code de procédure pénale - art. 410
+	  - Code de procédure pénale - art. 557
+	  - Code de procédure pénale - art. 560
 
 	**Cité par**:
 
@@ -27533,6 +27567,30 @@ sont assermentés et perçoivent le montant des amendes forfaitaires et celui de
 	  - Loi n°89-469 du 10 juillet 1989 - art. 2 () JORF 11 juillet 1989 en vigueur le 1er janvier 1990
 
 
+###### Article 530-4
+
+Lorsque la personne qui a fait l'objet d'une amende forfaitaire majorée ne conteste pas la réalité de la contravention mais
+sollicite, en raison de ses difficultés financières, des délais de paiement ou une remise gracieuse, elle adresse sa demande
+motivée non pas à l'officier du ministère public, mais au comptable du Trésor public. 
+
+Dans ce cas, l'article 529-10 n'est pas applicable.
+
+S'il estime la demande justifiée, le comptable du Trésor public peut alors octroyer des délais ou rendre une décision de
+remise gracieuse partielle ou totale, le cas échéant en appliquant une diminution de 20 % des sommes dues, conformément à
+l'article 707-4.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2008-644 du 1er juillet 2008 - art. 8
+
+	**Cite**:
+
+	  - Code de procédure pénale - art. 529-10
+	  - Code de procédure pénale - art. 707-4
+
+
 #### Chapitre III : De la saisine du tribunal de police et de la juridiction de proximité
 
 ###### Article 531
@@ -28094,28 +28152,24 @@ La citation énonce le fait poursuivi et vise le texte de la loi qui le réprime
 Elle indique le tribunal saisi, le lieu, l'heure et la date de l'audience, et précise la qualité de prévenu, de civilement
 responsable, ou de témoin de la personne citée.
 
-Si elle est délivrée à la requête de la partie civile, elle mentionne les nom, prénoms, profession et domicile réel ou élu de
-celle-ci.
+Si elle est délivrée à la requête de la partie civile, elle mentionne, s'il s'agit d'une personne physique, ses nom, prénoms,
+profession et domicile réel ou élu et, s'il s'agit d'une personne morale, sa forme, sa dénomination, son siège social et
+l'organe qui la représente légalement. 
 
 La citation délivrée à un témoin doit en outre mentionner que la non-comparution, le refus de témoigner et le faux témoignage
 sont punis par la loi.
 
 **Liens relatifs à cet article**
 
-	**Liens**:
-
-	  - SPEC_APPLI: Ordonnance 58-1273 1958-12-22 art. 18
-	  - SPEC_APPLI: Ordonnance n°58-1296 du 23 décembre 1958 - art. 10, v. init.
-
-	**Codifié par**:
-
-	  - Ordonnance 58-1296 1958-12-23
-
 	**Cité par**:
 
 	  - Loi n°83-520 du 27 juin 1983 - art. 73 (V)
 	  - Loi n°2016-819 du 21 juin 2016 - art. 2
 	  - Code monétaire et financier - art. L465-3-6 (V)
+
+	**Modifié par**:
+
+	  - Loi n°2008-644 du 1er juillet 2008 - art. 7
 
 
 ###### Article 552
@@ -28129,7 +28183,8 @@ département d'outre-mer, dans un territoire d'outre-mer, à Saint-Pierre-et-Miq
 ou si, cité devant un tribunal d'un département de la France métropolitaine, elle réside dans un département ou territoire
 d'outre-mer, à Saint-Pierre-et-Miquelon ou Mayotte.
 
-Si la partie citée réside à l'étranger, ce délai est augmenté de deux mois.
+Si la partie citée réside à l'étranger, ce délai est augmenté d'un mois si elle demeure dans un Etat membre de l'Union
+européenne et de deux mois dans les autres cas.
 
 **Liens relatifs à cet article**
 
@@ -28145,13 +28200,9 @@ Si la partie citée réside à l'étranger, ce délai est augmenté de deux mois
 	  - Code de procédure pénale - art. 854 (V)
 	  - Code de procédure pénale - art. 897 (V)
 
-	**Codifié par**:
-
-	  - Ordonnance 58-1296 1958-12-23
-
 	**Modifié par**:
 
-	  - Loi n°93-2 du 4 janvier 1993 - art. 146 () JORF 5 janvier 1993
+	  - Loi n°2008-644 du 1er juillet 2008 - art. 7
 
 
 ###### Article 553
@@ -28236,6 +28287,24 @@ lettre simple de la signification effectuée, du nom du requérant ainsi que de 
 	  - Code monétaire et financier - art. R621-40 (V)
 
 
+###### Article 555-1
+
+Vaut signification à personne par exploit d'huissier la notification d'une décision effectuée soit, si la personne est
+détenue, par le chef de l'établissement pénitentiaire, soit, si la personne se trouve dans les locaux d'une juridiction
+pénale, par un greffier ou par un magistrat.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2008-644 du 1er juillet 2008 - art. 7
+
+	**Cité par**:
+
+	  - Décret n°2008-1490 du 30 décembre 2008 (V)
+	  - CODE DE PROCEDURE PENALE - art. D46-2 (V)
+
+
 ###### Article 556
 
 Si la personne visée par l'exploit est absente de son domicile, la copie est remise à un parent allié, serviteur ou à une
@@ -28292,41 +28361,39 @@ Le domicile de la personne morale s'entend du lieu de son siège.
 ###### Article 558
 
 Si l'huissier ne trouve personne au domicile de celui que l'exploit concerne, il vérifie immédiatement l'exactitude de ce
-domicile.
+domicile. 
 
 Lorsque le domicile indiqué est bien celui de l'intéressé, l'huissier mentionne dans l'exploit ses diligences et
-constatations, puis il remet une copie de cet exploit à la mairie, au maire ou, à défaut, à un adjoint ou à un conseiller
-municipal délégué, ou au secrétaire de mairie.
-
-Il informe sans délai de cette remise l'intéressé, par lettre recommandée avec avis de réception, en lui faisant connaître
-qu'il doit retirer immédiatement la copie de l'exploit signifié à la mairie indiquée. Si l'exploit est une signification de
-jugement rendu par itératif défaut, la lettre recommandée mentionne la nature de l'acte signifié et le délai d'appel.
+constatations, puis il informe sans délai l'intéressé, par lettre recommandée avec demande d'avis de réception, en lui
+faisant connaître qu'il doit retirer dans les plus brefs délais la copie de l'exploit signifié à l'étude de l'huissier de
+justice, contre récépissé ou émargement, par l'intéressé ou par toute personne spécialement mandatée. Si l'exploit est une
+signification de jugement rendu par itératif défaut, la lettre recommandée mentionne la nature de l'acte signifié et le délai
+d'appel. 
 
 Lorsqu'il résulte de l'avis de réception, signé par l'intéressé, que celui-ci a reçu la lettre recommandée de l'huissier,
-l'exploit remis à la mairie produit les mêmes effets que s'il avait été délivré à personne.
+l'exploit déposé à l'étude de l'huissier de justice produit les mêmes effets que s'il avait été délivré à personne.
 
-L'huissier peut également envoyer à l'intéressé par lettre simple une copie de l'acte accompagnée d'un récépissé que le
-destinataire est invité à réexpédier par voie postale ou à déposer à l'étude de l'huissier, revêtu de sa signature. Lorsque
-ce récépissé a été renvoyé, l'exploit remis à la mairie produit les mêmes effets que s'il avait été remis à personne.
+L'huissier peut également envoyer à l'intéressé par lettre simple une copie de l'acte ou laisser à son domicile un avis de
+passage invitant l'intéressé à se présenter à son étude afin de retirer la copie de l'exploit contre récépissé ou émargement.
+La copie et l'avis de passage sont accompagnés d'un récépissé que le destinataire est invité à réexpédier par voie postale ou
+à déposer à l'étude de l'huissier, revêtu de sa signature. Lorsque l'huissier laisse un avis de passage, il adresse également
+une lettre simple à la personne. 
 
-Si l'exploit est une citation à comparaître, il ne pourra produire les effets visés à l'alinéa précédent que si le délai
-entre le jour où l'avis de réception est signé par l'intéressé et le jour indiqué pour la comparution devant le tribunal
+Lorsque ce récépissé a été renvoyé, l'exploit déposé à l'étude de l'huissier de justice produit les mêmes effets que s'il
+avait été remis à personne. 
+
+Si l'exploit est une citation à comparaître, il ne pourra produire les effets visés aux troisième et cinquième alinéas que si
+le délai entre, d'une part, le jour où l'avis de réception est signé par l'intéressé, le jour où le récépissé a été renvoyé
+ou le jour où la personne s'est présentée à l'étude et, d'autre part, le jour indiqué pour la comparution devant le tribunal
 correctionnel ou de police est au moins égal à celui fixé, compte tenu de l'éloignement du domicile de l'intéressé, par
 l'article 552.
 
+**Nota:**
+
+Loi n° 2008-644 du 1er juillet 2008 article 14 : Les significations en mairie effectuées conformément à l'article 558 du code
+de procédure pénale dans sa rédaction antérieure à la présente loi demeurent valables jusqu'au 31 décembre 2008.
+
 **Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance 58-1296 1958-12-23
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°72-1226 1972-12-29 art. 66
-
-	**Modifié par**:
-
-	  - Loi n°95-125 du 8 février 1995 - art. 43 () JORF 9 février 1995
 
 	**Cité par**:
 
@@ -28337,6 +28404,14 @@ l'article 552.
 	  - CODE DE PROCEDURE PENALE - art. 561 (V)
 	  - CODE DE PROCEDURE PENALE - art. D46-4 (V)
 	  - CODE DE PROCEDURE PENALE - art. R181 (M)
+
+	**Modifié par**:
+
+	  - Loi n°2008-644 du 1er juillet 2008 - art. 6
+
+	**Cite**:
+
+	  - Code de procédure pénale - art. 552
 
 
 ###### Article 559
@@ -28356,6 +28431,34 @@ inconnu.
 	**Modifié par**:
 
 	  - Loi n°92-1336 du 16 décembre 1992 - art. 54 () JORF 23 décembre 1992 en vigueur le 1er mars 1994
+
+
+###### Article 559-1
+
+Si l'exploit est une signification de décision, l'huissier doit avoir accompli les diligences prévues par les articles 555 à
+559 dans un délai maximal de quarante-cinq jours à compter de la requête du ministère public ou de la partie civile. A
+l'expiration de ce délai, l'huissier doit informer le ministère public qu'il n'a pu accomplir la signification. Le ministère
+public peut alors faire procéder à la signification selon les modalités prévues par l'article 560.
+
+Le procureur de la République peut dans sa requête porter jusqu'à trois mois le délai prévu par le premier alinéa.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2008-644 du 1er juillet 2008 - art. 5
+
+	**Cité par**:
+
+	  - Décret n°2008-1490 du 30 décembre 2008 (V)
+	  - CODE DE PROCEDURE PENALE - art. D46-5 (V)
+	  - CODE DE PROCEDURE PENALE - art. D46-6 (V)
+	  - Code de procédure pénale - art. D46-7 (T)
+
+	**Cite**:
+
+	  - Code de procédure pénale - art. 555
+	  - Code de procédure pénale - art. 560
 
 
 ###### Article 560
@@ -38150,21 +38253,30 @@ juridiction qui a statué définitivement sur l'action publique ou sur l'action 
 répressive ; lorsque l'auteur d'une infraction mentionnée aux articles 706-3 et 706-14 est condamnée à verser des dommages-
 intérêts, le délai d'un an court à compter de l'avis donné par la juridiction en application de l'article 706-15. Toutefois,
 la commission relève le requérant de la forclusion lorsqu'il n'a pas été en mesure de faire valoir ses droits dans les délais
-requis ou lorsqu'il a subi une aggravation de son préjudice ou pour tout autre motif légitime.
+requis ou lorsqu'il a subi une aggravation de son préjudice ou pour tout autre motif légitime. 
+
+Lorsqu'une décision d'une juridiction répressive a alloué des dommages et intérêts à la victime et que la demande est jugée
+irrecevable, le délai prévu au deuxième alinéa de l'article 706-15-2 ne court qu'à compter de la notification de la décision
+de la commission.
+
+**Nota:**
+
+Loi n° 2008-644 du 1er juillet 2008 article 14 : Les articles 1er et 2 sont applicables à toutes les décisions
+juridictionnelles rendues à compter du premier jour du troisième mois suivant la date de publication de la présente loi (1er
+octobre 2008).
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Ordonnance 58-1296 1958-12-23
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°83-608 du 8 juillet 1983 - art. 23, v. init.
-
 	**Modifié par**:
 
-	  - Loi n°2000-516 du 15 juin 2000 - art. 117 () JORF 16 juin 2000 en vigueur le 1er janvier 2001
+	  - Loi n°2008-644 du 1er juillet 2008 - art. 1
+
+	**Cite**:
+
+	  - Code de procédure pénale - art. 706-14
+	  - Code de procédure pénale - art. 706-15
+	  - Code de procédure pénale - art. 706-15-2
+	  - Code de procédure pénale - art. 706-3
 
 	**Cité par**:
 
@@ -38186,17 +38298,23 @@ président de la commission d'indemnisation aux fins d'homologation.
 En cas de refus motivé du fonds de garantie, ou de désaccord de la victime sur l'offre qui lui est faite, l'instruction de
 l'affaire par le président de la commission ou le magistrat assesseur se poursuit.
 
+Lorsque le préjudice n'est pas en état d'être liquidé et que le fonds de garantie ne conteste pas le droit à indemnisation,
+il peut, en tout état de la procédure, verser une provision à la victime. Le fonds de garantie tient le président de la
+commission d'indemnisation immédiatement informé. 
+
 Les modalités d'application du présent article sont fixées par décret en Conseil d'Etat.
+
+**Nota:**
+
+Loi n° 2008-644 du 1er juillet 2008 article 14 : Les articles 1er et 2 sont applicables à toutes les décisions
+juridictionnelles rendues à compter du premier jour du troisième mois suivant la date de publication de la présente loi (1er
+octobre 2008).
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Ordonnance 58-1296 1958-12-23
-
-	**Créé par**:
-
-	  - Loi n°2004-204 du 9 mars 2004 - art. 170 () JORF 10 mars 2004 en vigueur le 1er janvier 2005
+	  - Loi n°2008-644 du 1er juillet 2008 - art. 1
 
 	**Cité par**:
 
@@ -38388,35 +38506,35 @@ total ou partiel de l'indemnité ou de la provision.
 
 Le fonds est subrogé dans les droits de la victime pour obtenir des personnes responsables du dommage causé par l'infraction
 ou tenues à un titre quelconque d'en assurer la réparation totale ou partielle le remboursement de l'indemnité ou de la
-provision versée par lui, dans la limite du montant des réparations à la charge desdites personnes.
+provision versée par lui, dans la limite du montant des réparations à la charge desdites personnes. 
 
 Le fonds peut exercer ses droits par toutes voies utiles, y compris par voie de constitution de partie civile devant la
 juridiction répressive et ce, même pour la première fois, en cause d'appel. Lorsqu'il se constitue partie civile par lettre
-recommandée, le fonds peut demander le remboursement des sommes mises à sa charge sans limitation de plafond nonobstant les
-dispositions de l'article 420-1.
+recommandée, le fonds peut demander le remboursement des sommes mises à sa charge sans limitation de plafond. 
 
-Pour l'application des dispositions de l'article 706-9 et du présent article, le fonds peut demander au procureur de la
-République de requérir de toute personne ou administration la communication de renseignements sur la situation
-professionnelle, financière, fiscale ou sociale des personnes ayant à répondre du dommage. Le secret professionnel ne peut
-être opposé au procureur de la République. Les renseignements ainsi recueillis ne peuvent être utilisés à d'autres fins que
-celles prévues au présent article ; leur divulgation est interdite.
+Les administrations ou services de l'Etat et des collectivités publiques, les organismes de sécurité sociale, les organismes
+qui assurent la gestion des prestations sociales, les établissements financiers et les entreprises d'assurance sont tenus de
+réunir et de communiquer au fonds les renseignements dont ils disposent ou peuvent disposer et qui sont utiles à la mise en
+œuvre de son action récursoire. Les renseignements ainsi recueillis ne peuvent être utilisés à d'autres fins que celles
+prévues au présent article ou à l'article L. 422-8 du code des assurances. Leur divulgation est interdite. 
+
+Lorsque l'auteur de l'infraction a fait l'objet d'une obligation d'indemnisation de la victime dans le cadre d'une peine de
+sanction-réparation, d'un sursis avec mise à l'épreuve ou d'une décision d'aménagement de peine ou de libération
+conditionnelle et que la victime a été indemnisée par le fonds, soit en application du présent titre, soit du titre XIV bis,
+cette obligation doit alors être exécutée au bénéfice du fonds de garantie dans l'exercice de son recours subrogatoire et de
+son mandat de recouvrement au profit de la victime.
+
+**Nota:**
+
+Loi n° 2008-644 du 1er juillet 2008 article 14 : Les articles 1er et 2 sont applicables à toutes les décisions
+juridictionnelles rendues à compter du premier jour du troisième mois suivant la date de publication de la présente loi (1er
+octobre 2008).
 
 **Liens relatifs à cet article**
 
-	**Liens**:
-
-	  - SPEC_APPLI: Ordonnance 58-1273 1958-12-22 art. 18
-	  - SPEC_APPLI: Ordonnance n°58-1296 du 23 décembre 1958 - art. 10, v. init.
-	  - SPEC_APPLI: Loi n°83-608 du 8 juillet 1983 - art. 23, v. init.
-	  - PILOTE_SUIVEUR: Livre des procédures fiscales - art. L146 B (Dis)
-
-	**Codifié par**:
-
-	  - Ordonnance 58-1296 1958-12-23
-
 	**Modifié par**:
 
-	  - Loi n°90-589 du 6 juillet 1990 - art. 9 () JORF 11 juillet 1990 en vigueur le 1er janvier 1991
+	  - Loi n°2008-644 du 1er juillet 2008 - art. 1
 
 	**Cité par**:
 
@@ -38424,6 +38542,10 @@ celles prévues au présent article ; leur divulgation est interdite.
 	  - Code de procédure pénale - art. R50-27 (V)
 	  - Code des assurances - art. L422-7 (V)
 	  - Code des assurances - art. L422-8 (V)
+
+	**Liens**:
+
+	  - PILOTE_SUIVEUR: Livre des procédures fiscales - art. L146 B (Dis)
 
 
 ###### Article 706-12
@@ -38505,6 +38627,33 @@ générateurs de celui-ci ayant entraîné une incapacité totale de travail inf
 	  - Loi n°2000-516 du 15 juin 2000 - art. 118 () JORF 16 juin 2000
 
 
+###### Article 706-14-1
+
+L'article 706-14 est applicable à toute personne victime de la destruction par incendie d'un véhicule terrestre à moteur lui
+appartenant qui justifie au moment des faits avoir satisfait aux dispositions du code de la route relatives au certificat
+d'immatriculation et au contrôle technique ainsi qu'aux obligations prévues à l'article L. 211-1 du code des assurances, sans
+qu'elle ait à établir qu'elle se trouve dans une situation matérielle ou psychologique grave ; elle peut alors bénéficier
+d'une indemnité lorsque ses ressources ne dépassent pas 1,5 fois le plafond prévu par le premier alinéa de l'article 706-14. 
+
+Le présent article s'applique dès lors que le fait a été commis sur le territoire national.
+
+**Nota:**
+
+Loi n° 2008-644 du 1er juillet 2008 : L'article 3 est applicable aux infractions commises à compter du premier jour du
+troisième mois suivant la date de publication de la présente loi.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2008-644 du 1er juillet 2008 - art. 3
+
+	**Cite**:
+
+	  - Code de procédure pénale - art. 706-14
+	  - Code des assurances - art. L211-1
+
+
 ###### Article 706-15
 
 Lorsqu'une juridiction condamne l'auteur d'une infraction mentionnée aux articles 706-3 et 706-14 à verser des dommages-
@@ -38530,6 +38679,85 @@ victimes d'infraction.
 
 	  - Code de procédure pénale - art. 706-14 (V)
 	  - Code de procédure pénale - art. 706-3 (V)
+
+
+### Titre XIV bis : De l'aide au recouvrement des dommages et intérêts pour les victimes d'infractions
+
+###### Article 706-15-1
+
+Toute personne physique qui, s'étant constituée partie civile, a bénéficié d'une décision définitive lui accordant des
+dommages et intérêts en réparation du préjudice qu'elle a subi du fait d'une infraction pénale, mais qui ne peut pas obtenir
+une indemnisation en application des articles 706-3 ou 706-14, peut solliciter une aide au recouvrement de ces dommages et
+intérêts ainsi que des sommes allouées en application des articles 375 ou 475-1. 
+
+Cette aide peut être sollicitée y compris si l'auteur de l'infraction fait l'objet d'une obligation d'indemnisation de la
+victime dans le cadre d'une peine de sanction-réparation, d'un sursis avec mise à l'épreuve ou d'une décision d'aménagement
+de peine ou de libération conditionnelle.
+
+**Nota:**
+
+Loi n° 2008-644 du 1er juillet 2008 article 14 : Les articles 1er et 2 sont applicables à toutes les décisions
+juridictionnelles rendues à compter du premier jour du troisième mois suivant la date de publication de la présente loi (1er
+octobre 2008).
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2008-644 du 1er juillet 2008 - art. 1
+
+	**Cite**:
+
+	  - Code de procédure pénale - art. 375
+	  - Code de procédure pénale - art. 475-1
+	  - Code de procédure pénale - art. 706-14
+	  - Code de procédure pénale - art. 706-3
+
+	**Cité par**:
+
+	  - Code de procédure pénale - art. 474-1 (V)
+	  - Code de procédure pénale - art. 706-164 (V)
+	  - Code des assurances - art. L422-7 (V)
+
+
+###### Article 706-15-2
+
+En l'absence de paiement volontaire des dommages et intérêts ainsi que des sommes allouées en application des articles 375 ou
+475-1 par la personne condamnée dans un délai de deux mois suivant le jour où la décision concernant les dommages et intérêts
+est devenue définitive, la partie civile peut saisir le fonds de garantie des victimes des actes de terrorisme et d'autres
+infractions d'une demande d'aide au recouvrement.
+
+A peine de forclusion, la demande d'aide au recouvrement doit être présentée dans le délai d'un an à compter du jour où la
+décision est devenue définitive. Toutefois, le fonds de garantie peut relever la victime de la forclusion pour tout motif
+légitime. En cas de refus opposé par le fonds, la victime peut être relevée de la forclusion par le président du tribunal de
+grande instance statuant par ordonnance sur requête. A peine d'irrecevabilité, la requête est présentée dans le mois suivant
+la décision de refus. 
+
+La victime est tenue de communiquer au fonds tout renseignement de nature à faciliter le recouvrement de créance. 
+
+Agissant seule ou conjointement avec le débiteur, la victime peut renoncer à l'assistance au recouvrement. Toutefois, les
+frais de gestion et les frais de recouvrement exposés par le fonds demeurent exigibles.
+
+**Nota:**
+
+Loi n° 2008-644 du 1er juillet 2008 article 14 : Les articles 1er et 2 sont applicables à toutes les décisions
+juridictionnelles rendues à compter du premier jour du troisième mois suivant la date de publication de la présente loi (1er
+octobre 2008).
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2008-644 du 1er juillet 2008 - art. 1
+
+	**Cité par**:
+
+	  - CODE DE PROCEDURE PENALE - art. 706-5 (V)
+
+	**Cite**:
+
+	  - Code de procédure pénale - art. 375
+	  - Code de procédure pénale - art. 475-1
 
 
 ### Titre XV : De la poursuite, de l'instruction et du jugement des actes de terrorisme
@@ -44153,26 +44381,27 @@ l'Union européenne des sanctions pécuniaires prononcées par les autorités fr
 
 ###### Article 707-2
 
-En matière correctionnelle ou de police, toute personne condamnée à une peine d'amende peut s'acquitter de son montant dans
-un délai d'un mois à compter de la date à laquelle le jugement a été prononcé.
+En matière correctionnelle ou de police, toute personne condamnée peut s'acquitter du montant du droit fixe de procédure dû
+en application de l'article 1018 A du code général des impôts ainsi que, le cas échéant, du montant de l'amende à laquelle
+elle a été condamnée, dans un délai d'un mois à compter de la date à laquelle le jugement a été prononcé. 
 
-Lorsque le condamné règle le montant de l'amende dans les conditions prévues au premier alinéa, le montant de l'amende est
-diminué de 20 % sans que cette diminution puisse excéder 1 500 euros.
+Lorsque le condamné règle le montant du droit fixe de procédure ou le montant de l'amende dans les conditions prévues au
+premier alinéa, ces montants sont diminués de 20 % sans que cette diminution puisse excéder 1 500 euros. 
 
 Dans le cas où une voie de recours est exercée contre les dispositions pénales de la décision, il est procédé, sur demande de
-l'intéressé, à la restitution des sommes versées.
+l'intéressé, à la restitution des sommes versées. 
 
 Un décret en Conseil d'Etat détermine les modalités d'application du présent article.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Ordonnance 58-1296 1958-12-23
+	  - Loi n°2008-644 du 1er juillet 2008 - art. 11
 
-	**Créé par**:
+	**Cite**:
 
-	  - Loi n°2004-204 du 9 mars 2004 - art. 196 () JORF 10 mars 2004
+	  - Code général des impôts, CGI. - art. 1018 A
 
 	**Cité par**:
 
@@ -55485,6 +55714,25 @@ l'application des peines conformément aux dispositions du deuxième alinéa de 
 	**Cité par**:
 
 	  - Décret n°2006-385 du 30 mars 2006 - art. 23 (V)
+
+
+### Titre IV : Dispositions particulières applicables aux collectivités de Saint-Barthélemy et de Saint-Martin
+
+###### Article 935
+
+Pour l'application du présent code à Saint-Barthélemy et à Saint-Martin : 
+
+1° Les mots : " le département " sont remplacés par les mots : " la collectivité " ; 
+
+2° En l'absence d'adaptations prévues par le présent code, les références opérées par lui à des dispositions qui ne sont pas
+applicables à Saint-Barthélemy et à Saint-Martin sont remplacées par les références aux dispositions ayant le même objet
+applicables localement.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2008-644 du 1er juillet 2008 - art. 13
 
 
 # Partie réglementaire - Décrets en Conseil d'Etat
