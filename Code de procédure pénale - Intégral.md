@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 2008-07-02
+Version Consolidée au 2008-07-11
 
 # Partie législative
 
@@ -115037,56 +115037,495 @@ Quartier des mineurs de la maison d'arrêt de Villepinte (Seine-Saint-Denis).
 
 ###### Article A43-4
 
-I. - Conformément aux dispositions de l'article R. 213-2, les réquisitions adressées dans les conditions prévues au présent
+Conformément aux dispositions de l'article R. 121, les indemnités dues, en application des articles R. 121-1 et R. 121-2, aux
+personnes physiques enquêteurs de personnalité, contrôleurs judiciaires, délégués du procureur de la République ou médiateurs
+du procureur de la République, sont fixées par le tableau ci-après : 
+
+<table>
+  <tbody>
+    <tr>
+      <td align="center">
+
+IP. ¹ 
+
+</td>
+      <td align="center">
+
+39 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+IP. ² 
+
+</td>
+      <td align="center">
+
+74 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+IP. ³ 
+
+</td>
+      <td align="center">
+
+52 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+IP. 
+        <sup>4 </sup>
+
+</td>
+      <td align="center">
+
+111 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+IP. 
+        <sup>5 
+
+</sup>
+      </td>
+      <td align="center">
+
+153 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+IP. 
+        <sup>6 
+
+</sup>
+      </td>
+      <td align="center">
+
+8 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+IP. 
+        <sup>7 
+
+</sup>
+      </td>
+      <td align="center">
+
+16 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+IP. 
+        <sup>8 
+
+</sup>
+      </td>
+      <td align="center">
+
+16 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+IP. 
+        <sup>9 
+
+</sup>
+      </td>
+      <td align="center">
+
+39 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+IP. 
+        <sup>¹0 
+
+</sup>
+      </td>
+      <td align="center">
+
+16 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+IP. 
+        <sup>11 </sup>
+
+</td>
+      <td align="center">
+
+8 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+IP. 
+        <sup>12 
+
+</sup>
+      </td>
+      <td align="center">
+
+16 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+IP. 
+        <sup>13 
+
+</sup>
+      </td>
+      <td align="center">
+
+8 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+IP. 
+        <sup>14 
+
+</sup>
+      </td>
+      <td align="center">
+
+10 
+
+</td>
+    </tr>
+  </tbody>
+</table>
+
+L'indemnité IP. 
+  <sup>14</sup> prévue en cas de carence n'est applicable que lorsqu'elle est inférieure à l'indemnité correspondant à
+l'accomplissement de la mission : elle n'est due qu'à la condition qu'au moins deux convocations aient été adressées à la
+personne faisant l'objet de la mesure.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Arrêté du 4 juin 2008 - art. 1
+
+	**Liens**:
+
+	  - TRANSFERE: Arrêté du 4 juin 2008 - art. 1
+
+	**Anciens textes**:
+
+	  - CODE DE PROCEDURE PENALE - art. A43-2 (T)
+
+	**Cite**:
+
+	  - Code de procédure pénale - art. R121-1
+	  - Code de procédure pénale - art. R121-2
+
+
+###### Article A43-5
+
+Conformément aux dispositions de l'article R. 121, les indemnités dues, en application des articles R. 121-3 et R. 121-4, aux
+associations habilitées ayant passé une convention avec le premier président et le procureur général de la cour d'appel, sont
+fixées par le tableau ci-après : 
+
+<table>
+  <tbody>
+    <tr>
+      <td align="center">
+
+IA. ¹ 
+
+</td>
+      <td align="center">
+
+70 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+IA. ² 
+
+</td>
+      <td align="center">
+
+70 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+IA. ³ 
+
+</td>
+      <td align="center">
+
+1110 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+IA. 
+        <sup>4</sup>
+
+</td>
+      <td align="center">
+
+925 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+IA. 5 
+
+</td>
+      <td align="center">
+
+370 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+IA.
+        <sup> 6</sup>
+
+</td>
+      <td align="center">
+
+12 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+IA. 
+        <sup>7</sup>
+
+</td>
+      <td align="center">
+
+31 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+IA. 
+        <sup>8 
+
+</sup>
+      </td>
+      <td align="center">
+
+31 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+IA. 
+        <sup>9</sup>
+
+</td>
+      <td align="center">
+
+77, lorsque la durée de la mission de médiation est inférieure ou égale à un mois. 
+
+153, lorsque cette durée est supérieure à un mois et inférieure ou égale à trois mois. 
+
+305, lorsqu'elle est supérieure à trois mois. 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+IA. 
+        <sup>10</sup>
+
+</td>
+      <td align="center">
+
+31 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+IA. 
+        <sup>11 
+
+</sup>
+      </td>
+      <td align="center">
+
+16 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+IA. 
+        <sup>12</sup>
+
+</td>
+      <td align="center">
+
+31 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+IA. 
+        <sup>13 
+
+</sup>
+      </td>
+      <td align="center">
+
+8 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+IA. 
+        <sup>14</sup>
+
+</td>
+      <td align="center">
+
+25 
+
+</td>
+    </tr>
+  </tbody>
+</table>
+
+L'indemnité IA. 
+  <sup>14</sup> prévue en cas de carence n'est applicable que lorsqu'elle est inférieure à l'indemnité correspondant à
+l'accomplissement de la mission : elle n'est due qu'à la condition qu'au moins deux convocations aient été adressées à la
+personne faisant l'objet de la mesure.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Arrêté du 4 juin 2008 - art. 1
+
+	**Cite**:
+
+	  - Code de procédure pénale - art. R121
+	  - Code de procédure pénale - art. R121-3
+
+
+###### Article A43-6
+
+I.-Conformément aux dispositions de l'article R. 213-2, les réquisitions adressées dans les conditions prévues au présent
 code ayant pour objet les interceptions de communications de téléphonie donnent lieu à remboursement aux opérateurs de
 communications électroniques, sur facture et justificatifs, en appliquant à ces demandes, pour chacune des prestations
-demandées, le montant hors taxes des tarifs fixés dans le tableau annexé au présent arrêté (1).
+demandées, le montant hors taxes des tarifs fixés dans le tableau annexé au présent arrêté.
 
-II. - Conformément aux dispositions de l'article R. 213-1, les réquisitions adressées dans les conditions prévues au présent
+II.-Conformément aux dispositions de l'article R. 213-1, les réquisitions adressées dans les conditions prévues au présent
 code ayant pour objet la production et la fourniture des données mentionnées à l'article R. 10-13 du code des postes et des
 communications électroniques donnent lieu à remboursement aux opérateurs de communications électroniques, sur facture et
 justificatifs, en appliquant à ces réquisitions, pour chacune des prestations demandées, le montant hors taxe des tarifs
-fixés dans les tableaux annexés au présent article.
+fixés dans les tableaux annexés au présent article. 
 
-III. - Pour les prestations ne figurant pas dans les tableaux annexés, le montant du remboursement prévu aux I et II est
+III.-Pour les prestations ne figurant pas dans les tableaux annexés, le montant du remboursement prévu aux I et II est
 déterminé sur devis. 
+
+Tarifs hors taxe applicables aux prestations requises aux opérateurs de téléphonie mobile
 
 <table>
   <tbody>
     <tr>
       <td>
 
-CATÉGORIES DE DONNÉES
+CATÉGORIES DE DONNÉES 
 
 </td>
       <td>
 
-PRESTATIONS REQUISES
+PRESTATIONS REQUISES 
 
 </td>
       <td>
 
-TARIFS
+TARIFS 
 
-(en euros)
+(en euros) 
 
 </td>
     </tr>
     <tr>
       <td valign="top">
 
-Informations permettant d'identifier l'utilisateur.
+Informations permettant d'identifier l'utilisateur. 
 
 </td>
       <td valign="top">
 
 Identification en nombre d'abonnés, à partir de leur numéro d'appel ou du numéro de leur carte SIM (avec ou sans coordonnées
-bancaires), demande copiable sous format électronique. Prix par numéro d'appel avec un minimum de perception de 20 numéros.
+bancaires), demande copiable sous format électronique. Prix par numéro d'appel avec un minimum de perception de 20 numéros. 
 
 </td>
       <td valign="top">
 
-0,65
+0, 65 
 
 </td>
     </tr>
@@ -115095,25 +115534,12 @@ bancaires), demande copiable sous format électronique. Prix par numéro d'appel
       </td><td valign="top">
 
 Identification d'un abonné à partir de son numéro d'appel ou du numéro de sa carte SIM (avec ou sans coordonnées bancaires),
-demande reçue sous forme papier, par fax ou sous forme électronique non copiable.
+demande reçue sous forme papier, par fax ou sous forme électronique non copiable. 
 
 </td>
       <td valign="top">
 
-6,50
-
-</td>
-    </tr>
-    <tr>
-      <td valign="top">
-      </td><td valign="top">
-
-Historique d'attribution d'un numéro d'appel, d'un numéro de carte SIM ou d'un identifiant d'abonné (numéro IMSI).
-
-</td>
-      <td valign="top">
-
-6,50
+6, 50 
 
 </td>
     </tr>
@@ -115121,12 +115547,25 @@ Historique d'attribution d'un numéro d'appel, d'un numéro de carte SIM ou d'un
       <td valign="top">
       </td><td valign="top">
 
-Identification d'abonnés à partir du patronyme ou de la raison sociale.
+Historique d'attribution d'un numéro d'appel, d'un numéro de carte SIM ou d'un identifiant d'abonné (numéro IMSI). 
 
 </td>
       <td valign="top">
 
-13,00
+6, 50 
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top">
+      </td><td valign="top">
+
+Identification d'abonnés à partir du patronyme ou de la raison sociale. 
+
+</td>
+      <td valign="top">
+
+13, 00 
 
 </td>
     </tr>
@@ -115135,12 +115574,12 @@ Identification d'abonnés à partir du patronyme ou de la raison sociale.
       </td><td valign="top">
 
 Identification des numéros d'appel et des abonnés associés à partir des moyens de paiement utilisés. Le coût de
-l'identification de l'abonné est inclus dans le tarif.
+l'identification de l'abonné est inclus dans le tarif. 
 
 </td>
       <td valign="top">
 
-17,50
+17, 50 
 
 </td>
     </tr>
@@ -115149,12 +115588,12 @@ l'identification de l'abonné est inclus dans le tarif.
       </td><td valign="top">
 
 Identification d'un abonné et de ses moyens de paiement à partir d'un numéro d'appel ou de carte SIM. Le coût de
-l'identification de l'abonné est inclus dans le tarif.
+l'identification de l'abonné est inclus dans le tarif. 
 
 </td>
       <td valign="top">
 
-17,50
+17, 50 
 
 </td>
     </tr>
@@ -115163,12 +115602,12 @@ l'identification de l'abonné est inclus dans le tarif.
       </td><td valign="top">
 
 Recherche de numéros d'appel ou identification d'un abonné à partir d'un numéro IMEI. Le coût de l'identification de l'abonné
-est inclus dans le tarif.
+est inclus dans le tarif. 
 
 </td>
       <td valign="top">
 
-13,00
+13, 00 
 
 </td>
     </tr>
@@ -115177,25 +115616,12 @@ est inclus dans le tarif.
       </td><td valign="top">
 
 Recherche d'identifiants de téléphone mobile et identification d'abonné à partir d'un numéro d'appel ou d'un numéro de carte
-SIM. Le coût de l'identification de l'abonné est inclus dans le tarif.
+SIM. Le coût de l'identification de l'abonné est inclus dans le tarif. 
 
 </td>
       <td valign="top">
 
-13,00
-
-</td>
-    </tr>
-    <tr>
-      <td valign="top">
-      </td><td valign="top">
-
-Copie du contrat d'abonnement (fournie sous un mois).
-
-</td>
-      <td valign="top">
-
-Tarif prévu par l'article R. 213 du code de procédure pénale
+13, 00 
 
 </td>
     </tr>
@@ -115203,12 +115629,12 @@ Tarif prévu par l'article R. 213 du code de procédure pénale
       <td valign="top">
       </td><td valign="top">
 
-Copie des documents annexés au contrat d'abonnement (fournie sous un mois).
+Copie du contrat d'abonnement (fournie sous un mois). 
 
 </td>
       <td valign="top">
 
-Tarif prévu par l'article R. 213 du code de procédure pénale
+Tarif prévu par l'article R. 213 du code de procédure pénale 
 
 </td>
     </tr>
@@ -115216,46 +115642,60 @@ Tarif prévu par l'article R. 213 du code de procédure pénale
       <td valign="top">
       </td><td valign="top">
 
-Copie de factures (fournie sous un mois).
+Copie des documents annexés au contrat d'abonnement (fournie sous un mois). 
 
 </td>
       <td valign="top">
 
-Tarif prévu par l'article R. 213 du code de procédure pénale
+Tarif prévu par l'article R. 213 du code de procédure pénale 
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top">
+      </td><td valign="top">
+
+Copie de factures (fournie sous un mois). 
+
+</td>
+      <td valign="top">
+
+Tarif prévu par l'article R. 213 du code de procédure pénale 
 
 </td>
     </tr>
     <tr>
       <td valign="top">
 
-Données relatives aux équipements terminaux de communications utilisés.
+Données relatives aux équipements terminaux de communications utilisés. 
 
 </td>
       <td valign="top">
 
-Fourniture du code de déblocage (code PUK) d'une carte SIM bloquée suite à trois tentatives infructueuses de mise en service.
+Fourniture du code de déblocage (code PUK) d'une carte SIM bloquée suite à trois tentatives infructueuses de mise en
+service. 
 
 </td>
       <td valign="top">
 
-6,50
+6, 50 
 
 </td>
     </tr>
     <tr>
       <td valign="top">
 
-Caractéristiques techniques ainsi que la date, l'horaire et la durée de chaque communication.
+Caractéristiques techniques ainsi que la date, l'horaire et la durée de chaque communication. 
 
 </td>
       <td valign="top">
 
-Détail des trafics d'un abonné sur une période indivisible d'un mois. L'identification de l'abonné est en sus.
+Détail des trafics d'un abonné sur une période indivisible d'un mois.L'identification de l'abonné est en sus. 
 
 </td>
       <td valign="top">
 
-17,50
+17, 50 
 
 </td>
     </tr>
@@ -115264,12 +115704,12 @@ Détail des trafics d'un abonné sur une période indivisible d'un mois. L'ident
       </td><td valign="top">
 
 Détails des trafics à partir d'un numéro d'appel étranger ou vers un numéro d'appel étranger en itinérance sur le réseau de
-l'opérateur, sur une période indivisible d'un mois. L'identification des abonnés est en sus.
+l'opérateur, sur une période indivisible d'un mois.L'identification des abonnés est en sus. 
 
 </td>
       <td valign="top">
 
-17,50
+17, 50 
 
 </td>
     </tr>
@@ -115279,12 +115719,12 @@ l'opérateur, sur une période indivisible d'un mois. L'identification des abonn
 
 Détail géolocalisé des trafics d'un abonné sur une période indivisible d'un mois accompagné de l'adresse du relais
 téléphonique (cellule) par lequel les communications ont débuté, sur une période d'un mois. Le coût inclut l'identification
-de la totalité des cellules, l'identification des abonnés est en sus.
+de la totalité des cellules, l'identification des abonnés est en sus. 
 
 </td>
       <td valign="top">
 
-35,00
+35, 00 
 
 </td>
     </tr>
@@ -115294,12 +115734,12 @@ de la totalité des cellules, l'identification des abonnés est en sus.
 
 Détails géolocalisé des trafics en relation avec un abonné d'un opérateur étranger sur une période indivisible d'un mois
 accompagné de l'adresse du relais téléphonique (cellule) par lequel les communications ont débuté, sur une période d'un mois.
-Le coût inclut l'identification de la totalité des cellules, l'identification des abonnés est en sus.
+Le coût inclut l'identification de la totalité des cellules, l'identification des abonnés est en sus. 
 
 </td>
       <td valign="top">
 
-35,00
+35, 00 
 
 </td>
     </tr>
@@ -115307,12 +115747,12 @@ Le coût inclut l'identification de la totalité des cellules, l'identification 
       <td valign="top">
       </td><td valign="top">
 
-Détail des trafics vers un abonné étranger sur une période indivisible d'un mois, l'identification de l'abonné est en sus.
+Détail des trafics vers un abonné étranger sur une période indivisible d'un mois, l'identification de l'abonné est en sus. 
 
 </td>
       <td valign="top">
 
-17,50
+17, 50 
 
 </td>
     </tr>
@@ -115321,12 +115761,12 @@ Détail des trafics vers un abonné étranger sur une période indivisible d'un 
       </td><td valign="top">
 
 Détail des trafics écoulés dans un relais téléphonique (cellule) sur une période de 4 heures au cours des douze derniers
-mois. L'identification des abonnés est en sus.
+mois.L'identification des abonnés est en sus. 
 
 </td>
       <td valign="top">
 
-17,50
+17, 50 
 
 </td>
     </tr>
@@ -115335,42 +115775,29 @@ mois. L'identification des abonnés est en sus.
       </td><td valign="top">
 
 Détail des trafics écoulés dans un relais téléphonique (cellule) avec identification des abonnés sur une période de 4 heures
-au cours des douze derniers mois.
+au cours des douze derniers mois. 
 
 </td>
       <td valign="top">
 
-17,50 + 0,65 par abonné identifié
-
-</td>
-    </tr>
-    <tr>
-      <td valign="top">
-
-Données relatives aux services complémentaires demandés ou utilisés par les fournisseurs.
-
-</td>
-      <td valign="top">
-
-Identification d'un prestataire de services à partir d'un numéro court.
-
-</td>
-      <td valign="top">
-
-6,50
+17, 50 + 0, 65 par abonné identifié 
 
 </td>
     </tr>
     <tr>
       <td valign="top">
-      </td><td valign="top">
 
-Recherche de l'adresse d'un relais téléphonique (cellule) à partir de son numéro d'identification.
+Données relatives aux services complémentaires demandés ou utilisés par les fournisseurs. 
 
 </td>
       <td valign="top">
 
-6,50
+Identification d'un prestataire de services à partir d'un numéro court. 
+
+</td>
+      <td valign="top">
+
+6, 50 
 
 </td>
     </tr>
@@ -115378,25 +115805,12 @@ Recherche de l'adresse d'un relais téléphonique (cellule) à partir de son num
       <td valign="top">
       </td><td valign="top">
 
-Carte de couverture optimale d'une cellule.
+Recherche de l'adresse d'un relais téléphonique (cellule) à partir de son numéro d'identification. 
 
 </td>
       <td valign="top">
 
-17,50
-
-</td>
-    </tr>
-    <tr>
-      <td valign="top">
-      </td><td valign="top">
-
-Carte de couverture secondaire d'une cellule.
-
-</td>
-      <td valign="top">
-
-17,50
+6, 50 
 
 </td>
     </tr>
@@ -115404,55 +115818,312 @@ Carte de couverture secondaire d'une cellule.
       <td valign="top">
       </td><td valign="top">
 
-Recherche de cellule à partir d'un lieu géographique (couverture optimale théorique).
+Carte de couverture optimale d'une cellule. 
 
 </td>
       <td valign="top">
 
-17,50
+17, 50 
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top">
+      </td><td valign="top">
+
+Carte de couverture secondaire d'une cellule. 
+
+</td>
+      <td valign="top">
+
+17, 50 
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top">
+      </td><td valign="top">
+
+Recherche de cellule à partir d'un lieu géographique (couverture optimale théorique). 
+
+</td>
+      <td valign="top">
+
+17, 50 
 
 </td>
     </tr>
     <tr>
       <td valign="top">
 
-Données permettant d'identifier le ou les destinataires de la communication.
+Données permettant d'identifier le ou les destinataires de la communication. 
 
 </td>
       <td valign="top">
 
 Recherche d'un point de vente à partir d'un numéro d'appel, d'un numéro de carte SIM, d'un identifiant d'abonné (IMSI) ou
-d'un identifiant de téléphone (IMEI).
+d'un identifiant de téléphone (IMEI). 
 
 </td>
       <td valign="top">
 
-17,50
+17, 50
 
 </td>
     </tr>
   </tbody>
 </table>
 
-**Nota:**
+Tarifs hors taxe applicables aux prestations requises aux opérateurs de téléphonie fixe
 
-Une erreur matérielle s'est glissée dans l'arrêté du 22 octobre 2007 : 
+<table>
+  <tbody>
+    <tr>
+      <td width="151">
 
-il faut lire article A. 43-4 au lieu de A. 43-2 et il est inséré un I et non un II.
+CATÉGORIES DE DONNÉES
+
+</td>
+      <td width="340">
+
+PRESTATIONS REQUISES
+
+</td>
+      <td width="113">
+
+TARIFS
+
+(en euros)
+
+</td>
+    </tr>
+    <tr>
+      <td width="151" rowspan="12" valign="top">
+
+Informations permettant d'identifier l'utilisateur.
+
+</td>
+      <td width="340" valign="top">
+
+Identification en nombre d'abonnés, à partir de leur numéro (ad'appel vec ou sans coordonnées bancaires), demande copiable
+sous forme électronique. Prix par numéro d'appel avec un minimum de perception de 20 numéros.
+
+</td>
+      <td width="113">
+
+0,65
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="340">
+
+Identification d'un abonné à partir de son numéro d'appel (avec ou sans coordonnées bancaires). Demande reçue sous forme
+papier, par fax ou sous forme électronique non copiable.
+
+</td>
+      <td width="113">
+
+8,50
+
+</td>
+    </tr>
+    <tr>
+      <td width="340" valign="top">
+
+Recherche et identification d'un abonné appelant derrière une tête de ligne ou un serveur.
+
+</td>
+      <td width="113">
+
+Sur devis
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="340">
+
+Identification d'un abonné à partir du patronyme ou de la raison sociale et filtre sur d'autres critères.
+
+</td>
+      <td width="113">
+
+13,00
+
+</td>
+    </tr>
+    <tr>
+      <td width="340" valign="top">
+
+Identification d'un abonné à partir de l'adresse de son installation téléphonique.
+
+</td>
+      <td width="113">
+
+13,00
+
+</td>
+    </tr>
+    <tr>
+      <td width="340" valign="top">
+
+Identification d'un point de vente à partir d'une carte prépayée.
+
+</td>
+      <td width="113">
+
+17,50
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="340">
+
+Recherche de numéros d'appel et identification d'un abonné à partir d'un moyen de paiement. Le coût de l'identification de
+l'abonné est inclus dans le tarif.
+
+</td>
+      <td width="113">
+
+17,50
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="340">
+
+Identification d'un abonné et de ses moyens de paiement à partir d'un numéro d'appel. Le coût de l'identification de l'abonné
+est inclus dans le tarif.
+
+</td>
+      <td width="113">
+
+17,50
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="340">
+
+Identification d'un abonné ADSL et de son fournisseur d'accès internet.
+
+</td>
+      <td width="113">
+
+8,50
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="340">
+
+Copie du contrat d'abonnement (fournie sous un mois).
+
+</td>
+      <td width="113">
+
+Tarif prévu par l'article R. 213 du code de procédure pénale
+
+</td>
+    </tr>
+    <tr>
+      <td width="340" valign="top">
+
+Copie des documents annexés au contrat d'abonnement (fournie sous un mois).
+
+</td>
+      <td width="113">
+
+Tarif prévu par l'article R. 213 du code de procédure pénale
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="340">
+
+Copie de factures (fournie sous un mois).
+
+</td>
+      <td width="113">
+
+Tarif prévu par l'article R. 213 du code de procédure pénale
+
+</td>
+    </tr>
+    <tr>
+      <td width="151" rowspan="2" valign="top">
+
+Données relatives aux équipements terminaux utilisés.
+
+</td>
+      <td width="340" valign="top">
+
+Identification des publiphones implantés dans une zone géographique donnée.
+
+</td>
+      <td width="113">
+
+17,50
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="340">
+
+Recherche d'un opérateur tiers à partir de son numéro de faisceau
+
+</td>
+      <td width="113">
+
+13,00
+
+</td>
+    </tr>
+    <tr>
+      <td rowspan="2" width="151" valign="top">
+
+Caractéristiques techniques ainsi que la date, l'horaire et la durée de chaque communication.
+
+</td>
+      <td valign="top" width="340">
+
+Détail des trafics d'un abonné sur une période indivisible d'un mois. L'identification de l'abonné est en sus.
+
+</td>
+      <td width="113">
+
+17,50
+
+</td>
+    </tr>
+    <tr>
+      <td width="340" valign="top">
+
+Détail des trafics en relation avec un abonné d'un opérateur étranger.
+
+</td>
+      <td width="113">
+
+Sur devis
+
+</td>
+    </tr>
+  </tbody>
+</table>
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Créé par**:
 
-	  - Arrêté 1959-02-27
+	  - Arrêté du 4 juin 2008 - art. 1
 
-	**Modifié par**:
+	**Transféré par**:
 
-	  - Arrêté 2007-10-22 art. 1 JORF 25 octobre 2007
+	  - Arrêté du 2 septembre 2008 - art. 2
 
-	**Anciens textes**:
+	**Nouveaux textes**:
 
-	  - CODE DE PROCEDURE PENALE - art. A43-2 (T)
+	  - CODE DE PROCEDURE PENALE - art. A43-9 (V)
 
 
 ### Titre XI : Le service pénitentiaire d'insertion et de probation
