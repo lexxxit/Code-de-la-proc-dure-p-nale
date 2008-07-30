@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 2008-07-17
+Version Consolidée au 2008-07-31
 
 # Partie législative
 
@@ -112115,35 +112115,23 @@ police judiciaire.
 ###### Article A22
 
 Pour l'application de l'article 16 (4°) du code de procédure pénale, et aux fins de constater l'aptitude à la fonction
-d'officier de police judiciaire de la police nationale, il est organisé un examen comportant :
+d'officier de police judiciaire de la police nationale, il est organisé un examen comportant : 
 
-1° Une épreuve écrite sur des notions de droit pénal, de procédure pénale ou de libertés publiques (durée : trois heures).
+1° Une épreuve écrite pratique de droit pénal général et de droit pénal spécial (durée : trois heures) ; 
 
-2° Une épreuve écrite pratique de procédure sur un cas de crime ou de délit (durée : quatre heures).
+2° Une épreuve écrite pratique de procédure sur un cas de crime ou de délit (durée : quatre heures) ; 
 
-3° Une épreuve orale en libertés publiques et en procédure pénale.
+3° Une épreuve orale de simulation de compte rendu téléphonique au parquet organisée à partir d'un cas pratique d'enquête
+(durée : vingt minutes). 
 
-La valeur de chaque épreuve est constatée par une note de 0 à 20.
+La valeur de chaque épreuve est constatée par une note de 0 à 20. 
 
-Toute note égale ou inférieure à 5 dans l'une des épreuves est éliminatoire.
+Toute note égale ou inférieure à 5 dans l'une des épreuves est éliminatoire. 
 
-Nul ne pourra être considéré comme ayant satisfait à l'examen s'il ne totalise 30 points au moins pour l'ensemble des trois
-épreuves.
+Nul ne pourra être considéré comme ayant satisfait à l'examen s'il ne totalise pas 30 points au moins pour l'ensemble des
+trois épreuves.
 
 **Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Arrêté 1958-12-23
-
-	**Liens**:
-
-	  - SPEC_APPLI: Arrêté 1979-04-02 art. 2 et art. 3 dispositions transitoires
-	  - SPEC_APPLI: Arrêté 1995-10-16 art. 3
-
-	**Modifié par**:
-
-	  - Arrêté 1999-06-11 art. 1 JORF 15 juin 1999
 
 	**Cité par**:
 
@@ -112152,194 +112140,217 @@ Nul ne pourra être considéré comme ayant satisfait à l'examen s'il ne totali
 	  - CODE DE PROCEDURE PENALE - art. A23 (V)
 	  - CODE DE PROCEDURE PENALE - art. A27 (Ab)
 
-
-###### Article A23
-
-Le programme des épreuves de l'examen prévu par l'article qui précède est le suivant :
-
-Procédure pénale
-
-L'action publique et l'action civile.
-
-Les autorités investies par la loi de fonctions de police judiciaire.
-
-Les cadres juridiques et les actes de la mission de police judiciaire.
-
-Le contrôle de la mission de police judiciaire.
-
-L'instruction préparatoire.
-
-Les mandats de justice.
-
-La détention provisoire et le contrôle judiciaire.
-
-La nullité des actes de procédure.
-
-La procédure applicable aux mineurs.
-
-Les juridictions judiciaires pénales.
-
-L'exécution des décisions de justice pénale.
-
-Droit pénal général
-
-A. - Généralités sur la législation pénale.
-
-B. - L'infraction pénale :
-
-- les principes généraux de la responsabilité pénale ;
-
-- la classification des infractions et l'organisation judiciaire en matière pénale ;
-
-- les éléments constitutifs de l'infraction ;
-
-- la tentative ;
-
-- la complicité ;
-
-- la responsabilité pénale des personnes morales ;
-
-- les faits justificatifs légaux.
-
-C. - La sanction.
-
-Notions générales (classification des sanctions et des mesures de sûreté, modalités de mise en oeuvre des sanctions, période
-de sûreté, cause d'atténuation, d'exemption, d'aggravation, de suspension, d'extinction de la peine).
-
-Droit pénal spécial
-
-A. - Infractions contre les personnes :
-
-- les atteintes volontaires à la vie/meurtres assassinat, empoisonnement ;
-
-- les atteintes involontaires à la vie/homicide involontaire ;
-
-- les atteintes volontaires à l'intégrité de la personne/torture et actes de barbarie, violences, menaces ;
-
-- les atteintes involontaires à l'intégrité de la personne ;
-
-- les agressions sexuelles/viol, autres agressions sexuelles, harcèlement sexuel ;
-
-- l'usage et le trafic de stupéfiants ;
-
-- la mise en danger de la personne/risques causés à autrui, délaissement de la personne hors d'état de se protéger, entraves
-aux mesures d'assistance, omission de porter secours, expérimentation sur la personne, interruption illégale de la grossesse,
-provocation au suicide ;
-
-- les atteintes à la liberté de la personne/enlèvement et séquestration ;
-
-- les atteintes à la dignité de la personne/proxénétisme, conditions de travail et d'hébergement contraires à la dignité de
-la personne, le respect dû aux morts ;
-
-- les atteintes aux mineurs et à la famille/délaissement du mineur, abandon de famille, atteintes à l'exercice de l'autorité
-parentale, atteintes à la filiation, les délits de mise en péril des mineurs.
-
-B. - Infractions contre les biens :
-
-- le vol ;
-
-- l'escroquerie ;
-
-- l'abus frauduleux de l'état d'ignorance ;
-
-- les détournements ;
-
-- les abus de biens sociaux ;
-
-- la filouterie ;
-
-- l'extorsion ;
-
-- le chantage ;
-
-- le recel ;
-
-- l'immunité familiale ;
-
-- les menaces ;
-
-- les destructions, dégradations, détériorations ;
-
-- les atteintes aux systèmes de traitement automatisé de données.
-
-C. - Infractions contre la nation, l'Etat et la paix publique :
-
-- l'association de malfaiteurs ;
-
-- les faux ;
-
-- les crimes et délits commis par ou contre un fonctionnaire.
-
-D. - Les infractions à la police de la circulation routière.
-
-E. - Les problèmes internationaux et européens de la législation pénale :
-
-- libertés publiques ;
-
-- introductions générales aux libertés publiques ;
-
-- les libertés individuelles et la vie privée ;
-
-- la sûreté ou liberté individuelle ;
-
-- la liberté d'aller et venir ;
-
-- le respect de la vie privée, du domicile et des correspondances ;
-
-- le respect de la personne et les lois antidiscriminatoires ;
-
-- les libertés d'expression collectives ;
-
-- la liberté d'association ;
-
-- la liberté de réunion ;
-
-- le régime des manifestations ;
-
-- le régime des attroupements ;
-
-- la liberté de la presse ;
-
-- les libertés à contenu économique et social ;
-
-- la liberté syndicale ;
-
-- le droit de grève ;
-
-- les libertés contemporaines ;
-
-- la motivation des décisions administratives ;
-
-- l'accès aux documents administratifs ;
-
-- l'informatique et les libertés.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Arrêté 1958-12-23
-
 	**Modifié par**:
 
-	  - Arrêté 1999-06-11 art. 1 JORF 15 juin 1999
+	  - Arrêté du 11 juillet 2008 - art. 1
+
+	**Liens**:
+
+	  - TRANSFERE: Arrêté du 9 août 2016 - art. 2
 
 	**Cite**:
 
-	  - CODE DE PROCEDURE PENALE - art. A22 (Ab)
+	  - Code de procédure pénale - art. 16
+
+	**Nouveaux textes**:
+
+	  - Code de procédure pénale - art. A13 (V)
+
+
+###### Article A23
+
+Le programme des épreuves de l'examen prévu par l'article qui précède est le suivant : 
+
+Procédure pénale 
+
+L'action publique et l'action civile : notions générales. 
+
+Les autorités investies par la loi de missions de police judiciaire : 
+
+- la police judiciaire ; 
+
+- le ministère public ; 
+
+- le magistrat instructeur. 
+
+Les enquêtes, les contrôles d'identité : 
+
+- les cadres juridiques ; 
+
+- les contrôles, les vérifications et les relevés d'identité.
+
+L'instruction : 
+
+- du premier et du second degré ; 
+
+- le contrôle judiciaire et la détention provisoire ; 
+
+- la commission rogatoire. 
+
+Les procédures particulières : 
+
+- l'entraide judiciaire internationale ; 
+
+- la procédure applicable à la criminalité et à la délinquance organisées. 
+
+La procédure pénale applicable aux mineurs. 
+
+Le contrôle de la mission de police judiciaire. 
+
+Les mandats de justice. 
+
+Les juridictions de jugement.
+
+L'exécution des décisions de justice : 
+
+- la contrainte judiciaire ; 
+
+- les juridictions de l'application des peines. 
+
+Droit pénal général 
+
+La loi pénale : 
+
+- les principes généraux ; 
+
+- l'application de la loi pénale dans le temps et dans l'espace.
+
+L'infraction pénale : 
+
+- la classification des infractions ; 
+
+- les éléments constitutifs de l'infraction ; 
+
+- les circonstances aggravantes. 
+
+La responsabilité pénale : 
+
+- les dispositions générales : la tentative, la coaction et la complicité ; 
+
+- la responsabilité pénale des personnes morales ; 
+
+- les causes d'irresponsabilité ou d'atténuation de la responsabilité. 
+
+Les peines : 
+
+- la classification légale ; 
+
+- le concours d'infractions ; 
+
+- la récidive ; 
+
+- la réitération d'infractions. 
+
+Droit pénal spécial 
+
+Les crimes et délits contre les personnes : 
+
+- les atteintes à la vie de la personne ; 
+
+- les atteintes à l'intégrité physique ou psychique de la personne ; 
+
+- la mise en danger de la personne ; 
+
+- les atteintes aux libertés de la personne ; 
+
+- les atteintes à la dignité de la personne ; 
+
+- les atteintes à la personnalité ; 
+
+- les atteintes aux mineurs et à la famille. 
+
+Les crimes et délits contre les biens : 
+
+- le vol ; 
+
+- l'extorsion ; 
+
+- l'escroquerie et les infractions voisines ; 
+
+- les détournements ; 
+
+- le recel et les infractions assimilées ou voisines ; 
+
+- les destructions, dégradations et détériorations ; 
+
+- les atteintes aux systèmes de traitement automatisé de données. 
+
+Les crimes et délits contre la Nation, l'Etat et la paix publique : 
+
+- les atteintes à l'administration publique commises par des personnes exerçant une fonction publique ; 
+
+- les atteintes à l'administration publique commises par des particuliers ; 
+
+- les atteintes à l'action de la justice ; 
+
+- les atteintes à la confiance publique ; 
+
+- la participation à une association de malfaiteurs. 
+
+La falsification de moyens de paiement. 
+
+Les infractions au régime des matériels de guerre, des armes et des munitions. 
+
+Les infractions délictuelles à la circulation routière. 
+
+Libertés publiques 
+
+Introduction générale aux libertés publiques. 
+
+Les libertés individuelles et la vie privée : 
+
+- la sûreté ; 
+
+- la liberté d'aller et venir ; 
+
+- le respect de la vie privée, du domicile et des correspondances ; 
+
+- le respect de la personne et les lois anti-discriminatoires ; 
+
+- la CNIL. 
+
+Les libertés d'expression collectives : 
+
+- le régime des manifestations ; 
+
+- le régime des attroupements ; 
+
+- la liberté de la presse.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Arrêté du 11 juillet 2008 - art. 2
+
+	**Liens**:
+
+	  - TRANSFERE: Arrêté du 9 août 2016 - art. 3
+
+	**Nouveaux textes**:
+
+	  - Code de procédure pénale - art. A16 (V)
 
 
 ###### Article A24
 
 Peuvent être admis à subir l'examen technique destiné à l'attribution de la qualité d'officier de police judiciaire les
-fonctionnaires du corps     d'encadrement et d'application  de la police nationale comptant au moins deux ans de services
-dans le corps au 1er janvier de l'année de l'examen.
+fonctionnaires du corps d'encadrement et d'application comptant au moins trois ans de service dans le corps au 1er janvier de
+l'année de l'examen.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Arrêté du 30 avril 2008 - art. 1
+	  - Arrêté du 11 juillet 2008 - art. 3
+
+	**Liens**:
+
+	  - TRANSFERE: Arrêté du 9 août 2016 - art. 4
+
+	**Nouveaux textes**:
+
+	  - Code de procédure pénale - art. A15 (V)
 
 
 ###### Article A25
