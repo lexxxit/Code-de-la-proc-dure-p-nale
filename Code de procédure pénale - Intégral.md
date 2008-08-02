@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 2008-07-31
+Version Consolidée au 2008-08-03
 
 # Partie législative
 
@@ -43256,30 +43256,29 @@ Pour l'enquête, la poursuite, l'instruction et, s'il s'agit de délits, le juge
 des eaux marines et des voies ouvertes à la navigation maritime prévues et réprimées par la sous-section 2 de la section 1 du
 chapitre VIII du titre Ier du livre II du code de l'environnement, qui sont commises dans les eaux territoriales, les eaux
 intérieures et les voies navigables, la compétence d'un tribunal de grande instance peut être étendue au ressort d'une ou
-plusieurs cours d'appel.
+plusieurs cours d'appel. 
 
 Les dispositions du premier alinéa s'appliquent également lorsque les infractions mentionnées dans cet alinéa, à l'exception
-de celle visée à l'article L. 218-22 du code de l'environnement, sont commises dans la zone économique exclusive ou dans la
-zone de protection écologique.
+de celle visée à l'article L. 218-19 du code de l'environnement, sont commises dans la zone économique exclusive ou dans la
+zone de protection écologique. 
 
 Toutefois, dans les affaires qui sont ou apparaissent d'une grande complexité, le procureur de la République près le tribunal
 de grande instance mentionné au premier alinéa peut requérir le juge d'instruction, dans les conditions et selon les
-modalités prévues par les articles 706-110 et 706-111 de se dessaisir au profit du tribunal de grande instance de Paris.
+modalités prévues par les articles 706-110 et 706-111 de se dessaisir au profit du tribunal de grande instance de Paris. 
 
-Cette compétence s'étend aux infractions connexes.
+Le tribunal de grande instance de Paris peut également connaître des infractions qui sont ou apparaissent d'une grande
+complexité dès le stade de l'enquête. 
+
+Cette compétence s'étend aux infractions connexes. 
 
 Un décret fixe la liste et le ressort de ces juridictions du littoral maritime, qui comprennent une section du parquet et des
 formations d'instruction et de jugement spécialisées pour connaître de ces infractions.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Ordonnance 58-1296 1958-12-23
-
-	**Créé par**:
-
-	  - Loi n°2004-204 du 9 mars 2004 - art. 29 () JORF 10 mars 2004
+	  - Loi n°2008-757 du 1er août 2008 - art. 6 (V)
 
 	**Cité par**:
 
@@ -43298,26 +43297,26 @@ formations d'instruction et de jugement spécialisées pour connaître de ces in
 
 	  - PILOTE_SUIVEUR: Code de l'environnement - art. L218-29 (MMN)
 
+	**Cite**:
+
+	  - Code de l'environnement - art. L218-19
+
 
 ###### Article 706-108
 
 Pour l'enquête, la poursuite, l'instruction et le jugement des infractions visées à l'article 706-107 commises hors des
-espaces maritimes sous juridiction française à bord d'un navire français, le tribunal de grande instance compétent est le
-tribunal de grande instance de Paris.
+espaces maritimes sous juridiction française, le tribunal de grande instance compétent est le tribunal de grande instance de
+Paris. 
 
 Le tribunal de grande instance de Paris est également compétent pour l'enquête, la poursuite, l'instruction et le jugement de
-l'infraction visée à l'article L. 218-22 du code de l'environnement, ainsi que des infractions qui lui sont connexes, lorsque
+l'infraction visée à l'article L. 218-19 du code de l'environnement, ainsi que des infractions qui lui sont connexes, lorsque
 ces infractions sont commises dans la zone économique exclusive ou dans la zone de protection écologique.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Ordonnance 58-1296 1958-12-23
-
-	**Créé par**:
-
-	  - Loi n°2004-204 du 9 mars 2004 - art. 29 () JORF 10 mars 2004
+	  - Loi n°2008-757 du 1er août 2008 - art. 6 (V)
 
 	**Cité par**:
 
@@ -43327,6 +43326,11 @@ ces infractions sont commises dans la zone économique exclusive ou dans la zone
 	**Liens**:
 
 	  - PILOTE_SUIVEUR: Code de l'environnement - art. L218-29 (MMN)
+
+	**Cite**:
+
+	  - Code de procédure pénale - art. 706-107
+	  - Code de l'environnement - art. L218-19
 
 
 #### Chapitre Ier : De la pollution des eaux maritimes par rejets des navires
@@ -71366,76 +71370,81 @@ fixée par l'arrêté prévu par l'article R121 du code de procédure pénale.
 
 Sont, en outre, assimilées aux frais de justice criminelle, correctionnelle et de police, les dépenses qui résultent : 
 
-1° Des procédures suivies en application des lois concernant la protection de l' enfance en danger. 
+1° Des procédures suivies en application des lois concernant la protection de l'enfance en danger ; 
 
-2° De l' application de la législation sur le régime des aliénés. 
+2° De l'application de la législation sur le régime des aliénés ; 
 
 3° Des procédures suivies en application de la législation en matière de tutelle des mineurs, de tutelle et curatelle des
-majeurs et de sauvegarde de justice. 
+majeurs et de sauvegarde de justice ; 
 
-4° Des frais exposés à la requête du ministère public lorsque celui- ci est partie principale ou partie jointe en matière
-civile, commerciale et prud' homale et des dépens qui peuvent être laissés à la charge du ministère public, lorsque celui- ci
-est partie principale en application de l' article 696 du code de procédure civile. 
+4° Des frais exposés à la requête du ministère public lorsque celui-ci est partie principale ou partie jointe en matière
+civile, commerciale et prud'homale et des dépens qui peuvent être laissés à la charge du ministère public, lorsque celui-ci
+est partie principale en application de l'article 696 du code de procédure civile ; 
 
-5° Des inscriptions hypothécaires requises par le ministère public. 
+5° Des inscriptions hypothécaires requises par le ministère public ; 
 
-6° Des avances faites en matière de règlement judiciaire ou de liquidation des biens dans les cas prévus à l' article 94 de
-la loi n° 67- 563 du 13 juillet 1967, ainsi que des frais relatifs aux jugements de clôture pour insuffisance d' actif. 
+6° Des avances faites en matière de règlement judiciaire ou de liquidation des biens dans les cas prévus à l'article 94 de la
+loi n° 67-563 du 13 juillet 1967, ainsi que des frais relatifs aux jugements de clôture pour insuffisance d'actif ; 
 
 7° Des avances faites par le Trésor public en matière de redressement et de liquidation judiciaire des entreprises, en
-application de l' article L. 663- 1 du code de commerce. 
+application de l'article L. 663-1 du code de commerce ; 
 
-8° Des frais de copie, droits, redevances et émoluments dus aux greffiers des tribunaux de commerce à l' occasion de toute
-procédure pour la délivrance des pièces à l' autorité judiciaire. 
+8° Des frais de copie, droits, redevances et émoluments dus aux greffiers des tribunaux de commerce à l'occasion de toute
+procédure pour la délivrance des pièces à l'autorité judiciaire ; 
 
-9° De la contribution versée par l' Etat au titre de l' aide juridictionnelle. 
+9° De la contribution versée par l'Etat au titre de l'aide juridictionnelle ; 
 
-10° Des frais et dépens mis à la charge du Trésor public soit en application d' une disposition législative ou réglementaire,
-soit en cas de décision juridictionnelle rectifiant ou interprétant une précédente décision. 
+10° Des frais et dépens mis à la charge du Trésor public soit en application d'une disposition législative ou réglementaire,
+soit en cas de décision juridictionnelle rectifiant ou interprétant une précédente décision ; 
 
-11° Des frais exposés devant la commission prévue par l' article 16- 2. 
+11° Des frais exposés devant la commission prévue par l'article 16-2 ; 
 
-12° Des enquêtes ordonnées en matière d' exercice de l' autorité parentale. 
+12° Des enquêtes ordonnées en matière d'exercice de l'autorité parentale ; 
 
-13° Des indemnités de transport et de séjour des magistrats, des greffiers et des secrétaires des juridictions de l' ordre
-judiciaire, sans préjudice des dispositions de l' article R. 92. 
+13° Des indemnités de transport et de séjour des magistrats, des greffiers et des secrétaires des juridictions de l'ordre
+judiciaire, sans préjudice des dispositions de l'article R. 92 ; 
 
-14° Des frais postaux des greffes des juridictions civiles nécessités par les actes et procédures ainsi que par l' envoi des
-bulletins de casier judiciaire. 
+14° Des frais postaux des greffes des juridictions civiles nécessités par les actes et procédures ainsi que par l'envoi des
+bulletins de casier judiciaire ; 
 
-15° Des actes faits d' office en matière de mesures conservatoires prises après l' ouverture d' une succession. 
+15° Des actes faits d'office en matière de mesures conservatoires prises après l'ouverture d'une succession ; 
 
-16° Des dispositions législatives ou réglementaires particulières prévoyant que l' avance doit être faite par le Trésor
-public. 
+16° Des dispositions législatives ou réglementaires particulières prévoyant que l'avance doit être faite par le Trésor
+public ; 
 
-17° Des frais d' interprète exposés dans le cadre du contentieux judiciaire relatif au maintien des étrangers dans des locaux
-ne relevant pas de l' administration pénitentiaire. 
+17° Des frais d'interprète exposés dans le cadre du contentieux judiciaire relatif au maintien des étrangers dans des locaux
+ne relevant pas de l'administration pénitentiaire ; 
 
-18° Des frais des mesures d' instruction prévues à l' article L. 332- 2 du code de la consommation. 
+18° Des frais des mesures d'instruction prévues à l'article L. 332-2 du code de la consommation ; 
 
-19° Les frais d' impression, d' insertion, de publication et de diffusion audiovisuelle des arrêts, jugements et ordonnances
-de justice en application de l' article 131- 35 du code pénal. 
+19° Les frais d'impression, d'insertion, de publication et de diffusion audiovisuelle des arrêts, jugements et ordonnances de
+justice en application de l'article 131-35 du code pénal ; 
 
-20° Les frais d' une immobilisation décidée en application du 5° de l' article 131- 6 et du 2° de l' article 131- 14 du code
-pénal. 
+20° Les frais d'une immobilisation décidée en application du 5° de l'article 131-6 et du 2° de l'article 131-14 du code
+pénal ; 
 
-21° Les frais des administrateurs ad hoc désignés en application des articles 388- 2 et 389- 3 du code civil, lorsqu' ils
-figurent sur la liste prévue à l' article R. 53. 
+21° Les frais des administrateurs ad hoc désignés en application des articles 388-2 et 389-3 du code civil, lorsqu'ils
+figurent sur la liste prévue à l'article R. 53 ; 
 
-22° Des indemnités forfaitaires des administrateurs ad hoc institués pour la représentation des mineurs maintenus en zone d'
-attente ou demandeurs du statut de réfugié par application de l' article 17 de la loi n° 2002- 305 du 4 mars 2002 et désignés
-conformément à son décret d' application n° 2003- 841 du 2 septembre 2003. 
+22° Des indemnités des administrateurs ad hoc désignés pour assurer la représentation des mineurs étrangers isolés en
+application des dispositions prévues à l'article R. 111-20 du code de l'entrée et du séjour des étrangers et du droit
+d'asile ; 
 
-23° La rémunération et les indemnités des interprètes désignés en application de l' article 23- 1 du code de procédure
-civile. 
+23° La rémunération et les indemnités des interprètes désignés en application de l'article 23-1 du code de procédure
+civile ; 
 
-24° La rémunération et les indemnités des interprètes désignés par le tribunal de grande instance pour l' exécution d' une
-mesure d' instruction à la demande d' une juridiction étrangère en application du règlement (CE) n° 1206 / 2001 du Conseil du
-28 mai 2001 relatif à la coopération entre les juridictions des Etats membres dans le domaine de l' obtention des preuves en
-matière civile et commerciale. 
+24° La rémunération et les indemnités des interprètes désignés par le tribunal de grande instance pour l'exécution d'une
+mesure d'instruction à la demande d'une juridiction étrangère en application du règlement (CE) n° 1206 / 2001 du Conseil du
+28 mai 2001 relatif à la coopération entre les juridictions des Etats membres dans le domaine de l'obtention des preuves en
+matière civile et commerciale ; 
 
-25° Des frais de la notification prévue à l' article 30- 3 de l' annexe du code de procédure civile relative à son
-application dans les départements du Bas- Rhin, du Haut- Rhin et de la Moselle.
+25° Des frais de la notification prévue à l'article 30-3 de l'annexe du code de procédure civile relative à son application
+dans les départements du Bas-Rhin, du Haut-Rhin et de la Moselle.
+
+**Nota:**
+
+Décret n° 2008-764 du 30 juillet 2008 article 15 II : Les dispositions résultant des articles 8, 9, 11, 12, 13 et 14 du
+présent décret entreront en vigueur à la date fixée par les arrêtés prévus par ces dispositions.
 
 **Liens relatifs à cet article**
 
@@ -71465,9 +71474,27 @@ application dans les départements du Bas- Rhin, du Haut- Rhin et de la Moselle.
 	  - Code de procédure pénale - art. R93-3 (V)
 	  - Code des procédures civiles d'exécution - art. R213-7 (V)
 
+	**Cite**:
+
+	  - Loi n°67-563 du 13 juillet 1967
+	  - Code de commerce - art. L663-1
+	  - Code de la consommation - art. L332-2
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R111-20
+	  - Code de procédure civile - art. 23-1
+	  - Code de procédure civile - art. 696
+	  - Code de procédure civile - art. ANNEXE, art. 30-3
+	  - Code pénal - art. 131-14
+	  - Code pénal - art. 131-35
+	  - Code pénal - art. 131-6
+	  - Code civil - art. 388-2
+	  - Code civil - art. 389-3
+	  - Code de procédure pénale - art. R53
+	  - Code de procédure pénale - art. R92
+	  - Règlement CE 1206/2001 2001-05-28
+
 	**Modifié par**:
 
-	  - Décret n°2008-484 du 22 mai 2008 - art. 22 (V)
+	  - Décret n°2008-764 du 30 juillet 2008 - art. 14
 
 
 ###### Article R93-1
@@ -72601,13 +72628,14 @@ par l'arrêté prévu par l'article R121 du code de procédure pénale.
 
 ###### Article R121-1
 
-Il est alloué aux enquêteurs de personnalité et aux contrôleurs judiciaires, personnes physiques habilitées :
+Il est alloué aux enquêteurs de personnalité et aux contrôleurs judiciaires, personnes physiques habilitées : 
 
 1° Pour la vérification de la situation matérielle, familiale ou sociale des personnes faisant l'objet d'une enquête prévue
-par les articles 41 (alinéa 6) et 81 (alinéa 7) : IP. 1 ;
+par les articles 41 (alinéa 6) et 81 (alinéa 7) : IP. 1 ; 
 
 2° Pour l'enquête sur la personnalité des personnes mises en examen ainsi que sur leur situation matérielle, familiale ou
-sociale, prévue par l'article 81 (alinéa 6) : IP.2 ;
+sociale, prévue par l'article 81 (alinéa 6) ou pour l'enquête sur la personnalité de la victime ainsi que sur la nature et
+l'importance des préjudices subis par elle, prévue par l'article 81-1 : IP. 2 ; 
 
 3° Pour la mission de contrôle judiciaire exercée sur chaque personne mise en examen, en application des 6° ou 17° de
 l'article 138 :
@@ -72616,7 +72644,7 @@ l'article 138 :
 
 - IP. 4 lorsque la mission de contrôle judiciaire dure plus de trois mois sans excéder un an ;
 
-- IP. 5 lorsque la mission de contrôle judiciaire dure plus d'un an.
+- IP. 5 lorsque la mission de contrôle judiciaire dure plus d'un an. 
 
 4° Pour une mission de mise en oeuvre d'un sursis avec mise à l'épreuve leur ayant été confiée en application des
 dispositions du dernier alinéa de l'article 471 :
@@ -72627,20 +72655,7 @@ dispositions du dernier alinéa de l'article 471 :
 
 - IP. 5 lorsqu'elle dure plus d'un an.
 
-**Nota:**
-
-Décret 2007-1388 du 26 septembre 2007 art. 16 V : Les dispositions du présent article entreront en vigueur à la date fixée
-par l'arrêté prévu par l'article R121 du code de procédure pénale.
-
 **Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°59-318 1959-02-23
-
-	**Modifié par**:
-
-	  - Décret n°2007-1388 du 26 septembre 2007 - art. 16 () JORF 28 septembre 2007
 
 	**Cité par**:
 
@@ -72651,9 +72666,17 @@ par l'arrêté prévu par l'article R121 du code de procédure pénale.
 	  - Code de la sécurité sociale. - art. D311-1 (V)
 	  - Code de procédure pénale - art. R121 (V)
 
-	**Liens**:
+	**Modifié par**:
 
-	  - SPEC_APPLI: Date d'entrée en vigueur indéterminée
+	  - Décret n°2008-764 du 30 juillet 2008 - art. 10
+
+	**Cite**:
+
+	  - Code de procédure pénale - art. 138
+	  - Code de procédure pénale - art. 41
+	  - Code de procédure pénale - art. 471 (V)
+	  - Code de procédure pénale - art. 81
+	  - Code de procédure pénale - art. 81-1
 
 
 ###### Article R121-2
@@ -72719,46 +72742,34 @@ convocations, l'indemnité est de IP. 14.
 
 ###### Article R121-3
 
-Il est alloué à l'association habilitée ayant passé la convention prévue au troisième alinéa de l'article R. 15-37 :
+Il est alloué à l'association habilitée ayant passé la convention prévue au troisième alinéa de l'article R. 15-37 : 
 
 1° Pour la vérification de la situation matérielle, familiale ou sociale d'une personne faisant l'objet d'une enquête,
-accomplie en application du sixième alinéa de l'article 41 ou du septième alinéa de l'article 81 : IA. 1 ;
+accomplie en application du sixième alinéa de l'article 41 ou du septième alinéa de l'article 81 : IA. 1 ; 
 
 2° Pour la tenue d'une permanence les samedis, dimanches ou jours fériés, lorsque pendant celle-ci aucune mesure n'a été
-prescrite en application du sixième alinéa de l'article 41 ou du septième alinéa de l'article 81 : IA. 2 ;
+prescrite en application du sixième alinéa de l'article 41 ou du septième alinéa de l'article 81 : IA. 2 ; 
 
 3° Pour une enquête sur la personnalité d'une personne mise en examen ainsi que sur sa situation matérielle, familiale ou
-sociale, menée en application du sixième alinéa de l'article 81 : IA. 3 ;
+sociale, menée en application du sixième alinéa de l'article 81 ou pour l'enquête sur la personnalité de la victime ainsi que
+sur la nature et l'importance des préjudices subis par elle, menée en application de l'article 81-1 : IA. 3 ; 
 
 4° Pour une mission de mise en oeuvre d'une des obligations du contrôle judiciaire énumérées au 6° ou au 17° de l'article
-138 :
+138 : 
 
 IA. 4 pour les six premiers mois de contrôle judiciaire et IA. 5 par période de six mois supplémentaires dans la limite de
-trente-six mois ;
+trente-six mois ; 
 
 5° Pour une mission de mise en oeuvre d'un sursis avec mise à l'épreuve lui ayant été confiée en application des dispositions
-du dernier alinéa de l'article 471 : IA. 5 par période de six mois.
+du dernier alinéa de l'article 471 : IA. 5 par période de six mois. 
 
 L'indemnité est majorée de 10 % pour les mesures ordonnées par une juridiction dans le ressort de laquelle la population,
-selon les données authentifiées du dernier recensement, est au plus égale à 170 000 habitants.
+selon les données authentifiées du dernier recensement, est au plus égale à 170 000 habitants. 
 
 L'indemnité est réduite de 70 % pour celles des mesures mentionnées aux 3°, 4° et 5° ci-dessus qui sont exécutées, pour le
 compte de la personne morale habilitée, par une personne qui n'est pas salariée par elle.
 
-**Nota:**
-
-Décret 2007-1388 du 26 septembre 2007 art. 16 V : Les dispositions du présent article entreront en vigueur à la date fixée
-par l'arrêté prévu par l'article R121 du code de procédure pénale.
-
 **Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - SPEC_APPLI: Date d'entrée en vigueur indéterminée
-
-	**Codifié par**:
-
-	  - Décret n°59-318 1959-02-23
 
 	**Cité par**:
 
@@ -72767,7 +72778,16 @@ par l'arrêté prévu par l'article R121 du code de procédure pénale.
 
 	**Modifié par**:
 
-	  - Décret n°2007-1388 du 26 septembre 2007 - art. 16 () JORF 28 septembre 2007
+	  - Décret n°2008-764 du 30 juillet 2008 - art. 10
+
+	**Cite**:
+
+	  - Code de procédure pénale - art. 138
+	  - Code de procédure pénale - art. 41 (V)
+	  - Code de procédure pénale - art. 471
+	  - Code de procédure pénale - art. 81
+	  - Code de procédure pénale - art. 81-1
+	  - Code de procédure pénale - art. R15-37
 
 
 ###### Article R121-4
@@ -77534,28 +77554,30 @@ sociale " sont remplacés par les mots : " fixés localement pour des actes simi
 
 ###### Article R321
 
-Pour l'application de l'article R. 117, le paragraphe c du 1° est rédigé comme suit :
+Pour l'application de l'article R. 117, le paragraphe c du 1° est rédigé comme suit : 
 
-c) Pour l'examen clinique et la prise de sang prévus par la réglementation applicable localement en matière de débit de
-boissons :
+" c) Pour les examens cliniques, prises de sang, prélèvements biologiques et recueil de liquides biologiques destinés à
+déterminer la présence d'alcool ou de substances ou plantes classées comme stupéfiants dans l'organisme :
 
-- auxquels il est procédé entre 7 heures et 22 heures :
+" -auxquels il est procédé entre 7 heures et 22 heures : C × Q3 ;
 
-C 1,5 ;
+" -auxquels il est procédé entre 22 heures et 7 heures : C × Q4 (plus une indemnité de 18,45 €, 2 200 F CFP) ;
 
-- auxquels il est procédé entre 22 heures et 7 heures : C 1,5 (plus une indemnité de 18,45 Euros, 2 200 F CFP) ;
-
-- auxquels il est procédé les dimanches et jours fériés : C 1,5 (plus une indemnité de 13,42 Euros, 1 600 F CFP) ;
+" -auxquels il est procédé les dimanches et jours fériés : C × Q5 (plus une indemnité de 13,42 €, 1 600 F CFP) ; "
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°59-318 1959-02-23
+	  - Décret n°2008-764 du 30 juillet 2008 - art. 16
 
-	**Créé par**:
+	**Abrogé par**:
 
-	  - Décret n°2005-404 du 27 avril 2005 - art. 11 () JORF 30 avril 2005
+	  - Décret n°2017-248 du 27 février 2017 - art. 8 (V)
+
+	**Cite**:
+
+	  - Code de procédure pénale - art. R117
 
 
 ###### Article R322
@@ -79603,32 +79625,6 @@ séjour : 83,85 euros. "
 	**Créé par**:
 
 	  - Décret n°2005-404 du 27 avril 2005 - art. 17 () JORF 30 avril 2005
-
-
-###### Article R408
-
-L'avant-dernier alinéa de l'article R. 122 est rédigé comme suit :
-
-Les sommes fixées par le présent article sont majorées de 25 % lorsque la traduction porte sur une langue autre que l'anglais
-ou l'une des langues parlées à Mayotte.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°59-318 1959-02-23
-
-	**Créé par**:
-
-	  - Décret n°2005-404 du 27 avril 2005 - art. 17 () JORF 30 avril 2005
-
-	**Abrogé par**:
-
-	  - Décret n°2008-764 du 30 juillet 2008 - art. 16
-
-	**Cite**:
-
-	  - Code de procédure pénale - art. R122
 
 
 ###### Article R409
