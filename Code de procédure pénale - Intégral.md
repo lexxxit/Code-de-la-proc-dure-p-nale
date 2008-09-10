@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 2008-09-10
+Version Consolidée au 2008-09-11
 
 # Partie législative
 
@@ -72291,20 +72291,29 @@ Pour les échantillons suivants dans la même affaire : 7,17 euros.
 
 ###### Article R116-1
 
-Les tarifs d'honoraires correspondant aux actes d'expertise prévus par les articles R. 117 à R. 120 sont déterminés par
-référence aux tarifs conventionnels d'honoraires fixés en application de l'article L. 162-15-2 du Code de la sécurité sociale
-et sont calculés, pour chacun de ces actes, d'après leur nature et leur valeur relative telles qu'elles résultent des
-cotations par lettres clés et coefficients mentionnées dans les articles suivants.
+Les tarifs d'honoraires correspondant aux actes d'expertise et d'examen prévus par les articles R. 117 à R. 120 sont
+déterminés par référence aux tarifs conventionnels d'honoraires fixés en application de l'article L. 162-15-2 du code de la
+sécurité sociale et sont calculés, pour chacun de ces actes, d'après leur nature et leur valeur relative telles qu'elles
+résultent des cotations par lettres clés et coefficients mentionnées dans les articles suivants. 
+
+Pour l'application de l'article R. 117, la valeur des coefficients Q1 à Q16 est fixée par arrêté conjoint du ministre de la
+justice et du ministre chargé du budget.
+
+**Nota:**
+
+Décret n° 2008-764 du 30 juillet 2008 article 15 II : Les dispositions résultant des articles 8, 9, 11, 12, 13 et 14 du
+présent décret entreront en vigueur à la date fixée par les arrêtés prévus par ces dispositions.
+
+Arrêté du 2 septembre 2008 article 4 : Les dispositions résultant des articles 8, 9, 11, 12, 13 et 14 du décret du 30 juillet
+2008 susvisé, instituant ou modifiant les articles R. 116-1, R. 117, R. 122, R. 216 et R. 216-1 du code de procédure pénale,
+l'article 1210-3 du nouveau code de procédure civile et l'article R. 111-20 du code de l'entrée et du séjour des étrangers et
+du droit d'asile entrent en vigueur à la date de publication du présent arrêté (11 septembre 2008).
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Décret n°59-318 1959-02-23
-
 	**Modifié par**:
 
-	  - Décret n°2002-801 du 3 mai 2002 - art. 10 () JORF 5 mai 2002
+	  - Décret n°2008-764 du 30 juillet 2008 - art. 8
 
 	**Cité par**:
 
@@ -72313,72 +72322,77 @@ cotations par lettres clés et coefficients mentionnées dans les articles suiva
 	  - Code de procédure pénale - art. R320 (M)
 	  - Code de procédure pénale - art. R406 (V)
 
-	**Liens**:
+	**Abrogé par**:
 
-	  - TXT_SOURCE: CODE DE PROCEDURE PENALE - art. 800 (M)
+	  - Décret n°2017-248 du 27 février 2017 - art. 2
+
+	**Cite**:
+
+	  - Code de procédure pénale - art. R117
+	  - Code de la sécurité sociale. - art. L162-15-2
 
 
 ###### Article R117
 
 Chaque médecin régulièrement requis ou commis reçoit à titre d'honoraires une somme calculée en fonction des cotations
-[*lettres clés et coefficients*] suivantes :
+suivantes : 
 
-1° a) Pour une visite judiciaire comportant un ou plusieurs examens et le dépôt d'un rapport ... C 2,5 ;
+1° a) Pour une visite judiciaire comportant un ou plusieurs examens et le dépôt d'un rapport...C × Q1 ; 
 
 b) Pour une visite judiciaire comportant un ou plusieurs examens d'une victime, la fixation des taux d'incapacité et le dépôt
-d'un rapport ... C 3,5 ;
+d'un rapport...C × Q2 ; 
 
-c) Pour l'examen clinique et la prise de sang prévus aux articles R. 20 à R. 25 du Code des débits de boissons et pour
+c) Pour l'examen clinique et la prise de sang prévus aux articles R. 3354-7 à R. 3354-13 du code de la santé publique et pour
 l'examen clinique et le prélèvement biologique prévus par l'article R. 235-6 du code de la route, ainsi que le recueil de
-liquide biologique et le dépistage de stupéfiants prévus par l'article R. 235-4 du même code ;
+liquide biologique et le dépistage de stupéfiants prévus par l'article R. 6234-4 du même code :
 
-- auxquels il est procédé entre 7 heures et 22 heures ... C 1,5
+- auxquels il est procédé entre 7 heures et 22 heures : C × Q3 ;
 
-- auxquels il est procédé entre 22 heures et 7 heures ... C 1,5 (plus une indemnité de 70 F).
+- auxquels il est procédé entre 22 heures et 7 heures : C × Q4 (plus une indemnité de 10,67 €) ;
 
-- auxquels il est procédé les dimanches et jours fériés ... C 1,5 (plus une indemnité de 50 F).
+- auxquels il est procédé les dimanches et jours fériés : C × Q5 (plus une indemnité de 7,62 €) ; 
 
-d) Pour chaque examen prévu par l'article 706-29 du code de procédure pénale ... C 2.
+d) Pour chaque examen prévu par l'article 706-88 du code de procédure pénale : C × Q6 ; 
 
-e) Lorsque, par dérogation aux dispositions de l'article R. 235-3 du code de la route, le matériel nécessaire au dépistage
-est fourni par le praticien requis, les honoraires prévus au c ci-dessus sont augmentés d'une indemnité égale au prix
-unitaire d'acquisition de ce matériel sans pouvoir excéder 25 euros.
+e) Lorsque, par dérogation aux dispositions de l'article R. 235-3 du  code de la route, le matériel nécessaire au dépistage
+est fourni par le  praticien requis, les honoraires prévus au c ci-dessus sont augmentés  d'une indemnité égale au prix
+unitaire d'acquisition de ce matériel sans  pouvoir excéder 25 euros. 
 
-2° Pour un transport sur les lieux et description de cadavre ... C 2,5
+2° Pour un transport sur les lieux et description de cadavre...C × Q7 ; 
 
-Lorsque ces opérations sont effectuées par l'expert qui procède ultérieurement à l'autopsie ... C 1,5
+Lorsque ces opérations sont effectuées par l'expert qui procède ultérieurement à l'autopsie...C × Q8 ; 
 
-3° Pour autopsie avant inhumation ... Cs 6
+3° Pour autopsie avant inhumation... Cs × Q9 ; 
 
-4° Pour autopsie après exhumation ou autopsie de cadavre en état de décomposition avancée ... Cs 10
+4° Pour autopsie après exhumation ou autopsie de cadavre en état de décomposition avancée... Cs × Q10 ; 
 
-5° Pour autopsie de cadavre de nouveau-né avant inhumation ... Cs 3
+5° Pour autopsie de cadavre de nouveau-né avant inhumation... Cs × Q11 ; 
 
 6° Pour autopsie de cadavre de nouveau-né après exhumation ou autopsie de cadavre de nouveau-né en état de décomposition
-avancée ... Cs 5
+avancée... Cs × Q12 ; 
 
 7° Pour une expertise médico-psychologique comportant un ou plusieurs examens, pratiquée par un médecin ayant également la
-qualité de psychologue, intervenant en qualité d'expert unique :
-
-CNPSY 5 ;
+qualité de psychologue, intervenant en qualité d'expert unique : CNPSY × Q13 ; 
 
 8° Pour la partie médicale de l'expertise médico-psychologique pratiquée par un médecin et un psychologue mentionnée au 2° de
-l'article R. 120-2 : C 3,5 ;
+l'article R. 120-2 : C × Q14 ; 
 
-9° Pour une expertise psychiatrique comportant un ou plusieurs examens : CNPSY 6 ;
+9° Pour une expertise psychiatrique comportant un ou plusieurs examens : CNPSY × Q15 ; 
 
 10° Pour une expertise psychiatrique comportant un ou plusieurs examens et concernant une personne poursuivie ou condamnée
-pour infraction sexuelle : CNPSY 6,5.
+pour infraction sexuelle ou une victime d'une telle infraction : CNPSY × Q16.
+
+**Nota:**
+
+Décret n° 2008-764 du 30 juillet 2008 article 15 II : Les dispositions résultant des articles 8, 9, 11, 12, 13 et 14 du
+présent décret entreront en vigueur à la date fixée par les arrêtés prévus par ces dispositions.
+
+Arrêté du 2 septembre 2008 article 4 : Les dispositions résultant des articles 8, 9, 11, 12, 13 et 14 du décret du 30 juillet
+2008 susvisé, instituant ou modifiant les articles R. 116-1, R. 117, R. 122, R. 216 et R. 216-1 du code de procédure pénale,
+l'article 1210-3 du nouveau code de procédure civile et l'article R. 111-20 du code de l'entrée et du séjour des étrangers et
+du droit d'asile entrent en vigueur à la date de publication du présent arrêté (11 septembre 2008).
 
 **Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°59-318 1959-02-23
-
-	**Modifié par**:
-
-	  - Décret n°2001-751 du 27 août 2001 - art. 3 () JORF 28 août 2001 en vigueur le 1er octobre 2001
 
 	**Cité par**:
 
@@ -72395,6 +72409,19 @@ pour infraction sexuelle : CNPSY 6,5.
 	  - Code de procédure pénale - art. R93-2 (V)
 	  - Code de procédure pénale - art. R93-3 (V)
 	  - Code des débits de boissons et des mesures contre  - art. R*29 (Ab)
+
+	**Modifié par**:
+
+	  - Décret n°2008-764 du 30 juillet 2008 - art. 9
+
+	**Liens**:
+
+	  - RECTIFICATION: Décret n°2008-764 du 30 juillet 2008 (rectificatif)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. R3354-7
+	  - Code de la route. - art. R235-6
 
 
 ##### c) Toxicologie
@@ -72862,31 +72889,33 @@ par l'arrêté prévu par l'article R121 du code de procédure pénale.
 
 ###### Article R122
 
-Les traductions par écrit sont payées 11, 13 euros la page de texte français.
+Les traductions par écrit sont payées à la page de texte en français. Cette page compte 250 mots. 
 
-Lorsque les interprètes traducteurs sont appelés devant le procureur de la République, les officiers de police judiciaire ou
-leurs auxiliaires, devant les juges d'instruction ou devant les juridictions répressives pour faire les traductions orales,
-il leur est alloué :
+Les traductions par oral sont payées à l'heure de présence dès que l'interprète est mis à disposition du procureur de la
+République, des officiers de police judiciaire ou de leurs auxiliaires, des juges d'instruction ou des juridictions
+répressives. Toute heure commencée est due dans sa totalité. 
 
-1° Pour la première heure de présence, qui est toujours due en entier :
+Le tarif de la première heure de traduction est majoré. 
 
-A Paris et dans les départements des Hauts-de-Seine, de la Seine-Saint-Denis et du Val-de-Marne : 14,79 euros ;
+Le tarif de l'heure des traductions par oral fait l'objet de majorations quand ces dernières sont effectuées durant la nuit,
+le samedi et le dimanche et les jours fériés. 
 
-Dans les autres départements : 13,26 euros ;
-
-2° Par demi-heure supplémentaire, due en entier dès qu'elle est commencée : 7,32 ou 6,71 euros suivant la distinction ci-
-dessus.
-
-Les sommes fixées par le présent article sont majorées de 25 % lorsque la traduction porte sur une langue autre que
-l'anglais, l'allemand, l'espagnol ou l'italien.
+Un arrêté conjoint du ministre de la justice et du ministre chargé du budget fixe le tarif des traductions par oral et par
+écrit et de leurs majorations. 
 
 Les interprètes traducteurs ont droit aux indemnités de voyage et de séjour prévues aux articles R. 110 et R. 111.
 
+**Nota:**
+
+Décret n° 2008-764 du 30 juillet 2008 article 15 II : Les dispositions résultant des articles 8, 9, 11, 12, 13 et 14 du
+présent décret entreront en vigueur à la date fixée par les arrêtés prévus par ces dispositions.
+
+Arrêté du 2 septembre 2008 article 4 : Les dispositions résultant des articles 8, 9, 11, 12, 13 et 14 du décret du 30 juillet
+2008 susvisé, instituant ou modifiant les articles R. 116-1, R. 117, R. 122, R. 216 et R. 216-1 du code de procédure pénale,
+l'article 1210-3 du nouveau code de procédure civile et l'article R. 111-20 du code de l'entrée et du séjour des étrangers et
+du droit d'asile entrent en vigueur à la date de publication du présent arrêté (11 septembre 2008).
+
 **Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°59-318 1959-02-23
 
 	**Cité par**:
 
@@ -72906,40 +72935,11 @@ Les interprètes traducteurs ont droit aux indemnités de voyage et de séjour p
 
 	**Modifié par**:
 
-	  - Ordonnance 2000-916 2000-09-19 annexe JORF 22 septembre 2000 en vigueur le 1er janvier 2002
-
-	**Liens**:
-
-	  - TXT_SOURCE: CODE DE PROCEDURE PENALE - art. 800 (M)
-
-
-###### Article R122-1
-
-La somme fixée au premier alinéa de l'article R. 122 est majorée de 50 % lorsqu'il s'agit de la traduction d'un mandat
-d'arrêt européen devant être effectuée dans un délai inférieur à 48 heures, quelle que soit la langue utilisée.
-
-**Nota:**
-
-Décret n° 2008-764 du 30 juillet 2008 article 15 II : Les dispositions résultant des articles 8, 9, 11, 12, 13 et 14 du
-présent décret entreront en vigueur à la date fixée par les arrêtés prévus par ces dispositions.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°59-318 1959-02-23
-
-	**Créé par**:
-
-	  - Décret n°2004-1021 du 27 septembre 2004 - art. 18 () JORF 29 septembre 2004
-
-	**Abrogé par**:
-
 	  - Décret n°2008-764 du 30 juillet 2008 - art. 11
 
 	**Cite**:
 
-	  - Code de procédure pénale - art. R122
+	  - Code de procédure pénale - art. R110
 
 
 ##### Section 3 : Des indemnités qui peuvent être accordées aux témoins et aux jurés
@@ -74920,25 +74920,55 @@ civil, et sur la célébration des mariages, dans le cas prévu à l'article 192
 
 ###### Article R216
 
-Il est alloué à chaque personne désignée en qualité d'administrateur ad hoc, lorsqu'elle figure sur la liste prévue à
-l'article R. 53 ou qu'il a été fait application des dispositions de l'article R. 53-6, pour l'ensemble des frais exposés pour
-la défense des intérêts d'une victime mineure :
+En sus du remboursement de ses frais de déplacement, calculés dans les conditions fixées pour les déplacements des personnels
+civils de l'Etat pour le ministère de la justice, il est alloué à chaque personne désignée en qualité d'administrateur ad
+hoc, lorsqu'elle figure sur la liste prévue à l'article R. 53 ou qu'il a été fait application des dispositions de l'article
+R. 53-6, pour l'ensemble des frais exposés pour la défense des intérêts d'une victime mineure des indemnités, dont les
+montants Iaah1 à Iaah11 sont fixés par arrêté conjoint du ministre chargé du budget et du ministre de la justice, selon les
+distinctions suivantes : 
 
-1° Lorsque les faits ont donné lieu à l'ouverture d'une information devant le juge d'instruction : 381,12 euros ;
+1° Pour une enquête qui n'a pas été suivie d'une instruction préparatoire lorsque la désignation de l'administrateur ad hoc a
+été faite par le procureur de la République : Iaah1 ; 
 
-2° Lorsque la désignation de l'administrateur ad hoc a été faite par le procureur de la République au cours d'une enquête qui
-n'a pas été suivie d'une instruction préparatoire : 228,67 euros ;
+2° Pour une instruction correctionnelle lorsque les faits ont donné lieu à l'ouverture d'une information devant le juge
+d'instruction : Iaah2 ; 
 
-3° En cas de désignation par la juridiction de jugement : 152,45 euros.
+3° Pour une instruction criminelle lorsque les faits ont donné lieu à l'ouverture d'une information devant le juge
+d'instruction : Iaah3 ; 
 
-Lorsque l'administrateur ad hoc est désigné pour assurer la protection des intérêts de plusieurs mineurs d'une même fratrie,
-l'indemnité est réduite de 50 % pour chaque enfant à partir du deuxième.
+4° Pour une instruction devant le juge des enfants lorsque les faits ont donné lieu à l'ouverture d'une information :
+Iaah4 ; 
+
+5° Pour une fonction d'accompagnement du mineur à une audience du tribunal correctionnel : Iaah5 ; 
+
+6° Pour une fonction d'accompagnement du mineur à une audience de la cour d'assises des mineurs : Iaah6 ; 
+
+7° Pour une fonction d'accompagnement du mineur à une audience du tribunal pour enfants statuant en matière correctionnelle :
+Iaah7 ; 
+
+8° Pour une fonction d'accompagnement du mineur à une audience du tribunal pour enfants statuant en matière criminelle :
+Iaah8 ; 
+
+9° Pour la représentation du mineur lorsque l'administrateur ad hoc interjette appel devant la chambre des appels
+correctionnels ou la chambre spéciale des mineurs : Iaah9 ; 
+
+10° Pour la représentation du mineur lorsque l'administrateur ad hoc interjette appel devant la cour d'assises des mineurs
+statuant en appel : Iaah10 ; 
+
+11° Pour une indemnité de carence en cas de difficultés dans le déroulement de la mission de l'administrateur ad hoc, sur la
+base d'un rapport indiquant les diligences accomplies, dans les conditions définies à l'article R. 53-8 : Iaah11.
+
+**Nota:**
+
+Décret n° 2008-764 du 30 juillet 2008 article 15 II : Les dispositions résultant des articles 8, 9, 11, 12, 13 et 14 du
+présent décret entreront en vigueur à la date fixée par les arrêtés prévus par ces dispositions.
+
+Arrêté du 2 septembre 2008 article 4 : Les dispositions résultant des articles 8, 9, 11, 12, 13 et 14 du décret du 30 juillet
+2008 susvisé, instituant ou modifiant les articles R. 116-1, R. 117, R. 122, R. 216 et R. 216-1 du code de procédure pénale,
+l'article 1210-3 du nouveau code de procédure civile et l'article R. 111-20 du code de l'entrée et du séjour des étrangers et
+du droit d'asile entrent en vigueur à la date de publication du présent arrêté (11 septembre 2008).
 
 **Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°59-318 1959-02-23
 
 	**Cité par**:
 
@@ -74947,20 +74977,32 @@ l'indemnité est réduite de 50 % pour chaque enfant à partir du deuxième.
 
 	**Modifié par**:
 
-	  - Ordonnance 2000-916 2000-09-19 annexe JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+	  - Décret n°2008-764 du 30 juillet 2008 - art. 12
+
+	**Cite**:
+
+	  - Code de procédure pénale - art. R53
+	  - Code de procédure pénale - art. R53-6
+	  - Code de procédure pénale - art. R53-8
 
 
 ###### Article R216-1
 
-En cas d'ouverture d'une information judiciaire, une provision d'un montant maximum de 228,67 euros peut être accordée par le
-juge d'instruction à l'administrateur ad hoc, sur sa demande, si ce dernier remet en cours de mission et au moins six mois
-après sa désignation, un rapport récapitulant les démarches effectuées et les formalités accomplies.
+En cas d'ouverture d'une information judiciaire, une provision d'un montant maximum de Iaah2 peut être accordée par le juge
+d'instruction à l'administrateur ad hoc, sur sa demande, si ce dernier remet en cours de mission et au moins six mois après
+sa désignation, un rapport récapitulant les démarches effectuées et les formalités accomplies.
+
+**Nota:**
+
+Décret n° 2008-764 du 30 juillet 2008 article 15 II : Les dispositions résultant des articles 8, 9, 11, 12, 13 et 14 du
+présent décret entreront en vigueur à la date fixée par les arrêtés prévus par ces dispositions.
+
+Arrêté du 2 septembre 2008 article 4 : Les dispositions résultant des articles 8, 9, 11, 12, 13 et 14 du décret du 30 juillet
+2008 susvisé, instituant ou modifiant les articles R. 116-1, R. 117, R. 122, R. 216 et R. 216-1 du code de procédure pénale,
+l'article 1210-3 du nouveau code de procédure civile et l'article R. 111-20 du code de l'entrée et du séjour des étrangers et
+du droit d'asile entrent en vigueur à la date de publication du présent arrêté (11 septembre 2008).
 
 **Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°59-318 1959-02-23
 
 	**Cité par**:
 
@@ -74968,7 +75010,7 @@ après sa désignation, un rapport récapitulant les démarches effectuées et l
 
 	**Modifié par**:
 
-	  - Ordonnance 2000-916 2000-09-19 annexe JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+	  - Décret n°2008-764 du 30 juillet 2008 - art. 12
 
 
 ##### Paragraphe 2 : Procédures suivies en application de la législation sur les incapables
