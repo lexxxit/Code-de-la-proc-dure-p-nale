@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 2008-09-11
+Version Consolidée au 2008-09-12
 
 # Partie législative
 
@@ -115529,21 +115529,455 @@ personne faisant l'objet de la mesure.
 
 ###### Article A43-6
 
+Conformément aux dispositions des articles R. 116-1 et R. 117, la valeur des coefficients Q 1 à Q 16 permettant de déterminer
+le tarif des expertises en matière de médecine légale est fixée dans le tableau ci-après : 
+
+<table>
+  <tbody>
+    <tr>
+      <td>
+
+COEFFICIENT 
+
+</td>
+      <td>
+
+VALEUR 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+Q 1 
+
+</td>
+      <td align="center">
+
+2, 5 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+Q 2 
+
+</td>
+      <td align="center">
+
+3, 5 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+Q 3 
+
+</td>
+      <td align="center">
+
+1, 5 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+Q 4 
+
+</td>
+      <td align="center">
+
+1, 5 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+Q 5 
+
+</td>
+      <td align="center">
+
+1, 5 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+Q 6 
+
+</td>
+      <td align="center">
+
+2 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+Q 7 
+
+</td>
+      <td align="center">
+
+2, 5 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+Q 8 
+
+</td>
+      <td align="center">
+
+1, 5 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+Q 9 
+
+</td>
+      <td align="center">
+
+6 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+Q 10 
+
+</td>
+      <td align="center">
+
+10 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+Q 11 
+
+</td>
+      <td align="center">
+
+3 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+Q 12 
+
+</td>
+      <td align="center">
+
+5 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+Q 13 
+
+</td>
+      <td align="center">
+
+5 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+Q 14 
+
+</td>
+      <td align="center">
+
+3, 5 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+Q 15 
+
+</td>
+      <td align="center">
+
+7, 5 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+Q 16 
+
+</td>
+      <td align="center">
+
+8
+
+</td>
+    </tr>
+  </tbody>
+</table>
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Arrêté du 2 septembre 2008 - art. 2
+
+	**Cite**:
+
+	  - Code de procédure pénale - art. R116-1
+	  - Code de procédure pénale - art. R117
+
+
+###### Article A43-7
+
+Conformément aux dispositions de l'article R. 122, la page de traduction par écrit est payée 25 euros.
+
+L'heure de traduction par oral est fixée à 25 euros. 
+
+Le tarif de base applicable est majoré dans les hypothèses et proportions suivantes : 
+
+1° De 40 % pour la première heure de traduction ; 
+
+2° De 25 % pour l'heure de traduction effectuée entre 22 heures et 7 heures ; 
+
+3° De 25 % pour l'heure de traduction effectuée le samedi, le dimanche et les jours fériés. 
+
+Ces majorations sont cumulables et chacune se calcule par référence au tarif de base.
+
+**Nota:**
+
+Arrêté du 2 septembre 2008 article 4 : A la date du 1er mars 2009, et pour les traductions réalisées sur réquisitions prises
+à compter de cette date, le deuxième alinéa de l'article A. 43-7 est ainsi rédigé :
+
+L'heure de traduction par oral est fixée à 30 euros. 
+
+Les coefficients fixés à l'article A. 43-7 sont applicables aux traductions réalisées sur réquisitions prises à compter de la
+date de publication de l'arrêté susvisé. (11 septembre 2008)
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Arrêté du 2 septembre 2008 - art. 2
+
+	**Cite**:
+
+	  - Code de procédure pénale - art. R122
+
+
+###### Article A43-8
+
+Conformément aux dispositions des articles R. 216 et R. 216-1, il est alloué aux personnes désignées en qualité
+d'administrateur ad hoc dans le cadre d'une procédure pénale des indemnités correspondant aux montants Iaah 1 à Iaah 11 qui
+sont fixés dans le tableau ci-après : 
+
+<table>
+  <tbody>
+    <tr>
+      <td>
+
+INDICE 
+
+</td>
+      <td>
+
+MONTANT 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+Iaah 1 
+
+</td>
+      <td align="center">
+
+175 euros 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+Iaah 2 
+
+</td>
+      <td align="center">
+
+250 euros 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+Iaah 3 
+
+</td>
+      <td align="center">
+
+450 euros 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+Iaah 4 
+
+</td>
+      <td align="center">
+
+125 euros 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+Iaah 5 
+
+</td>
+      <td align="center">
+
+100 euros 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+Iaah 6 
+
+</td>
+      <td align="center">
+
+300 euros 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+Iaah 7 
+
+</td>
+      <td align="center">
+
+75 euros 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+Iaah 8 
+
+</td>
+      <td align="center">
+
+100 euros 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+Iaah 9 
+
+</td>
+      <td align="center">
+
+100 euros 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+Iaah 10 
+
+</td>
+      <td align="center">
+
+300 euros 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+Iaah 11 
+
+</td>
+      <td align="center">
+
+50 euros
+
+</td>
+    </tr>
+  </tbody>
+</table>
+
+**Nota:**
+
+Conformément à l'article 4 de l'arrêté du 2 septembre 2008, les tarifs fixés à l'article A. 43-8 sont applicables aux
+missions réalisées sur réquisitions prises à compter de la date de publication de l'arrêté susvisé. (11 septembre 2008)
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Arrêté du 2 septembre 2008 - art. 2
+
+	**Cite**:
+
+	  - Code de procédure pénale - art. R216
+
+
+###### Article A43-9
+
 I.-Conformément aux dispositions de l'article R. 213-2, les réquisitions adressées dans les conditions prévues au présent
 code ayant pour objet les interceptions de communications de téléphonie donnent lieu à remboursement aux opérateurs de
 communications électroniques, sur facture et justificatifs, en appliquant à ces demandes, pour chacune des prestations
-demandées, le montant hors taxes des tarifs fixés dans le tableau annexé au présent arrêté.
+demandées, le montant hors taxes des tarifs fixés dans le tableau annexé au présent arrêté. 
 
 II.-Conformément aux dispositions de l'article R. 213-1, les réquisitions adressées dans les conditions prévues au présent
 code ayant pour objet la production et la fourniture des données mentionnées à l'article R. 10-13 du code des postes et des
 communications électroniques donnent lieu à remboursement aux opérateurs de communications électroniques, sur facture et
 justificatifs, en appliquant à ces réquisitions, pour chacune des prestations demandées, le montant hors taxe des tarifs
-fixés dans les tableaux annexés au présent article. 
+fixés dans les tableaux annexés au présent article.
 
 III.-Pour les prestations ne figurant pas dans les tableaux annexés, le montant du remboursement prévu aux I et II est
 déterminé sur devis. 
 
-Tarifs hors taxe applicables aux prestations requises aux opérateurs de téléphonie mobile
+Tarifs hors taxe applicables aux prestations requises aux opérateurs de téléphonie mobile 
 
 <table>
   <tbody>
@@ -115922,125 +116356,125 @@ d'un identifiant de téléphone (IMEI).
 </td>
       <td valign="top">
 
-17, 50
+17, 50 
 
 </td>
     </tr>
   </tbody>
 </table>
 
-Tarifs hors taxe applicables aux prestations requises aux opérateurs de téléphonie fixe
+Tarifs hors taxe applicables aux prestations requises aux opérateurs de téléphonie fixe 
 
 <table>
   <tbody>
     <tr>
       <td width="151">
 
-CATÉGORIES DE DONNÉES
+CATÉGORIES DE DONNÉES 
 
 </td>
       <td width="340">
 
-PRESTATIONS REQUISES
+PRESTATIONS REQUISES 
 
 </td>
       <td width="113">
 
-TARIFS
+TARIFS 
 
-(en euros)
+(en euros) 
 
 </td>
     </tr>
     <tr>
-      <td width="151" rowspan="12" valign="top">
+      <td valign="top" rowspan="12" width="151">
 
-Informations permettant d'identifier l'utilisateur.
+Informations permettant d'identifier l'utilisateur. 
 
 </td>
       <td width="340" valign="top">
 
 Identification en nombre d'abonnés, à partir de leur numéro (ad'appel vec ou sans coordonnées bancaires), demande copiable
-sous forme électronique. Prix par numéro d'appel avec un minimum de perception de 20 numéros.
+sous forme électronique. Prix par numéro d'appel avec un minimum de perception de 20 numéros. 
 
 </td>
       <td width="113">
 
-0,65
+0, 65 
 
 </td>
     </tr>
     <tr>
-      <td valign="top" width="340">
+      <td width="340" valign="top">
 
 Identification d'un abonné à partir de son numéro d'appel (avec ou sans coordonnées bancaires). Demande reçue sous forme
-papier, par fax ou sous forme électronique non copiable.
+papier, par fax ou sous forme électronique non copiable. 
 
 </td>
       <td width="113">
 
-8,50
+8, 50 
 
 </td>
     </tr>
     <tr>
       <td width="340" valign="top">
 
-Recherche et identification d'un abonné appelant derrière une tête de ligne ou un serveur.
+Recherche et identification d'un abonné appelant derrière une tête de ligne ou un serveur. 
 
 </td>
       <td width="113">
 
-Sur devis
+Sur devis 
 
 </td>
     </tr>
     <tr>
       <td valign="top" width="340">
 
-Identification d'un abonné à partir du patronyme ou de la raison sociale et filtre sur d'autres critères.
+Identification d'un abonné à partir du patronyme ou de la raison sociale et filtre sur d'autres critères. 
 
 </td>
       <td width="113">
 
-13,00
-
-</td>
-    </tr>
-    <tr>
-      <td width="340" valign="top">
-
-Identification d'un abonné à partir de l'adresse de son installation téléphonique.
-
-</td>
-      <td width="113">
-
-13,00
-
-</td>
-    </tr>
-    <tr>
-      <td width="340" valign="top">
-
-Identification d'un point de vente à partir d'une carte prépayée.
-
-</td>
-      <td width="113">
-
-17,50
+13, 00 
 
 </td>
     </tr>
     <tr>
       <td valign="top" width="340">
+
+Identification d'un abonné à partir de l'adresse de son installation téléphonique. 
+
+</td>
+      <td width="113">
+
+13, 00 
+
+</td>
+    </tr>
+    <tr>
+      <td width="340" valign="top">
+
+Identification d'un point de vente à partir d'une carte prépayée. 
+
+</td>
+      <td width="113">
+
+17, 50 
+
+</td>
+    </tr>
+    <tr>
+      <td width="340" valign="top">
 
 Recherche de numéros d'appel et identification d'un abonné à partir d'un moyen de paiement. Le coût de l'identification de
-l'abonné est inclus dans le tarif.
+l'abonné est inclus dans le tarif. 
 
 </td>
       <td width="113">
 
-17,50
+17, 50 
 
 </td>
     </tr>
@@ -116048,113 +116482,113 @@ l'abonné est inclus dans le tarif.
       <td valign="top" width="340">
 
 Identification d'un abonné et de ses moyens de paiement à partir d'un numéro d'appel. Le coût de l'identification de l'abonné
-est inclus dans le tarif.
+est inclus dans le tarif. 
 
 </td>
       <td width="113">
 
-17,50
-
-</td>
-    </tr>
-    <tr>
-      <td valign="top" width="340">
-
-Identification d'un abonné ADSL et de son fournisseur d'accès internet.
-
-</td>
-      <td width="113">
-
-8,50
-
-</td>
-    </tr>
-    <tr>
-      <td valign="top" width="340">
-
-Copie du contrat d'abonnement (fournie sous un mois).
-
-</td>
-      <td width="113">
-
-Tarif prévu par l'article R. 213 du code de procédure pénale
+17, 50 
 
 </td>
     </tr>
     <tr>
       <td width="340" valign="top">
 
-Copie des documents annexés au contrat d'abonnement (fournie sous un mois).
+Identification d'un abonné ADSL et de son fournisseur d'accès internet. 
 
 </td>
       <td width="113">
 
-Tarif prévu par l'article R. 213 du code de procédure pénale
+8, 50 
 
 </td>
     </tr>
     <tr>
       <td valign="top" width="340">
 
-Copie de factures (fournie sous un mois).
+Copie du contrat d'abonnement (fournie sous un mois). 
 
 </td>
       <td width="113">
 
-Tarif prévu par l'article R. 213 du code de procédure pénale
+Tarif prévu par l'article R. 213 du code de procédure pénale 
 
 </td>
     </tr>
     <tr>
-      <td width="151" rowspan="2" valign="top">
+      <td width="340" valign="top">
 
-Données relatives aux équipements terminaux utilisés.
+Copie des documents annexés au contrat d'abonnement (fournie sous un mois). 
+
+</td>
+      <td width="113">
+
+Tarif prévu par l'article R. 213 du code de procédure pénale 
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="340">
+
+Copie de factures (fournie sous un mois). 
+
+</td>
+      <td width="113">
+
+Tarif prévu par l'article R. 213 du code de procédure pénale 
+
+</td>
+    </tr>
+    <tr>
+      <td width="151" valign="top" rowspan="2">
+
+Données relatives aux équipements terminaux utilisés. 
 
 </td>
       <td width="340" valign="top">
 
-Identification des publiphones implantés dans une zone géographique donnée.
+Identification des publiphones implantés dans une zone géographique donnée. 
 
 </td>
       <td width="113">
 
-17,50
+17, 50 
 
 </td>
     </tr>
     <tr>
-      <td valign="top" width="340">
+      <td width="340" valign="top">
 
-Recherche d'un opérateur tiers à partir de son numéro de faisceau
+Recherche d'un opérateur tiers à partir de son numéro de faisceau 
 
 </td>
       <td width="113">
 
-13,00
+13, 00 
 
 </td>
     </tr>
     <tr>
       <td rowspan="2" width="151" valign="top">
 
-Caractéristiques techniques ainsi que la date, l'horaire et la durée de chaque communication.
+Caractéristiques techniques ainsi que la date, l'horaire et la durée de chaque communication. 
 
 </td>
-      <td valign="top" width="340">
+      <td width="340" valign="top">
 
-Détail des trafics d'un abonné sur une période indivisible d'un mois. L'identification de l'abonné est en sus.
+Détail des trafics d'un abonné sur une période indivisible d'un mois.L'identification de l'abonné est en sus. 
 
 </td>
       <td width="113">
 
-17,50
+17, 50 
 
 </td>
     </tr>
     <tr>
-      <td width="340" valign="top">
+      <td valign="top" width="340">
 
-Détail des trafics en relation avec un abonné d'un opérateur étranger.
+Détail des trafics en relation avec un abonné d'un opérateur étranger. 
 
 </td>
       <td width="113">
@@ -116170,15 +116604,60 @@ Sur devis
 
 	**Créé par**:
 
-	  - Arrêté du 4 juin 2008 - art. 1
-
-	**Transféré par**:
-
 	  - Arrêté du 2 septembre 2008 - art. 2
 
-	**Nouveaux textes**:
+	**Cite**:
 
-	  - CODE DE PROCEDURE PENALE - art. A43-9 (V)
+	  - Code des postes et des communications électroniques - art. R10-13
+	  - Code de procédure pénale - art. R213-1
+	  - Code de procédure pénale - art. R213-2
+
+	**Anciens textes**:
+
+	  - CODE DE PROCEDURE PENALE - art. A43-6 (T)
+
+
+###### Article A43-10
+
+Conformément aux dispositions de l'article 1210-3 du code de procédure civile, le montant de l'indemnité allouée à la
+personne désignée en qualité d'administrateur ad hoc dans le cadre d'une procédure civile est fixé à 200 euros. 
+
+Le montant de l'indemnité de carence est fixé à 50 euros.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Arrêté du 2 septembre 2008 - art. 3
+
+	**Cite**:
+
+	  - Code de procédure civile - art. 1210-3
+
+
+###### Article A43-11
+
+Conformément aux dispositions de l'article R. 111-20 du code de l'entrée et du séjour des étrangers et du droit d'asile, le
+montant des indemnités allouées à la personne désignée en qualité d'administrateur ad hoc dans le cadre d'une procédure de
+maintien en zone d'attente ou d'une procédure de demande d'asile est fixé ainsi qu'il suit : 
+
+150 euros pour l'indemnité prévue au 1° ; 
+
+150 euros pour l'indemnité prévue au 2° ; 
+
+150 euros pour l'indemnité prévue au 3°. 
+
+Le montant de l'indemnité de carence est fixé à 50 euros.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Arrêté du 2 septembre 2008 - art. 3
+
+	**Cite**:
+
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R111-20
 
 
 ### Titre XI : Le service pénitentiaire d'insertion et de probation
