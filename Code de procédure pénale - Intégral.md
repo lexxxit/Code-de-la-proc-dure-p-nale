@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 2008-09-12
+Version Consolidée au 2008-10-01
 
 # Partie législative
 
@@ -62877,22 +62877,18 @@ et donne lieu à la délivrance immédiate d'une quittance extraite du carnet à
 Si le montant de l'amende forfaitaire n'est pas acquitté dans les conditions prévues par l'article R. 49-2, le paiement est
 effectué soit par l'apposition sur la carte de paiement, dûment remplie, d'un timbre émis à cet effet par le ministre du
 budget, qui en établit le modèle et les modalités de délivrance, soit par l'envoi au comptable direct du Trésor d'un chèque
-joint à la carte de paiement, soit par l'utilisation de moyens de paiement à distance, selon des modalités fixées par arrêté
-du garde des sceaux, ministre de la justice, du ministère chargé du budget, du ministre chargé de l'intérieur et du ministre
-de la défense.
+joint à la carte de paiement, soit par télépaiement automatisé ou par timbre dématérialisé, selon des modalités fixées par
+arrêté du garde des sceaux, ministre de la justice, du ministère chargé du budget, du ministre chargé de l'intérieur et du
+ministre de la défense. 
 
 Un arrêté du ministre du budget fixe les conditions dans lesquelles les amendes forfaitaires peuvent être acquittées au moyen
 d'un chèque libellé à l'ordre du Trésor public.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Décret n°59-318 1959-02-23
-
 	**Modifié par**:
 
-	  - Décret n°2003-642 du 11 juillet 2003 - art. 3 () JORF 12 juillet 2003
+	  - Décret n°2008-764 du 30 juillet 2008 - art. 2
 
 	**Cité par**:
 
@@ -62902,6 +62898,36 @@ d'un chèque libellé à l'ordre du Trésor public.
 	  - Code de procédure pénale - art. A37-7 (V)
 	  - Code de procédure pénale - art. D45-8 (VD)
 	  - Code de procédure pénale - art. R49-17 (VD)
+
+	**Cite**:
+
+	  - Code de procédure pénale - art. R49-2
+
+
+###### Article R49-3-1
+
+Le paiement de l'amende forfaitaire ou de l'amende forfaitaire majorée peut également intervenir dans un délai de quinze
+jours par télépaiement automatisé ou par timbre dématérialisé, à l'issue des délais prévus par les articles 529-1, 529-8,
+529-9 et 530.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2008-764 du 30 juillet 2008 - art. 3
+
+	**Cite**:
+
+	  - Code de procédure pénale - art. 529-1
+	  - Code de procédure pénale - art. 529-8
+
+	**Cité par**:
+
+	  - Code de procédure pénale - art. A37-1 (V)
+	  - Code de procédure pénale - art. A37-13 (V)
+	  - Code de procédure pénale - art. A37-18 (VD)
+	  - Code de procédure pénale - art. A37-3 (VD)
+	  - Code de procédure pénale - art. A37-8 (VD)
 
 
 ###### Article R49-4
@@ -62972,7 +62998,10 @@ Le titre exécutoire, signé par l'officier du ministère public, est transmis a
 Le comptable direct du Trésor adresse au contrevenant un extrait du titre exécutoire le concernant sous forme d'avis
 l'invitant à s'acquitter du montant de l'amende forfaitaire majorée. Cet avis contient, pour chaque amende, les mentions
 prévues par le deuxième alinéa de l'article R. 49-5 et indique le délai et les modalités de la réclamation prévue par les
-deuxième et troisième alinéas de l'article 530.
+deuxième et troisième alinéas de l'article 530. 
+
+Il indique qu'en cas de paiement volontaire de l'amende forfaitaire majorée dans le délai d'un mois à compter de sa date
+d'envoi, le montant des sommes dues sera diminué de 20 %.
 
 **Liens relatifs à cet article**
 
@@ -62983,17 +63012,14 @@ deuxième et troisième alinéas de l'article 530.
 	  - Code de la route. - art. R322-16 (V)
 	  - Code de procédure pénale - art. A37-28 (VD)
 
-	**Codifié par**:
-
-	  - Décret n°59-318 1959-02-23
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°86-1044 du 18 septembre 1986 - art. 6 (V)
-
 	**Modifié par**:
 
-	  - Décret n°95-457 du 26 avril 1995 - art. 5 () JORF 28 avril 1995
+	  - Décret n°2008-764 du 30 juillet 2008 - art. 4
+
+	**Cite**:
+
+	  - Code de procédure pénale - art. 530
+	  - Code de procédure pénale - art. R49-5
 
 
 ###### Article R49-6-1
@@ -63502,31 +63528,37 @@ chargé du budget, du ministre chargé de l'intérieur et du ministre de la déf
 ###### Article R49-18
 
 Lorsqu'une consignation a été acquittée en application des dispositions de l'article 529-10, il est fait application des
-dispositions suivantes :
+dispositions suivantes : 
 
 Si la consignation n'est pas suivie d'une requête en exonération ou d'une réclamation formulée conformément aux dispositions
 des articles 529-2, 529-10 et 530, elle est considérée comme valant paiement de l'amende forfaitaire ou de l'amende
-forfaitaire majorée.
+forfaitaire majorée. 
 
 Si l'officier du ministère public classe sans suite la contravention, il notifie sa décision à l'auteur de la requête en
-exonération en l'informant que la consignation lui sera remboursée s'il en fait la demande au comptable du Trésor public.
+exonération en l'informant que la consignation lui sera remboursée s'il en fait la demande au comptable du Trésor public. 
 
 En cas de condamnation à une peine d'amende ou lorsque le prévenu est déclaré redevable de l'amende en application de
 l'article L. 121-3 du code de la route, la juridiction de jugement précise dans sa décision le montant de l'amende restant dû
-après déduction du montant de la consignation.
+après déduction du montant de la consignation. 
 
 En cas de décision de relaxe et s'il n'est pas fait application de l'article L. 121-3 du code de la route, la juridiction
-ordonne le remboursement de la consignation au prévenu si celui-ci en fait la demande au comptable du Trésor public.
+ordonne le remboursement de la consignation au prévenu si celui-ci en fait la demande au comptable du Trésor public. 
+
+Dans les cas prévus par les troisième et cinquième alinéas, un formulaire spécifique est alors adressé à la personne pour lui
+permettre d'être remboursée de sa consignation.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°59-318 1959-02-23
+	  - Décret n°2008-764 du 30 juillet 2008 - art. 5
 
-	**Créé par**:
+	**Cite**:
 
-	  - Décret n°2003-642 du 11 juillet 2003 - art. 3 () JORF 12 juillet 2003
+	  - Code de procédure pénale - art. 529-10
+	  - Code de procédure pénale - art. 529-2
+	  - Code de procédure pénale - art. 530
+	  - Code de la route. - art. L121-3
 
 
 ###### Article R49-19
@@ -66902,39 +66934,42 @@ police judiciaire qui procède à l'audition de la personne, par l'intermédiair
 ###### Article R55
 
 Les dispositions des articles 707-2 et 707-3 relatives à la diminution du montant des amendes en cas de paiement volontaire
-dans le délai d'un mois sont applicables :
+dans le délai d'un mois sont applicables : 
 
 1° Aux amendes prononcées par le tribunal de police, par la juridiction de proximité, par le tribunal pour enfants, par le
 tribunal correctionnel ou par la cour d'appel ainsi que par toute autre juridiction répressive à l'encontre d'une personne
 reconnue coupable d'une contravention ou d'un délit, qu'il s'agisse d'une décision contradictoire, d'une décision
-contradictoire à signifier, d'une décision par défaut ou d'une ordonnance pénale ;
+contradictoire à signifier, d'une décision par défaut ou d'une ordonnance pénale ; 
 
 2° Aux amendes prononcées par la cour d'assises à l'encontre d'une personne qui est uniquement condamnée pour une
-contravention ou un délit ;
+contravention ou un délit ; 
 
-3° Aux amendes homologuées selon la procédure de comparution sur reconnaissance préalable de culpabilité ;
+3° Aux amendes homologuées selon la procédure de comparution sur reconnaissance préalable de culpabilité ; 
 
 4° Aux jours-amendes, lorsque l'amende est payée dans le délai d'un mois prévu par l'article 707-2, indépendamment de la date
 d'exigibilité résultant de l'application des dispositions de l'article 131-25 du code pénal, qu'il s'agisse d'une décision
-contradictoire, d'une décision contradictoire à signifier ou d'une décision par défaut.
+contradictoire, d'une décision contradictoire à signifier ou d'une décision par défaut ; 
 
-Elles ne sont pas applicables :
+5° Aux amendes forfaitaires majorées. 
 
-1° Aux amendes de composition prévues par le 1° de l'article 41-2 ;
+Elles ne sont pas applicables : 
 
-2° Aux amendes forfaitaires prévues par les articles 529 et suivants ;
+1° Aux amendes de composition prévues par le 1° de l'article 41-2 ; 
+
+2° Aux amendes forfaitaires minorées ou aux amendes forfaitaires non majorées ; 
 
 3° Aux amendes douanières ou aux amendes fiscales.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Décret n°59-318 1959-02-03
-
 	**Modifié par**:
 
-	  - Décret n°2005-1099 du 2 septembre 2005 - art. 5 () JORF 4 septembre 2005
+	  - Décret n°2008-764 du 30 juillet 2008 - art. 6
+
+	**Cite**:
+
+	  - Code pénal - art. 131-25
+	  - Code de procédure pénale - art. 707-2
 
 	**Cité par**:
 
@@ -67126,22 +67161,17 @@ Cet avis est donné au plus tard le deuxième jour ouvrable suivant l'enregistre
 
 Si, à la suite de l'exercice d'une voie de recours, la personne qui s'est acquittée volontairement du paiement de l'amende
 demande la restitution des sommes versées conformément aux dispositions du troisième alinéa de l'article 707-2, cette demande
-doit être déposée auprès du comptable du Trésor du département dans le ressort duquel siège la juridiction ayant prononcé
-l'amende.
+doit être déposée auprès du comptable du Trésor compétent pour le recouvrement de l'amende.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2005-1099 du 2 septembre 2005 - art. 5 () JORF 4 septembre 2005
+	  - Décret n°2008-764 du 30 juillet 2008 - art. 7
 
 	**Cite**:
 
 	  - CODE DE PROCEDURE PENALE - art. 707-2 (V)
-
-	**Codifié par**:
-
-	  - Décret n°59-318 1959-02-03
 
 
 #### Chapitre II : De l'application des peines.
