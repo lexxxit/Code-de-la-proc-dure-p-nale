@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 2008-10-01
+Version Consolidée au 2008-10-08
 
 # Partie législative
 
@@ -64750,22 +64750,6 @@ le cas échéant, les formalités accomplies en vue du placement des sommes per�
 
 #### Chapitre II : Du fichier judiciaire national automatisé des auteurs d'infractions sexuelles.
 
-###### Article R53-8-1
-
-Le fichier judiciaire national automatisé des auteurs d'infractions sexuelles est tenu sous le contrôle du magistrat
-dirigeant le service du casier judiciaire, qui veille au respect des dispositions du présent chapitre.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°59-318 1959-02-23
-
-	**Créé par**:
-
-	  - Décret n°2005-627 du 30 mai 2005 - art. 1 () JORF 31 mai 2005 en vigueur le  30 juin 2005
-
-
 ##### Section 1 : Inscription dans le fichier
 
 ###### Article R53-8-2
@@ -64968,33 +64952,27 @@ enregistrements qui ne respectent pas les exigences légales.
 
 ###### Article R53-8-9
 
-L'information des personnes condamnées est faite conformément aux dispositions du présent article.
+L'information des personnes condamnées est faite conformément aux dispositions du présent article. 
 
 Lorsque la personne est présente à l'audience, l'information de son inscription dans le fichier et la notification de ses
 obligations est faite par le président de la juridiction ou le greffier ou la personne habilitée qu'il désigne. Toutefois, il
-n'est pas procédé à la notification des obligations en cas de placement ou de maintien en détention.
+n'est pas procédé à la notification des obligations en cas de placement ou de maintien en détention. 
 
 Lorsque la personne n'est pas présente à l'audience, cette information est faite, à la diligence du ministère public, par
-lettre recommandée adressée à sa dernière adresse déclarée.
+lettre recommandée adressée à sa dernière adresse déclarée. 
 
 Lorsque la personne exécute une peine privative de liberté en application de la condamnation ayant entraîné son inscription
 au fichier, cette information lui est donnée par le greffe de l'établissement pénitentiaire, au moment de sa libération
 définitive ou préalablement à la première mesure d'aménagement de sa peine entraînant la sortie de l'établissement
-pénitentiaire, autre qu'une permission de sortir.
+pénitentiaire, autre qu'une permission de sortir. 
 
 Dans tous les cas, il lui est remis contre récépissé ou adressé en annexe du courrier prévu au deuxième alinéa un document
 récapitulant ses obligations et précisant les conditions selon lesquelles il doit y être satisfait conformément aux
-dispositions des articles R. 53-8-13 à R. 53-8-15. Le modèle de ce document est fixé par le ministre de la justice.
+dispositions des articles R. 53-8-13 à R. 53-8-15. Ce document informe la personne inscrite dans le fichier que les
+administrations de l'Etat mentionnées à l'article R. 53-8-24 peuvent directement interroger le fichier en application du
+premier alinéa du 3° de l'article 706-53-7. Le modèle de ce document est fixé par le ministre de la justice.
 
 **Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°59-318 1959-02-23
-
-	**Créé par**:
-
-	  - Décret n°2005-627 du 30 mai 2005 - art. 1 () JORF 31 mai 2005 en vigueur le  30 juin 2005
 
 	**Cité par**:
 
@@ -65005,9 +64983,15 @@ dispositions des articles R. 53-8-13 à R. 53-8-15. Le modèle de ce document es
 	  - Code de procédure pénale - art. R53-8-12-1 (V)
 	  - Code de procédure pénale - art. R53-8-5 (V)
 
+	**Modifié par**:
+
+	  - Décret n°2008-1023 du 6 octobre 2008 - art. 4
+
 	**Cite**:
 
-	  - Code de procédure pénale R53-8-13 à R53-8-15
+	  - Code de procédure pénale - art. 706-53-7
+	  - Code de procédure pénale - art. R53-8-13
+	  - Code de procédure pénale - art. R53-8-24
 
 
 ###### Article R53-8-10
@@ -65143,31 +65127,31 @@ déjà tenu de justifier annuellement de son adresse.
 ###### Article R53-8-15
 
 Pour satisfaire à l'obligation de présentation visée au cinquième alinéa de l'article 706-53-5, le justificatif visé à
-l'article R. 53-8-13 est remis en personne par l'intéressé au groupement de gendarmerie départemental ou à la direction
-départementale de la sécurité publique dont dépend le domicile de l'intéressé ou au service désigné par la préfecture de
-police de Paris dans les autres cas, dans les quinze premiers jours du mois de la date anniversaire visée à l'article R.
-53-8-14 et dans les quinze premiers jours du sixième mois suivant.
+l'article R. 53-8-13 est remis en personne par l'intéressé soit au commissariat ou à l'unité de gendarmerie de son domicile,
+soit au groupement de gendarmerie départemental ou à la direction départementale de la sécurité publique dont dépend son
+domicile ou au service désigné par la préfecture de police de Paris dans les autres cas, dans les quinze premiers jours du
+mois de la date anniversaire visée à l'article R. 53-8-14 et dans les quinze premiers jours du sixième mois suivant. 
 
 Le justificatif est également remis en personne par l'intéressé dans les quinze jours suivant la date à laquelle la
 notification des obligations lui a été donnée ou adressée, sauf si cette notification intervient moins de deux mois avant le
 premier jour du mois anniversaire ou sauf si l'intéressé, en raison d'une précédente inscription dans le fichier, est déjà
-tenu à une obligation de présentation.
+tenu à une obligation de présentation. 
+
+Si le condamné est tenu à une obligation de présentation mensuelle, celle-ci doit intervenir dans les quinze premiers jours
+de chaque mois, le condamné devant produire le justificatif de son adresse à chaque présentation ; les dispositions du
+deuxième alinéa ne sont alors pas applicables.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°59-318 1959-02-23
-
-	**Créé par**:
-
-	  - Décret n°2005-627 du 30 mai 2005 - art. 1 () JORF 31 mai 2005 en vigueur le  30 juin 2005
+	  - Décret n°2008-1023 du 6 octobre 2008 - art. 5
 
 	**Cite**:
 
-	  - CODE DE PROCEDURE PENALE - art. 706-53-5 (M)
-	  - CODE DE PROCEDURE PENALE - art. R53-8-13 (V)
-	  - CODE DE PROCEDURE PENALE - art. R53-8-14 (V)
+	  - Code de procédure pénale - art. 706-53-5
+	  - Code de procédure pénale - art. R53-8-13
+	  - Code de procédure pénale - art. R53-8-14
 
 	**Cité par**:
 
@@ -65203,24 +65187,20 @@ ministère de l'intérieur l'avis prévu par les articles 706-53-8 et R. 53-8-25
 
 ###### Article R53-8-17
 
-L'obligation de présentation prévue par le cinquième alinéa de l'article 706-53-5 est exécutée, tous les six mois ou tous les
-ans selon les cas, dans les périodes déterminées en application des dispositions qui précèdent.
+L'obligation de présentation prévue par le cinquième alinéa de l'article 706-53-5 est exécutée, tous les mois, tous les six
+mois ou tous les ans selon les cas, dans les périodes déterminées en application des dispositions qui précèdent. 
 
 Cette obligation ne dispense pas la personne de déclarer ses éventuels changements d'adresse.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°59-318 1959-02-23
-
-	**Créé par**:
-
-	  - Décret n°2005-627 du 30 mai 2005 - art. 1 () JORF 31 mai 2005 en vigueur le  30 juin 2005
+	  - Décret n°2008-1023 du 6 octobre 2008 - art. 5
 
 	**Cite**:
 
-	  - CODE DE PROCEDURE PENALE - art. 706-53-5 (M)
+	  - Code de procédure pénale - art. 706-53-5
 
 
 ###### Article R53-8-18
@@ -65383,18 +65363,39 @@ procédure mentionnée au 2° de l'article 706-53-7 ou avisés conformément à 
 
 ###### Article R53-8-24
 
-Les préfets, ou les agents des préfectures spécialement habilités par eux à cette fin, ne peuvent interroger le fichier, en
-application de l'article 706-53-7, qu'à partir de l'identité de la personne intéressée par une demande d'agrément.
+I.-En application des dispositions du 3° de l'article 706-53-7, peuvent directement interroger le fichier, par un système de
+télécommunication sécurisé, à partir de la seule identité d'une personne ayant formé une demande de recrutement,
+d'affectation, d'autorisation, d'agrément ou d'habilitation concernant une activité ou une profession impliquant un contact
+avec des mineurs ou dont l'exercice d'une telle activité ou profession doit être contrôlé : 
+
+1° Les préfets ou les agents des préfectures spécialement habilités par eux à cette fin ; 
+
+2° Les chefs de services ou agents individuellement désignés et spécialement habilités par eux à cette fin des
+administrations de l'Etat suivantes : 
+
+a) La direction chargée de la gestion des ressources humaines du ministère chargé de l'éducation nationale et de
+l'enseignement supérieur ; 
+
+b) Les rectorats et les inspections académiques ; 
+
+c) La direction de la protection judiciaire de la jeunesse et ses directions régionales ; 
+
+d) La direction de l'administration pénitentiaire et les directions interrégionales des services pénitentiaires ; 
+
+e) Les directions départementales des affaires sanitaires et sociales ; 
+
+f) La direction de la jeunesse et de l'éducation populaire, la direction des sports et les directions régionales et
+départementales de la jeunesse et des sports ; 
+
+g) Les directions départementales du travail, de l'emploi et de la formation professionnelle. 
+
+II.-Les personnes mentionnées aux 1° et 2° du I indiquent le motif pour lequel elles interrogent le fichier.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°59-318 1959-02-23
-
-	**Créé par**:
-
-	  - Décret n°2005-627 du 30 mai 2005 - art. 1 () JORF 31 mai 2005 en vigueur le  30 juin 2005
+	  - Décret n°2008-1023 du 6 octobre 2008 - art. 3
 
 	**Cité par**:
 
@@ -65404,7 +65405,7 @@ application de l'article 706-53-7, qu'à partir de l'identité de la personne in
 
 	**Cite**:
 
-	  - CODE DE PROCEDURE PENALE - art. 706-53-7 (M)
+	  - Code de procédure pénale - art. 706-53-7
 
 
 ###### Article R53-8-25
@@ -65476,30 +65477,26 @@ personnes incarcérées pour les besoins du fichier tels que définis aux deux a
 ###### Article R53-8-27
 
 Le procureur de la République compétent, en application des dispositions de l'article 706-53-10, pour ordonner, à la demande
-de l'intéressé, la rectification ou l'effacement des informations figurant au fichier ou la limitation à un an de
-l'obligation de présentation est celui de la juridiction dans le ressort de laquelle ont été exercées les poursuites ayant
-donné lieu à cet enregistrement.
+de l'intéressé, la rectification ou l'effacement des informations figurant au fichier ou la limitation à six mois ou à un an
+de l'obligation de présentation est celui de la juridiction dans le ressort de laquelle ont été exercées les poursuites ayant
+donné lieu à cet enregistrement. 
 
 Si l'inscription résulte de l'application du 6° de l'article 706-53-2, le procureur de la République compétent, au sens de
-l'alinéa précédent, est celui du tribunal de grande instance de Nantes.
+l'alinéa précédent, est celui du tribunal de grande instance de Nantes. 
 
 La demande prévue par l'article 706-53-10 doit, à peine d'irrecevabilité, être adressée par lettre recommandée avec demande
 d'avis de réception ou effectuée par déclaration au greffe.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°59-318 1959-02-23
-
-	**Créé par**:
-
-	  - Décret n°2005-627 du 30 mai 2005 - art. 1 () JORF 31 mai 2005 en vigueur le  30 juin 2005
+	  - Décret n°2008-1023 du 6 octobre 2008 - art. 5
 
 	**Cite**:
 
-	  - CODE DE PROCEDURE PENALE - art. 706-53-10 (M)
-	  - CODE DE PROCEDURE PENALE - art. 706-53-2 (M)
+	  - Code de procédure pénale - art. 706-53-10
+	  - Code de procédure pénale - art. 706-53-2
 
 
 ###### Article R53-8-28
@@ -65754,6 +65751,36 @@ informatique sécurisé.
 
 	  - Décret n°2005-627 du 30 mai 2005 - art. 1 () JORF 31 mai 2005 en vigueur le  30 juin 2005
 
+
+#### Chapitre II : Du fichier judiciaire national automatisé des auteurs d'infractions sexuelles ou violentes
+
+###### Article R53-8-1
+
+Le fichier judiciaire national automatisé des auteurs d'infractions sexuelles ou violentes est tenu sous le contrôle du
+magistrat dirigeant le service du casier judiciaire, qui veille au respect des dispositions du présent chapitre.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°2008-1023 du 6 octobre 2008 - art. 2
+
+
+##### Section 1 : Inscription dans le fichier
+
+##### Section 2 : Information de la personne inscrite dans le fichier
+
+##### Section 3 : Obligations incombant à la personne inscrite dans le fichier
+
+##### Section 4 : Interrogation du fichier et information directe du ministère de l'intérieur
+
+##### Section 5 : Demande de rectification, d'effacement ou de limitation de l'obligation de présentation
+
+##### Section 6 : Conservation de la trace des interrogations et consultations
+
+##### Section 7 : Effacement des données inscrites dans le fichier
+
+##### Section 8 : Dispositions communes
 
 ### Titre XX : Du fichier national automatisé des empreintes génétiques et du service central de préservation des prélèvements biologiques
 
@@ -70385,61 +70412,55 @@ Nouvelle-Calédonie.
 
 ###### Article R70
 
-Les fiches du casier judiciaire national automatisé sont effacées dans les cas suivants :
+Les fiches du casier judiciaire national automatisé sont effacées dans les cas suivants : 
 
 1° Au décès du titulaire de la fiche, établi notamment par la mention portée au registre de l'état civil des naissances en
 application de l'article 79 du code civil ou, lorsque le décès ne serait pas parvenu à la connaissance du service du casier
-judiciaire national automatisé, quand le titulaire aurait atteint l'âge de cent ans ;
+judiciaire national automatisé, quand le titulaire aurait atteint l'âge de cent ans ; 
 
-2° Lorsque la condamnation mentionnée sur la fiche a été entièrement effacée par l'amnistie, la réhabilitation ou lorsque
-sont expirés le délai de quarante ans prévu par le deuxième alinéa de l'article 769 ou les délais prévus par les 1°, 3°, 4°
-et 5° de cet article ;
+2° Lorsque la condamnation mentionnée sur la fiche a été entièrement effacée par l'amnistie ou lorsque sont expirés le délai
+de quarante ans prévu par le deuxième alinéa de l'article 769 ou les délais prévus par les 1°, 4° et 5° de cet article ; 
 
 3° Lorsque l'intéressé a obtenu une décision de rectification du casier judiciaire, le retrait se fait, selon le cas, à la
-diligence du procureur général ou du procureur de la République près la juridiction qui a statué ;
+diligence du procureur général ou du procureur de la République près la juridiction qui a statué ; 
 
 4° Lorsque le condamné fait opposition ou lorsque la Cour de cassation annule la décision par application des articles 620 ou
 625, le retrait se fait sur ordre du procureur général ou du procureur de la République près la juridiction qui a rendu la
-décision devenue caduque ; il en est de même dans le cas prévu par l'article 498-1. ;
+décision devenue caduque ; il en est de même dans le cas prévu par l'article 498-1. ; 
 
 5° Pour les fiches relatives aux compositions pénales visées au 6° de l'article 769, à l'expiration d'un délai de trois ans,
 si l'intéressé n'a pas pendant ce délai, subi de condamnation à une peine criminelle ou correctionnelle ou exécuté une
 composition pénale ; dans le cas contraire, la fiche n'est retirée qu'à l'effacement de la fiche relative à cette
-condamnation ou la nouvelle composition pénale ;
+condamnation ou la nouvelle composition pénale ; 
 
 6° Pour les fiches prévues par le 7° de l'article 769, à l'expiration d'un délai de trois ans, si l'intéressé n'a pas,
 pendant ce délai, soit subi de condamnation à une peine criminelle ou correctionnelle ou exécuté une composition pénale, soit
 fait l'objet d'une nouvelle mesure prononcée en application des dispositions précitées de ladite ordonnance ; dans le cas
 contraire, la fiche n'est retirée qu'à l'effacement de la fiche relative à cette condamnation ou à la nouvelle composition
-pénale ;
+pénale ; 
 
 7° Lorsque le tribunal pour enfants a décidé la suppression de la fiche en application de l'article 770, le retrait se fait à
-la diligence du ministère public près le tribunal pour enfants qui a rendu cette décision.
+la diligence du ministère public près le tribunal pour enfants qui a rendu cette décision ; 
 
-**Nota:**
-
-Décret 2005-627 du 31 mai 2005 art. 10 : Outre son application de plein droit à Mayotte en vertu du 5° du I de l'article 3 de
-la loi du 11 juillet 2001, le présent décret est applicable en Polynésie française, dans les îles Wallis et Futuna et en
-Nouvelle-Calédonie.
+8° Lorsque la juridiction a expressément ordonné, en application des dispositions de l'article 798 ou de l'article 798-1, la
+suppression du casier judiciaire d'une condamnation ayant fait l'objet d'une réhabilitation.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Décret n°59-318 1959-02-23
-
 	**Modifié par**:
 
-	  - Décret n°2005-627 du 30 mai 2005 - art. 7 () JORF 31 mai 2005 en vigueur le  1er septembre 2005
+	  - Décret n°2008-1023 du 6 octobre 2008 - art. 6
 
 	**Cite**:
 
-	  - Code civil - art. 79 (V)
-	  - CODE DE PROCEDURE PENALE - art. 498-1 (M)
-	  - CODE DE PROCEDURE PENALE - art. 620 (V)
-	  - CODE DE PROCEDURE PENALE - art. 625 (M)
-	  - CODE DE PROCEDURE PENALE - art. 769 (M)
-	  - CODE DE PROCEDURE PENALE - art. 770 (V)
+	  - Code civil - art. 79
+	  - Code de procédure pénale - art. 498-1
+	  - Code de procédure pénale - art. 620
+	  - Code de procédure pénale - art. 625
+	  - Code de procédure pénale - art. 769
+	  - Code de procédure pénale - art. 770
+	  - Code de procédure pénale - art. 798
+	  - Code de procédure pénale - art. 798-1
 
 	**Cité par**:
 
