@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 2008-10-08
+Version Consolidée au 2008-10-11
 
 # Partie législative
 
@@ -64748,7 +64748,19 @@ le cas échéant, les formalités accomplies en vue du placement des sommes per�
 	  - Code de procédure pénale - art. 706-50 (V)
 
 
-#### Chapitre II : Du fichier judiciaire national automatisé des auteurs d'infractions sexuelles.
+#### Chapitre II : Du fichier judiciaire national automatisé des auteurs d'infractions sexuelles ou violentes
+
+###### Article R53-8-1
+
+Le fichier judiciaire national automatisé des auteurs d'infractions sexuelles ou violentes est tenu sous le contrôle du
+magistrat dirigeant le service du casier judiciaire, qui veille au respect des dispositions du présent chapitre.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°2008-1023 du 6 octobre 2008 - art. 2
+
 
 ##### Section 1 : Inscription dans le fichier
 
@@ -65751,36 +65763,6 @@ informatique sécurisé.
 
 	  - Décret n°2005-627 du 30 mai 2005 - art. 1 () JORF 31 mai 2005 en vigueur le  30 juin 2005
 
-
-#### Chapitre II : Du fichier judiciaire national automatisé des auteurs d'infractions sexuelles ou violentes
-
-###### Article R53-8-1
-
-Le fichier judiciaire national automatisé des auteurs d'infractions sexuelles ou violentes est tenu sous le contrôle du
-magistrat dirigeant le service du casier judiciaire, qui veille au respect des dispositions du présent chapitre.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Décret n°2008-1023 du 6 octobre 2008 - art. 2
-
-
-##### Section 1 : Inscription dans le fichier
-
-##### Section 2 : Information de la personne inscrite dans le fichier
-
-##### Section 3 : Obligations incombant à la personne inscrite dans le fichier
-
-##### Section 4 : Interrogation du fichier et information directe du ministère de l'intérieur
-
-##### Section 5 : Demande de rectification, d'effacement ou de limitation de l'obligation de présentation
-
-##### Section 6 : Conservation de la trace des interrogations et consultations
-
-##### Section 7 : Effacement des données inscrites dans le fichier
-
-##### Section 8 : Dispositions communes
 
 ### Titre XX : Du fichier national automatisé des empreintes génétiques et du service central de préservation des prélèvements biologiques
 
@@ -87363,6 +87345,42 @@ pluridisciplinaire des mesures de sûreté mentionnés aux 4°, 5°, 6° et 7° 
 
 	  - Code de procédure pénale - art. R61-8 (V)
 	  - Code de l'organisation judiciaire - art. R*522-10 (Ab)
+
+
+###### Article D48-5-3
+
+Le procureur de la République ne peut ramener à exécution une peine d'emprisonnement ferme prononcée par le tribunal pour
+enfants, que celui-ci ait ou non ordonné l'exécution provisoire de sa décision conformément à l'article 22 de l'ordonnance n°
+45-174 du 2 février 1945 relative à l'enfance délinquante, qu'après s'être fait présenter le mineur, après application, s'il
+y a lieu, des dispositions de l'article 716-5. 
+
+Après avoir vérifié son identité et lui avoir notifié la condamnation dont il fait l'objet, ce magistrat remplit la notice
+prévue par l'article D. 55-1 puis fait procéder à l'incarcération du mineur. 
+
+Les dispositions du présent article ne sont pas applicables lorsque la mise à exécution de la peine intervient immédiatement
+à l'issue de l'audience. 
+
+Elles ne sont également pas applicables lorsque, conformément aux dispositions des articles 723-15 et D. 49-35, l'extrait de
+la décision doit être adressé au juge des enfants pour que ce dernier détermine les modalités d'exécution de la peine et
+propose le cas échéant une mesure d'aménagement.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Ordonnance n°45-174 du 2 février 1945 - art. 22
+	  - CODE DE PROCEDURE PENALE - art. D49-35 (V)
+	  - Code de procédure pénale - art. 716-5
+	  - Code de procédure pénale - art. 723-15
+	  - Code de procédure pénale - art. D55-1
+
+	**Créé par**:
+
+	  - Décret n°2008-1040 du 9 octobre 2008 - art. 1
+
+	**Liens**:
+
+	  - RECTIFICATION: Décret n°2008-1040 du 9 octobre 2008 (rectificatif)
 
 
 #### Chapitre II : De l'émission et de l'exécution des sanctions pécuniaires en application de la décision-cadre du Conseil de l'Union européenne du 24 février 2005
