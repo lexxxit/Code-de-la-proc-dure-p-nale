@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 2008-10-11
+Version Consolidée au 2008-11-01
 
 # Partie législative
 
@@ -63353,25 +63353,31 @@ quittance, dont le modèle est fixé par arrêté du ministre chargé du budget.
 Si l'amende forfaitaire n'est pas acquittée dans les conditions prévues à l'alinéa ci-dessus, le paiement est effectué soit
 par l'apposition d'un timbre-amende sur la carte de paiement dûment remplie et renvoyée au service verbalisateur dans les
 délais prévus par l'article 529-8, soit par l'envoi dans ces mêmes délais au comptable du Trésor d'un chèque joint à la carte
-de paiement, soit par l'utilisation de moyens de paiement à distance, selon des modalités fixées par arrêté du garde des
+de paiement, soit par télépaiement automatisé ou par timbre dématérialisé, selon des modalités fixées par arrêté du garde des
 sceaux, ministre de la justice, du ministre chargé du budget, du ministre chargé de l'intérieur et du ministre de la défense.
 
 Un arrêté du ministre du budget fixe les conditions dans lesquelles les amendes forfaitaires minorées peuvent être acquittées
 au moyen d'un chèque libellé à l'ordre du Trésor public.
 
+**Nota:**
+
+Décret n° 2008-764 du 30 juillet 2008 article 15 I : Les dispositions de la section I du chapitre Ier du présent décret
+entrent en vigueur le premier jour du troisième mois suivant sa publication et s'appliquent à l'amende forfaitaire ou à
+l'amende forfaitaire majorée émises à compter de cette date.
+
 **Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°59-318 1959-02-23
 
 	**Modifié par**:
 
-	  - Décret n°2007-1388 du 26 septembre 2007 - art. 12 () JORF 28 septembre 2007
+	  - Décret n°2008-764 du 30 juillet 2008 - art. 2
 
 	**Cité par**:
 
 	  - Décret n°2014-551 du 27 mai 2014 - art. 62 (V)
+
+	**Cite**:
+
+	  - Code de procédure pénale - art. 529-8
 
 
 ###### Article R49-12
