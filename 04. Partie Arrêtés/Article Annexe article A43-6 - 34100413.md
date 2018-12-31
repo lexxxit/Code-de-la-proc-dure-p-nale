@@ -34,17 +34,17 @@ INDEMNITÉ COMPLÉMENTAIRE
 1° Médecine du vivant 
 
 </td>
-      <td align="left"> </td>
-      <td align="left"> </td>
-      <td> </td>
-    </tr>
+      <td align="left">
+      </td><td align="left">
+      </td><td>
+    </td></tr>
     <tr>
       <td>
 
 a) Pour une visite judiciaire comportant un ou plusieurs examens et le dépôt d'un rapport 
 
 </td>
-      <td align="left" valign="middle">
+      <td valign="middle" align="left">
 
 C 
 
@@ -54,8 +54,8 @@ C
 2,5 
 
 </td>
-      <td valign="middle"> </td>
-    </tr>
+      <td valign="middle">
+    </td></tr>
     <tr>
       <td>
 
@@ -63,18 +63,18 @@ b) Pour une visite judiciaire comportant un ou plusieurs examens d'une victime, 
 d'un rapport 
 
 </td>
-      <td align="left" valign="middle">
+      <td valign="middle" align="left">
 
 C 
 
 </td>
-      <td valign="middle" align="left">
+      <td align="left" valign="middle">
 
 3,5 
 
 </td>
-      <td valign="middle"> </td>
-    </tr>
+      <td valign="middle">
+    </td></tr>
     <tr>
       <td>
 
@@ -84,10 +84,10 @@ prévus par l'article R. 235-6 du code de la route, ainsi que le recueil de liqu
 prévus par l'article R. 235-4 du même code :
 
 </td>
-      <td valign="middle" align="left"> </td>
-      <td valign="middle" align="left"> </td>
-      <td valign="middle"> </td>
-    </tr>
+      <td align="left" valign="middle">
+      </td><td align="left" valign="middle">
+      </td><td valign="middle">
+    </td></tr>
     <tr>
       <td>
 
@@ -99,25 +99,25 @@ prévus par l'article R. 235-4 du même code :
 C 
 
 </td>
-      <td align="left" valign="middle">
+      <td valign="middle" align="left">
 
 1,5
 
 </td>
-      <td valign="middle"> </td>
-    </tr>
+      <td valign="middle">
+    </td></tr>
     <tr>
       <td>
 
 - auxquels il est procédé entre 22 heures et 7 heures ; 
 
 </td>
-      <td align="left" valign="middle">
+      <td valign="middle" align="left">
 
 C 
 
 </td>
-      <td align="left" valign="middle">
+      <td valign="middle" align="left">
 
 1,5 
 
@@ -137,7 +137,7 @@ dans les îles Wallis et Futuna
 - auxquels il est procédé les dimanches et jours fériés ; 
 
 </td>
-      <td valign="middle" align="left">
+      <td align="left" valign="middle">
 
 C 
 
@@ -164,10 +164,10 @@ fourni par le praticien requis, les honoraires prévus au c ci-dessus sont augme
 d'acquisition de ce matériel sans pouvoir excéder 25 euros 
 
 </td>
-      <td align="left" valign="middle"> </td>
-      <td align="left" valign="middle"> </td>
-      <td valign="middle"> </td>
-    </tr>
+      <td align="left" valign="middle">
+      </td><td align="left" valign="middle">
+      </td><td valign="middle">
+    </td></tr>
     <tr>
       <td>
 
@@ -179,23 +179,23 @@ d) Pour chaque examen prévu par l'article 706-88 du code de procédure pénale
 C 
 
 </td>
-      <td valign="middle" align="left">
+      <td align="left" valign="middle">
 
 2 
 
 </td>
-      <td valign="middle"> </td>
-    </tr>
+      <td valign="middle">
+    </td></tr>
     <tr>
       <td>
 
 2° Autopsies 
 
 </td>
-      <td align="left" valign="middle"> </td>
-      <td valign="middle" align="left"> </td>
-      <td valign="middle"> </td>
-    </tr>
+      <td align="left" valign="middle">
+      </td><td valign="middle" align="left">
+      </td><td valign="middle">
+    </td></tr>
     <tr>
       <td>
 
@@ -212,26 +212,26 @@ C
 2,5 
 
 </td>
-      <td valign="middle"> </td>
-    </tr>
+      <td valign="middle">
+    </td></tr>
     <tr>
       <td>
 
 b) Pour une autopsie avant inhumation 
 
 </td>
-      <td valign="middle" align="left">
+      <td align="left" valign="middle">
 
 CS 
 
 </td>
-      <td align="left" valign="middle">
+      <td valign="middle" align="left">
 
 6 
 
 </td>
-      <td valign="middle"> </td>
-    </tr>
+      <td valign="middle">
+    </td></tr>
     <tr>
       <td>
 
@@ -248,26 +248,26 @@ CS
 10 
 
 </td>
-      <td valign="middle"> </td>
-    </tr>
+      <td valign="middle">
+    </td></tr>
     <tr>
       <td>
 
 d) Pour une autopsie de cadavre de nouveau-né avant inhumation 
 
 </td>
-      <td align="left" valign="middle">
+      <td valign="middle" align="left">
 
 CS 
 
 </td>
-      <td valign="middle" align="left">
+      <td align="left" valign="middle">
 
 3 
 
 </td>
-      <td valign="middle"> </td>
-    </tr>
+      <td valign="middle">
+    </td></tr>
     <tr>
       <td>
 
@@ -275,18 +275,18 @@ e) Pour une autopsie de cadavre de nouveau-né après exhumation ou une autopsie
 décomposition avancée 
 
 </td>
-      <td align="left" valign="middle">
+      <td valign="middle" align="left">
 
 CS 
 
 </td>
-      <td valign="middle" align="left">
+      <td align="left" valign="middle">
 
 5 
 
 </td>
-      <td valign="middle"> </td>
-    </tr>
+      <td valign="middle">
+    </td></tr>
   </tbody>
 </table>
 
@@ -319,23 +319,23 @@ COEFFICIENT
 1° Pour une expertise psychiatrique comportant un ou plusieurs examens 
 
 </td>
-      <td align="left"> </td>
-      <td align="left"> </td>
-    </tr>
+      <td align="left">
+      </td><td align="left">
+    </td></tr>
     <tr>
       <td>
 
 a) Acte réalisé par un médecin visé au 3° de l'article D. 311-1 du code de la sécurité sociale. 
 
 </td>
-      <td valign="middle" align="center">
+      <td align="center" valign="middle">
 
 CNPSY 
 
 </td>
-      <td align="center" valign="middle">
+      <td valign="middle" align="center">
 
-8 
+10 
 
 </td>
     </tr>
@@ -345,12 +345,12 @@ CNPSY
 b) Acte réalisé par un médecin ne relevant pas du a 
 
 </td>
-      <td align="center" valign="middle">
+      <td valign="middle" align="center">
 
 CNPSY 
 
 </td>
-      <td valign="middle" align="center">
+      <td align="center" valign="middle">
 
 11 
 
@@ -363,9 +363,9 @@ CNPSY
 pour infraction sexuelle ou une victime d'une telle infraction 
 
 </td>
-      <td align="left"> </td>
-      <td align="left"> </td>
-    </tr>
+      <td align="left">
+      </td><td align="left">
+    </td></tr>
     <tr>
       <td>
 
@@ -377,9 +377,9 @@ a) Acte réalisé par un médecin visé au 3° de l'article D. 311-1 du code de 
 CNPSY 
 
 </td>
-      <td align="center" valign="middle">
+      <td valign="middle" align="center">
 
-8,5 
+10,5 
 
 </td>
     </tr>
@@ -432,23 +432,23 @@ COEFFICIENT
 1° Pour une expertise psychologique comportant un ou plusieurs examens 
 
 </td>
-      <td valign="middle" align="left"> </td>
-      <td valign="middle" align="left"> </td>
-    </tr>
+      <td align="left" valign="middle">
+      </td><td valign="middle" align="left">
+    </td></tr>
     <tr>
       <td>
 
 a) Acte réalisé par une personne visée au 3° de l'article D. 311-1 du code de la sécurité sociale 
 
 </td>
-      <td align="center" valign="middle">
+      <td valign="middle" align="center">
 
 CNPSY 
 
 </td>
       <td valign="middle" align="center">
 
-6,5 
+8,5 
 
 </td>
     </tr>
@@ -476,9 +476,9 @@ CNPSY
 qualité de psychologue, intervenant en qualité d'expert unique 
 
 </td>
-      <td align="left"> </td>
-      <td align="left"> </td>
-    </tr>
+      <td align="left">
+      </td><td align="left">
+    </td></tr>
     <tr>
       <td>
 
@@ -490,9 +490,9 @@ a) Acte réalisé par un médecin visé au 3° de l'article D. 311-1 du code de 
 CNPSY 
 
 </td>
-      <td valign="middle" align="center">
+      <td align="center" valign="middle">
 
-6,5 
+8,5 
 
 </td>
     </tr>
@@ -507,7 +507,7 @@ b) Acte réalisé par un médecin ne relevant pas du a
 CNPSY 
 
 </td>
-      <td align="center" valign="middle">
+      <td valign="middle" align="center">
 
 9,5 
 
@@ -520,12 +520,12 @@ CNPSY
 qualité d'expert distinct 
 
 </td>
-      <td align="center" valign="middle">
+      <td valign="middle" align="center">
 
 C 
 
 </td>
-      <td valign="middle" align="center">
+      <td align="center" valign="middle">
 
 3,5 
 
@@ -538,23 +538,23 @@ C
 qualité d'expert distinct 
 
 </td>
-      <td align="left" valign="middle"> </td>
-      <td align="left" valign="middle"> </td>
-    </tr>
+      <td align="left" valign="middle">
+      </td><td align="left" valign="middle">
+    </td></tr>
     <tr>
       <td>
 
 a) Acte réalisé par une personne visé au 3° de l'article D. 311-1 du code de la sécurité sociale 
 
 </td>
-      <td valign="middle" align="center">
+      <td align="center" valign="middle">
 
 CNPSY 
 
 </td>
-      <td valign="middle" align="center">
+      <td align="center" valign="middle">
 
-6,5 
+8,5 
 
 </td>
     </tr>
@@ -569,7 +569,7 @@ b) Acte réalisé par une personne ne relevant pas du a
 CNPSY 
 
 </td>
-      <td valign="middle" align="center">
+      <td align="center" valign="middle">
 
 9,5 
 
@@ -607,7 +607,7 @@ COEFFICIENT
 1° Pour la localisation d'un corps étranger dans un cadavre 
 
 </td>
-      <td align="center" valign="middle">
+      <td valign="middle" align="center">
 
 Z 
 
@@ -624,7 +624,7 @@ Z
 2° Pour la localisation d'un corps étranger dans un cadavre putréfié 
 
 </td>
-      <td align="center" valign="middle">
+      <td valign="middle" align="center">
 
 Z 
 
@@ -640,9 +640,9 @@ Z
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Arrêté du 27 février 2017 - art.
+	  - Arrêté du 27 février 2017 - art. 4 (V)
 
 	**Cite**:
 
